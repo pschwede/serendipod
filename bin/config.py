@@ -2,7 +2,7 @@
 
 PROJECT_NAME = "serendipod"
 VERSION = '0.0.2'
-URL_FYYD = 'https://fyyd.de/newest/0'
+URL_FYYD = 'https://fyyd.de/discover/hot'
 URL_CHANNEL_IMAGE = ''
 RE_TITLE_FILTER = r'^Podcast'
 RE_FOOTNOTE = r'\([0-9]+\)$'
@@ -13,7 +13,7 @@ TEMPLATE_STRING = """<?xml version="1.0" encoding="utf-8"?>
             <link>{{ link }}</link>
             <atom:link href="https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss" rel="self" type="application/rss+xml" />
             <description>{{ description|e }}</description>
-            {% if image %}<image><title>title</title><url>{{ image }}</url></image>{% endif %}
+            {% if image %}<image><title>{{ title }}</title><url>{{ image }}</url><link>https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss</link></image>{% endif %}
             <language>{{ language|d('de-de') }}</language>
             <copyright>{{ copyright }}</copyright>
             <generator>{{ generator }} {{ version }}</generator>
