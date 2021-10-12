@@ -68,7 +68,7 @@ def pick_fyyd_feed(url:str, num_results:int = 10) -> List[Dict]:
         entries.append({
             'title': html.unescape(content['episode']['title']),
             'description': content['episode']['description'] + "\nFeed: " + content['podcast']['feed'],
-            'link': [content['episode']['url'],
+            'link': content['episode']['url'],
             'url': [content['episode']['media'][k] for k in content['episode']['media']][0],
             'guid': content['episode']['url'],
             'pubDate': '',
