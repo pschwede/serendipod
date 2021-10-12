@@ -22,8 +22,7 @@ TEMPLATE_STRING = """<?xml version="1.0" encoding="utf-8"?>
                 <description>{{ entry['description']|e }}</description>
                 <pubDate>{{ entry['pubDate'] }}</pubDate>
                 <link>{{ entry['link'] }}</link>
-                <enclosure type="audio/mp3" url="{{ entry['url'] }}"/>
-                <guid isPermalink="false">{{ entry['guid'] }}</guid>
+                <guid isPermalink="true">{{ entry['guid'] }}</guid>
                 {% if source %}<source>{{ source }}</source>{% endif %}
             </item>{% endfor %}
         </channel>
