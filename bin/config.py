@@ -20,7 +20,7 @@ TEMPLATE_STRING = """<?xml version="1.0" encoding="utf-8"?>
             {% for entry in entries %}<item>
                 <title>{{ entry['title']|e }}</title>
                 <description>{{ entry['description']|e }}</description>
-                <pubDate>{{ entry['pubDate'] }}</pubDate>
+                {% if pubDate %}<pubDate>{{ entry['pubDate'] }}</pubDate>{% endif %}
                 <link>{{ entry['link'] }}</link>
                 <guid isPermalink="true">{{ entry['guid'] }}</guid>
                 {% if source %}<source>{{ source }}</source>{% endif %}
