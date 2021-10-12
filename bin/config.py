@@ -7,7 +7,7 @@ URL_CHANNEL_IMAGE = ''
 RE_TITLE_FILTER = r'^Podcast'
 RE_FOOTNOTE = r'\([0-9]+\)$'
 TEMPLATE_STRING = """<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
         <channel>
             <title>{{ title|e }}</title>
             <link>{{ link }}</link>
@@ -20,9 +20,10 @@ TEMPLATE_STRING = """<?xml version="1.0" encoding="utf-8"?>
             {% for entry in entries %}<item>
                 <title>{{ entry['title']|e }}</title>
                 <description>{{ entry['description']|e }}</description>
-                {% if pubDate %}<pubDate>{{ entry['pubDate'] }}</pubDate>{% endif %}
+                {% if entry['pubDate'] %}<pubDate>{{ entry['pubDate'] }}</pubDate>{% endif %}
+                {% if entry['image'] %}<itunes:image href="{ entry['image'] }/>{% endif %}
                 <link>{{ entry['link'] }}</link>
-                <guid isPermalink="true">{{ entry['guid'] }}</guid>
+                <guid>{{ entry['guid'] }}</guid>
                 {% if source %}<source>{{ source }}</source>{% endif %}
             </item>{% endfor %}
         </channel>
