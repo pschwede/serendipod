@@ -12,7 +12,7 @@ TEMPLATE_STRING = """<?xml version="1.0" encoding="utf-8"?>
             <title>{{ title|e }}</title>
             <link>{{ link }}</link>
             <description>{{ description|e }}</description>
-            <image>{{ image }}</image>
+            {% if image %}<image>{{ image }}</image>{% endif %}
             <language>{{ language|d('de-de') }}</language>
             <copyright>{{ copyright }}</copyright>
             <generator>{{ generator }} {{ version }}</generator>
