@@ -80,9 +80,9 @@ def pick_fyyd_feed(url:str, num_results:int = 10) -> List[Dict]:
 def main(outpath: str) -> int:
     translated = pick_fyyd_feed(URL_FYYD)
     composed = Template(TEMPLATE_STRING).render( \
-            title='Das Ohr ist der Weg',
-            link="https://reddit.com/r/DasOhrIstDerWeg",
-            description='Gekratzt von r/DasOhrIstDerWeg',
+            title='Serendipod',
+            link="https://github.com/pschwede/serendipod",
+            description='Scraped from https://fyyd.de',
             image=URL_CHANNEL_IMAGE,
             generator=PROJECT_NAME,
             version=VERSION,
