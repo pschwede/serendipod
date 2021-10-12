@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
         <channel>
             <title>Serendipod</title>
             <link>https://github.com/pschwede/serendipod</link>
+            <atom:link href="https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss" rel="self" type="application/rss+xml" />
             <description>Scraped from https://fyyd.de</description>
             
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Wed, 13 Oct 2021 00:03:18 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 13 Oct 2021 00:05:48 +0200</lastBuildDate>
             <item>
                 <title>Episode 56: There&#39;s No Shame, Babe (Ft. Jaymie &amp; Kerstin)</title>
                 <description>Although the babes from the &#34;No Shame Babe&#34; podca…
