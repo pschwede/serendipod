@@ -7,10 +7,11 @@ URL_CHANNEL_IMAGE = ''
 RE_TITLE_FILTER = r'^Podcast'
 RE_FOOTNOTE = r'\([0-9]+\)$'
 TEMPLATE_STRING = """<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
         <channel>
             <title>{{ title|e }}</title>
             <link>{{ link }}</link>
+            <atom:link href="https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss" rel="self" type="application/rss+xml" />
             <description>{{ description|e }}</description>
             {% if image %}<image>{{ image }}</image>{% endif %}
             <language>{{ language|d('de-de') }}</language>
