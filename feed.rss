@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
         <channel>
-            <title>Das Ohr ist der Weg</title>
-            <link>https://reddit.com/r/DasOhrIstDerWeg</link>
-            <description>Gekratzt von r/DasOhrIstDerWeg</description>
+            <title>Serendipod</title>
+            <link>https://github.com/pschwede/serendipod</link>
+            <description>Scraped from https://fyyd.de</description>
             <image></image>
             <language>de-de</language>
             <copyright></copyright>
-            <generator>doidw2rss 0.0.2</generator>
+            <generator>serendipod 0.0.2</generator>
             <lastBuildDate></lastBuildDate>
             <item>
+                <title>Episode 56: There&#39;s No Shame, Babe (Ft. Jaymie &amp;amp; Kerstin)</title>
+                <description>Although the babes from the &#34;No Shame Babe&#34; podca…&lt;br&gt;Feed: https://feeds.soundcloud.com/users/soundcloud:users:290283055/sounds.rss</description>
+                <itunes:image href="https://img-1.fyyd.de/na/na300.png"/>
+                <pubDate></pubDate>
+                <link>https://pdcn.co/e/http://feeds.soundcloud.com/stream/1138440592-whohowclub-episode-56-theres-no-shame-babe-ft-jaymie-kerstin.mp3</link>
+                <enclosure url="https://soundcloud.com/whohowclub/episode-56-theres-no-shame-babe-ft-jaymie-kerstin"/>
+                <guid isPermalink="false">https://soundcloud.com/whohowclub/episode-56-theres-no-shame-babe-ft-jaymie-kerstin</guid>
+            </item><item>
                 <title>The 3 Essential Pillars to Building a Thriving Online Coaching Business</title>
                 <description>Kinsey takes us into the three essential pillars you need in your coaching business in order to help it thrive.  This combination allowed her to hit six figures super fast and is now in the trajectory of multi-six figures in less than two years of her coaching business. If you’re struggling to build brand awareness, to get leads that are high quality, or you&#39;re struggling to get a consistent stream of clients, this episode is for you.&lt;br&gt;Feed: https://feeds.captivate.fm/captivateandclose/</description>
                 <itunes:image href="https://img-1.fyyd.de/pd/layout/761746c03d1443d020b9f18d2fcaab4abb66f.jpg"/>
@@ -90,14 +98,6 @@
                 <link>https://mcdn.podbean.com/mf/web/m75hax/Chinatalk_podcast_EP36.mp3</link>
                 <enclosure url="https://pimkwan.podbean.com/e/ep-36-group-buying-war-of-meituan-1/"/>
                 <guid isPermalink="false">https://pimkwan.podbean.com/e/ep-36-group-buying-war-of-meituan-1/</guid>
-            </item><item>
-                <title>No Time to Die - WHAT AN ENDING!</title>
-                <description>&lt;p&gt;In the final James Bond film starring Daniel Craig, 007 must confront Blofeld (Christoph Waltz), a new enemy (Rami Malek), and his own emotions in a tour de force conclusion to this era of the series.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Get 20% OFF + Free International Shipping + 2 FREE Gifts @MANSCAPED at https://manscaped.com/CARPOOL20&amp;nbsp;&lt;/p&gt;&lt;p&gt;Get Private Internet Access VPN and watch more movies today at https://lmg.gg/carpoolpia&lt;/p&gt;&lt;p&gt;Twitter: https://twitter.com/TJMpod &amp;nbsp;Email: hello@theyrejustmovies...&lt;br&gt;Feed: https://anchor.fm/s/1b6ba5b0/podcast/rss</description>
-                <itunes:image href="https://img-1.fyyd.de/pd/layout/76161e2b3080cec2de9e2befd58ebbbe6f2fa.jpg"/>
-                <pubDate></pubDate>
-                <link>https://anchor.fm/s/1b6ba5b0/podcast/play/41460402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-7%2Fa2c623d2-0992-d316-0235-c1724179f447.mp3</link>
-                <enclosure url="https://anchor.fm/theyrejustmovies/episodes/No-Time-to-Die---WHAT-AN-ENDING-e18fp7i"/>
-                <guid isPermalink="false">https://anchor.fm/theyrejustmovies/episodes/No-Time-to-Die---WHAT-AN-ENDING-e18fp7i</guid>
             </item>
         </channel>
 </rss>
