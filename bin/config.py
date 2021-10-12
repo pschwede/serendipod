@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-PROJECT_NAME = "doidw2rss"
+PROJECT_NAME = "serendipod"
 VERSION = '0.0.2'
 URL_FYYD = 'https://fyyd.de/newest/0'
 URL_CHANNEL_IMAGE = ''
