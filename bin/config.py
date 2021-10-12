@@ -20,11 +20,11 @@ TEMPLATE_STRING = """<?xml version="1.0" encoding="utf-8"?>
             {% for entry in entries %}<item>
                 <title>{{ entry['title']|e }}</title>
                 <description>{{ entry['description']|e }}</description>
-                <itunes:image href="{{ entry['image'].replace('"', '\\"') }}"/>
                 <pubDate>{{ entry['pubDate'] }}</pubDate>
                 <link>{{ entry['link'] }}</link>
-                <enclosure url="{{ entry['url'] }}"/>
+                <enclosure type="audio/mp3" url="{{ entry['url'] }}"/>
                 <guid isPermalink="false">{{ entry['guid'] }}</guid>
+                {% if source %}<source>{{ source }}</source>{% endif %}
             </item>{% endfor %}
         </channel>
 </rss>"""
