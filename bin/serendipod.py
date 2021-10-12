@@ -87,7 +87,7 @@ def main(outpath: str) -> int:
             image=URL_CHANNEL_IMAGE,
             generator=PROJECT_NAME,
             version=VERSION,
-            now=datetime.now().strftime("%d %b %Y %X GMT+1"),
+            now=datetime.now().strftime("%a, %d %b %Y %X +0100"),
             entries=translated \
             )
 
