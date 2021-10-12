@@ -72,7 +72,8 @@ def pick_fyyd_feed(url:str, num_results:int = 10) -> List[Dict]:
             'url': content['episode']['url'],
             'guid': content['episode']['url'],
             'pubDate': '',
-            'image': content['episode']['coverUrl']
+            'source': content['podcast']['feed']
+            #'image': content['episode']['coverUrl']
         })
     return entries
 
