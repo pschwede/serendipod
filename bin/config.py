@@ -13,7 +13,7 @@ TEMPLATE_STRING = """<?xml version="1.0" encoding="utf-8"?>
             <link>{{ link }}</link>
             <atom:link href="https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss" rel="self" type="application/rss+xml" />
             <description>{{ description|e }}</description>
-            {% if image %}<image>{{ image }}</image>{% endif %}
+            {% if image %}<image><title>title</title><url>{{ image }}</url></image>{% endif %}
             <language>{{ language|d('de-de') }}</language>
             <copyright>{{ copyright }}</copyright>
             <generator>{{ generator }} {{ version }}</generator>
@@ -24,6 +24,7 @@ TEMPLATE_STRING = """<?xml version="1.0" encoding="utf-8"?>
                 {% if entry['pubDate'] %}<pubDate>{{ entry['pubDate'] }}</pubDate>{% endif %}
                 {% if entry['image'] %}<itunes:image href="{ entry['image'] }/>{% endif %}
                 <link>{{ entry['link'] }}</link>
+                <enclosure type="audio/mpeg" length="1" url="{{ entry['url'] }}"/>
                 <guid>{{ entry['guid'] }}</guid>
                 {% if source %}<source>{{ source }}</source>{% endif %}
             </item>{% endfor %}
