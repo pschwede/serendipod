@@ -52,7 +52,7 @@ def translate(feed):
                     })
     return entries
 
-def pick_fyyd_feed(url:str, num_results:int = 10) -> List[Dict]:
+def pick_fyyd_feed(url:str, num_results:int = 1) -> List[Dict]:
     entries = list()
     response = requests.get(url)
     for i, x in enumerate(MATCHER_FYYD.findall(response.text)):
