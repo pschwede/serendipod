@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Mon, 01 Nov 2021 05:00:06 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 02 Nov 2021 05:00:06 +0200</lastBuildDate>
             <item>
-                <title>Stephen</title>
-                <description>This is the second and final part of last week’s episode. So if you’ve not yet heard the episode “Justine,” go back and listen to that first.
-Feed: https://feeds.megaphone.fm/heavyweight</description>
+                <title>Episode 197: Carli Lloyd Special</title>
+                <description>Women&#39;s World Football Show, Episode 197 - Features Soundbites from USWNT Legend Carli Lloyd; USWNT Head Coach Vlatko Andonovski and Defender Andi Sullivan
+Tuesday, October 26, 2021  USWNT hosts Korea Republic at Allianz Field in St. Paul, Minnesota....
+Feed: https://www.spreaker.com/show/3519146/episodes/feed</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/GLT4613409293.mp3?updated=1635368199"/>
-                <guid></guid>
+                <link>https://www.spreaker.com/user/wwfshow/197-wwfshow-10-31-21</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/47250260/197_wwfshow_10_31_21.mp3"/>
+                <guid>https://www.spreaker.com/user/wwfshow/197-wwfshow-10-31-21</guid>
                 
             </item><item>
-                <title>EPISODE 66 - BARDIC VERSES CREATORS INTERVIEW</title>
-                <description> Matthew and Pete from Bardic Verses stopped by for a fun interview. Find the comic at The Bardic Verses Kickstarter 
-Feed: http://feeds.feedburner.com/CoffeeComicsPodcast</description>
+                <title>Season 02 Compilation: China Surprises</title>
+                <description>This week&#39;s compilation episode from Season 02 is about the things which surprise people the most about life in China. No matter whether you&#39;re a China outsider or someone who&#39;s been living here for decades, there&#39;s always something new around the corner...
+Feed: https://feed.podbean.com/mosaicofchina/feed.xml</description>
                 
                 
-                <link>https://coffeeandcomicspodcast.blogspot.com/2021/10/episode-66-bardic-verses-creators.html</link>
-                <enclosure type="audio/mpeg" length="1" url="http://feedproxy.google.com/~r/coffeecomicspodcast/~5/AAt3WU9zgsw/66%20-%20Bardic%20Verses%20Interview.mp3"/>
-                <guid>https://coffeeandcomicspodcast.blogspot.com/2021/10/episode-66-bardic-verses-creators.html</guid>
+                <link>https://mosaicofchina.podbean.com/e/season-02-compilation-china-surprises/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/chtbl.com/track/895DE7/dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/w47mq7/CNs02c03_China_Surprises_-_03_REGULAR_Audiobt3op.mp3"/>
+                <guid>https://mosaicofchina.podbean.com/e/season-02-compilation-china-surprises/</guid>
                 
             </item>
         </channel>
