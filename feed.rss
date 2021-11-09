@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Mon, 08 Nov 2021 05:00:07 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 09 Nov 2021 05:00:05 +0200</lastBuildDate>
             <item>
-                <title>Season 11 - Episode 11 - Is there a delay?</title>
-                <description>&lt;p&gt;Join Sean, Nigel, Canning Town Len and David Hautzig with some Technical issues &lt;/p&gt;&lt;p&gt;Support this show http://supporter.acast.com/moorethanjustapodcast.&lt;/p&gt;&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; See acast.com/privacy for privacy and opt-out information.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/c875971d-1225-4971-871f-7925fd062c2f</description>
+                <title>Identity 623</title>
+                <description>Identity 623
+Feed: https://sandervandoorn.libsyn.com/rss</description>
                 
                 
-                <link>https://shows.acast.com/moorethanjustapodcast/episodes/season-11-episode-10-is-there-a-delay</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/moorethanjustapodcast/e/6180649e9198520013e1d031/media.mp3"/>
-                <guid>https://shows.acast.com/moorethanjustapodcast/episodes/season-11-episode-10-is-there-a-delay</guid>
+                <link>https://sandervandoorn.libsyn.com/identity-623</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/sandervandoorn/SvD_Identity_623_WORLD.mp3?dest-id=736953"/>
+                <guid>https://sandervandoorn.libsyn.com/identity-623</guid>
                 
             </item><item>
-                <title>Moonshot in the arm</title>
-                <description>COVID-19 prompted the quickest vaccine development in history. An inside look at how the government and pharmaceutical companies joined forces to make it happen.
-Feed: https://feeds.npr.org/510289/podcast.xml</description>
+                <title>SCM Apple Pie Bars [Towler_Ferguson &amp; Snyder]</title>
+                <description>The sisters are back in the kitchen and back into the bourbon! Anne Varner uses Killa Vanilla as she bakes incredible Apple Pie Bars with have a shortbread crust and are topped with fresh apples, gooey stuff, and a drizzle of salted caramel.  Karen descr...
+Feed: http://sugarcoatedpod.com/feed.xml</description>
                 
                 
-                <link>https://www.npr.org/2021/11/05/1053003777/moonshot-in-the-arm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2021/11/20211105_pmoney_pmpod_1481.mp3?awCollectionId=510289&amp;awEpisodeId=1053003777&amp;orgId=1&amp;topicId=1017&amp;d=1665&amp;p=510289&amp;story=1053003777&amp;t=podcast&amp;e=1053003777&amp;size=26650837&amp;ft=pod&amp;f=510289"/>
-                <guid>https://www.npr.org/2021/11/05/1053003777/moonshot-in-the-arm</guid>
+                <link>http://sugarcoatedpod.com/e/scm-apple-pie-bars-towler_ferguson-snyder/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/mcdn.podbean.com/mf/web/vydwf6/Apple_Pie_Bars_Towler_Ferguson_Snyder8so6u.mp3"/>
+                <guid>http://sugarcoatedpod.com/e/scm-apple-pie-bars-towler_ferguson-snyder/</guid>
                 
             </item>
         </channel>
