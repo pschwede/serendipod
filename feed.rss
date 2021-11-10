@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Tue, 09 Nov 2021 05:00:05 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 10 Nov 2021 05:00:05 +0200</lastBuildDate>
             <item>
-                <title>Identity 623</title>
-                <description>Identity 623
-Feed: https://sandervandoorn.libsyn.com/rss</description>
+                <title>Tuesday, November 9, 2021</title>
+                <description>The House committee investigating the Jan. 6 attack on the U.S. Capitol subpoenas documents and testimony from six more Trump allies. Climate change accelerates India&#39;s environmental challenges. And the Supreme Court hears cases on the death penalty and constraints on federal benefits for U.S. citizens in Puerto Rico. 
+Feed: https://feeds.npr.org/510318/podcast.xml</description>
                 
                 
-                <link>https://sandervandoorn.libsyn.com/identity-623</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/sandervandoorn/SvD_Identity_623_WORLD.mp3?dest-id=736953"/>
-                <guid>https://sandervandoorn.libsyn.com/identity-623</guid>
+                <link>https://www.npr.org/2021/11/07/1053382194/more-jan-6-subpoenas-indias-climate-challenges-high-court-argument</link>
+                <enclosure type="audio/mpeg" length="1" url="https://play.podtrac.com/npr-510318/edge1.pod.npr.org/anon.npr-mp3/npr/upfirst/2021/11/20211109_upfirst_uf_110921.mp3?awCollectionId=510318&amp;awEpisodeId=1053382194&amp;orgId=1&amp;d=824&amp;p=510318&amp;story=1053382194&amp;t=podcast&amp;e=1053382194&amp;size=13186239&amp;ft=pod&amp;f=510318"/>
+                <guid>https://www.npr.org/2021/11/07/1053382194/more-jan-6-subpoenas-indias-climate-challenges-high-court-argument</guid>
                 
             </item><item>
-                <title>SCM Apple Pie Bars [Towler_Ferguson &amp; Snyder]</title>
-                <description>The sisters are back in the kitchen and back into the bourbon! Anne Varner uses Killa Vanilla as she bakes incredible Apple Pie Bars with have a shortbread crust and are topped with fresh apples, gooey stuff, and a drizzle of salted caramel.  Karen descr...
-Feed: http://sugarcoatedpod.com/feed.xml</description>
+                <title>Oathmark – Wargaming Recon #273</title>
+                <description>
+In this episode Joshua talks about Oathmark by Joseph A. McCullough. Joshua gives a review of the game and covers the mechanics. He explains how to build your units and the different miniatures you can use.
+Joseph’s bio can be found here.
+The[...]
+Feed: http://feeds.feedburner.com/wargamingforums/enhanced</description>
                 
                 
-                <link>http://sugarcoatedpod.com/e/scm-apple-pie-bars-towler_ferguson-snyder/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/mcdn.podbean.com/mf/web/vydwf6/Apple_Pie_Bars_Towler_Ferguson_Snyder8so6u.mp3"/>
-                <guid>http://sugarcoatedpod.com/e/scm-apple-pie-bars-towler_ferguson-snyder/</guid>
+                <link>http://wargamingforums.com/2021/11/08/oathmark-wargaming-recon-273/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://wargamingforums.com/podpress_trac/feed/10069/0/wr273.mp3"/>
+                <guid>http://wargamingforums.com/2021/11/08/oathmark-wargaming-recon-273/</guid>
                 
             </item>
         </channel>
