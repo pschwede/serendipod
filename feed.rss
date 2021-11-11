@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Wed, 10 Nov 2021 05:00:05 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 11 Nov 2021 05:00:06 +0200</lastBuildDate>
             <item>
-                <title>Tuesday, November 9, 2021</title>
-                <description>The House committee investigating the Jan. 6 attack on the U.S. Capitol subpoenas documents and testimony from six more Trump allies. Climate change accelerates India&#39;s environmental challenges. And the Supreme Court hears cases on the death penalty and constraints on federal benefits for U.S. citizens in Puerto Rico. 
-Feed: https://feeds.npr.org/510318/podcast.xml</description>
+                <title>FALL FOLLIES</title>
+                <description>Rob and Kevin catch up on the fall season.
+Feed: https://feeds.megaphone.fm/behindthecurtain</description>
                 
                 
-                <link>https://www.npr.org/2021/11/07/1053382194/more-jan-6-subpoenas-indias-climate-challenges-high-court-argument</link>
-                <enclosure type="audio/mpeg" length="1" url="https://play.podtrac.com/npr-510318/edge1.pod.npr.org/anon.npr-mp3/npr/upfirst/2021/11/20211109_upfirst_uf_110921.mp3?awCollectionId=510318&amp;awEpisodeId=1053382194&amp;orgId=1&amp;d=824&amp;p=510318&amp;story=1053382194&amp;t=podcast&amp;e=1053382194&amp;size=13186239&amp;ft=pod&amp;f=510318"/>
-                <guid>https://www.npr.org/2021/11/07/1053382194/more-jan-6-subpoenas-indias-climate-challenges-high-court-argument</guid>
+                <link>https://broadwaypodcastnetwork.com/podcast/behind-the-curtain/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BPNET5916003456.mp3?updated=1636416781"/>
+                <guid>https://broadwaypodcastnetwork.com/podcast/behind-the-curtain/</guid>
                 
             </item><item>
-                <title>Oathmark – Wargaming Recon #273</title>
-                <description>
-In this episode Joshua talks about Oathmark by Joseph A. McCullough. Joshua gives a review of the game and covers the mechanics. He explains how to build your units and the different miniatures you can use.
-Joseph’s bio can be found here.
-The[...]
-Feed: http://feeds.feedburner.com/wargamingforums/enhanced</description>
+                <title>58- Executive Privilege, SB 8 update, and Rust</title>
+                <description>An update on SB 8, Executive Privilege of presidential records, and a short digression into criminal law with the tragic death on a movie set 
+Feed: https://feeds.feedburner.com/trumpconlaw</description>
                 
                 
-                <link>http://wargamingforums.com/2021/11/08/oathmark-wargaming-recon-273/</link>
-                <enclosure type="audio/mpeg" length="1" url="http://wargamingforums.com/podpress_trac/feed/10069/0/wr273.mp3"/>
-                <guid>http://wargamingforums.com/2021/11/08/oathmark-wargaming-recon-273/</guid>
+                <link>https://trumpconlaw.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/c80b603a-35e1-4531-9f82-ac7d54df004d/episodes/953d4e79-3cbe-4cb1-b4ac-6dd2e887ef6e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=c80b603a-35e1-4531-9f82-ac7d54df004d&amp;awEpisodeId=953d4e79-3cbe-4cb1-b4ac-6dd2e887ef6e&amp;feed=jZLi00b4"/>
+                <guid>https://trumpconlaw.com/</guid>
                 
             </item>
         </channel>
