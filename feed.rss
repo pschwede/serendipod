@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Thu, 11 Nov 2021 05:00:06 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 12 Nov 2021 05:00:07 +0200</lastBuildDate>
             <item>
-                <title>FALL FOLLIES</title>
-                <description>Rob and Kevin catch up on the fall season.
-Feed: https://feeds.megaphone.fm/behindthecurtain</description>
+                <title>What CAN You Do?</title>
+                <description>I often here front line leaders express frustration and exasperation with what they cannot do in their role. This focus on what they cannot do often leads to doing nothing. In this episode, I offer thoughts on a different perspective – focusing on...
+Feed: https://talklikealeader.libsyn.com/rss</description>
                 
                 
-                <link>https://broadwaypodcastnetwork.com/podcast/behind-the-curtain/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BPNET5916003456.mp3?updated=1636416781"/>
-                <guid>https://broadwaypodcastnetwork.com/podcast/behind-the-curtain/</guid>
+                <link>https://talklikealeaderpodcast.com/what-can-you-do/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/talklikealeader/what-can-you-do.mp3?dest-id=767343"/>
+                <guid>https://talklikealeaderpodcast.com/what-can-you-do/</guid>
                 
             </item><item>
-                <title>58- Executive Privilege, SB 8 update, and Rust</title>
-                <description>An update on SB 8, Executive Privilege of presidential records, and a short digression into criminal law with the tragic death on a movie set 
-Feed: https://feeds.feedburner.com/trumpconlaw</description>
+                <title>S3 Ep58: Faces on Facebook, scams that pose as complaints, and a Kaseya bust</title>
+                <description>&lt;p&gt;We enjoy the &lt;strong&gt;Sophos 2022 Threat Report&lt;/strong&gt;. The world&#39;s &lt;strong&gt;{oldest, coolest}&lt;/strong&gt; continously maintained browser. Facebook folds up its &lt;strong&gt;Face Recognition&lt;/strong&gt; feature. Crooks combine a &lt;strong&gt;new social engineering scam&lt;/strong&gt; with a new way of packaging malware. &lt;strong&gt;Kaseya ransomware suspect&lt;/strong&gt; busted in Poland. Oh! No! How to block radio communications in a land &lt;strong&gt;with no hills&lt;/strong&gt;...
+Feed: https://anchor.fm/s/35bf9e1c/podcast/rss</description>
                 
                 
-                <link>https://trumpconlaw.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/c80b603a-35e1-4531-9f82-ac7d54df004d/episodes/953d4e79-3cbe-4cb1-b4ac-6dd2e887ef6e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=c80b603a-35e1-4531-9f82-ac7d54df004d&amp;awEpisodeId=953d4e79-3cbe-4cb1-b4ac-6dd2e887ef6e&amp;feed=jZLi00b4"/>
-                <guid>https://trumpconlaw.com/</guid>
+                <link>https://anchor.fm/naked-security/episodes/S3-Ep58-Faces-on-Facebook--scams-that-pose-as-complaints--and-a-Kaseya-bust-e1a4g92</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/35bf9e1c/podcast/play/43187938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-11%2Fff5d9bc8-7c0a-ec50-a20c-d8d5a1b3898e.mp3"/>
+                <guid>https://anchor.fm/naked-security/episodes/S3-Ep58-Faces-on-Facebook--scams-that-pose-as-complaints--and-a-Kaseya-bust-e1a4g92</guid>
                 
             </item>
         </channel>
