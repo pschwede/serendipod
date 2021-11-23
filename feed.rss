@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Mon, 22 Nov 2021 05:00:06 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 23 Nov 2021 05:00:05 +0200</lastBuildDate>
             <item>
-                <title>Friday November 19, 2021</title>
-                <description>Calvary Chapel Melbourne Podcast 
-Feed: http://networkcmo.com/LessonsforLiving/itunes/audio/</description>
+                <title>Liverpool 4 Arsenal 0: The Anfield Wrap</title>
+                <description>&lt;strong&gt;Free podcast looking back over Liverpool 4 Arsenal 0 in the Premier League at Anfield, and ahead to Porto in the Champions League.&lt;/strong&gt;
+Harriet Prior hosts Adam Smith, Belinder Bhati and Mike Kearney...&lt;br&gt;
+&lt;br&gt;
+Subscribe to TAW Player for more on Liverpool 4 Arsenal 0, as well as reaction to all the news and events that matter to you…&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+Feed: https://audioboom.com/channels/2402227.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://s3-us-west-1.amazonaws.com/pixelark.online.church.media.center/63/0000068573/LFL20211119.mp36189bde02e219.mp3"/>
-                <guid></guid>
+                <link>https://audioboom.com/posts/7984321</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audioboom.com/posts/7984321.mp3?modified=1637596067&amp;source=rss&amp;stitched=1"/>
+                <guid>https://audioboom.com/posts/7984321</guid>
                 
             </item><item>
-                <title>361: The Key To Dealing With Uncertainty In Your Business With Scout Sobel</title>
-                <description>is the founder of Scout&#39;s Agency, co-host of the popular Okay Sis Podcast, and the bestselling author of The Emotional Entrepreneur. She is a trailblazer in the media industry for utilizing podcasts as a powerful form of PR. Her debut book The...
-Feed: https://shiftshow.libsyn.com/rss</description>
+                <title>Deeper Episode Thirteen: Exorcising Shame</title>
+                <description>Rev. Elaine teaches how naming our shame can be life-giving and life-saving, and Foothills&#39; Member Erin Valenti-Nelsen shares her experience of healing after being raped.
+Feed: https://foothillsuu.podbean.com/feed.xml</description>
                 
                 
-                <link>https://shiftshow.libsyn.com/361-the-key-to-dealing-with-uncertainty-in-your-business-with-scout-sobel</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/shiftshow/361_mixdown.mp3?dest-id=851195"/>
-                <guid>https://shiftshow.libsyn.com/361-the-key-to-dealing-with-uncertainty-in-your-business-with-scout-sobel</guid>
+                <link>https://foothillsuu.podbean.com/e/deeper-episode-thirteen-exorcising-shame/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/tf5png/Deeper_Pod__Ep_13___Exorcising_Shame_b44bo.mp3"/>
+                <guid>https://foothillsuu.podbean.com/e/deeper-episode-thirteen-exorcising-shame/</guid>
                 
             </item>
         </channel>
