@@ -9,26 +9,36 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Fri, 26 Nov 2021 05:00:07 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 27 Nov 2021 05:00:06 +0200</lastBuildDate>
             <item>
-                <title>#567 – The Rodeo Drive of Electronics</title>
-                <description>Dave and Chris discuss shopping for new parts, logistics, measuring signals, and mechanical marvels.
-Feed: https://theamphour.com/feed/podcast/</description>
+                <title>Episode 159 - “Grease Build Kiva Fellow” - 11.03.21</title>
+                <description>This week on Rider Love, we get together for a bit of life catch-up and to chat about some news. No episodes of Kamen Rider are discussed, but we’ll be back on track before too long with our next podcast.   Website:  Twitter:  Email:
+Feed: https://riderlove.libsyn.com/rss</description>
                 
                 
-                <link>https://theamphour.com/567-the-rodeo-drive-of-electronics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=567-the-rodeo-drive-of-electronics</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/theamphour/TheAmpHour-567-RodeoDrive.mp3"/>
-                <guid>https://theamphour.com/567-the-rodeo-drive-of-electronics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=567-the-rodeo-drive-of-electronics</guid>
+                <link>https://riderlove.libsyn.com/episode-159-grease-build-kiva-fellow-110321</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/riderlove/RiderLOVE159.mp3?dest-id=382188"/>
+                <guid>https://riderlove.libsyn.com/episode-159-grease-build-kiva-fellow-110321</guid>
                 
             </item><item>
-                <title>Innovation in Antibody Drug-Conjugate Engineering: Will It Pay Off?</title>
-                <description>Innovation in Antibody Drug-Conjugate Engineering: Will It Pay Off?
-Feed: https://c.peervoice.com/podcast/xml/clinical_pharmacology_audio.xml</description>
+                <title>Good Omens (Tome Book Club)</title>
+                <description>In this episode Tracy, Jeff, and Eric discuss Good Omens by Neil Gaiman and Terry Pratchett. 
+Links: 
+Tracy on Twitter
+Tracy on the Web
+Eric on Twitter
+Jeff on Twitter
+Thetomeshow.com
+Patreon.com/thetomeshow
+ 
+  
+
+Feed: https://feedcdn21.podbean.com/www.thetomeshow.com/feed.xml</description>
                 
                 
-                <link>https://peervoice.com/SEB860</link>
-                <enclosure type="audio/mpeg" length="1" url="https://peervoice.com/340205484SEB.mp3?ProjectNumber=340205484&amp;Promocode=861&amp;AudienceID=PV"/>
-                <guid>https://peervoice.com/SEB860</guid>
+                <link>http://www.thetomeshow.com/e/good-omens-tome-book-club/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/7hjry9/Bookclub_-_October_2021_-_Good_Omensavf8g.mp3"/>
+                <guid>http://www.thetomeshow.com/e/good-omens-tome-book-club/</guid>
                 
             </item>
         </channel>
