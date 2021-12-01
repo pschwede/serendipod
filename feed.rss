@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Tue, 30 Nov 2021 05:00:05 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 Dec 2021 05:00:07 +0200</lastBuildDate>
             <item>
-                <title>MING Presents Warmth Episode 308</title>
-                <description>MING&#39;s weekly Warmth radio show features the best in today&#39;s house and EDM as well as exclusive mixes and interviews from guest artists.
-Beatport Track Charts &amp;gt;&amp;gt; https://hoodfamo.us/BPWRMTH
-1001Tracklists &amp;gt;&amp;gt; https://1001.tl/lbknx3
-MING Stuff &amp;gt;&amp;gt;&amp;nbsp;https://solo.to/mingsmusic
-Feed: https://feeds.captivate.fm/ming-presents/</description>
+                <title>Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack (2001)</title>
+                <description>As good as they say? (The answer is yes)
+Feed: https://godzillapodcast.libsyn.com/rss</description>
                 
                 
-                <link>https://ming-presents.captivate.fm/episode/ming-presents-warmth-episode-308</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/93bc2d4e-541a-4bc1-9b59-b393938220b2/ming-warmth-308-fullmix.mp3"/>
-                <guid>https://ming-presents.captivate.fm/episode/ming-presents-warmth-episode-308</guid>
+                <link>https://godzillapodcast.libsyn.com/godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/godzillapodcast/GodzillaPodcast_GodzillaMothraKingGhidorahGiantMonsterAllOutAttack2001_mixdown.mp3?dest-id=326955"/>
+                <guid>https://godzillapodcast.libsyn.com/godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001</guid>
                 
             </item><item>
-                <title>Dinner party</title>
-                <description>Dinner party
-Feed: https://feeds.theoutline.com/tomorrow</description>
+                <title>WOFF Dispatch: Maps</title>
+                <description>This month&#39;s Dispatch episode features a discussion of mapping systems in games, as part of a broader discussion about friction that used to be charming but is now kind of tedious.
+Feed: https://feeds.fireside.fm/woff/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/OUT9471374883.mp3?updated=1637532163"/>
-                <guid></guid>
+                <link>https://www.watchoutforfireballs.com/dispatch-nov2021</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/99480f72-818c-40fb-b60e-e4151233300f/d952c9cf-a195-4abb-9ceb-aa1b64cf1e9b.mp3"/>
+                <guid>https://www.watchoutforfireballs.com/dispatch-nov2021</guid>
                 
             </item>
         </channel>
