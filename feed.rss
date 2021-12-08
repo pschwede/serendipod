@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Tue, 07 Dec 2021 05:00:06 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 08 Dec 2021 05:00:06 +0200</lastBuildDate>
             <item>
-                <title>InfoSecSync Weekly News Week Ending 3 December 2021</title>
-                <description>Cyber News This Week: FBI Seizes BITCOINS, META Orderd To Sell GIPHY, Google Cloud Accounts Mining Crypto, UK Spy Chiefs Seal Cloud Data Deal With Amazon, Plus More!!!
-https://youtu.be/gRgA0gfXk5E
-Feed: http://www.infosecsync.com/feed/podcast/</description>
+                <title>Radioactive Lounge Episode 186: Floor Chicken</title>
+                <description>The episode so momentous we had to record it twice. That, and because Lucas recorded the first 50 minutes with the mics on mute. Now decide if he should have recorded the whole thing on mute, as we say goodbye with some last reviews, the last Rad Lounge ...
+Feed: https://feed.podbean.com/infoxiw/feed.xml</description>
                 
                 
-                <link>https://infosecsync.com/2021/12/05/infosecsync-weekly-news-week-ending-3-december-2021/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/EA598C/pdcn.co/e/traffic.libsyn.com/secure/infosecsync/03_Dec_2021.mp3"/>
-                <guid>https://infosecsync.com/2021/12/05/infosecsync-weekly-news-week-ending-3-december-2021/</guid>
+                <link>https://infoxiw.podbean.com/e/186/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/g5hupq/RAD_LOUNGE_EP_1868tetc.mp3"/>
+                <guid>https://infoxiw.podbean.com/e/186/</guid>
                 
             </item><item>
-                <title>Management Vs. Leadership - Army Vs. Navy</title>
-                <description>In this special edition, Mark discusses management versus leadership with David Wallace, the Deputy Director of Leadership Eduction and Development at the United States Naval Academy.
-Feed: https://files.manager-tools.com/files/public/feeds/manager-tools-podcasts.xml</description>
+                <title>The Christmas Danger Zone: Q&amp;A with Marty &amp; Em</title>
+                <description>&lt;p&gt;Episode #171 // Christmas party season is upon us, and many of you may have already partaken in an early celebration to mark the end of the year.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;If you’re a leader trying to navigate the vagaries of the office Christmas party, there are a few considerations that will help you make good decisions. Let’s face it, you don’t want to be staring down the aftermath of a significant incident in the days following an event...
+Feed: https://feeds.acast.com/public/shows/2fec86c4-2f6a-5de0-abd4-1301a5d509fc</description>
                 
                 
-                <link>http://www.manager-tools.com/2021/12/management-vs-leadership-army-vs-navy</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/manager-tools/manager-tools-2021-12-06.mp3"/>
-                <guid>http://www.manager-tools.com/2021/12/management-vs-leadership-army-vs-navy</guid>
+                <link>https://www.yourceomentor.com/episode171</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/no-bullsht-leadership/e/61aec6ec11ff200012a41eff/media.mp3"/>
+                <guid>https://www.yourceomentor.com/episode171</guid>
                 
             </item>
         </channel>
