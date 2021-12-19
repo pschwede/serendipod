@@ -9,43 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Sat, 18 Dec 2021 05:00:06 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 19 Dec 2021 05:00:06 +0200</lastBuildDate>
             <item>
-                <title>Big Key Switch MacroPad KB2040</title>
-                <description>Build a giant macropad with these big key switches and KB2040 with CircuitPython!
-Learn Guide
-https://learn.adafruit.com/big-key-switch/
-KB2040
-https://www.adafruit.com/product/5302
-Big Key Switch
-https://www.adafruit.com/product/5307
-10mm LEDs
-https://www.adafruit.com/product/4204
-Visit the Adafruit shop online - http://www.adafruit.com
------------------------------------------
-LIVE CHAT IS HERE! http://adafru.it/discord
-Adafruit on Instagram: https://www.instagram...
-Feed: https://adafruit-podcasts.s3.amazonaws.com/3d_printing/podcast.xml</description>
+                <title>Best of The AMPLIFY Show: Break the Twitch And Live a More Intentional Life, With Anthony Ongaro</title>
+                <description>Today I’m back with another “Best of The AMPLIFY Show” interview, and I love that today’s interview is one of our most popular out of more than 60 now; it’s my interview with Anthony Ongaro, author of .    Anthony’s book and our...
+Feed: https://theamplifyshow.libsyn.com/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://adafruit-podcasts.s3.amazonaws.com/media/y5g3rD29SMQ_360.mp4"/>
-                <guid></guid>
+                <link>https://theamplifyshow.libsyn.com/63-best-of-the-amplify-show-break-the-twitch-and-live-a-more-intentional-life-with-anthony-ongaro</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/theamplifyshow/new-breakthetwith.mp3?dest-id=1385732"/>
+                <guid>https://theamplifyshow.libsyn.com/63-best-of-the-amplify-show-break-the-twitch-and-live-a-more-intentional-life-with-anthony-ongaro</guid>
                 
             </item><item>
-                <title>Intuition &amp; Meditation</title>
-                <description>
-In this episode I speak with Barbara J Faison. The first ever meditation mixologist!
- 
-What does that mean? You&#39;ll find out in this episode on Pryce on Purpose!
- 
-In this episode, I learn how Barbara became an engineer and ventured into meditation a...
-Feed: https://feed.podbean.com/waseoffpodcast/feed.xml</description>
+                <title>Google Pixel Fall Launch - Pixel 6, Pixel 6 Pro, and Pixel Pass</title>
+                <description>Pixel 6, Pixel 6 Pro, and Pixel Pass
+Feed: https://feeds.twit.tv/ces.xml</description>
                 
                 
-                <link>https://waseoffpodcast.podbean.com/e/intuition-meditation/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/rpdfrv/Barbara_J_Faison_POP__mixdownbruu5.mp3"/>
-                <guid>https://waseoffpodcast.podbean.com/e/intuition-meditation/</guid>
+                <link>https://twit.tv/shows/twit-news/episodes/378</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/E91833/cdn.twit.tv/audio/specials/specials0378/specials0378.mp3"/>
+                <guid>https://twit.tv/shows/twit-news/episodes/378</guid>
                 
             </item>
         </channel>
