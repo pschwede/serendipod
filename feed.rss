@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Tue, 28 Dec 2021 05:00:16 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 29 Dec 2021 05:00:07 +0200</lastBuildDate>
             <item>
-                <title>SBS Dinka News 24/11/2021</title>
-                <description>&lt;p&gt;Në ka ke cɔɔlë keek në SBS Dinka News ke pɛi ye nïn 24 penë 11, ke kɔc ke 1000 ake cë keek yök keke tuany në Victoria ku pane South Australia ee bɛɛr nɔŋ tuany wär cenë akɛɛth liep nyïn. Panë Victoria ke mïth ke ŋuan athou në mac në Werribee.&lt;/p&gt;
-Feed: https://feeds.sbs.com.au/sbs-dinka</description>
+                <title>Holiday Snackluk</title>
+                <description>In this Hasty Treat, Wes and Scott talk about Package-lock, Angular, package updates, how to learn, and media servers on planes. Sponsor - Sanity Sanity.io is a real-time headless CMS with a fully customizable Content Studio built in React. Get a...
+Feed: https://feed.syntax.fm/rss</description>
                 
                 
-                <link>https://www.sbs.com.au/yourlanguage/dinka/din/audiotrack/sbs-dinka-news-24112021</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-dinka/20211126110910-dinka_24112021_sbs_dinka_news.mp3?awCollectionId=sbs-dinka&amp;awGenre=News&amp;awEpisodeId=20211126110910-dinka_24112021_sbs_dinka_news"/>
-                <guid>https://www.sbs.com.au/yourlanguage/dinka/din/audiotrack/sbs-dinka-news-24112021</guid>
+                <link>https://traffic.libsyn.com/secure/syntax/Syntax_-_417.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/syntax/Syntax_-_417.mp3?dest-id=532671"/>
+                <guid>https://traffic.libsyn.com/secure/syntax/Syntax_-_417.mp3</guid>
                 
             </item><item>
-                <title>Checklist 260 - The Hacky Holidays Special</title>
-                <description>An 11 year-old wreaks havoc, a game that is not worth playing, and putting a blind guy behind the wheel - Voices of Checklists passed tell us about their favorite hacker movies, including Hackers, WarGames, Sneakers, and Superman III. What did they...
-Feed: https://checklist.libsyn.com/rss</description>
+                <title>339 w/Rep. Peter Meijer - &#34;The RINOvirus, Insurrection Deflection, DeSantis Claus&#39;s Xmas Miracle!&#34; </title>
+                <description>&lt;p&gt;Back for his third (we think?) visit, the scourge of crackpots and charlatans, America&#39;s greatest ginger, and our favorite congressman...Rep...
+Feed: https://feeds.acast.com/public/shows/5c3e264f78c059c75c5e8ccf</description>
                 
                 
-                <link>https://checklist.libsyn.com/checklist-260-the-hacky-holidays-special</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/clean/secure/checklist/Checklist_260_-_The_Hacky_Holidays_Special.mp3?dest-id=421873"/>
-                <guid>https://checklist.libsyn.com/checklist-260-the-hacky-holidays-special</guid>
+                <link>https://shows.acast.com/wethefifth/episodes/339-wrep-peter-meijer-the-rinovirus-insurrection-deflection</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5c3e264f78c059c75c5e8ccf/e/61bc22f945cc690014602007/media.mp3"/>
+                <guid>https://shows.acast.com/wethefifth/episodes/339-wrep-peter-meijer-the-rinovirus-insurrection-deflection</guid>
                 
             </item>
         </channel>
