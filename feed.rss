@@ -9,27 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Fri, 14 Jan 2022 05:00:06 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 15 Jan 2022 05:00:10 +0200</lastBuildDate>
             <item>
-                <title>Melissa King</title>
-                <description>In this episode Ellen sits down with Chef Melissa King, who is recognized as one of the best female chefs in San Francisco and was the winner of Top Chef All-Stars season 17, and Top Chef All-Stars Fan Favorite.They discuss the power of Top Chef, the importance of supporting the queer community, and taking an unconventional route to becoming a chef.
-Learn more about your ad choices. Visit podcastchoices.com/adchoices
-Feed: https://feeds.megaphone.fm/ellen-pompeo</description>
+                <title>62: Succumbing to the Ecosystem</title>
+                <description>Alex got some new devices for Christmas, and we set off figuring out how to integrate them into his network.
+Feed: https://selfhosted.show/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/chtbl.com/track/42D75/traffic.megaphone.fm/CAD3166689280.mp3?updated=1641926191"/>
-                <guid></guid>
+                <link>https://selfhosted.show/62</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/7296e34a-2697-479a-adfb-ad32329dd0b0/17c8dc62-15ae-45f2-882a-4b31722c01af.mp3"/>
+                <guid>https://selfhosted.show/62</guid>
                 
             </item><item>
-                <title>Our Inability to Forget vs. Our Ability to Remember</title>
-                <description>Your Life, On Purpose! with Bruce Cruickshank  Are you stuck living in the past? Are you celebrating the past? Are you learning from your past? How are you leveraging your past to create the future you want? Join Bruce Cruickshank, your host and accountability partner to unpack your past and live the future you want today! *Listen now on the Inspired Choices Network app!  https://linktr...
-Feed: https://www.inspiredchoicesnetwork.com/xml-feed/?id=103003</description>
+                <title>758: Talking While Black</title>
+                <description>People tangled up in our current racial backlash in both extreme and very personal ways. 
+
+Feed: http://feed.thisamericanlife.org/talpodcast</description>
                 
                 
-                <link>https://www.inspiredchoicesnetwork.com/media/our-inability-to-forget-vs-our-ability-to-remember/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://icn-arc.s3.us-west-2.amazonaws.com/uploads/Your_Life_On_Purpose_Jan_12_2022.mp3"/>
-                <guid>https://www.inspiredchoicesnetwork.com/media/our-inability-to-forget-vs-our-ability-to-remember/</guid>
+                <link>https://www.thisamericanlife.org/758/talking-while-black</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/5129308a-16b8-466a-b81e-31404dfbcc6a/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=5129308a-16b8-466a-b81e-31404dfbcc6a"/>
+                <guid>https://www.thisamericanlife.org/758/talking-while-black</guid>
                 
             </item>
         </channel>
