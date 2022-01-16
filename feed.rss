@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Sat, 15 Jan 2022 05:00:10 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 16 Jan 2022 05:00:05 +0200</lastBuildDate>
             <item>
-                <title>62: Succumbing to the Ecosystem</title>
-                <description>Alex got some new devices for Christmas, and we set off figuring out how to integrate them into his network.
-Feed: https://selfhosted.show/rss</description>
+                <title>The Mystery of Cicada 3301</title>
+                <description>&#34;Hello. We are looking for highly intelligent individuals. To find them, we have devised a test.&#34; These words, found in a message posted on 4Chan in January 2012, started a global &#39;treasure hunt&#39; - with thousands of puzzle-loving and curious individual...
+Feed: https://malicious.life/feed/podcast/</description>
                 
                 
-                <link>https://selfhosted.show/62</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/7296e34a-2697-479a-adfb-ad32329dd0b0/17c8dc62-15ae-45f2-882a-4b31722c01af.mp3"/>
-                <guid>https://selfhosted.show/62</guid>
+                <link>https://malicious.life/the-mystery-of-cicada-3301/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/security_all_in/stream.redcircle.com/episodes/9a11bebb-ed20-4e13-8296-218fe5f0012f/stream.mp3"/>
+                <guid>https://malicious.life/the-mystery-of-cicada-3301/</guid>
                 
             </item><item>
-                <title>758: Talking While Black</title>
-                <description>People tangled up in our current racial backlash in both extreme and very personal ways. 
-
-Feed: http://feed.thisamericanlife.org/talpodcast</description>
+                <title>The painless heart</title>
+                <description>Why does my heart muscle not ache after exercise?
+Feed: https://podcasts.files.bbci.co.uk/p002w557.rss</description>
                 
                 
-                <link>https://www.thisamericanlife.org/758/talking-while-black</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/5129308a-16b8-466a-b81e-31404dfbcc6a/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=5129308a-16b8-466a-b81e-31404dfbcc6a"/>
-                <guid>https://www.thisamericanlife.org/758/talking-while-black</guid>
+                <link>http://www.bbc.co.uk/programmes/w3ct30j0</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bgb4dj.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/w3ct30j0</guid>
                 
             </item>
         </channel>
