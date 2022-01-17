@@ -9,16 +9,16 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Sun, 16 Jan 2022 05:00:05 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 17 Jan 2022 05:00:07 +0200</lastBuildDate>
             <item>
-                <title>The Mystery of Cicada 3301</title>
-                <description>&#34;Hello. We are looking for highly intelligent individuals. To find them, we have devised a test.&#34; These words, found in a message posted on 4Chan in January 2012, started a global &#39;treasure hunt&#39; - with thousands of puzzle-loving and curious individual...
-Feed: https://malicious.life/feed/podcast/</description>
+                <title>62: Succumbing to the Ecosystem</title>
+                <description>Alex got some new devices for Christmas, and we set off figuring out how to integrate them into his network.
+Feed: https://selfhosted.show/rss</description>
                 
                 
-                <link>https://malicious.life/the-mystery-of-cicada-3301/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/security_all_in/stream.redcircle.com/episodes/9a11bebb-ed20-4e13-8296-218fe5f0012f/stream.mp3"/>
-                <guid>https://malicious.life/the-mystery-of-cicada-3301/</guid>
+                <link>https://selfhosted.show/62</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/7296e34a-2697-479a-adfb-ad32329dd0b0/17c8dc62-15ae-45f2-882a-4b31722c01af.mp3"/>
+                <guid>https://selfhosted.show/62</guid>
                 
             </item><item>
                 <title>The painless heart</title>
