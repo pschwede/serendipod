@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Mon, 17 Jan 2022 05:00:07 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 18 Jan 2022 05:00:07 +0200</lastBuildDate>
             <item>
-                <title>62: Succumbing to the Ecosystem</title>
-                <description>Alex got some new devices for Christmas, and we set off figuring out how to integrate them into his network.
-Feed: https://selfhosted.show/rss</description>
-                
-                
-                <link>https://selfhosted.show/62</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/7296e34a-2697-479a-adfb-ad32329dd0b0/17c8dc62-15ae-45f2-882a-4b31722c01af.mp3"/>
-                <guid>https://selfhosted.show/62</guid>
-                
-            </item><item>
-                <title>The painless heart</title>
-                <description>Why does my heart muscle not ache after exercise?
+                <title>The slippery situation</title>
+                <description>&#39;What is the most slippy thing in the world?&#39; asks 8 year old Evelyn from London.
 Feed: https://podcasts.files.bbci.co.uk/p002w557.rss</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/w3ct30j0</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bgb4dj.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w3ct30j0</guid>
+                <link>http://www.bbc.co.uk/programmes/w3ct30j1</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bh1z44.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/w3ct30j1</guid>
+                
+            </item><item>
+                <title>492: Dr. Gilmer and Mr. Hyde</title>
+                <description>Did a beloved family doctor with no criminal history suddenly up and strangle his own father?
+Feed: http://feed.thisamericanlife.org/talpodcast</description>
+                
+                
+                <link>https://www.thisamericanlife.org/492/dr-gilmer-and-mr-hyde</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/32fea352-e0a8-4b63-878a-c5f94734eabc/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=32fea352-e0a8-4b63-878a-c5f94734eabc"/>
+                <guid>https://www.thisamericanlife.org/492/dr-gilmer-and-mr-hyde</guid>
                 
             </item>
         </channel>
