@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Tue, 18 Jan 2022 05:00:07 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 19 Jan 2022 05:00:07 +0200</lastBuildDate>
             <item>
+                <title>Hacker Highschool: Pete Herzog [ML BSide]</title>
+                <description>In the late ’80s to early 2000s, the NSA transitioned from being a hardware-first organization - that is, creating and operating physical spying devices - to software-first: excelling in hacking networks, tracking people online, etc.
+Feed: https://malicious.life/feed/podcast/</description>
+                
+                
+                <link>https://malicious.life/hacker-highschool-pete-herzog-ml-bside/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/security_all_in/stream.redcircle.com/episodes/9355c356-306f-4c53-a9a0-a1fb8ccfc171/stream.mp3"/>
+                <guid>https://malicious.life/hacker-highschool-pete-herzog-ml-bside/</guid>
+                
+            </item><item>
                 <title>The slippery situation</title>
                 <description>&#39;What is the most slippy thing in the world?&#39; asks 8 year old Evelyn from London.
 Feed: https://podcasts.files.bbci.co.uk/p002w557.rss</description>
@@ -19,16 +29,6 @@ Feed: https://podcasts.files.bbci.co.uk/p002w557.rss</description>
                 <link>http://www.bbc.co.uk/programmes/w3ct30j1</link>
                 <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bh1z44.mp3"/>
                 <guid>http://www.bbc.co.uk/programmes/w3ct30j1</guid>
-                
-            </item><item>
-                <title>492: Dr. Gilmer and Mr. Hyde</title>
-                <description>Did a beloved family doctor with no criminal history suddenly up and strangle his own father?
-Feed: http://feed.thisamericanlife.org/talpodcast</description>
-                
-                
-                <link>https://www.thisamericanlife.org/492/dr-gilmer-and-mr-hyde</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/32fea352-e0a8-4b63-878a-c5f94734eabc/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=32fea352-e0a8-4b63-878a-c5f94734eabc"/>
-                <guid>https://www.thisamericanlife.org/492/dr-gilmer-and-mr-hyde</guid>
                 
             </item>
         </channel>
