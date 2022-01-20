@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Wed, 19 Jan 2022 05:00:07 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 20 Jan 2022 05:00:07 +0200</lastBuildDate>
             <item>
-                <title>Hacker Highschool: Pete Herzog [ML BSide]</title>
-                <description>In the late ’80s to early 2000s, the NSA transitioned from being a hardware-first organization - that is, creating and operating physical spying devices - to software-first: excelling in hacking networks, tracking people online, etc.
-Feed: https://malicious.life/feed/podcast/</description>
+                <title>NoSleep Podcast - Sleepless Decompositions Vol. 8</title>
+                <description>The NoSleep Podcast celebrates its 500th episode with a special volume of Sleepless Decompositions!
+Feed: https://feeds.megaphone.fm/TPC9929071339</description>
                 
                 
-                <link>https://malicious.life/hacker-highschool-pete-herzog-ml-bside/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/security_all_in/stream.redcircle.com/episodes/9355c356-306f-4c53-a9a0-a1fb8ccfc171/stream.mp3"/>
-                <guid>https://malicious.life/hacker-highschool-pete-herzog-ml-bside/</guid>
+                <link>https://www.thenosleeppodcast.com/episodes/extras/sd08</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC1686551015.mp3?updated=1642308446"/>
+                <guid>https://www.thenosleeppodcast.com/episodes/extras/sd08</guid>
                 
             </item><item>
-                <title>The slippery situation</title>
-                <description>&#39;What is the most slippy thing in the world?&#39; asks 8 year old Evelyn from London.
-Feed: https://podcasts.files.bbci.co.uk/p002w557.rss</description>
+                <title>473- Mini-Stories : Volume 14</title>
+                <description>This is the third and final episode of this batch of mini-stories and the 14th volume overall and it’s a good one- we have surprisingly architectural sport commentary, Ben Franklin’s role in Daylight Saving Time, and the origin story of the fire pole.
+Feed: https://feeds.simplecast.com/BqbsxVfO</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/w3ct30j1</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bh1z44.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w3ct30j1</guid>
+                <link>https://99percentinvisible.org</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/7b7248d7-52d3-4eb8-bce0-fbf326668069/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=7b7248d7-52d3-4eb8-bce0-fbf326668069&amp;feed=BqbsxVfO"/>
+                <guid>https://99percentinvisible.org</guid>
                 
             </item>
         </channel>
