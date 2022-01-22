@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Fri, 21 Jan 2022 05:00:06 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 22 Jan 2022 05:00:06 +0200</lastBuildDate>
             <item>
-                <title>NoSleep Podcast - Sleepless Decompositions Vol. 8</title>
-                <description>The NoSleep Podcast celebrates its 500th episode with a special volume of Sleepless Decompositions!
-Feed: https://feeds.megaphone.fm/TPC9929071339</description>
+                <title>Collaboration and Project Planning</title>
+                <description>Things like team collaboration and project planning are a very real part of our work. David and Stephen talk about these topics and discuss some of their apps and services that can make working with others easier and more productive.
+Feed: https://www.relay.fm/mpu/feed</description>
                 
                 
-                <link>https://www.thenosleeppodcast.com/episodes/extras/sd08</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/9DD8D/traffic.megaphone.fm/TPC1686551015.mp3?updated=1642308446"/>
-                <guid>https://www.thenosleeppodcast.com/episodes/extras/sd08</guid>
+                <link>http://relay.fm/mpu/623</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/relaympu/mpu623.mp3"/>
+                <guid>http://relay.fm/mpu/623</guid>
                 
             </item><item>
-                <title>Episode 180: The Boycott</title>
-                <description>15 years after the Supreme Court ruled that school segregation was unconstitutional in Brown v. Board of Education, many schools across the South were still segregated. Some school districts actively blocked desegregation. North Carolina passed legislation authorizing tuition grants to white private schools, sometimes called &#34;segregation academies.&#34; Members of the KKK held rallies in North Carolina, describing desegregation as &#34;anti-Christian&#34; and &#34;communistic...
-Feed: https://feeds.megaphone.fm/VMP7924981569</description>
+                <title>Coronapod: COVID death toll is likely millions more than official counts</title>
+                <description>As of January 2022, the WHO reports that 5.5 million people have lost their lives to the pandemic. However, many research groups suggests that this number is likely to be a significant underestimate, although it is hard to be certain as counting mortal...
+Feed: http://rss.acast.com/nature</description>
                 
                 
-                <link>https://thisiscriminal.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/chrt.fm/track/524GE/traffic.megaphone.fm/VMP4348192196.mp3?updated=1642096570"/>
-                <guid>https://thisiscriminal.com/</guid>
+                <link>https://play.acast.com/s/nature/coronapod-coviddeathtollislikelymillionsmorethanofficialcounts</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/nature/coronapod-coviddeathtollislikelymillionsmorethanofficialcounts/media.mp3"/>
+                <guid>https://play.acast.com/s/nature/coronapod-coviddeathtollislikelymillionsmorethanofficialcounts</guid>
                 
             </item>
         </channel>
