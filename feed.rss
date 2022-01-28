@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Thu, 27 Jan 2022 05:00:06 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 28 Jan 2022 05:00:06 +0200</lastBuildDate>
             <item>
-                <title>How can battery-powered aircraft get off the ground?</title>
-                <description>Getting electric planes to take off, and the latest from the Nature Briefing.
-Feed: http://rss.acast.com/nature</description>
+                <title>The venomous vendetta</title>
+                <description>Will a venomous snake die if it bites itself? asks Janni in Amsterdam.
+Feed: https://podcasts.files.bbci.co.uk/p002w557.rss</description>
                 
                 
-                <link>https://play.acast.com/s/nature/howcanbattery-poweredaircraftgetofftheground-</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/nature/howcanbattery-poweredaircraftgetofftheground-/media.mp3"/>
-                <guid>https://play.acast.com/s/nature/howcanbattery-poweredaircraftgetofftheground-</guid>
+                <link>http://www.bbc.co.uk/programmes/w3ct30j2</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bk19bf.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/w3ct30j2</guid>
                 
             </item><item>
-                <title>The &#39;perfect&#39; depth for a destructive eruption</title>
-                <description>Whay was the blast from the Hunga-Tonga-Hunga-Ha&#39;apai volcano so violent?
-Feed: https://podcasts.files.bbci.co.uk/b036f7w2.rss</description>
+                <title>Hunting the darknet dealers</title>
+                <description>The high stakes cat and mouse game between police and darknet drug dealers
+Feed: https://podcasts.files.bbci.co.uk/p02nq0lx.rss</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/m0013hjr</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0bjd6wy.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/m0013hjr</guid>
+                <link>http://www.bbc.co.uk/programmes/p0bkh5j5</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bkh3qr.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0bkh5j5</guid>
                 
             </item>
         </channel>
