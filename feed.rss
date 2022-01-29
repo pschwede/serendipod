@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Fri, 28 Jan 2022 05:00:06 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 29 Jan 2022 05:00:06 +0200</lastBuildDate>
             <item>
-                <title>The venomous vendetta</title>
-                <description>Will a venomous snake die if it bites itself? asks Janni in Amsterdam.
-Feed: https://podcasts.files.bbci.co.uk/p002w557.rss</description>
+                <title>An Inside Job?</title>
+                <description>Days after the 2003 tiger attack, Siegfried and his manager share perplexing claims about the incident. Meanwhile, the Las Vegas police investigate whether the tiger was actually provoked by someone with a vendetta. 
+Wild Things: Siegfried &amp;amp; Roy is an Apple Original podcast, produced by AT WILL MEDIA. Listen and follow on Apple Podcasts. 
+Apple.co/Wild_Things
+Feed: https://rss.art19.com/wild-things</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/w3ct30j2</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bk19bf.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w3ct30j2</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/4ca483a8-b6c6-45a5-bf5b-2f7b00f91e69.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Hunting the darknet dealers</title>
-                <description>The high stakes cat and mouse game between police and darknet drug dealers
-Feed: https://podcasts.files.bbci.co.uk/p02nq0lx.rss</description>
+                <title>759: A Couple Walks Into a House</title>
+                <description>An unsettling discovery in the home of a local police officer rocks an entire city.
+Feed: http://feed.thisamericanlife.org/talpodcast</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0bkh5j5</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bkh3qr.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0bkh5j5</guid>
+                <link>https://www.thisamericanlife.org/759/a-couple-walks-into-a-house</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/6abe9421-2524-452b-bc46-877538b1ada0/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=6abe9421-2524-452b-bc46-877538b1ada0"/>
+                <guid>https://www.thisamericanlife.org/759/a-couple-walks-into-a-house</guid>
                 
             </item>
         </channel>
