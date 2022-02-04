@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Thu, 03 Feb 2022 05:00:09 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 04 Feb 2022 05:00:08 +0200</lastBuildDate>
             <item>
-                <title>Stay away!</title>
-                <description>‘He just starts touching me’: The grim reality of sexual harassment in the workplace
-Feed: https://podcasts.files.bbci.co.uk/w13xtv78.rss</description>
+                <title>Why aren’t SMBs investing in Cyber Security? [ML B-Side]</title>
+                <description>Attacks against Small-to-Medium size businesses currently represent roughly 40% to 50% of all data breaches. Josh Ablett, founder and CISO of Adelia Risk, speaks with Nate Nelsn about the kind of security he usually finds in SMBs when he’s called in to...
+Feed: https://malicious.life/feed/podcast/</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0bkt5y6</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bkt50h.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0bkt5y6</guid>
+                <link>https://malicious.life/why-arent-smbs-investing-in-cyber-security-ml-b-side/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/security_all_in/stream.redcircle.com/episodes/fc3fbdec-ecb1-461c-a75c-f2448c1e0b6f/stream.mp3"/>
+                <guid>https://malicious.life/why-arent-smbs-investing-in-cyber-security-ml-b-side/</guid>
                 
             </item><item>
-                <title>Figure 8 Bus Racing</title>
-                <description>The boys are back taking calls and fantasizing ab…
-Feed: http://feeds.feedburner.com/streetfightradio</description>
+                <title>Song Encoder: Forrest Brazeal</title>
+                <description>a Changelog Special on the intersection of software &amp; music
+Feed: https://changelog.com/podcast/feed</description>
                 
                 
-                <link>https://soundcloud.com/streetfightwcrs/figure-8-bus-racing</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1207340362-streetfightwcrs-figure-8-bus-racing.mp3"/>
-                <guid>https://soundcloud.com/streetfightwcrs/figure-8-bus-racing</guid>
+                <link>https://changelog.com/podcast/477</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/A551A9/https://cdn.changelog.com/uploads/podcast/477/the-changelog-477.mp3"/>
+                <guid>https://changelog.com/podcast/477</guid>
                 
             </item>
         </channel>
