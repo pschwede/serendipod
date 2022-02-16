@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Tue, 15 Feb 2022 05:00:06 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Feb 2022 05:00:07 +0200</lastBuildDate>
             <item>
-                <title>103: Maus vs. McMinn County School Board</title>
-                <description>So, McMinn County School Board in Tennessee decided to remove Maus - Art Spiegelman&#39;s classic graphic novel about the Nazi Holocaust and historical memory - from their syllabus, on the grounds that some simply sketched mouse nudity and a few very mild...
-Feed: https://feeds.libsyn.com/152597/rss</description>
+                <title>Why Do APTs Use Ransomware? [ML B-Side]</title>
+                <description>Assaf Dahan, Head of Threat Research with the Cybereason Nocturnus Team, discusses new discoveries about Iranian APTs Moses Staff and Phosphorus that blur the line between state-sponsored attacks and criminal activity.
+Feed: https://malicious.life/feed/podcast/</description>
                 
                 
-                <link>https://idontspeakgerman.libsyn.com/103-maus-vs-mcminn-county-school-board</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/idontspeakgerman/IDSG_Ep103_Maus_vs_McMinn_County_School_Board.mp3?dest-id=986627"/>
-                <guid>https://idontspeakgerman.libsyn.com/103-maus-vs-mcminn-county-school-board</guid>
+                <link>https://malicious.life/why-do-apts-use-ransomware-ml-b-side/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/security_all_in/stream.redcircle.com/episodes/d1c2a9f0-e8cc-416b-9f3b-6cc99ef51d71/stream.mp3"/>
+                <guid>https://malicious.life/why-do-apts-use-ransomware-ml-b-side/</guid>
                 
             </item><item>
-                <title>The people want the fall of the regime? w/ William Vanwagenen</title>
-                <description>William Vanwagenen  is the author of  and      Please consider supporting the podcast on
-Feed: https://eastisapodcast.libsyn.com/rss</description>
+                <title>Presenting: Science Vs. Joe Rogan: The Malone Interview</title>
+                <description>Today we are sharing an episode made by our colleagues at Science Vs. In the piece, they dive deep on the effects of COVID misinformation spread by the show The Joe Rogan Experience, specifically in one episode featuring Dr. Robert Malone. The Science Vs. team interrogates the question: just what kind of damage can a show do to a society in the midst of a pandemic?
+Learn more about your ad choices. Visit podcastchoices.com/adchoices
+Feed: https://feeds.megaphone.fm/replyall</description>
                 
                 
-                <link>https://www.eastpodcast.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/eastisapodcast/Episode_177_Will_Van_Wegenen.mp3?dest-id=831728"/>
-                <guid>https://www.eastpodcast.com</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/GLT6179926866.mp3?updated=1644613452"/>
+                <guid></guid>
                 
             </item>
         </channel>
