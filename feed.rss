@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Fri, 18 Feb 2022 05:00:06 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 19 Feb 2022 05:00:06 +0200</lastBuildDate>
             <item>
-                <title>Episode 53 - Nancy Cartwright</title>
-                <description>&lt;p&gt;I am joined this week by the voice of Bart Simpson, the one and only Nancy Cartwright, to talk about her new Audible exclusive audio book entitled &amp;quot;I&amp;apos;m Still a 10-Year-Old Boy.&amp;quot; We also talk about what it&amp;apos;s like to voice someone like Bart for 35 years, and what kind of perspective that can offer.&lt;/p&gt;Support the show (https://ko-fi.com/bartofdarkness)
-Feed: https://feeds.buzzsprout.com/1289483.rss</description>
+                <title>Italy’s hidden sins</title>
+                <description>How Italy has failed to confront the scourge of clerical sex abuse
+Feed: https://podcasts.files.bbci.co.uk/p02nq0lx.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/https://chrt.fm/track/3B73G7/www.buzzsprout.com/1289483/9947258-episode-53-nancy-cartwright.mp3"/>
-                <guid></guid>
+                <link>http://www.bbc.co.uk/programmes/p0bphvry</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bphswf.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0bphvry</guid>
                 
             </item><item>
-                <title>Climate of danger: Exile</title>
-                <description>Death threats and exile: The high cost of defending the environment
-Feed: https://podcasts.files.bbci.co.uk/w13xtv78.rss</description>
+                <title>Indigenous Plurinationalism w/ New Amauta (Pt.2)</title>
+                <description>New Amauta  joins Nick Estes  for a discussion on the roots of Indigenous resistance and decolonization from an international perspective. Make sure to check out the first half of the conversation! Support 
+Feed: https://therednation.libsyn.com/rss</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0bpv151</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0bprzmr.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0bpv151</guid>
+                <link>https://www.therednation.org</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/therednation/New_Amauta_Part_2.mp3?dest-id=1602425"/>
+                <guid>https://www.therednation.org</guid>
                 
             </item>
         </channel>
