@@ -6,9 +6,9 @@ The newest episodes of the newest podcast series from [fyyd.de](https://fyyd.de)
 
 ## Subscribe
 
-Click on [the podcast feed](https://raw.githubusercontent.com/pschwede/serendipod/master/feed.rss) to open it in your default app or copy and paste its URL into your app:
+Click on [the podcast feed](https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss) to open it in your default app or copy and paste its URL into your app:
 
-```https://raw.githubusercontent.com/pschwede/serendipod/master/feed.rss```
+```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss```
 
 ## Run the bot yourself
 
