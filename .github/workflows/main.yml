@@ -50,6 +50,9 @@ jobs:
     - name: Generate latest feed
       run: bin/serendipod.py feed.rss
       
+    - name: Commit new RSS feed
+      run: git commit -m"Feed update." feed.rss
+      
     - name: RSS push changes
       uses: ad-m/github-push-action@master
       with:
