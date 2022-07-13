@@ -52,8 +52,8 @@ jobs:
       
     - name: Commit new RSS feed
       run:
-        git config --global user.email "action@example.org"
-        git config --global user.name "Github Action"
+        git config --global user.email "action@example.org";
+        git config --global user.name "Github Action";
         git commit -m"Feed update." feed.rss
       
     - name: RSS push changes
