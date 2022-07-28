@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Wed, 27 Jul 2022 04:59:17 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 28 Jul 2022 04:50:39 +0200</lastBuildDate>
             <item>
-                <title>527 - KotN Actual Play DFRPG -He Gives You Magic Advice, I Give You Irresponsible Advice</title>
-                <description>Danger is always bad, and now it&#39;s three times more dangerous..
-Feed: https://kotnwod.libsyn.com/rss</description>
+                <title>One on One Gaming - The 300th: Part One</title>
+                <description>Conner is back, and he&#39;s the survivor of doomed rearguard against a host of nasty creatures.  With the army approaching Conner has to use all his wits to slow down the approaching hoard!
+Feed: https://feeds.transistor.fm/we-hate-bards-podcasts</description>
                 
                 
-                <link>https://kotnwod.libsyn.com/527-kotn-actual-play-dfrpg-he-gives-you-magic-advice-i-give-you-irresponsible-advice</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/kotnwod/527_DFRPG_He_Gives_You_Magic_Advice_I_Give_You_Irresponsible_Advice_.mp3?dest-id=23753"/>
-                <guid>https://kotnwod.libsyn.com/527-kotn-actual-play-dfrpg-he-gives-you-magic-advice-i-give-you-irresponsible-advice</guid>
+                <link>https://share.transistor.fm/s/afb24e7d</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.transistor.fm/afb24e7d/d51d470d.mp3"/>
+                <guid>https://share.transistor.fm/s/afb24e7d</guid>
                 
             </item><item>
-                <title>Don&#39;t Be Surprised by the No Surprises Act</title>
-                <description>Join us for another session from ECC22 in Destin,…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:163382375/sounds.rss</description>
+                <title>Tour: Embracing a Rejected Star</title>
+                <description>Zeta Ophiuchi is a star with a complicated past, having likely been ejected from its birthplace by a powerful stellar explosion. A new look by NASA&#39;s Chandra X-ray Observatory helps tell more of the story of this runaway star.
+Feed: http://chandra.harvard.edu/resources/podcasts/hd/podcasts.xml</description>
                 
                 
-                <link>https://soundcloud.com/acep-frontline/dont-be-surprised-by-the-evolution-and-status-of-the-no-surprises-act</link>
-                <enclosure type="audio/mpeg" length="1" url="http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1311679252-acep-frontline-dont-be-surprised-by-the-evolution-and-status-of-the-no-surprises-act.mp3"/>
-                <guid>https://soundcloud.com/acep-frontline/dont-be-surprised-by-the-evolution-and-status-of-the-no-surprises-act</guid>
+                <link>https://chandra.harvard.edu/resources/podcasts/ts/ts250722_hd.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chandra.harvard.edu/resources/podcasts/media/pod250722_hd.m4v"/>
+                <guid>https://chandra.harvard.edu/resources/podcasts/ts/ts250722_hd.html</guid>
                 
             </item>
         </channel>
