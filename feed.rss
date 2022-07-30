@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Fri, 29 Jul 2022 04:54:53 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 30 Jul 2022 04:44:09 +0200</lastBuildDate>
             <item>
-                <title>The Red Wood Forest</title>
-                <description>Wisdom from exploring the Red Wood Forest in Nort…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:6869851/sounds.rss</description>
+                <title>SuperTab Radio 239</title>
+                <description>Radio show hosted by Super8 &amp; Tab. 
+Feed: http://feeds.feedburner.com/SupertabRadioPodcast</description>
                 
                 
-                <link>https://soundcloud.com/alovinglight/the-red-wood-forest</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1310204509-alovinglight-the-red-wood-forest.mp3"/>
-                <guid>https://soundcloud.com/alovinglight/the-red-wood-forest</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://radio.super8andtab.com/radio/audio/Supertab239.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>648 - No More Targets feat. Brendan James &amp; Noah Kulwin (7/25/22)</title>
-                <description>It&#39;s Blowback Season 3 Day! The boys are joined b…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss</description>
+                <title>Jesus Stories #43 - Jesus Prays (Holy Week #8)</title>
+                <description>WHAT HAPPENS IN THIS EPISODE:  Jesus prays for himself, his disciples, and those who will come after them in Jesus’ name   He takes Peter, James, and John to pray for deliverance from the wrath that he is about to experience 
+Feed: http://jesusstories.info/feed/podcast/</description>
                 
                 
-                <link>https://soundcloud.com/chapo-trap-house/648-no-more-targets-feat-brendan-james-noah-kulwin-72522</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1311780979-chapo-trap-house-648-no-more-targets-feat-brendan-james-noah-kulwin-72522.mp3"/>
-                <guid>https://soundcloud.com/chapo-trap-house/648-no-more-targets-feat-brendan-james-noah-kulwin-72522</guid>
+                <link>http://jesusstories.info/characters/peter/43-jesus-prays-holy-week-8/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/narrationbygeorge/content.blubrry.com/narrationbygeorge/JS_43-Jesus_Prays_HW_8.mp3"/>
+                <guid>http://jesusstories.info/characters/peter/43-jesus-prays-holy-week-8/</guid>
                 
             </item>
         </channel>
