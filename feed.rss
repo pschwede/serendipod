@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Sat, 30 Jul 2022 04:44:09 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 31 Jul 2022 04:38:45 +0200</lastBuildDate>
             <item>
-                <title>SuperTab Radio 239</title>
-                <description>Radio show hosted by Super8 &amp; Tab. 
-Feed: http://feeds.feedburner.com/SupertabRadioPodcast</description>
+                <title>Chris Knight, Photographer and Educator</title>
+                <description>Chris Knight, Photographer and Educator
+www.MeettheCreatives.org 
+Feed: https://feeds.simplecast.com/3JLCgTvn</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://radio.super8andtab.com/radio/audio/Supertab239.mp3"/>
-                <guid></guid>
+                <link>https://meetthecreatives.simplecast.com/episodes/chris-knight-photographer-and-educator-5z14ocH4</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G224FE/cdn.simplecast.com/audio/e0f3b9e9-a7a8-4da0-8c3f-266cd5ac27d6/episodes/a2368a04-8565-468e-8112-56a4ffbbd02e/audio/e25cb433-d9a3-48c0-a2ff-0c2026a25146/default_tc.mp3?aid=rss_feed&amp;feed=3JLCgTvn"/>
+                <guid>https://meetthecreatives.simplecast.com/episodes/chris-knight-photographer-and-educator-5z14ocH4</guid>
                 
             </item><item>
-                <title>Jesus Stories #43 - Jesus Prays (Holy Week #8)</title>
-                <description>WHAT HAPPENS IN THIS EPISODE:  Jesus prays for himself, his disciples, and those who will come after them in Jesus’ name   He takes Peter, James, and John to pray for deliverance from the wrath that he is about to experience 
-Feed: http://jesusstories.info/feed/podcast/</description>
+                <title>Andrew Tate Exposes How He Makes Money, Talks Scamming People and Dating Kylie Jenner!</title>
+                <description>The boys flew to Croatia to sit down with Andrew Tate for a 2 hour long episode.
+Feed: https://feeds.megaphone.fm/fullsend</description>
                 
                 
-                <link>http://jesusstories.info/characters/peter/43-jesus-prays-holy-week-8/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/narrationbygeorge/content.blubrry.com/narrationbygeorge/JS_43-Jesus_Prays_HW_8.mp3"/>
-                <guid>http://jesusstories.info/characters/peter/43-jesus-prays-holy-week-8/</guid>
+                <link>https://youtu.be/f4isrrclZu0</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/traffic.megaphone.fm/SSI4027443724.mp3?updated=1659048617"/>
+                <guid>https://youtu.be/f4isrrclZu0</guid>
                 
             </item>
         </channel>
