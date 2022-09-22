@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Wed, 21 Sep 2022 05:35:53 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 22 Sep 2022 05:33:55 +0200</lastBuildDate>
             <item>
-                <title>Be Where Your Customers Are</title>
-                <description>How our iOS 16 launches went, and what we&#39;re focusing on next.
-Feed: https://www.relay.fm/radar/feed</description>
+                <title>Avoiding the Bear Trap - Live from Future Proof</title>
+                <description>The Express steams through the Future Proof Wealth Festival to bring you conversations from some of the country&#39;s top financial advisors and investment strategists on how we should navigate the tumult in the capital markets. Joe McLean, Lindsey Bell, Blair Duquesnay and Michael Antonelli climb aboard with their best advice for investors of all ages as we face rising interest rates and even more uncertainty...
+Feed: https://feeds.megaphone.fm/investopediaexpress</description>
                 
                 
-                <link>http://relay.fm/radar/251</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/radarrelay/undertheradar251.mp3"/>
-                <guid>http://relay.fm/radar/251</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/MERE6750510394.mp3?updated=1663589376"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Danielle LaPorte: Only You Can End Your Suffering – How To Be Loving, Despite Adversity &amp; Pain</title>
-                <description>Danielle LaPorte is back on the show this week, having experienced a (failed) cancellation attempt and living to tell the world of her learnings from it. The truth is, as much as the cult-like mentality wants to paint things as black and white, they...
-Feed: https://thelifestylist.libsyn.com/rss</description>
+                <title>International space law with Cordula Panosch</title>
+                <description>International space law expert Cordula Panosch explains what is and is not legal when it comes to deflecting an Earth-bound asteroid. Although much depends on the individual circumstances, she explains how existing laws govern what countries can and...
+Feed: https://spacepod.libsyn.com/rss</description>
                 
                 
-                <link>https://www.lukestorey.com/lifestylistpodcast/danielle-laporte-only-you-can-end-your-suffering-how-to-be-loving-despite-adversity-pain-433</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/18BF3D/traffic.libsyn.com/secure/thelifestylist/Master_LS_433_DanielleLaPorte.mp3?dest-id=331142"/>
-                <guid>https://www.lukestorey.com/lifestylistpodcast/danielle-laporte-only-you-can-end-your-suffering-how-to-be-loving-despite-adversity-pain-433</guid>
+                <link>https://spacepod.libsyn.com/201-international-space-law-with-cordula-panosch</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/spacepod/201Panosch.mp3?dest-id=277763"/>
+                <guid>https://spacepod.libsyn.com/201-international-space-law-with-cordula-panosch</guid>
                 
             </item>
         </channel>
