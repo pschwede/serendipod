@@ -9,26 +9,37 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Wed, 05 Oct 2022 05:00:45 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 06 Oct 2022 04:51:52 +0200</lastBuildDate>
             <item>
-                <title>Live Praise, We Team</title>
-                <description>Sunday AM
-Feed: https://feeds.feedburner.com/GatewayBelieversFellowship-MusicAudio</description>
+                <title>The Anime Nostalgia Podcast - ep 111: ReView: Hyper Doll</title>
+                <description>Subscribers! Be sure to go to the blog to read the description easier &amp;amp; check out links for this episode!This month’s episode is another short ReView! What is a “ReView” episode, you might ask? Well, it’s my highly-clever (ok not really) name for episodes where I go back and revisit an older title I haven’t seen in a long time, and see if what I remember (and what my opinions on it) are still the same now that some time’s gone by...
+Feed: https://feeds.feedburner.com/AnimeNostalgiaPodcast</description>
                 
                 
-                <link>https://www.spreaker.com/user/gatewaybelieversfellowship/live-praise-we-team_221</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/51444121/10022022_114546_music.mp3"/>
-                <guid>https://www.spreaker.com/user/gatewaybelieversfellowship/live-praise-we-team_221</guid>
+                <link>http://animenostalgia.blogspot.com/2022/09/the-anime-nostalgia-podcast-ep-111.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/the-anime-nostalgia-podcast-ep-111-re-view-hyper-doll/The%20Anime%20Nostalgia%20Podcast%20Ep%20111%20ReView%20HyperDoll.mp3"/>
+                <guid>http://animenostalgia.blogspot.com/2022/09/the-anime-nostalgia-podcast-ep-111.html</guid>
                 
             </item><item>
-                <title>Hot Pipes Podcast 297 – Stage Musicals 1940-1959</title>
-                <description>Stage Musicals 1940-1959 Start Name Artist Album Year Comments Another Op&#39;nin&#39;, Another Show Tom Hazleton Concert: Pasadena Civic Dedication 1980-04-23 1980 5-28 Moller, Civic Auditorium, Pasadena, CA - 3:16 
-Feed: https://www.hotpipes.eu/feed/podcast-m4a/</description>
+                <title>Chronology 364</title>
+                <description>
+The three hundred sixty-fourth episode of the «Chronology» podcast
+Tracklist:
+1) Missus — Eternal Farewell
+2) Adham Zahran, Hisham Zahran — Cosmic Transmission (Matthias Vogt Remix)
+3) Kamilo Sanclemente — Amethyst
+4) Torn Sail feat. E.R. Thorpe — Scared Of My Heart (Andre Lodemann Remix)
+5) Flowers On Monday, Patrick Chardronnet — Ferien
+6) TEELCO — Midnight Horizon
+7) Alex O&#39;Rion — Relic (Simos Tagias Remix)
+8) Federico Monachesi — Alborz (Callecat Remix)
+9) D...
+Feed: https://www.eugenebalul.com/podcast/chronology.xml</description>
                 
                 
-                <link>https://www.hotpipes.eu/podcast-297/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/hot_pipes_one_hour_podcast_m4a/www.hotpipes.eu/audio-one-hour/Hot-Pipes-297.m4a"/>
-                <guid>https://www.hotpipes.eu/podcast-297/</guid>
+                <link>https://eugenebalul.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1356909919-eugenebalul-chronology-364.m4a"/>
+                <guid>https://eugenebalul.com</guid>
                 
             </item>
         </channel>
