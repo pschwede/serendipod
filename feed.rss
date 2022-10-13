@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Wed, 12 Oct 2022 05:10:53 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 13 Oct 2022 05:34:05 +0200</lastBuildDate>
             <item>
-                <title>Round Table China</title>
-                <description>&#34;Round Table&#34; is the...
-Feed: https://aezfm.meldingcloud.com/rss/program/11</description>
+                <title>Neuroradiology: Cranial Foramina</title>
+                <description>Review of neuroradiology cranial foramina for radiology board exams.  Check out the free downloadable study guide on this episode available at . Prepare to succeed. 
+Feed: https://radrevpodcast.libsyn.com/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/9G554/podcasts-cri.meldingcloud.com/WJSL_YFMD/WJSL_YFMD/54c6f9582a80fc1e70ff5575/19D4BA96384C4AC0A9FF3DA1FE4CE352.mp3"/>
-                <guid></guid>
+                <link>https://radrevpodcast.libsyn.com/neuroradiology-cranial-foramina</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/radrevpodcast/neuro_cranial_foramina.mp3?dest-id=1871780"/>
+                <guid>https://radrevpodcast.libsyn.com/neuroradiology-cranial-foramina</guid>
                 
             </item><item>
-                <title>BONUS - MYSTERIOUS TRAVELER &amp; BEYOND MIDNIGHT </title>
-                <description>MYSTERIOUS TRAVELER &amp; BEYOND MIDNIGHT RADIO SHOWS!
-
-Feed: https://anchor.fm/s/14c4d9ac/podcast/rss</description>
+                <title>281-The Obsession Of Extreme Privacy</title>
+                <description>This week I revisit some impacts of extreme priva…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss</description>
                 
                 
-                <link>https://anchor.fm/terror-radio/episodes/BONUS---MYSTERIOUS-TRAVELER--BEYOND-MIDNIGHT-e1p08vn</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/14c4d9ac/podcast/play/58778039/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F14c4d9ac%2F58778039%2F0fe6a39454c0cfe98044d9120a52b43a.m4a"/>
-                <guid>https://anchor.fm/terror-radio/episodes/BONUS---MYSTERIOUS-TRAVELER--BEYOND-MIDNIGHT-e1p08vn</guid>
+                <link>https://soundcloud.com/user-98066669/281-the-obsession-of-extreme-privacy</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1358719066-user-98066669-281-the-obsession-of-extreme-privacy.mp3"/>
+                <guid>https://soundcloud.com/user-98066669/281-the-obsession-of-extreme-privacy</guid>
                 
             </item>
         </channel>
