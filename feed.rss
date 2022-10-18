@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Mon, 17 Oct 2022 05:40:16 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 18 Oct 2022 05:40:59 +0200</lastBuildDate>
             <item>
-                <title>Why it hurts to release a record (with Sylvan Esso)</title>
-                <description>Amelia Meath asks MUNA, Maggie Rogers, Jeff Tweedy, Bartees Strange
-Feed: https://feeds.megaphone.fm/switchedonpop</description>
+                <title>La lutte pour une justice alimentaire (Fighting for Food Justice)</title>
+                <description>A Montreal resident realizes people in his neighborhood of Saint-Henri West don’t have access to fresh and affordable food. So together as a community, they decide to take matters into their own hands and open a collective grocery store run by and...
+Feed: https://frpodcast.libsyn.com/gpm</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP7433084404.mp3?updated=1665518336"/>
-                <guid></guid>
+                <link>http://frpodcast.libsyn.com/la-lutte-pour-une-justice-alimentaire-fighting-for-food-justice</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/198DE/traffic.libsyn.com/secure/frpodcast/S11E7_-_Fighting_for_Food_Justice_La_lutte_pour_une_justice_alimentaire.mp3?dest-id=1334078"/>
+                <guid>http://frpodcast.libsyn.com/la-lutte-pour-une-justice-alimentaire-fighting-for-food-justice</guid>
                 
             </item><item>
-                <title>377: How to Shift from Inconsistent Sales to Predictable Revenue</title>
-                <description>A framework to get clear on your acquisition strategy and drive predictable revenue so you can grow your business.  Predictable revenue is one of the pillars of the  program with Austin. A lot of early-stage eComm owners look to what they see...
-Feed: https://ecommerceinfluence.libsyn.com/rss</description>
+                <title>The Cynic Weekly – 13.10.2022</title>
+                <description>The Cynic Weekly – The original 90 Minute Cynic Podcast.
+Host Chris Gallagher is joined by a regular panelist Chris Sermanni and Allan Edgar.
+The panel start by discussing the 2-0 defeat to RB Leipzig in Germany, focusing on player and team...
+Feed: https://www.spreaker.com/show/1544444/episodes/feed</description>
                 
                 
-                <link>https://ecommerceinfluence.libsyn.com/377-how-to-shift-from-inconsistent-sales-to-predictable-revenue</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/ecommerceinfluence/EI_377_lily__Austin_.mp3?dest-id=192973"/>
-                <guid>https://ecommerceinfluence.libsyn.com/377-how-to-shift-from-inconsistent-sales-to-predictable-revenue</guid>
+                <link>https://www.spreaker.com/user/thee90minutecynic/thecynicweekly1310</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/51568727/thecynicweekly1310.mp3"/>
+                <guid>https://www.spreaker.com/user/thee90minutecynic/thecynicweekly1310</guid>
                 
             </item>
         </channel>
