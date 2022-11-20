@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Sat, 19 Nov 2022 04:27:52 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 20 Nov 2022 04:29:17 +0200</lastBuildDate>
             <item>
-                <title>Episode 50: Retirement, Breakfast and the 50th Episode featuring Kawika Shoji</title>
-                <description>&lt;p&gt;In this MILESTONE 50th episode, Clarence and Stephen celebrate 50 episodes of hosting the show, they catch up a little and talk about their Thanksgiving meal traditions. Then they sit down with two-time Olympian and Olympic bronze medalist, Kawika Shoji (11:49 - 1:23:59)! They talk about Kawika&amp;apos;s recent retirement, his incredible career, playing on the same team as his brother and much, much more!&lt;/p&gt;
-Feed: https://feeds.buzzsprout.com/1747862.rss</description>
+                <title>The BBC Music Introducing Mixtape with Tom Robinson</title>
+                <description>An hour of top tunes from the likes of  LAU.RA, Svens Sears and Balderdash.
+Feed: https://podcasts.files.bbci.co.uk/p02nrw4q.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1747862/11704658-episode-50-retirement-breakfast-and-the-50th-episode-featuring-kawika-shoji.mp3"/>
-                <guid></guid>
+                <link>http://www.bbc.co.uk/programmes/p0dfgpcc</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0dfghjd.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0dfgpcc</guid>
                 
             </item><item>
-                <title>Rock At Night chats with singer/songwriter LIV</title>
-                <description>LIV discusses the symbolism and experiences of writing a glittering album that is equal parts nostalgic and mature and the sonic tropes and stylistic choices alongside her real-life inspirations.  [...]
-Feed: https://www.rockatnight.com/feed/podcast/</description>
+                <title>Morning Stretch: A Moving Meditation</title>
+                <description>Slow down and enjoy this 15-minute moving meditation. I call this &#39;Morning Stretch&#39; but this meditation could certainly be done in the afternoon as a reset or in the evening to prepare you for deep sleep.  Do you find The Morning Ritual to be...
+Feed: https://themorningritual.libsyn.com/rss</description>
                 
                 
-                <link>https://www.rockatnight.com/podcast/rock-at-night-chats-with-singer-songwriter-liv/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.rockatnight.com/podcast-download/76784/rock-at-night-chats-with-singer-songwriter-liv.mp3"/>
-                <guid>https://www.rockatnight.com/podcast/rock-at-night-chats-with-singer-songwriter-liv/</guid>
+                <link>https://themorningritual.libsyn.com/morning-stretch-a-moving-meditation</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/traffic.libsyn.com/secure/themorningritual/Morning_Stretch.mp3?dest-id=1916162"/>
+                <guid>https://themorningritual.libsyn.com/morning-stretch-a-moving-meditation</guid>
                 
             </item>
         </channel>
