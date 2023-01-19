@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.2</generator>
-            <lastBuildDate>Wed, 18 Jan 2023 04:24:31 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 19 Jan 2023 04:25:27 +0200</lastBuildDate>
             <item>
-                <title>Storytime: Cowy Has a Goal</title>
-                <description>&lt;p&gt;This year Cowy decided to become very, very, very tall. Can she do it just by setting a goal? Join us to learn about the difference between having a goal and having an achievable goal. &lt;br/&gt;Parents, we have plenty of activities, games, and songs that will teach your little one all about collaboration, critical thinking, creativity, and communication in the Lingokids app! ????&lt;/p&gt;
-Feed: https://feeds.buzzsprout.com/2029227.rss</description>
+                <title>Ear Hustle Extra: Sam Quentin</title>
+                <description>Ear Hustle says goodbye to dear friend and “approver” extraordinaire, Lieutenant Sam Robinson.
+Feed: http://feeds.earhustlesq.com/earhustlesq</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/9B87AA/www.buzzsprout.com/2029227/12014250-storytime-cowy-has-a-goal.mp3"/>
-                <guid></guid>
+                <link>https://beta.prx.org/stories/449328</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/59/967d4942-c1fc-404c-9d5b-ec6036ca1acd/1009_SAM_QUENTIN_FINAL_16.mp3"/>
+                <guid>https://beta.prx.org/stories/449328</guid>
                 
             </item><item>
-                <title>New Media Show - Happy New Year</title>
-                <description>In this episode, we talk about Todd&#39;s attendance of CES and what he saw in regard to podcasting, and we cover the latest and greatest happening in the podcasting space. By all terms, it is the best time to be a podcaster as podcast creation of new epis...
-Feed: https://newmediashow.com/feed/podcast/</description>
+                <title>Phil Graham, CEO and Creator of The Beneficiary Liquidity Plan® Delivers Money To Beneficiaries When It’s Needed Most</title>
+                <description>&lt;p&gt;Ep 84 - &lt;strong&gt;Phil Graham is the driving force behind the development and innovation of BLP. Phil brings over 25 years of financial services experience, focusing on designing and distributing products through financial advisors. He has led the efforts of over $22 billion in insurance, investment, and annuity sales. &lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;At BLP, we bring innovative products and distribution onto modern financial planning platforms...
+Feed: https://www.omnycontent.com/d/playlist/846baf27-205f-49b8-b1fc-ac4d002fa92f/06850804-8d56-47e6-9f8d-ac95001324ef/837a7aca-a317-4765-bd4c-ac9500159b2e/podcast.rss</description>
                 
                 
-                <link>https://newmediashow.com/2023/01/12/new-media-show-happy-new-year/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-media-show-happy-new-year</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/nms/media.blubrry.com/tmts/ins.blubrry.com/tmts/NMS-2023-01-11mp4.mp4"/>
-                <guid>https://newmediashow.com/2023/01/12/new-media-show-happy-new-year/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-media-show-happy-new-year</guid>
+                <link>https://omny.fm/shows/health-and-wealth-podcast-with-carter-tim/phil-graham</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/846baf27-205f-49b8-b1fc-ac4d002fa92f/06850804-8d56-47e6-9f8d-ac95001324ef/c908082e-f989-430b-9855-af8e015ebafe/audio.mp3?utm_source=Podcast&amp;in_playlist=837a7aca-a317-4765-bd4c-ac9500159b2e"/>
+                <guid>https://omny.fm/shows/health-and-wealth-podcast-with-carter-tim/phil-graham</guid>
                 
             </item>
         </channel>
