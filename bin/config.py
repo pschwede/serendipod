@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 
 PROJECT_NAME = "serendipod"
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 URL_FYYD = 'https://fyyd.de/discover/hot'
+LANGUAGE = 'en'
 URL_CHANNEL_IMAGE = ''
 RE_TITLE_FILTER = r'^Podcast'
 RE_FOOTNOTE = r'\([0-9]+\)$'

@@ -1,7 +1,7 @@
 #!/bin/bash
 
-source env/bin/activate
+source ../env/bin/activate
 
-bin/serendipod.py $1
+bin/serendipod.py $1 $2
 
 deactivate

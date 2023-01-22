@@ -52,9 +52,9 @@ def translate(feed):
                     })
     return entries
 
-def pick_fyyd_feed(url:str, num_results:int = 1) -> List[Dict]:
+def pick_fyyd_feed(url:str, language:str = LANGUAGE, num_results:int = 1) -> List[Dict]:
     entries = list()
-    response = requests.get(url)
+    response = requests.get(url, headers={"Accept-Language": language+",en-US;q=0.7,en;q=0.3"})
     for i, x in enumerate(MATCHER_FYYD.findall(response.text)):
         if i > num_results:
             break
@@ -78,10 +78,10 @@ def pick_fyyd_feed(url:str, num_results:int = 1) -> List[Dict]:
     return entries
 
 
-def main(outpath: str) -> int:
-    translated = pick_fyyd_feed(URL_FYYD)
+def main(language:str, outpath: str) -> int:
+    translated = pick_fyyd_feed(URL_FYYD, language)
     composed = Template(TEMPLATE_STRING).render( \
-            title='Serendipod',
+            title='Serendipod' + (' ' + language if language else ''),
             link="https://github.com/pschwede/serendipod",
             description='Scraped from https://fyyd.de',
             image=URL_CHANNEL_IMAGE,
@@ -102,4 +102,5 @@ def main(outpath: str) -> int:
 
 if __name__ == '__main__':
     import sys
-    sys.exit(main(outpath=sys.argv[1] if len(sys.argv)>1 else None))
+    sys.exit(main(language=sys.argv[1] if len(sys.argv)>1 else LANGUAGE,
+        outpath=sys.argv[2] if len(sys.argv)>2 else None))
