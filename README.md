@@ -8,13 +8,13 @@ The newest episodes of the newest podcast series from [fyyd.de](https://fyyd.de)
 
 Click on [the podcast feed](https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss) to open it in your default app or copy and paste its URL into your app:
 
-en: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss```
-zh: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.zh.rss```
-es: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.es.rss```
-pt: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.pt.rss```
-fr: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.fr.rss```
-de: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.de.rss```
-jp: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.jp.rss```
+* en: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss```
+* zh: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.zh.rss```
+* es: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.es.rss```
+* pt: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.pt.rss```
+* fr: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.fr.rss```
+* de: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.de.rss```
+* jp: ```https://raw.githubusercontent.com/pschwede/serendipod/main/feed.jp.rss```
 
 ## Run the bot yourself
 
