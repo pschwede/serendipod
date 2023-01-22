@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 22 Jan 2023 14:30:17 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 22 Jan 2023 13:51:52 +0200</lastBuildDate>
             <item>
-                <title>Le Leroy show : 01/15/2023 20:00</title>
-                <description>712-280505
-Feed: http://podcast.cism893.ca/radioshows/712/feed_itunes.xml</description>
+                <title>Les Affaires Brassicoles #229 | Flore Sauvage : offrir de la bière dans le respect des ingrédients et le rythme de la fermentation</title>
+                <description>&lt;p&gt;La brasserie Flore Sauvage Coopérative Brassicole s’installe à Sainte-Flore, un village proche de Shawinigan en Mauricie. Ce projet brassicole, inspiré par l’esprit du Farmhouse, a été lancé par David Côté, Stéphanie Forcier et Mathieu Fortin. Ils veulent laisser la bière fermentée à son rythme à l’aide de la fleur locale, tout en mettant en valeur les produits locaux en collaboration avec les fournisseurs du coin, et tout ça, en toute simplicité...
+Feed: https://anchor.fm/s/463153a8/podcast/rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/280505.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/280505.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/280505.mp3</guid>
+                <link>https://anchor.fm/lesaffairesbrassicoles/episodes/Les-Affaires-Brassicoles-229--Flore-Sauvage--offrir-de-la-bire-dans-le-respect-des-ingrdients-et-le-rythme-de-la-fermentation-e1tm5r6</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/463153a8/podcast/play/63690022/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-18%2F595392e9-0213-d58f-95c3-8c9eeaa1e8c9.mp3"/>
+                <guid>https://anchor.fm/lesaffairesbrassicoles/episodes/Les-Affaires-Brassicoles-229--Flore-Sauvage--offrir-de-la-bire-dans-le-respect-des-ingrdients-et-le-rythme-de-la-fermentation-e1tm5r6</guid>
                 
             </item><item>
-                <title>Les enjeux internationaux, émission du vendredi 20 janvier 2023</title>
-                <description>Les enjeux internationaux, émission du vendredi 20 janvier 2023
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13305.xml</description>
+                <title>Chimène Badi en live dans &#34;Le Grand Studio RTL&#34;</title>
+                <description>Chimène Badi est l&#39;invitée du &#34;Grand Studio RTL&#34; 
+&#34;Le Grand Studio RTL&#34; est une émission présentée par Eric Jean-Jean. 
+Retrouvez la page RTL du &#34;Grand Studio RTL&#34; : http://bit.ly/1xPAJK5 
+Retrouvez la page Facebook du &#34;Grand Studio RTL&#34; : http://on.fb.me/16EPNzX
+...
+Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/les-enjeux-internationaux-emission-du-vendredi-20-janvier-2023-4761583</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/dcd26686-c1fd-4e95-b6b5-3ebf6c75e3c0/13305-20.01.2023-ITEMA_23262644-2023C3305S0020-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/les-enjeux-internationaux-emission-du-vendredi-20-janvier-2023-4761583</guid>
+                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rtl.proxycast.org/3021500739588468736/89c9036f-fb94-413b-8512-0e4a599a10b8.mp3?u=FbteVXJUvY&amp;_=1674312184"/>
+                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
                 
             </item>
         </channel>
