@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        <channel>
+            <title>Serendipod es</title>
+            <link>https://github.com/pschwede/serendipod</link>
+            <atom:link href="https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss" rel="self" type="application/rss+xml" />
+            <description>Scraped from https://fyyd.de</description>
+            
+            <language>de-de</language>
+            <copyright></copyright>
+            <generator>serendipod 0.0.3</generator>
+            <lastBuildDate>Sun, 22 Jan 2023 14:31:25 +0200</lastBuildDate>
+            <item>
+                <title>CdN 8x02 &amp;#8211; Bob Lazar: el ingeniero de naves extraterrestres (parte 2)</title>
+                <description>Compra un caf&amp;eacute; para ayudar a los nantuckianos. https://ko-fi.com/nachobacter1980 Segunda parte acerca de la vida de Bob Lazar, el presunto cient&amp;iacute;fico que investigo en los motores de naves extraterrestres en el &amp;Aacute;rea 51. En esta parte traemos la verdad tras Bob Lazar que no quiere que se sepa. Nuestro marineros hace una gran labor de documentaci&amp;oacute;n para traer la verdad de lo que se hace en el &amp;Aacute;rea 51...
+Feed: https://feeds.feedburner.com/CronicasDeNantucket</description>
+                
+                
+                <link>https://www.ivoox.com/cdn-8x02-8211-bob-lazar-ingeniero-de-audios-mp3_rf_99928843_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cdn-8x02-8211-bob-lazar-ingeniero-de_mf_99928843_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/cdn-8x02-8211-bob-lazar-ingeniero-de-audios-mp3_rf_99928843_1.html</guid>
+                
+            </item><item>
+                <title>El Colegio Invisible 3x152: Dioses oscuros y espíritus malignos en la Historia</title>
+                <description>Las principales religiones animistas del pasado creían en el poder de la naturaleza, en esos dioses que tenían sus casas en los bosques y las montañas, y que podían ser buenos… o extraordinariamente aterradores. Los Dacios, los antiguos habitantes de l...
+Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
+                
+                
+                <link>https://www.ondacero.es/programas/colegio-invisible/podcast/colegio-invisible-3x152-dioses-oscuros-espiritus-malignos-historia_2023012063ca2470d3521e0001539be0.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.antena3.com/mp_audios4//2023/01/20/3B654755-7229-4C44-BC4A-8F260345A8D0/3B654755-7229-4C44-BC4A-8F260345A8D0.mp3"/>
+                <guid>https://www.ondacero.es/programas/colegio-invisible/podcast/colegio-invisible-3x152-dioses-oscuros-espiritus-malignos-historia_2023012063ca2470d3521e0001539be0.html</guid>
+                
+            </item>
+        </channel>
+</rss>

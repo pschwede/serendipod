@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        <channel>
+            <title>Serendipod pt</title>
+            <link>https://github.com/pschwede/serendipod</link>
+            <atom:link href="https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss" rel="self" type="application/rss+xml" />
+            <description>Scraped from https://fyyd.de</description>
+            
+            <language>de-de</language>
+            <copyright></copyright>
+            <generator>serendipod 0.0.3</generator>
+            <lastBuildDate>Sun, 22 Jan 2023 14:45:13 +0200</lastBuildDate>
+            <item>
+                <title>DdG Recomenda – Dragões de Garagem #259</title>
+                <description>Ano novo, vida nova e que tal distrações novas também? Nesse episódio os dragões André, Tupá, Elton  e Pedrão se reúnem para fazer recomendações de mídias que marcaram 2022 (lançadas ou não no ano passado). Aproveite para descobrir séries, músicas,
+Feed: https://feeds.feedburner.com/dragoesdegaragem</description>
+                
+                
+                <link>http://dragoesdegaragem.com/podcast/ddg-recomenda-dragoes-de-garagem-259/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/dragoesdegaragem/arquivos.dragoesdegaragem.com/dragoesdegaragem_259_recomenda.mp3"/>
+                <guid>http://dragoesdegaragem.com/podcast/ddg-recomenda-dragoes-de-garagem-259/</guid>
+                
+            </item><item>
+                <title>#81 - As principais decisões jurisprudenciais de 2022 - Parte 1</title>
+                <description>&lt;p&gt;Neste episódio, conversamos com Rafael Pereira e Thimotie Aragon Heemann, promotores de Justiça do MPPR e professores de Direito, sobre importantes decisões jurisprudências de 2022 para a atuação do Ministério Público. Os julgados que foram selecionados são apresentados em dois episódios, sendo esta a primeira parte na qual abordamos duas alterações legislativas importantes, a abrangência das mesmas e a constitucionalidade delas segundo a ótica dos tribunais superiores...
+Feed: https://anchor.fm/s/ee69214/podcast/rss</description>
+                
+                
+                <link>https://anchor.fm/julgadosecomentados/episodes/81---As-principais-decises-jurisprudenciais-de-2022---Parte-1-e1tevlk</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/ee69214/podcast/play/63454324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-13%2F41448d74-cb02-d48b-8222-2ec1911a06fc.mp3"/>
+                <guid>https://anchor.fm/julgadosecomentados/episodes/81---As-principais-decises-jurisprudenciais-de-2022---Parte-1-e1tevlk</guid>
+                
+            </item>
+        </channel>
+</rss>

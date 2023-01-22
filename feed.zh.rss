@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        <channel>
+            <title>Serendipod zh</title>
+            <link>https://github.com/pschwede/serendipod</link>
+            <atom:link href="https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss" rel="self" type="application/rss+xml" />
+            <description>Scraped from https://fyyd.de</description>
+            
+            <language>de-de</language>
+            <copyright></copyright>
+            <generator>serendipod 0.0.3</generator>
+            <lastBuildDate>Sun, 22 Jan 2023 14:42:37 +0200</lastBuildDate>
+            <item>
+                <title>Episode 126: VS Mickey Saves Christmas and The Guardians of the Galaxy Holiday Special</title>
+                <description>In lieu of a Christmas feature this year, we took on a couple of Disney+ holiday specials! Let&#39;s find out whether they scratch that holiday itch.
+Feed: https://feeds.zencastr.com/f/_ALdPOP9.rss</description>
+                
+                
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://redirect.zen.ai/r/episode/63a4a057d96827855372b09c/audio-files/56c68ea84bbb76c24564a4a7/2e237e96-fac0-45a8-a6f0-32b555c13dec.mp3"/>
+                <guid></guid>
+                
+            </item><item>
+                <title>Ron Reich</title>
+                <description>&lt;p&gt;Ron Reich, a leadership professional of 28 years, discussed the importance of emotional intelligence, situational leadership, and prior preparation to becoming a better leader. He shared his experience of how reading books has helped him become a resource for people and his services, which include helping emerging leaders. He concluded by thanking the listeners for joining the Dead America podcast and encouraging them to share, like, and subscribe.Action Items of this interview1...
+Feed: https://play.disctopia.com/podcast/rss?channel=dead-america</description>
+                
+                
+                <link>https://play.disctopia.com/podcasts/dead-america</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/E89F71/https://cdn2.disctopia.com/disc-podcasts/freecirclee1a782cf7c0e47d39161b09576a62681/dead-america/episodes/ron-reich.mp3"/>
+                <guid>https://play.disctopia.com/podcasts/dead-america</guid>
+                
+            </item>
+        </channel>
+</rss>

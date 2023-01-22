@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        <channel>
+            <title>Serendipod de</title>
+            <link>https://github.com/pschwede/serendipod</link>
+            <atom:link href="https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss" rel="self" type="application/rss+xml" />
+            <description>Scraped from https://fyyd.de</description>
+            
+            <language>de-de</language>
+            <copyright></copyright>
+            <generator>serendipod 0.0.3</generator>
+            <lastBuildDate>Sun, 22 Jan 2023 14:42:55 +0200</lastBuildDate>
+            <item>
+                <title>Gute Führung in Veränderungsprozessen Teil 3: Akzeptanz und Neugier fördern</title>
+                <description>Akzeptanz und Neugier bei den Mitarbeitenden im Veränderungsprozess fördern
+Feed: https://mut-und-motivation-fuer-erfolgreiche-veraenderung.podigee.io/feed/mp3</description>
+                
+                
+                <link>https://mut-und-motivation-fuer-erfolgreiche-veraenderung.podigee.io/349-gute-fuhrung-in-veranderungsprozessen-teil-3-akzeptanz-und-neugier-fordern</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/984303-m-6d57ae231bf75fd7aa5f23226fd3d775.mp3?source=feed"/>
+                <guid>https://mut-und-motivation-fuer-erfolgreiche-veraenderung.podigee.io/349-gute-fuhrung-in-veranderungsprozessen-teil-3-akzeptanz-und-neugier-fordern</guid>
+                
+            </item><item>
+                <title>Folge 33 - Dry January 22. Tag = 22. Tipp</title>
+                <description>Ohne Konsum von Alkohol, Drogen und Tabletten in das neue Jahr. Viel Freude. Kräftige Unterstützung bekommst du hier.
+Feed: https://letscast.fm/podcasts/taeglich-happy-hour-53e70a73/feed</description>
+                
+                
+                <link>https://taeglichhappyhour.letscast.fm/episode/folge-33-dry-january-22-tag-22-tipp</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/f3467ad5/episode/afb91919.mp3?t=1674376318"/>
+                <guid>https://taeglichhappyhour.letscast.fm/episode/folge-33-dry-january-22-tag-22-tipp</guid>
+                
+            </item>
+        </channel>
+</rss>

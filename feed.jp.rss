@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        <channel>
+            <title>Serendipod jp</title>
+            <link>https://github.com/pschwede/serendipod</link>
+            <atom:link href="https://raw.githubusercontent.com/pschwede/serendipod/main/feed.rss" rel="self" type="application/rss+xml" />
+            <description>Scraped from https://fyyd.de</description>
+            
+            <language>de-de</language>
+            <copyright></copyright>
+            <generator>serendipod 0.0.3</generator>
+            <lastBuildDate>Sun, 22 Jan 2023 14:44:31 +0200</lastBuildDate>
+            <item>
+                <title>A Daily Workout to Tackle Nagging Self-Criticism</title>
+                <description>&lt;p&gt;Lots of us hit the gym in January to get fit - but should we also be exercising our minds in preparation for tough times? A daily &#34;self-talk workout&#34; might be just as beneficial as squats and push-ups, says Seattle University psychology professor Rachel Turow. &lt;/p&gt;
+&lt;p&gt;By practicing simple self-compassion exercises each day - such as breathing techniques - we can prepare for future challenges when we&#39;ll need those tools to help us tackle crippling self-criticism or paralyzing sorrow...
+Feed: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss</description>
+                
+                
+                <link>https://omny.fm/shows/the-happiness-lab-with-dr-laurie-santos/a-daily-workout-to-tackle-nagging-self-criticism</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/9e95a8d1-e7b4-4065-a823-af8700d7908e/audio.mp3?utm_source=Podcast&amp;in_playlist=d623ef0b-3fee-4c26-b815-ae32006cd739"/>
+                <guid>https://omny.fm/shows/the-happiness-lab-with-dr-laurie-santos/a-daily-workout-to-tackle-nagging-self-criticism</guid>
+                
+            </item><item>
+                <title>Overcoming Leadership Insecurities w/ Rocky Worship</title>
+                <description>Insecurities &amp; self-doubt as a leader. We all have them, we all do it!    Today’s episode is about helping leaders overcome their fears and insecurities so they can be the kind of leader they want to be.    Not only do we focus on...
+Feed: https://worshiponline.libsyn.com/rss</description>
+                
+                
+                <link>http://worshiponline.libsyn.com/rss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/worshiponline/ep245_FINAL.mp3?dest-id=626586"/>
+                <guid>http://worshiponline.libsyn.com/rss</guid>
+                
+            </item>
+        </channel>
+</rss>
