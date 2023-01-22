@@ -47,14 +47,26 @@ jobs:
     - name: Python install requirements
       run: pip install -r requirements.txt
 
-    - name: Generate latest feed
-      run: bin/serendipod.py feed.rss
+    - name: Generate latest feed (en)
+      run:
+        bin/serendipod.py en feed.rss;
+        git add feed.rss
+
+    - name: Generate latest feed (de)
+      run:
+        bin/serendipod.py en feed.de.rss;
+        git add feed.de.rss
+
+    - name: Generate latest feed (fr)
+      run:
+        bin/serendipod.py en feed.fr.rss;
+        git add feed.de.rss
       
     - name: Commit new RSS feed
       run:
         git config --global user.email "action@example.org";
         git config --global user.name "Github Action";
-        git commit -m"Feed update." feed.rss
+        git commit -m"Feed update." feed.rss feed.de.rss feed.fr.rss
       
     - name: RSS push changes
       uses: ad-m/github-push-action@master
