@@ -48,15 +48,18 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Generate latest feed (en)
-      run: bin/serendipod.py en feed.rss
+      run:
+        bin/serendipod.py en feed.rss
         git add feed.rss
 
     - name: Generate latest feed (de)
-      run: bin/serendipod.py en feed.de.rss
+      run:
+        bin/serendipod.py en feed.de.rss
         git add feed.de.rss
 
     - name: Generate latest feed (fr)
-      run: bin/serendipod.py en feed.fr.rss
+      run:
+        bin/serendipod.py en feed.fr.rss
         git add feed.de.rss
       
     - name: Commit new RSS feed
