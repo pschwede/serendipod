@@ -49,18 +49,31 @@ jobs:
 
     - name: Generate latest feed (en)
       run:
-        bin/serendipod.py en feed.rss;
-        git add feed.rss
+        bin/serendipod.py en feed.rss
 
     - name: Generate latest feed (de)
       run:
-        bin/serendipod.py en feed.de.rss;
-        git add feed.de.rss
+        bin/serendipod.py de feed.de.rss
 
     - name: Generate latest feed (fr)
       run:
-        bin/serendipod.py en feed.fr.rss;
-        git add feed.de.rss
+        bin/serendipod.py fr feed.fr.rss
+
+    - name: Generate latest feed (es)
+      run:
+        bin/serendipod.py es feed.es.rss
+
+    - name: Generate latest feed (pt)
+      run:
+        bin/serendipod.py pt feed.pt.rss
+
+    - name: Generate latest feed (zh)
+      run:
+        bin/serendipod.py zh feed.zh.rss
+
+    - name: Generate latest feed (jp)
+      run:
+        bin/serendipod.py jp feed.jp.rss
       
     - name: Commit new RSS feed
       run:
