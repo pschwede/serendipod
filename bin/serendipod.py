@@ -54,7 +54,7 @@ def translate(feed):
 
 def pick_fyyd_feed(url:str, language:str = LANGUAGE, num_results:int = 1) -> List[Dict]:
     entries = list()
-    response = requests.get(url, headers={"Accept-Language": language+",en-US;q=0.7,en;q=0.3"})
+    response = requests.get(url, headers={"Accept-Language": language+";q=1.0"})
     for i, x in enumerate(MATCHER_FYYD.findall(response.text)):
         if i > num_results:
             break
