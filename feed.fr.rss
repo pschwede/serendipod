@@ -9,29 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 22 Jan 2023 13:56:52 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 23 Jan 2023 04:24:29 +0200</lastBuildDate>
             <item>
-                <title>#87 Aurélien de Nunzio (Algar) - Comment t&#39;as fait pour passer de peintre décorateur à CEO d&#39;une startup tech ?</title>
-                <description>???? &#34;Comment t&#39;as fait ? Les rencontres d&#39;entrepreneurs&#34;, le podcast de ceux qui veulent comprendre comment concrètement les autres ont fait.
-#podcast #entrepreneuriat #business
-Aurélien de Nunzio (https://www.linkedin.com/in/aureliendenunzio/), c&#39;est l...
-Feed: https://feed.ausha.co/B6EYWTGNrkQq</description>
+                <title>FUNKY PEARLS VOL 109 BY DJ TAREK FROM PARIS</title>
+                <description>Bienvenue dans le monde de Funk &amp;amp; Disco (https://funkypearls.fr/) , où nous vous tenons au courant des dernières nouveautés en matière de culture pop et de musique funk.
+Écoutez en direct vos artistes, groupes et chansons funk et disco préférés de...
+Feed: https://feed.ausha.co/ZgAM8Ipw6mkW</description>
                 
                 
-                <link>https://podcast.ausha.co/comment-t-as-fait-les-rencontres-d-entrepreneurs/87-aurelien-de-nunzio-algar-comment-t-as-fait-pour-passer-de-peintre-decorateur-a-ceo-d-une-startup-tech</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stitch.api.soundcast.fm/v1/ausha.mp3?soundcastId=61efe35a52fe6&amp;podcastUrl=https%3A%2F%2Faudio.ausha.co%2Fb7gzmS6mr6nr.mp3%3Ft%3D1673822350"/>
-                <guid>https://podcast.ausha.co/comment-t-as-fait-les-rencontres-d-entrepreneurs/87-aurelien-de-nunzio-algar-comment-t-as-fait-pour-passer-de-peintre-decorateur-a-ceo-d-une-startup-tech</guid>
+                <link>https://podcast.ausha.co/radio-funk-le-podcast-de-funky-pearls-radio/funky-pearls-vol-109-by-dj-tarek-from-paris</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/yJVN2iaqMlVa.mp3?t=1673598044"/>
+                <guid>https://podcast.ausha.co/radio-funk-le-podcast-de-funky-pearls-radio/funky-pearls-vol-109-by-dj-tarek-from-paris</guid>
                 
             </item><item>
-                <title>Mon Carnet du 20 janvier 2023</title>
-                <description>Mon Carnet, le podcast de Bruno Guglielminetti
-Ve…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:248510865/sounds.rss</description>
+                <title>Avec Alessandro Dazza, directeur général d&#39;Imerys</title>
+                <description>Avec Alessandro Dazza, directeur général d&#39;Imerys
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11548.xml</description>
                 
                 
-                <link>https://soundcloud.com/moncarnet/mon-carnet-du-20-janvier-2023</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1428338383-moncarnet-mon-carnet-du-20-janvier-2023.mp3"/>
-                <guid>https://soundcloud.com/moncarnet/mon-carnet-du-20-janvier-2023</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/on-n-arrete-pas-l-eco/on-n-arrete-pas-l-eco-du-samedi-21-janvier-2023-4337085</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/ee5285b7-04ff-4479-9cfc-6a1ca78921a5/11548-21.01.2023-ITEMA_23263531-2023F16192S0021-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/on-n-arrete-pas-l-eco/on-n-arrete-pas-l-eco-du-samedi-21-janvier-2023-4337085</guid>
                 
             </item>
         </channel>

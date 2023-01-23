@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 22 Jan 2023 13:56:57 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 23 Jan 2023 04:24:33 +0200</lastBuildDate>
             <item>
-                <title>2023-01-21 Flafri</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>Tony Williams: El gran quinteto de los &#39;80</title>
+                <description>A mediados de los a&amp;ntilde;os ochenta del pasado siglo, el bater&amp;iacute;a Tony Williams ya pod&amp;iacute;a ser considerado uno de los grandes protagonistas del jazz moderno. En el segundo gran quinteto de Miles Davis de los &#39;60 hab&amp;iacute;a construido el paradigma de la r&amp;iacute;tmica postbop que iba a influir en varias generaciones de m&amp;uacute;sicos en las siguientes d&amp;eacute;cadas...
+Feed: https://www.ivoox.com/podcast-jazznoend-radio_fg_f1136231_filtro_1.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-01-21Flafri.mp3"/>
-                <guid></guid>
+                <link>http://www.ivoox.com/tony-williams-el-gran-quinteto-80-audios-mp3_rf_101102020_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/tony-williams-el-gran-quinteto-80_mf_101102020_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/tony-williams-el-gran-quinteto-80-audios-mp3_rf_101102020_1.html</guid>
                 
             </item><item>
-                <title>Ruta 61 - Will Jacobs - la nueva generación de blues de Chicago - 09/01/23</title>
-                <description>Will Jacobs - la nueva generación de blues de Chicago
-Feed: http://api.rtve.es/api/programas/22334/audios.rss</description>
+                <title>Programa la musica de tus sueños 26 de diciembre 2022 directo tiktok</title>
+                <description>Directo de la musica de tus sue&amp;ntilde;os a traves del canal jmsalas de tiktok. Peticion de los oyentes con canciones dedicadas. Repaso a la musica de los 70,80,90 hasta la actualidad.
+Feed: https://www.ivoox.com/jmsalasmusic_fg_f1126262_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/ruta-61/will-jacobs-nueva-generacion-blues-chicago/6772319/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SRUTASE/mp3/3/5/1673299463653.mp3"/>
-                <guid>https://www.rtve.es/play/audios/ruta-61/will-jacobs-nueva-generacion-blues-chicago/6772319/</guid>
+                <link>https://www.ivoox.com/programa-musica-tus-suenos-26-de-audios-mp3_rf_100595101_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/programa-musica-tus-suenos-26-de_mf_100595101_feed_1.mp3?d=1672277603"/>
+                <guid>https://www.ivoox.com/programa-musica-tus-suenos-26-de-audios-mp3_rf_100595101_1.html</guid>
                 
             </item>
         </channel>
