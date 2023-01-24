@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 23 Jan 2023 04:24:29 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 24 Jan 2023 04:24:02 +0200</lastBuildDate>
             <item>
-                <title>FUNKY PEARLS VOL 109 BY DJ TAREK FROM PARIS</title>
-                <description>Bienvenue dans le monde de Funk &amp;amp; Disco (https://funkypearls.fr/) , où nous vous tenons au courant des dernières nouveautés en matière de culture pop et de musique funk.
-Écoutez en direct vos artistes, groupes et chansons funk et disco préférés de...
-Feed: https://feed.ausha.co/ZgAM8Ipw6mkW</description>
+                <title>Chemins d&#39;histoire-Les étrangers à Athènes, Ve-IIIe s. av. J.-C., avec R. Guicharrousse-22.01.23</title>
+                <description>Cent trente-neuvième numéro de Chemins d&#39;histoire…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:73343895/sounds.rss</description>
                 
                 
-                <link>https://podcast.ausha.co/radio-funk-le-podcast-de-funky-pearls-radio/funky-pearls-vol-109-by-dj-tarek-from-paris</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/yJVN2iaqMlVa.mp3?t=1673598044"/>
-                <guid>https://podcast.ausha.co/radio-funk-le-podcast-de-funky-pearls-radio/funky-pearls-vol-109-by-dj-tarek-from-paris</guid>
+                <link>https://soundcloud.com/luc-daireaux/chemins-dhistoire-les-etrangers-a-athenes-ve-iiie-s-av-j-c-avec-r-guicharrousse-220123</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1430172910-luc-daireaux-chemins-dhistoire-les-etrangers-a-athenes-ve-iiie-s-av-j-c-avec-r-guicharrousse-220123.mp3"/>
+                <guid>https://soundcloud.com/luc-daireaux/chemins-dhistoire-les-etrangers-a-athenes-ve-iiie-s-av-j-c-avec-r-guicharrousse-220123</guid>
                 
             </item><item>
-                <title>Avec Alessandro Dazza, directeur général d&#39;Imerys</title>
-                <description>Avec Alessandro Dazza, directeur général d&#39;Imerys
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11548.xml</description>
+                <title>Episode 80 - L’impasse Corellienne II (avec Star Wars en Direct et Rien Que D&#39;y Penser)</title>
+                <description>&lt;p&gt;Salutations citoyennes et citoyens. Pour la seconde partie de notre bilan de ces 10 ans de Lucasfilm par Disney, nous avons organisé une petite partie de Sabacc en compagnie de membres des podcasts &lt;strong&gt;Star Wars en Direct&lt;/strong&gt; et &lt;strong&gt;Rien Que D&#39;y Penser&lt;/strong&gt;...
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/1834_1e7e6c5baea3577304717f426bc38a97.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/on-n-arrete-pas-l-eco/on-n-arrete-pas-l-eco-du-samedi-21-janvier-2023-4337085</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/ee5285b7-04ff-4479-9cfc-6a1ca78921a5/11548-21.01.2023-ITEMA_23263531-2023F16192S0021-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/on-n-arrete-pas-l-eco/on-n-arrete-pas-l-eco-du-samedi-21-janvier-2023-4337085</guid>
+                <link>https://unfandestarwars.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podcastics.com/podcast/episode/217765/file.mp3?s=203624744"/>
+                <guid>https://unfandestarwars.com/</guid>
                 
             </item>
         </channel>
