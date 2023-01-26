@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 25 Jan 2023 04:24:37 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 26 Jan 2023 04:24:31 +0200</lastBuildDate>
             <item>
-                <title>This Book Sent Galileo To JAIL!</title>
-                <description>This Book Sent Galileo To JAIL!
-Feed: https://feeds.megaphone.fm/intotheimpossible</description>
+                <title>Metal Geeks 230: 2022 Rewind Geekery</title>
+                <description>Strap in for an extended episode and join the Metal Geeks crew as we journey back in time to the year 2022 as we discuss all of our favorite Video Games, Music, TV Shows, Films, and even things that have written words in them! Did any of your favorit...
+Feed: https://metalgeeks.podbean.com/feed.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/5D4G2/traffic.megaphone.fm/ARML9027467016.mp3?updated=1674524801"/>
-                <guid></guid>
+                <link>https://metalgeeks.podbean.com/e/metal-geeks-230-2022-rewind-geekery/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/t9j3cm/metalgeeks230.mp3"/>
+                <guid>https://metalgeeks.podbean.com/e/metal-geeks-230-2022-rewind-geekery/</guid>
                 
             </item><item>
-                <title>The Metal Edge Podcast w Mike Portnoy (WineryDogs, Sons Of Apollo, Dream Theater) 1/24/23</title>
-                <description>Co-hosts Paul Gargano and Izzy Presley welcome drummer Mike Portnoy to The Metal Edge Podcast to discuss the new Winery Dogs album, their upcoming tour, coffee mugs, Dream Theater, Mike&#39;s 12,000 other projects, and more...
-Air Date: January 24, 2023...
-Feed: https://www.spreaker.com/show/1175717/episodes/feed</description>
+                <title>English Listening - Board Games</title>
+                <description>Practice your English Listening with me as I talk about board games.
+Feed: https://www.omnycontent.com/d/playlist/6dd8413b-ede6-483a-bf4e-ab80014939de/20f4bf02-d62f-40b2-b532-af10011ba71b/2bdbf0f4-e0ca-4343-9fb2-af10011ba729/podcast.rss</description>
                 
                 
-                <link>https://www.spreaker.com/user/izzypresley/y2mate-is-the-metal-edge-podcast-w-mike-</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/52529150/y2mate_is_the_metal_edge_podcast_w_mike_portnoy_winerydogs_sons_of_apollo_dream_theater_12423_3ahgpz3blku_160k_1655435747303.mp3"/>
-                <guid>https://www.spreaker.com/user/izzypresley/y2mate-is-the-metal-edge-podcast-w-mike-</guid>
+                <link>https://omny.fm/shows/listening-time/english-listening-board-games</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/traffic.omny.fm/d/clips/6dd8413b-ede6-483a-bf4e-ab80014939de/20f4bf02-d62f-40b2-b532-af10011ba71b/c8a70684-1f94-47d2-8c85-af8501259b7a/audio.mp3?utm_source=Podcast&amp;in_playlist=2bdbf0f4-e0ca-4343-9fb2-af10011ba729"/>
+                <guid>https://omny.fm/shows/listening-time/english-listening-board-games</guid>
                 
             </item>
         </channel>

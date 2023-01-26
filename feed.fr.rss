@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 25 Jan 2023 04:24:19 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 26 Jan 2023 04:24:19 +0200</lastBuildDate>
             <item>
-                <title>Les charlottes : 01/19/2023 07:00</title>
-                <description>692-280749
-Feed: http://podcast.cism893.ca/radioshows/692/feed_itunes.xml</description>
+                <title>Bol de gruau : 01/04/2023 20:00</title>
+                <description>1044-279772
+Feed: http://podcast.cism893.ca/radioshows/1044/feed_itunes.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/280749.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/280749.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/280749.mp3</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/279772.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/279772.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/279772.mp3</guid>
                 
             </item><item>
-                <title>#101 - 7 conseils pour la préparation de votre soutenance orale de stage</title>
-                <description>&lt;p&gt;Voici 7 conseils pour une soutenance orale réussie :&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Lisez bien les consignes et surtout la grille d’évaluation&lt;/li&gt;&lt;li&gt;Répartissez le contenu de votre soutenance&amp;nbsp;&lt;/li&gt;&lt;li&gt;Pour élaborer votre diaporama, procédez en 5 étapes&lt;/li&gt;&lt;li&gt;Créez un design clair et simple&lt;/li&gt;&lt;li&gt;Préparez-vous à fond en révisant vos notes et en répétant votre présentation plusieurs fois...
-Feed: https://feeds.acast.com/public/shows/mark-et-ting</description>
+                <title>#176 Emeline Haqueberge - Beija Flor NC (FR)</title>
+                <description>Nous sommes heureux, chez Midoricast, de vous présenter notre invitée : Emeline Haqueberge. Elle nous parle de son activité &#34;Beija Flor NC&#34; qui propose des ateliers &#34;DIY&#34; (Do it yourself), la fabrication et la vente de produits locaux, naturels, écologiques, à zéro déchet, et même des bougies faites à base de noix de coco vides récupérées. Ces bougies et ces cosmétiques naturels sont fabriqués à partir de plantes et de produits principalement locaux.
+Feed: https://feeds.simplecast.com/3pjl6v70</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/620e78e488e4890016aed370/e/63ce76c6eb0a7a00109a2c40/media.mp3"/>
-                <guid></guid>
+                <link>https://whatsyourstory.be/root/fr/emeline-haqueberge-beija-flor-nc-176-midoricast/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c7e89858-6874-478a-aa40-1760e9eb73ad/episodes/8867c568-d966-4996-b75f-13bdca392287/audio/a32d74e8-fe11-40dd-8fd7-4963ec13b937/default_tc.mp3?aid=rss_feed&amp;feed=3pjl6v70"/>
+                <guid>https://whatsyourstory.be/root/fr/emeline-haqueberge-beija-flor-nc-176-midoricast/</guid>
                 
             </item>
         </channel>
