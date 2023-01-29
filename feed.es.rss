@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 28 Jan 2023 04:23:53 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Jan 2023 04:23:25 +0200</lastBuildDate>
             <item>
-                <title>Ruta 61 - Will Jacobs - la nueva generación de blues de Chicago - 09/01/23</title>
-                <description>Will Jacobs - la nueva generación de blues de Chicago
-Feed: http://api.rtve.es/api/programas/22334/audios.rss</description>
+                <title>Solemnidad de la Inmaculada Concepción</title>
+                <description>Después de dos años consecutivos, de no poder celebrar la fiesta patronal de la diócesis en forma presencial, éste año finalmente se pudo realizar y &amp;#8230;
+Feed: http://feed.quechilero.com/ConociendoNuestraFe</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/ruta-61/will-jacobs-nueva-generacion-blues-chicago/6772319/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SRUTASE/mp3/3/5/1673299463653.mp3"/>
-                <guid>https://www.rtve.es/play/audios/ruta-61/will-jacobs-nueva-generacion-blues-chicago/6772319/</guid>
+                <link>https://catedraldeescuintla.com/solemnidad-de-la-inmaculada-concepcion-2022/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://catedraldeescuintla.com/podcast-download/7560/solemnidad-de-la-inmaculada-concepcion-2022.mp3"/>
+                <guid>https://catedraldeescuintla.com/solemnidad-de-la-inmaculada-concepcion-2022/</guid>
                 
             </item><item>
-                <title>Ep. 17 - Old Country Music - Litte Jimmy Dickens</title>
-                <description>Muy buenas amigos, el diecisieteavo episodio de OLD COUNTRY MUSIC, en esta ocasi&amp;oacute;n con LITTLE JIMMY DICKENS.
-Una peque&amp;ntilde;a secci&amp;oacute;n dedicada a los sonidos pioneros de la m&amp;uacute;sica country dentro del espacio &#34;Blowin&#39; In The Ameripolitan Winds&#34; de mi compa&amp;ntilde;era en La Aventura Americana Radio, Mariv&amp;iacute; Yubero...
-Feed: https://www.ivoox.com/podcast-old-time-country-shots_fg_f1151964_filtro_1.xml</description>
+                <title>Melodías Pizarras - Hot &amp; Spicy - 28/01/23</title>
+                <description>Hot &amp; Spicy
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/ep-17-old-country-music-litte-audios-mp3_rf_99320348_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/ep-17-old-country-music-litte_mf_99320348_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/ep-17-old-country-music-litte-audios-mp3_rf_99320348_1.html</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/hot-spicy/6790051/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SMELODI/mp3/2/2/1674948054022.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/hot-spicy/6790051/</guid>
                 
             </item>
         </channel>

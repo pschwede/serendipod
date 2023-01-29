@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 28 Jan 2023 04:24:09 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Jan 2023 04:23:40 +0200</lastBuildDate>
             <item>
+                <title>Man or Bug-man : Blue Bird of Unhappiness, part 1</title>
+                <description>A post-apocalyptic world of barbarian tribes, mutants, sentient plants, strange robo-men, and weird radiation spawned horrors.
+Feed: https://feed.podbean.com/sunday-skypers/feed.xml</description>
+                
+                
+                <link>https://sunday-skypers.podbean.com/e/man-or-bug-man-blue-bird-of-unhappiness-part-1/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/r6nxdw/SundaySkypers-MoBM-BB-01.mp3"/>
+                <guid>https://sunday-skypers.podbean.com/e/man-or-bug-man-blue-bird-of-unhappiness-part-1/</guid>
+                
+            </item><item>
                 <title>Ariel Phenomenon, When 62 Children Saw Something Extrordinary</title>
                 <description>On September 16, 1994 at least 62 children betwee…
 Feed: https://feeds.soundcloud.com/users/soundcloud:users:1808429/sounds.rss</description>
@@ -19,16 +29,6 @@ Feed: https://feeds.soundcloud.com/users/soundcloud:users:1808429/sounds.rss</de
                 <link>https://soundcloud.com/media-roots/ariel-phenomenon-when-62-children-saw-something-extrordinary</link>
                 <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1430006311-media-roots-ariel-phenomenon-when-62-children-saw-something-extrordinary.mp3"/>
                 <guid>https://soundcloud.com/media-roots/ariel-phenomenon-when-62-children-saw-something-extrordinary</guid>
-                
-            </item><item>
-                <title>My NBF Contest Pitch: The Greatest Leadership Opportunity of the 21st Century</title>
-                <description>This is my 4 min video pitch for the 2023 Nordic Business Forum Speaker Contest. Hope you enjoy it but feel free to let me know if that’s not the case 😉﻿ The Greatest Leadership Opportunity in the 21st Century A story I stumbled on in 2006 changed my ...
-Feed: https://feeds.feedburner.com/SingularityWeblogPodcasts</description>
-                
-                
-                <link>https://www.singularityweblog.com/leadership-nbf-pitch/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/singularity/feeds.soundcloud.com/stream/1432128649-singularity1on1-greatest-leadership-opportunity-nbf-pitch.mp3"/>
-                <guid>https://www.singularityweblog.com/leadership-nbf-pitch/</guid>
                 
             </item>
         </channel>
