@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 29 Jan 2023 04:23:20 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 30 Jan 2023 04:24:08 +0200</lastBuildDate>
             <item>
-                <title>#75 - Pascale Karels – Douceur et poésie du Levant</title>
-                <description>&lt;p&gt;« Ce que je ressens ici c’est ce rapport à la poésie, à la douceur. C’est facile ici. Je pense que c’est quelque chose qui manque effroyablement dans notre monde. »&lt;/p&gt;&lt;p&gt;Pascale est une enfant de l’île. D’origine allemande, ses grands-parents, adeptes du naturisme, achètent un terrain sur l’île du Levant dans les années 50. Sa mère et son père, hollandais, se rencontrent ici alors qu’ils sont en vacances et décident de s’y installer...
-Feed: https://feeds.buzzsprout.com/771368.rss</description>
+                <title>Messe de Noël en direct et en Eurovision depuis l&#39;église Saint-Nicolas à La Hulpe (Belgique)</title>
+                <description>&lt;p&gt;La messe de Noël sera présidée par Mgr Jean-Luc Hudsyn, évêque auxiliaire du Brabant Wallon, qui prononcera également l&#39;homélie. Il sera entouré du curé François Kabundji et de Frère Didier Croonbenberghs. Le chœur de la paroisse est dirigé par Astrid Thomas-Leroux, et accompagné par Véronique Herpoel à la flûte, Tanguy de Clippele à la guitare, Nicole Dupuis au synthé et Alain van Hoorebeeck au djembé.&lt;/p&gt;
+Feed: https://www.rts.ch/emissions/religion/cultes-messes/podcasts/?format=rss/podcast</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/771368/11014700-75-pascale-karels-douceur-et-poesie-du-levant.mp3"/>
-                <guid></guid>
+                <link>https://www.rts.ch/video/emissions/religion/cultes-messes/13654369-messe-de-noel-en-direct-et-en-eurovision-depuis-leglise-saintnicolas-a-la-hulpe-belgique.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/13654369/26c364b2-ea53-3a41-a208-5718cb689cfc.mp4"/>
+                <guid>https://www.rts.ch/video/emissions/religion/cultes-messes/13654369-messe-de-noel-en-direct-et-en-eurovision-depuis-leglise-saintnicolas-a-la-hulpe-belgique.html</guid>
                 
             </item><item>
-                <title>#39 Marie-Claude L&#39;Archer, la compersion</title>
-                <description>Au micro d&#39;Entr&#39;Nous, Olivier Mageren, sexologue diplômé de L&#39;ULB, reçois Marie-Claude L&#39;Archer : auteure et écrivaine de &#34;Compersion&#34;. Mais que ce cache-t-il sous ce terme ? Quelle est la puissance de la compersion dans les relations sexuelles simples ou plurielles ? 
-Feed: https://feeds.simplecast.com/gSZmySeA</description>
+                <title>Méditation quotidienne des femmes du 30 janvier 2023 avec Margarette Archer</title>
+                <description>Méditation quotidienne des femmes du 30 janvier 2023 avec Margarette Archer
+
+Feed: https://anchor.fm/s/85922a4/podcast/rss</description>
                 
                 
-                <link>https://www.love-health-center.org/podcast/marie-claude-larcher-039-la-compersion</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c1da6983-a39d-48f6-97dd-d3819060e368/episodes/85271452-98c7-4ddb-9286-951e1b4ac5b6/audio/7cbdc1cd-41cf-4fc2-9980-24b208edf3f7/default_tc.mp3?aid=rss_feed&amp;feed=gSZmySeA"/>
-                <guid>https://www.love-health-center.org/podcast/marie-claude-larcher-039-la-compersion</guid>
+                <link>https://anchor.fm/radioadventistebethanie/episodes/Mditation-quotidienne-des-femmes-du-30-janvier-2023-avec-Margarette-Archer-e1u57ua</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/85922a4/podcast/play/64183690/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F85922a4%2F64183690%2F92f111167d639a131084eaf1f4883e17.m4a"/>
+                <guid>https://anchor.fm/radioadventistebethanie/episodes/Mditation-quotidienne-des-femmes-du-30-janvier-2023-avec-Margarette-Archer-e1u57ua</guid>
                 
             </item>
         </channel>

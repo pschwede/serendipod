@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 29 Jan 2023 04:23:15 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 30 Jan 2023 04:24:03 +0200</lastBuildDate>
             <item>
-                <title>Folge 114 – Liminal Spaces &amp; der authentische Fake von Las Vegas</title>
-                <description>#EuUClassic! Das neue Jahr beginnen Benjamin und Markus mit einem Gespräch über Liminal Spaces als Internetphänomen und über den authentischen Fake von Las Vegas und seinen phantastischen Mottohotels.
-
-Feed: https://eundugespraech.podcaster.de/e-und-u-gespraech.rss</description>
+                <title>Nachricht an alle Hörerinnen und Hörer</title>
+                <description>Liebe Hörerinnen und Hörer,  
+hier eine kleine Ankündigung von uns für Euch: 
+Die Elementarfragen, Pandemia und die Mikrodilettanten wandern zum Jahresbeginn von Viertausendhertz in ein neues Zuhause, nämlich zu Superelektrik! Für Euch ändert sich erst
+Feed: https://feeds.viertausendhertz.de/elementarfragen</description>
                 
                 
-                <link>https://eundugespraech.podcaster.de/e-und-u-gespraech/folge-114-liminal-spaces-der-authentische-fake-von-las-vegas/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://eundugespraech.podcaster.de/e-und-u-gespraech/media/Das_E_und_U-Gespraech_Folge_114(1).mp3"/>
-                <guid>https://eundugespraech.podcaster.de/e-und-u-gespraech/folge-114-liminal-spaces-der-authentische-fake-von-las-vegas/</guid>
+                <link>https://viertausendhertz.de/se/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://viertausendhertz.de/podcast-download/15569/se.mp3?source=feed"/>
+                <guid>https://viertausendhertz.de/se/</guid>
                 
             </item><item>
-                <title>Tangerhütte vor allen anderen: Wie wir das OZG umgesetzt haben</title>
-                <description>Mein Interview mit Andreas Brohm
-Feed: https://vnoh65.podcaster.de/KommunaleDigitalisierung.rss</description>
+                <title>Ich küsse deine Augen</title>
+                <description>Episode 269 - Ich küsse deine Augen
+Feed: https://uncle-bobcast.com/feed</description>
                 
                 
-                <link>https://felixschmitt.de/tangerhuette</link>
-                <enclosure type="audio/mpeg" length="1" url="https://vnoh65.podcaster.de/KommunaleDigitalisierung/media/Episode_36_Tangerhutte.mp3"/>
-                <guid>https://felixschmitt.de/tangerhuette</guid>
+                <link>https://uncle-bobcast.com/blog/2023/01/27/episode-269-ich-kuesse-deine-augen</link>
+                <enclosure type="audio/mpeg" length="1" url="https://uncle-bobcast.com/podlove/file/585/s/feed/c/ubc/episode-269-ich-kuesse-deine-augen.mp3"/>
+                <guid>https://uncle-bobcast.com/blog/2023/01/27/episode-269-ich-kuesse-deine-augen</guid>
                 
             </item>
         </channel>
