@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 30 Jan 2023 04:24:03 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 31 Jan 2023 04:24:00 +0200</lastBuildDate>
             <item>
-                <title>Nachricht an alle Hörerinnen und Hörer</title>
-                <description>Liebe Hörerinnen und Hörer,  
-hier eine kleine Ankündigung von uns für Euch: 
-Die Elementarfragen, Pandemia und die Mikrodilettanten wandern zum Jahresbeginn von Viertausendhertz in ein neues Zuhause, nämlich zu Superelektrik! Für Euch ändert sich erst
-Feed: https://feeds.viertausendhertz.de/elementarfragen</description>
+                <title>Wer von uns…?</title>
+                <description>Diesmal geht es in unserem Podcast um einsame Hausfrauen, verzichtbare Körperteile und Irrungen und Wirrungen auf Reisen. 
+Außerdem setzen wir uns mit uns selbst auseinander. Wer von uns ist am eitelsten, am zuverlässigsten, am nachtragendsten und viele Fragen mehr...
+Feed: https://y1zbcy.podcaster.de/calls.rss</description>
                 
                 
-                <link>https://viertausendhertz.de/se/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://viertausendhertz.de/podcast-download/15569/se.mp3?source=feed"/>
-                <guid>https://viertausendhertz.de/se/</guid>
+                <link>https://anchor.fm/callspodcast/episodes/Wer-von-uns-e1trp10</link>
+                <enclosure type="audio/mpeg" length="1" url="https://y1zbcy.podcaster.de/calls/media/https-3A-2F-2Fd3ctxlq1ktw2nl-cloudfront-net-2Fproduction-2Fexports-2F56214930-2F63873504-2F6f626b684152c15cac5cf2dad9f62f15.m4a"/>
+                <guid>https://anchor.fm/callspodcast/episodes/Wer-von-uns-e1trp10</guid>
                 
             </item><item>
-                <title>Ich küsse deine Augen</title>
-                <description>Episode 269 - Ich küsse deine Augen
-Feed: https://uncle-bobcast.com/feed</description>
+                <title>IG-Analyst Christian Henke über Eckpfeiler des Tradings: &#34;Wie ein römischer Feldherr: Schlachtplan machen und sich daran</title>
+                <description>IG-Analyst Christian Henke über Eckpfeiler des Tradings: &#34;Wie ein römischer Feldherr: Schlachtplan machen und sich daran halten&#34;
+Feed: https://ig.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://uncle-bobcast.com/blog/2023/01/27/episode-269-ich-kuesse-deine-augen</link>
-                <enclosure type="audio/mpeg" length="1" url="https://uncle-bobcast.com/podlove/file/585/s/feed/c/ubc/episode-269-ich-kuesse-deine-augen.mp3"/>
-                <guid>https://uncle-bobcast.com/blog/2023/01/27/episode-269-ich-kuesse-deine-augen</guid>
+                <link>https://ig.podigee.io/157-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/999951-m-61bd25f744b3475f02d559f08048a898.mp3?source=feed"/>
+                <guid>https://ig.podigee.io/157-new-episode</guid>
                 
             </item>
         </channel>
