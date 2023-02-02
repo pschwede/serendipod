@@ -9,27 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Jan 2023 04:24:00 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 02 Feb 2023 04:24:34 +0200</lastBuildDate>
             <item>
-                <title>Wer von uns…?</title>
-                <description>Diesmal geht es in unserem Podcast um einsame Hausfrauen, verzichtbare Körperteile und Irrungen und Wirrungen auf Reisen. 
-Außerdem setzen wir uns mit uns selbst auseinander. Wer von uns ist am eitelsten, am zuverlässigsten, am nachtragendsten und viele Fragen mehr...
-Feed: https://y1zbcy.podcaster.de/calls.rss</description>
+                <title>Doppelte Conversion-Rate durch neues Buchungssystem &amp; VR-Erlebnisse in der Bavaria Filmstadt</title>
+                <description>Heute im Podcast zu Gast ist Stefan Bryxi, der Leiter der Bavaria Filmstadt. Wir sprechen über die Entwicklung der Bavaria Filmstadt in den letzten Jahren, neue Attraktionen und Erlebnisse und du erfährst, wie wichtig es ist, ein gutes Buchungssystem zu haben und wie die Bavaria Filmstadt dadurch doppelt so viele Tickets auf der Website verkauft. 
+Hier geht&#39;s Podcast-Episode mit Leif Petersen: https://lebegeil-media.com/podcast-60/
+Feed: https://feeds.zencastr.com/f/5ON2tUYu.rss</description>
                 
                 
-                <link>https://anchor.fm/callspodcast/episodes/Wer-von-uns-e1trp10</link>
-                <enclosure type="audio/mpeg" length="1" url="https://y1zbcy.podcaster.de/calls/media/https-3A-2F-2Fd3ctxlq1ktw2nl-cloudfront-net-2Fproduction-2Fexports-2F56214930-2F63873504-2F6f626b684152c15cac5cf2dad9f62f15.m4a"/>
-                <guid>https://anchor.fm/callspodcast/episodes/Wer-von-uns-e1trp10</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://redirect.zen.ai/r/episode/63d8453763b3705c04c4f8b9/audio-files/5ec2c0d91b00d0422f093536/2e2d9ee1-bc99-4d03-a707-3ef3877d1302.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>IG-Analyst Christian Henke über Eckpfeiler des Tradings: &#34;Wie ein römischer Feldherr: Schlachtplan machen und sich daran</title>
-                <description>IG-Analyst Christian Henke über Eckpfeiler des Tradings: &#34;Wie ein römischer Feldherr: Schlachtplan machen und sich daran halten&#34;
-Feed: https://ig.podigee.io/feed/mp3</description>
+                <title>Hegemonie, Proxmox, Singularität, Schule, Schach und Flatpak</title>
+                <description>Hegemonie, Proxmox, Singularität, Schule, Schach und Flatpak
+Feed: https://gnulinux.ch/podcast/gnulinux_newscast_rss.xml</description>
                 
                 
-                <link>https://ig.podigee.io/157-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/999951-m-61bd25f744b3475f02d559f08048a898.mp3?source=feed"/>
-                <guid>https://ig.podigee.io/157-new-episode</guid>
+                <link>https://gnulinux.ch/gln031-podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://gnulinux.ch/podcast/GLN031.mp3"/>
+                <guid>https://gnulinux.ch/gln031-podcast</guid>
                 
             </item>
         </channel>

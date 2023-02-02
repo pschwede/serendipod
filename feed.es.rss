@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Jan 2023 04:24:09 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 02 Feb 2023 04:24:43 +0200</lastBuildDate>
             <item>
-                <title>Véngeceme en la cara</title>
-                <description>&lt;p&gt;Regresa el trío sospechoso a echar chisme, a hablar de sus traumas peliculeros y a ponerse muy íntimo con sus oyentes. Quédense solo en toalla y bienvenidos.&lt;/p&gt;&lt;p&gt;See omnystudio.com/listener for privacy information.&lt;/p&gt;
-Feed: https://www.omnycontent.com/d/playlist/1fc614ef-7db7-429f-a252-a989012fd0c6/0698957d-3bf8-4ceb-a451-aeda015e2616/f06440cb-b96a-422c-b6c5-aeda015e2632/podcast.rss</description>
+                <title>Noosfera 139.  IA y la ética de las máquinas | Miguel Rebollo</title>
+                <description>Esto de la inteligencia artificial se nos va de las manos. En un par de meses caduca casi todo lo divulgable y toca volver a empezar. ¿Son capaces de hacer arte? ¿Crean  copian? ¿A quién pertenecen sus obras? Vivimos en un momento donde estas...
+Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
                 
                 
-                <link>https://omny.fm/shows/sospechosamente-light/v-ngeceme-en-la-cara</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/1fc614ef-7db7-429f-a252-a989012fd0c6/0698957d-3bf8-4ceb-a451-aeda015e2616/bc7afcf1-62f5-4310-9e9d-af9901634297/audio.mp3?utm_source=Podcast&amp;in_playlist=f06440cb-b96a-422c-b6c5-aeda015e2632"/>
-                <guid>https://omny.fm/shows/sospechosamente-light/v-ngeceme-en-la-cara</guid>
+                <link>https://www.spreaker.com/user/12512368/noosfera-139</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/52554070/noosfera_139.mp3"/>
+                <guid>https://www.spreaker.com/user/12512368/noosfera-139</guid>
                 
             </item><item>
-                <title>Suprarreciclaje: una segunda vida para los dispositivos</title>
-                <description>Muchas empresas se deshacen de laptops y servidores al cabo de pocos años, aunque esto sea cuestionable desde un punto de vista ecológico y económico. El reciclaje devuelve estos dispositivos al mercado.
-Feed: https://rss.dw.com/xml/podcast_enlaces</description>
+                <title>SD149: actualización Guerra en Ucrania; Leopards; tecnología vs desinformación en OSINT; investigación contra pederastia</title>
+                <description>En el primer #sierradelta de 2023 #sd149, hacemos un repaso completo al panorama actual de la guerra en Ucrania. Primero nos vamos hasta Argentina para conversar con el periodista experto en Relaciones Internacionales Nacho Montes de Oca.
+A continuaci&amp;oacute;n, contactamos con un buen amigo, el escritor especializado en Defensa Juanjo Fern&amp;aacute;ndez para centrarnos en la decisi&amp;oacute;n de Europa de enviar carros de combate alemanes Leopard al teatro de operaciones ucraniano...
+Feed: https://www.ivoox.com/sierra-delta_fg_f1507669_filtro_1.xml</description>
                 
                 
-                <link>https://www.dw.com/es/suprarreciclaje-una-segunda-vida-para-los-dispositivos/av-64529483?maca=spa-podcast_enlaces-7583-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/enl/enl230126_Upcycling_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/suprarreciclaje-una-segunda-vida-para-los-dispositivos/av-64529483?maca=spa-podcast_enlaces-7583-xml-mrss</guid>
+                <link>https://www.ivoox.com/sd149-actualizacion-guerra-ucrania-leopards-tecnologia-vs-audios-mp3_rf_102149290_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sd149-actualizacion-guerra-ucrania-leopards-tecnologia-vs_mf_102149290_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/sd149-actualizacion-guerra-ucrania-leopards-tecnologia-vs-audios-mp3_rf_102149290_1.html</guid>
                 
             </item>
         </channel>

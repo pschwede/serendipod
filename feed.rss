@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Jan 2023 04:23:56 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 02 Feb 2023 04:24:30 +0200</lastBuildDate>
             <item>
-                <title>Grainne O’Malley (Radio Edit)</title>
-                <description>Greg Jenner takes us to 16th-century Ireland to meet pirate queen Grainne O’Malley.
-Feed: https://podcasts.files.bbci.co.uk/p07mdbhg.rss</description>
+                <title>SBM #111 Practical Innovation</title>
+                <description>Don&#39;t confuse innovation with invention. Simply put innovation is improving something whereas invention is something new. Innovation should improve customer experience.
+Feed: https://feeds.feedburner.com/GregWeatherdonsBlog</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0dxscdt</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0dxqd22.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0dxscdt</guid>
+                <link>https://gregweatherdon.com/sbm-111-practical-innovation/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/small_business_minute/gregweatherdon.com/wp-content/uploads/2023/01/SBM-111-Practical-Innovation.mp3"/>
+                <guid>https://gregweatherdon.com/sbm-111-practical-innovation/</guid>
                 
             </item><item>
-                <title>Decadence, Depravity &amp; David Gray</title>
-                <description>Jim Carrey, Stephen Mulhern, Prue Leith, David Moyes &amp; Ed Sheeran Take On The Nazis
-Feed: https://rss.acast.com/dreamfactory</description>
+                <title>The &#39;Pretendian&#39; Long Con </title>
+                <description>What happens when someone who built their career on being Indigenous turns out to be ... a white lady? Writer Michelle Cyca shares how she came face to face with Indigenous identity fraud, why academia and the arts have a &#39;Pretendian&#39; problem and what these scams means for Indigenous rights and sovereignty.
+Learn more about your ad choices. Visit megaphone.fm/adchoices
+Feed: https://feeds.megaphone.fm/STA6273615996</description>
                 
                 
-                <link>https://shows.acast.com/dreamfactory/episodes/decadence-depravity-david-gray</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/dreamfactory/e/63cef500e7f1b6001127d3df/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=H0GDX1RDgua8USCtm0sJ6HOmLPRf-24gvJMCUXfFMyA"/>
-                <guid>https://shows.acast.com/dreamfactory/episodes/decadence-depravity-david-gray</guid>
+                <link>https://www.unladylike.co/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/E2288/traffic.megaphone.fm/STA7303660557.mp3?updated=1675131467"/>
+                <guid>https://www.unladylike.co/</guid>
                 
             </item>
         </channel>
