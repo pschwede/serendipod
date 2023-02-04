@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 03 Feb 2023 04:24:49 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 04 Feb 2023 04:23:34 +0200</lastBuildDate>
             <item>
-                <title>Vermietung an Monteure &amp; Co.</title>
-                <description>Mehr Rendite mit der Vermietung an Monteure? Warum steht das Thema derzeit bei vielen Investoren so hoch im Kurs und warum kommen doch nur so wenige in die Umsetzung? Steige mit dieser Folge in dieses spannende Spezialthema ein und nimm auch als...
-Feed: https://immopreneur.libsyn.com/rss</description>
+                <title>#48 Sebastian Thrun</title>
+                <description>Wie gelang Google der Durchbruch beim autonomen Fahren? Ist das Silicon Valley noch innovativ? Und warum revolutioniert Online-Lernen die Welt? Unser Host Thomas Ramge spricht mit Prof. Dr. Sebastian Thrun, KI-Forscher, Gründer von Udacity und Sprunginnovator in Serie.
+Feed: https://sprind.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://immopreneur.libsyn.com/vermietung-an-monteure-co</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/immopreneur/Immopreneur_178_master.mp3?dest-id=369793"/>
-                <guid>https://immopreneur.libsyn.com/vermietung-an-monteure-co</guid>
+                <link>https://sprind.podigee.io/48-sebastian-thrun</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/997108-m-2608db4b2c3a5ab114ae0f881fbf81d5.mp3?source=feed"/>
+                <guid>https://sprind.podigee.io/48-sebastian-thrun</guid>
                 
             </item><item>
-                <title>Hegemonie, Proxmox, Singularität, Schule, Schach und Flatpak</title>
-                <description>Hegemonie, Proxmox, Singularität, Schule, Schach und Flatpak
-Feed: https://gnulinux.ch/podcast/gnulinux_newscast_rss.xml</description>
+                <title>Age of Empires Magazin #14</title>
+                <description>Im 14. AoE Magazin haben wir euch wieder spannend…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:876430819/sounds.rss</description>
                 
                 
-                <link>https://gnulinux.ch/gln031-podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://gnulinux.ch/podcast/GLN031.mp3"/>
-                <guid>https://gnulinux.ch/gln031-podcast</guid>
+                <link>https://soundcloud.com/startthegamealready/age-of-empires-magazin-14</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/2BF6EB/http://feeds.soundcloud.com/stream/1435948246-startthegamealready-age-of-empires-magazin-14.mp3"/>
+                <guid>https://soundcloud.com/startthegamealready/age-of-empires-magazin-14</guid>
                 
             </item>
         </channel>
