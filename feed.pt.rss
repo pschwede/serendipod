@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 04 Feb 2023 04:23:53 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 Feb 2023 04:23:49 +0200</lastBuildDate>
             <item>
-                <title>Detonando mitos da carreira DEV</title>
-                <description>&lt;p&gt;Neste episódio do Diocast, nós recebemos o João Duarte (CTO da Trybe) e o Márcio Caldeira (CTO da Remessa Online) para uma conversa franca sobre o mercado de trabalho em tecnologia, afinal, quais pontos você precisa considerar antes de tomar a decisão de se desenvolver na área de programação?&lt;/p&gt;&lt;p&gt;Nos últimos anos, vimos um crescimento acelerado na demanda por profissionais de tecnologia, nas mais variadas áreas de atuação...
-Feed: https://anchor.fm/s/4c177cd4/podcast/rss</description>
-                
-                
-                <link>https://anchor.fm/diolinux/episodes/Detonando-mitos-da-carreira-DEV-e1u1irl</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/4c177cd4/podcast/play/64063797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-26%2F309494933-44100-2-fee29c1c9f9b3.mp3"/>
-                <guid>https://anchor.fm/diolinux/episodes/Detonando-mitos-da-carreira-DEV-e1u1irl</guid>
-                
-            </item><item>
-                <title>Emissão Vespertina Qui - fevereiro 02, 2023</title>
-                <description>Um programa orientado aos países Lusófonos de África, Brasil e comunidades de língua portuguesa no mundo. Oferece noticias do dia, informação, analises, desporto, artes, entretenimento, saúde, questões em debate em África. Às sextas em especial um convidado explora vários ângulos de um tema.
-Feed: https://www.voaportugues.com/podcast/?count=20&amp;zoneId=3066</description>
+                <title> Diálogo com os agricultores não está esgotado </title>
+                <description>A Ministra da Agricultura e da Alimentação garante que o diálogo com os agricultores não está esgotado e até admite realizar reuniões se essa for a vontade da CAP.
+Feed: https://www.rtp.pt/play/itunes/2054</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://av.voanews.com/clips/VPO/2023/02/02/20230202-170000-VPO077-program_original.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="http://podcasts.rtp.pt/nas2.share/wavrss/at1/2301/PGM2300002700401_435129-2301301113.mp3"/>
                 <guid></guid>
+                
+            </item><item>
+                <title>#262 - 32 dias em 80 minutos</title>
+                <description>Gravado ao vivo direto do Sawi Studio, o primeiro Lado B de 2023 tenta abordar tudo que aconteceu nas nossas férias: posse de Lula, invasão em Brasília, genocídio Yanomami, prisões, denúncias e cortinas de fumaça, além das eleições no Congresso e na...
+Feed: https://www.spreaker.com/show/4711819/episodes/feed</description>
+                
+                
+                <link>https://www.spreaker.com/user/central3/lado-b-do-rio-262-32-dias-em-80-minutos</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/52629859/lado_b_do_rio_262_32_dias_em_80_minutos.mp3"/>
+                <guid>https://www.spreaker.com/user/central3/lado-b-do-rio-262-32-dias-em-80-minutos</guid>
                 
             </item>
         </channel>

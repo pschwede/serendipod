@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 04 Feb 2023 04:23:47 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 Feb 2023 04:23:42 +0200</lastBuildDate>
             <item>
-                <title>Hora América en Radio 5 - Éxito de Madrid Fusión 2023 - 02/02/23</title>
-                <description>Éxito de Madrid Fusión 2023
-Feed: http://api.rtve.es/api/programas/37571/audios.rss</description>
+                <title># 521 Delizzioso Jazz, Bossanova y Swing Italiano (Miriam Netti/Fabiana Rosciglione/Valentina Marino y Italian Swing Sisters)</title>
+                <description>Hola Que Tal? Abrimos el año 2023 (año 15 de Música a 4 Manos) con un viaje imaginario realmente Delizzioso. Jazz, Bossanova y Swing a la italiana. Siempre buscando sorprenderles y que pasen un rato distinto,
+Feed: https://feeds.feedburner.com/MsicaA4Manos</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-radio-5-exito-madrid-fusion-2023/6793955/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SHORAAM/mp3/8/5/1675245930858.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-radio-5-exito-madrid-fusion-2023/6793955/</guid>
+                <link>https://www.musica4manos.com/521-delizzioso-jazz-bossanova-y-swing-italiano-miriam-netti-fabiana-rosciglione-valentina-marino-y-italian-swing-sisters/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.musica4manos.com/musica4manos.com/mp3/521Delizioso.mp3"/>
+                <guid>https://www.musica4manos.com/521-delizzioso-jazz-bossanova-y-swing-italiano-miriam-netti-fabiana-rosciglione-valentina-marino-y-italian-swing-sisters/</guid>
                 
             </item><item>
-                <title>La hora del Raposu POSTURAK 22</title>
-                <description>y lleg&amp;oacute; el Posturalk!! Se hizo esperar pero aqu&amp;iacute; est&amp;aacute;!! VOTA !!!
-1 Voto para el Posturak (si quieres puedes votar hasta 3)
-1 voto para el Cortinak
-Feed: https://www.ivoox.com/podcast-podcast-la-hora-del-raposu_fg_f165846_filtro_1.xml</description>
+                <title>Jamáfrica – Sab. 21 de Ene 2023</title>
+                <description>jamafrika20230121.mp3
+Feed: https://udgtv.com/podcast/guadalajara/jamafrica/feed/</description>
                 
                 
-                <link>https://www.ivoox.com/hora-del-raposu-posturak-22-audios-mp3_rf_101496319_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/hora-del-raposu-posturak-22_mf_101496319_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/hora-del-raposu-posturak-22-audios-mp3_rf_101496319_1.html</guid>
+                <link>https://udgtv.com/podcast/jamafrica-sab-21-ene-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/jamafrika20230121.mp3"/>
+                <guid>https://udgtv.com/podcast/jamafrica-sab-21-ene-2023/</guid>
                 
             </item>
         </channel>
