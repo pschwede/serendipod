@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 05 Feb 2023 04:23:49 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 06 Feb 2023 04:24:43 +0200</lastBuildDate>
             <item>
-                <title> Diálogo com os agricultores não está esgotado </title>
-                <description>A Ministra da Agricultura e da Alimentação garante que o diálogo com os agricultores não está esgotado e até admite realizar reuniões se essa for a vontade da CAP.
-Feed: https://www.rtp.pt/play/itunes/2054</description>
+                <title>VortCast 110 | Zack Snyder, James Gunn e o Futuro da DC</title>
+                <description>Bem-vindos a bordo. Flávio Vieira (Twitter | Instagram), Filipe Pereira (Twitter | Instagram), Bernardo Mazzei (Twitter | Instagram) e Jackson Good (Twitter) se reúnem para comentar sobre as últimas notícias envolvendo o universo cinemático da DC,
+Feed: http://www.vortexcultural.com.br/feed/podcast/</description>
+                
+                
+                <link>http://www.vortexcultural.com.br/podcast/vortcast-110-zack-snyder-james-gunn-e-o-futuro-da-dc/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/vortcast/download.vortexcultural.com.br/mp3/207_vortcast_110.mp3"/>
+                <guid>http://www.vortexcultural.com.br/podcast/vortcast-110-zack-snyder-james-gunn-e-o-futuro-da-dc/</guid>
+                
+            </item><item>
+                <title>Emissão Vespertina Qui - fevereiro 02, 2023</title>
+                <description>Um programa orientado aos países Lusófonos de África, Brasil e comunidades de língua portuguesa no mundo. Oferece noticias do dia, informação, analises, desporto, artes, entretenimento, saúde, questões em debate em África. Às sextas em especial um convidado explora vários ângulos de um tema.
+Feed: https://www.voaportugues.com/podcast/?count=20&amp;zoneId=3066</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://podcasts.rtp.pt/nas2.share/wavrss/at1/2301/PGM2300002700401_435129-2301301113.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://av.voanews.com/clips/VPO/2023/02/02/20230202-170000-VPO077-program_original.mp3"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>#262 - 32 dias em 80 minutos</title>
-                <description>Gravado ao vivo direto do Sawi Studio, o primeiro Lado B de 2023 tenta abordar tudo que aconteceu nas nossas férias: posse de Lula, invasão em Brasília, genocídio Yanomami, prisões, denúncias e cortinas de fumaça, além das eleições no Congresso e na...
-Feed: https://www.spreaker.com/show/4711819/episodes/feed</description>
-                
-                
-                <link>https://www.spreaker.com/user/central3/lado-b-do-rio-262-32-dias-em-80-minutos</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/52629859/lado_b_do_rio_262_32_dias_em_80_minutos.mp3"/>
-                <guid>https://www.spreaker.com/user/central3/lado-b-do-rio-262-32-dias-em-80-minutos</guid>
                 
             </item>
         </channel>

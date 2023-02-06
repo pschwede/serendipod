@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 05 Feb 2023 04:23:23 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 06 Feb 2023 04:24:20 +0200</lastBuildDate>
             <item>
-                <title>Retroist Podcast Episode 292 (Alien Nation the TV Series)</title>
-                <description>On this new episode of the Retroist Podcast, I talk all about the 1989 sci-fi buddy cop TV show, Alien Nation. This is an amazing show that exceeded the film and was canceled way too soon.  Join me as a take a look back at this wonderful series.
-Feed: https://feed.podbean.com/retroist/feed.xml</description>
+                <title>145: From the Ashes | Linux Out Loud 49</title>
+                <description>This week, Linux Out Loud chats about open source projects rising from the ashes.
+Feed: https://dlnxtend.com/rss</description>
                 
                 
-                <link>https://retroist.podbean.com/e/retroist-podcast-episode-292-alien-nation-the-tv-series/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/gv9mb5/retroist-podcast-episode-292-alien-nation-tv-show.mp3"/>
-                <guid>https://retroist.podbean.com/e/retroist-podcast-episode-292-alien-nation-the-tv-series/</guid>
+                <link>https://dlnxtend.com/145</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/c276bc2c-a595-4dc0-8b72-dae8357d6dec/9b1182c3-b95a-477e-a357-70a2d4eaeab5.mp3"/>
+                <guid>https://dlnxtend.com/145</guid>
                 
             </item><item>
-                <title>Suffixes</title>
-                <description>Finn and Alice look at a very important part of word building – suffixes.
-Feed: https://podcasts.files.bbci.co.uk/p02pc9xz.rss</description>
+                <title>Farokh Talati makes Masala Oats</title>
+                <description>Join Chef Farokh Talati as he cooks through Masala Oats, his go-to quick breakfast that brings warmth, tang, and everything else you need for the day ahead from his new cookbook Parsi: From Persia to Bombay: recipes &amp; tales from the ancient culture.
+Feed: https://feeds.simplecast.com/N5LwlPiD</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0dzrqhs</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0dzrqfx.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0dzrqhs</guid>
+                <link>https://food52.com/p/burnt-toast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://2.gum.fm/cdn.simplecast.com/audio/80e2596f-3a78-46d8-b22a-52b87634bfab/episodes/665a0653-456d-48f8-93e5-156a98a4ccc4/audio/6fd1731f-fb6d-4425-8f2f-196917bb71d4/default_tc.mp3?aid=rss_feed&amp;feed=N5LwlPiD"/>
+                <guid>https://food52.com/p/burnt-toast</guid>
                 
             </item>
         </channel>
