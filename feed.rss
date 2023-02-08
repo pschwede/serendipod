@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 06 Feb 2023 04:24:20 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 08 Feb 2023 04:25:31 +0200</lastBuildDate>
             <item>
-                <title>145: From the Ashes | Linux Out Loud 49</title>
-                <description>This week, Linux Out Loud chats about open source projects rising from the ashes.
-Feed: https://dlnxtend.com/rss</description>
+                <title>2.5 Admins 128: Some Value</title>
+                <description>Yet another reason to disable voicemail, why so many recent Macs end up as scrap, and setting up a mail server.   Plugs Support us on patreon Auditing for Storage Performance   News WhatsApp accounts takeover Perfectly Good MacBooks From 2020 Are Being...
+Feed: https://2.5admins.com/feed/podcast</description>
                 
                 
-                <link>https://dlnxtend.com/145</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/c276bc2c-a595-4dc0-8b72-dae8357d6dec/9b1182c3-b95a-477e-a357-70a2d4eaeab5.mp3"/>
-                <guid>https://dlnxtend.com/145</guid>
+                <link>https://2.5admins.com/2-5-admins-128/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/latenightlinux/2.5admins-128.mp3"/>
+                <guid>https://2.5admins.com/2-5-admins-128/</guid>
                 
             </item><item>
-                <title>Farokh Talati makes Masala Oats</title>
-                <description>Join Chef Farokh Talati as he cooks through Masala Oats, his go-to quick breakfast that brings warmth, tang, and everything else you need for the day ahead from his new cookbook Parsi: From Persia to Bombay: recipes &amp; tales from the ancient culture.
-Feed: https://feeds.simplecast.com/N5LwlPiD</description>
+                <title>Episode 62: Top Human Origins Discoveries of 2022</title>
+                <description>
+Feed: https://originstories.libsyn.com/rss</description>
                 
                 
-                <link>https://food52.com/p/burnt-toast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://2.gum.fm/cdn.simplecast.com/audio/80e2596f-3a78-46d8-b22a-52b87634bfab/episodes/665a0653-456d-48f8-93e5-156a98a4ccc4/audio/6fd1731f-fb6d-4425-8f2f-196917bb71d4/default_tc.mp3?aid=rss_feed&amp;feed=N5LwlPiD"/>
-                <guid>https://food52.com/p/burnt-toast</guid>
+                <link>https://originstories.libsyn.com/episode-62-top-human-origins-discoveries-of-2022</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/originstories/Episode_62__Top_Human_Origins_Discoveries_of_2022.mp3?dest-id=258524"/>
+                <guid>https://originstories.libsyn.com/episode-62-top-human-origins-discoveries-of-2022</guid>
                 
             </item>
         </channel>

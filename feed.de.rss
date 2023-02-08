@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 06 Feb 2023 04:24:26 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 08 Feb 2023 04:25:35 +0200</lastBuildDate>
             <item>
-                <title>Warum stellst du dich Extremsituationen? Robert Jasper - Alpinist und Bergführer</title>
-                <description>Eiger Nordwand, Mixed Klettern, Solo-Abenteuer
-Feed: https://pwwhk4.podcaster.de/berpolstories.rss</description>
+                <title>LCP03: Gespräch mit Bodo Ramelow</title>
+                <description>LCP03: Gespräch mit Bodo Ramelow
+Feed: https://locopoca.de/feed/mp3/</description>
                 
                 
-                <link>https://bergpol.de/robert-jasper-extrembergsteigen/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pwwhk4.podcaster.de/berpolstories/media/bergpol_podcast_robert_jasper_extrembergsteiger_eiger_nordwand_alpinist_expeditionen_momentaufnahme.mp3"/>
-                <guid>https://bergpol.de/robert-jasper-extrembergsteigen/</guid>
+                <link>https://locopoca.de/lcp03-gespraech-mit-bodo-ramelow/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://locopoca.de/podlove/file/7/s/feed/c/mp3/LCP003-Gespraech-Bodo-Ramelow.mp3"/>
+                <guid>https://locopoca.de/lcp03-gespraech-mit-bodo-ramelow/</guid>
                 
             </item><item>
-                <title>068 — Modelle und Realität, ein Gespräch mit Dr. Andreas Windisch</title>
-                <description>Das Thema der heutigen Episode ist »Modelle«. Was ist ein Modell in Bezug zur Realität, welche Art vom Modellen gibt es und wie sollten wir als Gesellschaft mit Modellen umgehen, im besonderen bei Fragen, die das Verhalten komplexer Systeme in die Zu...
-Feed: https://podcast.zukunft-denken.eu/feed.xml</description>
+                <title>Damn Plastic: Zwei junge Unternehmerinnen rütteln die Nachhaltigkeitsszene auf</title>
+                <description>Ihre Mission? Nachhaltigkeit sexy machen. Ihr Ziel? Die Weltherrschaft. In einer Spezialfolge von der Langen Nacht der Podcasts in Wien berichten Victoria Neuhofer und Stephanie Sinko von ihrem wildem Startup-Leben mit „Damn Plastic“. 
+Feed: https://feeds.simplecast.com/XjHMjOqp</description>
                 
                 
-                <link>https://podcast.zukunft-denken.eu/e/068-modelle_andreas_windisch/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/gghc6e/068-andreas_windisch-modelle.mp3"/>
-                <guid>https://podcast.zukunft-denken.eu/e/068-modelle_andreas_windisch/</guid>
+                <link>https://www.sn.at/podcasts/frauengesundheit/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/cb41548e-bc17-4e62-b0ca-5b50797da520/episodes/7f1672a0-dcbd-4128-905f-a22dbbae42ce/audio/e71aca08-ce71-47fb-a099-5d2dcdefe4f5/default_tc.mp3?aid=rss_feed&amp;feed=XjHMjOqp"/>
+                <guid>https://www.sn.at/podcasts/frauengesundheit/</guid>
                 
             </item>
         </channel>

@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 06 Feb 2023 04:24:37 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 08 Feb 2023 04:25:43 +0200</lastBuildDate>
             <item>
-                <title>Serialmente: Francisco García Estalero | El Matamendigos</title>
-                <description>&lt;p&gt;Existen algunos enajenados que, por voluntad propia, o llevados por el frenesí convulso de sus vidas, terminaron pululando las calles de las ciudades, los recovecos oscuros y malolientes de los lugares que los demás apenas transitamos, y los basureros donde nos libramos de lo que no nos sirve. Habitantes de calle anónimos de los que no conocemos nada. ¿Qué pasa cuando uno de ellos se convierte en un monstruo insaciable? Conozcan la historia de Francisco García Estalero aquí, en SerialMente...
-Feed: https://www.omnycontent.com/d/playlist/cc8e0a84-3495-443a-8088-a99d01444c57/1aaa22dc-199e-4b1f-ac48-aac3014a6153/f71cdbdb-94c2-4d9c-91b3-aac3014c79b4/podcast.rss</description>
+                <title>Participe en su propia defensa legal | Lam Ho</title>
+                <description>Participe en su propia defensa legal | Lam Ho
+Feed: https://feeds.feedburner.com/SpanishPodcastKidsAndFamily</description>
                 
                 
-                <link>https://omny.fm/shows/serialmente/serialmente-francisco-garc-a-estalero-el-matamendi</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/cc8e0a84-3495-443a-8088-a99d01444c57/1aaa22dc-199e-4b1f-ac48-aac3014a6153/f0f7579e-0efa-4657-86f0-af9c002f6430/audio.mp3?utm_source=Podcast&amp;in_playlist=f71cdbdb-94c2-4d9c-91b3-aac3014c79b4"/>
-                <guid>https://omny.fm/shows/serialmente/serialmente-francisco-garc-a-estalero-el-matamendi</guid>
+                <link>https://www.ted.com/talks/lam_ho_how_to_participate_in_your_own_legal_defense?rss=172BB350-0065</link>
+                <enclosure type="audio/mpeg" length="1" url="https://download.ted.com/products/162424.mp4?apikey=172BB350-0065"/>
+                <guid>https://www.ted.com/talks/lam_ho_how_to_participate_in_your_own_legal_defense?rss=172BB350-0065</guid>
                 
             </item><item>
-                <title>La hora del Raposu POSTURAK 22</title>
-                <description>y lleg&amp;oacute; el Posturalk!! Se hizo esperar pero aqu&amp;iacute; est&amp;aacute;!! VOTA !!!
-1 Voto para el Posturak (si quieres puedes votar hasta 3)
-1 voto para el Cortinak
-Feed: https://www.ivoox.com/podcast-podcast-la-hora-del-raposu_fg_f165846_filtro_1.xml</description>
+                <title>Viñetas y bocadillos - &#39;El arte de Fernando Vicente&#39; - 06/02/23</title>
+                <description>&#39;El arte de Fernando Vicente&#39;
+Feed: http://api.rtve.es/api/programas/1946/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/hora-del-raposu-posturak-22-audios-mp3_rf_101496319_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/hora-del-raposu-posturak-22_mf_101496319_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/hora-del-raposu-posturak-22-audios-mp3_rf_101496319_1.html</guid>
+                <link>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-arte-fernando-vicente/6801432/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SELCOM/mp3/7/0/1675678312907.mp3"/>
+                <guid>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-arte-fernando-vicente/6801432/</guid>
                 
             </item>
         </channel>
