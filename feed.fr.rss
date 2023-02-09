@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 08 Feb 2023 04:25:39 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 09 Feb 2023 04:24:49 +0200</lastBuildDate>
             <item>
-                <title>L&#39;affaire L</title>
-                <description>L&#39;affaire L
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14726.xml</description>
+                <title>#89 Bruno Tesson (Le Campus des Dirigeants) - Comment t&#39;as fait pour passer de vétérinaire à entrepreneur</title>
+                <description>???? &#34;Comment t&#39;as fait ? Les rencontres d&#39;entrepreneurs&#34;, le podcast de ceux qui veulent comprendre comment concrètement les autres ont fait.
+#podcast #entrepreneuriat #business
+???? Recevez les dernières actualités, soyez informés des derniers épisodes......
+Feed: https://feed.ausha.co/B6EYWTGNrkQq</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/rendez-vous-avec-x/rendez-vous-avec-x-du-samedi-04-fevrier-2023-4248256</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/4d2bc892-42ea-4462-a1e7-63ac217c2983/14726-04.02.2023-ITEMA_23278231-2023F4726S0035-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/rendez-vous-avec-x/rendez-vous-avec-x-du-samedi-04-fevrier-2023-4248256</guid>
+                <link>https://podcast.ausha.co/comment-t-as-fait-les-rencontres-d-entrepreneurs/89-bruno-tesson-le-campus-des-dirigeants-comment-t-as-fait-pour-passer-de-veterinaire-a-entrepreneur</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stitch.api.soundcast.fm/v1/ausha.mp3?soundcastId=61efe35a52fe6&amp;podcastUrl=https%3A%2F%2Faudio.ausha.co%2FyEXr8FY9kA00.mp3%3Ft%3D1675632993"/>
+                <guid>https://podcast.ausha.co/comment-t-as-fait-les-rencontres-d-entrepreneurs/89-bruno-tesson-le-campus-des-dirigeants-comment-t-as-fait-pour-passer-de-veterinaire-a-entrepreneur</guid>
                 
             </item><item>
-                <title>Loudblast - Sublime Dementia</title>
-                <description>&lt;p&gt;Troisième album des rois du Death-Metal français, ce &#34;Sublime Dementia&#34; démonte tout sur son passage et en profite pour se tailler une belle place dans le paysage du Metal Extrême international, s&#39;offrant de nouveau un production digne des plus grands groupes du style !&amp;nbsp;&lt;/p&gt;
-Feed: https://anchor.fm/s/cbd8cb6c/podcast/rss</description>
+                <title>Oddisee - Hi Fi Rush - Chess.com</title>
+                <description>&lt;p&gt;Cette semaine dans Numerik:&lt;/p&gt;&lt;br&gt;&lt;p&gt;Oddisee - To What End: SpotifyDeezerAppleMusicYTMusicTidalQobuz&lt;/p&gt;&lt;br&gt;&lt;p&gt;Hi FI Rush&lt;/p&gt;&lt;br&gt;&lt;p&gt;Chess.com et mon profil si vous voulez jouer: https://www.chess.com/member/romainl34&lt;/p&gt;&lt;br&gt;&lt;p&gt;Pour discuter avec nous, rendez-vous sur Discord:&amp;nbsp;https://discord.gg/rNQEwR8s45&lt;/p&gt;&lt;p&gt;Pour nous soutenir sur Patreon:&amp;nbsp;https://www.patreon.com/numerik&lt;/p&gt;&lt;p&gt;Le compte Twitter:&amp;nbsp;https://twitter.com/Numerikfr&lt;/p&gt;&lt;p&gt;Le compte Mastodon:&amp;nbsp;https://piaille...
+Feed: https://feeds.acast.com/public/shows/63b551e72febd00012415f97</description>
                 
                 
-                <link>https://anchor.fm/1jour1album/episodes/Loudblast---Sublime-Dementia-e1ui9qf</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/cbd8cb6c/podcast/play/64611599/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-6%2Fba17c748-cbe8-1044-e7e0-b0583f5a2864.mp3"/>
-                <guid>https://anchor.fm/1jour1album/episodes/Loudblast---Sublime-Dementia-e1ui9qf</guid>
+                <link>https://shows.acast.com/numerik/episodes/oddisee-hi-fi-rush-chesscom</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63b551e72febd00012415f97/e/63d7cffcc49f25001054259d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOmZhbHNlLCJzcG9ucyI6ZmFsc2UsInN0YXR1cyI6InB1YmxpYyJ9&amp;sig=wF0l1Ws4ifXpitspVjdYfMklVQCoJjsu4D2JjwRr9xU"/>
+                <guid>https://shows.acast.com/numerik/episodes/oddisee-hi-fi-rush-chesscom</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 08 Feb 2023 04:25:31 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 09 Feb 2023 04:24:36 +0200</lastBuildDate>
             <item>
-                <title>2.5 Admins 128: Some Value</title>
-                <description>Yet another reason to disable voicemail, why so many recent Macs end up as scrap, and setting up a mail server.   Plugs Support us on patreon Auditing for Storage Performance   News WhatsApp accounts takeover Perfectly Good MacBooks From 2020 Are Being...
-Feed: https://2.5admins.com/feed/podcast</description>
+                <title>Cloudflare Tunnels and Reverse Proxy-over-VPN</title>
+                <description>https://thehomelab.show/The sponsor for today’s episodehttps://www.linode.com/homelabshowhttps://lawrencesystems.com/https://www.learnlinux.tv/ Using Cloudflare Tunnels For Hosting &amp; Certificates Without Exposing Ports On Your Firewallhttps://youtu.
+Feed: https://thehomelab.show/feed/</description>
                 
                 
-                <link>https://2.5admins.com/2-5-admins-128/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/latenightlinux/2.5admins-128.mp3"/>
-                <guid>https://2.5admins.com/2-5-admins-128/</guid>
+                <link>https://thehomelab.show/2023/02/02/the-homelab-show-ep-86-cloudflare-tunnels-and-reverse-proxy-over-vpn/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/thehomelabshow/thehomelab.show/wp-content/uploads/2023/02/The-Homelab-Show-Episode-86_-Cloudflare-Tunnels-and-Reverse-Proxy-over-VPN.mp3"/>
+                <guid>https://thehomelab.show/2023/02/02/the-homelab-show-ep-86-cloudflare-tunnels-and-reverse-proxy-over-vpn/</guid>
                 
             </item><item>
-                <title>Episode 62: Top Human Origins Discoveries of 2022</title>
-                <description>
-Feed: https://originstories.libsyn.com/rss</description>
+                <title>Update Your Model&#39;s View Of The World In Real Time With Streaming Machine Learning Using River</title>
+                <description>An interview with Max Halford about the benefits of streaming machine learning for systems that need to learn continuously without being taken offline and how the River library supports building those models.
+Feed: https://feeds.fireside.fm/pythonpodcast/rss</description>
                 
                 
-                <link>https://originstories.libsyn.com/episode-62-top-human-origins-discoveries-of-2022</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/originstories/Episode_62__Top_Human_Origins_Discoveries_of_2022.mp3?dest-id=258524"/>
-                <guid>https://originstories.libsyn.com/episode-62-top-human-origins-discoveries-of-2022</guid>
+                <link>https://www.pythonpodcast.com/river-streaming-machine-learning-episode-388/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/podcastinit/podcastinit-production.us-east-1.linodeobjects.com/uploads/Episode-388-River.mp3?ptm_source=feed&amp;ptm_context=mp3&amp;ptm_file=Episode-388-River.mp3"/>
+                <guid>https://www.pythonpodcast.com/river-streaming-machine-learning-episode-388/</guid>
                 
             </item>
         </channel>
