@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 10 Feb 2023 04:25:17 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 11 Feb 2023 04:24:33 +0200</lastBuildDate>
             <item>
-                <title>La hora del Raposu POSTURAK 22</title>
-                <description>y lleg&amp;oacute; el Posturalk!! Se hizo esperar pero aqu&amp;iacute; est&amp;aacute;!! VOTA !!!
-1 Voto para el Posturak (si quieres puedes votar hasta 3)
-1 voto para el Cortinak
-Feed: https://www.ivoox.com/podcast-podcast-la-hora-del-raposu_fg_f165846_filtro_1.xml</description>
+                <title>Encendido remoto de PC, ZSH, modo markdown</title>
+                <description>Encendido remoto de PC, ZSH, modo markdown
+Feed: https://feeds.feedburner.com/uGeek</description>
                 
                 
-                <link>https://www.ivoox.com/hora-del-raposu-posturak-22-audios-mp3_rf_101496319_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/hora-del-raposu-posturak-22_mf_101496319_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/hora-del-raposu-posturak-22-audios-mp3_rf_101496319_1.html</guid>
+                <link>https://ugeek.github.io/post/2023-01-26-encendido-remoto-de-pc-zsh-modo-markdown.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/106db04/podcast/play/64052839/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-0-26%2F309463314-44100-2-6bf3ede11c304.mp3"/>
+                <guid>https://ugeek.github.io/post/2023-01-26-encendido-remoto-de-pc-zsh-modo-markdown.html</guid>
                 
             </item><item>
-                <title>PRIMER PLANO con BRUNO GAGLIASSO</title>
-                <description>Esta semana convrsamos con el actor brasile&amp;ntilde;o Bruno Gagliasso. De villano en la serie Operaci&amp;oacute;n Marea Negra a un tipo fant&amp;aacute;stico con el que conversamos de todo, desde su vida personal hasta los proyectos que m&amp;aacute;s le han exigido como profesional, una charla amena para descubrir a una aut&amp;eacute;ntica estrella de cine de Brasil que aqu&amp;iacute;, con ilusi&amp;oacute;n, siente que es casi como empezar de cero
-Feed: https://www.ivoox.com/primer-plano_fg_f1237454_filtro_1.xml</description>
+                <title>Hora América en Radio 5 - Lagartija Nick de gira con &#39;El Perro Andaluz&#39; - 09/02/23</title>
+                <description>Lagartija Nick de gira con &#39;El Perro Andaluz&#39;
+Feed: http://api.rtve.es/api/programas/37571/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/primer-plano-bruno-gagliasso-audios-mp3_rf_102562138_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-bruno-gagliasso_mf_102562138_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/primer-plano-bruno-gagliasso-audios-mp3_rf_102562138_1.html</guid>
+                <link>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-radio-5-lagartija-nick-gira-perro-andaluz/6804466/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SHORAAM/mp3/3/8/1675937535383.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-radio-5-lagartija-nick-gira-perro-andaluz/6804466/</guid>
                 
             </item>
         </channel>

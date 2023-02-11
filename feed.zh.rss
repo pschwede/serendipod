@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 10 Feb 2023 04:25:25 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 11 Feb 2023 04:24:41 +0200</lastBuildDate>
             <item>
-                <title>Podcast Success Blueprint Phase 2 - The Making of the Podcast</title>
-                <description>Here’s the continuation of Podcast Success Blueprint Workshop, the Phase 2 - the making of the podcast. There&#39;s a lot of pieces that come together to make a perfect podcast. Michelle and Braden dive into the anatomy of a podcast and all the pieces that you need in the creation stage.
-Feed: https://feeds.captivate.fm/amplifyou/</description>
+                <title>Episode 143: Three Year Anniversary</title>
+                <description>Today, the podcast turns three years old and I tell the story of how I became a journalist and what I learned in the process.
+Feed: https://privatecitizen.press/index.xml</description>
                 
                 
-                <link>https://amplifyou.captivate.fm/episode/podcast-success-blueprint-phase-2-the-making-of-the-podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/285479/podcasts.captivate.fm/media/2285e2dc-1a7e-428c-8689-fb28e98ea3a8/AMP184-Podcast-Success-Blueprint-Phase-2-The-Making-of-the-Podc.mp3"/>
-                <guid>https://amplifyou.captivate.fm/episode/podcast-success-blueprint-phase-2-the-making-of-the-podcast</guid>
+                <link>https://privatecitizen.press/episode/143/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.fab.industries/privatecitizen143.mp3"/>
+                <guid>https://privatecitizen.press/episode/143/</guid>
                 
             </item><item>
-                <title>The Catcher in the Rye</title>
-                <description>This one&#39;s bound to earn a rye smile
-Feed: https://citationpod.libsyn.com/rss</description>
+                <title>The Without A Net Fantasy Football Superbowl Picks!</title>
+                <description>IT&#39;S TIME!  FOR THE THING!
+ 
+ 
+Feed: https://feed.podbean.com/withoutanetpod/feed.xml</description>
                 
                 
-                <link>https://citationpod.libsyn.com/the-catcher-in-the-rye</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/citationpod/cn304.mp3?dest-id=518557"/>
-                <guid>https://citationpod.libsyn.com/the-catcher-in-the-rye</guid>
+                <link>https://withoutanetpod.podbean.com/e/the-without-a-net-fantasy-football-superbowl-picks/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/8vtyiw/2022_super_bowl_picks8x7yj.mp3"/>
+                <guid>https://withoutanetpod.podbean.com/e/the-without-a-net-fantasy-football-superbowl-picks/</guid>
                 
             </item>
         </channel>

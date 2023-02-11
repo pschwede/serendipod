@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 10 Feb 2023 04:25:13 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 11 Feb 2023 04:24:29 +0200</lastBuildDate>
             <item>
-                <title>#114 - INTERVIEW François Klipfel - NPD - Président Europe du marché des jouets - Partie 2/2</title>
-                <description>&lt;p&gt;Aujourd&#39;hui, découvrez la deuxième partie de notre rencontre avec François Klipfel : président Europe du marché des jouets pour le groupe de panels NPD !&lt;/p&gt;&lt;br&gt;&lt;p&gt;Dans ce 2° épisode, François Klipfel revient sur son parcours, sur les stages possibles dans son entreprise et donne de nombreux et enrichissants conseils à destination des étudiant.e.s en marketing actuel.le.s et futur.e.s...
-Feed: https://feeds.acast.com/public/shows/mark-et-ting</description>
+                <title>L&#39;Alter Ego : 02/06/2023 16:00</title>
+                <description>649-282001
+Feed: http://podcast.cism893.ca/radioshows/649/feed_itunes.xml</description>
+                
+                
+                <link>https://podcast.cism893.ca/podcast/download_mp3/282001.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/282001.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/282001.mp3</guid>
+                
+            </item><item>
+                <title>Episode 96 : Mises en scènes</title>
+                <description>Révélations d&#39;une enquêtrice hors pair, Lisadol, qui nous présente ses nombreuses trouvailles sur le tueur et sur la victime Andrée Gescoffe. 
+CERNO est un podcast créé par Julien Cernobori
+Reportage, montage, réalisation et mixage : Julien Cernobori
+Assistant : Pierre Mouchel
+Musique originale : Théo Boulenger
+Ecoutez les épisodes suivants sur patreon.com/cerno !
+Vous pouvez consulter notre politique de confidentialité sur https://art19...
+Feed: https://rss.art19.com/cerno</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/620e78e488e4890016aed370/e/63dd379890ca6d0011d1539c/media.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/acb5c6cb-f44e-4def-8deb-f54680fb4b18.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Va chercher le fusil : 01/13/2023 07:00</title>
-                <description>689-280334
-Feed: http://podcast.cism893.ca/radioshows/689/feed_itunes.xml</description>
-                
-                
-                <link>https://podcast.cism893.ca/podcast/download_mp3/280334.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/280334.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/280334.mp3</guid>
                 
             </item>
         </channel>
