@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 11 Feb 2023 04:24:33 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 12 Feb 2023 04:24:27 +0200</lastBuildDate>
             <item>
-                <title>Encendido remoto de PC, ZSH, modo markdown</title>
-                <description>Encendido remoto de PC, ZSH, modo markdown
-Feed: https://feeds.feedburner.com/uGeek</description>
+                <title>Historia viajera de los balcanes I</title>
+                <description>Uniremos los viajes y la narración de la historia de los países. Contaremos la historia de los países de la antigua Yugoslavia a partir del reciente viaje que hicimos por esa maravillosa región del mundo en el año 2022. El hilo conductor del...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link>https://ugeek.github.io/post/2023-01-26-encendido-remoto-de-pc-zsh-modo-markdown.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/106db04/podcast/play/64052839/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-0-26%2F309463314-44100-2-6bf3ede11c304.mp3"/>
-                <guid>https://ugeek.github.io/post/2023-01-26-encendido-remoto-de-pc-zsh-modo-markdown.html</guid>
+                <link>https://www.dianauribe.fm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Historia_viajera_de_los_balcanes_I.mp3?dest-id=844493"/>
+                <guid>https://www.dianauribe.fm</guid>
                 
             </item><item>
-                <title>Hora América en Radio 5 - Lagartija Nick de gira con &#39;El Perro Andaluz&#39; - 09/02/23</title>
-                <description>Lagartija Nick de gira con &#39;El Perro Andaluz&#39;
-Feed: http://api.rtve.es/api/programas/37571/audios.rss</description>
+                <title>Sonidos y Sonados 2023-02-09</title>
+                <description>Cumpleaños felices. Hoy el Sonidos y Sonados empieza con los cumpleaños de Tere, mi mujer, y de mis dos hijos, Rael y Ruben, los tres primeros temas del programa los han elegido ellos. Hoy la música de Lorena Mckennitt, Placebo, Mili, Tokyo Ska Paradise Orchestra, Huaira &amp;#38; Captures, Elena Ley &amp;#38; Carlos Saura, Paula Dominguez, [&amp;#8230;]
+Feed: https://feeds.feedburner.com/sonidosysonados</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-radio-5-lagartija-nick-gira-perro-andaluz/6804466/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SHORAAM/mp3/3/8/1675937535383.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-radio-5-lagartija-nick-gira-perro-andaluz/6804466/</guid>
+                <link>https://www.sonidosysonados.com/2023/02/09/sonidos-y-sonados-2023-02-09/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/SonidosySonados20230209Nou.mp3"/>
+                <guid>https://www.sonidosysonados.com/2023/02/09/sonidos-y-sonados-2023-02-09/</guid>
                 
             </item>
         </channel>

@@ -9,28 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 11 Feb 2023 04:24:41 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 12 Feb 2023 04:24:37 +0200</lastBuildDate>
             <item>
-                <title>Episode 143: Three Year Anniversary</title>
-                <description>Today, the podcast turns three years old and I tell the story of how I became a journalist and what I learned in the process.
-Feed: https://privatecitizen.press/index.xml</description>
+                <title>Nigel Walsh: Managing Director of Insurance, Google: The $25 billion start-up (210)</title>
+                <description>This week Matthew Grant is talking to Nigel Walsh, Managing Director of Insurance, Google Cloud.
+You&#39;ll find out why Google launched its recent “start-up” - Google Cloud - $25 billion in valuation growing in excess of 36% quarter to quarter. 
+Nigel i...
+Feed: https://feed.podbean.com/instechlondon/feed.xml</description>
                 
                 
-                <link>https://privatecitizen.press/episode/143/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.fab.industries/privatecitizen143.mp3"/>
-                <guid>https://privatecitizen.press/episode/143/</guid>
+                <link>https://instechlondon.podbean.com/e/nigel-walsh-managing-director-of-insurance-google-the-25-billion-start-up-210/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/72B244/mcdn.podbean.com/mf/web/uvfv2v/Instech_Episode_229_-_Third_Draft_020123_1829_65l7l.mp3"/>
+                <guid>https://instechlondon.podbean.com/e/nigel-walsh-managing-director-of-insurance-google-the-25-billion-start-up-210/</guid>
                 
             </item><item>
-                <title>The Without A Net Fantasy Football Superbowl Picks!</title>
-                <description>IT&#39;S TIME!  FOR THE THING!
- 
- 
-Feed: https://feed.podbean.com/withoutanetpod/feed.xml</description>
+                <title>The green comet that visits once every 50,000 YEARS</title>
+                <description>&lt;p&gt;Hello hello hello, class is in session! In this week&#39;s episode, Dan chats to astronomy expert Hayley Smith all about C/2023 E3 (ZTF) - otherwise known as the &#39;green comet&#39;! Where does the comet get its colour from, can we predict its journey, and is there still a chance to witness it? &lt;/p&gt;
+&lt;p&gt;In Dangerous Dan, face the terrifying so-called &#39;cow killer&#39; wasp! Professor Pulsar is here too, to teach you all about fluid dynamics! What is a fluid, anyway.....
+Feed: https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/14b69fe4-635d-4253-bccf-aa710001b221/ed19a8b4-abae-4e93-af4b-aa710001b234/podcast.rss</description>
                 
                 
-                <link>https://withoutanetpod.podbean.com/e/the-without-a-net-fantasy-football-superbowl-picks/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/8vtyiw/2022_super_bowl_picks8x7yj.mp3"/>
-                <guid>https://withoutanetpod.podbean.com/e/the-without-a-net-fantasy-football-superbowl-picks/</guid>
+                <link>https://omny.fm/shows/fun-kids-science-weekly/the-green-comet-that-visits-once-every-50-000-year</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/289ceca7-bef3-48af-9f74-a4ba0095cab1/14b69fe4-635d-4253-bccf-aa710001b221/aabd97fc-03dc-40f1-b540-afa40105dbe6/audio.mp3?utm_source=Podcast&amp;in_playlist=ed19a8b4-abae-4e93-af4b-aa710001b234"/>
+                <guid>https://omny.fm/shows/fun-kids-science-weekly/the-green-comet-that-visits-once-every-50-000-year</guid>
                 
             </item>
         </channel>
