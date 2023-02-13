@@ -9,29 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 12 Feb 2023 04:24:42 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 13 Feb 2023 04:25:49 +0200</lastBuildDate>
             <item>
-                <title>Fashion Passion</title>
-                <description>&lt;p&gt;We’ve seen Toy Story where toys come to life, we’ve seen inside out where emotions come to life, but now in Fashion Passion, CLOTHES come to life!&lt;/p&gt;
-&lt;p&gt;What will these mischievous garments get up to in Fashion Passion!&lt;/p&gt;
-&lt;p&gt;Story Quest is a wild ride of wicked tales and wacky stories, all suggested by none other than the masterminds themselves, THE KIDS!&lt;/p&gt;
-&lt;p&gt;Each episode, Dan will take you on a journey through the wildest of imaginations as he brings to life kids&#39; stories with titles...
-Feed: https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/e50c88c5-ba65-4dda-97b5-abc900f1c59d/37b81d29-f765-456d-8d36-abc900f24178/podcast.rss</description>
+                <title>Bing Gets a Ding on Google</title>
+                <description>&lt;p&gt;It&#39;s a full house on the Android Police podcast this week as our Manuel Vonau fills in for the vacationing Daniel, friend of the show Mishaal Rahman joins us to break down Android 14&#39;s first developer preview, Google breaks down trying to explain what its AI applications do, and Will tries not to break himself cramming in some thoughts on the Galaxy S23 Ultra and OnePlus 11. Like a good tarp, we cover a lot of ground...
+Feed: https://feeds.captivate.fm/android-police-podcast/</description>
                 
                 
-                <link>https://omny.fm/shows/storyquest/fashion-passion</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/289ceca7-bef3-48af-9f74-a4ba0095cab1/e50c88c5-ba65-4dda-97b5-abc900f1c59d/7dea5445-a5f3-4303-ae0d-afa200e11b3d/audio.mp3?utm_source=Podcast&amp;in_playlist=37b81d29-f765-456d-8d36-abc900f24178"/>
-                <guid>https://omny.fm/shows/storyquest/fashion-passion</guid>
+                <link>https://www.androidpolice.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/5208dc27-9496-4304-bebf-ef520eb41cdd/AP42-mixdown.mp3"/>
+                <guid>https://www.androidpolice.com</guid>
                 
             </item><item>
-                <title>Spare the Battle, Spoil the Child (Voyager S5E11)</title>
-                <description>&lt;p&gt;When Doc Holoday realizes he’s missing some memories, an investigation leads to a conspiracy theory that isolates him from the crew. But when Captain Janeway reconsiders and allows a footage review, her suffering—not a factory reset—turns out to be the cure for his spiral...
-Feed: https://feeds.simplecast.com/_mp2DeJd</description>
+                <title>The Without A Net Fantasy Football Superbowl Picks!</title>
+                <description>IT&#39;S TIME!  FOR THE THING!
+ 
+ 
+Feed: https://feed.podbean.com/withoutanetpod/feed.xml</description>
                 
                 
-                <link>https://www.maximumfun.org/shows/greatest-generation</link>
-                <enclosure type="audio/mpeg" length="1" url="https://locator.simplecastcdn.com/67ceae81-0f94-48e8-837f-048975e202c1/be7bc202-2690-4f7a-9719-b3265ae0e9d8.mp3?aid=rss_feed&amp;feed=_mp2DeJd"/>
-                <guid>https://www.maximumfun.org/shows/greatest-generation</guid>
+                <link>https://withoutanetpod.podbean.com/e/the-without-a-net-fantasy-football-superbowl-picks/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/8vtyiw/2022_super_bowl_picks8x7yj.mp3"/>
+                <guid>https://withoutanetpod.podbean.com/e/the-without-a-net-fantasy-football-superbowl-picks/</guid>
                 
             </item>
         </channel>
