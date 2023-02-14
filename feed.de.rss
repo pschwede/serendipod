@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 13 Feb 2023 04:25:20 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 14 Feb 2023 04:25:50 +0200</lastBuildDate>
             <item>
-                <title>Murder/Kill/antes Ep. 4 - Prom Night (1980)</title>
-                <description>Prom Night: Die Nacht des Schlächters (Paul Lynch, 1980)
-Feed: https://movigilantes.podigee.io/feed/mp3</description>
+                <title>Ältestes Bier Deutschlands | Bier: Piep-Nitz Stellaris Pale Ale &amp; Feldschlösschen Pale Ale</title>
+                <description>Wir testen das Piep-Nitz Stellaris Pale Ale und Feldschlösschen Pale Ale.
+Feed: https://rss.art19.com/bierprobierer</description>
                 
                 
-                <link>https://movigilantes.podigee.io/666004-promnight1980</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1011752-m-b7a40762c97e6fdfeef9c823c7f8ba9e.mp3?source=feed"/>
-                <guid>https://movigilantes.podigee.io/666004-promnight1980</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/f43c97f4-8572-48a1-a53c-aef86f0ea4de.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Münchenbriefing 10.02.2023</title>
-                <description>Neues Wiesn-Plakat enthüllt UND Münchner Polizei stellt neues Präventionsprojekt vor
-Feed: https://muenchenbriefing.podigee.io/feed/mp3</description>
+                <title>Kunst feat. Name Originals</title>
+                <description>Folge 168
+Feed: https://sneacast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://muenchenbriefing.podigee.io/770-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1016915-m-f29989246edbc509b7e3ab24fe3bc664.mp3?source=feed"/>
-                <guid>https://muenchenbriefing.podigee.io/770-new-episode</guid>
+                <link>https://sneacast.podigee.io/168-name-originals</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1018941-m-26dd08737f71b0cd8aa82974a968095f.mp3?source=feed"/>
+                <guid>https://sneacast.podigee.io/168-name-originals</guid>
                 
             </item>
         </channel>

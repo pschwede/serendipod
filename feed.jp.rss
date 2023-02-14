@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 13 Feb 2023 04:25:49 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 14 Feb 2023 04:26:21 +0200</lastBuildDate>
             <item>
                 <title>Bing Gets a Ding on Google</title>
                 <description>&lt;p&gt;It&#39;s a full house on the Android Police podcast this week as our Manuel Vonau fills in for the vacationing Daniel, friend of the show Mishaal Rahman joins us to break down Android 14&#39;s first developer preview, Google breaks down trying to explain what its AI applications do, and Will tries not to break himself cramming in some thoughts on the Galaxy S23 Ultra and OnePlus 11. Like a good tarp, we cover a lot of ground...
@@ -21,16 +21,14 @@ Feed: https://feeds.captivate.fm/android-police-podcast/</description>
                 <guid>https://www.androidpolice.com</guid>
                 
             </item><item>
-                <title>The Without A Net Fantasy Football Superbowl Picks!</title>
-                <description>IT&#39;S TIME!  FOR THE THING!
- 
- 
-Feed: https://feed.podbean.com/withoutanetpod/feed.xml</description>
+                <title>#455 - When Life Gives You Bones, Make a Bone Dog</title>
+                <description>Three Body Problem is coming to two platforms, so…
+Feed: https://feeds.feedburner.com/TheSwordAndLaser</description>
                 
                 
-                <link>https://withoutanetpod.podbean.com/e/the-without-a-net-fantasy-football-superbowl-picks/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/8vtyiw/2022_super_bowl_picks8x7yj.mp3"/>
-                <guid>https://withoutanetpod.podbean.com/e/the-without-a-net-fantasy-football-superbowl-picks/</guid>
+                <link>https://soundcloud.com/swordandlaser/455-when-life-gives-you-bones-make-a-bone-dog</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/58G919/http://feeds.soundcloud.com/stream/1443579847-swordandlaser-455-when-life-gives-you-bones-make-a-bone-dog.mp3"/>
+                <guid>https://soundcloud.com/swordandlaser/455-when-life-gives-you-bones-make-a-bone-dog</guid>
                 
             </item>
         </channel>
