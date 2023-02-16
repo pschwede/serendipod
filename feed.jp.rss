@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 15 Feb 2023 04:26:20 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 16 Feb 2023 04:25:50 +0200</lastBuildDate>
             <item>
-                <title>Leeds Review | Barca SCARY | Takeover Talk</title>
-                <description>The Manchester is Red podcast get together to discuss all things Manchester United.
-Feed: https://feeds.megaphone.fm/RPSL7320170765</description>
+                <title>University</title>
+                <description>What makes a university? Is it the buildings, or the people, or the big hole you throw money into?...
+Feed: https://feeds.theincomparable.com/robot</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/RPSL1795581901.mp3?updated=1676308817"/>
-                <guid></guid>
+                <link>https://www.theincomparable.com/robot/253/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.theincomparable.com/podcast/robot253-university.mp3"/>
+                <guid>https://www.theincomparable.com/robot/253/</guid>
                 
             </item><item>
-                <title>Boko Haram (Islamic Terrorism in Western Africa)</title>
-                <description>Boko Haram (Arabic: ????? ??? ????? ?????? ???????) is a Nigerian-based Islamic militant group founded by Mohammed Yusuf in 2002. The group seeks to impose its strict version of Islam across a swathe of Africa.
-Feed: https://fascinating-people-fascinating.blubrry.net/feed/podcast/</description>
+                <title>Joanne Kennedy - Helping patients with chronic health issues finally heal</title>
+                <description>Habits &amp; Health episode 100 with Joanne Kennedy, a Naturopath and specialist in MTHFR, histamine intolerance, gut health (SIBO), and women’s hormones. We discuss the role histamine plays in so many conditions. Joanne runs a successful clinical...
+Feed: https://feeds.libsyn.com/132119/rss</description>
                 
                 
-                <link>https://fascinating-people-fascinating.blubrry.net/2023/02/10/boko-haram-islamic-terrorism-in-western-africa/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/danmainwaring/content.blubrry.com/danmainwaring/boko.mp3"/>
-                <guid>https://fascinating-people-fascinating.blubrry.net/2023/02/10/boko-haram-islamic-terrorism-in-western-africa/</guid>
+                <link>https://exceedingexpectations.libsyn.com/joanne-kennedy-helping-patients-with-chronic-health-issues-finally-heal</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/52231/traffic.libsyn.com/secure/exceedingexpectations/100_-_Joanne_Kennedy.mp3?dest-id=806844"/>
+                <guid>https://exceedingexpectations.libsyn.com/joanne-kennedy-helping-patients-with-chronic-health-issues-finally-heal</guid>
                 
             </item>
         </channel>
