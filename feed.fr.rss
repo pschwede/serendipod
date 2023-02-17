@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 16 Feb 2023 04:25:29 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 17 Feb 2023 04:25:31 +0200</lastBuildDate>
             <item>
-                <title>#166 - Scenari - low tech - Libre en Fête</title>
-                <description>&lt;p&gt;Les podcasts de l&#39;émission sont disponibles...
-Feed: https://april.org/lav.xml</description>
+                <title>Comment la ville de Babylone est-elle devenue l’un des plus grands mythes de l’humanité ?</title>
+                <description>Babylone, qu’est-ce que ça vous évoque ? Possiblement plein de choses. Car ce mot fait partie de la culture commune de tous, sans qu’on sache forcément précisément pourquoi cette cité a dépassé sa condition historique. Pour mieux comprendre il faut, comme toujours, commencer par le début.
+Babylone est devenue un élément de mythe en partie en raison de son importance historique et de sa position centrale dans l&#39;Antiquité...
+Feed: https://feeds.megaphone.fm/BABA4781584394</description>
                 
                 
-                <link>https://www.libreavous.org/166-scenari-low-tech-libre-en-fete</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20230124/libre-a-vous-20230124.mp3"/>
-                <guid>https://www.libreavous.org/166-scenari-low-tech-libre-en-fete</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA7368941188.mp3?updated=1676475670"/>
+                <guid></guid>
                 
             </item><item>
-                <title>On prend toujours un micro pour la vie : 02/15/2023 16:00</title>
-                <description>673-282639
-Feed: http://podcast.cism893.ca/radioshows/673/feed_itunes.xml</description>
+                <title>Actus PPG: Semaine 7 - Des crocs et des jets hautes pressions</title>
+                <description>Rejoignez toute l&#39;équipe PPG sur le Discord: Cliquez-ici! (https://discord.gg/z5avdnNSvS)  
+On vous attend pour échanger sur les différentes émissions, le JV en général, les constructeurs et même pour jouer en coop! 
+Pour Une Poignée de Gamers - La Ch...
+Feed: https://feed.ausha.co/B4AxxIK3nJYG</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/282639.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/282639.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/282639.mp3</guid>
+                <link>https://podcast.ausha.co/pour-une-poignee-de-gamers/actus-ppg-semaine-7-des-crocs-et-des-jets-hautes-pressions</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B10VLSQrpDAb.mp3?t=1676575919"/>
+                <guid>https://podcast.ausha.co/pour-une-poignee-de-gamers/actus-ppg-semaine-7-des-crocs-et-des-jets-hautes-pressions</guid>
                 
             </item>
         </channel>

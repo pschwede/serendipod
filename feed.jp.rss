@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 16 Feb 2023 04:25:50 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 17 Feb 2023 04:25:56 +0200</lastBuildDate>
             <item>
-                <title>University</title>
-                <description>What makes a university? Is it the buildings, or the people, or the big hole you throw money into?...
-Feed: https://feeds.theincomparable.com/robot</description>
+                <title>#300 Part 2 - Live Recording Hosted by the Kitchener Waterloo RASC Centre</title>
+                <description>Chris and Shane did a live recording during the monthly Kitchener Waterloo RASC Centre monthly meeting. Check out www.actualastronomy.com for show reference documentation. 
+Feed: https://feed.podbean.com/actualastronomy/feed.xml</description>
                 
                 
-                <link>https://www.theincomparable.com/robot/253/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.theincomparable.com/podcast/robot253-university.mp3"/>
-                <guid>https://www.theincomparable.com/robot/253/</guid>
+                <link>https://actualastronomy.podbean.com/e/300-part-2-live-recording-hosted-by-the-kitchener-waterloo-rasc-centre/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/ygs9uy/AAP_Episode_300_Bbcy0u.mp3"/>
+                <guid>https://actualastronomy.podbean.com/e/300-part-2-live-recording-hosted-by-the-kitchener-waterloo-rasc-centre/</guid>
                 
             </item><item>
-                <title>Joanne Kennedy - Helping patients with chronic health issues finally heal</title>
-                <description>Habits &amp; Health episode 100 with Joanne Kennedy, a Naturopath and specialist in MTHFR, histamine intolerance, gut health (SIBO), and women’s hormones. We discuss the role histamine plays in so many conditions. Joanne runs a successful clinical...
-Feed: https://feeds.libsyn.com/132119/rss</description>
+                <title>Hot Pipes Podcast 305 – Valentine Show</title>
+                <description>Valentine Show Available CDs have a link to the purchase pages in the Album column Start Name Artist Album Year Comments Sweet Georgia Brown Hector Olivera 660 Peachtree Street [EAR-10285] - 4-42 Moller, Fox Theatre,
+Feed: https://www.hotpipes.eu/feed/podcast-m4a/</description>
                 
                 
-                <link>https://exceedingexpectations.libsyn.com/joanne-kennedy-helping-patients-with-chronic-health-issues-finally-heal</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/52231/traffic.libsyn.com/secure/exceedingexpectations/100_-_Joanne_Kennedy.mp3?dest-id=806844"/>
-                <guid>https://exceedingexpectations.libsyn.com/joanne-kennedy-helping-patients-with-chronic-health-issues-finally-heal</guid>
+                <link>https://www.hotpipes.eu/podcast-305/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/hot_pipes_one_hour_podcast_m4a/www.hotpipes.eu/audio-one-hour/Hot-Pipes-305.m4a"/>
+                <guid>https://www.hotpipes.eu/podcast-305/</guid>
                 
             </item>
         </channel>

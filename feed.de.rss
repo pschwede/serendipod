@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 16 Feb 2023 04:25:24 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 17 Feb 2023 04:25:24 +0200</lastBuildDate>
             <item>
-                <title>Internet aus dem Weltall</title>
-                <description>Noch ist die Welt über ein Geflecht aus Unterwasserkabeln vernetzt. Das Internet aus dem Weltall zeigt aber schon jetzt, etwa im Ukraine-Krieg, wie wichtig Kommunikations-Alternativen zum Kabel sind. Die Zukunft der Digitalisierung wird auch im All geschrieben, berichtet Sarah Kriesche.
-Sendung am 10.2.2023 in Ö1.
-Feed: https://podcast.orf.at/podcast/oe1/oe1_matrix/oe1_matrix.xml</description>
+                <title>Innovationen erkennen und nutzen - mit Nick Sohnemann von Future Candy</title>
+                <description>Wo stünde Nokia ohne die bahnbrechende Erfindung des Mobiltelefons? Oder Nintendo ohne die des Mikrochips? Neuerungen im Markt zu verstehen und richtig einzusetzen ist für Firmen heutzutage überlebenswichtig. 
+In Folge #186 eures Digitalisierungspodcasts von Vodafone Business spricht Host Christoph Burseg deshalb mit Nick Sohnemann, Gründer von Future Candy. 
+Die Innovationsagentur hilft anderen Unternehmen dabei, die neuesten Entwicklungen zu erkennen und im Idealfall davon zu profitieren...
+Feed: https://digitalevorreiter.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://radiothek.orf.at/podcasts/oe1/oe1-matrix/internet-aus-dem-weltall</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/oe1/oe1_matrix/items/di_oe1_matrix_clk_13298b57f8914a90a89e976d3d041e2b.mp3?etag=d7e8168be0103a93498e4d56ce745536"/>
-                <guid>https://radiothek.orf.at/podcasts/oe1/oe1-matrix/internet-aus-dem-weltall</guid>
+                <link>https://digitalevorreiter.podigee.io/186-innovationen-erkennen-und-nutzen-mit-nick-sohnemann-von-future-candy</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1016672-m-977972ff4f1be323ce2b313219a8e6ef.mp3?source=feed"/>
+                <guid>https://digitalevorreiter.podigee.io/186-innovationen-erkennen-und-nutzen-mit-nick-sohnemann-von-future-candy</guid>
                 
             </item><item>
-                <title>#172 - Erste Herausforderungen in Lagos</title>
-                <description>Realtalk
-Feed: https://suchtundordnung.podigee.io/feed/mp3</description>
+                <title>Abmahnung vom Reichweitenkartellamt</title>
+                <description>&lt;p&gt;Neues vom Chef, der seine Azubi verpflichtet, ihn beim Umzug zu helfen. Elon Musk hat ganz offenbar Entwickler aus dem Feierabend geholt, um mehr Reichweite als der US-Präsident zu erhalten. Dafür haben wir jetzt eine Deadline für die Suche nach einem neuen CEO und wissen auch, dass Cardi B keine Lust mehr auf Twitter Blue hat.&lt;/p&gt;
+Feed: https://anchor.fm/s/cc6d8d10/podcast/rss</description>
                 
                 
-                <link>https://suchtundordnung.podigee.io/184-172-erste-herausforderungen-in-lagos</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1016021-m-9f87d5b48875e7efe09d497a70ea0437.mp3?source=feed"/>
-                <guid>https://suchtundordnung.podigee.io/184-172-erste-herausforderungen-in-lagos</guid>
+                <link>https://anchor.fm/hakendran/episodes/Abmahnung-vom-Reichweitenkartellamt-e1v1113</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/cc6d8d10/podcast/play/65094115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-15%2Fae9ad2c6-b276-5dfa-b6d0-e81cec48b858.mp3"/>
+                <guid>https://anchor.fm/hakendran/episodes/Abmahnung-vom-Reichweitenkartellamt-e1v1113</guid>
                 
             </item>
         </channel>

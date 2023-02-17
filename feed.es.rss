@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 16 Feb 2023 04:25:35 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 17 Feb 2023 04:25:37 +0200</lastBuildDate>
             <item>
-                <title>319: El Escultor de la Muerte - Chris Carter</title>
-                <description>Otra semana más de reseña, otro episodio emocionante y de mucho thriller. Any nos cuenta sobre este libro y también un poco sobre los libros anteriores de este autor. 
-Feed: https://feeds.simplecast.com/Ls3L1Ojk</description>
+                <title>Ruta Lokal – Capítol 111</title>
+                <description>Davant el micro un cop més i a les vostres oïdes per fer-vos arribar una petita porció de la millor música que sonarà en directe a les sales i centres de la província de Barcelona entre el 16 i el 28 de febrer. El meu nom és Manuel Burgos i això es Ruta Lokal...
+Feed: https://xrcb.cat/subscribirse-a-podcast/?id=864</description>
                 
                 
-                <link>https://mentesliterales.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/0cc4690d-0899-463d-9bd6-b02c19a11833/episodes/80bb6f49-3418-46d1-a5f4-ab93c0a23b4d/audio/a1697443-72bf-419b-a97b-bb6e141c9c55/default_tc.mp3?aid=rss_feed&amp;feed=Ls3L1Ojk"/>
-                <guid>https://mentesliterales.com</guid>
+                <link>https://xrcb.cat/ca/podcast/ruta-lokal-capitol-111/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://xrcb.cat/wp-content/uploads/2023/02/Ruta-Lokal-111-9-Feb-2023-MASTER-MP3.mp3"/>
+                <guid>https://xrcb.cat/ca/podcast/ruta-lokal-capitol-111/</guid>
                 
             </item><item>
-                <title>Frontera - 11/02/23</title>
-                <description>Frontera - 11/02/23
-Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
+                <title>180 grados - Kuve y Caroline Polachek - 16/02/23</title>
+                <description>Kuve y Caroline Polachek
+Feed: http://api.rtve.es/api/programas/22270/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/frontera/11-02-23/6802659/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SFRONT/mp3/7/6/1675774262567.mp3"/>
-                <guid>https://www.rtve.es/play/audios/frontera/11-02-23/6802659/</guid>
+                <link>https://www.rtve.es/play/audios/180/kuve-caroline-polachek-16-02-23/6807869/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_S180GRA/mp3/4/8/1676120655184.mp3"/>
+                <guid>https://www.rtve.es/play/audios/180/kuve-caroline-polachek-16-02-23/6807869/</guid>
                 
             </item>
         </channel>
