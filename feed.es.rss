@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 17 Feb 2023 04:25:37 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 18 Feb 2023 04:38:12 +0200</lastBuildDate>
             <item>
-                <title>Ruta Lokal – Capítol 111</title>
-                <description>Davant el micro un cop més i a les vostres oïdes per fer-vos arribar una petita porció de la millor música que sonarà en directe a les sales i centres de la província de Barcelona entre el 16 i el 28 de febrer. El meu nom és Manuel Burgos i això es Ruta Lokal...
-Feed: https://xrcb.cat/subscribirse-a-podcast/?id=864</description>
+                <title>Historia viajera de los Balcanes II</title>
+                <description>Continuamos el camino por los Balcanes. Los siguientes destinos son Croacia y Eslovenia. En este episodio les contaremos las principales diferencias que existen entre estas Repúblicas y las demás naciones de la Antigua Yugoslavia. Hablaremos de la...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link>https://xrcb.cat/ca/podcast/ruta-lokal-capitol-111/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://xrcb.cat/wp-content/uploads/2023/02/Ruta-Lokal-111-9-Feb-2023-MASTER-MP3.mp3"/>
-                <guid>https://xrcb.cat/ca/podcast/ruta-lokal-capitol-111/</guid>
+                <link>https://www.dianauribe.fm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Historia_viajera_de_los_Balcanes_II.mp3?dest-id=844493"/>
+                <guid>https://www.dianauribe.fm</guid>
                 
             </item><item>
-                <title>180 grados - Kuve y Caroline Polachek - 16/02/23</title>
-                <description>Kuve y Caroline Polachek
-Feed: http://api.rtve.es/api/programas/22270/audios.rss</description>
+                <title>Popcasting424</title>
+                <description>stormboy&#39;s &amp;middot; wasted on me&amp;nbsp; ::&amp;nbsp; missing persons &amp;middot; surrender your heart&amp;nbsp; ::&amp;nbsp; girl ray &amp;middot; everybody&amp;rsquo;s saying that&amp;nbsp; ::&amp;nbsp; jessie ware &amp;middot; free yourself&amp;nbsp; ::&amp;nbsp; robert forster &amp;middot; the roads&amp;nbsp; ::&amp;nbsp; bob dylan &amp;middot; not dark yet - version 2&amp;nbsp; ::&amp;nbsp; tom verlaine &amp;middot; kingdom come&amp;nbsp; ::&amp;nbsp; television &amp;middot; venus&amp;nbsp; ::&amp;nbsp; tom verlaine &amp;middot; the scientist writes a letter&amp;nbsp; ::&amp;nbsp; r.e.m...
+Feed: https://feeds.feedburner.com/Popcasting</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/180/kuve-caroline-polachek-16-02-23/6807869/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_S180GRA/mp3/4/8/1676120655184.mp3"/>
-                <guid>https://www.rtve.es/play/audios/180/kuve-caroline-polachek-16-02-23/6807869/</guid>
+                <link>http://www.ivoox.com/popcasting424-audios-mp3_rf_103105048_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting424_mf_103105048_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/popcasting424-audios-mp3_rf_103105048_1.html</guid>
                 
             </item>
         </channel>

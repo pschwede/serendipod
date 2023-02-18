@@ -9,29 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 17 Feb 2023 04:25:31 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 18 Feb 2023 04:38:05 +0200</lastBuildDate>
             <item>
-                <title>Comment la ville de Babylone est-elle devenue l’un des plus grands mythes de l’humanité ?</title>
-                <description>Babylone, qu’est-ce que ça vous évoque ? Possiblement plein de choses. Car ce mot fait partie de la culture commune de tous, sans qu’on sache forcément précisément pourquoi cette cité a dépassé sa condition historique. Pour mieux comprendre il faut, comme toujours, commencer par le début.
-Babylone est devenue un élément de mythe en partie en raison de son importance historique et de sa position centrale dans l&#39;Antiquité...
-Feed: https://feeds.megaphone.fm/BABA4781584394</description>
+                <title>À quoi sommes-nous attachés ? </title>
+                <description>À quoi sommes-nous attachés ? 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16260.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA7368941188.mp3?updated=1676475670"/>
-                <guid></guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/la-suite-dans-les-idees/a-quoi-sommes-nous-attaches-5130415</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/8c43b19b-637d-4ff8-9266-e54f4be16f89/16260-11.02.2023-ITEMA_23285391-2023C6260S0042-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/la-suite-dans-les-idees/a-quoi-sommes-nous-attaches-5130415</guid>
                 
             </item><item>
-                <title>Actus PPG: Semaine 7 - Des crocs et des jets hautes pressions</title>
-                <description>Rejoignez toute l&#39;équipe PPG sur le Discord: Cliquez-ici! (https://discord.gg/z5avdnNSvS)  
-On vous attend pour échanger sur les différentes émissions, le JV en général, les constructeurs et même pour jouer en coop! 
-Pour Une Poignée de Gamers - La Ch...
-Feed: https://feed.ausha.co/B4AxxIK3nJYG</description>
+                <title>#82 - Edouard Fiess / Navily : le premier guide cotier communautaire mondial</title>
+                <description>Bienvenue sur Aventure Humaine !
+ 
+Les marins constituent une communauté où l’entraide a une vraie place. Le projet de 
+Feed: https://feeds.audiomeans.fr/feed/af6f5238-da44-454d-b172-593d65d5b044.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/pour-une-poignee-de-gamers/actus-ppg-semaine-7-des-crocs-et-des-jets-hautes-pressions</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B10VLSQrpDAb.mp3?t=1676575919"/>
-                <guid>https://podcast.ausha.co/pour-une-poignee-de-gamers/actus-ppg-semaine-7-des-crocs-et-des-jets-hautes-pressions</guid>
+                <link>https://aventurehumaine.fr/82-edouard-fiess/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/b4b0fe05-7a3c-419d-8c4d-0df5f83a2fef.mp3?_=1671440111"/>
+                <guid>https://aventurehumaine.fr/82-edouard-fiess/</guid>
                 
             </item>
         </channel>

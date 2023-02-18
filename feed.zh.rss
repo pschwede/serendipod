@@ -9,34 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 17 Feb 2023 04:25:50 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 18 Feb 2023 04:38:24 +0200</lastBuildDate>
             <item>
-                <title>Another FN Podcast - Tiffany 2/14/23</title>
-                <description>Tiffany stops by to talk about her brand new record &#34;Shadows&#34; which is available everywhere, pre-sales, a tour announcement, her new food adventure called &#34;Let&#39;s Food With Tiffany&#34;, relevance, health, and a whole lot more.
-https://tiffanytunes.com...
-Feed: https://www.spreaker.com/show/1175717/episodes/feed</description>
+                <title>#455 - When Life Gives You Bones, Make a Bone Dog</title>
+                <description>Three Body Problem is coming to two platforms, so…
+Feed: https://feeds.feedburner.com/TheSwordAndLaser</description>
                 
                 
-                <link>https://www.spreaker.com/user/izzypresley/tomp3-cc-another-fn-podcast-tiffany-2142</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/52728569/tomp3_cc_another_fn_podcast_tiffany_21423.mp3"/>
-                <guid>https://www.spreaker.com/user/izzypresley/tomp3-cc-another-fn-podcast-tiffany-2142</guid>
+                <link>https://soundcloud.com/swordandlaser/455-when-life-gives-you-bones-make-a-bone-dog</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/58G919/http://feeds.soundcloud.com/stream/1443579847-swordandlaser-455-when-life-gives-you-bones-make-a-bone-dog.mp3"/>
+                <guid>https://soundcloud.com/swordandlaser/455-when-life-gives-you-bones-make-a-bone-dog</guid>
                 
             </item><item>
-                <title>Day 047 (Leviticus 11-13) - Year 5</title>
-                <description>SHOW NOTES: 
-- All the info you need to START is on our website! Seriously, go there. - Join our PATREON community for bonus perks!
-- Get your TBR merch
-- Show credits
-- Win a trip to Israel! 
-FROM TODAY’S PODCAST: 
-- Luke 2:22-24
-- Get The Trinity R...
-Feed: https://feed.podbean.com/thebiblerecap/feed.xml</description>
+                <title>Royalty Don&#39;t Mess Around</title>
+                <description>&#34;Black Panther: Wakanda Forever&#34;
+Feed: https://feeds.theincomparable.com/theincomparable</description>
                 
                 
-                <link>https://thebiblerecap.podbean.com/e/day047-year5/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/t58t9g/TBR_047_-_2_3_23_801_PM8u742.mp3"/>
-                <guid>https://thebiblerecap.podbean.com/e/day047-year5/</guid>
+                <link>https://www.theincomparable.com/theincomparable/653/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/0ffd4864-2db7-4b63-bd46-af73906b3405.mp3"/>
+                <guid>https://www.theincomparable.com/theincomparable/653/</guid>
                 
             </item>
         </channel>
