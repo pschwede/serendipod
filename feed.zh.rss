@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 18 Feb 2023 04:38:24 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 19 Feb 2023 04:24:49 +0200</lastBuildDate>
             <item>
-                <title>#455 - When Life Gives You Bones, Make a Bone Dog</title>
-                <description>Three Body Problem is coming to two platforms, so…
-Feed: https://feeds.feedburner.com/TheSwordAndLaser</description>
+                <title>Humans Of Space: James L. Green</title>
+                <description>Former chief scientist for NASA reveals what inspired him to pursue a career in spaceflight.
+Feed: https://feeds.megaphone.fm/GLT6265805627</description>
                 
                 
-                <link>https://soundcloud.com/swordandlaser/455-when-life-gives-you-bones-make-a-bone-dog</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/58G919/http://feeds.soundcloud.com/stream/1443579847-swordandlaser-455-when-life-gives-you-bones-make-a-bone-dog.mp3"/>
-                <guid>https://soundcloud.com/swordandlaser/455-when-life-gives-you-bones-make-a-bone-dog</guid>
+                <link>https://www.skyatnightmagazine.com/podcasts</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/radio-astronomy/e/63ea03315c30a70010b3e557/media.mp3"/>
+                <guid>https://www.skyatnightmagazine.com/podcasts</guid>
                 
             </item><item>
-                <title>Royalty Don&#39;t Mess Around</title>
-                <description>&#34;Black Panther: Wakanda Forever&#34;
-Feed: https://feeds.theincomparable.com/theincomparable</description>
+                <title>A Barometer of Twitter</title>
+                <description>Grey is focusing on health, Myke has left Twitter, and they&#39;ve both used ChatGPT.
+Feed: https://www.relay.fm/cortex/feed/</description>
                 
                 
-                <link>https://www.theincomparable.com/theincomparable/653/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/0ffd4864-2db7-4b63-bd46-af73906b3405.mp3"/>
-                <guid>https://www.theincomparable.com/theincomparable/653/</guid>
+                <link>http://relay.fm/cortex/137</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_137.mp3"/>
+                <guid>http://relay.fm/cortex/137</guid>
                 
             </item>
         </channel>

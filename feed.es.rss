@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 18 Feb 2023 04:38:12 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 19 Feb 2023 04:24:41 +0200</lastBuildDate>
             <item>
-                <title>Historia viajera de los Balcanes II</title>
-                <description>Continuamos el camino por los Balcanes. Los siguientes destinos son Croacia y Eslovenia. En este episodio les contaremos las principales diferencias que existen entre estas Repúblicas y las demás naciones de la Antigua Yugoslavia. Hablaremos de la...
-Feed: https://dianauribefm.libsyn.com/rss</description>
+                <title>Así funciona el páncreas</title>
+                <description>Las tareas principales del páncreas es producir líquido digestivo y regular el nivel de azúcar en sangre.
+Feed: https://rss.dw.com/xml/podcast_en-forma</description>
                 
                 
-                <link>https://www.dianauribe.fm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Historia_viajera_de_los_Balcanes_II.mp3?dest-id=844493"/>
-                <guid>https://www.dianauribe.fm</guid>
+                <link>https://www.dw.com/es/así-funciona-el-páncreas/av-64714401?maca=spa-podcast_en-forma-7577-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ef/ef20230215_ExplainerBauchspeicheldruese_AVC_640x360.mp4"/>
+                <guid>https://www.dw.com/es/así-funciona-el-páncreas/av-64714401?maca=spa-podcast_en-forma-7577-xml-mrss</guid>
                 
             </item><item>
-                <title>Popcasting424</title>
-                <description>stormboy&#39;s &amp;middot; wasted on me&amp;nbsp; ::&amp;nbsp; missing persons &amp;middot; surrender your heart&amp;nbsp; ::&amp;nbsp; girl ray &amp;middot; everybody&amp;rsquo;s saying that&amp;nbsp; ::&amp;nbsp; jessie ware &amp;middot; free yourself&amp;nbsp; ::&amp;nbsp; robert forster &amp;middot; the roads&amp;nbsp; ::&amp;nbsp; bob dylan &amp;middot; not dark yet - version 2&amp;nbsp; ::&amp;nbsp; tom verlaine &amp;middot; kingdom come&amp;nbsp; ::&amp;nbsp; television &amp;middot; venus&amp;nbsp; ::&amp;nbsp; tom verlaine &amp;middot; the scientist writes a letter&amp;nbsp; ::&amp;nbsp; r.e.m...
-Feed: https://feeds.feedburner.com/Popcasting</description>
+                <title>Trópico Utópico - Chico Buarque, um brasileiro - 17/02/23</title>
+                <description>Chico Buarque, um brasileiro
+Feed: http://api.rtve.es/api/programas/2096/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/popcasting424-audios-mp3_rf_103105048_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting424_mf_103105048_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/popcasting424-audios-mp3_rf_103105048_1.html</guid>
+                <link>https://www.rtve.es/play/audios/tropico-utopico/chico-buarque-um-brasileiro/6813923/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_STROPI/mp3/4/2/1676673943124.mp3"/>
+                <guid>https://www.rtve.es/play/audios/tropico-utopico/chico-buarque-um-brasileiro/6813923/</guid>
                 
             </item>
         </channel>

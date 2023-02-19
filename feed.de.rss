@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 18 Feb 2023 04:37:59 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 19 Feb 2023 04:24:32 +0200</lastBuildDate>
             <item>
-                <title>AUA - Ask Upside Anything Teil I (2023)</title>
-                <description>Checkt die Shownotes, um zu den einzelnen Fragen zu springen! Teil 2 kommt nächste Woche Dienstag!
-Feed: https://upsidefantasy.podigee.io/feed/mp3</description>
+                <title>DHP - Folge 92</title>
+                <description>Der frühe Vogel fängt den Wurm! Ohne viel Schlaf …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:503847510/sounds.rss</description>
                 
                 
-                <link>https://upsidefantasy.podigee.io/267-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1020035-m-466418cf4ad82b052c30adcfe17e735d.mp3?source=feed"/>
-                <guid>https://upsidefantasy.podigee.io/267-new-episode</guid>
+                <link>https://soundcloud.com/derhistorienpodcast/dhp-folge-92</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1445521120-derhistorienpodcast-dhp-folge-92.mp3"/>
+                <guid>https://soundcloud.com/derhistorienpodcast/dhp-folge-92</guid>
                 
             </item><item>
-                <title>Beyoncé &amp; harte Verhandlungen - #107</title>
-                <description>&lt;p&gt;Moin! Großartig, dass Du diese Woche bei Das Nehme ich mal mit reinhörst. In dieser Folge werden Personen öffentlich bloßgestellt (mit Happy End), es geht ums Sammeln, Diskutieren und um Karneval. Darüber hinaus geht es aber auch wie immer um beinharte und hochseriöse Politik...
-Feed: https://anchor.fm/s/cf3f8ac/podcast/rss</description>
+                <title>Henze Sinfonia Nr. 9 | Konzerteinführung digital</title>
+                <description>Das Gedenkkonzert der Dresdner Philharmonie zum 13. Februar zu leiten, ist Chefdirigent Marek Janowski ein wichtiges Anliegen. In diesem Jahr hat er dafür ein Werk ausgewählt, das in enger Beziehung zu Anna Seghers&#39; Roman &#34;Das siebte Kreuz&#34; steht. In sieben Episoden empfindet Hans Werner Henze in seiner expressiven und in ihrer Dramatik erschütternden Sinfonie musikalisch die Geschichte der Flucht von sieben Häftlingen aus einem Konzentrationslager der Nazis nach...
+Feed: https://podcastd91b39.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://anchor.fm/dasnehmichmalmit/episodes/Beyonc--harte-Verhandlungen---107-e1uon68</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/cf3f8ac/podcast/play/64821896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-10%2F9fa0a164-5217-3b2a-36f3-39417612d939.mp3"/>
-                <guid>https://anchor.fm/dasnehmichmalmit/episodes/Beyonc--harte-Verhandlungen---107-e1uon68</guid>
+                <link>https://podcastd91b39.podigee.io/62-henze-9-konzerteinfuehrung-digital</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1015574-m-c4a23ca5bb03c97980875a48f8e9d190.mp3?source=feed"/>
+                <guid>https://podcastd91b39.podigee.io/62-henze-9-konzerteinfuehrung-digital</guid>
                 
             </item>
         </channel>

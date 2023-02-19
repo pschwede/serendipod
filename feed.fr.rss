@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 18 Feb 2023 04:38:05 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 19 Feb 2023 04:24:36 +0200</lastBuildDate>
             <item>
-                <title>À quoi sommes-nous attachés ? </title>
-                <description>À quoi sommes-nous attachés ? 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16260.xml</description>
+                <title>HS#20 La levure SafeBrew LA-01 pour la fabrication de bière sans alcool</title>
+                <description>La levure SafeBrew LA-01 pour la fabrication de bière sans alcool
+Si la bière sans alcool est de plus en plus en vogue, sa fabrication reste un véritable défi. Les plus de 30 ans se souviennent sans doute de la célèbre réplique &#34;Paul, une Tourtel !&#34;,...
+Feed: https://feed.ausha.co/2B60pSpE9VOy</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/la-suite-dans-les-idees/a-quoi-sommes-nous-attaches-5130415</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/8c43b19b-637d-4ff8-9266-e54f4be16f89/16260-11.02.2023-ITEMA_23285391-2023C6260S0042-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/la-suite-dans-les-idees/a-quoi-sommes-nous-attaches-5130415</guid>
+                <link>https://podcast.ausha.co/podcapsuleur/hs-20-la-levure-safebrew-la-01-pour-la-fabrication-de-biere-sans-alcool</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/Bq1DCPD6zG2B.mp3?t=1674815763"/>
+                <guid>https://podcast.ausha.co/podcapsuleur/hs-20-la-levure-safebrew-la-01-pour-la-fabrication-de-biere-sans-alcool</guid>
                 
             </item><item>
-                <title>#82 - Edouard Fiess / Navily : le premier guide cotier communautaire mondial</title>
-                <description>Bienvenue sur Aventure Humaine !
- 
-Les marins constituent une communauté où l’entraide a une vraie place. Le projet de 
-Feed: https://feeds.audiomeans.fr/feed/af6f5238-da44-454d-b172-593d65d5b044.xml</description>
+                <title>Infrarouge : L&#39;hôpital aux urgences ?</title>
+                <description>Afflux de patients, manque de personnel : les services d’urgence sont sous pression dans la plupart des hôpitaux romands depuis plusieurs mois. ...
+Feed: https://www.rts.ch/emissions/infrarouge/podcasts/?f=rss/podcast</description>
                 
                 
-                <link>https://aventurehumaine.fr/82-edouard-fiess/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/b4b0fe05-7a3c-419d-8c4d-0df5f83a2fef.mp3?_=1671440111"/>
-                <guid>https://aventurehumaine.fr/82-edouard-fiess/</guid>
+                <link>https://www.rts.ch/video/emissions/infrarouge/13790770-infrarouge-lhopital-aux-urgences.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/13790770/ed741d2f-7a13-3986-9be9-4a3674d8c537.mp4"/>
+                <guid>https://www.rts.ch/video/emissions/infrarouge/13790770-infrarouge-lhopital-aux-urgences.html</guid>
                 
             </item>
         </channel>

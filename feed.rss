@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 18 Feb 2023 04:37:50 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 19 Feb 2023 04:24:27 +0200</lastBuildDate>
             <item>
-                <title>Tubi vs. Hulu</title>
-                <description>&lt;p&gt;Announcing Season 5 of Prestons Super Show. Detailing what Season 5 will have in store for the Super Show faithful! A recap of the Super Bowl leads us into the streaming wars matchup that makes dollars and cents. Tossing out a hidden gem at the end.&lt;/p&gt;&lt;p&gt;Hidden Gem: https://rewards.imaginereplay.com/login?referralCode=VCWXNMHK&lt;/p&gt;&lt;p&gt;#SuperBowlLVll #Tubi #Hulu #StreamingWars #Gaana&lt;/p&gt;
-Feed: https://anchor.fm/s/1cd5f158/podcast/rss</description>
+                <title>Off The Wall - Feb 14, 2023</title>
+                <description>
+Feed: https://www.2600.com/otw-broadband.xml</description>
                 
                 
-                <link>https://anchor.fm/prestonssupershow/episodes/Tubi-vs--Hulu-e1utnsk</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO1912714590.mp3"/>
-                <guid>https://anchor.fm/prestonssupershow/episodes/Tubi-vs--Hulu-e1utnsk</guid>
+                <link>https://www.2600.com/offthewall/2023/0223.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://download.2600.com/mediadownload/www.2600.com/offthewall/mp3files/2023/off_the_wall__20230214-128.mp3"/>
+                <guid>https://www.2600.com/offthewall/2023/0223.html</guid>
                 
             </item><item>
-                <title>#423 Corridos Romantico Mix by @DjblenyD</title>
-                <description>My brotha ! @DjblenyD sent me this corridor mix! bring out the beers baby !
-Feed: https://rss.podomatic.net/rss/thedjbeatboy.podomatic.com/rss2.xml</description>
+                <title>Frank H. Grey: Kikuyu (1921)</title>
+                <description>Free Score
+https://musescore.com/user/3636436/sco…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:1487760/sounds.rss</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/thedjbeatboy/episodes/2023-02-16T16_53_51-08_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://thedjbeatboy.podomatic.com/enclosure/2023-02-16T16_53_51-08_00.mp3?_=1676595240.16481637"/>
-                <guid>https://www.podomatic.com/podcasts/thedjbeatboy/episodes/2023-02-16T16_53_51-08_00</guid>
+                <link>https://soundcloud.com/cmdigital/frank-h-grey-kikuyu-1921</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1442339950-cmdigital-frank-h-grey-kikuyu-1921.mp3"/>
+                <guid>https://soundcloud.com/cmdigital/frank-h-grey-kikuyu-1921</guid>
                 
             </item>
         </channel>
