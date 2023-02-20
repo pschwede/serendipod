@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 19 Feb 2023 04:24:41 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 20 Feb 2023 04:25:33 +0200</lastBuildDate>
             <item>
-                <title>Así funciona el páncreas</title>
-                <description>Las tareas principales del páncreas es producir líquido digestivo y regular el nivel de azúcar en sangre.
-Feed: https://rss.dw.com/xml/podcast_en-forma</description>
+                <title>Noosfera 142. Esqueletos en el armario | Miguel Botella</title>
+                <description>Todos tenemos esqueletos en el armario, pero hay ocasiones donde nos referimos a esqueletos de forma literal. Nuestra historia también está escrita en los huesos de nuestros antepasados y la antropología forense nos permite interrogarlos para...
+Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
                 
                 
-                <link>https://www.dw.com/es/así-funciona-el-páncreas/av-64714401?maca=spa-podcast_en-forma-7577-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ef/ef20230215_ExplainerBauchspeicheldruese_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/así-funciona-el-páncreas/av-64714401?maca=spa-podcast_en-forma-7577-xml-mrss</guid>
+                <link>https://www.spreaker.com/user/12512368/noosfera-142</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/52756928/noosfera_142.mp3"/>
+                <guid>https://www.spreaker.com/user/12512368/noosfera-142</guid>
                 
             </item><item>
-                <title>Trópico Utópico - Chico Buarque, um brasileiro - 17/02/23</title>
-                <description>Chico Buarque, um brasileiro
-Feed: http://api.rtve.es/api/programas/2096/audios.rss</description>
+                <title>Música antigua - El Cantar de los Cantares - 14/02/23</title>
+                <description>El Cantar de los Cantares
+Feed: http://api.rtve.es/api/programas/23353/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/tropico-utopico/chico-buarque-um-brasileiro/6813923/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_STROPI/mp3/4/2/1676673943124.mp3"/>
-                <guid>https://www.rtve.es/play/audios/tropico-utopico/chico-buarque-um-brasileiro/6813923/</guid>
+                <link>https://www.rtve.es/play/audios/musica-antigua/cantar-cantares-14-02-23/6810901/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SMUANTI/mp3/1/0/1676416712301.mp3"/>
+                <guid>https://www.rtve.es/play/audios/musica-antigua/cantar-cantares-14-02-23/6810901/</guid>
                 
             </item>
         </channel>

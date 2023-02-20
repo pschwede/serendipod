@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 19 Feb 2023 04:24:49 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 20 Feb 2023 04:25:41 +0200</lastBuildDate>
             <item>
-                <title>Humans Of Space: James L. Green</title>
-                <description>Former chief scientist for NASA reveals what inspired him to pursue a career in spaceflight.
-Feed: https://feeds.megaphone.fm/GLT6265805627</description>
+                <title>Ep 157 - Warning.... may talk about paramotors and paraglider inspections</title>
+                <description>Welcome to ClearPropTV Paramotor Podcast
+Tonights show is all about #Paramotor #trikes
+Send a self addressed stamped envelope to:
+Run into the Sky 3820 Dave Ward Dr STE 1900 #111 Conway, AR 72034
+We will do a big give a way monthly for the people who...
+Feed: https://www.paratalk.org/feed.xml</description>
                 
                 
-                <link>https://www.skyatnightmagazine.com/podcasts</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/radio-astronomy/e/63ea03315c30a70010b3e557/media.mp3"/>
-                <guid>https://www.skyatnightmagazine.com/podcasts</guid>
+                <link>https://www.paratalk.org/e/ep-157-warning-may-talk-about-paramotors-and-paraglider-inspections/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/es8kz3/2_6_238ch8t.m4a"/>
+                <guid>https://www.paratalk.org/e/ep-157-warning-may-talk-about-paramotors-and-paraglider-inspections/</guid>
                 
             </item><item>
-                <title>A Barometer of Twitter</title>
-                <description>Grey is focusing on health, Myke has left Twitter, and they&#39;ve both used ChatGPT.
-Feed: https://www.relay.fm/cortex/feed/</description>
+                <title>Sneak Peek - Episode 106 -- &#34;Happily Ever After&#34;</title>
+                <description>This is the newest Monday episode of the MrBallen Podcast. You can listen to all episodes of the MrBallen Podcast, available exclusively on Amazon Music with your Prime membership. If you&#39;re not a Prime member, you can still listen to the MrBallen Podcast by subscribing to Amazon Music Unlimited in the Amazon Music app.
+See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.
+Feed: https://rss.art19.com/MrBallen-Podcast</description>
                 
                 
-                <link>http://relay.fm/cortex/137</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_137.mp3"/>
-                <guid>http://relay.fm/cortex/137</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/2.gum.fm/chtbl.com/track/9EE2G/rss.art19.com/episodes/9af78977-7af4-4f1e-8a94-dde600384080.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item>
         </channel>

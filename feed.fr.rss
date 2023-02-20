@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 19 Feb 2023 04:24:36 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 20 Feb 2023 04:25:28 +0200</lastBuildDate>
             <item>
-                <title>HS#20 La levure SafeBrew LA-01 pour la fabrication de bière sans alcool</title>
-                <description>La levure SafeBrew LA-01 pour la fabrication de bière sans alcool
-Si la bière sans alcool est de plus en plus en vogue, sa fabrication reste un véritable défi. Les plus de 30 ans se souviennent sans doute de la célèbre réplique &#34;Paul, une Tourtel !&#34;,...
-Feed: https://feed.ausha.co/2B60pSpE9VOy</description>
+                <title>#76 - Laurette Alario – Croquer la pomme</title>
+                <description>&lt;p&gt;« Il y a un charme profond sur cette île et une sérénité du lieu. Ce qui l’emporte c’est la nature et ce qu’elle dégage, un magnétisme, une force qui est très prégnante. »&lt;/p&gt;&lt;p&gt;&lt;b&gt;Laurette est née en Tunisie au début des années 50 où elle est restée jusqu’à ses 8 ans avant de s’installer avec ses parents et ses 2 frères à Hyères où elle a fait toute votre scolarité.&lt;/b&gt; &lt;/p&gt;&lt;p&gt;A 17 ans elle rencontre le futur père de son fils, levantin, qui lui fait découvrir l’île du Levant...
+Feed: https://feeds.buzzsprout.com/771368.rss</description>
                 
                 
-                <link>https://podcast.ausha.co/podcapsuleur/hs-20-la-levure-safebrew-la-01-pour-la-fabrication-de-biere-sans-alcool</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/Bq1DCPD6zG2B.mp3?t=1674815763"/>
-                <guid>https://podcast.ausha.co/podcapsuleur/hs-20-la-levure-safebrew-la-01-pour-la-fabrication-de-biere-sans-alcool</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/771368/11014706-76-laurette-alario-croquer-la-pomme.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Infrarouge : L&#39;hôpital aux urgences ?</title>
-                <description>Afflux de patients, manque de personnel : les services d’urgence sont sous pression dans la plupart des hôpitaux romands depuis plusieurs mois. ...
-Feed: https://www.rts.ch/emissions/infrarouge/podcasts/?f=rss/podcast</description>
+                <title>&#34;L&#39;épopée de Gilgamesh&#34; </title>
+                <description>&#34;L&#39;épopée de Gilgamesh&#34; 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11496.xml</description>
                 
                 
-                <link>https://www.rts.ch/video/emissions/infrarouge/13790770-infrarouge-lhopital-aux-urgences.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/13790770/ed741d2f-7a13-3986-9be9-4a3674d8c537.mp4"/>
-                <guid>https://www.rts.ch/video/emissions/infrarouge/13790770-infrarouge-lhopital-aux-urgences.html</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/samedi-fiction/l-epopee-de-gilgamesh-de-gilgamesh-8589685</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/e10e4a03-c98a-415e-b1ef-5d00bd52d268/11496-18.02.2023-ITEMA_23292179-2023C3067S0049-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/samedi-fiction/l-epopee-de-gilgamesh-de-gilgamesh-8589685</guid>
                 
             </item>
         </channel>
