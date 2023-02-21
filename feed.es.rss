@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 20 Feb 2023 04:25:33 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 21 Feb 2023 04:25:38 +0200</lastBuildDate>
             <item>
-                <title>Noosfera 142. Esqueletos en el armario | Miguel Botella</title>
-                <description>Todos tenemos esqueletos en el armario, pero hay ocasiones donde nos referimos a esqueletos de forma literal. Nuestra historia también está escrita en los huesos de nuestros antepasados y la antropología forense nos permite interrogarlos para...
-Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
+                <title>PYM 39. Dame un punto, Malcolm | Especial Sam va lentín</title>
+                <description>¿Otro especial? Sí, otro especial. Esta vez es un especial con mucho amor. Estas son nuestras amorosas secciones: Las anteriormente conocidas como Noona Sisters vuelven a tener sección conjunta...
+Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
                 
                 
-                <link>https://www.spreaker.com/user/12512368/noosfera-142</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/52756928/noosfera_142.mp3"/>
-                <guid>https://www.spreaker.com/user/12512368/noosfera-142</guid>
+                <link>https://www.ivoox.com/pym-39-dame-punto-malcolm-especial-audios-mp3_rf_102954160_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-39-dame-punto-malcolm-especial_mf_102954160_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/pym-39-dame-punto-malcolm-especial-audios-mp3_rf_102954160_1.html</guid>
                 
             </item><item>
-                <title>Música antigua - El Cantar de los Cantares - 14/02/23</title>
-                <description>El Cantar de los Cantares
-Feed: http://api.rtve.es/api/programas/23353/audios.rss</description>
+                <title>2023-02-18 Flafri</title>
+                <description>
+Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/musica-antigua/cantar-cantares-14-02-23/6810901/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SMUANTI/mp3/1/0/1676416712301.mp3"/>
-                <guid>https://www.rtve.es/play/audios/musica-antigua/cantar-cantares-14-02-23/6810901/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-02-18Flafri.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
