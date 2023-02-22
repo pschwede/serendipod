@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 21 Feb 2023 04:25:27 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 Feb 2023 04:25:50 +0200</lastBuildDate>
             <item>
-                <title>NarrenTalk Podcast No. 224</title>
-                <description>Andreas, Stefan und Wolfgang begrüßen euch zum NarrenTalk No. 224. Trailer Wir sprechen über die Trailer zu Big George Foreman, Swallowed, In Dreams, Divinity, Baby Ruby und Ride On. Last Seen Wolfgang reicht seine Meinung zu Blacklight nach und sah Im...
-Feed: https://podcast.dvdnarr.com/category/podcast/feed/</description>
+                <title>Folge 210 - Seelenstriptease</title>
+                <description>Die Sprechstunde - mit Moser &amp; Schelker
+Feed: https://moserundschelker.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://podcast.dvdnarr.com/2023/02/19/narrentalk-podcast-no-224/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.dvdnarr.com/wp-content/uploads/podcast/NarrenTalk_224.mp3"/>
-                <guid>https://podcast.dvdnarr.com/2023/02/19/narrentalk-podcast-no-224/</guid>
+                <link>https://moserundschelker.podigee.io/210-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1022936-m-f830257797cc94082b67cef7569ad3c5.mp3?source=feed"/>
+                <guid>https://moserundschelker.podigee.io/210-new-episode</guid>
                 
             </item><item>
-                <title>Bernhard Russi: «Ich lebe nicht gerne in der Vergangenheit»</title>
-                <description>«Wenn es frischen Pulverschnee hat, sage ich alle Termine ab». Bernhard Russi fährt auch mit 74 Jahren wann immer möglich Ski und kann einem Tiefschneehang nur schwer widerstehen. In «Focus» erzählt der Andermatter, warum er nichts bereut und weshalb  ...
-Feed: https://www.srf.ch/feed/podcast/sd/66d56e22-51cf-47a6-badd-7776ec4f6501.xml</description>
+                <title>Ausgabe 699: Von Karneval bis Böhmermann (17.02.2023)</title>
+                <description>In dieser Woche beginnt der Quotenmeter-Podcast in Köln und endet auch wieder in der Karnevalshochburg.
+Feed: https://quotenmeter.podigee.io/feed/mp3</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.srf.ch/world/audio/Focus_20-02-2023-2003.1676619034204.mp3?assetId=f5f14f8b-431b-4e99-a34f-d08cc65ee566"/>
-                <guid></guid>
+                <link>https://quotenmeter.podigee.io/702-ausgabe-699-von-karneval-bis-bohmermann-17022023</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1022739-m-a2b7a668cf05104252cfc103478f99c1.mp3?source=feed"/>
+                <guid>https://quotenmeter.podigee.io/702-ausgabe-699-von-karneval-bis-bohmermann-17022023</guid>
                 
             </item>
         </channel>

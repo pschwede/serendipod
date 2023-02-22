@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 21 Feb 2023 04:25:53 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 Feb 2023 04:26:22 +0200</lastBuildDate>
             <item>
-                <title>We&#39;re full of joie de vivre! - with Rev. Richard Coles and Charles Spencer</title>
-                <description>Rev Richard Coles and Charles Spencer speak about history podcast
-Feed: https://feeds.acast.com/public/shows/633c203337c97b00125ed1f3</description>
+                <title>Occupation</title>
+                <description>Don Svoboda - US Military Police Corps
+Feed: https://rss.art19.com/love-and-radio</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/633c203337c97b00125ed1f3/e/63f3b6b1aa5a9a001134f484/media.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://2.gum.fm/rss.art19.com/episodes/df11ee5d-eadb-4026-aa9e-50e14c7a0a2e.mp3?rss_browser=BAhJIhhGZWVkRmV0Y2hlci1Hb29nbGU7BjoGRVQ%3D--a0bf56e7be34477268fcd5b4c33ca7691e164935"/>
                 <guid></guid>
                 
             </item><item>
-                <title>The Music Series: Anna Goldsmith</title>
-                <description>&lt;p&gt;On this episode I chat with singer, songwriter and actress Anna Goldsmith about the latest single MIRACLE. We also talk acting, music and playlists.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Follow the show&lt;/p&gt;&lt;p&gt;www.instagram.com/thesundaynightarmy&lt;/p&gt;&lt;p&gt;www.twitter.com/sundaynightarmy&lt;/p&gt;&lt;p&gt;www.facebook.com/thesundaynightarmy&lt;/p&gt;&lt;p&gt;linktr...
-Feed: https://anchor.fm/s/1178ed88/podcast/rss</description>
+                <title>Mel B</title>
+                <description>Labor journalist Mel Buer joins Breht to discuss the recent train derailment in Ohio and the subsequent ecological disaster that ensued, the recent labor union struggles waged by rail workers, the warnings regarding safety that those workers advanced,...
+Feed: https://feeds.libsyn.com/95194/rss</description>
                 
                 
-                <link>https://anchor.fm/thesundaynightarmy/episodes/The-Music-Series-Anna-Goldsmith-e1v2lsf</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1178ed88/podcast/play/65148239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-16%2F35ae611f-1d05-d2df-a0db-a0ba7097f223.mp3"/>
-                <guid>https://anchor.fm/thesundaynightarmy/episodes/The-Music-Series-Anna-Goldsmith-e1v2lsf</guid>
+                <link>https://revolutionaryleftradio.libsyn.com/mel-b</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/revolutionaryleftradio/Train.mp3?dest-id=485908"/>
+                <guid>https://revolutionaryleftradio.libsyn.com/mel-b</guid>
                 
             </item>
         </channel>

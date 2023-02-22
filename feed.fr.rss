@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 21 Feb 2023 04:25:32 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 Feb 2023 04:25:56 +0200</lastBuildDate>
             <item>
-                <title>Électro✩boumboum (Kaorin #193)</title>
-                <description>Lettre d&#39;amour à l&#39;électro otaku des années 2000...
-Feed: https://kaorin.fr/podcast_kaorin.xml</description>
+                <title>BAGNOLARDS • Épisode 52 avec Mofak</title>
+                <description>&lt;p&gt;Dans le clip de son single “Time to Go”, on le voit cruiser à Marseille au volant de sa Cadillac Coupe DeVille de 1982. Compositeur de modern funk et de hip-hop, Mofak est l’invité de cet épisode de Bagnolards. Habitué à “hit the switches”, ce passionné de lowrider explique pourquoi il considère sa voiture comme “un jouet pour adultes”. Mofak liste aussi les points communs qui existent entre la car culture de Los Angeles et celle de la cité phocéenne...
+Feed: https://feeds.acast.com/public/shows/5ef29235f24d2960f46fb962</description>
                 
                 
-                <link>https://kaorin.fr/podcast/kaorin-193/</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/kaorin.fr/dl/Kaorin193.mp3"/>
-                <guid>https://kaorin.fr/podcast/kaorin-193/</guid>
+                <link>https://shows.acast.com/bagnolards/episodes/bagnolards-mofak</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5ef29235f24d2960f46fb962/e/63f298c6d9d2740012f4ccf8/media.mp3"/>
+                <guid>https://shows.acast.com/bagnolards/episodes/bagnolards-mofak</guid>
                 
             </item><item>
-                <title>#118 - Actus marketing - semaine du 20/02</title>
-                <description>&lt;p&gt;Que se passe-t-il dans le monde du marketing cette semaine ? Retrouvez aujourd’hui 3 actualités enregistrées par les élèves de la formation Techniques de Commercialisation du projet Mark&amp;amp;Ting !&lt;/p&gt;&lt;p&gt;Bonne écoute et bonne semaine à tous !&lt;/p&gt;&lt;p&gt;______________________&lt;/p&gt;&lt;p&gt;ABONNEZ-VOUS + laissez un avis et 5 étoiles sur Apple Podcasts ou Spotify&amp;nbsp;&lt;/p&gt;&lt;p&gt;Instagram : @mark.et.ting&lt;/p&gt;&lt;p&gt;Linkedin : @mark-et-ting-fr&lt;/p&gt;&lt;p&gt;https://mark-et-ting...
-Feed: https://feeds.acast.com/public/shows/mark-et-ting</description>
+                <title>Votre jardin</title>
+                <description>Votre jardin
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/620e78e488e4890016aed370/e/63ed0b4e1f0a340011901ea4/media.mp3"/>
-                <guid></guid>
+                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/8f12a0fb-8bec-45b8-863f-3690829ae658/15376-18.02.2023-ITEMA_23292293-2023B20690S0049-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
                 
             </item>
         </channel>

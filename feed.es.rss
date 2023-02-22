@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 21 Feb 2023 04:25:38 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 Feb 2023 04:26:03 +0200</lastBuildDate>
             <item>
-                <title>PYM 39. Dame un punto, Malcolm | Especial Sam va lentín</title>
-                <description>¿Otro especial? Sí, otro especial. Esta vez es un especial con mucho amor. Estas son nuestras amorosas secciones: Las anteriormente conocidas como Noona Sisters vuelven a tener sección conjunta...
-Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
+                <title>¿Necesitamos un software de resumen de libros?</title>
+                <description>El software de resumen de libros nació como respuesta a la demanda y ya afectó al modo de lectura original.
+En el mundo acelerado de hoy, con las crecientes exigencias de nuestro tiempo, puede ser difícil encontrar las horas necesarias para sentarnos y realmente sumergirnos en un buen libro. A pesar del hecho de que todos entendemos la importancia de la lectura, la realidad es que muchos de nosotros simplemente no tenemos el tiempo para leer un libro completo de principio a fin...
+Feed: https://kxcddo.podcaster.de/bookey-es.rss</description>
                 
                 
-                <link>https://www.ivoox.com/pym-39-dame-punto-malcolm-especial-audios-mp3_rf_102954160_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-39-dame-punto-malcolm-especial_mf_102954160_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/pym-39-dame-punto-malcolm-especial-audios-mp3_rf_102954160_1.html</guid>
+                <link>https://kxcddo.podcaster.de/bookey-es/necesitamos-un-software-de-resumen-de-libros/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://kxcddo.podcaster.de/bookey-es/media/_2023220164536.mp3"/>
+                <guid>https://kxcddo.podcaster.de/bookey-es/necesitamos-un-software-de-resumen-de-libros/</guid>
                 
             </item><item>
-                <title>2023-02-18 Flafri</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>Brave vs Firefox</title>
+                <description>Brave vs Firefox
+Feed: https://feeds.feedburner.com/uGeek</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-02-18Flafri.mp3"/>
-                <guid></guid>
+                <link>https://ugeek.github.io/post/2023-02-21-brave-vs-firefox.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/106db04/podcast/play/65386652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-1-21%2F313939157-44100-1-79a9ee7aef8d6.mp3"/>
+                <guid>https://ugeek.github.io/post/2023-02-21-brave-vs-firefox.html</guid>
                 
             </item>
         </channel>
