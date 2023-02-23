@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 Feb 2023 04:26:16 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 23 Feb 2023 04:26:08 +0200</lastBuildDate>
             <item>
-                <title>Markedspuls - &#34;Kenguru-marked&#34; og vinterferie</title>
-                <description>I ukens episode snakker Roger og Mads om prisingen på de ulike børsene og om dette er tall man kan stole på. Videre snakker de om oljemarkedet og hvorfor det er så store svingninger i dette markedet fra år til år og minutt til minutt.
-Feed: https://feeds.acast.com/public/shows/61653f7433ffb500132c0775</description>
+                <title>The Coldest Case In Laramie - Trailer</title>
+                <description>Kim Barker, a Pulitzer Prize-winning investigative reporter for The New York Times, revisits an unsolved murder that took place while she was in high school in Laramie, Wyoming, nearly 40 years ago. She confronts the conflicting stories people have told themselves about the crime because of an unexpected development: the arrest of a former Laramie police officer accused in the murder...
+Feed: https://feeds.simplecast.com/xl36XBC2</description>
                 
                 
-                <link>https://www.nordnet.no/no/marked/aksjer/markedspuls</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/61653f7433ffb500132c0775/e/63f37c87edc2dc001113ea65/media.mp3"/>
-                <guid>https://www.nordnet.no/no/marked/aksjer/markedspuls</guid>
+                <link>https://serialpodcast.org</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/521189a6-a4f6-404d-85cf-455a989a10a4/episodes/71199b2c-bb12-4c89-a6bc-0a4a3f90fb0d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=521189a6-a4f6-404d-85cf-455a989a10a4&amp;awEpisodeId=71199b2c-bb12-4c89-a6bc-0a"/>
+                <guid>https://serialpodcast.org</guid>
                 
             </item><item>
-                <title>RCR Episode 263: The year of the gopher</title>
-                <description>Panelists: Paul Hagstrom (hosting), Quinn Dunki, Earl Evans, Michael Mulhern, and Carrington Vanston Topic: The year of the gopher We begin 2023 with a shift to new hosting providers, that require encrypted communication.
-Feed: https://rcrpodcast.com/feed/podcast/</description>
+                <title>The Red Deal: Episode 28</title>
+                <description>We continue our reading of The Red Deal
+Feed: https://pinecast.com/feed/marxmadness</description>
                 
                 
-                <link>https://rcrpodcast.com/2023/02/19/rcr-episode-263-the-year-of-the-gopher/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/eb149a7a-044d-4f7f-b989-286a0b7cd29b/rcr263.mp3?dest-id=3799521"/>
-                <guid>https://rcrpodcast.com/2023/02/19/rcr-episode-263-the-year-of-the-gopher/</guid>
+                <link>https://marxmadness.pinecast.co/episode/17d0561a/the-red-deal-episode-28</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/pinecast.com/listen/17d0561a-c932-4f59-8d77-559def3ec24b.mp3?source=rss&amp;ext=asset.mp3"/>
+                <guid>https://marxmadness.pinecast.co/episode/17d0561a/the-red-deal-episode-28</guid>
                 
             </item>
         </channel>

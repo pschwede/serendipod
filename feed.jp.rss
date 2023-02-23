@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 Feb 2023 04:26:22 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 23 Feb 2023 04:26:13 +0200</lastBuildDate>
             <item>
-                <title>Occupation</title>
-                <description>Don Svoboda - US Military Police Corps
-Feed: https://rss.art19.com/love-and-radio</description>
+                <title>C vs Rust</title>
+                <description>This week, Billy Procida and Jeff Dwoskin join host Dave Holmes for some cartoon theme song trivia, Michelle Pfeiffer love, and ant-based punnery. 
+Feed: https://feeds.simplecast.com/WT6cShIt</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://2.gum.fm/rss.art19.com/episodes/df11ee5d-eadb-4026-aa9e-50e14c7a0a2e.mp3?rss_browser=BAhJIhhGZWVkRmV0Y2hlci1Hb29nbGU7BjoGRVQ%3D--a0bf56e7be34477268fcd5b4c33ca7691e164935"/>
-                <guid></guid>
+                <link>http://www.maximumfun.org</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/397ee268-e6b3-47d1-bb3d-ae9466c385e2/episodes/4d9eb3e3-1bf4-4a61-a3d6-29fa91d1cfc4/audio/a5b0f130-b1e5-4dc5-980b-5f9c97485c4b/default_tc.mp3?aid=rss_feed&amp;feed=WT6cShIt"/>
+                <guid>http://www.maximumfun.org</guid>
                 
             </item><item>
-                <title>Mel B</title>
-                <description>Labor journalist Mel Buer joins Breht to discuss the recent train derailment in Ohio and the subsequent ecological disaster that ensued, the recent labor union struggles waged by rail workers, the warnings regarding safety that those workers advanced,...
-Feed: https://feeds.libsyn.com/95194/rss</description>
+                <title>My Abusive Ex Keeps Texting Me – What Should I Do?</title>
+                <description>Do you get a pit in your stomach when your phone dings? Learn more about strategic communication as Anne interviews two fathers of victims.
+Feed: https://feeds.podcastmirror.com/btr</description>
                 
                 
-                <link>https://revolutionaryleftradio.libsyn.com/mel-b</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/revolutionaryleftradio/Train.mp3?dest-id=485908"/>
-                <guid>https://revolutionaryleftradio.libsyn.com/mel-b</guid>
+                <link>https://www.btr.org/abuser-keeps-texting-me/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/betrayal_trauma/ins.blubrry.com/betrayal_trauma/dads_help_part_2_mixdown.mp3"/>
+                <guid>https://www.btr.org/abuser-keeps-texting-me/</guid>
                 
             </item>
         </channel>

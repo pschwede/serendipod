@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 Feb 2023 04:25:50 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 23 Feb 2023 04:25:46 +0200</lastBuildDate>
             <item>
-                <title>Folge 210 - Seelenstriptease</title>
-                <description>Die Sprechstunde - mit Moser &amp; Schelker
-Feed: https://moserundschelker.podigee.io/feed/mp3</description>
+                <title>Corporate Metaverse mit Tobias Regenfuß</title>
+                <description>
+&lt;p&gt;Ist das Metaversum tatsächlich das Next Big Thing oder verschwindet es genauso schnell und sang und klanglos von der virtuellen Bühne wie damals Second Life? Und warum sollte sich ein Unternehmen heute ernsthaft damit beschäftigen? Einer der es wissen muss, ist unser heutiger Gesprächspartner Tobias Regenfuß, Leiter des Geschäftsbereichs Technology bei Accenture in der DACH-Region...
+Feed: https://idgtechtalk.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://moserundschelker.podigee.io/210-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1022936-m-f830257797cc94082b67cef7569ad3c5.mp3?source=feed"/>
-                <guid>https://moserundschelker.podigee.io/210-new-episode</guid>
+                <link>https://idgtechtalk.podigee.io/77-corporate-metaverse-mit-tobias-regenfuss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1019629-m-e0f023f7e624cac7af6d2837bebba51c.mp3?source=feed"/>
+                <guid>https://idgtechtalk.podigee.io/77-corporate-metaverse-mit-tobias-regenfuss</guid>
                 
             </item><item>
-                <title>Ausgabe 699: Von Karneval bis Böhmermann (17.02.2023)</title>
-                <description>In dieser Woche beginnt der Quotenmeter-Podcast in Köln und endet auch wieder in der Karnevalshochburg.
-Feed: https://quotenmeter.podigee.io/feed/mp3</description>
+                <title>[Stille 4] Wir sind Batís Caffó - Das Finale von Im Rausch der Stille</title>
+                <description>Alex und Stephan erliegen erneut dem Fluch eines Leuchtturms
+Feed: https://letscast.fm/podcasts/sprawl-radio-87ee735b/feed</description>
                 
                 
-                <link>https://quotenmeter.podigee.io/702-ausgabe-699-von-karneval-bis-bohmermann-17022023</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1022739-m-a2b7a668cf05104252cfc103478f99c1.mp3?source=feed"/>
-                <guid>https://quotenmeter.podigee.io/702-ausgabe-699-von-karneval-bis-bohmermann-17022023</guid>
+                <link>https://sprawlradio.letscast.fm/episode/stille-4-wir-sind-batis-caffo-das-finale-von-im-rausch-der-stille</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/5357fcd2/episode/c43e5eea.mp3?t=1675680710"/>
+                <guid>https://sprawlradio.letscast.fm/episode/stille-4-wir-sind-batis-caffo-das-finale-von-im-rausch-der-stille</guid>
                 
             </item>
         </channel>

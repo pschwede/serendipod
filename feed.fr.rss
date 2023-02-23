@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 Feb 2023 04:25:56 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 23 Feb 2023 04:25:52 +0200</lastBuildDate>
             <item>
-                <title>BAGNOLARDS • Épisode 52 avec Mofak</title>
-                <description>&lt;p&gt;Dans le clip de son single “Time to Go”, on le voit cruiser à Marseille au volant de sa Cadillac Coupe DeVille de 1982. Compositeur de modern funk et de hip-hop, Mofak est l’invité de cet épisode de Bagnolards. Habitué à “hit the switches”, ce passionné de lowrider explique pourquoi il considère sa voiture comme “un jouet pour adultes”. Mofak liste aussi les points communs qui existent entre la car culture de Los Angeles et celle de la cité phocéenne...
-Feed: https://feeds.acast.com/public/shows/5ef29235f24d2960f46fb962</description>
+                <title>Episode 57 - Cynthia Paquot et Maxime Frénot - Libra - Parc Tournay-Solvay - Watermael-Boitsfort (Bruxelles)</title>
+                <description>Bienvenue sur &#34;Trouvez votre voie / voix&#34;, le podcast de Vincent Danniau - VigitalD. Entrepreneur belge sur Bruxelles.
+Arrêtez de procrastiner : podcastinez à la place avec ce podcast, le casting des potes du podcast qui dépote !...
+Feed: https://www.vodio.fr/rssmedias.php?valeur=288</description>
                 
                 
-                <link>https://shows.acast.com/bagnolards/episodes/bagnolards-mofak</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5ef29235f24d2960f46fb962/e/63f298c6d9d2740012f4ccf8/media.mp3"/>
-                <guid>https://shows.acast.com/bagnolards/episodes/bagnolards-mofak</guid>
+                <link>https://www.vodio.fr/vodiotheque/i/10169/episode-57-cynthia-paquot-et-maxime-frenot-libra-parc-tournay-solvay-watermael-boitsfort-bruxelles/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/www.vodio.fr/emissions/_vincentdanniauvigitald47L5/cynthia-et-max-final.mp3"/>
+                <guid>https://www.vodio.fr/vodiotheque/i/10169/episode-57-cynthia-paquot-et-maxime-frenot-libra-parc-tournay-solvay-watermael-boitsfort-bruxelles/</guid>
                 
             </item><item>
-                <title>Votre jardin</title>
-                <description>Votre jardin
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
+                <title>Ya Rayah, l’exil en dansant</title>
+                <description>Pourquoi le tube de Rachid Taha raconte l&#39;histoire de France 
+Feed: https://www.arteradio.com/xml_flux?fluxname=%22Profils%22</description>
                 
                 
-                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/8f12a0fb-8bec-45b8-863f-3690829ae658/15376-18.02.2023-ITEMA_23292293-2023B20690S0049-21.mp3"/>
-                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
+                <link>https://www.arteradio.com/son/61674012/ya_rayah_l_exil_en_dansant</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arte.proxycast.org/m/media/226026218795.mp3?c=Flux&amp;p=1279&amp;l3=61674012&amp;l4=ya_rayah_l_exil_en_dansant-20230217&amp;media_url=https%3A%2F%2Fcdn.arteradio.com%2Fpermanent%2Farteradio%2Fsites%2Fdefault%2Ffiles%2Fsons%2Fya_rayah_lexil_en_dansant_hq_fr.mp3"/>
+                <guid>https://www.arteradio.com/son/61674012/ya_rayah_l_exil_en_dansant</guid>
                 
             </item>
         </channel>
