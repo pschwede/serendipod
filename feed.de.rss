@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 23 Feb 2023 04:25:46 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 24 Feb 2023 04:25:59 +0200</lastBuildDate>
             <item>
-                <title>Corporate Metaverse mit Tobias Regenfuß</title>
-                <description>
-&lt;p&gt;Ist das Metaversum tatsächlich das Next Big Thing oder verschwindet es genauso schnell und sang und klanglos von der virtuellen Bühne wie damals Second Life? Und warum sollte sich ein Unternehmen heute ernsthaft damit beschäftigen? Einer der es wissen muss, ist unser heutiger Gesprächspartner Tobias Regenfuß, Leiter des Geschäftsbereichs Technology bei Accenture in der DACH-Region...
-Feed: https://idgtechtalk.podigee.io/feed/mp3</description>
+                <title>ZFA-TALK: Praxischeck E-Rezept – zwei Hausärzte berichten</title>
+                <description>mit Moritz Eckert  und Dr. med. Nicolas Kahl
+Feed: https://springermedizinpodcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://idgtechtalk.podigee.io/77-corporate-metaverse-mit-tobias-regenfuss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1019629-m-e0f023f7e624cac7af6d2837bebba51c.mp3?source=feed"/>
-                <guid>https://idgtechtalk.podigee.io/77-corporate-metaverse-mit-tobias-regenfuss</guid>
+                <link>https://springermedizinpodcast.podigee.io/90-zfa_talk_e_rezept</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/998951-m-098e9cbe6a13af2dd4607a983745fee3.mp3?source=feed"/>
+                <guid>https://springermedizinpodcast.podigee.io/90-zfa_talk_e_rezept</guid>
                 
             </item><item>
-                <title>[Stille 4] Wir sind Batís Caffó - Das Finale von Im Rausch der Stille</title>
-                <description>Alex und Stephan erliegen erneut dem Fluch eines Leuchtturms
-Feed: https://letscast.fm/podcasts/sprawl-radio-87ee735b/feed</description>
+                <title>Getting Ready - Folge 158 - Abmahnung wegen Musiknutzung auf Instagram!</title>
+                <description>Getting Ready - Fotografie Podcast für Hochzeitsfotografen
+Feed: https://gettingready.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://sprawlradio.letscast.fm/episode/stille-4-wir-sind-batis-caffo-das-finale-von-im-rausch-der-stille</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/5357fcd2/episode/c43e5eea.mp3?t=1675680710"/>
-                <guid>https://sprawlradio.letscast.fm/episode/stille-4-wir-sind-batis-caffo-das-finale-von-im-rausch-der-stille</guid>
+                <link>https://gettingready-podcast.de/folge-158</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1026432-m-f4ab94b5bd76cb54941e20c2cb045a57.mp3?source=feed"/>
+                <guid>https://gettingready-podcast.de/folge-158</guid>
                 
             </item>
         </channel>

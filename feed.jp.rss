@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 23 Feb 2023 04:26:13 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 24 Feb 2023 04:26:25 +0200</lastBuildDate>
             <item>
-                <title>C vs Rust</title>
-                <description>This week, Billy Procida and Jeff Dwoskin join host Dave Holmes for some cartoon theme song trivia, Michelle Pfeiffer love, and ant-based punnery. 
-Feed: https://feeds.simplecast.com/WT6cShIt</description>
+                <title>Early Medieval Papacy</title>
+                <description>Join Greg and his guests in 9th-century Rome to learn about the early medieval papacy.
+Feed: https://podcasts.files.bbci.co.uk/p07mdbhg.rss</description>
                 
                 
-                <link>http://www.maximumfun.org</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/397ee268-e6b3-47d1-bb3d-ae9466c385e2/episodes/4d9eb3e3-1bf4-4a61-a3d6-29fa91d1cfc4/audio/a5b0f130-b1e5-4dc5-980b-5f9c97485c4b/default_tc.mp3?aid=rss_feed&amp;feed=WT6cShIt"/>
-                <guid>http://www.maximumfun.org</guid>
+                <link>http://www.bbc.co.uk/programmes/p0f3kqpl</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0f3n1gt.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0f3kqpl</guid>
                 
             </item><item>
-                <title>My Abusive Ex Keeps Texting Me – What Should I Do?</title>
-                <description>Do you get a pit in your stomach when your phone dings? Learn more about strategic communication as Anne interviews two fathers of victims.
-Feed: https://feeds.podcastmirror.com/btr</description>
+                <title>Gun pool (preview)</title>
+                <description>Today we catch up with Ben Stein who just found out about Aunt Jemima, and Jordan Peterson drives himself insane with the idea of non-binary people Also: James O&#39;Keefe is fired from Project Veritas for annoying sponsors and harassing employees, but...
+Feed: https://miniondeathcult.libsyn.com/rss</description>
                 
                 
-                <link>https://www.btr.org/abuser-keeps-texting-me/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/betrayal_trauma/ins.blubrry.com/betrayal_trauma/dads_help_part_2_mixdown.mp3"/>
-                <guid>https://www.btr.org/abuser-keeps-texting-me/</guid>
+                <link>https://miniondeathcult.libsyn.com/gun-pool-preview</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/miniondeathcult/Gun_Pool_preview.mp3?dest-id=604408"/>
+                <guid>https://miniondeathcult.libsyn.com/gun-pool-preview</guid>
                 
             </item>
         </channel>
