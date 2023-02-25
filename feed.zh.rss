@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Feb 2023 04:26:20 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 25 Feb 2023 04:25:26 +0200</lastBuildDate>
             <item>
-                <title>Update 2023 English</title>
-                <description>Science and Engineering in your Headphones
-Feed: https://omegataupodcast.net/show/en/feed/mp3/</description>
+                <title>095 - The Ministry for the Future</title>
+                <description>In which we read &#34;The Ministry for the Future&#34;, a novel by Kim Stanley Robinson.
+If you like the show, consider supporting us on Patreon.
+Links:
+The Ministry for the Future, on Wikipedia
+General Intellect Unit on iTunes
+http://generalintellectunit.ne...
+Feed: https://feed.podbean.com/generalintellectunit.net/feed.xml</description>
                 
                 
-                <link>https://omegataupodcast.net/update-2023/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://omegataupodcast.net/podlove/file/405/s/feed/c/mp3/update-2023.mp3"/>
-                <guid>https://omegataupodcast.net/update-2023/</guid>
+                <link>http://generalintellectunit.net/e/095-the-ministry-for-the-future/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/mtyphy/GIU_095_The-Ministry-for-the-Future.mp3"/>
+                <guid>http://generalintellectunit.net/e/095-the-ministry-for-the-future/</guid>
                 
             </item><item>
-                <title>TMS Ep374: Bike taxi ban, METRO Cash &amp; Carry, markets, EPFO&#39;s new scheme</title>
-                <description> Bike-taxis have hit yet another roadblock. This time in Delhi. The Delhi Transport Department on Monday became the latest state government body to put a stop to bike taxi services. But why are state governments disallowing these two-wheeler cab services?    German retailer METRO AG’s cash &amp; carry business is set to hit the fast lane in India. The company had introduced the cash-and-carry business format in the country back in 2013...
-Feed: https://www.business-standard.com/rss/podcast-channels/the-bs-morning-show.rss</description>
+                <title>124: Do Kangaroos Go To Heaven?</title>
+                <description>Tim and Brady discuss podcast listening noises, an unexpected photo, some civilian emails, road trips, a talented baboon, and lame superpowers.
+Feed: https://www.unmade.fm/episodes?format=rss</description>
                 
                 
-                <link>https://bsmedia.business-standard.com/_media/bs/ado/audio-gallery/current-affairs/listen-to-this-podca123022200053/full/l-16770144225267.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://bsmedia.business-standard.com/_media/bs/ado/audio-gallery/current-affairs/listen-to-this-podca123022200053/full/l-16770144225267.mp3"/>
-                <guid>https://bsmedia.business-standard.com/_media/bs/ado/audio-gallery/current-affairs/listen-to-this-podca123022200053/full/l-16770144225267.mp3</guid>
+                <link>https://www.unmade.fm/episodes/episode124</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/unmade/unmade_episode124.mp3"/>
+                <guid>https://www.unmade.fm/episodes/episode124</guid>
                 
             </item>
         </channel>

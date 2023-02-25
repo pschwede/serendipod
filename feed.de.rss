@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Feb 2023 04:25:59 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 25 Feb 2023 04:25:05 +0200</lastBuildDate>
             <item>
-                <title>ZFA-TALK: Praxischeck E-Rezept – zwei Hausärzte berichten</title>
-                <description>mit Moritz Eckert  und Dr. med. Nicolas Kahl
-Feed: https://springermedizinpodcast.podigee.io/feed/mp3</description>
+                <title>Extra 3 vom 23.02.2023 im Ersten</title>
+                <description>Ein Jahr Ukraine-Krieg: Im Osten nichts Neues | Soziales Netzwerk TikTok: Grüße nach China! | Erdbebenkatastrophe in der Türkei: Welche Schuld trägt Erdogan? - Christian Ehring zeigt den Irrsinn der Woche.
+Feed: http://www.ndr.de/podcast/extradrei196.xml</description>
                 
                 
-                <link>https://springermedizinpodcast.podigee.io/90-zfa_talk_e_rezept</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/998951-m-098e9cbe6a13af2dd4607a983745fee3.mp3?source=feed"/>
-                <guid>https://springermedizinpodcast.podigee.io/90-zfa_talk_e_rezept</guid>
+                <link>https://www.ndr.de/fernsehen/sendungen/extra_3/Extra-3-vom-23022023-im-Ersten,extra21360.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/extradrei196/TV-20230223-2101-3100.ln.mp4"/>
+                <guid>https://www.ndr.de/fernsehen/sendungen/extra_3/Extra-3-vom-23022023-im-Ersten,extra21360.html</guid>
                 
             </item><item>
-                <title>Getting Ready - Folge 158 - Abmahnung wegen Musiknutzung auf Instagram!</title>
-                <description>Getting Ready - Fotografie Podcast für Hochzeitsfotografen
-Feed: https://gettingready.podigee.io/feed/mp3</description>
+                <title>Von der Straße</title>
+                <description>&lt;p&gt;Der heutigen Podcast ist anders. Nach 12 Stunden Autofahrt meldet sich Joel übermüdet und mit 5G-Verbindung direkt aus dem Hotel. Zusammen mit Co-Host Niels sprechen sie über persönliche Themen aus den letzten Wochen - viel Spass!&lt;/p&gt;&lt;p&gt;Wenn du Feedback hast, kannst du es gern zu dieser Folge bei uns in die Community posten, hier ist der Link: (https://jocrhilft.de/t/von-der-strasse/5858)&lt;br&gt;&lt;br&gt;
+Die JOCR iOS App → http://apple.co/3d4EpUo&lt;br&gt;
+JOCR News → http://bit...
+Feed: https://anchor.fm/s/334f7f8/podcast/rss</description>
                 
                 
-                <link>https://gettingready-podcast.de/folge-158</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1026432-m-f4ab94b5bd76cb54941e20c2cb045a57.mp3?source=feed"/>
-                <guid>https://gettingready-podcast.de/folge-158</guid>
+                <link>https://anchor.fm/jocr4/episodes/Von-der-Strae-e1v62rh</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/334f7f8/podcast/play/65259825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-1-19%2F313589337-44100-2-6ee45d3ef9878.mp3"/>
+                <guid>https://anchor.fm/jocr4/episodes/Von-der-Strae-e1v62rh</guid>
                 
             </item>
         </channel>

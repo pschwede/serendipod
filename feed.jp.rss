@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Feb 2023 04:26:25 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 25 Feb 2023 04:25:31 +0200</lastBuildDate>
             <item>
-                <title>Early Medieval Papacy</title>
-                <description>Join Greg and his guests in 9th-century Rome to learn about the early medieval papacy.
-Feed: https://podcasts.files.bbci.co.uk/p07mdbhg.rss</description>
+                <title>The Linux Link Tech Show Episode 993</title>
+                <description>joel print this.
+Feed: https://feeds.feedburner.com/TheLinuxLinkTechShowMp3Feed</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0f3kqpl</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0f3n1gt.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0f3kqpl</guid>
+                <link>http://www.tllts.org</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.tlltsarchive.org/archives/tllts_993-02-22-23.mp3"/>
+                <guid>http://www.tllts.org</guid>
                 
             </item><item>
-                <title>Gun pool (preview)</title>
-                <description>Today we catch up with Ben Stein who just found out about Aunt Jemima, and Jordan Peterson drives himself insane with the idea of non-binary people Also: James O&#39;Keefe is fired from Project Veritas for annoying sponsors and harassing employees, but...
-Feed: https://miniondeathcult.libsyn.com/rss</description>
+                <title>270 - E1&#39;s Mandatory HR Meeting</title>
+                <description>Newly hired HR representative Rayleigh Silvers (@…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:320774653/sounds.rss</description>
                 
                 
-                <link>https://miniondeathcult.libsyn.com/gun-pool-preview</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/miniondeathcult/Gun_Pool_preview.mp3?dest-id=604408"/>
-                <guid>https://miniondeathcult.libsyn.com/gun-pool-preview</guid>
+                <link>https://soundcloud.com/episode-one-868768631/270-e1s-mandatory-hr-meeting</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1454150263-episode-one-868768631-270-e1s-mandatory-hr-meeting.mp3"/>
+                <guid>https://soundcloud.com/episode-one-868768631/270-e1s-mandatory-hr-meeting</guid>
                 
             </item>
         </channel>
