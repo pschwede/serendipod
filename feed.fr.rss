@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 25 Feb 2023 04:25:10 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 26 Feb 2023 04:25:04 +0200</lastBuildDate>
             <item>
-                <title>Taïro @ Bam Salute Show</title>
-                <description>bamsalute
-Feed: https://www.radiocampusparis.org/emission-category/bamsalute/feed</description>
+                <title>202 - Requiem pour un Kang</title>
+                <description>Star Wars: The High Republic / Blade Runner 2019 / Kroma / Silver Surfer Parabole - Silver Surfer Requiem / Ant-Man and the Wasp: Quantumania
+Feed: https://soute.vaisseauhypersensas.fr/flux/comicsoutcast.xml</description>
                 
                 
-                <link>https://www.radiocampusparis.org/emission-category/bamsalute</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.radiocampusparis.org/podcasts/bamsalute/2023-02-14%20Tairo%20.mp3"/>
-                <guid>https://www.radiocampusparis.org/emission-category/bamsalute</guid>
+                <link>http://vaisseauhypersensas.fr/comicsoutcast/9/202/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/soute.vaisseauhypersensas.fr/comicsoutcast/CO202.mp3"/>
+                <guid>http://vaisseauhypersensas.fr/comicsoutcast/9/202/</guid>
                 
             </item><item>
-                <title>Terrestres !</title>
-                <description>Terrestres !
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16260.xml</description>
+                <title>Bol de gruau : 01/04/2023 20:00</title>
+                <description>1044-279772
+Feed: http://podcast.cism893.ca/radioshows/1044/feed_itunes.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/la-suite-dans-les-idees/terrestres-6323228</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/e40caa26-b3ee-4122-9b8f-1fc6e0948d4b/16260-18.02.2023-ITEMA_23292178-2023C6260S0049-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/la-suite-dans-les-idees/terrestres-6323228</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/279772.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/279772.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/279772.mp3</guid>
                 
             </item>
         </channel>

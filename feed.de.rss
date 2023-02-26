@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 25 Feb 2023 04:25:05 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 26 Feb 2023 04:24:57 +0200</lastBuildDate>
             <item>
-                <title>Extra 3 vom 23.02.2023 im Ersten</title>
-                <description>Ein Jahr Ukraine-Krieg: Im Osten nichts Neues | Soziales Netzwerk TikTok: Grüße nach China! | Erdbebenkatastrophe in der Türkei: Welche Schuld trägt Erdogan? - Christian Ehring zeigt den Irrsinn der Woche.
-Feed: http://www.ndr.de/podcast/extradrei196.xml</description>
+                <title>Gendern - Ja oder nein? Anna Engers zu Gast</title>
+                <description>Was das Gendern anbelangt, bin ich persönlich zwiegespalten. Aus diesem Grund ist lud ich Anna Engers ein, denn mit ihren Vorträgen und Trainings sensibilisiert sie ihr Publikum nicht nur für das Thema Diversität, sondern bewirkt auch echtes Umdenken. Ihr Buch, „Komplexität von Diversity meistern“ ist in diesem Jahr in zweiter Auflage erschienen. Ihr Ziel ist es, einen anderen Blick auf das Thema Vielfalt zu bekommen und mit Leichtigkeit, Lust und Laune Diversität noch einmal neu zu denken...
+Feed: https://birgitschuermann.podcaster.de/Rhetorik.rss</description>
                 
                 
-                <link>https://www.ndr.de/fernsehen/sendungen/extra_3/Extra-3-vom-23022023-im-Ersten,extra21360.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/extradrei196/TV-20230223-2101-3100.ln.mp4"/>
-                <guid>https://www.ndr.de/fernsehen/sendungen/extra_3/Extra-3-vom-23022023-im-Ersten,extra21360.html</guid>
+                <link>https://www.birgit-schuermann.com/podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://birgitschuermann.podcaster.de/Rhetorik/media/Podcast_114_Interview_mit_Anna_Engers_Gendern_-_17-02-23_15-27.mp3"/>
+                <guid>https://www.birgit-schuermann.com/podcast</guid>
                 
             </item><item>
-                <title>Von der Straße</title>
-                <description>&lt;p&gt;Der heutigen Podcast ist anders. Nach 12 Stunden Autofahrt meldet sich Joel übermüdet und mit 5G-Verbindung direkt aus dem Hotel. Zusammen mit Co-Host Niels sprechen sie über persönliche Themen aus den letzten Wochen - viel Spass!&lt;/p&gt;&lt;p&gt;Wenn du Feedback hast, kannst du es gern zu dieser Folge bei uns in die Community posten, hier ist der Link: (https://jocrhilft.de/t/von-der-strasse/5858)&lt;br&gt;&lt;br&gt;
-Die JOCR iOS App → http://apple.co/3d4EpUo&lt;br&gt;
-JOCR News → http://bit...
-Feed: https://anchor.fm/s/334f7f8/podcast/rss</description>
+                <title>Chaosradio Freiburg 0x77</title>
+                <description>&lt;p&gt; &lt;/p&gt;&lt;p&gt;Chaosradio live ins RDL gehackt. In Zukunft jeden 2. und 4. und 5. Montag ab 19h von und mit dem CCCFr - Chaos Computer Club Freiburg.&lt;/p&gt;
+Feed: https://rdl.de/podcast/all/35236</description>
                 
                 
-                <link>https://anchor.fm/jocr4/episodes/Von-der-Strae-e1v62rh</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/334f7f8/podcast/play/65259825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-1-19%2F313589337-44100-2-6ee45d3ef9878.mp3"/>
-                <guid>https://anchor.fm/jocr4/episodes/Von-der-Strae-e1v62rh</guid>
+                <link>https://rdl.de/beitrag/chaosradio-freiburg-0x77</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2023/02/20230213-chaosradiofr-w29976.mp3"/>
+                <guid>https://rdl.de/beitrag/chaosradio-freiburg-0x77</guid>
                 
             </item>
         </channel>
