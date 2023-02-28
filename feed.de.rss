@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 26 Feb 2023 04:24:57 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 Feb 2023 04:25:39 +0200</lastBuildDate>
             <item>
-                <title>Gendern - Ja oder nein? Anna Engers zu Gast</title>
-                <description>Was das Gendern anbelangt, bin ich persönlich zwiegespalten. Aus diesem Grund ist lud ich Anna Engers ein, denn mit ihren Vorträgen und Trainings sensibilisiert sie ihr Publikum nicht nur für das Thema Diversität, sondern bewirkt auch echtes Umdenken. Ihr Buch, „Komplexität von Diversity meistern“ ist in diesem Jahr in zweiter Auflage erschienen. Ihr Ziel ist es, einen anderen Blick auf das Thema Vielfalt zu bekommen und mit Leichtigkeit, Lust und Laune Diversität noch einmal neu zu denken...
-Feed: https://birgitschuermann.podcaster.de/Rhetorik.rss</description>
+                <title>Folge 101 - Tauben, Punkrock, Fischermützen - Die Spatzen freuen sich.</title>
+                <description>&lt;p&gt;Das neue Pascow Album, Konzert am 30.3 in Bremen&lt;/p&gt;&lt;p&gt;Der Ruf der Taube von Grillmaster Flash - Neue Single releast&lt;/p&gt;&lt;p&gt;Hendrik Otremba in Bremen in der Weserburg&lt;/p&gt;&lt;p&gt;Max-Jacob Ost in Lemwerder und im Viertel, Marco Bode kommt am 23.2&lt;/p&gt;&lt;p&gt;VfL Wolfsburg-Fan Matthias Brodowy gratuliert&amp;nbsp;&lt;/p&gt;&lt;p&gt;Nichtraucher im EISEN, Grüße an Fernando&lt;/p&gt;&lt;p&gt;Wir wollen eine Pollok-Hipster-Mütze, aber wie heißt das? Fischermütze...
+Feed: https://anchor.fm/s/e9a02dc/podcast/rss</description>
                 
                 
-                <link>https://www.birgit-schuermann.com/podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://birgitschuermann.podcaster.de/Rhetorik/media/Podcast_114_Interview_mit_Anna_Engers_Gendern_-_17-02-23_15-27.mp3"/>
-                <guid>https://www.birgit-schuermann.com/podcast</guid>
+                <link>https://anchor.fm/henselundbremen/episodes/Folge-101---Tauben--Punkrock--Fischermtzen---Die-Spatzen-freuen-sich-e1u80pc</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/e9a02dc/podcast/play/64274668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-30%2F310235928-44100-2-8de7d47a3ebc9.m4a"/>
+                <guid>https://anchor.fm/henselundbremen/episodes/Folge-101---Tauben--Punkrock--Fischermtzen---Die-Spatzen-freuen-sich-e1u80pc</guid>
                 
             </item><item>
-                <title>Chaosradio Freiburg 0x77</title>
-                <description>&lt;p&gt; &lt;/p&gt;&lt;p&gt;Chaosradio live ins RDL gehackt. In Zukunft jeden 2. und 4. und 5. Montag ab 19h von und mit dem CCCFr - Chaos Computer Club Freiburg.&lt;/p&gt;
-Feed: https://rdl.de/podcast/all/35236</description>
+                <title>Muskelaufbau, Kalorienüberschuss und körperliche Veränderung - die Angst vor dem Zunehmen überwinden!</title>
+                <description>Zunehmen gilt in der Gesellschaft häufig als “Versagen” und wird schnell mit etwas Negativem in Verbindung gebracht. Lange Zeit war die Angst vor dem Zunehmen und vor der körperlichen Veränderung mein Hindernis. Doch mir wurde klar, dass ich diese Angst überwinden und die Veränderung akzeptieren und zulassen muss. Nur so konnte ich meine Periode zurückerlangen. 
+Auch was das Thema Muskelaufbau betrifft, stellt die körperliche Veränderung häufig ein Hindernis dar...
+Feed: https://podcast477cf6.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://rdl.de/beitrag/chaosradio-freiburg-0x77</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2023/02/20230213-chaosradiofr-w29976.mp3"/>
-                <guid>https://rdl.de/beitrag/chaosradio-freiburg-0x77</guid>
+                <link>https://podcast477cf6.podigee.io/195-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1030266-m-fa78f85bac4f7e496c4eb88e3cd753e2.mp3?source=feed"/>
+                <guid>https://podcast477cf6.podigee.io/195-new-episode</guid>
                 
             </item>
         </channel>

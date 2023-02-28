@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 26 Feb 2023 04:25:04 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 Feb 2023 04:25:45 +0200</lastBuildDate>
             <item>
-                <title>202 - Requiem pour un Kang</title>
-                <description>Star Wars: The High Republic / Blade Runner 2019 / Kroma / Silver Surfer Parabole - Silver Surfer Requiem / Ant-Man and the Wasp: Quantumania
-Feed: https://soute.vaisseauhypersensas.fr/flux/comicsoutcast.xml</description>
+                <title>Bien-être numérique, partie 5 (fin)</title>
+                <description>Dernier épisode de la série de Romain sur le bien-être numérique. Il nous parle ici de la mesure de soi, des biomarqueurs à la modification de nos comportements personnels, ainsi que de citoyenneté numérique : comment assurer notre vie privée, connaître l&#39;étiquette de la communication en ligne et maîtriser l&#39;information.
+Feed: https://www.proetserein.com/podcasts/JLTM.xml</description>
                 
                 
-                <link>http://vaisseauhypersensas.fr/comicsoutcast/9/202/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/soute.vaisseauhypersensas.fr/comicsoutcast/CO202.mp3"/>
-                <guid>http://vaisseauhypersensas.fr/comicsoutcast/9/202/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://dts.podtrac.com/redirect.mp3/podcastsgtdfrance.s3.amazonaws.com/JLTM/JLTM_80_clean.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Bol de gruau : 01/04/2023 20:00</title>
-                <description>1044-279772
-Feed: http://podcast.cism893.ca/radioshows/1044/feed_itunes.xml</description>
+                <title>Before #406#</title>
+                <description>Before du 25 février 2023
+Feed: https://podcast.pulsradio.com/PascalH/podcast.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/279772.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/279772.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/279772.mp3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/PascalH/20230225/PascalH_20230225.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

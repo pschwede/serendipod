@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 26 Feb 2023 04:25:11 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 Feb 2023 04:25:50 +0200</lastBuildDate>
             <item>
-                <title>Si no me crees, compruébalo: Descubre de dónde vienen algunos dichos de uso común</title>
-                <description>¡Me estoy poniendo las botas! ¡Eso está en el quinto pino! ¡A buenas horas mangas verdes!.. Curiosas expresiones de uso común cuyo origen es explicado por Silvia Casasola
-Feed: https://www.ondacero.es/rss/podcast/8502/podcast.xml</description>
+                <title>I Domingo de Cuaresma (A)</title>
+                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Mateo 4, 1-11. Gloria a ti, Señor. En aquel tiempo, Jesús fue conducido por el Espíritu al desierto, para ser &amp;#8230;
+Feed: http://feed.quechilero.com/PalabraEspirituYVida</description>
                 
                 
-                <link>https://www.ondacero.es/programas/la-rosa-de-los-vientos/audios-podcast/si-no-me-crees-compruebalo/crees-compruebalo-descubre-donde-vienen-algunos-dichos-uso-comun_2023022663faccd3b38560000160a887.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.antena3.com/mp_audios4//2023/02/26/0713690E-042D-4332-A26C-70158CDC797D/0713690E-042D-4332-A26C-70158CDC797D.mp3"/>
-                <guid>https://www.ondacero.es/programas/la-rosa-de-los-vientos/audios-podcast/si-no-me-crees-compruebalo/crees-compruebalo-descubre-donde-vienen-algunos-dichos-uso-comun_2023022663faccd3b38560000160a887.html</guid>
+                <link>https://diocesisdeescuintla.com/i-domingo-de-cuaresma-a-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/9763/i-domingo-de-cuaresma-a-2023.mp3"/>
+                <guid>https://diocesisdeescuintla.com/i-domingo-de-cuaresma-a-2023/</guid>
                 
             </item><item>
-                <title>Islas de Robinson - Solas con el sonido que hace la mente - 20/02/23</title>
-                <description>Solas con el sonido que hace la mente
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>Historia viajera de los Balcanes III</title>
+                <description>El viaje por Croacia continua. Y para esta ocasión el protagonista será el Mar Adriático: atravesaremos toda la costa dalmática desde el triángulo insular de Istria hasta la hermosa ciudad de Split. Aquí hablaremos de cómo se ha entrelazado la...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/solas-sonido-hace-mente/6814942/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SISLAS/mp3/9/7/1676852399679.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/solas-sonido-hace-mente/6814942/</guid>
+                <link>https://www.dianauribe.fm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Historia_viajera_de_los_Balcanes_III.mp3?dest-id=844493"/>
+                <guid>https://www.dianauribe.fm</guid>
                 
             </item>
         </channel>
