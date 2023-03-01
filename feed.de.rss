@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 28 Feb 2023 04:25:39 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 Mar 2023 04:25:52 +0200</lastBuildDate>
             <item>
-                <title>Folge 101 - Tauben, Punkrock, Fischermützen - Die Spatzen freuen sich.</title>
-                <description>&lt;p&gt;Das neue Pascow Album, Konzert am 30.3 in Bremen&lt;/p&gt;&lt;p&gt;Der Ruf der Taube von Grillmaster Flash - Neue Single releast&lt;/p&gt;&lt;p&gt;Hendrik Otremba in Bremen in der Weserburg&lt;/p&gt;&lt;p&gt;Max-Jacob Ost in Lemwerder und im Viertel, Marco Bode kommt am 23.2&lt;/p&gt;&lt;p&gt;VfL Wolfsburg-Fan Matthias Brodowy gratuliert&amp;nbsp;&lt;/p&gt;&lt;p&gt;Nichtraucher im EISEN, Grüße an Fernando&lt;/p&gt;&lt;p&gt;Wir wollen eine Pollok-Hipster-Mütze, aber wie heißt das? Fischermütze...
-Feed: https://anchor.fm/s/e9a02dc/podcast/rss</description>
+                <title>#47 Praxistalk - Freddys Qualen</title>
+                <description>Freddy wird im Urlaub gequält und neben Eisbaden steht er neuerdings auf Meditation
+Feed: https://www.flitz-piepen.de/feed/podcast/</description>
                 
                 
-                <link>https://anchor.fm/henselundbremen/episodes/Folge-101---Tauben--Punkrock--Fischermtzen---Die-Spatzen-freuen-sich-e1u80pc</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/e9a02dc/podcast/play/64274668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-30%2F310235928-44100-2-8de7d47a3ebc9.m4a"/>
-                <guid>https://anchor.fm/henselundbremen/episodes/Folge-101---Tauben--Punkrock--Fischermtzen---Die-Spatzen-freuen-sich-e1u80pc</guid>
+                <link>https://www.flitz-piepen.de/47-praxistalk-freddy-wird-gequaelt/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.flitz-piepen.de/podlove/file/57/s/feed/c/podcast/Folge47.mp3"/>
+                <guid>https://www.flitz-piepen.de/47-praxistalk-freddy-wird-gequaelt/</guid>
                 
             </item><item>
-                <title>Muskelaufbau, Kalorienüberschuss und körperliche Veränderung - die Angst vor dem Zunehmen überwinden!</title>
-                <description>Zunehmen gilt in der Gesellschaft häufig als “Versagen” und wird schnell mit etwas Negativem in Verbindung gebracht. Lange Zeit war die Angst vor dem Zunehmen und vor der körperlichen Veränderung mein Hindernis. Doch mir wurde klar, dass ich diese Angst überwinden und die Veränderung akzeptieren und zulassen muss. Nur so konnte ich meine Periode zurückerlangen. 
-Auch was das Thema Muskelaufbau betrifft, stellt die körperliche Veränderung häufig ein Hindernis dar...
-Feed: https://podcast477cf6.podigee.io/feed/mp3</description>
+                <title>Türkei und Syrien – Das historische Erdbeben</title>
+                <description>Das Erdbeben im Süden der Türkei sowie in Nordsyrien hatte dramatische Ausmaße. Die Menschen vor Ort verloren innerhalb weniger Tage teils ihre gesamte Familie und zahllose Mitmenschen. Nachbeben halten die Situation weiterhin angespannt...
+Feed: https://www.swr.de/~podcast/weltspiegel-thema/weltspiegel-podcast-102.xml</description>
                 
                 
-                <link>https://podcast477cf6.podigee.io/195-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1030266-m-fa78f85bac4f7e496c4eb88e3cd753e2.mp3?source=feed"/>
-                <guid>https://podcast477cf6.podigee.io/195-new-episode</guid>
+                <link>https://www.swr.de/weltspiegel-thema/tuerkei-und-syrien-das-historische-erdbeben-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/weltspiegel-thema/1814471.m.mp3"/>
+                <guid>https://www.swr.de/weltspiegel-thema/tuerkei-und-syrien-das-historische-erdbeben-100.html</guid>
                 
             </item>
         </channel>

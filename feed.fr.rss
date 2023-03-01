@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 28 Feb 2023 04:25:45 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 Mar 2023 04:25:56 +0200</lastBuildDate>
             <item>
-                <title>Bien-être numérique, partie 5 (fin)</title>
-                <description>Dernier épisode de la série de Romain sur le bien-être numérique. Il nous parle ici de la mesure de soi, des biomarqueurs à la modification de nos comportements personnels, ainsi que de citoyenneté numérique : comment assurer notre vie privée, connaître l&#39;étiquette de la communication en ligne et maîtriser l&#39;information.
-Feed: https://www.proetserein.com/podcasts/JLTM.xml</description>
+                <title>OEC 256 : Je ne m’Opposerai Pas</title>
+                <description>Bâillonne, le Dictateur ne peux pas s’opposer aux coups de cœur qui pleuvent indécemment, mais on lui laisse quand même la parole pour clore l’émission...
+Feed: https://oec.lepodcast.fr/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://dts.podtrac.com/redirect.mp3/podcastsgtdfrance.s3.amazonaws.com/JLTM/JLTM_80_clean.mp3"/>
-                <guid></guid>
+                <link>https://www.lavoixdesbulles.fr/oec-256-je-ne-mopposerai-pas/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/oec/oec-256-je-ne-mopposerai-pas/enclosure.59d42dd8c912888b3cc850878a7a25dee44dded0170754e61d12c667a3b45487.mp3?p=f"/>
+                <guid>https://www.lavoixdesbulles.fr/oec-256-je-ne-mopposerai-pas/</guid>
                 
             </item><item>
-                <title>Before #406#</title>
-                <description>Before du 25 février 2023
-Feed: https://podcast.pulsradio.com/PascalH/podcast.xml</description>
+                <title>???????? #54 – Fabien Pinckaers – CEO &amp; fondateur – Odoo ????️ L&#39;open source sinon rien</title>
+                <description>&lt;p&gt;15 ans au bord de la faillite pour être désormais... &lt;strong&gt;multimilliardaire &lt;/strong&gt;!&lt;/p&gt;&lt;p&gt;Au tout début, Fabien Pinckaers voulait juste créer un ERP pour aider son entourage.&lt;/p&gt;&lt;p&gt;Aujourd&#39;hui, il est en passe de bâtir &lt;strong&gt;l&#39;un des plus gros empires IT du monde&lt;/strong&gt;...
+Feed: https://anchor.fm/s/2881b424/podcast/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/PascalH/20230225/PascalH_20230225.mp3"/>
-                <guid></guid>
+                <link>https://anchor.fm/innovationleaders/episodes/54--Fabien-Pinckaers--CEO--fondateur--Odoo--Lopen-source-sinon-rien-e1vkhd6</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/2881b424/podcast/play/65733478/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-28%2Fc3820c23-18fb-5b19-b618-d45db06b7e45.mp3"/>
+                <guid>https://anchor.fm/innovationleaders/episodes/54--Fabien-Pinckaers--CEO--fondateur--Odoo--Lopen-source-sinon-rien-e1vkhd6</guid>
                 
             </item>
         </channel>

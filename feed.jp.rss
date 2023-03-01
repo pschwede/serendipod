@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 28 Feb 2023 04:26:07 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 Mar 2023 04:26:12 +0200</lastBuildDate>
             <item>
-                <title>The February 2023 Episode</title>
-                <description>How is it already February?!? Well, the silver lining is that it’s time for another dope episode of Tha Bloc Report with Donnie Ozone and Timezone Lafontaine. As always, Donnie runs us through the newest tunes, gems from the archives and the current heat from the blocSonic charts. Also, Timezone hits us with the latest incredible installment of his 20 Minute Work-Out. If you want to be taken on a sonic journey through the bloc archives, this is the show that gives you that...
-Feed: https://blocsonic.com/index.php/bloccasts/feed/tha-bloc-report.rss</description>
+                <title>RIP a Livecast #711 - Team Daddy</title>
+                <description>&lt;p&gt;We kick things off with a random discussion about the pluses and minuses of Wawa, and ordering from McDonald&#39;s on the app versus in person, Gene Simmons&#39; new business venture for fans, and how Darren got into poker. &lt;/p&gt;&lt;br&gt;&lt;p&gt;Watch the episode on Youtube and Twitch for free.&amp;nbsp;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Join our Patreon&amp;nbsp;and get two bonus episodes each month, and other behind-the-scenes goodies.&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;More info here&lt;/strong&gt;&lt;strong&gt;...
+Feed: https://feeds.acast.com/public/shows/638fae377944c60011e2e293</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://s3.wasabisys.com/blocsonic/releases/bloccasts/bsbctbr0054/01-ThaBlocReport-Episode54_TheFebruary2023Episode_192kb.mp3"/>
-                <guid></guid>
+                <link>https://shows.acast.com/ripalivecast/episodes/rip-a-livecast-711-team-daddy</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/638fae377944c60011e2e293/e/63fa6175d6d5970011d2a7ad/media.mp3"/>
+                <guid>https://shows.acast.com/ripalivecast/episodes/rip-a-livecast-711-team-daddy</guid>
                 
             </item><item>
-                <title>Cyber attack leads to state of emergency</title>
-                <description>The cyber attack in the Anhalt-Bitterfeld district had far-reaching effects. All official emails from the last 20 years were deleted, the cash register systems no longer worked and even the alarm systems failed.
-Feed: https://rss.dw.com/xml/podcast_shift_en</description>
+                <title>The Power of Pressing Pause</title>
+                <description>&lt;p class=&#34;ql-align-justify&#34;&gt;When you&#39;re dealing with a stressful situation, your first instinct might be to act immediately to solve it. Unfortunately, acting immediately often means you don&#39;t think your actions through. Acting rashly can worsen the situation, making it even more stressful. Fortunately, there&#39;s a better way to respond to stress. All you have to do is take a few seconds to press the pause button...
+Feed: https://feeds.captivate.fm/you-are-not-a-frog/</description>
                 
                 
-                <link>https://www.dw.com/en/cyber-attack-leads-to-state-of-emergency/video-64805410?maca=en-podcast_shift_en-7877-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/she/she20230225_local_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/en/cyber-attack-leads-to-state-of-emergency/video-64805410?maca=en-podcast_shift_en-7877-xml-mrss</guid>
+                <link>https://youarenotafrog.com/episode-157/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/12509669-3b41-4a96-a1cd-0116c25e968c/The-Power-of-Pressing-Pause.mp3"/>
+                <guid>https://youarenotafrog.com/episode-157/</guid>
                 
             </item>
         </channel>
