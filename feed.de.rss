@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 01 Mar 2023 04:25:52 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 02 Mar 2023 04:25:55 +0200</lastBuildDate>
             <item>
-                <title>#47 Praxistalk - Freddys Qualen</title>
-                <description>Freddy wird im Urlaub gequält und neben Eisbaden steht er neuerdings auf Meditation
-Feed: https://www.flitz-piepen.de/feed/podcast/</description>
+                <title>#116 - GNTM Forecast</title>
+                <description>Was ist unsere Prognose für die kommende Staffel GNTM?
+Feed: https://feeds.acast.com/public/shows/63789f7d247d0e00127269e9</description>
                 
                 
-                <link>https://www.flitz-piepen.de/47-praxistalk-freddy-wird-gequaelt/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.flitz-piepen.de/podlove/file/57/s/feed/c/podcast/Folge47.mp3"/>
-                <guid>https://www.flitz-piepen.de/47-praxistalk-freddy-wird-gequaelt/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63789f7d247d0e00127269e9/e/63f7e5cecef8ec0011e9a255/media.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Türkei und Syrien – Das historische Erdbeben</title>
-                <description>Das Erdbeben im Süden der Türkei sowie in Nordsyrien hatte dramatische Ausmaße. Die Menschen vor Ort verloren innerhalb weniger Tage teils ihre gesamte Familie und zahllose Mitmenschen. Nachbeben halten die Situation weiterhin angespannt...
-Feed: https://www.swr.de/~podcast/weltspiegel-thema/weltspiegel-podcast-102.xml</description>
+                <title>90 | Detox? Brauch ich nicht!?!</title>
+                <description>Jetzt bin ich doch nochmal einiges zu unserem Detox gefragt worden und hab deshalb beschlossen, das ganze in dieser Episode für Euch zusammenzufassen.
+Müssen wir wirklich entgiften?  Und wenn ja, warum?
+Woran merkst Du, dass es bei Dir vielleicht tatsächlich an der Zeit wäre? 
+Und wie kannst Du Deinen Körper dabei unterstützen?
+Das alles besprechen wir in dieser Episode...
+Feed: https://dr-petra-barron.podcaster.de/meditation.rss</description>
                 
                 
-                <link>https://www.swr.de/weltspiegel-thema/tuerkei-und-syrien-das-historische-erdbeben-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/weltspiegel-thema/1814471.m.mp3"/>
-                <guid>https://www.swr.de/weltspiegel-thema/tuerkei-und-syrien-das-historische-erdbeben-100.html</guid>
+                <link>https://dr-petra-barron.podcaster.de/meditation/media/90_Detox_Brauch_ich_nicht.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dr-petra-barron.podcaster.de/meditation/media/90_Detox_Brauch_ich_nicht.mp3"/>
+                <guid>https://dr-petra-barron.podcaster.de/meditation/media/90_Detox_Brauch_ich_nicht.mp3</guid>
                 
             </item>
         </channel>
