@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 02 Mar 2023 04:26:07 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 03 Mar 2023 04:48:51 +0200</lastBuildDate>
             <item>
-                <title>Tokucast #150 – Patrine</title>
-                <description>Gravaremos enquanto existir amor, até o fim de nossas vidas!! O fantástico, ou não, Tokucast está no ar, desta vez contando um pouco sobre Patrine! Sena, Danny Tsurugi e Giuzão Chagas recebem Giuliano Peccilli (JWave) para contarem um pouco sobre… Cont...
-Feed: https://feeds.feedburner.com/tkbrtokucast</description>
+                <title>BP 438 - China is back; Lula conversa com Zelensky</title>
+                <description>No último episódio da semana, o Petit Journal traz para seus maravilhosos ouvintes a volta da China para o business: a economia do gigante asiático dá sinais de recuperação, no mesmo momento em que os EUA buscam formas de manter seu rival na...
+Feed: https://www.spreaker.com/show/5659715/episodes/feed</description>
                 
                 
-                <link>http://tokucast.com.br/?p=2322</link>
-                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/tkbrtokucast/tokucast.com.br/tokucast/Tokucast_Episodio_150.mp3"/>
-                <guid>http://tokucast.com.br/?p=2322</guid>
+                <link>https://www.spreaker.com/user/16729939/bate-papo-438-china-is-back-armas-para-t</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/53079104/bate_papo_438_china_is_back_armas_para_taiwan.mp3"/>
+                <guid>https://www.spreaker.com/user/16729939/bate-papo-438-china-is-back-armas-para-t</guid>
                 
             </item><item>
-                <title>Como participar na sua própria defesa jurídica | Lam Ho</title>
-                <description>Como participar na sua própria defesa jurídica | Lam Ho
-Feed: https://feeds.feedburner.com/BrPortuguesePodcastKidsAndFamily</description>
+                <title>Xadrez Verbal #325 - 1 Ano da Guerra na Ucrânia</title>
+                <description>Na véspera do “aniversário” da guerra na Ucrânia, Joe Biden visitou Zelensky e trazemos tudo o que aconteceu nessas duas semanas em relação ao conflito.
+Também passamos pela nossa quebrada latino-americana, indo do México à Antártida.
+Por fim, demos...
+Feed: https://www.spreaker.com/show/4712237/episodes/feed</description>
                 
                 
-                <link>https://www.ted.com/talks/lam_ho_how_to_participate_in_your_own_legal_defense?rss=172BB350-0235</link>
-                <enclosure type="audio/mpeg" length="1" url="https://download.ted.com/products/162424.mp4?apikey=172BB350-0235"/>
-                <guid>https://www.ted.com/talks/lam_ho_how_to_participate_in_your_own_legal_defense?rss=172BB350-0235</guid>
+                <link>https://www.spreaker.com/user/central3/xadrez-verbal-325</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/52849821/xadrez_verbal_325.mp3"/>
+                <guid>https://www.spreaker.com/user/central3/xadrez-verbal-325</guid>
                 
             </item>
         </channel>

@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 02 Mar 2023 04:25:59 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 03 Mar 2023 04:48:42 +0200</lastBuildDate>
             <item>
-                <title>[Rediffusion] - Le goût des arbres d&#39;Anna de Noailles</title>
-                <description>Ce qui est vivifiant, chez Anna DE NOAILLES, c&#39;est la façon dont elle parle de la nature. La singularité de ses images, des associations de mots, pour transmettre un regard à la fois lucide et contemplatif. J&#39;aime particuiièrement son texte où elle nou...
-Feed: https://feed.ausha.co/yXJjQsVaX6xR</description>
+                <title>Les criquets crinqués : 02/27/2023 21:00</title>
+                <description>653-283473
+Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/l-experience-poetique/le-gout-des-arbres-d-anna-de-noailles</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BG76gf7xWa6n.mp3?t=1674841121"/>
-                <guid>https://podcast.ausha.co/l-experience-poetique/le-gout-des-arbres-d-anna-de-noailles</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/283473.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/283473.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/283473.mp3</guid>
                 
             </item><item>
-                <title>#93 - Régénérer les sols et l’eau avec Samuel Bonvoisin</title>
-                <description>Et si la sécheresse en France pouvait se résoudre ? Et si nous avions déjà toutes les cartes en mai pour réduire les risques climatiques ?
-Aujourd’hui, je reçois Samuel Bonvoisin ingénieur et spécialiste de la permaculture et de l’hydrologie régenérat...
-Feed: https://feed.ausha.co/oR7APIOmX35x</description>
+                <title>Claude Bochurberg. Une éthique de la mémoire en actes 1/2</title>
+                <description>Claude Bochurberg. Une éthique de la mémoire en actes 1/2
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13094.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/demain-et-durable-l-ecologie/93-permaculture-ecologie-hydrologie-regenerative</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/brdvQu3KQR3Q.mp3?t=1677525542"/>
-                <guid>https://podcast.ausha.co/demain-et-durable-l-ecologie/93-permaculture-ecologie-hydrologie-regenerative</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/talmudiques-emission-du-dimanche-26-fevrier-2023-7715923</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/cf036a26-ae3f-4405-a9c2-970b50a84bb0/13094-26.02.2023-ITEMA_23299556-2023C21364E0008-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/talmudiques-emission-du-dimanche-26-fevrier-2023-7715923</guid>
                 
             </item>
         </channel>

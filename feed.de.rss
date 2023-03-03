@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 02 Mar 2023 04:25:55 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 03 Mar 2023 04:48:38 +0200</lastBuildDate>
             <item>
-                <title>#116 - GNTM Forecast</title>
-                <description>Was ist unsere Prognose für die kommende Staffel GNTM?
-Feed: https://feeds.acast.com/public/shows/63789f7d247d0e00127269e9</description>
+                <title>Von der Fotografie zur Videografie</title>
+                <description>Neufi im Gespräch mit Gordon Wolfertz, dem CEO von Filmmaker Marketing über das Filmen als Fotograf*in
+Feed: https://fotopodcast.de/feed/mp3/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63789f7d247d0e00127269e9/e/63f7e5cecef8ec0011e9a255/media.mp3"/>
-                <guid></guid>
+                <link>https://fotopodcast.de/fpc331/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fotopodcast.de/podlove/file/7362/s/feed/c/mp3/fpc331.mp3"/>
+                <guid>https://fotopodcast.de/fpc331/</guid>
                 
             </item><item>
-                <title>90 | Detox? Brauch ich nicht!?!</title>
-                <description>Jetzt bin ich doch nochmal einiges zu unserem Detox gefragt worden und hab deshalb beschlossen, das ganze in dieser Episode für Euch zusammenzufassen.
-Müssen wir wirklich entgiften?  Und wenn ja, warum?
-Woran merkst Du, dass es bei Dir vielleicht tatsächlich an der Zeit wäre? 
-Und wie kannst Du Deinen Körper dabei unterstützen?
-Das alles besprechen wir in dieser Episode...
-Feed: https://dr-petra-barron.podcaster.de/meditation.rss</description>
+                <title>Team und Organisation als halbes Dutzend</title>
+                <description>Die Kreativ- und Organisationsberatung creaffective besteht aus einer Hand voll engagierter Kolleginnen und Kollegen. Und sehr viel größer möchte die Company auch nicht werden. Eine gute Größe, um als eingeschwungenes Team eng zusammen zu...
+Feed: https://intrinsify.libsyn.com/rss</description>
                 
                 
-                <link>https://dr-petra-barron.podcaster.de/meditation/media/90_Detox_Brauch_ich_nicht.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dr-petra-barron.podcaster.de/meditation/media/90_Detox_Brauch_ich_nicht.mp3"/>
-                <guid>https://dr-petra-barron.podcaster.de/meditation/media/90_Detox_Brauch_ich_nicht.mp3</guid>
+                <link>https://intrinsify.libsyn.com/team-und-organisation-als-halbes-dutzend</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/intrinsify/Podcast_Episode_14_Daniel_Barth.mp3?dest-id=424428"/>
+                <guid>https://intrinsify.libsyn.com/team-und-organisation-als-halbes-dutzend</guid>
                 
             </item>
         </channel>
