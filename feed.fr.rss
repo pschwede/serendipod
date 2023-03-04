@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 03 Mar 2023 04:48:42 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 04 Mar 2023 04:25:18 +0200</lastBuildDate>
             <item>
-                <title>Les criquets crinqués : 02/27/2023 21:00</title>
-                <description>653-283473
-Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
+                <title>Podcast Elbakin.net n°93 : l&#39;édition et les IA</title>
+                <description>Un sujet d&#39;actualité, pour le moins !Et preuve que celle-ci ne s&#39;arrête jamais et va très vite, l...
+Feed: https://elbakin.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/283473.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/283473.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/283473.mp3</guid>
+                <link>https://www.podomatic.com/podcasts/elbakin/episodes/2023-02-26T23_39_33-08_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://elbakin.podomatic.com/enclosure/2023-02-26T23_39_33-08_00.mp3?_=1677483586.16495210"/>
+                <guid>https://www.podomatic.com/podcasts/elbakin/episodes/2023-02-26T23_39_33-08_00</guid>
                 
             </item><item>
-                <title>Claude Bochurberg. Une éthique de la mémoire en actes 1/2</title>
-                <description>Claude Bochurberg. Une éthique de la mémoire en actes 1/2
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13094.xml</description>
+                <title>Solénoïde - Blender Session 58 - 27.02.2023</title>
+                <description>Emission du 27.02.2023 avec Fatima Al Qadiri, 3Phaz, Ironomi, Mayssa Jallad, Carmen Jaci, O Morto, Kimi Djabate, Sara Persico, Polobi...
+Feed: http://www.solenopole.org/solenopodcast.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/talmudiques-emission-du-dimanche-26-fevrier-2023-7715923</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/cf036a26-ae3f-4405-a9c2-970b50a84bb0/13094-26.02.2023-ITEMA_23299556-2023C21364E0008-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/talmudiques-emission-du-dimanche-26-fevrier-2023-7715923</guid>
+                <link>https://solenopole.blogspot.com/2023/02/emission-solenoide-blender-session-58.html</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.solenopole.org/mp3_160/Solenoide_Blender_Session_58.mp3"/>
+                <guid>https://solenopole.blogspot.com/2023/02/emission-solenoide-blender-session-58.html</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 03 Mar 2023 04:48:38 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 04 Mar 2023 04:25:12 +0200</lastBuildDate>
             <item>
-                <title>Von der Fotografie zur Videografie</title>
-                <description>Neufi im Gespräch mit Gordon Wolfertz, dem CEO von Filmmaker Marketing über das Filmen als Fotograf*in
-Feed: https://fotopodcast.de/feed/mp3/</description>
+                <title>Videoproduktion - Ablauf &amp; Online Sichtbarkeit</title>
+                <description>Ich spreche über den Ablauf einer Videoproduktion. Für die Planung gibt es wichtige Dinge zu beachten. Zudem teile ich nützliche Tipps zum Thema Videomarketing für die Sichtbarkeit. - https://bit.ly/3HuATBy
+Feed: https://kreativfilm-podcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://fotopodcast.de/fpc331/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fotopodcast.de/podlove/file/7362/s/feed/c/mp3/fpc331.mp3"/>
-                <guid>https://fotopodcast.de/fpc331/</guid>
+                <link>https://kreativfilm-podcast.podigee.io/67-videoproduktion-ablauf</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1031821-m-4d3ede6747ab79791085ad070d345cff.mp3?source=feed"/>
+                <guid>https://kreativfilm-podcast.podigee.io/67-videoproduktion-ablauf</guid>
                 
             </item><item>
-                <title>Team und Organisation als halbes Dutzend</title>
-                <description>Die Kreativ- und Organisationsberatung creaffective besteht aus einer Hand voll engagierter Kolleginnen und Kollegen. Und sehr viel größer möchte die Company auch nicht werden. Eine gute Größe, um als eingeschwungenes Team eng zusammen zu...
-Feed: https://intrinsify.libsyn.com/rss</description>
+                <title>Selbstverteidigungsmüdigkeit</title>
+                <description>Ohne viel Schnickschnack geht es heute direkt los. Steven hat den besten deutschen Film seit Jahren geguckt – „Sonne und Beton“ und Tim verschlingt gerade „The Consultant“ mit Christoph Waltz als Horror-Stromberg. Da kommen doch glatt Albtraum-Erlebnisse mit Chefs und Interviewpartnern hoch, die erstmal verarbeitet werden müssen...
+Feed: https://kino-oder-couch.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://intrinsify.libsyn.com/team-und-organisation-als-halbes-dutzend</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/intrinsify/Podcast_Episode_14_Daniel_Barth.mp3?dest-id=424428"/>
-                <guid>https://intrinsify.libsyn.com/team-und-organisation-als-halbes-dutzend</guid>
+                <link>https://kino-oder-couch.podigee.io/110-selbstverteidigungsmudigkeit</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1033585-m-62263bd355ea921b3e9d9a0f0e93960f.mp3?source=feed"/>
+                <guid>https://kino-oder-couch.podigee.io/110-selbstverteidigungsmudigkeit</guid>
                 
             </item>
         </channel>

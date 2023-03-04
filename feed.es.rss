@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 03 Mar 2023 04:48:47 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 04 Mar 2023 04:25:24 +0200</lastBuildDate>
             <item>
-                <title>Los conciertos de Radio 3 - Bewis de la Rosa - 03/03/23</title>
-                <description>Bewis de la Rosa
-Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
+                <title>Popcasting425</title>
+                <description>de la soul &amp;middot; ring ring ring (ha ha hey) (party line mix) :: serge gainsbourg &amp;middot; pauvre lola :: france gall &amp;middot; poup&amp;eacute;e de cire, poup&amp;eacute;e de son :: bobbie lovesong &amp;middot; sun, star &amp;amp; moon :: gatien &amp;middot; tout est incroyable :: rosa walton &amp;middot; turning up the flowers :: sophie b hawkins &amp;middot; i want you :: thomas newman st james / opening 3 :: lana del rey &amp;middot; a&amp;amp;w :: mr ben &amp;amp; the bens &amp;middot; when they hear your name :: the reds, pinks...
+Feed: https://feeds.feedburner.com/Popcasting</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/bewis-rosa-03-03-23/6825192/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SLCOR1/mp3/8/1/1677807554918.mp3"/>
-                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/bewis-rosa-03-03-23/6825192/</guid>
+                <link>http://www.ivoox.com/popcasting425-audios-mp3_rf_103839919_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting425_mf_103839919_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/popcasting425-audios-mp3_rf_103839919_1.html</guid>
                 
             </item><item>
-                <title>Sicut Luna perfecta - DOMINGO Iº de Cuaresma - 26/02/23</title>
-                <description>DOMINGO Iº de Cuaresma
-Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
+                <title>S01 E38 - El 80% de la población menos rica posee solo la tercera parte de la riqueza</title>
+                <description>&lt;p&gt;En este episodio hablaremos de desigualdad en el mundo, en cuanto a riqueza o ingresos de dinero. Nos basaremos en datos de la “World Inequality Database” (base de datos de la desigualdad mundial, en inglés). Que es una organización dedicada al estudio de este fenómeno a nivel mundial. Aunque como veremos a continuación, es más acusado en unos países que otros...
+Feed: https://podcast.imasdeweb.com/@Datofilos/feed.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/domingo-cuaresma/6820352/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SSICUTL/mp3/0/0/1677399204500.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/domingo-cuaresma/6820352/</guid>
+                <link>https://podcast.imasdeweb.com/@Datofilos/episodes/s01-e38-el-80-de-la-poblacion-menos-rica-posee-solo-la-tercera-parte-de-la-riqueza</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.imasdeweb.com/audio/AQAAAEsAAADzeBEAtVM0ALMAAAD2ecdj/Datofilos/s01-e38-el-80-de-la-poblacion-menos-rica-posee-solo-la-tercera-parte-de-la-riqueza.mp3?_from=fyyd.de"/>
+                <guid>https://podcast.imasdeweb.com/@Datofilos/episodes/s01-e38-el-80-de-la-poblacion-menos-rica-posee-solo-la-tercera-parte-de-la-riqueza</guid>
                 
             </item>
         </channel>
