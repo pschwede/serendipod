@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 04 Mar 2023 04:25:24 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 Mar 2023 04:24:50 +0200</lastBuildDate>
             <item>
-                <title>Popcasting425</title>
-                <description>de la soul &amp;middot; ring ring ring (ha ha hey) (party line mix) :: serge gainsbourg &amp;middot; pauvre lola :: france gall &amp;middot; poup&amp;eacute;e de cire, poup&amp;eacute;e de son :: bobbie lovesong &amp;middot; sun, star &amp;amp; moon :: gatien &amp;middot; tout est incroyable :: rosa walton &amp;middot; turning up the flowers :: sophie b hawkins &amp;middot; i want you :: thomas newman st james / opening 3 :: lana del rey &amp;middot; a&amp;amp;w :: mr ben &amp;amp; the bens &amp;middot; when they hear your name :: the reds, pinks...
-Feed: https://feeds.feedburner.com/Popcasting</description>
+                <title>180 grados - Sesión de Rock, en Casa - 03/03/23</title>
+                <description>Sesión de Rock, en Casa
+Feed: http://api.rtve.es/api/programas/22270/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/popcasting425-audios-mp3_rf_103839919_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting425_mf_103839919_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/popcasting425-audios-mp3_rf_103839919_1.html</guid>
+                <link>https://www.rtve.es/play/audios/180/sesion-rock-casa-03-03-23/6825506/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_S180GRA/mp3/5/2/1677842600625.mp3"/>
+                <guid>https://www.rtve.es/play/audios/180/sesion-rock-casa-03-03-23/6825506/</guid>
                 
             </item><item>
-                <title>S01 E38 - El 80% de la población menos rica posee solo la tercera parte de la riqueza</title>
-                <description>&lt;p&gt;En este episodio hablaremos de desigualdad en el mundo, en cuanto a riqueza o ingresos de dinero. Nos basaremos en datos de la “World Inequality Database” (base de datos de la desigualdad mundial, en inglés). Que es una organización dedicada al estudio de este fenómeno a nivel mundial. Aunque como veremos a continuación, es más acusado en unos países que otros...
-Feed: https://podcast.imasdeweb.com/@Datofilos/feed.xml</description>
+                <title>Underground Garage: Brian Jones, The Real Stone</title>
+                <description>
+Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
                 
                 
-                <link>https://podcast.imasdeweb.com/@Datofilos/episodes/s01-e38-el-80-de-la-poblacion-menos-rica-posee-solo-la-tercera-parte-de-la-riqueza</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.imasdeweb.com/audio/AQAAAEsAAADzeBEAtVM0ALMAAAD2ecdj/Datofilos/s01-e38-el-80-de-la-poblacion-menos-rica-posee-solo-la-tercera-parte-de-la-riqueza.mp3?_from=fyyd.de"/>
-                <guid>https://podcast.imasdeweb.com/@Datofilos/episodes/s01-e38-el-80-de-la-poblacion-menos-rica-posee-solo-la-tercera-parte-de-la-riqueza</guid>
+                <link>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-brian-jones-the-real-stone-20230227_2192399</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rockfm-cdnmed.agilecontent.com/resources/mp3/5/6/1677494319965.mp3"/>
+                <guid>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-brian-jones-the-real-stone-20230227_2192399</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 04 Mar 2023 04:25:12 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 Mar 2023 04:24:41 +0200</lastBuildDate>
             <item>
-                <title>Videoproduktion - Ablauf &amp; Online Sichtbarkeit</title>
-                <description>Ich spreche über den Ablauf einer Videoproduktion. Für die Planung gibt es wichtige Dinge zu beachten. Zudem teile ich nützliche Tipps zum Thema Videomarketing für die Sichtbarkeit. - https://bit.ly/3HuATBy
-Feed: https://kreativfilm-podcast.podigee.io/feed/mp3</description>
+                <title>in Gott aufwachsen</title>
+                <description>
+Feed: https://www.berliner-gemeinde-christi.de/index.php?option=com_sermonspeaker&amp;view=feed&amp;format=raw&amp;type=audio&amp;Itemid=101</description>
                 
                 
-                <link>https://kreativfilm-podcast.podigee.io/67-videoproduktion-ablauf</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1031821-m-4d3ede6747ab79791085ad070d345cff.mp3?source=feed"/>
-                <guid>https://kreativfilm-podcast.podigee.io/67-videoproduktion-ablauf</guid>
+                <link>https://www.berliner-gemeinde-christi.de/predigten/sermon/502-in-gott-aufwachsen.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.berliner-gemeinde-christi.de/downloads/230226-Predigt.mp3"/>
+                <guid>https://www.berliner-gemeinde-christi.de/predigten/sermon/502-in-gott-aufwachsen.html</guid>
                 
             </item><item>
-                <title>Selbstverteidigungsmüdigkeit</title>
-                <description>Ohne viel Schnickschnack geht es heute direkt los. Steven hat den besten deutschen Film seit Jahren geguckt – „Sonne und Beton“ und Tim verschlingt gerade „The Consultant“ mit Christoph Waltz als Horror-Stromberg. Da kommen doch glatt Albtraum-Erlebnisse mit Chefs und Interviewpartnern hoch, die erstmal verarbeitet werden müssen...
-Feed: https://kino-oder-couch.podigee.io/feed/mp3</description>
+                <title>GW - 084 - Gottseidank nur Blech</title>
+                <description>GW - 084 - Gottseidank nur Blech
+Feed: https://gerards-welt.de/feed/mp3/</description>
                 
                 
-                <link>https://kino-oder-couch.podigee.io/110-selbstverteidigungsmudigkeit</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1033585-m-62263bd355ea921b3e9d9a0f0e93960f.mp3?source=feed"/>
-                <guid>https://kino-oder-couch.podigee.io/110-selbstverteidigungsmudigkeit</guid>
+                <link>https://gerards-welt.de/2023/02/24/gw-084-gottseidank-nur-blech/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://gerards-welt.de/podlove/file/230/s/feed/c/mp3/GW-084.mp3"/>
+                <guid>https://gerards-welt.de/2023/02/24/gw-084-gottseidank-nur-blech/</guid>
                 
             </item>
         </channel>

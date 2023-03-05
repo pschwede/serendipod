@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 04 Mar 2023 04:25:18 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 Mar 2023 04:24:45 +0200</lastBuildDate>
             <item>
-                <title>Podcast Elbakin.net n°93 : l&#39;édition et les IA</title>
-                <description>Un sujet d&#39;actualité, pour le moins !Et preuve que celle-ci ne s&#39;arrête jamais et va très vite, l...
-Feed: https://elbakin.podomatic.com/rss2.xml</description>
+                <title>Hamza, Djadja &amp; Dinaz, I.K., Landy ...</title>
+                <description>Hamza, Djadja &amp; Dinaz, I.K., Landy ...
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14478.xml</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/elbakin/episodes/2023-02-26T23_39_33-08_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://elbakin.podomatic.com/enclosure/2023-02-26T23_39_33-08_00.mp3?_=1677483586.16495210"/>
-                <guid>https://www.podomatic.com/podcasts/elbakin/episodes/2023-02-26T23_39_33-08_00</guid>
+                <link>https://www.radiofrance.fr/mouv/podcasts/first-mike-radio-show/hamza-djadja-dinaz-i-k-landy-6571820</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/5484dcf9-9f5a-4768-81b1-c07a509abae0/14478-04.03.2023-ITEMA_23306347-2023J23962S0063-21.mp3"/>
+                <guid>https://www.radiofrance.fr/mouv/podcasts/first-mike-radio-show/hamza-djadja-dinaz-i-k-landy-6571820</guid>
                 
             </item><item>
-                <title>Solénoïde - Blender Session 58 - 27.02.2023</title>
-                <description>Emission du 27.02.2023 avec Fatima Al Qadiri, 3Phaz, Ironomi, Mayssa Jallad, Carmen Jaci, O Morto, Kimi Djabate, Sara Persico, Polobi...
-Feed: http://www.solenopole.org/solenopodcast.xml</description>
+                <title>S6E9 — « Bel organe ! »</title>
+                <description>Le podcast du kif et de la digression
+Feed: https://feeds.acast.com/public/shows/402cd0aa-d4d7-475b-85af-bf46fc7ec4e7</description>
                 
                 
-                <link>https://solenopole.blogspot.com/2023/02/emission-solenoide-blender-session-58.html</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.solenopole.org/mp3_160/Solenoide_Blender_Session_58.mp3"/>
-                <guid>https://solenopole.blogspot.com/2023/02/emission-solenoide-blender-session-58.html</guid>
+                <link>https://www.madmoizelle.com/podcast/laisse-moi-kiffer</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/laisse-moi-kiffer/e/63ff6764302d25001196746e/media.mp3"/>
+                <guid>https://www.madmoizelle.com/podcast/laisse-moi-kiffer</guid>
                 
             </item>
         </channel>
