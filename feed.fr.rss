@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 05 Mar 2023 04:24:45 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 06 Mar 2023 04:25:42 +0200</lastBuildDate>
             <item>
-                <title>Hamza, Djadja &amp; Dinaz, I.K., Landy ...</title>
-                <description>Hamza, Djadja &amp; Dinaz, I.K., Landy ...
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14478.xml</description>
+                <title>Episode 81 - La FAQ !</title>
+                <description>&lt;p&gt;Salutations citoyennes et citoyens ! Voici (enfin) notre épisode spécial 5 ans, qui répond à toutes les questions que vous nous avez envoyé ! On y traite de beaucoup de sujets différents : Le making-of des épisodes du podcast, les invités, les objets de collection, l&#39;univers étendu, La 501ème Légion, la SF, Lucasfilm, notre prochain projet de fiction audio, bref...
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/1834_1e7e6c5baea3577304717f426bc38a97.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/mouv/podcasts/first-mike-radio-show/hamza-djadja-dinaz-i-k-landy-6571820</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/5484dcf9-9f5a-4768-81b1-c07a509abae0/14478-04.03.2023-ITEMA_23306347-2023J23962S0063-21.mp3"/>
-                <guid>https://www.radiofrance.fr/mouv/podcasts/first-mike-radio-show/hamza-djadja-dinaz-i-k-landy-6571820</guid>
+                <link>https://www.unfandestarwars.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/1834/228405.mp3?s=202797896"/>
+                <guid>https://www.unfandestarwars.com</guid>
                 
             </item><item>
-                <title>S6E9 — « Bel organe ! »</title>
-                <description>Le podcast du kif et de la digression
-Feed: https://feeds.acast.com/public/shows/402cd0aa-d4d7-475b-85af-bf46fc7ec4e7</description>
+                <title>Votre jardin</title>
+                <description>Votre jardin
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
                 
                 
-                <link>https://www.madmoizelle.com/podcast/laisse-moi-kiffer</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/laisse-moi-kiffer/e/63ff6764302d25001196746e/media.mp3"/>
-                <guid>https://www.madmoizelle.com/podcast/laisse-moi-kiffer</guid>
+                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/282358ed-8374-4a78-ac1c-86a1a1eecaf3/15376-04.03.2023-ITEMA_23306423-2023B20690S0063-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 05 Mar 2023 04:24:50 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 06 Mar 2023 04:25:47 +0200</lastBuildDate>
             <item>
-                <title>180 grados - Sesión de Rock, en Casa - 03/03/23</title>
-                <description>Sesión de Rock, en Casa
-Feed: http://api.rtve.es/api/programas/22270/audios.rss</description>
+                <title>Transparentes. Sin limites con respeto.</title>
+                <description>Ha llegado el momento de que no pongamos limites a nadie, por que no haga falta&amp;hellip; atraer a personas que nos respeten.. &amp;iquest;cuanta energ&amp;iacute;a requiere estar defendi&amp;eacute;ndose?&amp;iquest;Y resistiendo cuanto energ&amp;iacute;a se gasta?
+Observemos las ciudades, antes se gastaban much&amp;iacute;sima energ&amp;iacute;a en ametrallarlas, sin embargo ahora nadie piensa en poner murallas en una ciudad...
+Feed: https://www.ivoox.com/podcast-nodo-estelar-aneto_fg_f11026236_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/180/sesion-rock-casa-03-03-23/6825506/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_S180GRA/mp3/5/2/1677842600625.mp3"/>
-                <guid>https://www.rtve.es/play/audios/180/sesion-rock-casa-03-03-23/6825506/</guid>
+                <link>https://www.ivoox.com/transparentes-sin-limites-respeto-audios-mp3_rf_103544744_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/transparentes-sin-limites-respeto_mf_103544744_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/transparentes-sin-limites-respeto-audios-mp3_rf_103544744_1.html</guid>
                 
             </item><item>
-                <title>Underground Garage: Brian Jones, The Real Stone</title>
-                <description>
-Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
+                <title>La chica de nieve - Javier Castillo</title>
+                <description>Esta semana, como lo había mencionado Any en el episodio anterior, traemos una combinación de libro y serie del autor Javier Castillo. Y comentamos nuestras impresiones sobre la novela.
+Feed: https://feeds.simplecast.com/Ls3L1Ojk</description>
                 
                 
-                <link>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-brian-jones-the-real-stone-20230227_2192399</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rockfm-cdnmed.agilecontent.com/resources/mp3/5/6/1677494319965.mp3"/>
-                <guid>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-brian-jones-the-real-stone-20230227_2192399</guid>
+                <link>https://mentesliterales.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/0cc4690d-0899-463d-9bd6-b02c19a11833/episodes/a933d274-1d4f-4a38-8708-0f39b3f3f2e3/audio/11a68ace-ede0-443a-a881-e335d50ae81b/default_tc.mp3?aid=rss_feed&amp;feed=Ls3L1Ojk"/>
+                <guid>https://mentesliterales.com</guid>
                 
             </item>
         </channel>
