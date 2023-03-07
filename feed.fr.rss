@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 06 Mar 2023 04:25:42 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 07 Mar 2023 04:26:07 +0200</lastBuildDate>
             <item>
-                <title>Episode 81 - La FAQ !</title>
-                <description>&lt;p&gt;Salutations citoyennes et citoyens ! Voici (enfin) notre épisode spécial 5 ans, qui répond à toutes les questions que vous nous avez envoyé ! On y traite de beaucoup de sujets différents : Le making-of des épisodes du podcast, les invités, les objets de collection, l&#39;univers étendu, La 501ème Légion, la SF, Lucasfilm, notre prochain projet de fiction audio, bref...
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/1834_1e7e6c5baea3577304717f426bc38a97.rss</description>
+                <title>Grèves : pourquoi les syndicats sont-ils si puissants en France ?</title>
+                <description>Le 7 mars 2023, l’intersyndicale annonce l’immobilisation du pays suite à plusieurs grèves reconductibles. Écoles fermées, coupures d’électricité ou encore blocage des rails, la France se prépare à un blocage jamais vu depuis 15 ans. Le Président de la CFDT Laurent Bergé ou encore celui de la CGT Philippe Martinez sont devenus de vraies figures de la société. En effet, la France et le syndicalisme sont liés par une histoire commune très particulière...
+Feed: https://feeds.megaphone.fm/BABA2900401712</description>
                 
                 
-                <link>https://www.unfandestarwars.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/1834/228405.mp3?s=202797896"/>
-                <guid>https://www.unfandestarwars.com</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA5094950183.mp3?updated=1677866667"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Votre jardin</title>
-                <description>Votre jardin
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
+                <title>:48 - Nicolas Hernandez - 360Learning : “Si tu entreprends c’est pour faire bouger la société”</title>
+                <description>&lt;p&gt;Co-fondateur de 360Learning, plateforme de formation collaborative, Nicolas Hernandez est un entrepreneur discret. Il ne fuit pas les interviews mais il n’aime pas s’exposer pour dérouler les éléments de langage&amp;nbsp; de son entreprise et encore moins révéler les X raisons de son succès, à la manière d’un post LinkedIn. Il aurait de quoi pourtant : l’entreprise compte près de 500 salariés...
+Feed: https://feeds.acast.com/public/shows/6352aa64fe5138001205d9b3</description>
                 
                 
-                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/282358ed-8374-4a78-ac1c-86a1a1eecaf3/15376-04.03.2023-ITEMA_23306423-2023B20690S0063-21.mp3"/>
-                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
+                <link>https://shows.acast.com/40nuancesdenext/episodes/40ndn-nicolas-hernandez-360-learning</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6352aa64fe5138001205d9b3/e/63e3be0d76a4a400104a51d5/media.mp3"/>
+                <guid>https://shows.acast.com/40nuancesdenext/episodes/40ndn-nicolas-hernandez-360-learning</guid>
                 
             </item>
         </channel>
