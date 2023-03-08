@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 07 Mar 2023 04:26:02 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 08 Mar 2023 04:25:22 +0200</lastBuildDate>
             <item>
-                <title>Berlin bleibt Berlin</title>
-                <description>Wie (die) Union die Hauptstadt gleich zweimal feiern lässt 
-Feed: https://www.regenbogen-gespraeche.de/feed/mp3</description>
+                <title>Das Geheimnis um die höchste Knochendichte deines Lebens</title>
+                <description>In welchem Alter hast du deine höchste Knochendichte und was du tun kannst, um diese zu verbessern
+Feed: https://thefoodtalks.podigee.io/feed/mp3/</description>
                 
                 
-                <link>https://www.regenbogen-gespraeche.de/episode/berlin-bleibt-berlin</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/F68951/https://lcdn.letscast.fm/media/podcast/f348ef34/episode/a00a19ab.mp3?t=1677840566"/>
-                <guid>https://www.regenbogen-gespraeche.de/episode/berlin-bleibt-berlin</guid>
+                <link>https://thefoodtalks.podigee.io/59-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1030678-m-e5c71733ab4fc4912d2986100ac68e01.mp3?source=feed"/>
+                <guid>https://thefoodtalks.podigee.io/59-new-episode</guid>
                 
             </item><item>
-                <title>#68 - Wie in Anime Geld gespart wird | feat. Yorkomo</title>
-                <description>
-Feed: https://drawinglikeasir.libsyn.com/rss</description>
+                <title>Die mit den falschen Beinen</title>
+                <description>Ja, wann kommt er denn endlich, DER Antrag??? Das ist ne gute Frage! :) Samira ist bereit, und ich sage, solange sie mir die Möglichkeiten von der Liste nimmt, wo es sein könnte, wird es sich hinauszögern. ???? Zudem haben wir noch über Themen wie Henriks Ausraster sowie sein Karriereaus, über “Prominent getrennt” und vieles mehr gesprochen - hört rein und seid dabei! ????
+Feed: https://daskleinefernsehballett.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://drawinglikeasir.libsyn.com/68-wie-in-anime-geld-gespart-wird-feat-yorkomo</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/drawinglikeasir/SC68.mp3?dest-id=914021"/>
-                <guid>https://drawinglikeasir.libsyn.com/68-wie-in-anime-geld-gespart-wird-feat-yorkomo</guid>
+                <link>https://daskleinefernsehballett.podigee.io/s1e2-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1031840-m-88af2b65c134491b575558ddf6766c4f.mp3?source=feed"/>
+                <guid>https://daskleinefernsehballett.podigee.io/s1e2-new-episode</guid>
                 
             </item>
         </channel>
