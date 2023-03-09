@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 08 Mar 2023 04:25:29 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 09 Mar 2023 04:25:55 +0200</lastBuildDate>
             <item>
-                <title>Réforme des retraites : que reste-t-il aux opposants ? </title>
-                <description>Réforme des retraites : que reste-t-il aux opposants ? 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10175.xml</description>
+                <title>La question jardin : faut-il tailler les graminées en cette saison ?</title>
+                <description>La question jardin : faut-il tailler les graminées en cette saison ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13652.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/reforme-des-retraites-que-reste-t-il-aux-opposants-8511941</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/e00555d6-a92f-4704-b4c6-db67cfbd716c/10175-06.03.2023-ITEMA_23307687-2023C36267S0065-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/reforme-des-retraites-que-reste-t-il-aux-opposants-8511941</guid>
+                <link>https://www.francebleu.fr/emissions/jardin-terrasse-compagnie/la-question-jardin-faut-il-tailler-les-graminees-en-cette-saison-1490782</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c3c6763b-a9ac-44c3-8636-bbad2292f269/13652-04.03.2023-ITEMA_23306469-2023B22344S0063-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/jardin-terrasse-compagnie/la-question-jardin-faut-il-tailler-les-graminees-en-cette-saison-1490782</guid>
                 
             </item><item>
-                <title>Le 3 minutes du 7 mars 2023</title>
-                <description>Un million de personnes attendues dans les rues de France aujourd&#39;hui pour la sixième journée de mobilisation contre les retraites. En Australie, la banque centrale relève pour la dixième fois consécutive son taux directeur. Et Anthony Albanese voit dans le gaz naturel une solution pour la transition énergétique.
-Feed: https://sbs-ondemand.streamguys1.com/reportages-par-sbs-french/</description>
+                <title>OEC Spécial : Nausicaä de la Vallée du Vent</title>
+                <description>Si l’on connait tous Hayao Miyazaki pour ses superbes films d’animation, on ignore souvent qu’il a fait une brève incursion dans le manga.
+Nausicaä de la Vallée du Vent est une œuvre matrice, qui imprègne tout le travail de Miyazaki, et qui est la base de ses succès.
+One Eye Pied nous en parle au détour de souvenirs sur de vieilles messageries et un magasin de musique Corse...
+Feed: https://oec.lepodcast.fr/rss</description>
                 
                 
-                <link>https://www.sbs.com.au/language/french/fr/podcast-episode/le-3-minutes-du-7-mars-2023/tzoc81047</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-french/20230307175449-french-news-7-mars.mp3?awCollectionId=reportages-par-sbs-french&amp;awGenre=News&amp;awEpisodeId=20230307175449-french-news-7-mars"/>
-                <guid>https://www.sbs.com.au/language/french/fr/podcast-episode/le-3-minutes-du-7-mars-2023/tzoc81047</guid>
+                <link>https://www.lavoixdesbulles.fr/oec-special-nausicaa-de-la-vallee-du-vent/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/oec/oec-special-nausicaa-de-la-vallee-du-vent/enclosure.60efe1cf84d3b36dc957b03e37afa80effde595cef60fe0cb44eecc01f8c9346.mp3?p=f"/>
+                <guid>https://www.lavoixdesbulles.fr/oec-special-nausicaa-de-la-vallee-du-vent/</guid>
                 
             </item>
         </channel>

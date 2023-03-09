@@ -9,31 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 08 Mar 2023 04:25:47 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 09 Mar 2023 04:26:10 +0200</lastBuildDate>
             <item>
-                <title>Modern day urban residential communities</title>
-                <description>On today’s show, we’...
-Feed: https://aezfm.meldingcloud.com/rss/program/11</description>
+                <title>Lanxess-Chef: „Deutschland droht die Deindustrialisierung”</title>
+                <description>Die hohen Energiepreise machen Deutschland als Standort unrentabel. Lanxess-CEO Matthias Zachert im Interview.
+Feed: https://feeds.acast.com/public/shows/7d3e054e-b81e-55e0-8c4d-74027c653416</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/9G554/resezfm.meldingcloud.com/ueditor/audio/2303/1078177133775.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/das-tech-briefing-mit-daniel-fiene-and-gasten/e/63ff72102dee3600117eb29a/media.mp3"/>
                 <guid></guid>
                 
             </item><item>
-                <title>DM-Nastics: Tabled Discussion Vol. 1</title>
-                <description>
-Welcome back to DM-Nastics - the gym for Dungeon Masters to work out their minds!
-Content: Tabled Discussion Vol. 1
-Inspiration: Tables from the DMG
-Light Bulb: Project Black Flag Playtest
-Twitter: @dmnastics DM Neal&#39;s @joatmoniac DM Celeste...
-Feed: https://feed.podbean.com/dungeonmasterblock/feed.xml</description>
+                <title>Building a Better Freelance Marketplace with Simone May of Clutch</title>
+                <description>#51: Co-Founder and CTO, Simone May joins the podcast to discuss her innovative digital marketing freelancing platform, Clutch. Clutch connects businesses who need social media marketing and web design support to college student creators who are able to easily keep up with trends and assist clients meet their marketing goals. Simone breaks down the mission of Clutch, the future of the gig economy, how to make a killer survey, and more! 
+Clutch Links: 
+- https://www.thatsclutch...
+Feed: https://feeds.simplecast.com/y_IjPwmW</description>
                 
                 
-                <link>https://dungeonmasterblock.podbean.com/e/dm-nastics-tabled-discussion-vol-1/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/si7kw7/DMN57-Final.mp3"/>
-                <guid>https://dungeonmasterblock.podbean.com/e/dm-nastics-tabled-discussion-vol-1/</guid>
+                <link>https://startupsavant.com/startup-savant-podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4396ad16-3ca1-4adf-879c-9809a5cab05b/episodes/6fb3cfb9-50cf-4594-bd6a-abc292806a5e/audio/0ed7c1c7-4101-4a65-bb0f-86e8ff129788/default_tc.mp3?aid=rss_feed&amp;feed=y_IjPwmW"/>
+                <guid>https://startupsavant.com/startup-savant-podcast</guid>
                 
             </item>
         </channel>
