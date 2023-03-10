@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 09 Mar 2023 04:25:55 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 10 Mar 2023 04:25:50 +0200</lastBuildDate>
             <item>
-                <title>La question jardin : faut-il tailler les graminées en cette saison ?</title>
-                <description>La question jardin : faut-il tailler les graminées en cette saison ?
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13652.xml</description>
+                <title>Les combats du design</title>
+                <description>Les combats du design
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16260.xml</description>
                 
                 
-                <link>https://www.francebleu.fr/emissions/jardin-terrasse-compagnie/la-question-jardin-faut-il-tailler-les-graminees-en-cette-saison-1490782</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c3c6763b-a9ac-44c3-8636-bbad2292f269/13652-04.03.2023-ITEMA_23306469-2023B22344S0063-21.mp3"/>
-                <guid>https://www.francebleu.fr/emissions/jardin-terrasse-compagnie/la-question-jardin-faut-il-tailler-les-graminees-en-cette-saison-1490782</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/la-suite-dans-les-idees/les-combats-du-design-3158105</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/3acb6a98-a032-4fd3-9f2b-ab3f3149108d/16260-04.03.2023-ITEMA_23306312-2023C6260S0063-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/la-suite-dans-les-idees/les-combats-du-design-3158105</guid>
                 
             </item><item>
-                <title>OEC Spécial : Nausicaä de la Vallée du Vent</title>
-                <description>Si l’on connait tous Hayao Miyazaki pour ses superbes films d’animation, on ignore souvent qu’il a fait une brève incursion dans le manga.
-Nausicaä de la Vallée du Vent est une œuvre matrice, qui imprègne tout le travail de Miyazaki, et qui est la base de ses succès.
-One Eye Pied nous en parle au détour de souvenirs sur de vieilles messageries et un magasin de musique Corse...
-Feed: https://oec.lepodcast.fr/rss</description>
+                <title>La percée des «NatCons», ces conservateurs plus extrêmes que Donald Trump</title>
+                <description>La conférence «CPAC» (Conservative Political Action Conference) est le forum annuel des conservateurs américains depuis 1971. Elle a lieu ce week-end à Washington. C&#39;est d&#39;ailleurs lors de la conférence de 2011 que la carrière politique de Trump a démarré, lui-même présent cette année aux côtés de ses concurrents. Mais ce n&#39;est pourtant pas le seul rassemblement politique de la droite américaine...
+Feed: https://feeds.megaphone.fm/trump2020</description>
                 
                 
-                <link>https://www.lavoixdesbulles.fr/oec-special-nausicaa-de-la-vallee-du-vent/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/oec/oec-special-nausicaa-de-la-vallee-du-vent/enclosure.60efe1cf84d3b36dc957b03e37afa80effde595cef60fe0cb44eecc01f8c9346.mp3?p=f"/>
-                <guid>https://www.lavoixdesbulles.fr/oec-special-nausicaa-de-la-vallee-du-vent/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://gateway.zippycast.io/ssp/f4b9990440954d6cb670d7c8ba475012/traffic.megaphone.fm/SLT6189763013.mp3?updated=1678290276"/>
+                <guid></guid>
                 
             </item>
         </channel>

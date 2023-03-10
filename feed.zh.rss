@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 09 Mar 2023 04:26:10 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 10 Mar 2023 04:26:03 +0200</lastBuildDate>
             <item>
-                <title>Lanxess-Chef: „Deutschland droht die Deindustrialisierung”</title>
-                <description>Die hohen Energiepreise machen Deutschland als Standort unrentabel. Lanxess-CEO Matthias Zachert im Interview.
-Feed: https://feeds.acast.com/public/shows/7d3e054e-b81e-55e0-8c4d-74027c653416</description>
+                <title>Justified by Faith to Bless the World</title>
+                <description>Preacher: Pastor Martin Erhardt
+Genesis 12:1-9; Romans 4:1-8, 13-17; John 3:1-17
+Feed: http://www.princetonlutheranchurch.org/feed/podcast/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/das-tech-briefing-mit-daniel-fiene-and-gasten/e/63ff72102dee3600117eb29a/media.mp3"/>
-                <guid></guid>
+                <link>http://www.princetonlutheranchurch.org/sermons/justified-by-faith-to-bless-the-world/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/princetonlutheranchurch/www.princetonlutheranchurch.org/audio/sermon_230305.mp3"/>
+                <guid>http://www.princetonlutheranchurch.org/sermons/justified-by-faith-to-bless-the-world/</guid>
                 
             </item><item>
-                <title>Building a Better Freelance Marketplace with Simone May of Clutch</title>
-                <description>#51: Co-Founder and CTO, Simone May joins the podcast to discuss her innovative digital marketing freelancing platform, Clutch. Clutch connects businesses who need social media marketing and web design support to college student creators who are able to easily keep up with trends and assist clients meet their marketing goals. Simone breaks down the mission of Clutch, the future of the gig economy, how to make a killer survey, and more! 
-Clutch Links: 
-- https://www.thatsclutch...
-Feed: https://feeds.simplecast.com/y_IjPwmW</description>
+                <title>What would you change about pytest?</title>
+                <description>Anthony Sottile and Brian discuss changes that would be cool for pytest, even unrealistic changes. These are changes we&#39;d make to pytest if we didn&#39;t ahve to care about backwards compatibilty.
+Feed: https://testandcode.com/rss</description>
                 
                 
-                <link>https://startupsavant.com/startup-savant-podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4396ad16-3ca1-4adf-879c-9809a5cab05b/episodes/6fb3cfb9-50cf-4594-bd6a-abc292806a5e/audio/0ed7c1c7-4101-4a65-bb0f-86e8ff129788/default_tc.mp3?aid=rss_feed&amp;feed=y_IjPwmW"/>
-                <guid>https://startupsavant.com/startup-savant-podcast</guid>
+                <link>https://testandcode.com/195</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/bc7f1faf-8aad-4135-bb12-83a8af679756/71604dcf-2f42-4d19-9579-25123445c7b3.mp3"/>
+                <guid>https://testandcode.com/195</guid>
                 
             </item>
         </channel>
