@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 10 Mar 2023 04:26:06 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 11 Mar 2023 04:23:59 +0200</lastBuildDate>
             <item>
-                <title>Talking about Time</title>
-                <description>Is time something truly fundamental to our Universe, or just an illusion?
-Feed: https://www.thenakedscientists.com/rss/naked_astronomy_podcast.xml</description>
+                <title>Quantencomputer: Wissenschaftliches Hirngespinst oder bahnbrechende Technologie?</title>
+                <description>Seit Jahrzehnten gilt der Quantencomputer als eine der vielversprechendsten Zukunftstechnologien. Das Geld fließt, doch wie weit ist die Hardware tatsächlich?
+Feed: https://feeds.acast.com/public/shows/7d3e054e-b81e-55e0-8c4d-74027c653416</description>
                 
                 
-                <link>https://www.thenakedscientists.com/podcasts/astronomy-podcasts/naked-astronomy/talking-about-time</link>
-                <enclosure type="audio/mpeg" length="1" url="https://flex.acast.com/downloads.nakeddiscovery.com/downloads/active/Naked_Astronomy_23.02.25.mp3"/>
-                <guid>https://www.thenakedscientists.com/podcasts/astronomy-podcasts/naked-astronomy/talking-about-time</guid>
+                <link>https://www.thepioneer.de/originals/tech-briefing/podcasts/quantencomputer-wissenschaftliches-hirngespinst-oder-bahnbrechende</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/das-tech-briefing-mit-daniel-fiene-and-gasten/e/6408b813d790480011550f99/media.mp3"/>
+                <guid>https://www.thepioneer.de/originals/tech-briefing/podcasts/quantencomputer-wissenschaftliches-hirngespinst-oder-bahnbrechende</guid>
                 
             </item><item>
-                <title>Ed Hogan Bible Study 3-8-23</title>
-                <description>Genesis 7:1-16
-Feed: https://kp21.podomatic.com/rss2.xml</description>
+                <title>Understanding the New &#39;Middle-Age&#39;</title>
+                <description>We’ve all heard that...
+Feed: https://aezfm.meldingcloud.com/rss/program/11</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/kp21/episodes/2023-03-09T05_29_38-08_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://kp21.podomatic.com/enclosure/2023-03-09T05_29_38-08_00.mp3?_=1678368659.16509540"/>
-                <guid>https://www.podomatic.com/podcasts/kp21/episodes/2023-03-09T05_29_38-08_00</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/9G554/resezfm.meldingcloud.com/ueditor/audio/2303/1078436103092.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 10 Mar 2023 04:26:03 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 11 Mar 2023 04:23:54 +0200</lastBuildDate>
             <item>
-                <title>Justified by Faith to Bless the World</title>
-                <description>Preacher: Pastor Martin Erhardt
-Genesis 12:1-9; Romans 4:1-8, 13-17; John 3:1-17
-Feed: http://www.princetonlutheranchurch.org/feed/podcast/</description>
+                <title>Deleted Scenes: If My Elbows Could Talk They Would Also Hate You (with Julian Bentham)</title>
+                <description>We pitch a movie in which some monsters inc tatto…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:140240683/sounds.rss</description>
                 
                 
-                <link>http://www.princetonlutheranchurch.org/sermons/justified-by-faith-to-bless-the-world/</link>
-                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/princetonlutheranchurch/www.princetonlutheranchurch.org/audio/sermon_230305.mp3"/>
-                <guid>http://www.princetonlutheranchurch.org/sermons/justified-by-faith-to-bless-the-world/</guid>
+                <link>https://soundcloud.com/lifesapitchpodcast/ds-418</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1464960619-lifesapitchpodcast-ds-418.mp3"/>
+                <guid>https://soundcloud.com/lifesapitchpodcast/ds-418</guid>
                 
             </item><item>
-                <title>What would you change about pytest?</title>
-                <description>Anthony Sottile and Brian discuss changes that would be cool for pytest, even unrealistic changes. These are changes we&#39;d make to pytest if we didn&#39;t ahve to care about backwards compatibilty.
-Feed: https://testandcode.com/rss</description>
+                <title>Fire safety at home: How to prevent one of Australia&#39;s deadliest natural hazards</title>
+                <description>Home fire safety goes beyond having smoke alarms installed. In Australia, fatal residential fires are sadly common, despite being preventable. Here’s what you need to know to stop one from breaking out in your home.
+Feed: https://sbs-ondemand.streamguys1.com/settlement-guide/</description>
                 
                 
-                <link>https://testandcode.com/195</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/bc7f1faf-8aad-4135-bb12-83a8af679756/71604dcf-2f42-4d19-9579-25123445c7b3.mp3"/>
-                <guid>https://testandcode.com/195</guid>
+                <link>https://www.sbs.com.au/language/english/en/podcast-episode/fire-safety-at-home-how-to-prevent-one-of-australias-de/779df7851</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/settlement-guide/20230307172432-english-e021ff40-e5d4-4fe0-8f36-0dbddc05ac30.mp3?awCollectionId=settlement-guide&amp;awGenre=Society+and+Culture&amp;awEpisodeId=20230307172432-english-e021ff40-e5d4-4fe0-8f36-0dbddc05ac30"/>
+                <guid>https://www.sbs.com.au/language/english/en/podcast-episode/fire-safety-at-home-how-to-prevent-one-of-australias-de/779df7851</guid>
                 
             </item>
         </channel>

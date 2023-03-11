@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 10 Mar 2023 04:25:54 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 11 Mar 2023 04:23:43 +0200</lastBuildDate>
             <item>
-                <title>Cooming soon</title>
-                <description>The best comedy channel in Latam.
-El mejor Canal de podcast de comedia de Latam muy pronto.
-Feed: https://www.spreaker.com/show/4548059/episodes/feed</description>
+                <title>Icono Dance Edición Numero 26</title>
+                <description>este programa Remember que contiene vocal dance , vocal trance , mel&amp;oacute;dico y bases hard dance , progresivo un programa para vivir el pasado en la actualidad
+Feed: https://www.ivoox.com/podcast-fernando-granizo_fg_f117738_filtro_1.xml</description>
                 
                 
-                <link>https://www.spreaker.com/user/podway/alternative-rocka-race</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/E29D27/api.spreaker.com/download/episode/52953989/bd_house_concert_promoter.mp3"/>
-                <guid>https://www.spreaker.com/user/podway/alternative-rocka-race</guid>
+                <link>https://www.ivoox.com/icono-dance-edicion-numero-26-audios-mp3_rf_104074037_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/icono-dance-edicion-numero-26_mf_104074037_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/icono-dance-edicion-numero-26-audios-mp3_rf_104074037_1.html</guid>
                 
             </item><item>
-                <title>La chica de nieve - Javier Castillo</title>
-                <description>Esta semana, como lo había mencionado Any en el episodio anterior, traemos una combinación de libro y serie del autor Javier Castillo. Y comentamos nuestras impresiones sobre la novela.
-Feed: https://feeds.simplecast.com/Ls3L1Ojk</description>
+                <title>Sicut luna perfecta - DOMINGO IIº de Cuaresma - 05/03/23</title>
+                <description>DOMINGO IIº de Cuaresma
+Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
                 
                 
-                <link>https://mentesliterales.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/0cc4690d-0899-463d-9bd6-b02c19a11833/episodes/a933d274-1d4f-4a38-8708-0f39b3f3f2e3/audio/11a68ace-ede0-443a-a881-e335d50ae81b/default_tc.mp3?aid=rss_feed&amp;feed=Ls3L1Ojk"/>
-                <guid>https://mentesliterales.com</guid>
+                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/domingo-ii-cuaresma-05-03-23/6826687/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SSICUTL/mp3/9/8/1678004244989.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/domingo-ii-cuaresma-05-03-23/6826687/</guid>
                 
             </item>
         </channel>

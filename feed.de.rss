@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 10 Mar 2023 04:25:46 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 11 Mar 2023 04:23:32 +0200</lastBuildDate>
             <item>
-                <title>„Ein kollektives Trauma“ – Monika Hauser über sexualisierte Gewalt im Krieg</title>
-                <description>Wieso kommt es in Kriegsgebieten immer wieder zu Vergewaltigungen? Wie kann man Frauen in der Ukraine jetzt unterstützen und wie lange wirken ihre Traumata nach? Folge 2 des neuen SZ-Podcasts mit Frauenrechtexpertin Monika Hauser.
-Feed: https://sz-in-aller-ruhe.podigee.io/feed/mp3</description>
+                <title>Ted Simon als Gast</title>
+                <description>Eva Strehler, Dieter Schneider un Claudio Gnypek im Gepräch mit Ted Simon
+Feed: https://fellowsride.podcaster.de/fellows-ride-der-podcast.rss</description>
                 
                 
-                <link>https://sz-in-aller-ruhe.podigee.io/3-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1020890-m-9c1217a9586e8d8a643262495a3da780.mp3?source=feed"/>
-                <guid>https://sz-in-aller-ruhe.podigee.io/3-neue-episode</guid>
+                <link>https://fellowsride.podcaster.de/fellows-ride-der-podcast/media/ted_simon.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fellowsride.podcaster.de/fellows-ride-der-podcast/media/ted_simon.mp3"/>
+                <guid>https://fellowsride.podcaster.de/fellows-ride-der-podcast/media/ted_simon.mp3</guid>
                 
             </item><item>
-                <title>Viele, viele bunte Smartnews</title>
-                <description>Eine süße Foto-Tüte - von Weltneuheit über KI-Flüstern, Filmdosensoßen, Neufi als Seufi oder als Queen und viel extra Vorbereitetes für Euch aus dem aktuellen Fotogeschehen
-Feed: https://fotopodcast.de/feed/mp3/</description>
+                <title>#61 Der Mozart des Snooker – Wie Ronnie O‘Sullivan seinen Sport mit Genialität und Wahnsinn auf den Kopf gestellt hat</title>
+                <description>Mit sieben WM-Titeln und zahlreichen Rekorden ist Ronnie O‘Sullivan für viele der beste Snooker-Spieler der Geschichte. Als „Bad Boy“ und „Showman“ wird er von vielen geliebt und von anderen gehasst. Regelmäßig sorgt er für Skandale und legt sich sogar mit dem Weltverband an. Doch seine legendäre Karriere stand einst auf des Messers Schneide. Eine lange Gefängnisstrafe für seinen Vater sowie Alkohol- und Drogenprobleme drohten O‘Sullivan einst aus der Bahn zu werfen...
+Feed: https://4aexrw.podcaster.de/Schattenseiten.rss</description>
                 
                 
-                <link>https://fotopodcast.de/fpc332/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fotopodcast.de/podlove/file/7365/s/feed/c/mp3/fpc332.mp3"/>
-                <guid>https://fotopodcast.de/fpc332/</guid>
+                <link>https://4aexrw.podcaster.de/Schattenseiten/media/Schattenseiten_Folge_61_Final.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://4aexrw.podcaster.de/Schattenseiten/media/Schattenseiten_Folge_61_Final.mp3"/>
+                <guid>https://4aexrw.podcaster.de/Schattenseiten/media/Schattenseiten_Folge_61_Final.mp3</guid>
                 
             </item>
         </channel>
