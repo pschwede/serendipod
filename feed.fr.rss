@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 11 Mar 2023 04:23:37 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 12 Mar 2023 04:23:48 +0200</lastBuildDate>
             <item>
-                <title>« La politisation de la vaccination a toujours posé problème » : à quand remonte le mouvement antivax ?</title>
-                <description>« La politisation de la vaccination a toujours posé problème » : à quand remonte le mouvement antivax ?
-Feed: https://www.europe1.fr/rss/podcasts/au-coeur-de-l-histoire.xml</description>
+                <title>Le potager vertical: un potager qui se tient debout</title>
+                <description>Quand on manque de place, le potager vertical est la manière idéale de maximiser l’espace. C’est aussi une bonne manière d’aménager une terrasse ou un balcon.
+Feed: https://radiolegumes.com/feed/podcast/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.europe1.fr/podcast/mp3/itunes-423534806/4170230/podcast.mp3"/>
-                <guid></guid>
+                <link>https://radiolegumes.com/le-potager-vertical-un-potager-qui-se-tient-debout/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=le-potager-vertical-un-potager-qui-se-tient-debout</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/radoilegumes/content.blubrry.com/radoilegumes/Potager-vertical_podcast.mp3"/>
+                <guid>https://radiolegumes.com/le-potager-vertical-un-potager-qui-se-tient-debout/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=le-potager-vertical-un-potager-qui-se-tient-debout</guid>
                 
             </item><item>
-                <title>On sème FORT ! - La plantation racines nues : c&#39;est un peu tard mais... - Emission du 10 mars</title>
-                <description>Au programme de cette émission : 
-Les timides pluies font du bien à nos jardins ! Sur un sol ressuyé, le jardinier peut planter oignons, ails, échalotes, salades. Dès le 15 mars, en lune ascendante, place aux semis : pois, petits pois et fèves, les pre...
-Feed: https://feed.ausha.co/oRdQLT4qD569</description>
+                <title>SERIES - Que regarder ce week-end ? &#34;Liaison&#34; et &#34;White wall&#34;</title>
+                <description>SERIES - Que regarder ce week-end ? &#34;Liaison&#34; et &#34;White wall&#34;
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20470.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/monjardinbio-podcast-jardinage-bio/on-seme-fort-la-plantation-racines-nues-c-est-un-peu-tard-mais-emission-du-10-mars</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/b3qEAsDrKen8.mp3?t=1678437142"/>
-                <guid>https://podcast.ausha.co/monjardinbio-podcast-jardinage-bio/on-seme-fort-la-plantation-racines-nues-c-est-un-peu-tard-mais-emission-du-10-mars</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/xavier-en-series/leherpeur-en-series-du-vendredi-10-mars-2023-1195832</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/3aa9d2af-5baf-468d-8bdd-b09cca8bdda4/20470-10.03.2023-ITEMA_23312503-2023F36150S0069-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/xavier-en-series/leherpeur-en-series-du-vendredi-10-mars-2023-1195832</guid>
                 
             </item>
         </channel>

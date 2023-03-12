@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 11 Mar 2023 04:23:32 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 12 Mar 2023 04:23:43 +0200</lastBuildDate>
             <item>
-                <title>Ted Simon als Gast</title>
-                <description>Eva Strehler, Dieter Schneider un Claudio Gnypek im Gepräch mit Ted Simon
-Feed: https://fellowsride.podcaster.de/fellows-ride-der-podcast.rss</description>
+                <title>Die Sprache der Tiere</title>
+                <description>In dieser Episode erfährst Du, wie Tiere mit uns im Alltag kommunizieren. Ich stelle Dir vier Arten vor, wie uns die Botschaften erreichen können, erkläre Dir, warum das so möglich ist und gehe auch auf kritische Fragen ein.
+Feed: https://letscast.fm/podcasts/mensch-tier-seele-podcast-cf818755/feed</description>
                 
                 
-                <link>https://fellowsride.podcaster.de/fellows-ride-der-podcast/media/ted_simon.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fellowsride.podcaster.de/fellows-ride-der-podcast/media/ted_simon.mp3"/>
-                <guid>https://fellowsride.podcaster.de/fellows-ride-der-podcast/media/ted_simon.mp3</guid>
+                <link>https://mensch-tier-seele-podcast.letscast.fm/episode/die-sprache-der-tiere</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/ae360ac2/episode/10f10254.mp3?t=1678309341"/>
+                <guid>https://mensch-tier-seele-podcast.letscast.fm/episode/die-sprache-der-tiere</guid>
                 
             </item><item>
-                <title>#61 Der Mozart des Snooker – Wie Ronnie O‘Sullivan seinen Sport mit Genialität und Wahnsinn auf den Kopf gestellt hat</title>
-                <description>Mit sieben WM-Titeln und zahlreichen Rekorden ist Ronnie O‘Sullivan für viele der beste Snooker-Spieler der Geschichte. Als „Bad Boy“ und „Showman“ wird er von vielen geliebt und von anderen gehasst. Regelmäßig sorgt er für Skandale und legt sich sogar mit dem Weltverband an. Doch seine legendäre Karriere stand einst auf des Messers Schneide. Eine lange Gefängnisstrafe für seinen Vater sowie Alkohol- und Drogenprobleme drohten O‘Sullivan einst aus der Bahn zu werfen...
-Feed: https://4aexrw.podcaster.de/Schattenseiten.rss</description>
+                <title>#150 DJI Avata macht Kai Angst (Puls 125) und Stefan nimmt 9-5 Job an (!)</title>
+                <description>Stefan fliegt seelenruhig die Avata und Kai raste…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:402694842/sounds.rss</description>
                 
                 
-                <link>https://4aexrw.podcaster.de/Schattenseiten/media/Schattenseiten_Folge_61_Final.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://4aexrw.podcaster.de/Schattenseiten/media/Schattenseiten_Folge_61_Final.mp3"/>
-                <guid>https://4aexrw.podcaster.de/Schattenseiten/media/Schattenseiten_Folge_61_Final.mp3</guid>
+                <link>https://soundcloud.com/fotografenpodcast/150-dji-avata-macht-kai-angst-puls-125-und-stefan-nimmt-9-5-job-an</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1465118500-fotografenpodcast-150-dji-avata-macht-kai-angst-puls-125-und-stefan-nimmt-9-5-job-an.mp3"/>
+                <guid>https://soundcloud.com/fotografenpodcast/150-dji-avata-macht-kai-angst-puls-125-und-stefan-nimmt-9-5-job-an</guid>
                 
             </item>
         </channel>
