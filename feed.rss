@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 12 Mar 2023 04:23:38 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 13 Mar 2023 04:24:34 +0200</lastBuildDate>
             <item>
-                <title>You Made It Weird #127</title>
-                <description>Pete and Val catch up and get INTO it!
-Feed: https://feeds.feedburner.com/YouMadeItWeird</description>
+                <title>Fire safety at home: How to prevent one of Australia&#39;s deadliest natural hazards</title>
+                <description>Home fire safety goes beyond having smoke alarms installed. In Australia, fatal residential fires are sadly common, despite being preventable. Here’s what you need to know to stop one from breaking out in your home.
+Feed: https://sbs-ondemand.streamguys1.com/settlement-guide/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/TPC8935222304.mp3?updated=1678516842"/>
-                <guid></guid>
+                <link>https://www.sbs.com.au/language/english/en/podcast-episode/fire-safety-at-home-how-to-prevent-one-of-australias-de/779df7851</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/settlement-guide/20230307172432-english-e021ff40-e5d4-4fe0-8f36-0dbddc05ac30.mp3?awCollectionId=settlement-guide&amp;awGenre=Society+and+Culture&amp;awEpisodeId=20230307172432-english-e021ff40-e5d4-4fe0-8f36-0dbddc05ac30"/>
+                <guid>https://www.sbs.com.au/language/english/en/podcast-episode/fire-safety-at-home-how-to-prevent-one-of-australias-de/779df7851</guid>
                 
             </item><item>
-                <title>Quantencomputer: Wissenschaftliches Hirngespinst oder bahnbrechende Technologie?</title>
-                <description>Seit Jahrzehnten gilt der Quantencomputer als eine der vielversprechendsten Zukunftstechnologien. Das Geld fließt, doch wie weit ist die Hardware tatsächlich?
-Feed: https://feeds.acast.com/public/shows/7d3e054e-b81e-55e0-8c4d-74027c653416</description>
+                <title>Adolf Hitler vs Winston Churchill</title>
+                <description>Installed in Downing Street, Churchill arrives with a bang. The Battle of Britain rages in the skies, while the Nazis plot a seaborne invasion across the English Channel. And Hitler extends his network of allies, seeking to bring the Spanish and Japanese strongmen to the table…
+A Noiser production, written by Jeff Dawson.
+Scroll down the Real Dictators feed for episodes on Hitler’s early years and rise to power...
+Feed: https://feeds.megaphone.fm/NSR6187882468</description>
                 
                 
-                <link>https://www.thepioneer.de/originals/tech-briefing/podcasts/quantencomputer-wissenschaftliches-hirngespinst-oder-bahnbrechende</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/das-tech-briefing-mit-daniel-fiene-and-gasten/e/6408b813d790480011550f99/media.mp3"/>
-                <guid>https://www.thepioneer.de/originals/tech-briefing/podcasts/quantencomputer-wissenschaftliches-hirngespinst-oder-bahnbrechende</guid>
+                <link>https://www.noiser.com/realdictators</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/A4EGA9/traffic.megaphone.fm/NSR3370502479.mp3?updated=1676986908"/>
+                <guid>https://www.noiser.com/realdictators</guid>
                 
             </item>
         </channel>

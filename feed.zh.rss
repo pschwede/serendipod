@@ -9,16 +9,16 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 12 Mar 2023 04:24:03 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 13 Mar 2023 04:24:58 +0200</lastBuildDate>
             <item>
-                <title>Home Videos</title>
-                <description>sigh.
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:48039907/sounds.rss</description>
+                <title>What would you change about pytest?</title>
+                <description>Anthony Sottile and Brian discuss changes that would be cool for pytest, even unrealistic changes. These are changes we&#39;d make to pytest if we didn&#39;t ahve to care about backwards compatibilty.
+Feed: https://testandcode.com/rss</description>
                 
                 
-                <link>https://soundcloud.com/theread/home-videos</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/94A5G3/http://feeds.soundcloud.com/stream/1465075855-theread-home-videos.mp3"/>
-                <guid>https://soundcloud.com/theread/home-videos</guid>
+                <link>https://testandcode.com/195</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/bc7f1faf-8aad-4135-bb12-83a8af679756/71604dcf-2f42-4d19-9579-25123445c7b3.mp3"/>
+                <guid>https://testandcode.com/195</guid>
                 
             </item><item>
                 <title>Chicane Presents Sun:Sets Vol 425</title>

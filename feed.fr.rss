@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 12 Mar 2023 04:23:48 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 13 Mar 2023 04:24:43 +0200</lastBuildDate>
             <item>
-                <title>Le potager vertical: un potager qui se tient debout</title>
-                <description>Quand on manque de place, le potager vertical est la manière idéale de maximiser l’espace. C’est aussi une bonne manière d’aménager une terrasse ou un balcon.
-Feed: https://radiolegumes.com/feed/podcast/</description>
+                <title>:49 Pierre-Damien Vaujour - Loft Orbital Solutions : La scaleup NewSpace qui côtoie les étoiles au sens propre comme au figuré</title>
+                <description>&lt;p&gt;C’est la tête dans les étoiles mais le corps en Californie que&amp;nbsp;Pierre-Damien Vaujour s’épanche au micro de 40 Nuances de Next sur l&#39;aventure de Loft Orbital qu’il a co-fondée en 2017.&amp;nbsp;Un pied à Toulouse, l’autre à San Francisco, la jeune entreprise opère des satellites&amp;nbsp;afin de rendre l’espace plus accessible aux entreprises...
+Feed: https://feeds.acast.com/public/shows/6352aa64fe5138001205d9b3</description>
                 
                 
-                <link>https://radiolegumes.com/le-potager-vertical-un-potager-qui-se-tient-debout/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=le-potager-vertical-un-potager-qui-se-tient-debout</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/radoilegumes/content.blubrry.com/radoilegumes/Potager-vertical_podcast.mp3"/>
-                <guid>https://radiolegumes.com/le-potager-vertical-un-potager-qui-se-tient-debout/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=le-potager-vertical-un-potager-qui-se-tient-debout</guid>
+                <link>https://shows.acast.com/40nuancesdenext/episodes/49-pierre-damien-vaujour-loft-orbital-solutions</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6352aa64fe5138001205d9b3/e/6400d397a4bfa0001114d695/media.mp3"/>
+                <guid>https://shows.acast.com/40nuancesdenext/episodes/49-pierre-damien-vaujour-loft-orbital-solutions</guid>
                 
             </item><item>
-                <title>SERIES - Que regarder ce week-end ? &#34;Liaison&#34; et &#34;White wall&#34;</title>
-                <description>SERIES - Que regarder ce week-end ? &#34;Liaison&#34; et &#34;White wall&#34;
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20470.xml</description>
+                <title>Podcast Elbakin.net n°93 : l&#39;édition et les IA</title>
+                <description>Un sujet d&#39;actualité, pour le moins !Et preuve que celle-ci ne s&#39;arrête jamais et va très vite, l...
+Feed: https://elbakin.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/xavier-en-series/leherpeur-en-series-du-vendredi-10-mars-2023-1195832</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/3aa9d2af-5baf-468d-8bdd-b09cca8bdda4/20470-10.03.2023-ITEMA_23312503-2023F36150S0069-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/xavier-en-series/leherpeur-en-series-du-vendredi-10-mars-2023-1195832</guid>
+                <link>https://www.podomatic.com/podcasts/elbakin/episodes/2023-02-26T23_39_33-08_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://elbakin.podomatic.com/enclosure/2023-02-26T23_39_33-08_00.mp3?_=1677483586.16495210"/>
+                <guid>https://www.podomatic.com/podcasts/elbakin/episodes/2023-02-26T23_39_33-08_00</guid>
                 
             </item>
         </channel>
