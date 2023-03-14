@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 13 Mar 2023 04:24:39 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 14 Mar 2023 04:25:00 +0200</lastBuildDate>
             <item>
-                <title>Damian Hardung über New York, &#34;Unsere wunderbaren Jahre&#34; und Klimaproteste - Interview</title>
-                <description>Marc Linten spricht mit Schauspieler Damian Hardung über die zweite Staffel „Unsere wunderbaren Jahre“, Drehbücher lesen auf hoher See, New York City, Klimaproteste, Handyhintergründe und vieles mehr.+++++++++++++++++++&#34;Unsere wunderbaren Jahre&#34; seht ihr am 11.03.2023,15.03.2023 und 22.03.2023 jeweils um 20:15 Uhr im Ersten und schon ab dem 04.03.2023 in der ARD-MediathekZur Serie: https://www.ardmediathek...
-Feed: http://rss.castbox.fm/everest/76226a4bbb7c4a36bc62161a1fd4468d.xml</description>
+                <title>1 Jahr Krieg: Reise ins versehrte Land</title>
+                <description>Wie ist der Zustand der Ukraine heute – ein Jahr nach Kriegsbeginn? Im Podcast erzählt unser Korrespondent Ivo Mijnssen von seinen Eindrücken und Begegnungen auf seiner sechsten Reise in das kriegsversehrte Land. 
+Weitere Informationen zum Thema: https://www.nzz.ch/international/ukraine-krieg-welle-von-verletzten-und-traumatisierten-soldaten-ld.1727067
+Hörerinnen und Hörer von «NZZ Akzent» lesen die NZZ online oder in gedruckter Form drei Monate lang zum Preis von einem Monat. Zum Angebot: nzz...
+Feed: https://akzent.podigee.io/feed/mp3</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://s3.castbox.fm/89/87/16/c07bbf49b887a96fbc705e90fe.mp3"/>
-                <guid></guid>
+                <link>https://akzent.podigee.io/734-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1045385-m-da59fb97bc27d882430244601fc7c87f.mp3?source=feed"/>
+                <guid>https://akzent.podigee.io/734-new-episode</guid>
                 
             </item><item>
-                <title>Expertengespräch zu EUV-Lithografie | Bit-Rauschen 2023/5</title>
-                <description>Mit Dr. Peter Kürz und Christof Windeck
-Feed: https://bit-rauschen.podigee.io/feed/mp3</description>
+                <title>#295 Die rechtlich saubere Folge</title>
+                <description>
+Feed: http://ungeschnittenewahrheit.de/feed/podcast</description>
                 
                 
-                <link>https://bit-rauschen.podigee.io/57-expertengesprach-zu-euv-lithografie-bit-rauschen-20235</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1028407-m-0d4b79f5108cf758a8b1af23dc26efb9.mp3?source=feed"/>
-                <guid>https://bit-rauschen.podigee.io/57-expertengesprach-zu-euv-lithografie-bit-rauschen-20235</guid>
+                <link>http://ungeschnittenewahrheit.de/podcast/295-die-rechtlich-saubere-folge/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://ungeschnittenewahrheit.de/podcast-download/374/295-die-rechtlich-saubere-folge.mp3"/>
+                <guid>http://ungeschnittenewahrheit.de/podcast/295-die-rechtlich-saubere-folge/</guid>
                 
             </item>
         </channel>

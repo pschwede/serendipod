@@ -9,28 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 13 Mar 2023 04:24:58 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 14 Mar 2023 04:25:16 +0200</lastBuildDate>
             <item>
-                <title>What would you change about pytest?</title>
-                <description>Anthony Sottile and Brian discuss changes that would be cool for pytest, even unrealistic changes. These are changes we&#39;d make to pytest if we didn&#39;t ahve to care about backwards compatibilty.
-Feed: https://testandcode.com/rss</description>
+                <title>Adolf Hitler vs Winston Churchill</title>
+                <description>Installed in Downing Street, Churchill arrives with a bang. The Battle of Britain rages in the skies, while the Nazis plot a seaborne invasion across the English Channel. And Hitler extends his network of allies, seeking to bring the Spanish and Japanese strongmen to the table…
+A Noiser production, written by Jeff Dawson.
+Scroll down the Real Dictators feed for episodes on Hitler’s early years and rise to power...
+Feed: https://feeds.megaphone.fm/NSR6187882468</description>
                 
                 
-                <link>https://testandcode.com/195</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/bc7f1faf-8aad-4135-bb12-83a8af679756/71604dcf-2f42-4d19-9579-25123445c7b3.mp3"/>
-                <guid>https://testandcode.com/195</guid>
+                <link>https://www.noiser.com/realdictators</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/A4EGA9/traffic.megaphone.fm/NSR3370502479.mp3?updated=1676986908"/>
+                <guid>https://www.noiser.com/realdictators</guid>
                 
             </item><item>
-                <title>Chicane Presents Sun:Sets Vol 425</title>
-                <description>
-From the originator of Trance, Chicane presents Sunsets, a monthly series of tracks that lead straight from the beach to the dancefloor. Chill to kill. Produced by www.thisisdistorted.com          
-          &lt;br /&gt;&lt;br /&gt;1. Cephas Azariah - Humility&lt;br /&gt;2. Long Arm - Perfect Morning (Dday One remix)&lt;br /&gt;3. Mirrored - Stand Still&lt;br /&gt;4. Jessica Mazin - Never Let Me Down Again (Taken from The Last of Us TV series)&lt;br /&gt;5. Pete Gooding &amp; Jonathan Cowan - Mirage (Ambient Mix)&lt;br /&gt;6...
-Feed: https://feeds.feedburner.com/ChicanePresentsSunsets</description>
+                <title>Guyon Espiner: Mastering the art of the interview</title>
+                <description>&lt;p&gt;On this episode of Between Two Beers we talk to Guyon Espiner. &lt;/p&gt;
+&lt;p&gt;Guyon is one of New Zealand’s most highly respected journalists and has worked in print, radio and television for more than 20 years, as a reporter, political editor and anchor. &lt;/p&gt;
+&lt;p&gt;He has reported on trade from China, on war from Afghanistan, on politics from Washington, and on climate change from Antarctica...
+Feed: https://www.omnycontent.com/d/playlist/7784f840-c291-422a-924b-ad9000bbad71/2f38f636-61c1-4693-97e7-ae2800029307/ee7ff994-b453-4ef5-a328-ae280002931a/podcast.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.thisisdistorted.com/repository/audio/episodes/Chicane_425_192k-1678446394160604719-MzYyMTktODc0MjkwNjI=.mp3"/>
-                <guid></guid>
+                <link>https://omny.fm/shows/between-two-beers-podcast/guyon-espiner-mastering-the-art-of-the-interview</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/traffic.omny.fm/d/clips/7784f840-c291-422a-924b-ad9000bbad71/2f38f636-61c1-4693-97e7-ae2800029307/252bd6d5-ef6d-43cd-8e8c-afc30001d140/audio.mp3?utm_source=Podcast&amp;in_playlist=ee7ff994-b453-4ef5-a328-ae280002931a"/>
+                <guid>https://omny.fm/shows/between-two-beers-podcast/guyon-espiner-mastering-the-art-of-the-interview</guid>
                 
             </item>
         </channel>
