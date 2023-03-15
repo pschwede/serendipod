@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 14 Mar 2023 04:25:04 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 15 Mar 2023 04:24:40 +0200</lastBuildDate>
             <item>
-                <title>131 - 4 clefs pour te libérer de la loyauté toxique (et retrouver ta liberté personnelle).</title>
-                <description>Et si tu comprenais qu&#39;en étant loyal à tout le monde (ta famille, tes amis, la société,...), tu t&#39;emprisonnes dans une prison qui rend malheureux.
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/54_30992b45a07b6164e23dd005ea57f08c.rss</description>
+                <title>Episode 99 : Disparition inquiétante </title>
+                <description>Julien Cernobori rencontre Martine, la mère de sa voisine Alice Lobel dans un café de la rue Baillou. A-t-elle connu la victime et où était-elle le jour où sa voisine d’en face a été assassinée ?
+CERNO est un podcast créé par Julien Cernobori
+Reportage, montage, réalisation et mixage : Julien Cernobori
+Assistant : Pierre Mouchel
+Musique originale : Théo Boulenger
+Vous pouvez consulter notre politique de confidentialité sur https://art19...
+Feed: https://rss.art19.com/cerno</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/131-4-clefs-pour-te-liberer-de-la-loyaute-toxique-et-retrouver-ta-liberte-personnelle-229244/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/54/229244.mp3?s=18814954"/>
-                <guid>https://www.podcastics.com/podcast/episode/131-4-clefs-pour-te-liberer-de-la-loyaute-toxique-et-retrouver-ta-liberte-personnelle-229244/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/b93df749-7994-46b5-bb26-20785bbb7799.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Les criquets crinqués : 03/13/2023 21:00</title>
-                <description>653-284445
-Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
+                <title>Session live à CISM : 03/09/2023 19:00</title>
+                <description>736-284179
+Feed: http://podcast.cism893.ca/radioshows/736/feed_itunes.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/284445.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/284445.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/284445.mp3</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/284179.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/284179.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/284179.mp3</guid>
                 
             </item>
         </channel>

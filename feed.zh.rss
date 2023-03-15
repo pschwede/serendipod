@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 14 Mar 2023 04:25:16 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 15 Mar 2023 04:24:56 +0200</lastBuildDate>
             <item>
-                <title>Adolf Hitler vs Winston Churchill</title>
-                <description>Installed in Downing Street, Churchill arrives with a bang. The Battle of Britain rages in the skies, while the Nazis plot a seaborne invasion across the English Channel. And Hitler extends his network of allies, seeking to bring the Spanish and Japanese strongmen to the table…
-A Noiser production, written by Jeff Dawson.
-Scroll down the Real Dictators feed for episodes on Hitler’s early years and rise to power...
-Feed: https://feeds.megaphone.fm/NSR6187882468</description>
+                <title>Challenging the Empire</title>
+                <description>“Judgment” 20th-anniversary reflections. We discuss how the story revisits The Undiscovered Country, works to maintain continuity, and challenges the concept of Klingon society.
+Feed: https://warpfive.libsyn.com/rss</description>
                 
                 
-                <link>https://www.noiser.com/realdictators</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/A4EGA9/traffic.megaphone.fm/NSR3370502479.mp3?updated=1676986908"/>
-                <guid>https://www.noiser.com/realdictators</guid>
+                <link>http://www.trek.fm/warp-five/246</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/warpfive/wf-246.mp3?dest-id=197504"/>
+                <guid>http://www.trek.fm/warp-five/246</guid>
                 
             </item><item>
-                <title>Guyon Espiner: Mastering the art of the interview</title>
-                <description>&lt;p&gt;On this episode of Between Two Beers we talk to Guyon Espiner. &lt;/p&gt;
-&lt;p&gt;Guyon is one of New Zealand’s most highly respected journalists and has worked in print, radio and television for more than 20 years, as a reporter, political editor and anchor. &lt;/p&gt;
-&lt;p&gt;He has reported on trade from China, on war from Afghanistan, on politics from Washington, and on climate change from Antarctica...
-Feed: https://www.omnycontent.com/d/playlist/7784f840-c291-422a-924b-ad9000bbad71/2f38f636-61c1-4693-97e7-ae2800029307/ee7ff994-b453-4ef5-a328-ae280002931a/podcast.rss</description>
+                <title>Rituals: Our anchors in a changing world</title>
+                <description>Why rituals and ceremonies enthral us and endure through the ages
+Feed: https://podcasts.files.bbci.co.uk/p004kln9.rss</description>
                 
                 
-                <link>https://omny.fm/shows/between-two-beers-podcast/guyon-espiner-mastering-the-art-of-the-interview</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/traffic.omny.fm/d/clips/7784f840-c291-422a-924b-ad9000bbad71/2f38f636-61c1-4693-97e7-ae2800029307/252bd6d5-ef6d-43cd-8e8c-afc30001d140/audio.mp3?utm_source=Podcast&amp;in_playlist=ee7ff994-b453-4ef5-a328-ae280002931a"/>
-                <guid>https://omny.fm/shows/between-two-beers-podcast/guyon-espiner-mastering-the-art-of-the-interview</guid>
+                <link>http://www.bbc.co.uk/programmes/w3ct38tt</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0f4hk8y.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/w3ct38tt</guid>
                 
             </item>
         </channel>

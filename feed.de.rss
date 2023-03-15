@@ -9,28 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 14 Mar 2023 04:25:00 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 15 Mar 2023 04:24:34 +0200</lastBuildDate>
             <item>
-                <title>1 Jahr Krieg: Reise ins versehrte Land</title>
-                <description>Wie ist der Zustand der Ukraine heute – ein Jahr nach Kriegsbeginn? Im Podcast erzählt unser Korrespondent Ivo Mijnssen von seinen Eindrücken und Begegnungen auf seiner sechsten Reise in das kriegsversehrte Land. 
-Weitere Informationen zum Thema: https://www.nzz.ch/international/ukraine-krieg-welle-von-verletzten-und-traumatisierten-soldaten-ld.1727067
-Hörerinnen und Hörer von «NZZ Akzent» lesen die NZZ online oder in gedruckter Form drei Monate lang zum Preis von einem Monat. Zum Angebot: nzz...
-Feed: https://akzent.podigee.io/feed/mp3</description>
+                <title>Auf der Suche nach Hilfe</title>
+                <description>Ein Blick auf die Unterstützungsstrukturen für Kinder aus suchtbelasteten Familien
+Feed: https://freiheitohnedruck.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://akzent.podigee.io/734-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1045385-m-da59fb97bc27d882430244601fc7c87f.mp3?source=feed"/>
-                <guid>https://akzent.podigee.io/734-new-episode</guid>
+                <link>https://freiheitohnedruck.podigee.io/155-auf-der-suche-nach-hilfe</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1043742-m-c2b6dc2cba283eeea901d91d9ed7b8d6.mp3?source=feed"/>
+                <guid>https://freiheitohnedruck.podigee.io/155-auf-der-suche-nach-hilfe</guid>
                 
             </item><item>
-                <title>#295 Die rechtlich saubere Folge</title>
-                <description>
-Feed: http://ungeschnittenewahrheit.de/feed/podcast</description>
+                <title>#137: Frauen bei der Bundeswehr</title>
+                <description>Seit mehr als 20 Jahren dürfen Soldatinnen in allen Laufbahnen und Bereichen der Bundeswehr dienen – ohne Einschränkungen, wie es sie zuvor gab. In der aktuellen Funkkreis-Folge ziehen drei Frauen ein Resümee ihrer Dienstzeit in den Streitkräften.
+Hier geht es zur Playlist auf YouTube: https://www.youtube.com/playlist?list=PLRoiDADf6lifkXsypSwfjQxrOrNIVyJ0L
+Wenn ihr Fragen oder Themenvorschläge habt, schreibt uns: podcast@bundeswehr.org
+
+Feed: https://mdswqr.podcaster.de/Funkkreis-Podcast-der-Bundeswehr.rss</description>
                 
                 
-                <link>http://ungeschnittenewahrheit.de/podcast/295-die-rechtlich-saubere-folge/</link>
-                <enclosure type="audio/mpeg" length="1" url="http://ungeschnittenewahrheit.de/podcast-download/374/295-die-rechtlich-saubere-folge.mp3"/>
-                <guid>http://ungeschnittenewahrheit.de/podcast/295-die-rechtlich-saubere-folge/</guid>
+                <link>https://www.bundeswehr.de/de/aktuelles/meldungen/podcast-frauen-bundeswehr-5592760</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mdswqr.podcaster.de/Funkkreis-Podcast-der-Bundeswehr/media/Frauen_bei_der_Bundeswehr_Funkkreis_-20LUFS_-6dbTP_v3.mp3"/>
+                <guid>https://www.bundeswehr.de/de/aktuelles/meldungen/podcast-frauen-bundeswehr-5592760</guid>
                 
             </item>
         </channel>
