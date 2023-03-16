@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 15 Mar 2023 04:24:40 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 16 Mar 2023 04:24:37 +0200</lastBuildDate>
             <item>
-                <title>Episode 99 : Disparition inquiétante </title>
-                <description>Julien Cernobori rencontre Martine, la mère de sa voisine Alice Lobel dans un café de la rue Baillou. A-t-elle connu la victime et où était-elle le jour où sa voisine d’en face a été assassinée ?
-CERNO est un podcast créé par Julien Cernobori
-Reportage, montage, réalisation et mixage : Julien Cernobori
-Assistant : Pierre Mouchel
-Musique originale : Théo Boulenger
-Vous pouvez consulter notre politique de confidentialité sur https://art19...
-Feed: https://rss.art19.com/cerno</description>
+                <title>11. SOLO - [V. longue] L&#39;intolérance à l&#39;histamine</title>
+                <description>Dans les bourrasques de mes apprentissages
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/4299_7d3d1bf9646a032553a8637356ef7209.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/b93df749-7994-46b5-bb26-20785bbb7799.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://www.podcastics.com/podcast/episode/11-solo-v-longue-lintolerance-a-lhistamine-230020/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/4299/230020.mp3?s=31396278"/>
+                <guid>https://www.podcastics.com/podcast/episode/11-solo-v-longue-lintolerance-a-lhistamine-230020/</guid>
                 
             </item><item>
-                <title>Session live à CISM : 03/09/2023 19:00</title>
-                <description>736-284179
-Feed: http://podcast.cism893.ca/radioshows/736/feed_itunes.xml</description>
+                <title>London café : 03/14/2023 20:00</title>
+                <description>665-284515
+Feed: http://podcast.cism893.ca/radioshows/665/feed_itunes.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/284179.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/284179.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/284179.mp3</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/284515.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/284515.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/284515.mp3</guid>
                 
             </item>
         </channel>

@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 15 Mar 2023 04:24:34 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 16 Mar 2023 04:24:31 +0200</lastBuildDate>
             <item>
-                <title>Auf der Suche nach Hilfe</title>
-                <description>Ein Blick auf die Unterstützungsstrukturen für Kinder aus suchtbelasteten Familien
-Feed: https://freiheitohnedruck.podigee.io/feed/mp3</description>
-                
-                
-                <link>https://freiheitohnedruck.podigee.io/155-auf-der-suche-nach-hilfe</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1043742-m-c2b6dc2cba283eeea901d91d9ed7b8d6.mp3?source=feed"/>
-                <guid>https://freiheitohnedruck.podigee.io/155-auf-der-suche-nach-hilfe</guid>
-                
-            </item><item>
                 <title>#137: Frauen bei der Bundeswehr</title>
                 <description>Seit mehr als 20 Jahren dürfen Soldatinnen in allen Laufbahnen und Bereichen der Bundeswehr dienen – ohne Einschränkungen, wie es sie zuvor gab. In der aktuellen Funkkreis-Folge ziehen drei Frauen ein Resümee ihrer Dienstzeit in den Streitkräften.
 Hier geht es zur Playlist auf YouTube: https://www.youtube.com/playlist?list=PLRoiDADf6lifkXsypSwfjQxrOrNIVyJ0L
@@ -32,6 +22,16 @@ Feed: https://mdswqr.podcaster.de/Funkkreis-Podcast-der-Bundeswehr.rss</descript
                 <link>https://www.bundeswehr.de/de/aktuelles/meldungen/podcast-frauen-bundeswehr-5592760</link>
                 <enclosure type="audio/mpeg" length="1" url="https://mdswqr.podcaster.de/Funkkreis-Podcast-der-Bundeswehr/media/Frauen_bei_der_Bundeswehr_Funkkreis_-20LUFS_-6dbTP_v3.mp3"/>
                 <guid>https://www.bundeswehr.de/de/aktuelles/meldungen/podcast-frauen-bundeswehr-5592760</guid>
+                
+            </item><item>
+                <title>In der Warteschleife - Der lange Weg zur Einbürgerung</title>
+                <description>&lt;br clear=&#34;all&#34;/&gt;&lt;br/&gt;Hennen, Claidia&lt;br/&gt;www.deutschlandfunk.de, Das Wochenendjournal&lt;br/&gt;Direkter Link zur Audiodatei&lt;br/&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+Feed: https://www.deutschlandfunk.de/podcast-das-wochenendjournal-100.xml</description>
+                
+                
+                <link>https://www.deutschlandfunk.de/in-der-warteschleife-der-lange-weg-zur-einbuergerung-dlf-7319cde7-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2023/03/04/in_der_warteschleife_der_lange_weg_zur_einbuergerung_dlf_20230304_0910_7319cde7.mp3?refId=podcast-das-wochenendjournal-100"/>
+                <guid>https://www.deutschlandfunk.de/in-der-warteschleife-der-lange-weg-zur-einbuergerung-dlf-7319cde7-100.html</guid>
                 
             </item>
         </channel>
