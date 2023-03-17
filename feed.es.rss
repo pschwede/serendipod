@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 16 Mar 2023 04:24:43 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 17 Mar 2023 04:24:36 +0200</lastBuildDate>
             <item>
-                <title>96: Mi hogar</title>
-                <description>Un episodio sobre mudanzas y la aventura de encontrar un lugar que podamos llamar hogar 
-Feed: https://www.easyspanish.fm/rss</description>
+                <title>Meditación Paz Interior Zen  |10 minutos | Encuentra tu paz interior</title>
+                <description>Paz Interior Zen. Con esta meditación zen conseguirás encontrar tu paz interior. Realiza esta meditación cuando quieras conectar con el momento presente y presenciar el milagro del aquí y ahora.
+Feed: https://feeds.megaphone.fm/metaconciencia</description>
                 
                 
-                <link>https://www.easyspanish.fm/96</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G7F34G/aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/232d7b27-b85c-4768-96a5-f74576e71399.mp3"/>
-                <guid>https://www.easyspanish.fm/96</guid>
+                <link>https://metaconciencia.es/audio/paz-interior-zen/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/op3.dev/e/chrt.fm/track/647351/pdcn.co/e/mgln.ai/track/traffic.megaphone.fm/META5412771772.mp3?updated=1677191862"/>
+                <guid>https://metaconciencia.es/audio/paz-interior-zen/</guid>
                 
             </item><item>
-                <title>Trópico utópico - Meio de campo - 15/03/23</title>
-                <description>Meio de campo
-Feed: http://api.rtve.es/api/programas/2096/audios.rss</description>
+                <title>El Caballero De La Armadura Oxidada Notas del capítulo</title>
+                <description>El Caballero De La Armadura Oxidada
+El Caballero De La Armadura Oxidada Notas del capítulo
+&#34;El caballero de la armadura oxidada&#34; es una fábula sobre un caballero que se obsesiona tanto con su armadura y la imagen que presenta al mundo que se olvida de quién es en realidad. La historia sigue al caballero en un viaje de autodescubrimiento mientras intenta quitarse la armadura y aprender a vivir como su verdadero yo...
+Feed: https://kxcddo.podcaster.de/bookey-es.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/tropico-utopico/meio-campo-15-03-23/6834569/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_STROPI/mp3/8/3/1678862145738.mp3"/>
-                <guid>https://www.rtve.es/play/audios/tropico-utopico/meio-campo-15-03-23/6834569/</guid>
+                <link>https://www.bookey.app/es/book/el-caballero-de-la-armadura-oxidada</link>
+                <enclosure type="audio/mpeg" length="1" url="https://kxcddo.podcaster.de/bookey-es/media/The_Knight_in_Rusty_Armor.mp3"/>
+                <guid>https://www.bookey.app/es/book/el-caballero-de-la-armadura-oxidada</guid>
                 
             </item>
         </channel>
