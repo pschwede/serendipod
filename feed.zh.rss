@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 17 Mar 2023 04:24:46 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 Mar 2023 04:23:09 +0200</lastBuildDate>
             <item>
-                <title>Love In War with Esther Perel: Ukraine</title>
-                <description> Esther counsels a couple torn apart by the war in Ukraine. 
-Feed: https://feeds.megaphone.fm/ep-wswb</description>
+                <title>Episode 269: Atiwa and Thematic Mechanisms</title>
+                <description>Atiwa and Thematic Mechanisms
+Feed: http://cdn.thesecretcabal.com/scpodcast.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/traffic.megaphone.fm/VMP2612026687.mp3?updated=1678544100"/>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/thesecretcabalgamingpodcast/269SecretCabalGamingPodcast.mp3"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Further down the Spiral of Delta Green with Brendan Carrion</title>
-                <description>Richie Reunites with Brendan Carrion to catch up with what he has been up too.  They talk mostly about Delta Green and other rpg hi-jinks .
- 
-More Full Metal RPGhttps://linktr.ee/fullmetalrpg
-Feed: https://feed.podbean.com/fullmetalrpg/feed.xml</description>
+                <title>You Were Washed</title>
+                <description>Week 1 of 4
+Feed: https://feeds.feedburner.com/ccjpodcast</description>
                 
                 
-                <link>https://fullmetalrpg.podbean.com/e/further-down-the-spiral-of-delta-green-with-brendan-carrion/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/bhqixr/S5E5.mp3"/>
-                <guid>https://fullmetalrpg.podbean.com/e/further-down-the-spiral-of-delta-green-with-brendan-carrion/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvSFRRUVhaL2ZlY2UzMjE2LWZhNDMtNDgyMi05Y2Q3LTJkMmE0NjRjMGViMi9hdWRpby5tcDM.mp3?k=HTQQXZ&amp;s=3&amp;sapid=bgdhp7x"/>
+                <guid></guid>
                 
             </item>
         </channel>

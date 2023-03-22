@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 17 Mar 2023 04:24:21 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 Mar 2023 04:22:42 +0200</lastBuildDate>
             <item>
-                <title>Paranormal Investigations: New Orleans</title>
-                <description>&lt;p&gt;My special guest is paranormal investigator Daena Smoller who&#39;s here to discuss her experiences working alongside one of the most revered investigators in New Orleans. &lt;/p&gt;
-&lt;p&gt;Visit Her Website&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;IMPORTANT: Due to some issues our team had to deal with on the backend we unfortunately had to pull hundreds of episodes at the end of last year. However, now that those issues are being resolved we&#39;re releasing NEW and putting our older episodes out again for your enjoyment...
-Feed: https://www.omnycontent.com/d/playlist/f26597bc-e96c-45b7-9b72-aebd00e4e1c7/78e708eb-c973-4ec4-8a9b-af9001734897/d2b0c967-f876-4efb-a1d9-af90017348c1/podcast.rss</description>
+                <title>Percy Pursglove</title>
+                <description>Trumpeter Percy Pursglove interviewed by Pablo Held
+Feed: https://pabloheldinvestigates.com/feed/podcast/</description>
                 
                 
-                <link>https://www.mysteriousradio.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/f26597bc-e96c-45b7-9b72-aebd00e4e1c7/78e708eb-c973-4ec4-8a9b-af9001734897/d72949fc-ce17-497f-b8fd-afc70034f0bb/audio.mp3?utm_source=Podcast&amp;in_playlist=d2b0c967-f876-4efb-a1d9-af90017348c1"/>
-                <guid>https://www.mysteriousradio.com</guid>
+                <link>https://pabloheldinvestigates.com/percy-pursglove/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://storage.googleapis.com/phi_podcast_episodes/PHI-079-Percy_Pursglove.mp3"/>
+                <guid>https://pabloheldinvestigates.com/percy-pursglove/</guid>
                 
             </item><item>
-                <title>AI Augmented Testing with Avinash Tiwari</title>
-                <description>Today I wanted to share a popular webinar we recently had with Avinash Tiwari on AI Augmented Testing for Digital Apps. If you don&#39;t know, Avanash is a renowned thought leader, sought-after keynote speaker, and co-founder of pCloudy.com. He has 20+...
-Feed: https://testtalks.libsyn.com/rss</description>
+                <title>Elephant in the room with Jamie Lynne</title>
+                <description>Scheana and Jamie chat about all that has transpired over the last week.     They begin with a “would you rather” game to ease into more difficult topics but the game leads to a revealing conversation about one of Scheana’s...
+Feed: https://scheananiganswithscheanashay.libsyn.com/rss</description>
                 
                 
-                <link>https://testtalks.libsyn.com/ai-augmented-testing-with-avinash-tiwari</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/testtalks/tgaAvinashTiwariAIAugmentedTesting440-auphonic.mp3?dest-id=184057"/>
-                <guid>https://testtalks.libsyn.com/ai-augmented-testing-with-avinash-tiwari</guid>
+                <link>https://scheananiganswithscheanashay.libsyn.com/elephant-in-the-room-with-jamie-lynne</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/scheananiganswithscheanashay/Scheana_jamie_031723_Final.mp3?dest-id=2951063"/>
+                <guid>https://scheananiganswithscheanashay.libsyn.com/elephant-in-the-room-with-jamie-lynne</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 17 Mar 2023 04:24:31 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 Mar 2023 04:22:53 +0200</lastBuildDate>
             <item>
-                <title>Apollonia Poilâne, la boulangère opiniâtre</title>
-                <description>&lt;p&gt;&lt;strong&gt;Abonnez-vous&lt;/strong&gt; ???? https://linktr.ee/elleatable&lt;/p&gt;&lt;br&gt;&lt;p&gt;Il était une fois une marque qui, comme Chanel ou Hermès, évoque au travers du monde le savoir-faire artisanal et l’excellence à la française. Loin de l’univers de la maroquinerie ou de la mode, il s’agit d’un pain d’environ 2 kilos à la mie bistrée et à la saveur acidulée. Ses miches uniques sont quotidiennement expédiées aux quatre coins du monde depuis la manufacture située non loin de Paris...
-Feed: https://feeds.acast.com/public/shows/0d29c383-2235-4bd3-8512-05491d7d1626</description>
+                <title>#288 Noé, du déluge à l&#39;Alliance (8) La vigne et les fils Gn 9,18-10,32</title>
+                <description>Le déluge est à jamais fini, et commence une autre aventure, ou plutôt mésaventure, pour notre héros. Ces versets sont, en quelque sorte, l’épilogue de l’histoire. 
+NOTES
+- Podcast :...
+Feed: https://www.spreaker.com/show/3266391/episodes/feed</description>
                 
                 
-                <link>https://shows.acast.com/elle-a-table/episodes/apollonia-poilane-la-boulangere-opiniatre</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/elle-a-table/e/63e12c06332faa0010d75222/media.mp3"/>
-                <guid>https://shows.acast.com/elle-a-table/episodes/apollonia-poilane-la-boulangere-opiniatre</guid>
+                <link>https://www.aularge.eu/blog/2023/03/15/noe-8-la-vigne-et-les-fils-gn-918-1032/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/A1481F/api.spreaker.com/download/episode/53173956/288_noe_8_fils.mp3"/>
+                <guid>https://www.aularge.eu/blog/2023/03/15/noe-8-la-vigne-et-les-fils-gn-918-1032/</guid>
                 
             </item><item>
-                <title>À l&#39;Ehpad, la mort de Lydia qui pose question</title>
-                <description>Que s&#39;est-il passé à l&#39;Ehpad de Lisieux ? La famille de Lydia veut savoir : la résidente, handicapée, s&#39;est étouffée pendant son goûter.Lydia Mereu avait 62 ans. Lourdement handicapée mentale depuis sa naissance, elle s&#39;est éteinte tout début février, à quelques jours de son anniversaire, à l&#39;heure du goûter. Lydia, qui souffrait de troubles alimentaires et pouvait avaler n&#39;importe quoi de manière compulsive, se serait étouffée en avalant une madeleine...
-Feed: https://podcasts.tendanceouest.com/rss-podcast-236-faits-de-vie</description>
+                <title>Live Roots &amp; Culture</title>
+                <description>Reggae mix &amp; radio show - Pull It Up Show
+Feed: https://hearthis.at/fayagong/podcast/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.tendanceouest.com/medias/sons/3081-FDVIE-230313.mp3"/>
-                <guid></guid>
+                <link>https://hearthis.at/fayagong/live-20-02-2023-13-00/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/fayagong/live-20-02-2023-13-00/listen.mp3?s=idt"/>
+                <guid>https://hearthis.at/fayagong/live-20-02-2023-13-00/</guid>
                 
             </item>
         </channel>

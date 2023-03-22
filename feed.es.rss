@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 17 Mar 2023 04:24:36 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 Mar 2023 04:22:58 +0200</lastBuildDate>
             <item>
-                <title>Meditación Paz Interior Zen  |10 minutos | Encuentra tu paz interior</title>
-                <description>Paz Interior Zen. Con esta meditación zen conseguirás encontrar tu paz interior. Realiza esta meditación cuando quieras conectar con el momento presente y presenciar el milagro del aquí y ahora.
-Feed: https://feeds.megaphone.fm/metaconciencia</description>
+                <title>S06E04: Android</title>
+                <description>Disertamos sobre el sistema operativo de Google. Por Javier Teruelo, Lorenzo Cabronell y Marcos Costales.
+Feed: https://www.ivoox.com/ubuntu-otras-hierbas_fg_f1412582_filtro_1.xml</description>
                 
                 
-                <link>https://metaconciencia.es/audio/paz-interior-zen/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/op3.dev/e/chrt.fm/track/647351/pdcn.co/e/mgln.ai/track/traffic.megaphone.fm/META5412771772.mp3?updated=1677191862"/>
-                <guid>https://metaconciencia.es/audio/paz-interior-zen/</guid>
+                <link>https://www.ivoox.com/s06e04-android-audios-mp3_rf_104042766_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/s06e04-android_mf_104042766_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/s06e04-android-audios-mp3_rf_104042766_1.html</guid>
                 
             </item><item>
-                <title>El Caballero De La Armadura Oxidada Notas del capítulo</title>
-                <description>El Caballero De La Armadura Oxidada
-El Caballero De La Armadura Oxidada Notas del capítulo
-&#34;El caballero de la armadura oxidada&#34; es una fábula sobre un caballero que se obsesiona tanto con su armadura y la imagen que presenta al mundo que se olvida de quién es en realidad. La historia sigue al caballero en un viaje de autodescubrimiento mientras intenta quitarse la armadura y aprender a vivir como su verdadero yo...
-Feed: https://kxcddo.podcaster.de/bookey-es.rss</description>
+                <title>Layout de bloques</title>
+                <description>Preparar una base de zonas donde poner bloques parece ser el siguiente paso de Gutenberg, que facilitaría la maquetación de los contenidos.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>https://www.bookey.app/es/book/el-caballero-de-la-armadura-oxidada</link>
-                <enclosure type="audio/mpeg" length="1" url="https://kxcddo.podcaster.de/bookey-es/media/The_Knight_in_Rusty_Armor.mp3"/>
-                <guid>https://www.bookey.app/es/book/el-caballero-de-la-armadura-oxidada</guid>
+                <link>https://www.wppodcast.es/podcast/cientocuarentaydos/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/175/s/feed/c/podcast/wordpress-podcast-e142.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/cientocuarentaydos/</guid>
                 
             </item>
         </channel>
