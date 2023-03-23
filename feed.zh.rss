@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 Mar 2023 04:23:09 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 23 Mar 2023 04:23:23 +0200</lastBuildDate>
             <item>
-                <title>Episode 269: Atiwa and Thematic Mechanisms</title>
-                <description>Atiwa and Thematic Mechanisms
-Feed: http://cdn.thesecretcabal.com/scpodcast.xml</description>
+                <title>Hollywood Chronicles: Brandon Lang</title>
+                <description>March Madness is here! In this episode Frank sits…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:103913280/sounds.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/thesecretcabalgamingpodcast/269SecretCabalGamingPodcast.mp3"/>
-                <guid></guid>
+                <link>https://soundcloud.com/frankmackay/hollywood-chronicles-brandon-lang</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1471159198-frankmackay-hollywood-chronicles-brandon-lang.mp3"/>
+                <guid>https://soundcloud.com/frankmackay/hollywood-chronicles-brandon-lang</guid>
                 
             </item><item>
-                <title>You Were Washed</title>
-                <description>Week 1 of 4
-Feed: https://feeds.feedburner.com/ccjpodcast</description>
+                <title>Bank Runs</title>
+                <description>&lt;p&gt;This week we talk about Silicon Valley Bank, Signature Bank, and Silvergate Capital&lt;/p&gt;&lt;p&gt;We also discuss interest rates, the FDIC, and too big to fail.&lt;br&gt;Support the show: patreon.com/letsknowthings &amp;amp; letsknowthings.com/support&lt;/p&gt;&lt;p&gt;Show notes/transcript: letsknowthings.com&lt;/p&gt;&lt;p&gt;Check out my other shows &amp;amp; publications: understandary.com&lt;/p&gt;
+&lt;strong&gt;
+  ? Support this podcast on Patreon ?
+&lt;/strong&gt;
+Feed: https://feeds.transistor.fm/lkt</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvSFRRUVhaL2ZlY2UzMjE2LWZhNDMtNDgyMi05Y2Q3LTJkMmE0NjRjMGViMi9hdWRpby5tcDM.mp3?k=HTQQXZ&amp;s=3&amp;sapid=bgdhp7x"/>
-                <guid></guid>
+                <link>https://share.transistor.fm/s/9b7fe91e</link>
+                <enclosure type="audio/mpeg" length="1" url="https://2.gum.fm/op3.dev/e/pdcn.co/e/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/9b7fe91e/6e8dab4f.mp3"/>
+                <guid>https://share.transistor.fm/s/9b7fe91e</guid>
                 
             </item>
         </channel>

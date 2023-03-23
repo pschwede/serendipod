@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 Mar 2023 04:22:42 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 23 Mar 2023 04:22:55 +0200</lastBuildDate>
             <item>
-                <title>Percy Pursglove</title>
-                <description>Trumpeter Percy Pursglove interviewed by Pablo Held
-Feed: https://pabloheldinvestigates.com/feed/podcast/</description>
+                <title>Should You Always be in the Flow?</title>
+                <description>In this episode, Dr. Cohn answers a question from a reader playing in the flow all the time. Here&#39;s the question of the week: WILLIAM: &#34;I think to play well, I have to be in flow. But I can&#39;t seem to enter flow at will. How do I always enter into the...
+Feed: https://sportspsychology.libsyn.com/rss</description>
                 
                 
-                <link>https://pabloheldinvestigates.com/percy-pursglove/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://storage.googleapis.com/phi_podcast_episodes/PHI-079-Percy_Pursglove.mp3"/>
-                <guid>https://pabloheldinvestigates.com/percy-pursglove/</guid>
+                <link>http://sports-psychology.us/should-you-always-be-in-the-flow</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/sportspsychology/Episode_3.3.mp3?dest-id=30682"/>
+                <guid>http://sports-psychology.us/should-you-always-be-in-the-flow</guid>
                 
             </item><item>
-                <title>Elephant in the room with Jamie Lynne</title>
-                <description>Scheana and Jamie chat about all that has transpired over the last week.     They begin with a “would you rather” game to ease into more difficult topics but the game leads to a revealing conversation about one of Scheana’s...
-Feed: https://scheananiganswithscheanashay.libsyn.com/rss</description>
+                <title>Reducing Exposure to Disinfection Byproducts in Drinking Water</title>
+                <description>Episode 86 - Environmental Health Chat
+Feed: https://tools.niehs.nih.gov/pephnews/peph_podcasts.xml</description>
                 
                 
-                <link>https://scheananiganswithscheanashay.libsyn.com/elephant-in-the-room-with-jamie-lynne</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/scheananiganswithscheanashay/Scheana_jamie_031723_Final.mp3?dest-id=2951063"/>
-                <guid>https://scheananiganswithscheanashay.libsyn.com/elephant-in-the-room-with-jamie-lynne</guid>
+                <link>https://www.niehs.nih.gov/research/supported/translational/peph/podcasts/2023/feb22_drinking-water/index.cfm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.niehs.nih.gov/research/supported/translational/peph/podcasts/2023/feb22_drinking-water/reducing_exposure_to_disinfection_byproducts_in_drinking_water.mp3"/>
+                <guid>https://www.niehs.nih.gov/research/supported/translational/peph/podcasts/2023/feb22_drinking-water/index.cfm</guid>
                 
             </item>
         </channel>

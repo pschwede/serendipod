@@ -9,37 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 Mar 2023 04:23:03 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 23 Mar 2023 04:23:17 +0200</lastBuildDate>
             <item>
-                <title>Progress #487</title>
-                <description>Progress #487
-www.centraldj.com.br/progress/487
-Subscribe for free on iTunes:
-https://itunes.apple.com/br/podcast/progress/id1077982631?mt=2
--- 
-Progress
-By: DJ MTS
-To broadcast Progress on your radio/webradio, click here:
-https://www.centraldj.com.br/programas/?p=progress
-Follow Progress @ Twitter: http://twitter.com/progressbymts
-Like Progress @ Facebook: http://www.facebook.com/Progressbymts
-Follow Progress @ Instagram: http://www.instagram...
-Feed: https://hearthis.at/djmts/podcast/</description>
+                <title>Tá mudado vai mudar mais</title>
+                <description>Enquanto boa parte do país pulava o Carnaval no fim de semana, um temporal devastou o Litoral Norte do estado de São Paulo, deixando mais de cinquenta mortos e dezenas de desaparecidos. O Foro de Teresina desta semana revisita outras calamidades...
+Feed: https://forodeteresina.libsyn.com/rss</description>
                 
                 
-                <link>https://hearthis.at/djmts/progress487/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/djmts/progress487/listen.mp3?s=pRz"/>
-                <guid>https://hearthis.at/djmts/progress487/</guid>
+                <link>https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/572EEB/traffic.libsyn.com/secure/forodeteresina/Foro_241_MIX.mp3?dest-id=707175"/>
+                <guid>https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/</guid>
                 
             </item><item>
-                <title>Tokucast #153 – Ultraman Decker</title>
-                <description>Eu olho para o amanhã! Para o além!! Homenageando os 25 anos de Ultraman Dyna, Ultraman Decker e sua batalha contra as Spheres e a venda senbei. Sena, Makino, Adriano Naressi (Supa Hiro) e Giuzão Chagas junto de Alexandro Lima… Continue Reading →
-Feed: https://feeds.feedburner.com/tkbrtokucast</description>
+                <title>Centro de Comando 156 - Vai ser o melhor aniversário de Power Rangers?</title>
+                <description>&lt;p&gt;Entramos na contagem regressiva!&lt;/p&gt;&lt;p&gt;Logo mais estaremos assistindo juntos o especial Power Rangers: Agora e Sempre! Mas o ano de 2023 não só reserva o especial de Mighty Morphin... Teremos uma aventura cósmica em breve com os Dino Fury Rangers. Embarque conosco em mais um Centro de Comando nesse hype dos 30 anos da franquia.&lt;/p&gt;
+Feed: https://anchor.fm/s/8e4d268/podcast/rss</description>
                 
                 
-                <link>http://tokucast.com.br/?p=2347</link>
-                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/tkbrtokucast/tokucast.com.br/tokucast/Tokucast_Episodio_153.mp3"/>
-                <guid>http://tokucast.com.br/?p=2347</guid>
+                <link>https://anchor.fm/megapowerbrasil/episodes/Centro-de-Comando-156---Vai-ser-o-melhor-aniversrio-de-Power-Rangers-e20uni0</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/8e4d268/podcast/play/67116032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-22%2F6dad47f6-b261-4fb6-5ffc-653bda8273c5.mp3"/>
+                <guid>https://anchor.fm/megapowerbrasil/episodes/Centro-de-Comando-156---Vai-ser-o-melhor-aniversrio-de-Power-Rangers-e20uni0</guid>
                 
             </item>
         </channel>
