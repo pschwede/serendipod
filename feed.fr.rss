@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Mar 2023 04:23:39 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 26 Mar 2023 04:22:26 +0200</lastBuildDate>
             <item>
-                <title>A CHAUD S03E5 Empire of light de Sam Mendes</title>
-                <description>À CHAUD ! est un podcast cinéma de critiques de films qui viennent tout juste de sortir, que ce soit au cinéma ou toutes les plateformes de streaming. Avec ce podcast, on vit les premiers moments des chroniqueurs, leurs sensations, leurs...
-Feed: https://www.vodio.fr/rssmedias.php?valeur=204</description>
+                <title>On prend toujours un micro pour la vie : 03/22/2023 16:00</title>
+                <description>673-285055
+Feed: http://podcast.cism893.ca/radioshows/673/feed_itunes.xml</description>
                 
                 
-                <link>https://www.vodio.fr/vodiotheque/i/10403/a-chaud-s03e5-empire-of-light-de-sam-mendes/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/www.vodio.fr/emissions/_ctmieuxavant56G2/achaud-s03e5-empire-of-light.mp3"/>
-                <guid>https://www.vodio.fr/vodiotheque/i/10403/a-chaud-s03e5-empire-of-light-de-sam-mendes/</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/285055.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/285055.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/285055.mp3</guid>
                 
             </item><item>
-                <title>SPECIALE - Emission Débat - Voyage</title>
-                <description>
-Feed: https://indestar.lepodcast.fr/rss</description>
+                <title>Extrait - ChatGPT et esprit critique</title>
+                <description>Dans cet extrait du dernier épisode d&#39;Azzzap, nous partons à la rencontre de  Quentin, alias Mr Contradico co-auteur de &#34;Au coeur de l&#39;esprit critique : petit guide pour déjouer les manipulations&#34; édition Eyrolles (https://www.amazon.fr/Au-coeur-lespri...
+Feed: https://feed.ausha.co/o9p6RcjO899k</description>
                 
                 
-                <link>https://archive.org/download/cut-rec-20230310-205834/cut%20rec_20230310-205834.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/indestar/speciale-emission-debat-voyage/enclosure.a2cd25742d01742744cbf8e3899d4701540e505b69bfe3dd6f1345866347e726.mp3?p=f"/>
-                <guid>https://archive.org/download/cut-rec-20230310-205834/cut%20rec_20230310-205834.mp3</guid>
+                <link>https://podcast.ausha.co/azzzap/extrait-chatgpt-et-esprit-critique</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/audio.ausha.co/oaOd1FE51NJV.mp3?t=1678631206"/>
+                <guid>https://podcast.ausha.co/azzzap/extrait-chatgpt-et-esprit-critique</guid>
                 
             </item>
         </channel>

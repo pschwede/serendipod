@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Mar 2023 04:23:33 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 26 Mar 2023 04:22:22 +0200</lastBuildDate>
             <item>
-                <title>Warum hören wir auf zu wachsen?</title>
-                <description>Hör dich klug! - Dein Wissenspodcast
-Feed: https://hoer-dich-klug.podigee.io/feed/mp3</description>
+                <title>Viele, viele bunte Smartnews</title>
+                <description>Eine süße Foto-Tüte - von Weltneuheit über KI-Flüstern, Filmdosensoßen, Neufi als Seufi oder als Queen und viel extra Vorbereitetes für Euch aus dem aktuellen Fotogeschehen
+Feed: https://fotopodcast.de/feed/mp3-audio/</description>
                 
                 
-                <link>https://hoer-dich-klug.podigee.io/138-warum-horen-wir-auf-zu-wachsen</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1046829-m-b538899333a8bf87e42bd9434cd9b06c.mp3?source=feed"/>
-                <guid>https://hoer-dich-klug.podigee.io/138-warum-horen-wir-auf-zu-wachsen</guid>
+                <link>https://fotopodcast.de/fpc332/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fotopodcast.de/podlove/file/7365/s/feed/c/mp3-audio/fpc332.mp3"/>
+                <guid>https://fotopodcast.de/fpc332/</guid>
                 
             </item><item>
-                <title># 133 - Let&#39;s talk about: One and a half cancellations... oder doch nicht?</title>
-                <description>Moinsen!
-Nach einer eher unfreiwilligen Pause melde ich mich zurück und starte direkt mal mit News, die (mal wieder) wenig erfreulich sind, denn - anscheinend? - wird es hier wohl zum sich wiederholenden Thema, über Absetzungen von Serien zu reden, nur.....
-Feed: https://agtkak.podcaster.de/queek-podcast.rss</description>
+                <title>&#34;AAAAAHHHHHHHHHHHHHH&#34; #4 - Scream VI, Knock at the Cabin, Barbarian, The Descent &amp; mehr | SPEZIAL</title>
+                <description>Ein neuer Scream - eine neue Folge zum Gruseln!&lt;br&gt;&lt;br&gt;Marco und Fabian sind kaum aus dem Kino raus, da haben sie schon großen Redebedarf zu Scream VI...
+Feed: https://letscast.fm/podcasts/fernsehsessel-der-podcast-429e7608/feed</description>
                 
                 
-                <link>https://queekpodcast.wordpress.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://agtkak.podcaster.de/queek-podcast/media/Episode_133.mp3"/>
-                <guid>https://queekpodcast.wordpress.com/</guid>
+                <link>https://fernsehsessel-podcast.letscast.fm/episode/aaaaahhhhhhhhhhhhhh-4-scream-vi-knock-at-the-cabin-barbarian-the-descent-mehr-spezial</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/E43E46/https://lcdn.letscast.fm/media/podcast/62368df4/episode/6a9f44d6.mp3?t=1679241716"/>
+                <guid>https://fernsehsessel-podcast.letscast.fm/episode/aaaaahhhhhhhhhhhhhh-4-scream-vi-knock-at-the-cabin-barbarian-the-descent-mehr-spezial</guid>
                 
             </item>
         </channel>
