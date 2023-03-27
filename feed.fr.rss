@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 26 Mar 2023 04:22:26 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 27 Mar 2023 04:23:43 +0200</lastBuildDate>
             <item>
-                <title>On prend toujours un micro pour la vie : 03/22/2023 16:00</title>
-                <description>673-285055
-Feed: http://podcast.cism893.ca/radioshows/673/feed_itunes.xml</description>
+                <title>Comment raconter l’Empire ottoman?</title>
+                <description>Comment raconter l’Empire ottoman?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10073.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/285055.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/285055.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/285055.mp3</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/questions-d-islam/comment-raconter-l-empire-ottoman-5748457</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/9da0af7c-1b13-4032-af15-ebea3d9aa616/10073-26.03.2023-ITEMA_23328907-2023C26163E0009-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/questions-d-islam/comment-raconter-l-empire-ottoman-5748457</guid>
                 
             </item><item>
-                <title>Extrait - ChatGPT et esprit critique</title>
-                <description>Dans cet extrait du dernier épisode d&#39;Azzzap, nous partons à la rencontre de  Quentin, alias Mr Contradico co-auteur de &#34;Au coeur de l&#39;esprit critique : petit guide pour déjouer les manipulations&#34; édition Eyrolles (https://www.amazon.fr/Au-coeur-lespri...
-Feed: https://feed.ausha.co/o9p6RcjO899k</description>
+                <title>Revalorisation du chômage, de nouvelles réformes à venir... Le flash éco du jour</title>
+                <description>Retrouvez l&#39;essentiel de l&#39;actu éco du jour dans le flash réalisé par Capital.
+Feed: https://rss.art19.com/flash-eco</description>
                 
                 
-                <link>https://podcast.ausha.co/azzzap/extrait-chatgpt-et-esprit-critique</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/audio.ausha.co/oaOd1FE51NJV.mp3?t=1678631206"/>
-                <guid>https://podcast.ausha.co/azzzap/extrait-chatgpt-et-esprit-critique</guid>
+                <link>https://art19.com/shows/flash-eco/episodes/155d928a-a2d0-4ea6-b81a-685a4b0c6787</link>
+                <enclosure type="audio/mpeg" length="1" url="https://gateway.zippycast.io/ssp/3fe7a28a5f324e689440e88dd8be3db4/rss.art19.com/episodes/155d928a-a2d0-4ea6-b81a-685a4b0c6787.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid>https://art19.com/shows/flash-eco/episodes/155d928a-a2d0-4ea6-b81a-685a4b0c6787</guid>
                 
             </item>
         </channel>
