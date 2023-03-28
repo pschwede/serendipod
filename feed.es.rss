@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 27 Mar 2023 04:23:48 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 Mar 2023 04:23:26 +0200</lastBuildDate>
             <item>
-                <title>Hombre gomelo</title>
-                <description>&lt;p&gt;Seguimos trabajando para ustedes porque esta es la vida del pobre, en esta película tenemos apariciones especiales de Brendan Fraser y hombre gomelo. Bienvenidos a esta fiesta llena de glamour y famosos.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;&lt;p&gt;See omnystudio.com/listener for privacy information.&lt;/p&gt;
-Feed: https://www.omnycontent.com/d/playlist/1fc614ef-7db7-429f-a252-a989012fd0c6/0698957d-3bf8-4ceb-a451-aeda015e2616/f06440cb-b96a-422c-b6c5-aeda015e2632/podcast.rss</description>
+                <title>Podcast FDC 111 – M3GAN (2022)</title>
+                <description>Le dimos una mirada a M3GAN, película de Blumhouse y Atomic Monster que nos muestra a una fabricante de robots construyendo a una muñeca con inteligencia artificial para que cuide a su sobrina huérfana. Mientras la niña se va volviendo dependiente de l...
+Feed: https://fueradelcine.com/feed/podcast/</description>
                 
                 
-                <link>https://omny.fm/shows/sospechosamente-light/hombre-gomelo-1</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/1fc614ef-7db7-429f-a252-a989012fd0c6/0698957d-3bf8-4ceb-a451-aeda015e2616/04ff11f7-f5f6-4619-a0f8-afd101872b1d/audio.mp3?utm_source=Podcast&amp;in_playlist=f06440cb-b96a-422c-b6c5-aeda015e2632"/>
-                <guid>https://omny.fm/shows/sospechosamente-light/hombre-gomelo-1</guid>
+                <link>https://fueradelcine.com/podcast-fdc-111-m3gan-2022/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-111-fdc-04-02-2022.mp3"/>
+                <guid>https://fueradelcine.com/podcast-fdc-111-m3gan-2022/</guid>
                 
             </item><item>
-                <title>A golpe de bit - El almacenamiento de datos de misiones de la ESA - 24/03/23</title>
-                <description>El almacenamiento de datos de misiones de la ESA
-Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
+                <title>Mientras preparamos las próximas temporadas</title>
+                <description>Queridos amigos de&amp;nbsp;TED&amp;nbsp;en&amp;nbsp;español, nos vamos a tomar un tiempo para preparar las próximas temporadas del podcast. Mientras tanto, los invitamos a escuchar los cientos de episodios de las primeras nueve temporadas. Pueden encontrar todos los episodios en&amp;nbsp;tedenespanol.com.&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/c7c8d4c1-dcdb-4ed7-95e9-1aade928b5f9</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-almacenamiento-datos-misiones-24-03-23/6841894/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_R18BITG/mp3/0/4/1679656820640.mp3"/>
-                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-almacenamiento-datos-misiones-24-03-23/6841894/</guid>
+                <link>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/ted-en-espanol/e/63f67d5489ef5c00113a71af/media.mp3"/>
+                <guid>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</guid>
                 
             </item>
         </channel>
