@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 28 Mar 2023 04:23:22 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 29 Mar 2023 04:23:47 +0200</lastBuildDate>
             <item>
-                <title>Sur les traces sonores de la nymphe Écho</title>
-                <description>La nymphe Écho a été condamnée par Junon, l’épouse de Jupiter, à ne pouvoir seulement répéter ce qu’elle entend. Puis, amoureuse, elle s’est fait douloureusement éconduire par Narcisse, qui n’a d’yeux que pour lui-même. Écho se meurt de chagrin, son squelette prend l’apparence de la roche. Mais sa voix, elle, reste vivante. On l’entend encore dans des endroits souvent étranges et magiques. Dans les grottes, les églises, derrière la voix suave des chanteurs...
-Feed: https://podcasts.radiola.be/@nouveautes/feed.xml</description>
+                <title>Le duende</title>
+                <description>Le duende
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14497.xml</description>
                 
                 
-                <link>https://podcasts.radiola.be/@nouveautes/episodes/sur-les-traces-sonores-de-la-nymphe-echo</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.radiola.be/audio/@nouveautes/sur-les-traces-sonores-de-la-nymphe-echo.mp3?_from=fyyd.de"/>
-                <guid>https://podcasts.radiola.be/@nouveautes/episodes/sur-les-traces-sonores-de-la-nymphe-echo</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/allegretto/allegretto-du-mardi-28-mars-2023-6135648</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/158aee47-cd1d-4852-9f04-8ca9e5d899e5/14497-28.03.2023-ITEMA_23330995-2023M26220S0087-21.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/allegretto/allegretto-du-mardi-28-mars-2023-6135648</guid>
                 
             </item><item>
-                <title>Elkin Polo El Show : 03/25/2023 13:00</title>
-                <description>709-285249
-Feed: http://podcast.cism893.ca/radioshows/709/feed_itunes.xml</description>
+                <title>Rendez-vous avec Talleyrand vendredi 31 mars</title>
+                <description>Vendredi 31 mars, découvrez en avant-première le nouvel épisode d&#39;&#34;Entrez dans l&#39;Histoire&#34; consacré à Charles-Maurice de Talleyrand, aussi surnommé le diable boiteux. Prince et évêque défroqué, il a survécu à tous les régimes entre Louis XV et la Monarchie de Juill...
+Feed: https://feeds.audiomeans.fr/feed/971b31f2-42d6-4d41-95ee-1c0554528483.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/285249.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/285249.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/285249.mp3</guid>
+                <link>https://www.rtl.fr/programmes/entrez-dans-l-histoire</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rtl.proxycast.org/3044978528404647936/e07b6c90-274a-4efa-956f-3c00d4614c58.mp3?u=FbteVXJUvY&amp;_=1679909725"/>
+                <guid>https://www.rtl.fr/programmes/entrez-dans-l-histoire</guid>
                 
             </item>
         </channel>

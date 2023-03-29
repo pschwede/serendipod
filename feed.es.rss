@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 28 Mar 2023 04:23:26 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 29 Mar 2023 04:23:51 +0200</lastBuildDate>
             <item>
-                <title>Podcast FDC 111 – M3GAN (2022)</title>
-                <description>Le dimos una mirada a M3GAN, película de Blumhouse y Atomic Monster que nos muestra a una fabricante de robots construyendo a una muñeca con inteligencia artificial para que cuide a su sobrina huérfana. Mientras la niña se va volviendo dependiente de l...
-Feed: https://fueradelcine.com/feed/podcast/</description>
+                <title>¿Los hongos serán la clave para la supervivencia de la humanidad? | David Andrew Quist</title>
+                <description>¿Los hongos serán la clave para la supervivencia de la humanidad? | David Andrew Quist
+Feed: https://feeds.feedburner.com/SpanishPodcastTechnology</description>
                 
                 
-                <link>https://fueradelcine.com/podcast-fdc-111-m3gan-2022/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-111-fdc-04-02-2022.mp3"/>
-                <guid>https://fueradelcine.com/podcast-fdc-111-m3gan-2022/</guid>
+                <link>https://www.ted.com/talks/david_andrew_quist_could_fungi_actually_be_the_key_to_humanity_s_survival?rss=172BB350-0070</link>
+                <enclosure type="audio/mpeg" length="1" url="https://download.ted.com/products/162590.mp4?apikey=172BB350-0070"/>
+                <guid>https://www.ted.com/talks/david_andrew_quist_could_fungi_actually_be_the_key_to_humanity_s_survival?rss=172BB350-0070</guid>
                 
             </item><item>
-                <title>Mientras preparamos las próximas temporadas</title>
-                <description>Queridos amigos de&amp;nbsp;TED&amp;nbsp;en&amp;nbsp;español, nos vamos a tomar un tiempo para preparar las próximas temporadas del podcast. Mientras tanto, los invitamos a escuchar los cientos de episodios de las primeras nueve temporadas. Pueden encontrar todos los episodios en&amp;nbsp;tedenespanol.com.&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/c7c8d4c1-dcdb-4ed7-95e9-1aade928b5f9</description>
+                <title>Sonidos y Sonados 2023-03-27 (1982-03-27)</title>
+                <description>Hoy cumplimos 41 años en antena de manera ininterrumpida Tal día como hoy, pero de 1982, a las 5 de la tarde, comenzaba esta aventura musical, que en principio se llamó &amp;#8220;Porxada Rock&amp;#8221; convertido luego en &amp;#8220;Sonidos y Sonados&amp;#8221;, mismo concepto musical en un programa que ahora se mueve con mesas digitaless, archivos musicales digitalizados [&amp;#8230;]
+Feed: https://feeds.feedburner.com/sonidosysonados</description>
                 
                 
-                <link>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/ted-en-espanol/e/63f67d5489ef5c00113a71af/media.mp3"/>
-                <guid>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</guid>
+                <link>https://www.sonidosysonados.com/2023/03/27/sonidos-y-sonados-2023-03-27-1982-03-27/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/PorxadaRock1erprograma19820327Resumen.mp3"/>
+                <guid>https://www.sonidosysonados.com/2023/03/27/sonidos-y-sonados-2023-03-27-1982-03-27/</guid>
                 
             </item>
         </channel>
