@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 29 Mar 2023 04:23:51 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 30 Mar 2023 04:23:14 +0200</lastBuildDate>
             <item>
-                <title>¿Los hongos serán la clave para la supervivencia de la humanidad? | David Andrew Quist</title>
-                <description>¿Los hongos serán la clave para la supervivencia de la humanidad? | David Andrew Quist
-Feed: https://feeds.feedburner.com/SpanishPodcastTechnology</description>
+                <title>Nadie Sabe Nada | Señor Buenafuente y Don Berto</title>
+                <description>El &#39;Nadie Sabe Nada&#39; es un tren de largo recorrido, el Transiberiano del Mediterráneo, conducido por dos maquinistas como Andreu Buenafuente y Berto Romero y que, además, no para nunca. Por eso, una vez acabada la etapa de HBO Max, regresa al formato original de la emisión en directo en La SER los sábados, para luego distribuirse en podcast por SER Podcast y por infinidad de plataformas más y en vídeo para quien quiera verlo.
+ 
+El regreso al Toresky de Radio Barcelona ha sido bastante normal...
+Feed: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.ted.com/talks/david_andrew_quist_could_fungi_actually_be_the_key_to_humanity_s_survival?rss=172BB350-0070</link>
-                <enclosure type="audio/mpeg" length="1" url="https://download.ted.com/products/162590.mp4?apikey=172BB350-0070"/>
-                <guid>https://www.ted.com/talks/david_andrew_quist_could_fungi_actually_be_the_key_to_humanity_s_survival?rss=172BB350-0070</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20233/24/1679682842584_85921.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Sonidos y Sonados 2023-03-27 (1982-03-27)</title>
-                <description>Hoy cumplimos 41 años en antena de manera ininterrumpida Tal día como hoy, pero de 1982, a las 5 de la tarde, comenzaba esta aventura musical, que en principio se llamó &amp;#8220;Porxada Rock&amp;#8221; convertido luego en &amp;#8220;Sonidos y Sonados&amp;#8221;, mismo concepto musical en un programa que ahora se mueve con mesas digitaless, archivos musicales digitalizados [&amp;#8230;]
-Feed: https://feeds.feedburner.com/sonidosysonados</description>
+                <title>Mientras preparamos las próximas temporadas</title>
+                <description>Queridos amigos de&amp;nbsp;TED&amp;nbsp;en&amp;nbsp;español, nos vamos a tomar un tiempo para preparar las próximas temporadas del podcast. Mientras tanto, los invitamos a escuchar los cientos de episodios de las primeras nueve temporadas. Pueden encontrar todos los episodios en&amp;nbsp;tedenespanol.com.&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/c7c8d4c1-dcdb-4ed7-95e9-1aade928b5f9</description>
                 
                 
-                <link>https://www.sonidosysonados.com/2023/03/27/sonidos-y-sonados-2023-03-27-1982-03-27/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/PorxadaRock1erprograma19820327Resumen.mp3"/>
-                <guid>https://www.sonidosysonados.com/2023/03/27/sonidos-y-sonados-2023-03-27-1982-03-27/</guid>
+                <link>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/ted-en-espanol/e/63f67d5489ef5c00113a71af/media.mp3"/>
+                <guid>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</guid>
                 
             </item>
         </channel>
