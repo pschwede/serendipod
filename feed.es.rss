@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 30 Mar 2023 04:23:14 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 31 Mar 2023 04:23:29 +0200</lastBuildDate>
             <item>
-                <title>Nadie Sabe Nada | Señor Buenafuente y Don Berto</title>
-                <description>El &#39;Nadie Sabe Nada&#39; es un tren de largo recorrido, el Transiberiano del Mediterráneo, conducido por dos maquinistas como Andreu Buenafuente y Berto Romero y que, además, no para nunca. Por eso, una vez acabada la etapa de HBO Max, regresa al formato original de la emisión en directo en La SER los sábados, para luego distribuirse en podcast por SER Podcast y por infinidad de plataformas más y en vídeo para quien quiera verlo.
- 
-El regreso al Toresky de Radio Barcelona ha sido bastante normal...
-Feed: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml</description>
+                <title>La república digital de Estonia</title>
+                <description>Estonia lleva años apostando por la transformación digital. Casi todo se puede hacer online, desde renovar el pasaporte hasta votar. Las estrictas normas de seguridad intentan garantizar la protección de los datos.
+Feed: https://rss.dw.com/xml/podcast_enlaces</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20233/24/1679682842584_85921.mp3"/>
-                <guid></guid>
+                <link>https://www.dw.com/es/la-república-digital-de-estonia/av-65178491?maca=spa-podcast_enlaces-7583-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/enl/enl20230330_Estonia_AVC_640x360.mp4"/>
+                <guid>https://www.dw.com/es/la-república-digital-de-estonia/av-65178491?maca=spa-podcast_enlaces-7583-xml-mrss</guid>
                 
             </item><item>
-                <title>Mientras preparamos las próximas temporadas</title>
-                <description>Queridos amigos de&amp;nbsp;TED&amp;nbsp;en&amp;nbsp;español, nos vamos a tomar un tiempo para preparar las próximas temporadas del podcast. Mientras tanto, los invitamos a escuchar los cientos de episodios de las primeras nueve temporadas. Pueden encontrar todos los episodios en&amp;nbsp;tedenespanol.com.&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/c7c8d4c1-dcdb-4ed7-95e9-1aade928b5f9</description>
+                <title>Lo extraordinario en lo ordinario</title>
+                <description>&amp;ldquo;Tambi&amp;eacute;n entre los pucheros anda Dios &amp;hellip; &amp;rdquo; nos recordaba la m&amp;iacute;stica Teresa de Jes&amp;uacute;s en sus fundaciones. No deja de ser una afirmaci&amp;oacute;n clara de que no necesitamos hacer algo en concreto para despertar a nuestro esp&amp;iacute;ritu en su libro &amp;ldquo;el que viene&amp;rdquo; de A. y D...
+Feed: https://www.ivoox.com/podcast-nodo-estelar-aneto_fg_f11026236_filtro_1.xml</description>
                 
                 
-                <link>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/ted-en-espanol/e/63f67d5489ef5c00113a71af/media.mp3"/>
-                <guid>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</guid>
+                <link>https://www.ivoox.com/lo-extraordinario-lo-ordinario-audios-mp3_rf_105081476_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/lo-extraordinario-lo-ordinario_mf_105081476_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/lo-extraordinario-lo-ordinario-audios-mp3_rf_105081476_1.html</guid>
                 
             </item>
         </channel>

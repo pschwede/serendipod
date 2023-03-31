@@ -9,35 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 30 Mar 2023 04:23:05 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 31 Mar 2023 04:23:17 +0200</lastBuildDate>
             <item>
-                <title>Xi trifft Putin</title>
-                <description>Die Liste seiner Erfolge ist lang, die seiner Opfer unversch&amp;#228;mt l&amp;#228;nger. Florian Schroeder zeichnet sich durch eine erfreuliche Respektlosigkeit aus. Mit Freude z&amp;#252;ckt er sein Verbalskalpell und nimmt das tagespolitische Geschehen auseinander.
-
-Feed: https://www.radioeins.de/programm/sendungen/der_schoene_morgen/einfach_schroeder/archiv.xml/feed=podcast.xml</description>
+                <title>Futur III - Mit Toten macht man keine Geschäfte</title>
+                <description>•Sci-Fi-Thriller• Warum konnten sie Jeremy (Tom Schilling) nicht einfach sterben lassen? Das fragt sich Meigan jeden Tag, wenn sie ihren Bruder anschaut, beziehungsweise das, was von ihm übrig ist - ein kleiner Kasten, in dem sein Bewusstsein angeblich weiterlebt. // Von Max von Malotki / WDR 2012 // www.wdr.de/k/hoerspiel-newsletter // Ein 1LIVE-Podcast, © WDR 2023
+Feed: https://www1.wdr.de/mediathek/audio/1live/1live-krimi/krimi-podcast-102.podcast</description>
                 
                 
-                <link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/einfach_schroeder/xi-trifft-putin.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rbbmediapmdp-a.akamaihd.net/content/dc/c7/dcc7233b-86e4-4d32-98b6-b8ade35548ad/82a17077-c3c8-46e7-b3be-e181e73485f4_2a8c5eb9-2146-4583-8127-e9f2497d750f.mp3"/>
-                <guid>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/einfach_schroeder/xi-trifft-putin.html</guid>
+                <link>https://www1.wdr.de/mediathek/audio/1live/1live-krimi/audio-futur-iii---mit-toten-macht-man-keine-geschaefte-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/289/2899271/1livekrimi_2023-03-30_futuriiimittotenmachtmankeinegeschaefte_1live.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/1live/1live-krimi/audio-futur-iii---mit-toten-macht-man-keine-geschaefte-100.html</guid>
                 
             </item><item>
-                <title>Was du vom Bodybuilding übers Leben lernen kannst  - mit Jonas Klinko von Vital Elevation</title>
-                <description>
-&lt;p&gt;In der heutigen Episode habe ich Jonas Klinko im Interview.
-Wir sprechen über seine Erfahrungen im Bodybuilding.&lt;/p&gt;
-&lt;p&gt;Komm gerne bei mir bei Instagram @wellbeing_anna vorbei und schreib mir unter dem heutigen Post, was deine wertvollste Erkenntnis war! Ich freue mich auf dich.&lt;/p&gt;
-&lt;p&gt;Fühl dich von Herzen umarmt,
-Anna&lt;/p&gt;
-&lt;p&gt;Hier findest du mehr über Jonas:
-Instagram: vital_elevation
-Linkedin: https://de.linkedin...
-Feed: https://wellbeinganna.podigee.io/feed/mp3</description>
+                <title>Viele, viele bunte Smartnews</title>
+                <description>Eine süße Foto-Tüte - von Weltneuheit über KI-Flüstern, Filmdosensoßen, Neufi als Seufi oder als Queen und viel extra Vorbereitetes für Euch aus dem aktuellen Fotogeschehen
+Feed: https://fotopodcast.de/feed/mp3/</description>
                 
                 
-                <link>https://wellbeinganna.podigee.io/138-bodybuildingfitness</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1059903-m-3863194aa1257ef197dc2353f05e1234.mp3?source=feed"/>
-                <guid>https://wellbeinganna.podigee.io/138-bodybuildingfitness</guid>
+                <link>https://fotopodcast.de/fpc332/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fotopodcast.de/podlove/file/7365/s/feed/c/mp3/fpc332.mp3"/>
+                <guid>https://fotopodcast.de/fpc332/</guid>
                 
             </item>
         </channel>

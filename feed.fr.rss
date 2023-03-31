@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 30 Mar 2023 04:23:10 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 31 Mar 2023 04:23:23 +0200</lastBuildDate>
             <item>
-                <title>Les messages secrets de Pompéi, préservés dans les graffitis | Jacqueline DiBiasie-Sammons</title>
-                <description>Les messages secrets de Pompéi, préservés dans les graffitis | Jacqueline DiBiasie-Sammons
-Feed: https://feeds.feedburner.com/FrenchPodcastArt</description>
+                <title>Tous espionnés</title>
+                <description>L’affaire Pegasus a révélé l’ampleur de la surveillance des téléphones portables grâce à des logiciels espions. Les Etats investissent ...
+Feed: https://www.rts.ch/emissions/geopolitis/podcasts/?format=rss/podcast</description>
                 
                 
-                <link>https://www.ted.com/talks/jacqueline_dibiasie_sammons_ancient_pompeii_s_hidden_messages_preserved_in_graffiti?rss=172BB350-0042</link>
-                <enclosure type="audio/mpeg" length="1" url="https://download.ted.com/products/163508.mp4?apikey=172BB350-0042"/>
-                <guid>https://www.ted.com/talks/jacqueline_dibiasie_sammons_ancient_pompeii_s_hidden_messages_preserved_in_graffiti?rss=172BB350-0042</guid>
+                <link>https://www.rts.ch/video/emissions/geopolitis/13870769-tous-espionnes.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/13870769/f3dfaae8-31e5-3ee1-a129-9d1c4cadc674.mp4"/>
+                <guid>https://www.rts.ch/video/emissions/geopolitis/13870769-tous-espionnes.html</guid>
                 
             </item><item>
-                <title>Marie et Fabienne - Telito, des chaussures pour que nos pieds retrouvent leur état naturel - Rencontre</title>
-                <description>C&#39;est le retour des Rencontres sur Esperluette et pour ce retour j&#39;ai décidé de vous proposer non pas de chouchouter vos oreilles mais vos pieds ! 
-Et en prime, c’est une belle histoire de famille que je vais vous faire découvrir. 
-Partie d’une idée fo...
-Feed: https://feed.ausha.co/oLnR0FgRq0nr</description>
+                <title>La fessée : de la violence éducative à son interdiction</title>
+                <description>La fessée était largement répandue dans la Rome antique, au Moyen-Âge et à la Renaissance. L&#39;enseignante d&#39;histoire au Collège Jean-de-Brébeuf Geneviève Pronovost explique comment on lui prêtait des vertus éducatives et disciplinaires.
+Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
                 
                 
-                <link>https://podcast.ausha.co/esperluette/marie-et-fabienne-telito-des-chaussures-pour-que-nos-pieds-retrouvent-leur-etat-naturel-rencontre</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/audio.ausha.co/yAj2lhLmVD4w.mp3?t=1677259747"/>
-                <guid>https://podcast.ausha.co/esperluette/marie-et-fabienne-telito-des-chaussures-pour-que-nos-pieds-retrouvent-leur-etat-naturel-rencontre</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/7824aa50-2d98-49d9-9fc0-f3ef4d16624e/2023-03-24_08_55_00_aujourdhuilhistoirebalado_0000.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

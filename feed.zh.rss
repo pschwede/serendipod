@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 30 Mar 2023 04:23:22 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 31 Mar 2023 04:23:42 +0200</lastBuildDate>
             <item>
-                <title>Bunnies, Baseball, and Aliens on the Moon</title>
-                <description>&lt;p&gt;April 1, 2023. In honor of April Fools’ Day, we give you three historical tales of the bluff and the bamboozle. An autumn day in 1726, when an English peasant gives birth to something mysterious … and furry. Mets spring training in 1985, as the world meets an otherworldly baseball player with a superhuman arm...
-Feed: https://feeds.acast.com/public/shows/d9768fa0-a79a-4ead-9102-f965e8a470bc</description>
-                
-                
-                <link>https://shows.acast.com/historythisweek/episodes/bunnies-baseball-and-aliens-on-the-moon</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/historythisweek/e/641e1a94297763001046947d/media.mp3"/>
-                <guid>https://shows.acast.com/historythisweek/episodes/bunnies-baseball-and-aliens-on-the-moon</guid>
-                
-            </item><item>
                 <title>Boris Johnson&#39;s Testimony Proves There Is No God</title>
                 <description>With Josh Gondelman and Tiff Stevenson
 Feed: https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607</description>
@@ -29,6 +19,16 @@ Feed: https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607</description
                 <link>http://thebuglepodcast.com/donate</link>
                 <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/641f0427d0199a0011420e84/media.mp3"/>
                 <guid>http://thebuglepodcast.com/donate</guid>
+                
+            </item><item>
+                <title>Crack The Code On Anxiety | ES157</title>
+                <description>Did you know that our anxiety often stems from our early life experiences? When we were rejected, scolded, or neglected as children, our subconscious was startled and created a new set of beliefs to protect us. This can lead us down one of two paths - the avoidance track where we stay away from potential harm, or the pleasing track where we seek approval from those who are supposed to protect and nourish us...
+Feed: https://feeds.captivate.fm/get-real-with-dr-friedemann/</description>
+                
+                
+                <link>https://drfriedemann.com/understanding-anxiety-how-early-experiences-influence-our-subconscious-patterns-es157</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/A2E1DA/podcasts.captivate.fm/media/6b8ed93d-ac28-4611-8ba8-8bba827a1c2c/ES-157-converted.mp3"/>
+                <guid>https://drfriedemann.com/understanding-anxiety-how-early-experiences-influence-our-subconscious-patterns-es157</guid>
                 
             </item>
         </channel>
