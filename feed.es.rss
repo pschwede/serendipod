@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 31 Mar 2023 04:23:29 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 01 Apr 2023 04:21:56 +0200</lastBuildDate>
             <item>
-                <title>La república digital de Estonia</title>
-                <description>Estonia lleva años apostando por la transformación digital. Casi todo se puede hacer online, desde renovar el pasaporte hasta votar. Las estrictas normas de seguridad intentan garantizar la protección de los datos.
-Feed: https://rss.dw.com/xml/podcast_enlaces</description>
+                <title>Cinefagia FM · Episodio 280 · 24-03-2023 · Departamento Carey</title>
+                <description>Tu programa de cine en Radio Kras: Actualidad cin&amp;eacute;faga, los estrenos, la taquilla, las noticias y nuestras recomendaciones, tambi&amp;eacute;n seri&amp;eacute;filas. Cl&amp;aacute;sicos No Tan Populares (Los casos del Departamento Q); Cara B (Timothy Carey) y nuestra BSO con canciones de la pel&amp;iacute;cula The Boxer y de la m&amp;iacute;tica banda The Cure.
+Feed: https://www.ivoox.com/cinefagia-fm_fg_f1127454_filtro_1.xml</description>
                 
                 
-                <link>https://www.dw.com/es/la-república-digital-de-estonia/av-65178491?maca=spa-podcast_enlaces-7583-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/enl/enl20230330_Estonia_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/la-república-digital-de-estonia/av-65178491?maca=spa-podcast_enlaces-7583-xml-mrss</guid>
+                <link>https://www.ivoox.com/cinefagia-fm-episodio-280-24-03-2023-audios-mp3_rf_105160248_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cinefagia-fm-episodio-280-24-03-2023_mh_105160248_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/cinefagia-fm-episodio-280-24-03-2023-audios-mp3_rf_105160248_1.html</guid>
                 
             </item><item>
-                <title>Lo extraordinario en lo ordinario</title>
-                <description>&amp;ldquo;Tambi&amp;eacute;n entre los pucheros anda Dios &amp;hellip; &amp;rdquo; nos recordaba la m&amp;iacute;stica Teresa de Jes&amp;uacute;s en sus fundaciones. No deja de ser una afirmaci&amp;oacute;n clara de que no necesitamos hacer algo en concreto para despertar a nuestro esp&amp;iacute;ritu en su libro &amp;ldquo;el que viene&amp;rdquo; de A. y D...
-Feed: https://www.ivoox.com/podcast-nodo-estelar-aneto_fg_f11026236_filtro_1.xml</description>
+                <title>Desactivé todos los permisos de la app de Twitter #Tech</title>
+                <description>&lt;p&gt;Como de momento no quiero eliminar la aplicación porque hay cuentas que me interesa seguir y no tienen otros medios alternativos como Mastodon, la solución más rápida que encontré para evitar que el loco de Musk haga alguna trastada, es dejar la aplicación de Twitter lo más restringida posible en mi iPhone.&lt;/p&gt;
+&lt;p&gt;Todos los medios donde publico este tipo de contenido y más, los encuentran en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/&lt;/p&gt;
+
+Feed: https://comopiensodigo.com/@comopiensodigo/feed.xml</description>
                 
                 
-                <link>https://www.ivoox.com/lo-extraordinario-lo-ordinario-audios-mp3_rf_105081476_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/lo-extraordinario-lo-ordinario_mf_105081476_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/lo-extraordinario-lo-ordinario-audios-mp3_rf_105081476_1.html</guid>
+                <link>https://comopiensodigo.com/@comopiensodigo/episodes/desactive-todos-los-permisos-de-la-app-de-twitter</link>
+                <enclosure type="audio/mpeg" length="1" url="https://comopiensodigo.com/audio/@comopiensodigo/desactive-todos-los-permisos-de-la-app-de-twitter.mp3?_from=fyyd.de"/>
+                <guid>https://comopiensodigo.com/@comopiensodigo/episodes/desactive-todos-los-permisos-de-la-app-de-twitter</guid>
                 
             </item>
         </channel>

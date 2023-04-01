@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 31 Mar 2023 04:23:23 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 01 Apr 2023 04:21:50 +0200</lastBuildDate>
             <item>
-                <title>Tous espionnés</title>
-                <description>L’affaire Pegasus a révélé l’ampleur de la surveillance des téléphones portables grâce à des logiciels espions. Les Etats investissent ...
-Feed: https://www.rts.ch/emissions/geopolitis/podcasts/?format=rss/podcast</description>
+                <title>Rythmologie : 03/30/2023 20:00</title>
+                <description>686-285616
+Feed: http://podcast.cism893.ca/radioshows/686/feed_itunes.xml</description>
                 
                 
-                <link>https://www.rts.ch/video/emissions/geopolitis/13870769-tous-espionnes.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/13870769/f3dfaae8-31e5-3ee1-a129-9d1c4cadc674.mp4"/>
-                <guid>https://www.rts.ch/video/emissions/geopolitis/13870769-tous-espionnes.html</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/285616.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/285616.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/285616.mp3</guid>
                 
             </item><item>
-                <title>La fessée : de la violence éducative à son interdiction</title>
-                <description>La fessée était largement répandue dans la Rome antique, au Moyen-Âge et à la Renaissance. L&#39;enseignante d&#39;histoire au Collège Jean-de-Brébeuf Geneviève Pronovost explique comment on lui prêtait des vertus éducatives et disciplinaires.
-Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
+                <title>2.12 Ecrire un dialogue prenant</title>
+                <description>Après l&#39;écriture de bonnes descriptions (https://jecrisunroman.eu/comment-ecrire-une-description-vivante/), passons aux dialogues ! S&#39;ils ont l&#39;air plus faciles à écrire pour la plupart des auteurs, attention... Ils restent difficiles à réussir et à re...
+Feed: https://feed.ausha.co/B4MYwHnNVDYN</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/7824aa50-2d98-49d9-9fc0-f3ef4d16624e/2023-03-24_08_55_00_aujourdhuilhistoirebalado_0000.mp3"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/le-cafe-des-auteurs/ecrire-un-dialogue-prenant</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BN9RDUAP3NL7.mp3?t=1679062986"/>
+                <guid>https://podcast.ausha.co/le-cafe-des-auteurs/ecrire-un-dialogue-prenant</guid>
                 
             </item>
         </channel>
