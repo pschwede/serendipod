@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 01 Apr 2023 04:22:14 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 02 Apr 2023 04:21:48 +0200</lastBuildDate>
             <item>
-                <title>The Ancient Order Of Bali</title>
-                <description>In 1970s Bali, a sudden rice crisis prompted an u…
-Feed: https://feeds.feedburner.com/damn-interesting-podcast</description>
+                <title>12.10: Marcel Duchamp, Bicycle Wheel</title>
+                <description>12.10: Marcel Duchamp, Bicycle Wheel
+Feed: https://listeningtoart.org/feed/issues-mp3.xml</description>
                 
                 
-                <link>https://soundcloud.com/damn-interesting/the-ancient-order-of-bali</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1478690191-damn-interesting-the-ancient-order-of-bali.mp3"/>
-                <guid>https://soundcloud.com/damn-interesting/the-ancient-order-of-bali</guid>
+                <link>https://listeningtoart.org/12.10/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://listeningtoart.org/audio/listening-to-art-12.10.mp3"/>
+                <guid>https://listeningtoart.org/12.10/</guid>
                 
             </item><item>
-                <title>Week 12 Episode 36 - Up, Up and Away for Friday </title>
-                <description>&lt;p&gt;The Sweat 7 is a new kind of weekly workout and a new kind of podcast.....
-Feed: https://feeds.acast.com/public/shows/b48a3aa8-bbdb-4a7a-9a54-4b4ecec84221</description>
+                <title>Aicha: The Demon Slayer</title>
+                <description>The Northern African tale of Aicha, the demon slayer, comes from modern-day Algeria and Morocco. Aicha is brave, beautiful, smart, capable and sometimes magical- literally. She rejects a lazy prince, tricks a cannibal and is cursed to wander the eart...
+Feed: https://feed.podbean.com/talesfromtheenchantedforest/feed.xml</description>
                 
                 
-                <link>https://shows.acast.com/the-sweat-7/episodes/week-12-episode-36-up-up-and-away-for-friday</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/the-sweat-7/e/641debb149501c001156ba74/media.mp3"/>
-                <guid>https://shows.acast.com/the-sweat-7/episodes/week-12-episode-36-up-up-and-away-for-friday</guid>
+                <link>https://talesfromtheenchantedforest.podbean.com/e/aicha-the-demon-slayer/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/a7fg6b/36_Aicha.mp3"/>
+                <guid>https://talesfromtheenchantedforest.podbean.com/e/aicha-the-demon-slayer/</guid>
                 
             </item>
         </channel>

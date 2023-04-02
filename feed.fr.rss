@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 01 Apr 2023 04:21:50 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 02 Apr 2023 04:21:28 +0200</lastBuildDate>
             <item>
-                <title>Rythmologie : 03/30/2023 20:00</title>
-                <description>686-285616
-Feed: http://podcast.cism893.ca/radioshows/686/feed_itunes.xml</description>
+                <title>Iran-Arabie Saoudite, la détente</title>
+                <description>Le rapprochement entre l&#39;Iran et l&#39;Arabie saoudite pourrait peser sur toute la géopolitique du Moyen-Orient, alors que la Chine étend son influence ...
+Feed: https://www.rts.ch/emissions/geopolitis/podcasts/?format=rss/podcast</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/285616.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/285616.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/285616.mp3</guid>
+                <link>https://www.rts.ch/video/emissions/geopolitis/13909000-iranarabie-saoudite-la-detente.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/13909000/75bd09d1-4a2a-364f-abbd-76ddf07df2d7.mp4"/>
+                <guid>https://www.rts.ch/video/emissions/geopolitis/13909000-iranarabie-saoudite-la-detente.html</guid>
                 
             </item><item>
-                <title>2.12 Ecrire un dialogue prenant</title>
-                <description>Après l&#39;écriture de bonnes descriptions (https://jecrisunroman.eu/comment-ecrire-une-description-vivante/), passons aux dialogues ! S&#39;ils ont l&#39;air plus faciles à écrire pour la plupart des auteurs, attention... Ils restent difficiles à réussir et à re...
-Feed: https://feed.ausha.co/B4MYwHnNVDYN</description>
+                <title>Les termes du débat 69/69 : Banques</title>
+                <description>Les termes du débat 69/69 : Banques
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10175.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/le-cafe-des-auteurs/ecrire-un-dialogue-prenant</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BN9RDUAP3NL7.mp3?t=1679062986"/>
-                <guid>https://podcast.ausha.co/le-cafe-des-auteurs/ecrire-un-dialogue-prenant</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/banques-3252437</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/f5c21c97-23c8-4134-aae8-7c46d64ef548/10175-31.03.2023-ITEMA_23334661-2023C36267S0090-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/banques-3252437</guid>
                 
             </item>
         </channel>

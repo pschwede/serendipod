@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 01 Apr 2023 04:21:56 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 02 Apr 2023 04:21:33 +0200</lastBuildDate>
             <item>
-                <title>Cinefagia FM · Episodio 280 · 24-03-2023 · Departamento Carey</title>
-                <description>Tu programa de cine en Radio Kras: Actualidad cin&amp;eacute;faga, los estrenos, la taquilla, las noticias y nuestras recomendaciones, tambi&amp;eacute;n seri&amp;eacute;filas. Cl&amp;aacute;sicos No Tan Populares (Los casos del Departamento Q); Cara B (Timothy Carey) y nuestra BSO con canciones de la pel&amp;iacute;cula The Boxer y de la m&amp;iacute;tica banda The Cure.
-Feed: https://www.ivoox.com/cinefagia-fm_fg_f1127454_filtro_1.xml</description>
+                <title>Podcast FDC 111 – M3GAN (2022)</title>
+                <description>Le dimos una mirada a M3GAN, película de Blumhouse y Atomic Monster que nos muestra a una fabricante de robots construyendo a una muñeca con inteligencia artificial para que cuide a su sobrina huérfana. Mientras la niña se va volviendo dependiente de l...
+Feed: https://fueradelcine.com/feed/podcast/</description>
                 
                 
-                <link>https://www.ivoox.com/cinefagia-fm-episodio-280-24-03-2023-audios-mp3_rf_105160248_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cinefagia-fm-episodio-280-24-03-2023_mh_105160248_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/cinefagia-fm-episodio-280-24-03-2023-audios-mp3_rf_105160248_1.html</guid>
+                <link>https://fueradelcine.com/podcast-fdc-111-m3gan-2022/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-111-fdc-04-02-2022.mp3"/>
+                <guid>https://fueradelcine.com/podcast-fdc-111-m3gan-2022/</guid>
                 
             </item><item>
-                <title>Desactivé todos los permisos de la app de Twitter #Tech</title>
-                <description>&lt;p&gt;Como de momento no quiero eliminar la aplicación porque hay cuentas que me interesa seguir y no tienen otros medios alternativos como Mastodon, la solución más rápida que encontré para evitar que el loco de Musk haga alguna trastada, es dejar la aplicación de Twitter lo más restringida posible en mi iPhone.&lt;/p&gt;
-&lt;p&gt;Todos los medios donde publico este tipo de contenido y más, los encuentran en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta.me/&lt;/p&gt;
-
-Feed: https://comopiensodigo.com/@comopiensodigo/feed.xml</description>
+                <title>Festa Cultura Rambles i T3 a Ràdio Rambles!</title>
+                <description>En aquest programa conversem amb Dani Granados, delegat de Drets Culturals de l&#39;Ajuntament de Barcelona i celebrem amb Roberto Tierz els 40 anys de la mítica Sala Sidecar, tot un referent de la música, el ball i el nocatumbilisme. També parlem amb a Marga Garcia de l&#39;AIPCC sobre la Festa de Santa Madrona i amb Josep Lluís Esteras, president dels Gegants del Pi, sobre la Passejada dels Oriols i les Festes de Sant Josep Oriol, justament mentres desfilen els Gegants...
+Feed: https://xrcb.cat/subscribirse-a-podcast/?id=5919</description>
                 
                 
-                <link>https://comopiensodigo.com/@comopiensodigo/episodes/desactive-todos-los-permisos-de-la-app-de-twitter</link>
-                <enclosure type="audio/mpeg" length="1" url="https://comopiensodigo.com/audio/@comopiensodigo/desactive-todos-los-permisos-de-la-app-de-twitter.mp3?_from=fyyd.de"/>
-                <guid>https://comopiensodigo.com/@comopiensodigo/episodes/desactive-todos-los-permisos-de-la-app-de-twitter</guid>
+                <link>https://xrcb.cat/ca/podcast/festa-cultura-rambles-i-t3-a-radio-rambles/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://xrcb.cat/wp-content/uploads/2023/03/PodcastR.mp3"/>
+                <guid>https://xrcb.cat/ca/podcast/festa-cultura-rambles-i-t3-a-radio-rambles/</guid>
                 
             </item>
         </channel>
