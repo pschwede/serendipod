@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 02 Apr 2023 04:21:33 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 03 Apr 2023 04:22:11 +0200</lastBuildDate>
             <item>
-                <title>Podcast FDC 111 – M3GAN (2022)</title>
-                <description>Le dimos una mirada a M3GAN, película de Blumhouse y Atomic Monster que nos muestra a una fabricante de robots construyendo a una muñeca con inteligencia artificial para que cuide a su sobrina huérfana. Mientras la niña se va volviendo dependiente de l...
-Feed: https://fueradelcine.com/feed/podcast/</description>
+                <title>06 - Democracia Líquida</title>
+                <description>&lt;p&gt;En este episodio de Comunidad Kyron, @OrfeoApolloson y @CastorPolux2050 discuten cómo enfrentar el desafío de construir una comunidad planetaria descentralizada con democracia líquida y organización interna. También charlan sobre cómo se puede implementar un sistema de delegación de votos y se propone un incentivo económico para la participación en las decisiones de la comunidad.&lt;/p&gt;&lt;p&gt;Conocé más en https://linktr...
+Feed: https://anchor.fm/s/d983d748/podcast/rss</description>
                 
                 
-                <link>https://fueradelcine.com/podcast-fdc-111-m3gan-2022/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-111-fdc-04-02-2022.mp3"/>
-                <guid>https://fueradelcine.com/podcast-fdc-111-m3gan-2022/</guid>
+                <link>https://podcasters.spotify.com/pod/show/comunidad-kyron/episodes/06---Democracia-Lquida-e1tpeol</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/d983d748/podcast/play/63797461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-20%2Fd5ef1daf-cada-20e8-490c-4bc27d3a438b.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/comunidad-kyron/episodes/06---Democracia-Lquida-e1tpeol</guid>
                 
             </item><item>
-                <title>Festa Cultura Rambles i T3 a Ràdio Rambles!</title>
-                <description>En aquest programa conversem amb Dani Granados, delegat de Drets Culturals de l&#39;Ajuntament de Barcelona i celebrem amb Roberto Tierz els 40 anys de la mítica Sala Sidecar, tot un referent de la música, el ball i el nocatumbilisme. També parlem amb a Marga Garcia de l&#39;AIPCC sobre la Festa de Santa Madrona i amb Josep Lluís Esteras, president dels Gegants del Pi, sobre la Passejada dels Oriols i les Festes de Sant Josep Oriol, justament mentres desfilen els Gegants...
-Feed: https://xrcb.cat/subscribirse-a-podcast/?id=5919</description>
+                <title>Selections Radio | Episode 022</title>
+                <description>Ivan Voltes selecciona sus lanzamientos favoritos de la semana con su nuevo radio show #SelectionsRadio.
+No olvides suscribirte al podcast oficial en tu plataforma favorita. Escribe tus comentarios en Twitter @ivanvoltes #SelectionsRadio. linktr.ee/selectionsradio
+Tracklist: 1001.tl/74q1rl
+Feed: https://www.ivoox.com/ivan-voltes-presents-dance-live-radio_fg_f1166124_filtro_1.xml</description>
                 
                 
-                <link>https://xrcb.cat/ca/podcast/festa-cultura-rambles-i-t3-a-radio-rambles/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://xrcb.cat/wp-content/uploads/2023/03/PodcastR.mp3"/>
-                <guid>https://xrcb.cat/ca/podcast/festa-cultura-rambles-i-t3-a-radio-rambles/</guid>
+                <link>https://www.ivoox.com/selections-radio-episode-022-audios-mp3_rf_105521921_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/selections-radio-episode-022_mf_105521921_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/selections-radio-episode-022-audios-mp3_rf_105521921_1.html</guid>
                 
             </item>
         </channel>

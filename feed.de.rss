@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 02 Apr 2023 04:21:23 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 03 Apr 2023 04:22:02 +0200</lastBuildDate>
             <item>
-                <title>Filmspezial: Walt Disney&#39;s Pinocchio</title>
-                <description>When you wish upon a star
-Feed: https://rotzundwasser.podigee.io/feed/mp3</description>
+                <title>052 Drinks, Accessoires und Abendtalk (Sartorial-Folge)</title>
+                <description>Ben und die Philip(p)s reden über Drinks, Accessoires und was sonst noch so an dem Abend angefallen ist
+Feed: https://bambamclub.com/podcast?format=RSS</description>
                 
                 
-                <link>https://rotzundwasser.podigee.io/157-pinocchio</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1041232-m-44f352d48db5ec961334491f6c0c1e9e.mp3?source=feed"/>
-                <guid>https://rotzundwasser.podigee.io/157-pinocchio</guid>
+                <link>https://bambamclub.com/podcast/2023/4/1/052-drinks-accessoires-und-abendtalk-sartorial-folge</link>
+                <enclosure type="audio/mpeg" length="1" url="https://static1.squarespace.com/static/5b9e57d9b27e39d99a3f3080/t/642893bcb88e06554e995809/1680381017963/Sartorial+II_mixdown.mp3"/>
+                <guid>https://bambamclub.com/podcast/2023/4/1/052-drinks-accessoires-und-abendtalk-sartorial-folge</guid>
                 
             </item><item>
-                <title>100. Jahre Code Culture</title>
-                <description>Unsere Top 3 aus 100 Folgen
-Feed: https://codeculture.podigee.io/feed/aac</description>
+                <title>Kann ich 100% KI-Content auf Google ranken?</title>
+                <description>Wir sehen uns gemeinsam ein kleines nicht wissens…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:321223505/sounds.rss</description>
                 
                 
-                <link>https://codeculture.podigee.io/100-100-jahre-code-culture</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1050754-m-dccda3167371d310778423fd91bd85c8.m4a?source=feed"/>
-                <guid>https://codeculture.podigee.io/100-100-jahre-code-culture</guid>
+                <link>https://soundcloud.com/evergreen-media/ki-texte-experimente</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1469476324-evergreen-media-ki-texte-experimente.mp3"/>
+                <guid>https://soundcloud.com/evergreen-media/ki-texte-experimente</guid>
                 
             </item>
         </channel>
