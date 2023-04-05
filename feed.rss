@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 04 Apr 2023 04:22:04 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 05 Apr 2023 04:22:27 +0200</lastBuildDate>
             <item>
-                <title>#261 Da Babies</title>
-                <description>On Today’s Menu on Marsha’s Plate
-#261 We talk gu…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:10632874/sounds.rss</description>
+                <title>The Swiftie Panel - Apple Pay Later, Twitter Alternative, April Fool&#39;s</title>
+                <description>Apple Pay Later, Twitter Alternative, April Fool&#39;s
+Feed: https://feeds.twit.tv/twit_video_hd.xml</description>
                 
                 
-                <link>https://soundcloud.com/danella-xuc/261-da-babies</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1481551174-danella-xuc-261-da-babies.mp3"/>
-                <guid>https://soundcloud.com/danella-xuc/261-da-babies</guid>
+                <link>https://twit.tv/shows/this-week-in-tech/episodes/921</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.twit.tv/video/twit/twit0921/twit0921_h264m_1920x1080.mp4"/>
+                <guid>https://twit.tv/shows/this-week-in-tech/episodes/921</guid>
                 
             </item><item>
-                <title>Ep #323 From a Childhood in Poverty to 300 Million in Sales Interview With Matthew Gallagher Founder and CEO Watch Gang</title>
-                <description>&lt;p&gt;I got to speak to Matthew Gallagher.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Matthew is Los Angeles based entrepreneur with a history in computer engineering and digital advertising. As the founder and CEO of Watch Gang, Matthew oversees the day to day business operations of the world&amp;#39;s largest watch club, leading the business to $300M in sales. Matthew&amp;#39;s childhood in poverty made him passionate about helping others and led him to becoming a committed philanthropist...
-Feed: https://anchor.fm/s/17ba6a0/podcast/rss</description>
+                <title>12.10: Marcel Duchamp, Bicycle Wheel</title>
+                <description>12.10: Marcel Duchamp, Bicycle Wheel
+Feed: https://listeningtoart.org/feed/issues-mp3.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/roman-prokopchuk/episodes/Ep-323-From-a-Childhood-in-Poverty-to-300-Million-in-Sales-Interview-With-Matthew-Gallagher-Founder-and-CEO-Watch-Gang-e21fp4j</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/17ba6a0/podcast/play/67674707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F17ba6a0%2F67674707%2F35ed3ee4a3dd7c5c51c83e98598c38e2.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/roman-prokopchuk/episodes/Ep-323-From-a-Childhood-in-Poverty-to-300-Million-in-Sales-Interview-With-Matthew-Gallagher-Founder-and-CEO-Watch-Gang-e21fp4j</guid>
+                <link>https://listeningtoart.org/12.10/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://listeningtoart.org/audio/listening-to-art-12.10.mp3"/>
+                <guid>https://listeningtoart.org/12.10/</guid>
                 
             </item>
         </channel>

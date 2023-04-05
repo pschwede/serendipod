@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 04 Apr 2023 04:22:34 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 05 Apr 2023 04:22:50 +0200</lastBuildDate>
             <item>
-                <title>Bot Love 7 - The Uncanny Valley</title>
-                <description>What is the future for humans and bots?
-Feed: http://feeds.radiotopia.fm/radiotopia-showcase</description>
+                <title>THEMOVE: 2023 Tour of Flanders</title>
+                <description>Johan and George break down this year’s Tour of Flanders, from Flanders! They take us play-by-play through how the race unfolded and discuss the battle of “The Big Three”, Tadej Pogacar, Mathieu van der Poel, and Wout Van Aert.  Enter the...
+Feed: https://stages.libsyn.com/rss</description>
                 
                 
-                <link>https://beta.prx.org/stories/457589</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/72/1c72b2b3-41cd-4424-a00d-6776edb0c1a3/BotLove_Ep7_RS_FINAL_SegA.mp3"/>
-                <guid>https://beta.prx.org/stories/457589</guid>
+                <link>https://stages.libsyn.com/themove-2023-tour-of-flanders</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/stages/TMV_-_2023_Tour_of_Flanders_FINAL.mp3?dest-id=535577"/>
+                <guid>https://stages.libsyn.com/themove-2023-tour-of-flanders</guid>
                 
             </item><item>
-                <title>Enjoying NeuroSpicy Theater in 35 MM</title>
-                <description>Beau gets cracked by a chiropractor and Meryl witnesses some movie magic. We talk about fancy high end theaters, and why the bar needs to be higher for chocolates and hotel breakfasts! 
-Feed: https://feeds.simplecast.com/qkxj6NHf</description>
+                <title>Podcast Standards Project</title>
+                <description>Todd Cochrane, Founder of Blubrry Podcasting, and Rob Greenlee, founder of Spoken Life Media, discuss the importance of supporting Open RSS and pushing for new features to increase adoption. We address criticisms from larger platforms that RSS is not i...
+Feed: https://newmediashow.com/feed/podcast/</description>
                 
                 
-                <link>https://campfire-sht-show.simplecast.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/B9D17A/cdn.simplecast.com/audio/38bdabcb-8416-42d9-965a-614b92ac4b37/episodes/90193b10-5877-4d5a-a21c-a76c368040e3/audio/35759105-be20-48c0-aa4d-eedb7d557a38/default_tc.mp3?aid=rss_feed&amp;feed=qkxj6NHf"/>
-                <guid>https://campfire-sht-show.simplecast.com/</guid>
+                <link>https://newmediashow.com/2023/03/29/podcast-stanards-project/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=podcast-stanards-project</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/nms/media.blubrry.com/tmts/ins.blubrry.com/tmts/NMS-2023-03-29.mp4"/>
+                <guid>https://newmediashow.com/2023/03/29/podcast-stanards-project/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=podcast-stanards-project</guid>
                 
             </item>
         </channel>
