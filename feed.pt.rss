@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 05 Apr 2023 04:22:45 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 06 Apr 2023 04:22:25 +0200</lastBuildDate>
             <item>
-                <title>Emissão Vespertina Ter - abril 04, 2023</title>
-                <description>Um programa orientado aos países Lusófonos de África, Brasil e comunidades de língua portuguesa no mundo. Oferece noticias do dia, informação, analises, desporto, artes, entretenimento, saúde, questões em debate em África. Às sextas em especial um convidado explora vários ângulos de um tema.
-Feed: https://www.voaportugues.com/podcast/?count=20&amp;zoneId=3066</description>
+                <title>Ep 635 - Botóx, o vampiro das expressões faciais</title>
+                <description>Apeadeiros da conversa:
+Botóx, o vampiro.
+Mofo g…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:386738054/sounds.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://av.voanews.com/clips/VPO/2023/04/04/20230404-170000-VPO077-program_original.mp3"/>
-                <guid></guid>
+                <link>https://soundcloud.com/tuneldevento/ep-635-botox-o-vampiro-das-expressoes-faciais</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1484333890-tuneldevento-ep-635-botox-o-vampiro-das-expressoes-faciais.mp3"/>
+                <guid>https://soundcloud.com/tuneldevento/ep-635-botox-o-vampiro-das-expressoes-faciais</guid>
                 
             </item><item>
-                <title>Por dentro da internet.br #6 - Justiça Racial e Tecnologia</title>
-                <description>Nesse episódio, Sérgio Amadeu conversou com Julia…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:555955248/sounds.rss</description>
+                <title>Resenha Show - 1 - Clóvis Moura: Raízes do Protesto Negro </title>
+                <description>&lt;p&gt;Tosquinhos e tosquinhas! Chega até você o primeiro &lt;strong&gt;Resenha Show&lt;/strong&gt;...
+Feed: https://anchor.fm/s/7dfb0f7c/podcast/rss</description>
                 
                 
-                <link>https://soundcloud.com/podcasttecnopolitica/tecnopolitica-por-dentro-da-internet-br-6</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1485121873-podcasttecnopolitica-tecnopolitica-por-dentro-da-internet-br-6.mp3"/>
-                <guid>https://soundcloud.com/podcasttecnopolitica/tecnopolitica-por-dentro-da-internet-br-6</guid>
+                <link>https://podcasters.spotify.com/pod/show/revolushow/episodes/Resenha-Show---1---Clvis-Moura-Razes-do-Protesto-Negro-e2111t8</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/7dfb0f7c/podcast/play/67192168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-24%2F20e7fac3-c620-58d9-aa6f-086cbd6e48d6.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/revolushow/episodes/Resenha-Show---1---Clvis-Moura-Razes-do-Protesto-Negro-e2111t8</guid>
                 
             </item>
         </channel>

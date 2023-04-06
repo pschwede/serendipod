@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 05 Apr 2023 04:22:37 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 06 Apr 2023 04:22:14 +0200</lastBuildDate>
             <item>
-                <title>Ghetto érudit : 04/01/2023 19:00</title>
-                <description>704-285750
-Feed: http://podcast.cism893.ca/radioshows/704/feed_itunes.xml</description>
+                <title>Paul Charpentier - Jour de la morille</title>
+                <description>
+                        *petit mix sans micro*
+Marshall Watson - High Desert (Seahawks High Sky Remix) - NuNorthern SoulMasahiro Takahashi - Cloud Boat - Telephone ExplosionNew Composers, Andre P &amp; Droomie - Tsunami - Shango RecordsJIM - Still River Flow (Generalisation Dub) - V
+                    
+Feed: https://www.choq.ca/emissions/mutations/rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/285750.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/285750.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/285750.mp3</guid>
+                <link>https://www.choq.ca/balados/mutations/emission-du-2-avril-2023-2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mp3.choq.ca/mp3/episode/51421/Mutations-2-avril-2023.mp3"/>
+                <guid>https://www.choq.ca/balados/mutations/emission-du-2-avril-2023-2</guid>
                 
             </item><item>
-                <title>Rythmologie : 03/30/2023 20:00</title>
-                <description>686-285616
-Feed: http://podcast.cism893.ca/radioshows/686/feed_itunes.xml</description>
+                <title>Les maisons de vétérans, la solution d’après-guerre à la crise du logement</title>
+                <description>Dans le Canada d&#39;après-guerre, les ouvriers sont mal logés, et dans les villes, des familles nombreuses s&#39;entassent dans des taudis. En plein baby-boom, le gouvernement fédéral agit: il fait construire en quelques années seulement des dizaines de milliers de maisons modestes et bon marché. Lucie K...
+Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/285616.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/285616.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/285616.mp3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/b4c0c3f6-6ce2-49ae-bf5d-22e683eb7d8f/2023-03-31_15_28_48_aujourdhuilhistoirebalado_0000.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
