@@ -9,29 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 06 Apr 2023 04:22:14 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 07 Apr 2023 04:22:19 +0200</lastBuildDate>
             <item>
-                <title>Paul Charpentier - Jour de la morille</title>
-                <description>
-                        *petit mix sans micro*
-Marshall Watson - High Desert (Seahawks High Sky Remix) - NuNorthern SoulMasahiro Takahashi - Cloud Boat - Telephone ExplosionNew Composers, Andre P &amp; Droomie - Tsunami - Shango RecordsJIM - Still River Flow (Generalisation Dub) - V
-                    
-Feed: https://www.choq.ca/emissions/mutations/rss</description>
-                
-                
-                <link>https://www.choq.ca/balados/mutations/emission-du-2-avril-2023-2</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mp3.choq.ca/mp3/episode/51421/Mutations-2-avril-2023.mp3"/>
-                <guid>https://www.choq.ca/balados/mutations/emission-du-2-avril-2023-2</guid>
-                
-            </item><item>
-                <title>Les maisons de vétérans, la solution d’après-guerre à la crise du logement</title>
-                <description>Dans le Canada d&#39;après-guerre, les ouvriers sont mal logés, et dans les villes, des familles nombreuses s&#39;entassent dans des taudis. En plein baby-boom, le gouvernement fédéral agit: il fait construire en quelques années seulement des dizaines de milliers de maisons modestes et bon marché. Lucie K...
-Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
+                <title>Les nouvelles attentes pros et particulier </title>
+                <description>Bonjour à tous et salut les bichons, c’est Laurent JACQUET et aujourd’hui nous sommes en direct du salon Tout Faire qui se tiens au Co’MET d’Orléans en ce début d’année 2023. Un RDV qui réunis 1500 participants et plus de 200 exposants fabricants, industriels et...
+Feed: https://feeds.audiomeans.fr/feed/f8fc4dc7-11a6-48c5-8e8c-4dd2ac13ad8c.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/b4c0c3f6-6ce2-49ae-bf5d-22e683eb7d8f/2023-03-31_15_28_48_aujourdhuilhistoirebalado_0000.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/7964d94f-6ad8-4f53-8cfc-e277b7e17de5.mp3?_=1680609458"/>
                 <guid></guid>
+                
+            </item><item>
+                <title>Mon Carnet du 7 avril 2023</title>
+                <description>Mon Carnet, le podcast de Bruno Guglielminetti 
+V…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:248510865/sounds.rss</description>
+                
+                
+                <link>https://soundcloud.com/moncarnet/mon-carnet-du-7-avril-2023</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1487009869-moncarnet-mon-carnet-du-7-avril-2023.mp3"/>
+                <guid>https://soundcloud.com/moncarnet/mon-carnet-du-7-avril-2023</guid>
                 
             </item>
         </channel>
