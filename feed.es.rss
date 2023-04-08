@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 07 Apr 2023 04:22:24 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 08 Apr 2023 04:21:43 +0200</lastBuildDate>
             <item>
-                <title>Las máquinas masivas que eliminan el carbono de la atmósfera Terrestre | Jan Wurzbacher</title>
-                <description>Las máquinas masivas que eliminan el carbono de la atmósfera Terrestre | Jan Wurzbacher
-Feed: https://feeds.feedburner.com/SpanishPodcastTechnology</description>
+                <title>Nadie Sabe Nada | El martillo vasco de Thoroak</title>
+                <description>En este ‘Nadie Sabe Nada’ se une a los instrumentos musicales y otros objetos ruidosos el gran martillo vasco que ha traído Andreu Buenafuente dentro de una mochila desde Euskadi.
+Berto Romero debe convencer a una persona cárnica para que vea su serie ‘Mira lo que has hecho’ y conoceremos a Joseph Fart, especialista en ventosidades, que nos dará una lección de olores en una sección dedicada a la salud...
+Feed: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.ted.com/talks/jan_wurzbacher_the_massive_machines_removing_carbon_from_earth_s_atmosphere?rss=172BB350-0070</link>
-                <enclosure type="audio/mpeg" length="1" url="https://download.ted.com/products/163325.mp4?apikey=172BB350-0070"/>
-                <guid>https://www.ted.com/talks/jan_wurzbacher_the_massive_machines_removing_carbon_from_earth_s_atmosphere?rss=172BB350-0070</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20233/31/1680265921007_14761.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Trópico Utópico - Apesar de você - 22/03/23</title>
-                <description>Apesar de você
-Feed: http://api.rtve.es/api/programas/2096/audios.rss</description>
+                <title>No Anem Enlloc 1×10 – Egipte</title>
+                <description>Aquest va de Sherlock Holmes, el cremallera de Núria i un tigre despertador.
+Feed: https://xrcb.cat/subscribirse-a-podcast/?id=2115</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/tropico-utopico/apesar-voce-22-03-23/6839499/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_STROPI/mp3/1/0/1679471546501.mp3"/>
-                <guid>https://www.rtve.es/play/audios/tropico-utopico/apesar-voce-22-03-23/6839499/</guid>
+                <link>https://xrcb.cat/ca/podcast/no-anem-enlloc-1x10-egipte/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://xrcb.cat/wp-content/uploads/2023/03/NAE_1x10_Egipte.mp3"/>
+                <guid>https://xrcb.cat/ca/podcast/no-anem-enlloc-1x10-egipte/</guid>
                 
             </item>
         </channel>

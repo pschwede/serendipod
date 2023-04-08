@@ -9,32 +9,34 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 07 Apr 2023 04:22:14 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 08 Apr 2023 04:21:35 +0200</lastBuildDate>
             <item>
-                <title>#98 Der LKW-Killer</title>
-                <description>Er liebt lange Haare - so sehr, dass er sie anfassen, besitzen will. Dafür ist er irgendwann sogar bereit, zu töten.  
-Philipp und Ralf sprechen über den Fall des LKW-Killers Volker Eckert, der jahrelang mordend durch Europa fährt, ohne dass ihn irgendjemand stoppen kann. 
-Live-Auftritte 2023:
-29. Oktober: “Late Crime Show” in der Mitsubishi Electric Halle in Düsseldorf
-Tickets überall, wo es Tickets gibt.
-+++ Unsere allgemeinen Datenschutzrichtlinien finden Sie unter https://datenschutz...
-Feed: https://rss.art19.com/verbrechen-von-nebenan-true-crime</description>
+                <title>Kurz informiert vom 06.04.2023 by heise online</title>
+                <description>Heute mit: Strompreisbremse, DDoS, Windbranche, WLAN
+Feed: https://www.heise.de/rss/topnews-audio.rss</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/a47aa26e-b021-4a50-bdb6-aec696cad805.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <enclosure type="audio/mpeg" length="1" url="https://cdnapisec.kaltura.com/p/2238431/sp/0/playManifest/entryId/1_t2e0tu3l/format/url/protocol/https/flavorParamId/1608871/Kurz-informiert-vom-06-04-2023-by-heise-online.mp3"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Die Woche im Rückspiegel 13/23: Kern(el)sanierung</title>
-                <description>In der letzten Woche gab es rein zahlenmäßig nicht ganz so viele Neuigkeiten im Microsoft-Universum, aber die hatten es dafür in sich.
-Die Woche begann damit, dass Microsoft das runderneuerte Teams in den Vorschau-Test schickte und das 1-Euro-Abo für den Xbox Game Pass beerdigte...
-Feed: https://2llyrp.podcaster.de/drwindows.rss</description>
+                <title>Fotozeitschriften </title>
+                <description>Folge 18 In dieser Folge geht es um Fotozeitschriften und was man daraus lernen kann.
+Links zu den Zeitschriften 
+Photoweekly
+https://www.photo-weekly.de
+Foto Espresso
+https://www.fotoespresso.de
+Ringfoto Magazin
+https://ringfoto.de/magazin
+
+Feed: https://anchor.fm/s/141d1668/podcast/rss</description>
                 
                 
-                <link>https://2llyrp.podcaster.de/drwindows/media/kw_23_13_podcast.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://2llyrp.podcaster.de/drwindows/media/kw_23_13_podcast.mp3"/>
-                <guid>https://2llyrp.podcaster.de/drwindows/media/kw_23_13_podcast.mp3</guid>
+                <link>https://podcasters.spotify.com/pod/show/derfotopodcast/episodes/Fotozeitschriften-e21mepc</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/141d1668/podcast/play/67893484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F141d1668%2F67893484%2F8ee68692a76fde9140ac7087d4542e2f.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/derfotopodcast/episodes/Fotozeitschriften-e21mepc</guid>
                 
             </item>
         </channel>

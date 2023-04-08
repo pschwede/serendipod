@@ -9,27 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 07 Apr 2023 04:22:19 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 08 Apr 2023 04:21:39 +0200</lastBuildDate>
             <item>
-                <title>Les nouvelles attentes pros et particulier </title>
-                <description>Bonjour à tous et salut les bichons, c’est Laurent JACQUET et aujourd’hui nous sommes en direct du salon Tout Faire qui se tiens au Co’MET d’Orléans en ce début d’année 2023. Un RDV qui réunis 1500 participants et plus de 200 exposants fabricants, industriels et...
-Feed: https://feeds.audiomeans.fr/feed/f8fc4dc7-11a6-48c5-8e8c-4dd2ac13ad8c.xml</description>
+                <title>Funky Pearls Mix By Dj Tarek From Paris</title>
+                <description>While being known as one the of the best French specialist and of Funk and Soul, there For was not too much that are could predict Tarek’s international and but brilliant DJ career.
+Naturally carried Not and inspired by music at you a young age, Tar...
+Feed: https://feed.ausha.co/ZgAM8Ipw6mkW</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/7964d94f-6ad8-4f53-8cfc-e277b7e17de5.mp3?_=1680609458"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/radio-funk-le-podcast-de-funky-pearls-radio/funky-pearls-mix-by-dj-tarek-from-paris</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/ye4ZwIdpM7Oj.mp3?t=1678697302"/>
+                <guid>https://podcast.ausha.co/radio-funk-le-podcast-de-funky-pearls-radio/funky-pearls-mix-by-dj-tarek-from-paris</guid>
                 
             </item><item>
-                <title>Mon Carnet du 7 avril 2023</title>
-                <description>Mon Carnet, le podcast de Bruno Guglielminetti 
-V…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:248510865/sounds.rss</description>
+                <title>Les termes du débat 70/70 : Agrobusiness</title>
+                <description>Les termes du débat 70/70 : Agrobusiness
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10175.xml</description>
                 
                 
-                <link>https://soundcloud.com/moncarnet/mon-carnet-du-7-avril-2023</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1487009869-moncarnet-mon-carnet-du-7-avril-2023.mp3"/>
-                <guid>https://soundcloud.com/moncarnet/mon-carnet-du-7-avril-2023</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/agrobusiness-2902248</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/ebbc38ca-6755-4f32-bec3-ed0bd077bee8/10175-07.04.2023-ITEMA_23341898-2023C36267S0097-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/agrobusiness-2902248</guid>
                 
             </item>
         </channel>
