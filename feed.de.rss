@@ -9,34 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 08 Apr 2023 04:21:35 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 09 Apr 2023 04:21:07 +0200</lastBuildDate>
             <item>
-                <title>Kurz informiert vom 06.04.2023 by heise online</title>
-                <description>Heute mit: Strompreisbremse, DDoS, Windbranche, WLAN
-Feed: https://www.heise.de/rss/topnews-audio.rss</description>
+                <title>Die Woche, die alles verändert, 04: Zwischen Schmerz und Verheissung</title>
+                <description>Karsamstag 8. April 2023
+Feed: https://www.pfimibern.ch/podcast/pfimibern.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdnapisec.kaltura.com/p/2238431/sp/0/playManifest/entryId/1_t2e0tu3l/format/url/protocol/https/flavorParamId/1608871/Kurz-informiert-vom-06-04-2023-by-heise-online.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.pfimibern.ch/fileadmin/user_upload/Predigten/DE/20230408_Karsamstag.mp3"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Fotozeitschriften </title>
-                <description>Folge 18 In dieser Folge geht es um Fotozeitschriften und was man daraus lernen kann.
-Links zu den Zeitschriften 
-Photoweekly
-https://www.photo-weekly.de
-Foto Espresso
-https://www.fotoespresso.de
-Ringfoto Magazin
-https://ringfoto.de/magazin
-
-Feed: https://anchor.fm/s/141d1668/podcast/rss</description>
+                <title>Unterhosen sind Luxus!</title>
+                <description>Zärtliche Cousinen - Sehnsucht nach Reden
+Feed: https://zaertlichecousinen.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/derfotopodcast/episodes/Fotozeitschriften-e21mepc</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/141d1668/podcast/play/67893484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F141d1668%2F67893484%2F8ee68692a76fde9140ac7087d4542e2f.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/derfotopodcast/episodes/Fotozeitschriften-e21mepc</guid>
+                <link>https://zaertlichecousinen.podigee.io/184-unterhosen-sind-luxus</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1070040-m-2ed196fceb42e989b8619b8fa3efdea1.mp3?source=feed"/>
+                <guid>https://zaertlichecousinen.podigee.io/184-unterhosen-sind-luxus</guid>
                 
             </item>
         </channel>
