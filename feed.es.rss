@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 09 Apr 2023 04:21:16 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 10 Apr 2023 04:22:23 +0200</lastBuildDate>
             <item>
-                <title>Las clases con instructor</title>
-                <description>Hola amigos, en este episodio, vamos a platicar sobre las diferentes clases con instructor, que provee el gimnasio. En un episodio anterior ya les comenté sobre las clases de Zumba, todavía está pendiente ampliar más ése tema, espérenme un ratito más. Pe
-Feed: http://feed.quechilero.com/las6am</description>
+                <title>Tarataña - Resurrección - 09/04/23</title>
+                <description>Resurrección
+Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
                 
                 
-                <link>https://quechilero.com/blog/2023/04/04/las-clases-con-instructor/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://quechilero.com/blog/podcast-download/31076/las-clases-con-instructor.mp3"/>
-                <guid>https://quechilero.com/blog/2023/04/04/las-clases-con-instructor/</guid>
+                <link>https://www.rtve.es/play/audios/taratana/resurreccion-09-04-23/6854043/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_STARATA/mp3/6/3/1680740618536.mp3"/>
+                <guid>https://www.rtve.es/play/audios/taratana/resurreccion-09-04-23/6854043/</guid>
                 
             </item><item>
-                <title>No Anem Enlloc 1×10 – Egipte</title>
-                <description>Aquest va de Sherlock Holmes, el cremallera de Núria i un tigre despertador.
-Feed: https://xrcb.cat/subscribirse-a-podcast/?id=2115</description>
+                <title>Subterranea 12x12 Bjorn Fren Amanda</title>
+                <description>Formaci&amp;oacute;n in&amp;eacute;dita en Subterranea: Jordi Via, Juan Francisco D&amp;iacute;az y David Pintos. 
+El in&amp;eacute;dito tr&amp;iacute;o analizar&amp;aacute; material del 22 y alguna novedad del 23, siete discos muy interesantes que sin duda te resultar&amp;aacute;n muy atractivos, los trabajos m&amp;aacute;s recientes de formaciones y artistas como Bjorn Riis, Rom&amp;aacute;n, Fren, Evership, Kerry Livgren, Damanek y Amanda. 
+Para que luego digan, vivimos tiempos gloriosos, &amp;iquest;no te lo crees?, dale a play...
+Feed: https://www.ivoox.com/feed_fg_f117710_filtro_1.xml</description>
                 
                 
-                <link>https://xrcb.cat/ca/podcast/no-anem-enlloc-1x10-egipte/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://xrcb.cat/wp-content/uploads/2023/03/NAE_1x10_Egipte.mp3"/>
-                <guid>https://xrcb.cat/ca/podcast/no-anem-enlloc-1x10-egipte/</guid>
+                <link>http://www.ivoox.com/subterranea-12x12-bjorn-fren-amanda-audios-mp3_rf_105648773_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/subterranea-12x12-bjorn-fren-amanda_mf_105648773_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/subterranea-12x12-bjorn-fren-amanda-audios-mp3_rf_105648773_1.html</guid>
                 
             </item>
         </channel>

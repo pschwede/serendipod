@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 09 Apr 2023 04:21:12 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 10 Apr 2023 04:22:17 +0200</lastBuildDate>
             <item>
-                <title>Le mix de Otavio</title>
-                <description>
-Feed: https://www.rts.ch/couleur3/programmes/metissages/podcast/?flux=rss</description>
+                <title>Saturn pas rond (Kaorin #196)</title>
+                <description>Hommage musical à la Saturn, à la vie courte mais aux nombreuses OST de qualité !
+Feed: https://kaorin.fr/podcast_kaorin.xml</description>
                 
                 
-                <link>https://www.rts.ch/couleur3/programmes/metissages/13904720-le-mix-de-otavio-06-04-2023.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/13904720/38b52865-1d24-3ccd-9560-07a447864540.mp3"/>
-                <guid>https://www.rts.ch/couleur3/programmes/metissages/13904720-le-mix-de-otavio-06-04-2023.html</guid>
+                <link>https://kaorin.fr/podcast/kaorin-196/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/kaorin.fr/dl/Kaorin196.mp3"/>
+                <guid>https://kaorin.fr/podcast/kaorin-196/</guid>
                 
             </item><item>
-                <title>[À RÉÉCOUTER] Qu&#39;est-ce que le blackout challenge, ce défi qui a causé la mort de plusieurs enfants ?</title>
-                <description>Depuis 2021, cette tendance TikTok très dangereuse fait beaucoup parler d’elle . Deux américaines âgées de 8 et 9 ans sont décédées après avoir participé au blackout challenge. Elles seraient en réalité des dizaines à en avoir été victimes. 
-En juin 2022, les parents des deux fillettes, originaires du Texas et du Wisconsin, aux États-Unis, ont décidé de porter plainte contre le réseau social. Ils estiment que TikTok favorise le blackout challenge grâce à son algorithme...
-Feed: https://feeds.megaphone.fm/BABA2900401712</description>
+                <title>Guillaume Apollinaire et Rim Battal : balade parisienne pour coeurs amoureux</title>
+                <description>Faut-il présenter Guillaume Apollinaire ? Les enfants adorent s’emparer de ses calligrammes malicieux, les ados pillent ses poèmes amoureux et sensuels, les artistes s’inspirent de sa fantaisie joyeuse, de son imaginaire fertile, de son talent pour bou...
+Feed: https://feed.ausha.co/yXJjQsVaX6xR</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA7208785959.mp3?updated=1680856012"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/l-experience-poetique/guillaume-apollinaire-et-rim-battal-balade</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B4jv0IrYOx9n.mp3?t=1680264650"/>
+                <guid>https://podcast.ausha.co/l-experience-poetique/guillaume-apollinaire-et-rim-battal-balade</guid>
                 
             </item>
         </channel>

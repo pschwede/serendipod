@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 09 Apr 2023 04:21:07 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 10 Apr 2023 04:22:12 +0200</lastBuildDate>
             <item>
-                <title>Die Woche, die alles verändert, 04: Zwischen Schmerz und Verheissung</title>
-                <description>Karsamstag 8. April 2023
-Feed: https://www.pfimibern.ch/podcast/pfimibern.xml</description>
+                <title>Unterwegs in unsicheren Zeiten</title>
+                <description>Kongresse sind auch im Zeitalter von Zoom und Teams noch zeitgemäß. Nirgendwo sonst befinden sich so viele Fachkollegen auf engem Raum wie bei einer Präsenzveranstaltung. Dr. Heinz Brock ist als Präsident des Österreichischen Gesundheitswirtschaftskongress angetreten, um die drängendsten Probleme des Gesundheitswesen wie den Personalmangel zu diskutieren und Lösungen zu erarbeiten.  
+Redaktion/Moderation: Josef Ruhaltinger, Chefredakteur ÖKZ
+Info: 13...
+Feed: https://springermedizin-hoergang.podigee.io/feed/mp3</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.pfimibern.ch/fileadmin/user_upload/Predigten/DE/20230408_Karsamstag.mp3"/>
-                <guid></guid>
+                <link>https://springermedizin-hoergang.podigee.io/140-oegkw-2023</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1066934-m-5b1148a97e1fca693204fc0d81cdc153.mp3?source=feed"/>
+                <guid>https://springermedizin-hoergang.podigee.io/140-oegkw-2023</guid>
                 
             </item><item>
-                <title>Unterhosen sind Luxus!</title>
-                <description>Zärtliche Cousinen - Sehnsucht nach Reden
-Feed: https://zaertlichecousinen.podigee.io/feed/mp3</description>
+                <title>Die Kooperationsbereitschaft unserer Kinder erhöhen (Folge90)</title>
+                <description>&lt;p&gt;Folge # 90: In dieser Episode möchte ich euch sehr wichtige Tipps, mit an die Hand geben wie ihr es schafft, dass eure Kinder besser mit euch  kooperieren und somit der Familienalltag harmonischer gestaltet werden kann...
+Feed: https://feeds.buzzsprout.com/1336939.rss</description>
                 
                 
-                <link>https://zaertlichecousinen.podigee.io/184-unterhosen-sind-luxus</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1070040-m-2ed196fceb42e989b8619b8fa3efdea1.mp3?source=feed"/>
-                <guid>https://zaertlichecousinen.podigee.io/184-unterhosen-sind-luxus</guid>
+                <link>https://www.kundalinieltern.de</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1336939/12550463-die-kooperationsbereitschaft-unserer-kinder-erhohen-folge90.mp3"/>
+                <guid>https://www.kundalinieltern.de</guid>
                 
             </item>
         </channel>
