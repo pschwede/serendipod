@@ -9,26 +9,38 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 10 Apr 2023 04:22:17 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Apr 2023 04:22:01 +0200</lastBuildDate>
             <item>
-                <title>Saturn pas rond (Kaorin #196)</title>
-                <description>Hommage musical à la Saturn, à la vie courte mais aux nombreuses OST de qualité !
-Feed: https://kaorin.fr/podcast_kaorin.xml</description>
+                <title>OEC 260 : Si j’ai un Trou dans ma Nuit</title>
+                <description>Un épisode presque thématique où l’on creuse le passé (et les trous de la nuit de Tio)
+Bonne écoute !
+Télécharger l’émission (69 Mo) – Regarder sur Youtube
+S’abonner au One Eye Club
+Chroniques
+[02:10] Mary Anning  
+Un Œil sur du Crowdfunding et aussi …
+[36:09] Atsemtex
+ Vivre en Macronie n°6       Allan Barte
+Drozo n°0 
+Légende :  Scénario –   Dessin –   Couleur –  Coup de cœur –   Service de Presse –   Le Vote des Tipeurs
+Générique et jingles : Spanish Samba (Oursvince) / Dialup (Jlew) /...
+Feed: https://oec.lepodcast.fr/rss</description>
                 
                 
-                <link>https://kaorin.fr/podcast/kaorin-196/</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/kaorin.fr/dl/Kaorin196.mp3"/>
-                <guid>https://kaorin.fr/podcast/kaorin-196/</guid>
+                <link>https://www.lavoixdesbulles.fr/oec-260-si-jai-un-trou-dans-ma-nuit/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/oec/oec-260-si-jai-un-trou-dans-ma-nuit/enclosure.6b45fbf72ce9838d1fe96ac7c0d06291450981eca901803cf20390516297daf4.mp3?p=f"/>
+                <guid>https://www.lavoixdesbulles.fr/oec-260-si-jai-un-trou-dans-ma-nuit/</guid>
                 
             </item><item>
-                <title>Guillaume Apollinaire et Rim Battal : balade parisienne pour coeurs amoureux</title>
-                <description>Faut-il présenter Guillaume Apollinaire ? Les enfants adorent s’emparer de ses calligrammes malicieux, les ados pillent ses poèmes amoureux et sensuels, les artistes s’inspirent de sa fantaisie joyeuse, de son imaginaire fertile, de son talent pour bou...
-Feed: https://feed.ausha.co/yXJjQsVaX6xR</description>
+                <title>65. Affaire Fiona : le combat judiciaire de son père pour &#34;faire sortir la vérité&#34;  1/2</title>
+                <description>Le 12 mai 2013, Cécile Bourgeon, 26 ans, se rend au commissariat. Cette mère de deux enfants est paniquée : sa cadette, Fiona, a disparu. Elle raconte qu&#39;elle s&#39;est assoupie sur la pelouse du parc, et qu&#39;à son réveil la petite fille était introuvable.
+Aussitôt les...
+Feed: https://feeds.audiomeans.fr/feed/ff5d679f-7715-44f3-840a-08858189e727.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/l-experience-poetique/guillaume-apollinaire-et-rim-battal-balade</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B4jv0IrYOx9n.mp3?t=1680264650"/>
-                <guid>https://podcast.ausha.co/l-experience-poetique/guillaume-apollinaire-et-rim-battal-balade</guid>
+                <link>https://www.rtl.fr/programmes/les-voix-du-crime</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rtl.proxycast.org/3048259552836333568/7a0c6216-b291-4a26-8724-56c4dac0be26.mp3?u=FbteVXJUvY&amp;_=1680691982"/>
+                <guid>https://www.rtl.fr/programmes/les-voix-du-crime</guid>
                 
             </item>
         </channel>

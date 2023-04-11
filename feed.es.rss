@@ -9,28 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 10 Apr 2023 04:22:23 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Apr 2023 04:22:05 +0200</lastBuildDate>
             <item>
-                <title>Tarataña - Resurrección - 09/04/23</title>
-                <description>Resurrección
-Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
+                <title>No Anem Enlloc 1×10 – Egipte</title>
+                <description>Aquest va de Sherlock Holmes, el cremallera de Núria i un tigre despertador.
+Feed: https://xrcb.cat/subscribirse-a-podcast/?id=2115</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/taratana/resurreccion-09-04-23/6854043/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_STARATA/mp3/6/3/1680740618536.mp3"/>
-                <guid>https://www.rtve.es/play/audios/taratana/resurreccion-09-04-23/6854043/</guid>
+                <link>https://xrcb.cat/ca/podcast/no-anem-enlloc-1x10-egipte/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://xrcb.cat/wp-content/uploads/2023/03/NAE_1x10_Egipte.mp3"/>
+                <guid>https://xrcb.cat/ca/podcast/no-anem-enlloc-1x10-egipte/</guid>
                 
             </item><item>
-                <title>Subterranea 12x12 Bjorn Fren Amanda</title>
-                <description>Formaci&amp;oacute;n in&amp;eacute;dita en Subterranea: Jordi Via, Juan Francisco D&amp;iacute;az y David Pintos. 
-El in&amp;eacute;dito tr&amp;iacute;o analizar&amp;aacute; material del 22 y alguna novedad del 23, siete discos muy interesantes que sin duda te resultar&amp;aacute;n muy atractivos, los trabajos m&amp;aacute;s recientes de formaciones y artistas como Bjorn Riis, Rom&amp;aacute;n, Fren, Evership, Kerry Livgren, Damanek y Amanda. 
-Para que luego digan, vivimos tiempos gloriosos, &amp;iquest;no te lo crees?, dale a play...
-Feed: https://www.ivoox.com/feed_fg_f117710_filtro_1.xml</description>
+                <title>Sesión Ctrl Alt Dance [29-03-2023]</title>
+                <description>Sesi&amp;oacute;n en directo mezclada por Alex Noisy &amp;amp; Karlos AG en el programa Ctrl Alt Dance de Espacio 4 FM el Mi&amp;eacute;rcoles 29-03-2023
+S&amp;iacute;guenos en directo en nuestro canal de
+Twitch: https://www.twitch.tv/ctrl_alt_dance_radioshow,
+Agreganos a Facebook https://www.facebook.com/CtrlAltDanceRadioshow o Intragram: @Ctrl_Alt_Dance_Radioshow
+Feed: https://www.ivoox.com/podcast-espacio-4-fm_fg_f158739_filtro_1.xml</description>
                 
                 
-                <link>http://www.ivoox.com/subterranea-12x12-bjorn-fren-amanda-audios-mp3_rf_105648773_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/subterranea-12x12-bjorn-fren-amanda_mf_105648773_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/subterranea-12x12-bjorn-fren-amanda-audios-mp3_rf_105648773_1.html</guid>
+                <link>https://www.ivoox.com/sesion-ctrl-alt-dance-29-03-2023-audios-mp3_rf_105953135_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sesion-ctrl-alt-dance-29-03-2023_mf_105953135_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/sesion-ctrl-alt-dance-29-03-2023-audios-mp3_rf_105953135_1.html</guid>
                 
             </item>
         </channel>
