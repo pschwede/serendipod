@@ -9,29 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Apr 2023 04:22:05 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 12 Apr 2023 04:22:05 +0200</lastBuildDate>
             <item>
-                <title>No Anem Enlloc 1×10 – Egipte</title>
-                <description>Aquest va de Sherlock Holmes, el cremallera de Núria i un tigre despertador.
-Feed: https://xrcb.cat/subscribirse-a-podcast/?id=2115</description>
+                <title>Viaje a Sudáfrica II</title>
+                <description>Seguimos con esta nueva versión del Viaje por África y Sudáfrica, con nueva música y edición. En esta segunda parte, nos sumergimos profundamente en la transición sudafricana, conoceremos sobre la fuerza del perdón y la esperanza de la...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link>https://xrcb.cat/ca/podcast/no-anem-enlloc-1x10-egipte/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://xrcb.cat/wp-content/uploads/2023/03/NAE_1x10_Egipte.mp3"/>
-                <guid>https://xrcb.cat/ca/podcast/no-anem-enlloc-1x10-egipte/</guid>
+                <link>https://www.dianauribe.fm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Viaje_a_Sudfrica_II_parte.mp3?dest-id=844493"/>
+                <guid>https://www.dianauribe.fm</guid>
                 
             </item><item>
-                <title>Sesión Ctrl Alt Dance [29-03-2023]</title>
-                <description>Sesi&amp;oacute;n en directo mezclada por Alex Noisy &amp;amp; Karlos AG en el programa Ctrl Alt Dance de Espacio 4 FM el Mi&amp;eacute;rcoles 29-03-2023
-S&amp;iacute;guenos en directo en nuestro canal de
-Twitch: https://www.twitch.tv/ctrl_alt_dance_radioshow,
-Agreganos a Facebook https://www.facebook.com/CtrlAltDanceRadioshow o Intragram: @Ctrl_Alt_Dance_Radioshow
-Feed: https://www.ivoox.com/podcast-espacio-4-fm_fg_f158739_filtro_1.xml</description>
+                <title>PYM 41. Peskito así quiero yo | Especial Vampiros</title>
+                <description>&amp;iquest;Otro especial? S&amp;iacute;, otro especial. Esta vez es un especial muy sangriento: &amp;iexcl;Especial vampiros!
+Estas son nuestras esclofriantes secciones:
+Mildre nos recomienda una novela gr&amp;aacute;fica infantil:
+00:07:12 -  &#34;Ajo y el vampiro&#34; de Bree Paulsen.
+Seidon viene con una serie:
+00:14:08 - Entrevista con el vampiro...
+Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
                 
                 
-                <link>https://www.ivoox.com/sesion-ctrl-alt-dance-29-03-2023-audios-mp3_rf_105953135_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sesion-ctrl-alt-dance-29-03-2023_mf_105953135_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/sesion-ctrl-alt-dance-29-03-2023-audios-mp3_rf_105953135_1.html</guid>
+                <link>https://www.ivoox.com/pym-41-peskito-asi-quiero-yo-especial-audios-mp3_rf_106059555_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-41-peskito-asi-quiero-yo-especial_mf_106059555_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/pym-41-peskito-asi-quiero-yo-especial-audios-mp3_rf_106059555_1.html</guid>
                 
             </item>
         </channel>

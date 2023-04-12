@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Apr 2023 04:21:57 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 12 Apr 2023 04:21:57 +0200</lastBuildDate>
             <item>
-                <title>Marketing Trends im Banking (Folge 153)</title>
-                <description>Der Retail Banken Markt in der Schweiz und Deutschland gilt als &#34;overbanked&#34;, was bedeutet, dass es zu viele Bankfilialen pro Einwohner gibt. Die Digitalisierung und das Online Banking führen aber seit Jahren zu einer Konsolidierung, bei der unter...
-Feed: https://deloittech.libsyn.com/futuretalk</description>
+                <title>Sprechstunde zum Thema Adipositas-Chirurgie</title>
+                <description>
+Feed: https://podcast.orf.at/podcast/bgl/bgl_sprechstunde/bgl_sprechstunde.xml</description>
                 
                 
-                <link>https://deloittech.libsyn.com/marketing-trends-im-banking-folge-153</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/deloittech/FT_153_Bank_Cler_Final.mp3?dest-id=548812"/>
-                <guid>https://deloittech.libsyn.com/marketing-trends-im-banking-folge-153</guid>
+                <link>https://radiothek.orf.at/podcasts/bgl/radio-burgenland-sprechstunde/sprechstunde-zum-thema-adipositas-chirurgie</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/bgl/bgl_sprechstunde/items/di_bgl_sprechstunde_cbl19aws07_a408d7874f234168a2ec3790dfd08e6e.mp3?etag=2ed0ff3a416fde4814e016dd23dbd46e"/>
+                <guid>https://radiothek.orf.at/podcasts/bgl/radio-burgenland-sprechstunde/sprechstunde-zum-thema-adipositas-chirurgie</guid>
                 
             </item><item>
-                <title>Selbstkritik liebevoll abschalten – wie du deinen inneren Kritiker endlich los wirst</title>
-                <description>Herzlich willkommen zur Jubiläums-Episode von &#34;Coffee or Tea&#34; ????! 
-Es wird wunderbar ????
-Du erfährst heute: 
-? Woher dieses schlechte, selbstkritische Gefühl dir selbst gegenüber kommt. 
-? Welche – oft wenig nützlichen – Handlungsimpulse durch die Selbstkritik entstehen. 
-? Warum der Verstand kein guter Chef in deinem Leben ist...
-Feed: https://czwly5.podcaster.de/Coffee-or-Tea.rss</description>
+                <title>Künstliche Intelligenz: Was kann sie wirklich?</title>
+                <description>Künstliche Intelligenz schreibt Texte, erkennt Gesichter und erzeugt eigenständig Bilder. Aber wenn KI so erfolgreich ist, warum haben wir dann immer noch keine selbstfahrenden Autos und einsatzfähige Pflegeroboter?
+Feed: https://www1.wdr.de/mediathek/video/podcast/channel-quarks-und-co-100.podcast</description>
                 
                 
-                <link>https://czwly5.podcaster.de/Coffee-or-Tea/media/Coffee_or_Tea_Episode_50_Selbstkritik_Selbstliebe_Ho-oponopono.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://czwly5.podcaster.de/Coffee-or-Tea/media/Coffee_or_Tea_Episode_50_Selbstkritik_Selbstliebe_Ho-oponopono.mp3"/>
-                <guid>https://czwly5.podcaster.de/Coffee-or-Tea/media/Coffee_or_Tea_Episode_50_Selbstkritik_Selbstliebe_Ho-oponopono.mp3</guid>
+                <link>https://www1.wdr.de/mediathek/video/sendungen/quarks-und-co/video-kuenstliche-intelligenz-was-kann-sie-wirklich-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/290/2900869/quarks_2023-03-30_kuenstlicheintelligenzwaskannsiewirklich_wdr.mp4"/>
+                <guid>https://www1.wdr.de/mediathek/video/sendungen/quarks-und-co/video-kuenstliche-intelligenz-was-kann-sie-wirklich-100.html</guid>
                 
             </item>
         </channel>
