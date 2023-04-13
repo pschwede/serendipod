@@ -9,29 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 12 Apr 2023 04:22:01 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 13 Apr 2023 04:22:22 +0200</lastBuildDate>
             <item>
-                <title>[BEST OF] 2 Clémentine Galey - A 40 ans elle quitte son CDI chez TF1 et se consacre à BLISS</title>
-                <description>
-BEST OF - Rediffusion de l&#39;épisode 2
-Si je vous dis Clémentine Galey, son nom vous est peut être inconnu mais son parcours lui gagne clairement a être connu. Clémentine aime relever les défis et écouter ses envies. 
-Elle a travaillé sur les plus gra...
-Feed: https://feed.ausha.co/b7XwQFeJV3Gx</description>
+                <title>Jeunesse cosmique : Jeunesse Cosmique - Mercredi le 29 Mars 2023</title>
+                <description>678-285554
+Feed: http://podcast.cism893.ca/radioshows/678/feed_itunes.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/pourquoi-pas-moi/best-of-2-clementine-galey-a-40-ans-elle-quitte-son-cdi-chez-tf1-et-se-consacre-a-bliss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B1DX3Upzqg7v.mp3?t=1680685873"/>
-                <guid>https://podcast.ausha.co/pourquoi-pas-moi/best-of-2-clementine-galey-a-40-ans-elle-quitte-son-cdi-chez-tf1-et-se-consacre-a-bliss</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/285554.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/285554.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/285554.mp3</guid>
                 
             </item><item>
-                <title>L&#39;islamologie en Europe</title>
-                <description>L&#39;islamologie en Europe
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10073.xml</description>
+                <title>10 ans d&#39;entrepreneuriat avec Jonathan Noble de Swello - Episode 173</title>
+                <description>Quand on pense développer sa boîte, généralement on pense aux début de son entreprise. Mais aujourd&#39;hui j&#39;ai envie de regarder les choses sous un angle différent. 
+ 
+Aujourd&#39;hui je voudrais vous parler de ce qu&#39;il se passe après. Après le lancement, ap...
+Feed: https://feeds.audiomeans.fr/feed/cbf09e37-4985-434e-afd2-c9372eaa597a.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/questions-d-islam/l-islamologie-en-europe-6874072</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/41b1eea2-652b-4b56-9be9-9b7eec9a0781/10073-09.04.2023-ITEMA_23343415-2023C26163E0011-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/questions-d-islam/l-islamologie-en-europe-6874072</guid>
+                <link>https://lepodcastdumarketing.com/swello-jonathan-noble-173</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/373189cf-dc63-4aad-898b-0c4fe89dcab4.mp3?_=1680813043"/>
+                <guid>https://lepodcastdumarketing.com/swello-jonathan-noble-173</guid>
                 
             </item>
         </channel>

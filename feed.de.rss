@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 12 Apr 2023 04:21:57 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 13 Apr 2023 04:22:17 +0200</lastBuildDate>
             <item>
-                <title>Sprechstunde zum Thema Adipositas-Chirurgie</title>
-                <description>
-Feed: https://podcast.orf.at/podcast/bgl/bgl_sprechstunde/bgl_sprechstunde.xml</description>
+                <title>21 (random) Facts über Diana</title>
+                <description>Feel &amp; Grow - Der Podcast für Persönlichkeitsentwicklung &amp; Moderne Spiritualität
+Feed: https://podcast445c5d.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://radiothek.orf.at/podcasts/bgl/radio-burgenland-sprechstunde/sprechstunde-zum-thema-adipositas-chirurgie</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/bgl/bgl_sprechstunde/items/di_bgl_sprechstunde_cbl19aws07_a408d7874f234168a2ec3790dfd08e6e.mp3?etag=2ed0ff3a416fde4814e016dd23dbd46e"/>
-                <guid>https://radiothek.orf.at/podcasts/bgl/radio-burgenland-sprechstunde/sprechstunde-zum-thema-adipositas-chirurgie</guid>
+                <link>https://podcast445c5d.podigee.io/83-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1071577-m-b2f4a6a000509317b8d855df50dca779.mp3?source=feed"/>
+                <guid>https://podcast445c5d.podigee.io/83-neue-episode</guid>
                 
             </item><item>
-                <title>Künstliche Intelligenz: Was kann sie wirklich?</title>
-                <description>Künstliche Intelligenz schreibt Texte, erkennt Gesichter und erzeugt eigenständig Bilder. Aber wenn KI so erfolgreich ist, warum haben wir dann immer noch keine selbstfahrenden Autos und einsatzfähige Pflegeroboter?
-Feed: https://www1.wdr.de/mediathek/video/podcast/channel-quarks-und-co-100.podcast</description>
+                <title>Polyneux macht’s kurz 62 – Einer geht noch</title>
+                <description>We’re back! Was für ein furioses Comeback! Welch herrlich saftiger Schein, der Eure traurigen Buden erhellt und Eure Ohren mit schallmeienhaft süßen Stimmen schmackofatzt! Der Urs hat gerufen und der Rest des Teams wollte es sich nicht nehmen lassen,
+Feed: https://polyneux.de/feed/podcast</description>
                 
                 
-                <link>https://www1.wdr.de/mediathek/video/sendungen/quarks-und-co/video-kuenstliche-intelligenz-was-kann-sie-wirklich-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/290/2900869/quarks_2023-03-30_kuenstlicheintelligenzwaskannsiewirklich_wdr.mp4"/>
-                <guid>https://www1.wdr.de/mediathek/video/sendungen/quarks-und-co/video-kuenstliche-intelligenz-was-kann-sie-wirklich-100.html</guid>
+                <link>https://polyneux.de/2023/04/01/polyneux-machts-kurz-62-einer-geht-noch/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://polyneux.de/wp-content/uploads/audio/polyneuxkurz062.mp3"/>
+                <guid>https://polyneux.de/2023/04/01/polyneux-machts-kurz-62-einer-geht-noch/</guid>
                 
             </item>
         </channel>
