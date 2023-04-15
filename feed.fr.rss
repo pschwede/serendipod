@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 13 Apr 2023 04:22:22 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 15 Apr 2023 04:21:51 +0200</lastBuildDate>
             <item>
-                <title>Jeunesse cosmique : Jeunesse Cosmique - Mercredi le 29 Mars 2023</title>
-                <description>678-285554
-Feed: http://podcast.cism893.ca/radioshows/678/feed_itunes.xml</description>
+                <title>Méditation quotidienne du 13 avril 2023 avec la Soeur Margarette Archer</title>
+                <description>Méditation quotidienne du 13 avril 2023 avec la Soeur Margarette Archer
+
+Feed: https://anchor.fm/s/85922a4/podcast/rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/285554.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/285554.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/285554.mp3</guid>
+                <link>https://podcasters.spotify.com/pod/show/radioadventistebethanie/episodes/Mditation-quotidienne-du-13-avril-2023-avec-la-Soeur-Margarette-Archer-e224b02</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/85922a4/podcast/play/68348354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-3-10%2F323151346-48000-1-38ade1bb74484.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/radioadventistebethanie/episodes/Mditation-quotidienne-du-13-avril-2023-avec-la-Soeur-Margarette-Archer-e224b02</guid>
                 
             </item><item>
-                <title>10 ans d&#39;entrepreneuriat avec Jonathan Noble de Swello - Episode 173</title>
-                <description>Quand on pense développer sa boîte, généralement on pense aux début de son entreprise. Mais aujourd&#39;hui j&#39;ai envie de regarder les choses sous un angle différent. 
- 
-Aujourd&#39;hui je voudrais vous parler de ce qu&#39;il se passe après. Après le lancement, ap...
-Feed: https://feeds.audiomeans.fr/feed/cbf09e37-4985-434e-afd2-c9372eaa597a.xml</description>
+                <title>Episode du 28/03/2023</title>
+                <description>C’est un moment archiKitsch et archiNature…tout en restant archi…bien que nous vous proposons cet...
+Feed: https://kitschetnet.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://lepodcastdumarketing.com/swello-jonathan-noble-173</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/373189cf-dc63-4aad-898b-0c4fe89dcab4.mp3?_=1680813043"/>
-                <guid>https://lepodcastdumarketing.com/swello-jonathan-noble-173</guid>
+                <link>https://www.podomatic.com/podcasts/kitschetnet/episodes/2023-04-10T15_59_22-07_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://kitschetnet.podomatic.com/enclosure/2023-04-10T15_59_22-07_00.mp3?_=1681167873.16554375"/>
+                <guid>https://www.podomatic.com/podcasts/kitschetnet/episodes/2023-04-10T15_59_22-07_00</guid>
                 
             </item>
         </channel>
