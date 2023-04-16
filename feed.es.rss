@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 15 Apr 2023 04:21:56 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 16 Apr 2023 04:21:45 +0200</lastBuildDate>
             <item>
-                <title>Mystic River</title>
-                <description>Comenzamos el episodio hablando sobre “Río Místico”, una novela escrita por Dennis Lehane que ha recibido muchas críticas positivas desde su publicación en el año 2001.
-Feed: https://feeds.simplecast.com/Ls3L1Ojk</description>
+                <title>Cooming soon</title>
+                <description>The best comedy channel in Latam.
+El mejor Canal de podcast de comedia de Latam muy pronto.
+Feed: https://www.spreaker.com/show/4548059/episodes/feed</description>
                 
                 
-                <link>https://mentesliterales.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/0cc4690d-0899-463d-9bd6-b02c19a11833/episodes/e2905a3e-70fd-445e-b3b4-f0c7e40016dd/audio/dd7c5c99-992b-47a3-8176-9536a92ae9e0/default_tc.mp3?aid=rss_feed&amp;feed=Ls3L1Ojk"/>
-                <guid>https://mentesliterales.com</guid>
+                <link>https://www.spreaker.com/user/podway/alternative-rocka-race</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/E29D27/api.spreaker.com/download/episode/52953989/bd_house_concert_promoter.mp3"/>
+                <guid>https://www.spreaker.com/user/podway/alternative-rocka-race</guid>
                 
             </item><item>
-                <title>Aquí estoy - Las claves de la integración en la sociedad teutona</title>
-                <description>Las personas están preparadas para muchas cosas, menos para los choques culturales. Esa es una de las conclusiones a las que Nancy Bravo llegó con su certificación como entrenadora intercultural. Escribió un libro al respecto y hace asesorías para evitar que la gente abandone todo por fallar en su proceso de integración. Pía le preguntó por las claves del éxito en Alemania.
-Feed: https://rss.dw.com/xml/podcast_aqui_estoy</description>
+                <title>SEAMOS VERDADEROS DISCÍPULOS DE CRISTO.</title>
+                <description>SEAMOS VERDADEROS DISCÍPULOS DE CRISTO.
+El amor a las riquezas y a las demás cosas del mundo, están impregnadas en la vida del hombre. Estos deseos carnales, superan la voluntad de las personas de vivir en conformidad a la voluntad de Dios. Una persona que ha vivido por muchos años bajo el control de los deseos carnales, no puede eliminar de su vida, de la noche a la mañana automáticamente esos deseos, solo con el hecho de recibir a Cristo Jesús en su corazón...
+Feed: https://anchor.fm/s/7d7ae748/podcast/rss</description>
                 
                 
-                <link>https://www.dw.com/es/aquí-estoy-las-claves-de-la-integración-en-la-sociedad-teutona/av-65289524?maca=spa-podcast_aqui_estoy-17479-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ae/ae230412_gesamt_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/aquí-estoy-las-claves-de-la-integración-en-la-sociedad-teutona/av-65289524?maca=spa-podcast_aqui_estoy-17479-xml-mrss</guid>
+                <link>https://podcasters.spotify.com/pod/show/jesus-is-life7/episodes/SEAMOS-VERDADEROS-DISCPULOS-DE-CRISTO-e22bkm2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/7d7ae748/podcast/play/68587650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-3-14%2F323858180-48000-2-309cd89420688.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/jesus-is-life7/episodes/SEAMOS-VERDADEROS-DISCPULOS-DE-CRISTO-e22bkm2</guid>
                 
             </item>
         </channel>

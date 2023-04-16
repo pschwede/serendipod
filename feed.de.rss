@@ -9,29 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 15 Apr 2023 04:21:46 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 16 Apr 2023 04:21:35 +0200</lastBuildDate>
             <item>
-                <title>Enny und Mo: Das bezaubernde Zebra</title>
-                <description>Ein Podcast von &#34;Baby und Familie&#34; aus der Apotheke
-Feed: https://enny-und-mo.podigee.io/feed/mp3</description>
+                <title>Jana Erb, wie bist Du zur Outdoorfotografie gekommen?</title>
+                <description>Meine heutige Gästin im Podcast ist Jana Erb. Streng genommen ist Jana Werbefotografin, allerdings sieht sie wohl eher selten ein Studio von innen. Sie arbeitet für verschiedene Outdoor- sowie Sportmarken und reist dafür an die schönsten, aber auch fragi
+Feed: https://kwerfeldein.de/feed/podcasts/femalephotoclub/</description>
                 
                 
-                <link>https://enny-und-mo.podigee.io/131-enny-und-mo-das-bezaubernde-zebra</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1075574-m-3defe6e916c86ce55ecfedf334a22704.mp3?source=feed"/>
-                <guid>https://enny-und-mo.podigee.io/131-enny-und-mo-das-bezaubernde-zebra</guid>
+                <link>https://kwerfeldein.de/2023/04/14/female-photoclub-jana-erb/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://kwerfeldein.de/podcast-download/357764/female-photoclub-jana-erb.mp3"/>
+                <guid>https://kwerfeldein.de/2023/04/14/female-photoclub-jana-erb/</guid>
                 
             </item><item>
-                <title>#63: Tiny Forests - mit Lukas Steingässer (MIYA e.V.)</title>
-                <description>&lt;p&gt;Klein, aber
-oho! Ob das für tiny forests gilt, besprechen wir in dieser Folge. Es geht um
-soziale und ökologische Nachhaltigkeit und gemeinsames Arbeiten – ganz passend
-zu dem hochC-Leitbild gemeinsam.nachhaltig.gestalten...
-Feed: https://anchor.fm/s/23b5ea14/podcast/rss</description>
+                <title>Imageproblem 1st-Level</title>
+                <description>In manchen Unternehmen ruft niemand gern beim Support an. In manchen Unternehmen arbeitet niemand gern im Support. Beides trifft häufig zusammen. Das eine bedingt vielleicht das andere. 
+Inspiriert von einer Session auf dem letzten Servicenerds.Camp möchte ich heute mit Dir über das Image des 1st-Level-Support aus Sicht der ITler sprechen...
+Feed: https://different-thinking.de/feed/itmp-mp4/</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/letstalklandscape/episodes/63-Tiny-Forests---mit-Lukas-Steingsser-MIYA-e-V-e20tp7q</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/23b5ea14/podcast/play/67084986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-22%2Fa4dc292d-7bc2-bcd0-c83f-d360ea895354.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/letstalklandscape/episodes/63-Tiny-Forests---mit-Lukas-Steingsser-MIYA-e-V-e20tp7q</guid>
+                <link>https://different-thinking.de/imageproblem-1st-level/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://different-thinking.de/podlove/file/2380/s/feed/c/itmp-mp4/itmp210.m4a"/>
+                <guid>https://different-thinking.de/imageproblem-1st-level/</guid>
                 
             </item>
         </channel>
