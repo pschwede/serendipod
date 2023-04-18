@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 17 Apr 2023 04:23:06 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 18 Apr 2023 04:22:07 +0200</lastBuildDate>
             <item>
-                <title>New York, Nürnberg, Nippes</title>
-                <description>Hallo zusammen! Eine Reise hinterlässt immer einige Spuren und so konnte Ludger einiges aus den USA berichten. Robin wiederum war in Nürnberg fleißig und so gab es einiges zu erzählen&amp;#8230; Viel Spaß beim Hören! &amp;#160; SHOWNOTES Die USA-Fotos von Ludger
-Feed: https://blende-null.com/feed/podcast/</description>
+                <title>Wie sag ich&#39;s meinem Chef?</title>
+                <description>Astrids Buch „Wir fliegen hoch, wir fallen tief“ findet ihr hier: https://amzn.to/40sZixZ (Affiliate Link)
+Feed: https://psychcast.de/feed/mp3/</description>
                 
                 
-                <link>https://blende-null.com/folge-036/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://blende-null.com/podcast-download/1139/folge-036.mp3"/>
-                <guid>https://blende-null.com/folge-036/</guid>
+                <link>https://psychcast.de/wie-sag-ichs-meinem-chef/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://psychcast.de/podlove/file/646/s/feed/c/mp3/PC134_Wie_sag_ichs_meinem_Chef.mp3"/>
+                <guid>https://psychcast.de/wie-sag-ichs-meinem-chef/</guid>
                 
             </item><item>
-                <title>#044 Guardians of the Galaxy Vol. 3</title>
-                <description>Die Wahrsager der Galaxis
-Feed: https://letscast.fm/podcasts/nix-konkretes-356dc1b8/feed</description>
+                <title>Diskussionen</title>
+                <description>Jeden Montag eine neue Geschichte. Das Blog gibt es schon seit Herbst 2016.
+Feed: https://kirstenmalzwei.de/feed/podcast</description>
                 
                 
-                <link>https://nix-konkretes.letscast.fm/episode/044-guardians-of-the-galaxy-vol-3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/75258ab8/episode/2b0cf840.mp3?t=1680897783"/>
-                <guid>https://nix-konkretes.letscast.fm/episode/044-guardians-of-the-galaxy-vol-3</guid>
+                <link>https://kirstenmalzwei.de/podcast/diskussionen</link>
+                <enclosure type="audio/mpeg" length="1" url="https://kirstenmalzwei.de/podlove/file/751/s/feed/c/podcast/diskussionen.mp3"/>
+                <guid>https://kirstenmalzwei.de/podcast/diskussionen</guid>
                 
             </item>
         </channel>
