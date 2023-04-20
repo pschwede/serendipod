@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 18 Apr 2023 04:22:15 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 20 Apr 2023 04:22:42 +0200</lastBuildDate>
             <item>
-                <title>Melodías pizarras - Gonna Have A Feast Here Tonight - 15/04/23</title>
-                <description>Gonna Have A Feast Here Tonight
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
+                <title>Mientras preparamos las próximas temporadas</title>
+                <description>Queridos amigos de&amp;nbsp;TED&amp;nbsp;en&amp;nbsp;español, nos vamos a tomar un tiempo para preparar las próximas temporadas del podcast. Mientras tanto, los invitamos a escuchar los cientos de episodios de las primeras nueve temporadas. Pueden encontrar todos los episodios en&amp;nbsp;tedenespanol.com.&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/c7c8d4c1-dcdb-4ed7-95e9-1aade928b5f9</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/gonna-have-feast-here-tonight-15-04-23/6864087/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SMELODI/mp3/0/5/1681597104950.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/gonna-have-feast-here-tonight-15-04-23/6864087/</guid>
+                <link>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/ted-en-espanol/e/63f67d5489ef5c00113a71af/media.mp3"/>
+                <guid>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</guid>
                 
             </item><item>
-                <title>¿Qué tal fácil es ganar dinero con TikTok?</title>
-                <description>Hacerse rico con TikTok no es una meta sencilla. Apenas se gana dinero por las visualizaciones. Lo que más retribución da son las colaboraciones con marcas.
-Feed: https://rss.dw.com/xml/podcast_enlaces</description>
+                <title>4 cuatro formas de hacer el trabajo híbrido mejor para todos | Tsedal Neeley</title>
+                <description>4 cuatro formas de hacer el trabajo híbrido mejor para todos | Tsedal Neeley
+Feed: https://feeds.feedburner.com/SpanishPodcastBusiness</description>
                 
                 
-                <link>https://www.dw.com/es/¿qué-tal-fácil-es-ganar-dinero-con-tiktok/av-65294763?maca=spa-podcast_enlaces-7583-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/enl/enl230413_ricos_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/¿qué-tal-fácil-es-ganar-dinero-con-tiktok/av-65294763?maca=spa-podcast_enlaces-7583-xml-mrss</guid>
+                <link>https://www.ted.com/talks/tsedal_neeley_4_ways_to_make_hybrid_work_better_for_everyone?rss=172BB350-0063</link>
+                <enclosure type="audio/mpeg" length="1" url="https://download.ted.com/products/164644.mp4?apikey=172BB350-0063"/>
+                <guid>https://www.ted.com/talks/tsedal_neeley_4_ways_to_make_hybrid_work_better_for_everyone?rss=172BB350-0063</guid>
                 
             </item>
         </channel>
