@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 20 Apr 2023 04:22:37 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 21 Apr 2023 04:22:48 +0200</lastBuildDate>
             <item>
-                <title>Nitrites : pourquoi l’Etat veut-il les réduire dans la charcuterie ?</title>
-                <description>Le 27 mars 2023, le gouvernement demande aux industriels de la charcuterie de réduire le taux de nitrites au sein de leurs produits. Pour cela, ils ont jusqu’à la fin avril pour s’exécuter. Ce plan s’applique à la charcuterie de grande consommation comme les rillettes, les lardons et les jambons. 
-Dans son communiqué, le gouvernement dit :  “prévoir un accompagnement des filières dans la modification des procédés de fabrication et des recettes pour respecter les seuils européens”...
-Feed: https://feeds.megaphone.fm/BABA2900401712</description>
+                <title>Passer de l&#39;Industrie du Disque à la Communication : 2 Dircoms témoignent | Hors Série 09</title>
+                <description>L&#39;une est fan de Michael Jackson, l&#39;autre de Prince. Toutes deux sont aujourd&#39;hui directrices de la communication et ont par ailleurs travaillé dans l&#39;industrie du disque.
+Les invitées du 9e hors série du Décodeur de la com s&#39;appellent Carine Meier, d...
+Feed: https://feed.ausha.co/blnJrf635QNe</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA9786690851.mp3?updated=1681919291"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/decodeur-de-la-communication/de-l-industrie-du-disque-a-la-communication-2-dircoms-temoignent</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/ykYgdcALaNJ4.mp3?t=1681986407"/>
+                <guid>https://podcast.ausha.co/decodeur-de-la-communication/de-l-industrie-du-disque-a-la-communication-2-dircoms-temoignent</guid>
                 
             </item><item>
-                <title>Twitter : Elon Musk tire le bilan de ses six premiers mois</title>
-                <description>Twitter : Elon Musk tire le bilan de ses six premiers mois
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_18998.xml</description>
+                <title>30. Comment vivre son hypersensibilité </title>
+                <description>Hello les zamours, le printemps est enfin là et je suis ravie de vous retrouver pour ce nouvel épisode autour de l&#39;hypersensibilité ! 
+Un sujet qui fait souvent parler car de plus en plus de personnes se reconnaissent hypersensible mais ne savent pas comment la gérer et l&#39;aborder. L&#39;hypersensibilité présente de nombreux avantages que certains ignorent car ils la considérent comme une faiblesse...
+Feed: https://feelpositive.lepodcast.fr/rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/twitter-elon-musk-tire-le-bilan-de-ses-six-premiers-mois-8759283</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/f554443d-8117-41e5-8f4f-6daab93ace43/18998-16.04.2023-ITEMA_23350315-2023I12633S0106-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/twitter-elon-musk-tire-le-bilan-de-ses-six-premiers-mois-8759283</guid>
+                <link>https://feelpositive.lepodcast.fr/30-comment-vivre-son-hypersensibilite</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/feelpositive/30-comment-vivre-son-hypersensibilite/enclosure.1f3b45a705590a51d25a2920763d314dec2b63f8d2d97f75a81c40b4441080e7.mp3?p=f"/>
+                <guid>https://feelpositive.lepodcast.fr/30-comment-vivre-son-hypersensibilite</guid>
                 
             </item>
         </channel>
