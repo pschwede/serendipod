@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 21 Apr 2023 04:22:53 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 22 Apr 2023 04:22:18 +0200</lastBuildDate>
             <item>
-                <title>Mercedes Quintero hablando del QualitasDay 2023</title>
-                <description>En este breve episodio Mercedes Quintero nos viene a platicar acerca del Qualitas Day 2023 este 12, 13 y 14 de Abril 2023.
-No se lo pierdan, es gratis y virtual!
-Todo mundo puede asistir.
-Mas informacion en:
-http://qualitasday.qualitasteam.co...
-Feed: https://www.spreaker.com/show/3254680/episodes/feed</description>
+                <title>Rincón Sportinguista 514 #PodcastSportinguista</title>
+                <description>Programa con @JaviMelero77 y Mon donde analizamos el empate a cero del Sporting contra el Alav&amp;eacute;s en El Molin&amp;oacute;n.
+Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
                 
                 
-                <link>https://www.spreaker.com/user/perfbytes/s5e05meche</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/53408120/s5e05meche.mp3"/>
-                <guid>https://www.spreaker.com/user/perfbytes/s5e05meche</guid>
+                <link>https://www.ivoox.com/rincon-sportinguista-514-podcastsportinguista-audios-mp3_rf_106505905_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-514-podcastsportinguista_mf_106505905_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/rincon-sportinguista-514-podcastsportinguista-audios-mp3_rf_106505905_1.html</guid>
                 
             </item><item>
-                <title>Sicut luna perfecta - Domingo de Quasimodo - 16/04/23</title>
-                <description>Domingo de Quasimodo
-Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
+                <title>Mientras preparamos las próximas temporadas</title>
+                <description>Queridos amigos de&amp;nbsp;TED&amp;nbsp;en&amp;nbsp;español, nos vamos a tomar un tiempo para preparar las próximas temporadas del podcast. Mientras tanto, los invitamos a escuchar los cientos de episodios de las primeras nueve temporadas. Pueden encontrar todos los episodios en&amp;nbsp;tedenespanol.com.&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/c7c8d4c1-dcdb-4ed7-95e9-1aade928b5f9</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/domingo-quasimodo/6864244/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SSICUTL/mp3/2/9/1681629348092.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/domingo-quasimodo/6864244/</guid>
+                <link>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/ted-en-espanol/e/63f67d5489ef5c00113a71af/media.mp3"/>
+                <guid>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</guid>
                 
             </item>
         </channel>
