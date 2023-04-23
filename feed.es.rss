@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 22 Apr 2023 04:22:18 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 23 Apr 2023 04:22:31 +0200</lastBuildDate>
             <item>
-                <title>Rincón Sportinguista 514 #PodcastSportinguista</title>
-                <description>Programa con @JaviMelero77 y Mon donde analizamos el empate a cero del Sporting contra el Alav&amp;eacute;s en El Molin&amp;oacute;n.
-Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
+                <title>Cap-79 Cuando tu amigo pide menestra en el restaurant????????</title>
+                <description>Tengo unos amigos que les gusta las menestras
+Feed: https://www.spreaker.com/show/5806312/episodes/feed</description>
                 
                 
-                <link>https://www.ivoox.com/rincon-sportinguista-514-podcastsportinguista-audios-mp3_rf_106505905_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-514-podcastsportinguista_mf_106505905_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/rincon-sportinguista-514-podcastsportinguista-audios-mp3_rf_106505905_1.html</guid>
+                <link>https://www.spreaker.com/user/17022738/trim-72b279d2-813c-4d4e-a43f-ffe85bffd58</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/53617734/trim_72b279d2_813c_4d4e_a43f_ffe85bffd58a.mp3"/>
+                <guid>https://www.spreaker.com/user/17022738/trim-72b279d2-813c-4d4e-a43f-ffe85bffd58</guid>
                 
             </item><item>
-                <title>Mientras preparamos las próximas temporadas</title>
-                <description>Queridos amigos de&amp;nbsp;TED&amp;nbsp;en&amp;nbsp;español, nos vamos a tomar un tiempo para preparar las próximas temporadas del podcast. Mientras tanto, los invitamos a escuchar los cientos de episodios de las primeras nueve temporadas. Pueden encontrar todos los episodios en&amp;nbsp;tedenespanol.com.&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/c7c8d4c1-dcdb-4ed7-95e9-1aade928b5f9</description>
+                <title>La comida callejera más popular de Alemania: el kebab</title>
+                <description>El kebab es la comida callejera más popular de Alemania. En Berlín, este pan turco con carne, ensalada y salsa ha superado al currywurst con papas fritas. ¿Por qué? Vamos a averiguarlo.
+Feed: https://rss.dw.com/xml/podcast_euromaxx_spa</description>
                 
                 
-                <link>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/ted-en-espanol/e/63f67d5489ef5c00113a71af/media.mp3"/>
-                <guid>https://shows.acast.com/ted-en-espanol/episodes/mientras-preparamos-las-proximas-temporadas</guid>
+                <link>https://www.dw.com/es/la-comida-callejera-más-popular-de-alemania-el-kebab/av-65400101?maca=spa-podcast_euromaxx_spa-7581-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ems/ems20230421_Beitrag3_DoenerN_AVC_640x360.mp4"/>
+                <guid>https://www.dw.com/es/la-comida-callejera-más-popular-de-alemania-el-kebab/av-65400101?maca=spa-podcast_euromaxx_spa-7581-xml-mrss</guid>
                 
             </item>
         </channel>

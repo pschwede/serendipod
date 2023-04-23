@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 22 Apr 2023 04:22:12 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 23 Apr 2023 04:22:26 +0200</lastBuildDate>
             <item>
-                <title>Emission du 04/04/2023</title>
-                <description>Le joli printemps de la poésie… et du cinéma se poursuivra cette semaine dans notre émission ! No...
-Feed: https://kitschetnet.podomatic.com/rss2.xml</description>
+                <title>Les kiwis arctiques et de Sibérie: résistants au froid</title>
+                <description>Il existe des kiwis qui passent bien les hivers à l’extérieur en pays nordique. S’ils ont le même genre de végétation que les kiwis commerciaux, par contre les fruits sont beaucoup plus petits.
+Feed: https://radiolegumes.com/feed/podcast/</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/kitschetnet/episodes/2023-04-17T13_51_15-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://kitschetnet.podomatic.com/enclosure/2023-04-17T13_51_15-07_00.mp3?_=1681764814.16564167"/>
-                <guid>https://www.podomatic.com/podcasts/kitschetnet/episodes/2023-04-17T13_51_15-07_00</guid>
+                <link>https://radiolegumes.com/les-kiwis-arctiques-et-de-siberie-resistants-au-froid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=les-kiwis-arctiques-et-de-siberie-resistants-au-froid</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/radoilegumes/content.blubrry.com/radoilegumes/Kiwi_rustique_Balado_Podcast.mp3"/>
+                <guid>https://radiolegumes.com/les-kiwis-arctiques-et-de-siberie-resistants-au-froid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=les-kiwis-arctiques-et-de-siberie-resistants-au-froid</guid>
                 
             </item><item>
-                <title>Extrême-droite : la banalisation tranquille</title>
-                <description>&#34;Jean-Marie Le Pen, il dit pas que des conneries...&#34; qui n’a jamais entendu cette phrase, à un repas de famille, prononcée par un tonton un peu bourré pendant l’apéro ? Ce tonton pénible, de plus en plus de jeunes Français·es sont d&#39;accord avec lui. Et...
-Feed: https://feed.ausha.co/BqmVUKpdXNDB</description>
+                <title>Trance Conference #534#</title>
+                <description>Plus d&#39;info sur notre site
+Feed: https://podcast.pulsradio.com/TranceConference/podcast.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/penser-les-luttes/extreme-droite-la-banalisation-tranquille</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BQD42ULJe3Gw.mp3?t=1680628629"/>
-                <guid>https://podcast.ausha.co/penser-les-luttes/extreme-droite-la-banalisation-tranquille</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/TranceConference/20230416/TranceConference_20230416.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
