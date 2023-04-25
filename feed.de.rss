@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 23 Apr 2023 04:22:21 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 25 Apr 2023 04:22:08 +0200</lastBuildDate>
             <item>
-                <title>Hannover Messe 2023: Industrielle Lösungen für die Herausforderungen unserer Zeit</title>
-                <description>In der neuen Episode von Das Ohr am Netz beleuchten wir die aktuellen Trends der diesjährigen Hannover Messe: Welche digitalen Innovationen und Lösungen werden 2023 auf der Messe vorgestellt? Welche Rolle spielen Daten in der digitalen Industrie? Und welchen Zusammenhang gibt es zwischen der Messe und dem Konzept Industrie 4.0? Unsere Podcaster Sidonie und Sven gehen der Sache auf den Grund...
-Feed: https://4ew3sj.podcaster.de/ecoverband.rss</description>
+                <title>Abschlussrede von Herrn Prof. Dr. Meier</title>
+                <description>In seiner Abschlussrede erläuterte Herr Prof. Dr. Meier den Beschluss, das Institut für Abfallzertifizierung zu schliessen, und sprach seinen Dank an alle Mitarbeitenden und Kunden aus.
+Feed: http://abfalleimer.org/feed/m4a-archive/</description>
                 
                 
-                <link>https://www.eco.de/podcast/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://4ew3sj.podcaster.de/ecoverband/media/ECO_Messe_(1).mp3"/>
-                <guid>https://www.eco.de/podcast/</guid>
+                <link>https://abfalleimer.org/protokolle/za066-00-abschlussrede-von-herrn-prof-dr-meier/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://abfalleimer.org/podlove/file/3082/s/feed/c/m4a-archive/za066-00-abschlussrede-von-herrn-prof-dr-meier.m4a"/>
+                <guid>https://abfalleimer.org/protokolle/za066-00-abschlussrede-von-herrn-prof-dr-meier/</guid>
                 
             </item><item>
-                <title>10 geniale FILMKONZEPTE - für B2B und Agenturen</title>
-                <description>Das sind 10 Ansätze und Ideen für Filmkonzepte. Diese kannst du für Marketing - und Werbemaßnahmen umsetzen. ???? Beispiele zeigen wir hier: https://bit.ly/3lcLfh1 ????
-Feed: https://kreativfilm-podcast.podigee.io/feed/mp3</description>
+                <title>Folge 74 - Der Mitterrandist</title>
+                <description>In der neuen Folge begeben wir uns auf die Spuren von François Mitterrand. Von der Flucht aus der deutschen Kriegsgefangenschaft über seine Arbeit für das Vichy-Regime, den Kampf der Resistance in Südfrankreich, den Dienst als Minister in der IV...
+Feed: https://damalsundheute.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://kreativfilm-podcast.podigee.io/68-filmkonzepte-agenturen</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1059645-m-171cc1c270672718a69761b2ed20816e.mp3?source=feed"/>
-                <guid>https://kreativfilm-podcast.podigee.io/68-filmkonzepte-agenturen</guid>
+                <link>https://damalsundheute.podigee.io/75-mitterrand</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1078965-m-723a1924f726fd42875b4fd98a5029c8.mp3?source=feed"/>
+                <guid>https://damalsundheute.podigee.io/75-mitterrand</guid>
                 
             </item>
         </channel>

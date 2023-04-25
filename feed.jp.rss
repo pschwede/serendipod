@@ -9,27 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 23 Apr 2023 04:22:46 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 25 Apr 2023 04:22:28 +0200</lastBuildDate>
             <item>
-                <title>Renfield</title>
-                <description>Illumination Cinema Movie Podcast
-Feed: https://www.podcasts.com/rss_feed/7a713872b4a12a42487446caca7d1a4b</description>
+                <title>Lost in the Sauce: a conversation about kink community spaces</title>
+                <description>Season 007 Finale
+Feed: https://offthecuffs.libsyn.com/rss</description>
                 
                 
-                <link>https://www.podcasts.com/illumination-cinema-movie-podcast-47be33e47/episode/renfield</link>
-                <enclosure type="audio/mpeg" length="1" url="https://awscdn.podcasts.com/audio-LPZBvndvPWaZ5Ub5PoIfgwgVL.mp3"/>
-                <guid>https://www.podcasts.com/illumination-cinema-movie-podcast-47be33e47/episode/renfield</guid>
+                <link>https://offthecuffs.libsyn.com/357-lost-in-the-sauce-a-conversation-about-community-spaces</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/offthecuffs/357_-_Lost_in_the_Sauce.mp3?dest-id=376149"/>
+                <guid>https://offthecuffs.libsyn.com/357-lost-in-the-sauce-a-conversation-about-community-spaces</guid>
                 
             </item><item>
-                <title>Spring Game Recap</title>
-                <description>The weather was perfect, the crowd was into it, and the beers were flowing. Overall, it was a great day down in Blacksburg for the Spring Game. Pete and Robbie recap the weekend before getting into the game itself.
-Learn more about your ad choices. Visit megaphone.fm/adchoices
-Feed: https://feeds.megaphone.fm/FIEFC3806762823</description>
+                <title>BONUS EPISODE: Bats, Pwingies, Feet, Birds, Bees &amp; More!</title>
+                <description>It&#39;s time for another dive into the MTGM archives for some of the highlights! 
+If you’d like to get in touch, you can send an email to hello@MTGMpod.com
+Please review Global&#39;s Privacy Policy: https://global.com/legal/privacy-policy/
+MTGM is going...
+Feed: https://podcast.global.com/show/5121274/episodes/feed</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/FIEFC6003612497.mp3?updated=1681997692"/>
-                <guid></guid>
+                <link>https://www.spreaker.com/user/15302221/mtgm-best-of-s3e14-s4e21</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/53593307/mtgm_best_of_s3e14_s4e21.mp3"/>
+                <guid>https://www.spreaker.com/user/15302221/mtgm-best-of-s3e14-s4e21</guid>
                 
             </item>
         </channel>

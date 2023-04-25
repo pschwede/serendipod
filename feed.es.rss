@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 23 Apr 2023 04:22:31 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 25 Apr 2023 04:22:16 +0200</lastBuildDate>
             <item>
-                <title>Cap-79 Cuando tu amigo pide menestra en el restaurant????????</title>
-                <description>Tengo unos amigos que les gusta las menestras
-Feed: https://www.spreaker.com/show/5806312/episodes/feed</description>
+                <title>El Coleccionista de Amantes</title>
+                <description>En este episodio, Any y Mix discuten sobre el libro &#34;El Coleccionista de Amantes&#34; del autor James Patterson. Any comenta que el libro es una emocionante novela de suspenso que trata sobre un asesino en serie que secuestra y asesina a mujeres jóvenes. 
+Feed: https://feeds.simplecast.com/Ls3L1Ojk</description>
                 
                 
-                <link>https://www.spreaker.com/user/17022738/trim-72b279d2-813c-4d4e-a43f-ffe85bffd58</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/53617734/trim_72b279d2_813c_4d4e_a43f_ffe85bffd58a.mp3"/>
-                <guid>https://www.spreaker.com/user/17022738/trim-72b279d2-813c-4d4e-a43f-ffe85bffd58</guid>
+                <link>https://mentesliterales.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/0cc4690d-0899-463d-9bd6-b02c19a11833/episodes/5fdf2343-558b-4ddb-b2b5-d69aab9e83ca/audio/676745ed-7463-4bd8-879e-8943af0ba199/default_tc.mp3?aid=rss_feed&amp;feed=Ls3L1Ojk"/>
+                <guid>https://mentesliterales.com</guid>
                 
             </item><item>
-                <title>La comida callejera más popular de Alemania: el kebab</title>
-                <description>El kebab es la comida callejera más popular de Alemania. En Berlín, este pan turco con carne, ensalada y salsa ha superado al currywurst con papas fritas. ¿Por qué? Vamos a averiguarlo.
-Feed: https://rss.dw.com/xml/podcast_euromaxx_spa</description>
+                <title>DA Verdad</title>
+                <description>Decir absolutamente la verdad es dejar de mentirnos a nosotros mismos&amp;hellip;
+Cuando salimos de un encuentro terap&amp;eacute;utico,y al instante estamos desentonados fuera de &amp;oacute;rbita desequilibrados es que hemos conseguido afirmar realmente creer en nosotros mismos de convertirnos en un manifestaci&amp;oacute;n integral de la divinidad a tiempo completo&amp;hellip; Esta es una continuidad de las anteriores meditaciones:
+coherenecia
+https://www.ivoox...
+Feed: https://www.ivoox.com/podcast-nodo-estelar-aneto_fg_f11026236_filtro_1.xml</description>
                 
                 
-                <link>https://www.dw.com/es/la-comida-callejera-más-popular-de-alemania-el-kebab/av-65400101?maca=spa-podcast_euromaxx_spa-7581-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ems/ems20230421_Beitrag3_DoenerN_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/la-comida-callejera-más-popular-de-alemania-el-kebab/av-65400101?maca=spa-podcast_euromaxx_spa-7581-xml-mrss</guid>
+                <link>https://www.ivoox.com/da-verdad-audios-mp3_rf_106797945_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/da-verdad_mf_106797945_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/da-verdad-audios-mp3_rf_106797945_1.html</guid>
                 
             </item>
         </channel>
