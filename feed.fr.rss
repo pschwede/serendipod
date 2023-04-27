@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 26 Apr 2023 04:22:27 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 27 Apr 2023 04:22:01 +0200</lastBuildDate>
             <item>
-                <title>Emission du 11/04/2023 </title>
-                <description>Rejoignez notre photo… de famille en nous écoutant cette semaine dans notre émission ! Nous mettr...
-Feed: https://kitschetnet.podomatic.com/rss2.xml</description>
+                <title>Les Kardashian, l’une des familles les plus influentes de notre époque</title>
+                <description>Dans cet épisode, Andréa Brusque vous présente l&#39;une des familles les plus célèbres et influentes de l&#39;industrie du divertissement. Elles sont sur toutes les lèvres, et chacun de leurs mouvements est scruté à la loupe. Elles sont connues pour leur extravagance et leur style de vie luxueux. Nous allons découvrir leurs succès fulgurants et les scandales qui ont fait couler beaucoup d&#39;encre. Leur nom : Kardashian. Avec un parcours hors du commun, découvrez leur True Story...
+Feed: https://feeds.megaphone.fm/BABA8011696838</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/kitschetnet/episodes/2023-04-24T15_23_32-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://kitschetnet.podomatic.com/enclosure/2023-04-24T15_23_32-07_00.mp3?_=1682375142.16573879"/>
-                <guid>https://www.podomatic.com/podcasts/kitschetnet/episodes/2023-04-24T15_23_32-07_00</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA9432279127.mp3?updated=1682415730"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Transition écologique : c’est quoi le plan ?</title>
-                <description>Transition écologique : c’est quoi le plan ?
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10075.xml</description>
+                <title>Passer de l&#39;Industrie du Disque à la Communication : 2 Dircoms témoignent | Hors Série 09</title>
+                <description>L&#39;une est fan de Michael Jackson, l&#39;autre de Prince. Toutes deux sont aujourd&#39;hui directrices de la communication et ont par ailleurs travaillé dans l&#39;industrie du disque.
+Les invitées du 9e hors série du Décodeur de la com s&#39;appellent Carine Meier, d...
+Feed: https://feed.ausha.co/blnJrf635QNe</description>
                 
                 
-                <link>http://www.radiofrance.fr/chaines/france-culture2/emissions/matins/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/696f5211-8b9e-407e-a8bf-c07502191780/10075-25.04.2023-ITEMA_23358855-2023C6608S0115-21.mp3"/>
-                <guid>http://www.radiofrance.fr/chaines/france-culture2/emissions/matins/</guid>
+                <link>https://podcast.ausha.co/decodeur-de-la-communication/de-l-industrie-du-disque-a-la-communication-2-dircoms-temoignent</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/ykYgdcALaNJ4.mp3?t=1681986407"/>
+                <guid>https://podcast.ausha.co/decodeur-de-la-communication/de-l-industrie-du-disque-a-la-communication-2-dircoms-temoignent</guid>
                 
             </item>
         </channel>
