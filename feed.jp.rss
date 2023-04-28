@@ -9,26 +9,39 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 27 Apr 2023 04:22:18 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 28 Apr 2023 04:22:17 +0200</lastBuildDate>
             <item>
-                <title>Markedspuls - Kvartalstall og prisinger</title>
-                <description>I denne ukens Markedspuls snakker Roger og Mads om de neste ukers kvartalstall. Mange store selskaper som skal i ilden, og det snakkes om hvordan dette vil ha effekt på børsen som helhet.
-Feed: https://feeds.acast.com/public/shows/61653f7433ffb500132c0775</description>
+                <title>Hounded</title>
+                <description>Some roads are long and some roads wind. Some roads show you things you’d never think you’d find…
+Feed: https://feeds.spookedpodcast.org</description>
                 
                 
-                <link>https://www.nordnet.no/no/marked/aksjer/markedspuls</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/61653f7433ffb500132c0775/e/644680bbdcef590011e0ad71/media.mp3"/>
-                <guid>https://www.nordnet.no/no/marked/aksjer/markedspuls</guid>
+                <link>https://beta.prx.org/stories/470985</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/_/409/fb52aecf-d24a-498d-b842-262327e3a8a7/Spooked7_Hounded_BB.mp3"/>
+                <guid>https://beta.prx.org/stories/470985</guid>
                 
             </item><item>
-                <title>3BGPodcast- True Lies</title>
-                <description>James Cameron is known for Titanic, Avatar, Terminator and one of the Alien movies. True Lies is often forgotten by most people. And what many don&#39;t know is that this a monster hit. It also gave Jamie Lee Curtis career the joint it needed. Also,...
-Feed: https://3blackgeeks.libsyn.com/rss</description>
+                <title>April 20, 2023 Show with Justin Peters on “The Doctrine of the Holy Spirit”</title>
+                <description>April 20, 2023
+JUSTIN PETERS,
+evangelist, conference speaker &amp;
+founder of Justin Peters Ministries,
+who will address:&#34;The DOCTRINE of the HOLY SPIRIT&#34;&amp; announcing an upcoming
+conference with Justin Peters @
+GraceLife Church of Annville, PA&amp; the 2023 G3 National Conference!
+ 
+Subscribe:
+ 	 iTunes
+ 	 TuneIn
+ 	 Android
+ 	 RSS Feed
+Listen:
+Feed: https://www.ironsharpensironradio.com/feed/podcast</description>
                 
                 
-                <link>https://3blackgeeks.libsyn.com/3bgpodcast-true-lies</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/3blackgeeks/3BGTrue_Lies.mp3?dest-id=113075"/>
-                <guid>https://3blackgeeks.libsyn.com/3bgpodcast-true-lies</guid>
+                <link>https://www.ironsharpensironradio.com/podcast/april-20-2023-show-with-justin-peters-on-the-doctrine-of-the-holy-spirit/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/ironsharpensiron/ironsharpensironradio.com/podcast/20230420ISI.mp3"/>
+                <guid>https://www.ironsharpensironradio.com/podcast/april-20-2023-show-with-justin-peters-on-the-doctrine-of-the-holy-spirit/</guid>
                 
             </item>
         </channel>

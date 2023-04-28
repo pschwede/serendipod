@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 27 Apr 2023 04:21:57 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 28 Apr 2023 04:21:54 +0200</lastBuildDate>
             <item>
-                <title>Mitarbeiter-Stärkung: Empowerment hoch vier</title>
-                <description>Empowerment hoch vier
-Feed: https://www.managerseminare.de/rssFeed/managerSeminare_Podcast.xml</description>
+                <title>Wir sind umgezogen!</title>
+                <description>...kurzer Zwischenstand aus der neuen Location
+Feed: https://sizzlebrothers.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.managerseminare.de/ms_Artikel/Mitarbeiter-Staerkung-Empowerment-hoch-vier,283472</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.managerseminare.de/audio/MS302AR01.mp3"/>
-                <guid>https://www.managerseminare.de/ms_Artikel/Mitarbeiter-Staerkung-Empowerment-hoch-vier,283472</guid>
+                <link>https://sizzlebrothers.podigee.io/200-der-umzug</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1083275-m-7a05267ecbc4af88c1221dd914b08420.mp3?source=feed"/>
+                <guid>https://sizzlebrothers.podigee.io/200-der-umzug</guid>
                 
             </item><item>
-                <title># 142 König Chong Jo und der Segen Buddhas</title>
-                <description>Alle können Frieden finden
-Feed: https://letscast.fm/podcasts/compassionate-buddha-4b1c04c4/feed</description>
+                <title>Michael Ende II – Zwischen Phantásien und Bavaria</title>
+                <description>Da ist er endlich: Der abschließende Teil der Dilogie, die sich mit Michael Endes Werk beschäftigt – der Autor, der Klein-Simon und Klein-Sebastian fesselte wie kein anderer. Endes Hauptwerk und das kostbarste, unergründlichste Jugendbuch der beiden Podcaster ist Die unendliche Geschichte von 1979...
+Feed: https://14kltzj.podcaster.de/rueckspultaste.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/4b1c04c4/episode/f4e40b8d.mp3?t=1681756771"/>
-                <guid></guid>
+                <link>https://rueckspultaste.de/2023/04/28/086-michael-ende-ii-zwischen-phantasien-und-bavaria/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://14kltzj.podcaster.de/rueckspultaste/media/086_-_Michael_Ende_II_-_Zwischen_Phantasien_und_Bavaria_j05m8.mp3"/>
+                <guid>https://rueckspultaste.de/2023/04/28/086-michael-ende-ii-zwischen-phantasien-und-bavaria/</guid>
                 
             </item>
         </channel>
