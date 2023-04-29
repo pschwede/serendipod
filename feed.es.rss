@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 28 Apr 2023 04:22:03 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 29 Apr 2023 04:21:40 +0200</lastBuildDate>
             <item>
-                <title>Hay alboroto en la NFL: Arrancó la agencia libre</title>
-                <description>Sorprende petición de Aaron Rodgers 
-Feed: https://feeds.megaphone.fm/ESP7669914589</description>
+                <title>Trópico utópico - Gilberto Passos Gil Moreira II - 28/04/23</title>
+                <description>Gilberto Passos Gil Moreira II
+Feed: http://api.rtve.es/api/programas/2096/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2406266390.mp3?updated=1678993991"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/tropico-utopico/gilberto-passos-gil-moreira-ii-28-04-23/6877725/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_STROPI/mp3/1/8/1682717832581.mp3"/>
+                <guid>https://www.rtve.es/play/audios/tropico-utopico/gilberto-passos-gil-moreira-ii-28-04-23/6877725/</guid>
                 
             </item><item>
-                <title>Así funciona la tiroides</title>
-                <description>Así funciona la tiroides
-Feed: https://rss.dw.com/xml/podcast_en-forma</description>
+                <title>Popcasting428</title>
+                <description>lisa o&amp;rsquo;neill &amp;middot; the globe :: the royal arctic institute &amp;middot; fishing by lantern :: mikaela davis &amp;middot; far from you :: let&amp;rsquo;s eat grandma &amp;middot; from the morning :: labrinth &amp;middot; never felt so alone (ft billie eilish) :: supertramp &amp;middot; if everyone was listening :: sade &amp;middot; when am i going to make a living :: the kinks &amp;middot; something better beginning :: the glitter souls &amp;middot; la plus belle pour aller danser :: the glitter souls &amp;middot; je...
+Feed: https://feeds.feedburner.com/Popcasting</description>
                 
                 
-                <link>https://www.dw.com/es/así-funciona-la-tiroides/av-64857769?maca=spa-podcast_en-forma-7577-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ef/ef20230301_beitrag2_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/así-funciona-la-tiroides/av-64857769?maca=spa-podcast_en-forma-7577-xml-mrss</guid>
+                <link>http://www.ivoox.com/popcasting428-audios-mp3_rf_106376278_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting428_mf_106376278_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/popcasting428-audios-mp3_rf_106376278_1.html</guid>
                 
             </item>
         </channel>

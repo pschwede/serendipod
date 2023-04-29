@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 28 Apr 2023 04:21:54 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 29 Apr 2023 04:21:32 +0200</lastBuildDate>
             <item>
-                <title>Wir sind umgezogen!</title>
-                <description>...kurzer Zwischenstand aus der neuen Location
-Feed: https://sizzlebrothers.podigee.io/feed/mp3</description>
+                <title>NIKI DE SAINT PHALLE: ICH WOLLTE DIE WELT</title>
+                <description>Drei Frauen blicken auf die große Künstlerin Niki…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:11490690/sounds.rss</description>
                 
                 
-                <link>https://sizzlebrothers.podigee.io/200-der-umzug</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1083275-m-7a05267ecbc4af88c1221dd914b08420.mp3?source=feed"/>
-                <guid>https://sizzlebrothers.podigee.io/200-der-umzug</guid>
+                <link>https://soundcloud.com/schirn-kunsthalle/niki-de-saint-phalle-ich-wollte-die-welt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1498115254-schirn-kunsthalle-niki-de-saint-phalle-ich-wollte-die-welt.mp3"/>
+                <guid>https://soundcloud.com/schirn-kunsthalle/niki-de-saint-phalle-ich-wollte-die-welt</guid>
                 
             </item><item>
-                <title>Michael Ende II – Zwischen Phantásien und Bavaria</title>
-                <description>Da ist er endlich: Der abschließende Teil der Dilogie, die sich mit Michael Endes Werk beschäftigt – der Autor, der Klein-Simon und Klein-Sebastian fesselte wie kein anderer. Endes Hauptwerk und das kostbarste, unergründlichste Jugendbuch der beiden Podcaster ist Die unendliche Geschichte von 1979...
-Feed: https://14kltzj.podcaster.de/rueckspultaste.rss</description>
+                <title>DUNGEONS &amp; DRAGONS: EHRE UNTER DIEBEN</title>
+                <description>&lt;p&gt;Pen &amp;amp; Paper im Kino? Eulenbären und Dragonborn?&lt;/p&gt;&lt;p&gt;Wenn ihr jetzt davon keine Ahnung haben solltet- aber auf Fantasy mit ner salzigen Portion Popcornhumor mögt - dann solltet ihr mal GANZ DRINGEND HIER REINHÖREN!&lt;/p&gt;
+--- 
+Send in a voice message: https://podcasters.spotify.com/pod/show/cinespasten/message
+Feed: https://anchor.fm/s/347c66c/podcast/rss</description>
                 
                 
-                <link>https://rueckspultaste.de/2023/04/28/086-michael-ende-ii-zwischen-phantasien-und-bavaria/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://14kltzj.podcaster.de/rueckspultaste/media/086_-_Michael_Ende_II_-_Zwischen_Phantasien_und_Bavaria_j05m8.mp3"/>
-                <guid>https://rueckspultaste.de/2023/04/28/086-michael-ende-ii-zwischen-phantasien-und-bavaria/</guid>
+                <link>https://podcasters.spotify.com/pod/show/cinespasten/episodes/DUNGEONS--DRAGONS-EHRE-UNTER-DIEBEN-e22qc9p</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/347c66c/podcast/play/69070585/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F347c66c%2F69070585%2F48c1347e7ab13c8dd785473b73d656f6.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/cinespasten/episodes/DUNGEONS--DRAGONS-EHRE-UNTER-DIEBEN-e22qc9p</guid>
                 
             </item>
         </channel>

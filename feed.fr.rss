@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 28 Apr 2023 04:21:59 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 29 Apr 2023 04:21:36 +0200</lastBuildDate>
             <item>
-                <title>Épisode 114 : La naissance du Rock</title>
-                <description>C’est après-guerre que le Rock’n’roll voit le jour aux États-Unis. Mixant les caractéristiques du gospel, du blues et du jazz, il puise ses racines dans la musique afro-américaine avant de s’épanouir dans la population wasp, avec l’arrivée d’Elvis Pres...
-Feed: https://feed.ausha.co/BndDLTK0e1JG</description>
+                <title>Enquête d’investigation : « La magie moderne », un leurre ou une nouvelle tradition ?</title>
+                <description>&lt;p&gt;Source Wicca Podcasts Radio - La première plateforme de diffusion de podcasts en relation avec la Magie, la Sorcellerie, l’Esotérisme et les Mystères…&lt;/p&gt;
+&lt;p&gt;Enquête d&amp;#8217;investigation : « La magie moderne », un leurre ou une nouvelle tradition ? Certains la qualifie de « New-âge », « d&amp;#8217;Eclectique », « de Folklorique » et dénuée de toute Sapience (science et sagesse)...
+Feed: https://wiccaradio.net/feed/</description>
                 
                 
-                <link>https://podcast.ausha.co/encre-d-histoires/episode-114-la-naissance-du-rock</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B4ka3uJZqWNx.mp3?t=1681921603"/>
-                <guid>https://podcast.ausha.co/encre-d-histoires/episode-114-la-naissance-du-rock</guid>
+                <link>https://wiccaradio.net/la-magie-moderne/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wiccaradio.net/wp-content/uploads/2023/03/La-Magie-Moderne....mp3"/>
+                <guid>https://wiccaradio.net/la-magie-moderne/</guid>
                 
             </item><item>
-                <title>105 Marie-Laurence Cattoire : Diriger une agence RP &amp;être une référence dans la méditation</title>
-                <description>Après avoir fait les beaux-arts, Marie-Laurence créé contre toute attente une agence de Relation Presse alors qu&#39;elle n&#39;a que 20 ans. 19 ans plus tard elle est maman de 3 enfants et vit une vraie crise de sens. Elle découvre alors la méditation. Marie-...
-Feed: https://feed.ausha.co/b7XwQFeJV3Gx</description>
+                <title>Climat: la fin justifie-t-elle les moyens?</title>
+                <description>Ils se collent sur les autoroutes, labourent des greens de golf ou aspergent des tableaux de maîtres : les activistes du climat revendiquent la ...
+Feed: https://www.rts.ch/emissions/infrarouge/podcasts/?f=rss/podcast</description>
                 
                 
-                <link>https://podcast.ausha.co/pourquoi-pas-moi/105-marie-laurence-cattoire-diriger-une-agence-rp-etre-une-reference-dans-la-meditation</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/ykzXEFOm9jgo.mp3?t=1682518283"/>
-                <guid>https://podcast.ausha.co/pourquoi-pas-moi/105-marie-laurence-cattoire-diriger-une-agence-rp-etre-une-reference-dans-la-meditation</guid>
+                <link>https://www.rts.ch/video/emissions/infrarouge/13974379-climat-la-fin-justifietelle-les-moyens.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/13974379/a3627948-f1bd-3b71-81be-0f706a2da1f5.mp4"/>
+                <guid>https://www.rts.ch/video/emissions/infrarouge/13974379-climat-la-fin-justifietelle-les-moyens.html</guid>
                 
             </item>
         </channel>
