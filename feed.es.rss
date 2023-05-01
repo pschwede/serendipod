@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 30 Apr 2023 04:21:29 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 01 May 2023 04:22:21 +0200</lastBuildDate>
             <item>
-                <title>Así funciona la tiroides</title>
-                <description>Así funciona la tiroides
-Feed: https://rss.dw.com/xml/podcast_en-forma</description>
+                <title>El reportero - El fuego interior: la menopausia</title>
+                <description>Nora y Nicole hablan abiertamente de un tema que normalmente es tabú: la menopausia. Todas las mujeres tienen que enfrentarse a ella en algún momento.
+Feed: https://rss.dw.com/xml/podcast_el_reportero</description>
                 
                 
-                <link>https://www.dw.com/es/así-funciona-la-tiroides/av-64857769?maca=spa-podcast_en-forma-7577-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ef/ef20230301_beitrag2_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/así-funciona-la-tiroides/av-64857769?maca=spa-podcast_en-forma-7577-xml-mrss</guid>
+                <link>https://www.dw.com/es/el-reportero-el-fuego-interior-la-menopausia/av-65405683?maca=spa-podcast_el_reportero-17483-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/repos/repos20230422_gesamtHD_AVC_640x360.mp4"/>
+                <guid>https://www.dw.com/es/el-reportero-el-fuego-interior-la-menopausia/av-65405683?maca=spa-podcast_el_reportero-17483-xml-mrss</guid>
                 
             </item><item>
-                <title>Capítulo 34 - Los modelos atómicos</title>
-                <description>&amp;iexcl;Hemos vuelto! Despu&amp;eacute;s de unas cuantas semanas de ausencia por motivos que van desde mudanzas a exceso de trabajo, estamos de vuelta para hablar de educaci&amp;oacute;n de las ciencias. Y para recuperar el paso de forma s&amp;oacute;lida vamos con algo sencillito: de qu&amp;eacute; est&amp;aacute; hecha la materia. Cualquier escolar a d&amp;iacute;a de hoy sabe lo que es un &amp;aacute;tomo, y la gran mayor&amp;iacute;a podr&amp;aacute;n hasta hacer un dibujo sencillo de ellos...
-Feed: https://www.ivoox.com/feed_fg_f11214570_filtro_1.xml</description>
+                <title>Dos heteros | T4 E8</title>
+                <description>Exactamente, ¿qué podrían aportar dos heteros hablando de reguetón?&lt;br /&gt;
+Jesús y Ulises: un intento fallido de perrear hasta el suelo.
+Feed: https://gustavito.media/feed/podcast/</description>
                 
                 
-                <link>http://www.ivoox.com/capitulo-34-los-modelos-atomicos-audios-mp3_rf_107099943_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/capitulo-34-los-modelos-atomicos_mf_107099943_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/capitulo-34-los-modelos-atomicos-audios-mp3_rf_107099943_1.html</guid>
+                <link>https://gustavito.media/2023/04/19/neoperreo-t4-e7-2/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://gustavito.media/wp-content/uploads/2023/04/T4_E8_Dos_Heteros.mp3"/>
+                <guid>https://gustavito.media/2023/04/19/neoperreo-t4-e7-2/</guid>
                 
             </item>
         </channel>
