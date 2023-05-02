@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 01 May 2023 04:22:26 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 02 May 2023 04:21:37 +0200</lastBuildDate>
             <item>
-                <title>Respiratory Care Abril 2023</title>
-                <description>Respiratory Care Abril 2023 by American Associati…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:190325229/sounds.rss</description>
-                
-                
-                <link>https://soundcloud.com/rcjournal-podcast-portugues/respiratory-care-abril-2023</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1481984569-rcjournal-podcast-portugues-respiratory-care-abril-2023.mp3"/>
-                <guid>https://soundcloud.com/rcjournal-podcast-portugues/respiratory-care-abril-2023</guid>
-                
-            </item><item>
                 <title>O verdadeiro business da Ryanair ✈️???? | Co-construção Matinal com o Edu</title>
                 <description>&lt;p&gt;O business da Ryanair e porque ela domina o mercado europeu ✈️ Mudou sua perspectiva sob eles?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Siga o Edu nas redes sociais em https://edubl.in/instaedu&lt;/p&gt;
 Feed: https://anchor.fm/s/1ab2e6c4/podcast/rss</description>
@@ -29,6 +19,16 @@ Feed: https://anchor.fm/s/1ab2e6c4/podcast/rss</description>
                 <link>https://podcasters.spotify.com/pod/show/edublincast/episodes/O-verdadeiro-business-da-Ryanair---Co-construo-Matinal-com-o-Edu-e22pqde</link>
                 <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1ab2e6c4/podcast/play/69052270/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-21%2F325278481-44100-2-4153648366ded.m4a"/>
                 <guid>https://podcasters.spotify.com/pod/show/edublincast/episodes/O-verdadeiro-business-da-Ryanair---Co-construo-Matinal-com-o-Edu-e22pqde</guid>
+                
+            </item><item>
+                <title>Respiratory Care Abril 2023</title>
+                <description>Respiratory Care Abril 2023 by American Associati…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:190325229/sounds.rss</description>
+                
+                
+                <link>https://soundcloud.com/rcjournal-podcast-portugues/respiratory-care-abril-2023</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1481984569-rcjournal-podcast-portugues-respiratory-care-abril-2023.mp3"/>
+                <guid>https://soundcloud.com/rcjournal-podcast-portugues/respiratory-care-abril-2023</guid>
                 
             </item>
         </channel>

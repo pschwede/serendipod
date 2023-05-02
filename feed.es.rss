@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 01 May 2023 04:22:21 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 02 May 2023 04:21:34 +0200</lastBuildDate>
             <item>
-                <title>El reportero - El fuego interior: la menopausia</title>
-                <description>Nora y Nicole hablan abiertamente de un tema que normalmente es tabú: la menopausia. Todas las mujeres tienen que enfrentarse a ella en algún momento.
-Feed: https://rss.dw.com/xml/podcast_el_reportero</description>
+                <title>Las bicicletas</title>
+                <description>Cuando recién vine a vivir a Escuintla, todos los días o casi todos, salía a recorrer 15 kilómetros diarios, de eso ya pasó mucho tiempo. También ha pasado bastante tiempo, cuando por Ciudad de Guatemala me movilizaba casi exclusivamente en bicicleta, cl
+Feed: http://feed.quechilero.com/las6am</description>
                 
                 
-                <link>https://www.dw.com/es/el-reportero-el-fuego-interior-la-menopausia/av-65405683?maca=spa-podcast_el_reportero-17483-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/repos/repos20230422_gesamtHD_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/el-reportero-el-fuego-interior-la-menopausia/av-65405683?maca=spa-podcast_el_reportero-17483-xml-mrss</guid>
+                <link>https://quechilero.com/blog/2023/05/01/las-bicicletas/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://quechilero.com/blog/podcast-download/31327/las-bicicletas.mp3"/>
+                <guid>https://quechilero.com/blog/2023/05/01/las-bicicletas/</guid>
                 
             </item><item>
-                <title>Dos heteros | T4 E8</title>
-                <description>Exactamente, ¿qué podrían aportar dos heteros hablando de reguetón?&lt;br /&gt;
-Jesús y Ulises: un intento fallido de perrear hasta el suelo.
-Feed: https://gustavito.media/feed/podcast/</description>
+                <title>Popcasting429</title>
+                <description>arlo parks &amp;middot; blades :: etienne daho &amp;middot; boyfriend :: flavien berger &amp;middot; d&amp;rsquo;ici l&amp;agrave; :: horsegirl &amp;middot; ballroom dance scene :: craig wedren &amp;amp; anna waronker &amp;middot; no return :: dinosaur jr...
+Feed: https://feeds.feedburner.com/Popcasting</description>
                 
                 
-                <link>https://gustavito.media/2023/04/19/neoperreo-t4-e7-2/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://gustavito.media/wp-content/uploads/2023/04/T4_E8_Dos_Heteros.mp3"/>
-                <guid>https://gustavito.media/2023/04/19/neoperreo-t4-e7-2/</guid>
+                <link>http://www.ivoox.com/popcasting429-audios-mp3_rf_107211472_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting429_mf_107211472_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/popcasting429-audios-mp3_rf_107211472_1.html</guid>
                 
             </item>
         </channel>
