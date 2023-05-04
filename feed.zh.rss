@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 03 May 2023 04:21:51 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 04 May 2023 04:22:07 +0200</lastBuildDate>
             <item>
-                <title>Top Jobs in San Diego County 2023-2033</title>
-                <description>Career Channel
-Feed: https://podcast.uctv.tv/uctv_business.rss</description>
-                
-                
-                <link>https://www.uctv.tv/shows/38612</link>
-                <enclosure type="audio/mpeg" length="1" url="http://podcast.uctv.tv/mp3/38612.mp3"/>
-                <guid>https://www.uctv.tv/shows/38612</guid>
-                
-            </item><item>
                 <title>How to Keep going during hardship when you just feel like giving up</title>
                 <description>There is a temptation that comes for all of us and often we fall for it. It comes when we are distracted and least expect it. This temptation disguises itself in many different ways but always has the same desire and comes from the same place, deep within us.  This temptation when given in to causes us to deflate, detract and desire to completely retreat. It is the temptation to give up when things get hard. 
 Feed: https://feeds.simplecast.com/jQ1dOWzi</description>
@@ -29,6 +19,16 @@ Feed: https://feeds.simplecast.com/jQ1dOWzi</description>
                 <link>https://marriageaftergod.com</link>
                 <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c586fa1e-8df4-460b-9b34-17bcf39e428b/episodes/bc67871d-fa62-44e7-b274-4ee3c7c3e31c/audio/315b3bb0-3446-4558-a8d0-d0c766239c41/default_tc.mp3?aid=rss_feed&amp;feed=jQ1dOWzi"/>
                 <guid>https://marriageaftergod.com</guid>
+                
+            </item><item>
+                <title> Kind World introduces Violation, a new podcast about who pulls the levers of power in the justice system </title>
+                <description>Violation tells the story of two families bound together by an unthinkable crime. It explores America&#39;s opaque parole system and asks: How much time in prison is enough? Who gets to decide? And, when someone commits a terrible crime, what does redemption look like?
+Feed: https://rss.wbur.org/kindworld/podcast</description>
+                
+                
+                <link>https://www.wbur.org/kindworld/2023/03/17/kind-world-introduces-violation-justice-family</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/284E6C//traffic.megaphone.fm/BUR8108074909.mp3"/>
+                <guid>https://www.wbur.org/kindworld/2023/03/17/kind-world-introduces-violation-justice-family</guid>
                 
             </item>
         </channel>

@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 03 May 2023 04:21:46 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 04 May 2023 04:22:03 +0200</lastBuildDate>
             <item>
-                <title>#162 - São Jorge</title>
-                <description>Ele está entre os santos mais populares no Brasil, e seus fiéis estão entre os mais devotos.
-Guerreiro na Capadóscia, anda de cavalo pela Lua a nos proteger do mal e dos nossos inimigos.
-Dia 23 de abril é Dia de São Jorge. Ou de Ogum, ou Oxossi, se...
-Feed: https://www.spreaker.com/show/4712232/episodes/feed</description>
+                <title>#37 - Ataques de Negação de Serviço: DoS e DDoS com Thiago Ayub</title>
+                <description>&lt;p&gt;&amp;quot;O que são ataques DoS e DDoS? Como eles funcionam e como afetam os provedores de Internet?&amp;quot; Thiago Ayub, diretor de Tecnologia na Sage Networks, responde a essas e outras perguntas no quadro Roteamento de Ideias.&lt;/p&gt;&lt;p&gt;O convidado fala sobre as principais recomendações que um provedor de Internet pode aplicar na sua rede para se proteger contra um ataque DoS/DDoS, quais medidas tomar para detectar e mitigar um ataque, e muito mais...
+Feed: https://anchor.fm/s/16cc30d8/podcast/rss</description>
                 
                 
-                <link>https://www.spreaker.com/user/central3/travessia162</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/53609471/travessia162.mp3"/>
-                <guid>https://www.spreaker.com/user/central3/travessia162</guid>
+                <link>https://podcasters.spotify.com/pod/show/camada8/episodes/37---Ataques-de-Negao-de-Servio-DoS-e-DDoS-com-Thiago-Ayub-e21ogei</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/16cc30d8/podcast/play/67960722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-4%2Fe8807195-55bc-2bc3-c445-e6b1010c5862.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/camada8/episodes/37---Ataques-de-Negao-de-Servio-DoS-e-DDoS-com-Thiago-Ayub-e21ogei</guid>
                 
             </item><item>
-                <title>T2023 Drops #06 - Wild Hearts, Loop Hero e Symmetry</title>
-                <description>Em mais um episódio do que estamos jogando, falamos de Loop Hero, Wild Hearts e Symmetry.
-Feed: https://feeds.feedburner.com/WannaplayPodcast</description>
+                <title>#193 - Faz sentido amortizar o crédito à habitação?</title>
+                <description>Será que faz sentido amortizar o empréstimo da casa ou é melhor aproveitar o dinheiro para outra finalidade? Neste episódio do podcast MoneyBar, falo-lhe sobre uma janela de oportunidade que se abriu em 2023, no que toca a pagar o crédito à habitação...
+Feed: https://feed.podbean.com/barbarabarroso/feed.xml</description>
                 
                 
-                <link>https://wannaplay.com.br/episode/t2023-drops-06-wild-hearts-loop-hero-e-symmetry/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stream.redcircle.com/episodes/202402b7-3cb3-40c3-bfda-3200b10fec7b/stream.mp3"/>
-                <guid>https://wannaplay.com.br/episode/t2023-drops-06-wild-hearts-loop-hero-e-symmetry/</guid>
+                <link>https://barbarabarroso.podbean.com/e/193-faz-sentido-amortizar-o-credito-a-habitacao/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/ht9x3d/EPISODIO193.mp3"/>
+                <guid>https://barbarabarroso.podbean.com/e/193-faz-sentido-amortizar-o-credito-a-habitacao/</guid>
                 
             </item>
         </channel>
