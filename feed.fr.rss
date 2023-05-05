@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 04 May 2023 04:21:55 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 05 May 2023 04:21:53 +0200</lastBuildDate>
             <item>
-                <title>219. Mettre en place un plan média pour son business</title>
-                <description>Cette stratégie de visibilité est celle qui a le plus propulsé TheBBoost ! ????
-Et pourtant je n’avais pas encore fait de podcast sur le sujet, il fallait y remédier ! ????
-Un plan média c’est tout simplement l’art d’être mis en avant par d’autres personnes...
-Feed: https://feed.ausha.co/blDjes1L9aWL</description>
+                <title>Soyons fous : June Tyson, Eric Legnini, Gilberto Gil, Oded Tzur and more</title>
+                <description>Soyons fous : June Tyson, Eric Legnini, Gilberto Gil, Oded Tzur and more
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14613.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/jpeux-pas-jai-business/mettre-en-place-un-plan-media-pour-son-business</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/oRdWeCJ8wMYb.mp3?t=1682679159"/>
-                <guid>https://podcast.ausha.co/jpeux-pas-jai-business/mettre-en-place-un-plan-media-pour-son-business</guid>
+                <link>http://www.francemusique.fr/emission/banzzai</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/23680af1-ce4a-4412-884c-d88abc323d35/14613-04.05.2023-ITEMA_23368142-2023M23834E0038-21.mp3"/>
+                <guid>http://www.francemusique.fr/emission/banzzai</guid>
                 
             </item><item>
-                <title>Les Epoux Rosenberg • Episode 4 sur 4</title>
-                <description> En 1945, les États-Unis ont l&#39;exclusivité de la bombe atomique, mais l’URSS peut se doter dès 1949 de cette technologie, en partie grâce à l&#39;espionnage. C&#39;est le début du maccarthysme aux Etats-Unis, une « chasse aux sorcières...
-Feed: https://feeds.audiomeans.fr/feed/f972b7bb-281c-41b2-a653-1f3e9cc8d072.xml</description>
+                <title>Eglises en crise / Sectes africaines / Taizé (3/4)</title>
+                <description>En Suisse romande, la gouvernance des Eglises est devenue problématique. LʹEglise réformée vaudoise a par exemple connu trois démissions dʹun ...
+Feed: https://www.rts.ch/la-1ere/programmes/hautes-frequences/podcast/?flux=rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/abd76021-df3b-44a3-a480-fa209062f525.mp3?_=1683049631"/>
-                <guid></guid>
+                <link>https://www.rts.ch/la-1ere/programmes/hautes-frequences/13945065-eglises-en-crise-sectes-africaines-taize-34-30-04-2023.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/13945065/a517c834-93b1-3ba5-bd25-499ab66824fc.mp3"/>
+                <guid>https://www.rts.ch/la-1ere/programmes/hautes-frequences/13945065-eglises-en-crise-sectes-africaines-taize-34-30-04-2023.html</guid>
                 
             </item>
         </channel>
