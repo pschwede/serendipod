@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 05 May 2023 04:21:58 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 06 May 2023 04:21:22 +0200</lastBuildDate>
             <item>
-                <title>El reportero - El fuego interior: la menopausia</title>
-                <description>Nora y Nicole hablan abiertamente de un tema que normalmente es tabú: la menopausia. Todas las mujeres tienen que enfrentarse a ella en algún momento.
-Feed: https://rss.dw.com/xml/podcast_el_reportero</description>
+                <title>Underground Garage: ¡larga vida a El Boss!</title>
+                <description>&lt;p&gt;Teníamos muchas ganas de ver de nuevo a Bruce Sprignsteen y la E Street Band en directo. Y aunque ha sido larga, la espera ha merecido la pena. Lo único que nos da un poco de lástima es que el Boss solo haya actuado en Barcelona pero, aún así, estamos más que agradecidos.Ya estos días compartíamos contigo que Springsteen ha sido el gran tema de conversación en Barcelona...
+Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
                 
                 
-                <link>https://www.dw.com/es/el-reportero-el-fuego-interior-la-menopausia/av-65405683?maca=spa-podcast_el_reportero-17483-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/repos/repos20230422_gesamtHD_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/el-reportero-el-fuego-interior-la-menopausia/av-65405683?maca=spa-podcast_el_reportero-17483-xml-mrss</guid>
+                <link>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-larga-vida-boss-20230504_2248149</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rockfm-cdnmed.agilecontent.com/resources/mp3/6/5/1683193259356.mp3"/>
+                <guid>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-larga-vida-boss-20230504_2248149</guid>
                 
             </item><item>
-                <title>Sonidos y Sonados 2023-05-04</title>
-                <description>Acabamos abril con 20 propuestas, empezamos mayo con otras 20. Y, como es habitual, cambio de mes cambio de sintonia, todos los Sonidos y Sonados de este mes comenzaran con &amp;#8220;Boda final/Velorio&amp;#8221; de los madrileños Loma Baja, luego Espectro Caudillo, Peninsular, Los Doggers, Ocata, Dani y Los Argomedos, Extraños Pasajeros, Los Valientes con Power Burkas, [&amp;#8230;]
-Feed: https://feeds.feedburner.com/sonidosysonados</description>
+                <title>22. Emprender de Argentina A Barcelona con Mamita Botanical</title>
+                <description>¡Bienvenidos al episodio número veintidós de nuestro podcast “Formulando Foco”! En el episodio de hoy contamos con la compañía de Elisenda Monte, fundadora de la marca Mamita Botanical Skincare, para hablar sobre su experiencia en el emprendimiento y...
+Feed: https://www.spreaker.com/show/5081872/episodes/feed</description>
                 
                 
-                <link>https://www.sonidosysonados.com/2023/05/04/sonidos-y-sonados-2023-05-04/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/SonidosySonados20230504Neu.mp3"/>
-                <guid>https://www.sonidosysonados.com/2023/05/04/sonidos-y-sonados-2023-05-04/</guid>
+                <link>https://www.spreaker.com/user/15161266/mamita-botanical</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/53147743/mamita_botanical_sample_1_mp3.mp3"/>
+                <guid>https://www.spreaker.com/user/15161266/mamita-botanical</guid>
                 
             </item>
         </channel>

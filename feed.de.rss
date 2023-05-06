@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 05 May 2023 04:21:47 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 06 May 2023 04:21:09 +0200</lastBuildDate>
             <item>
-                <title>Once &amp; Always: Wie viel Power steckt in den Netflix-Rangers?</title>
-                <description>David geht diese Folge mit professioneller Distanz an, während Alex offenbart, dass er beim Gucken sogar dinozordgroße Pipitropfen in den Augen hatte. Und zack reden sie genau so lange wie dieses Netflix-Special dauert. It&#39;s Gucking Time!!!
-Feed: https://letscast.fm/podcasts/kino-to-go-5bfc9bdd/feed</description>
+                <title>PKP #439 - Strom aufm Dach</title>
+                <description>Wir sind kurz vor unserem Urlaub in Malente den wir in Billund verlängern und nebenbei haben wir uns für eine Photovoltaik-Anlage entschieden.
+Feed: https://planet-kai.org/feed/podcast/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/5bfc9bdd/episode/bf1966d0.mp3?t=1683120328"/>
-                <guid></guid>
+                <link>https://planet-kai.org/2023/04/16/pkp-439-strom-aufm-dach/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://planet-kai.org/podlove/file/1740/s/feed/c/podcast/pkp-439-strom-aufm-dach.mp3"/>
+                <guid>https://planet-kai.org/2023/04/16/pkp-439-strom-aufm-dach/</guid>
                 
             </item><item>
-                <title>25 Jahre ESC - Peter Urbans persönlicher Rückblick (1/2)</title>
-                <description>Peter Urban kommentiert in diesem Jahr zum letzten Mal für das deutsche Fernsehpublikum die größte jährliche Musikshow der Welt. Es geht diesmal nach Liverpool – in die Heimat der Beatles. Und damit rundet sich auch für den langjährigen Kommentator und Musikjournalisten Peter Urban das Bild. In zwei Sonderfolgen von „Urban Pop“ blickt er ganz persönlich zurück auf große Momente, kleine Pannen und Höhepunkte seit 1997...
-Feed: https://www.ndr.de/nachrichten/info/podcast4976.xml</description>
+                <title>Wir retten den Wald? Was dann?</title>
+                <description>Mal angenommen… wir retten den Wald. Wie findet man Bäume, die mit dem Klimawandel besser klarkommen? Wird der Wald der Zukunft dann ganz anders aussehen als heute? Ein Gedankenexperiment.
+Feed: https://www.tagesschau.de/multimedia/podcast/malangenommen/mal-angenommen-feed-101~podcast.xml</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/25-Jahre-ESC-Peter-Urbans-persoenlicher-Rueckblick-1-2,audio1373278.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4976/AU-20230503-1656-0400.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/25-Jahre-ESC-Peter-Urbans-persoenlicher-Rueckblick-1-2,audio1373278.html</guid>
+                <link>https://www.tagesschau.de/multimedia/audio/podcast-mal-angenommen-wald-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.tagesschau.de/audio/2023/0503/AU-20230503-1746-0200.mp3"/>
+                <guid>https://www.tagesschau.de/multimedia/audio/podcast-mal-angenommen-wald-100.html</guid>
                 
             </item>
         </channel>
