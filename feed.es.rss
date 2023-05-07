@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 06 May 2023 04:21:22 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 07 May 2023 04:21:20 +0200</lastBuildDate>
             <item>
-                <title>Underground Garage: ¡larga vida a El Boss!</title>
-                <description>&lt;p&gt;Teníamos muchas ganas de ver de nuevo a Bruce Sprignsteen y la E Street Band en directo. Y aunque ha sido larga, la espera ha merecido la pena. Lo único que nos da un poco de lástima es que el Boss solo haya actuado en Barcelona pero, aún así, estamos más que agradecidos.Ya estos días compartíamos contigo que Springsteen ha sido el gran tema de conversación en Barcelona...
-Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
+                <title>Sonidos y Sonados 2023-05-04</title>
+                <description>Acabamos abril con 20 propuestas, empezamos mayo con otras 20. Y, como es habitual, cambio de mes cambio de sintonia, todos los Sonidos y Sonados de este mes comenzaran con &amp;#8220;Boda final/Velorio&amp;#8221; de los madrileños Loma Baja, luego Espectro Caudillo, Peninsular, Los Doggers, Ocata, Dani y Los Argomedos, Extraños Pasajeros, Los Valientes con Power Burkas, [&amp;#8230;]
+Feed: https://feeds.feedburner.com/sonidosysonados</description>
                 
                 
-                <link>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-larga-vida-boss-20230504_2248149</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rockfm-cdnmed.agilecontent.com/resources/mp3/6/5/1683193259356.mp3"/>
-                <guid>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-larga-vida-boss-20230504_2248149</guid>
+                <link>https://www.sonidosysonados.com/2023/05/04/sonidos-y-sonados-2023-05-04/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/SonidosySonados20230504Neu.mp3"/>
+                <guid>https://www.sonidosysonados.com/2023/05/04/sonidos-y-sonados-2023-05-04/</guid>
                 
             </item><item>
-                <title>22. Emprender de Argentina A Barcelona con Mamita Botanical</title>
-                <description>¡Bienvenidos al episodio número veintidós de nuestro podcast “Formulando Foco”! En el episodio de hoy contamos con la compañía de Elisenda Monte, fundadora de la marca Mamita Botanical Skincare, para hablar sobre su experiencia en el emprendimiento y...
-Feed: https://www.spreaker.com/show/5081872/episodes/feed</description>
+                <title>Dos heteros | T4 E8</title>
+                <description>Exactamente, ¿qué podrían aportar dos heteros hablando de reguetón?&lt;br /&gt;
+Jesús y Ulises: un intento fallido de perrear hasta el suelo.
+Feed: https://gustavito.media/feed/podcast/</description>
                 
                 
-                <link>https://www.spreaker.com/user/15161266/mamita-botanical</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/53147743/mamita_botanical_sample_1_mp3.mp3"/>
-                <guid>https://www.spreaker.com/user/15161266/mamita-botanical</guid>
+                <link>https://gustavito.media/2023/04/19/neoperreo-t4-e7-2/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://gustavito.media/wp-content/uploads/2023/04/T4_E8_Dos_Heteros.mp3"/>
+                <guid>https://gustavito.media/2023/04/19/neoperreo-t4-e7-2/</guid>
                 
             </item>
         </channel>

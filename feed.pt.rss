@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 06 May 2023 04:21:28 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 07 May 2023 04:21:24 +0200</lastBuildDate>
             <item>
-                <title>Emissão Vespertina Qui - maio 04, 2023</title>
-                <description>Um programa orientado aos países Lusófonos de África, Brasil e comunidades de língua portuguesa no mundo. Oferece noticias do dia, informação, analises, desporto, artes, entretenimento, saúde, questões em debate em África. Às sextas em especial um convidado explora vários ângulos de um tema.
-Feed: https://www.voaportugues.com/podcast/?count=20&amp;zoneId=3066</description>
+                <title>FELIZ DIA NOVO - IRINEU TOLEDO - MOMENTO INSIGHT</title>
+                <description>É legítimo ter que decidir mesmo sem estar seguro? Diga aí. No recorte “áudio livro” Auto Empoderamento, de Ken O Donnelll. O tópico será os 4 tipos de pensamento e como ser o gestor desses pensamentos. Palavra chave do dia é “Independência”. No momento 
+Feed: https://felizdianovo.com.br/feed/podcast/programa-feliz-dia-novo/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://av.voanews.com/clips/VPO/2023/05/04/20230504-170000-VPO077-program_original.mp3"/>
-                <guid></guid>
+                <link>https://felizdianovo.com.br/podcast/feliz-dia-novo-irineu-toledo-momento-insight/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feliz-dia-novo-irineu-toledo-momento-insight</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/dts.podtrac.com/redirect.mp3/felizdianovo.com.br/podcast-download/6874/feliz-dia-novo-irineu-toledo-momento-insight.mp3"/>
+                <guid>https://felizdianovo.com.br/podcast/feliz-dia-novo-irineu-toledo-momento-insight/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feliz-dia-novo-irineu-toledo-momento-insight</guid>
                 
             </item><item>
-                <title>BP 473 - Giro europeu; alerta sobre os cabos submarinos</title>
-                <description>No episódio 473 do Bate-Papo, os professores Tanguy Baghdadi e Daniel Sousa mergulham em uma ampla variedade de tópicos relacionados à política internacional e atualidades. A conversa começa com uma análise da política migratória alemã, vista como uma...
-Feed: https://www.spreaker.com/show/5659715/episodes/feed</description>
+                <title>178 – Sistema Jagunço, com Gabriel Feltran</title>
+                <description>&lt;p&gt;Recebemos o sociólogo Gabriel Feltran para uma conversa que teve como mote o que autor chama de Sistema-Jagunço, e, e termos mais amplos, como a violência foi tomada como política no Brasil contemporâneo.  Leia mais →&lt;/p&gt;
+O post 178 – Sistema Jagunço, com Gabriel Feltran apareceu primeiro em filosofia pop.
+Feed: https://filosofiapop.com.br/feed/podcast/</description>
                 
                 
-                <link>https://www.spreaker.com/user/16729939/bp-473</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/53746468/bp_473.mp3"/>
-                <guid>https://www.spreaker.com/user/16729939/bp-473</guid>
+                <link>https://filosofiapop.com.br/podcast/178-sistema-jagunco-com-gabriel-feltran/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/filosofiapop/filosofiapop.com.br/episodios/178_gf.mp3"/>
+                <guid>https://filosofiapop.com.br/podcast/178-sistema-jagunco-com-gabriel-feltran/</guid>
                 
             </item>
         </channel>

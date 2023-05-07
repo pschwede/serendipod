@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 06 May 2023 04:21:09 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 07 May 2023 04:21:12 +0200</lastBuildDate>
             <item>
-                <title>PKP #439 - Strom aufm Dach</title>
-                <description>Wir sind kurz vor unserem Urlaub in Malente den wir in Billund verlängern und nebenbei haben wir uns für eine Photovoltaik-Anlage entschieden.
-Feed: https://planet-kai.org/feed/podcast/</description>
+                <title>(141) Warum Arbeitszeiterfassung Schutz und keine Kontrolle ist</title>
+                <description>HSI-Direktorin Johanna Wenckebach verdeutlicht, dass eine moderne Arbeitszeiterfassung nicht nur eine gesetzliche Verpflichtung ist, sondern dazu beiträgt, mehr Gerechtigkeit und Fairness in der Arbeitswelt zu schaffen.
+Feed: https://systemrelevant.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://planet-kai.org/2023/04/16/pkp-439-strom-aufm-dach/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://planet-kai.org/podlove/file/1740/s/feed/c/podcast/pkp-439-strom-aufm-dach.mp3"/>
-                <guid>https://planet-kai.org/2023/04/16/pkp-439-strom-aufm-dach/</guid>
+                <link>https://systemrelevant.podigee.io/143-arbeitszeiterfassung</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1089247-m-da02ef1b5fcb0e9e1040712c614d2bb8.mp3?source=feed"/>
+                <guid>https://systemrelevant.podigee.io/143-arbeitszeiterfassung</guid>
                 
             </item><item>
-                <title>Wir retten den Wald? Was dann?</title>
-                <description>Mal angenommen… wir retten den Wald. Wie findet man Bäume, die mit dem Klimawandel besser klarkommen? Wird der Wald der Zukunft dann ganz anders aussehen als heute? Ein Gedankenexperiment.
-Feed: https://www.tagesschau.de/multimedia/podcast/malangenommen/mal-angenommen-feed-101~podcast.xml</description>
+                <title>Markus Wollnweber - ein Pionier in seiner Region</title>
+                <description>Markus Wollnweber brachte dieses Neuland in die Eiffel, doch zu der Zeit, als er damit starten wollte. Ob es ihm mittlerweile gelungen ist? Hört mal rein in die Episode.
+Feed: https://www.heikesstadtgefluester.de/feed/podcast/</description>
                 
                 
-                <link>https://www.tagesschau.de/multimedia/audio/podcast-mal-angenommen-wald-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.tagesschau.de/audio/2023/0503/AU-20230503-1746-0200.mp3"/>
-                <guid>https://www.tagesschau.de/multimedia/audio/podcast-mal-angenommen-wald-100.html</guid>
+                <link>https://www.heikesstadtgefluester.de/markus-wollnweber-ein-pionier-in-seiner-region/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.heikesstadtgefluester.de/podlove/file/2325/s/feed/c/podcast/HSG2-168.mp3"/>
+                <guid>https://www.heikesstadtgefluester.de/markus-wollnweber-ein-pionier-in-seiner-region/</guid>
                 
             </item>
         </channel>
