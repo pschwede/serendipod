@@ -9,26 +9,37 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 07 May 2023 04:21:16 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 08 May 2023 04:22:06 +0200</lastBuildDate>
             <item>
-                <title>Frédéric Martin (3/3)</title>
-                <description>Road-Tripode ou la vraie vie d&#39;un éditeur
-Feed: https://www.arteradio.com/xml_sound_serie?seriename=%22BOOKMAKERS%22</description>
+                <title>#97 - Tout comprendre sur le photovoltaïque avec Damien Salel</title>
+                <description>Nucléaire, éolien, hydraulique… et photovoltaïque. Voici les 4 énergies que nous devons tous comprendre.
+Comprendre notre mix énergétique, c’est comprendre les directions que nous devons prendre pour décarboner nos sociétés.
+On démarre aujourd’hui av...
+Feed: https://feed.ausha.co/oR7APIOmX35x</description>
                 
                 
-                <link>https://www.arteradio.com/son/61676817/frederic_martin_3_3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arte.proxycast.org/m/media/226026218795.mp3?c=Serie&amp;p=1627&amp;l3=61676817&amp;l4=frederic_martin_3_3-20230315-73&amp;media_url=https%3A%2F%2Fcdn.arteradio.com%2Fpermanent%2Farteradio%2Fsites%2Fdefault%2Ffiles%2Fsons%2F15bookmakersfredericmartin3_hq_fr.mp3"/>
-                <guid>https://www.arteradio.com/son/61676817/frederic_martin_3_3</guid>
+                <link>https://podcast.ausha.co/demain-et-durable-l-ecologie/97-tout-comprendre-sur-le-photovoltaique-enr-energie-solaire-avec-damien-salel</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BMYO7sEzGD4E.mp3?t=1682353531"/>
+                <guid>https://podcast.ausha.co/demain-et-durable-l-ecologie/97-tout-comprendre-sur-le-photovoltaique-enr-energie-solaire-avec-damien-salel</guid>
                 
             </item><item>
-                <title>Épisode 47 : Cécile Tremblay, la magie bourguignonne</title>
-                <description>&lt;p&gt;Cécile Tremblay, Morey-Saint-Denis, Bourgogne&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;C’est un petit domaine de Morey-Saint-Denis que nous avons pu visiter en novembre 2022. Petit par la taille mais grand par la renommée. Ce domaine, c’est celui de Cécile Tremblay et il porte justement son nom. Cécile nous a accueillis avec le sourire, un oeil pétillant mais aussi un brin d’appréhension. Elle se protège, se dévoile en douceur et dès qu’il est question de sensibilité elle répond présent...
-Feed: https://anchor.fm/s/d058158/podcast/rss</description>
+                <title>Road trip et bonne humeur</title>
+                <description>&lt;p&gt;&lt;strong&gt;Parenthèse&lt;/strong&gt; : Anna et Maëlys se prélassaient au soleil - &lt;strong&gt;Musique&lt;/strong&gt; : “Talk Show Host (Nellee Hooper Mix)” - Radiohead, extrait de William Shakespeare’s Romeo + Juliet - Capitol Record (1996).&lt;/p&gt;
+&lt;strong&gt;Me contacter / Me suivre&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;❤️ Soutenir
+&lt;/li&gt;
+&lt;li&gt;✍️ Mon blog
+&lt;/li&gt;
+&lt;li&gt;???? Mastodon
+&lt;/li&gt;
+&lt;li&gt;???? salut@dimi...
+Feed: https://podcast.dimitriregnier.net/@lemegaphone/feed.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/le-bon-grain-de-livresse/episodes/pisode-47--Ccile-Tremblay--la-magie-bourguignonne-e23chcc</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/d058158/podcast/play/69665612/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-2%2F8d28d274-8a65-c049-4def-a3e0fddf9a60.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/le-bon-grain-de-livresse/episodes/pisode-47--Ccile-Tremblay--la-magie-bourguignonne-e23chcc</guid>
+                <link>https://podcast.dimitriregnier.net/@lemegaphone/episodes/road-trip-et-bonne-humeur</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.dimitriregnier.net/audio/@lemegaphone/road-trip-et-bonne-humeur.mp3?_from=fyyd.de"/>
+                <guid>https://podcast.dimitriregnier.net/@lemegaphone/episodes/road-trip-et-bonne-humeur</guid>
                 
             </item>
         </channel>
