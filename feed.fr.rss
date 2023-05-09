@@ -9,37 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 08 May 2023 04:22:06 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 09 May 2023 04:21:32 +0200</lastBuildDate>
             <item>
-                <title>#97 - Tout comprendre sur le photovoltaïque avec Damien Salel</title>
-                <description>Nucléaire, éolien, hydraulique… et photovoltaïque. Voici les 4 énergies que nous devons tous comprendre.
-Comprendre notre mix énergétique, c’est comprendre les directions que nous devons prendre pour décarboner nos sociétés.
-On démarre aujourd’hui av...
-Feed: https://feed.ausha.co/oR7APIOmX35x</description>
+                <title>Que serait un bon tourisme ?</title>
+                <description>Que serait un bon tourisme ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10175.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/demain-et-durable-l-ecologie/97-tout-comprendre-sur-le-photovoltaique-enr-energie-solaire-avec-damien-salel</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BMYO7sEzGD4E.mp3?t=1682353531"/>
-                <guid>https://podcast.ausha.co/demain-et-durable-l-ecologie/97-tout-comprendre-sur-le-photovoltaique-enr-energie-solaire-avec-damien-salel</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/que-serait-un-bon-tourisme-4346981</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c78618e9-a88f-4b04-92ef-29798c91fcb4/10175-08.05.2023-ITEMA_23371660-2023C36267S0128-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/que-serait-un-bon-tourisme-4346981</guid>
                 
             </item><item>
-                <title>Road trip et bonne humeur</title>
-                <description>&lt;p&gt;&lt;strong&gt;Parenthèse&lt;/strong&gt; : Anna et Maëlys se prélassaient au soleil - &lt;strong&gt;Musique&lt;/strong&gt; : “Talk Show Host (Nellee Hooper Mix)” - Radiohead, extrait de William Shakespeare’s Romeo + Juliet - Capitol Record (1996).&lt;/p&gt;
-&lt;strong&gt;Me contacter / Me suivre&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;❤️ Soutenir
-&lt;/li&gt;
-&lt;li&gt;✍️ Mon blog
-&lt;/li&gt;
-&lt;li&gt;???? Mastodon
-&lt;/li&gt;
-&lt;li&gt;???? salut@dimi...
-Feed: https://podcast.dimitriregnier.net/@lemegaphone/feed.xml</description>
+                <title>Accompagnants spirituels / Présidentielle turque / Taizé (4/4)</title>
+                <description>Lʹaumônerie en hôpital a beaucoup évolué et le CHUV recrute aujourdʹhui des accompagnants spirituels. En collaboration étroite avec le ...
+Feed: https://www.rts.ch/la-1ere/programmes/hautes-frequences/podcast/?flux=rss</description>
                 
                 
-                <link>https://podcast.dimitriregnier.net/@lemegaphone/episodes/road-trip-et-bonne-humeur</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.dimitriregnier.net/audio/@lemegaphone/road-trip-et-bonne-humeur.mp3?_from=fyyd.de"/>
-                <guid>https://podcast.dimitriregnier.net/@lemegaphone/episodes/road-trip-et-bonne-humeur</guid>
+                <link>https://www.rts.ch/la-1ere/programmes/hautes-frequences/13962523-accompagnants-spirituels-presidentielle-turque-taize-44-07-05-2023.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/13962523/e04eb49a-fdbf-3306-8501-db82109fb96a.mp3"/>
+                <guid>https://www.rts.ch/la-1ere/programmes/hautes-frequences/13962523-accompagnants-spirituels-presidentielle-turque-taize-44-07-05-2023.html</guid>
                 
             </item>
         </channel>
