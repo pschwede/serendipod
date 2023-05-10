@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 09 May 2023 04:21:32 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 10 May 2023 04:21:24 +0200</lastBuildDate>
             <item>
-                <title>Que serait un bon tourisme ?</title>
-                <description>Que serait un bon tourisme ?
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10175.xml</description>
+                <title>Stan Lee, le père des super-héros Marvel</title>
+                <description>Dans cet épisode, Andréa Brusque vous plonge dans la vie d’un homme au destin extraordinaire. Scénariste visionnaire à l’imagination débordante, il a révolutionné le monde de la bande-dessinée américaine. Depuis des dizaines d’années, ses créations sont célébrées dans le monde entier, et affichées en posters dans les chambres de millions d’enfants et d’adolescents. On fête aujourd’hui le 100ème anniversaire de sa naissance. Son nom : Stanley Lieber, plus connu sous le nom de Stan Lee...
+Feed: https://feeds.megaphone.fm/BABA8011696838</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/que-serait-un-bon-tourisme-4346981</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c78618e9-a88f-4b04-92ef-29798c91fcb4/10175-08.05.2023-ITEMA_23371660-2023C36267S0128-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/que-serait-un-bon-tourisme-4346981</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA6832410876.mp3?updated=1683620578"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Accompagnants spirituels / Présidentielle turque / Taizé (4/4)</title>
-                <description>Lʹaumônerie en hôpital a beaucoup évolué et le CHUV recrute aujourdʹhui des accompagnants spirituels. En collaboration étroite avec le ...
-Feed: https://www.rts.ch/la-1ere/programmes/hautes-frequences/podcast/?flux=rss</description>
+                <title>S3E7 Les 3 Mousquetaires d’Artagnan</title>
+                <description>A CHAUD ! Le podcast cinéma en deux parties SANS et AVEC ( 00:25:00 ) spoiler est allé voir les Trois Mousquetaires, d’Artagnan. Sortez vos épées, en garde, critiquez ! 
+Spoiler : 00:25:00
+Feed: https://www.vodio.fr/rssmedias.php?valeur=204</description>
                 
                 
-                <link>https://www.rts.ch/la-1ere/programmes/hautes-frequences/13962523-accompagnants-spirituels-presidentielle-turque-taize-44-07-05-2023.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/13962523/e04eb49a-fdbf-3306-8501-db82109fb96a.mp3"/>
-                <guid>https://www.rts.ch/la-1ere/programmes/hautes-frequences/13962523-accompagnants-spirituels-presidentielle-turque-taize-44-07-05-2023.html</guid>
+                <link>https://www.vodio.fr/vodiotheque/i/11264/s3e7-les-3-mousquetaires-d-artagnan/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/www.vodio.fr/emissions/_ctmieuxavant56G2/s03e7-dartagnan.mp3"/>
+                <guid>https://www.vodio.fr/vodiotheque/i/11264/s3e7-les-3-mousquetaires-d-artagnan/</guid>
                 
             </item>
         </channel>

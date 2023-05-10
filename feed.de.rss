@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 09 May 2023 04:21:27 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 10 May 2023 04:21:20 +0200</lastBuildDate>
             <item>
+                <title>Lektion 31: Hast du schon zu Mittag gegessen?</title>
+                <description>In dieser Lektion werden Sie die folgenden Sätze lernen: Hast du schon zu Mittag gegessen? / Nein, ich habe noch nicht gegessen. / Ich habe vor einer Stunde zu Mittag gegessen. / Was hast du gegessen? / Ich habe Fisch gegessen. / Frühstückst du jeden...
+Feed: https://www.spreaker.com/show/4334960/episodes/feed</description>
+                
+                
+                <link>https://www.spreaker.com/user/linguaboost/linguaboost-mandarin-chinesisch-31_6</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/53775738/linguaboost_mandarin_chinesisch_31.mp3"/>
+                <guid>https://www.spreaker.com/user/linguaboost/linguaboost-mandarin-chinesisch-31_6</guid>
+                
+            </item><item>
                 <title>#81 Englische Wochen, Rückrunden-Tabellenführer und Druck?</title>
                 <description>Dieses Wochenende können Fäbu und Roby nicht über viel gesehene Spiele berichten, dafür gibts Diskussionen über Druck und das Thema Verteidigung.
 Feed: https://a9j1jc.podcaster.de/bernerbowl.rss</description>
@@ -19,16 +29,6 @@ Feed: https://a9j1jc.podcaster.de/bernerbowl.rss</description>
                 <link>https://a9j1jc.podcaster.de/bernerbowl/media/-81(1).mp3</link>
                 <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/F1D86F//https://a9j1jc.podcaster.de/bernerbowl/media/-81(1).mp3"/>
                 <guid>https://a9j1jc.podcaster.de/bernerbowl/media/-81(1).mp3</guid>
-                
-            </item><item>
-                <title>(117) Long Covid: Das Rätsel nach der Pandemie</title>
-                <description>Welchen Einfluss hat Omikron auf Long- und Post Covid? Welchen die Impfung? Noch immer sind viele Fragen offen, aber es gibt auch schon ein paar Antworten.
-Feed: https://www.ndr.de/nachrichten/info/podcast4684.xml</description>
-                
-                
-                <link>https://www.ndr.de/nachrichten/info/117-Long-Covid-Das-Raetsel-nach-der-Pandemie,audio1374782.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4684/AU-20230505-1419-2900.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/117-Long-Covid-Das-Raetsel-nach-der-Pandemie,audio1374782.html</guid>
                 
             </item>
         </channel>
