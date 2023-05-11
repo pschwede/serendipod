@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 10 May 2023 04:21:16 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 11 May 2023 04:21:15 +0200</lastBuildDate>
             <item>
-                <title>Crushed Monocle Podcast: Episode 24 - Horror of Chris McKay</title>
-                <description>In this episode of Crushed Monocle Podcast, Jon and Coop hang with director Chris McKay to talk about his latest film, RENFIELD!
-Feed: https://beardedgentlemenmusic.com/feed/podcast</description>
+                <title>Ella Zirina</title>
+                <description>Guitarist and Composer Ella Zirina interviewed by Pablo Held
+Feed: https://pabloheldinvestigates.com/feed/podcast/</description>
                 
                 
-                <link>https://beardedgentlemenmusic.com/2023/05/01/crushed-monocle-podcast-episode-24-the-horror-of-chris-mckay/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://beardedgentlemenmusic.com/podcast/BGM-Podcast/CRUSH-MON-POD-EP-24.mp3"/>
-                <guid>https://beardedgentlemenmusic.com/2023/05/01/crushed-monocle-podcast-episode-24-the-horror-of-chris-mckay/</guid>
+                <link>https://pabloheldinvestigates.com/ella-zirina/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://storage.googleapis.com/phi_podcast_episodes/PHI-081-Ella_Zirina.mp3"/>
+                <guid>https://pabloheldinvestigates.com/ella-zirina/</guid>
                 
             </item><item>
-                <title>Tom Driberg</title>
-                <description>Today’s figure is the sort of character who has been extinguished from British public life today, and maybe that’s for the best. He’s a mass of contradictions, the sort of mass that confuses the idea of an easy history of “lessons we can learn”. How ...
-Feed: https://feed.podbean.com/badgayspod/feed.xml</description>
+                <title>The Economy of Baptism</title>
+                <description>The Fourth Sunday of Easter | Acts 2:42-47 | Psalm 23 | 1 Peter 2:19-25 | John 10:1-10 | April 30th, 2023 | Rev. Danny Byant | St. Mary of Bethany Parish (Nashville, TN)  Readings and Resources: Acts: A Theological Commentary on the Bible -...
+Feed: https://stmarysnashville.libsyn.com/rss</description>
                 
                 
-                <link>https://badgayspod.podbean.com/e/tom-driberg/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/bre6th/Tom_Driberg776mc.mp3"/>
-                <guid>https://badgayspod.podbean.com/e/tom-driberg/</guid>
+                <link>https://stmarysnashville.libsyn.com/the-economy-of-baptism</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/stmarysnashville/The_Economy_of_Baptism.m4a?dest-id=212567"/>
+                <guid>https://stmarysnashville.libsyn.com/the-economy-of-baptism</guid>
                 
             </item>
         </channel>
