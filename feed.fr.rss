@@ -9,35 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 13 May 2023 04:21:00 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 14 May 2023 04:20:51 +0200</lastBuildDate>
             <item>
-                <title>Le Monstre du Placard</title>
-                <description>Bonjour et bienvenue dans « Je conte jusqu&amp;#8217;à toi » votre podcast d&amp;#8217;histoires. Pour ce retour des histoires « normales » je vous propose une nouvelle histoires de Papa Monstre à ses p&amp;#8217;tits, celle du Monstre du placard. Pour m&amp;#8217;accom
-Feed: http://lendewell.com/histoires/feed/podcast/</description>
+                <title>Haken - Fauna</title>
+                <description>&lt;p&gt;Septième album du groupe de Metal Progressif anglais Haken, &amp;quot;Fauna&amp;quot; est un trésor d&amp;#39;inventivité et de poésie emmené par des virtuoses inspirés.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+Feed: https://anchor.fm/s/cbd8cb6c/podcast/rss</description>
                 
                 
-                <link>https://lendewell.com/histoires/podcast/le-monstre-du-placard/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=le-monstre-du-placard</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/lendewell.com/histoires/podcast-download/991/le-monstre-du-placard.mp3"/>
-                <guid>https://lendewell.com/histoires/podcast/le-monstre-du-placard/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=le-monstre-du-placard</guid>
+                <link>https://podcasters.spotify.com/pod/show/1jour1album/episodes/Haken---Fauna-e2409ja</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/cbd8cb6c/podcast/play/70313002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-13%2F01e8fbeb-00ad-909a-345c-a815bbe3253d.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/1jour1album/episodes/Haken---Fauna-e2409ja</guid>
                 
             </item><item>
-                <title>Road trip et bonne humeur</title>
-                <description>&lt;p&gt;&lt;strong&gt;Parenthèse&lt;/strong&gt; : Anna et Maëlys se prélassaient au soleil - &lt;strong&gt;Musique&lt;/strong&gt; : “Talk Show Host (Nellee Hooper Mix)” - Radiohead, extrait de William Shakespeare’s Romeo + Juliet - Capitol Record (1996).&lt;/p&gt;
-&lt;strong&gt;Me contacter / Me suivre&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;❤️ Soutenir
-&lt;/li&gt;
-&lt;li&gt;✍️ Mon blog
-&lt;/li&gt;
-&lt;li&gt;???? Mastodon
-&lt;/li&gt;
-&lt;li&gt;???? salut@dimi...
-Feed: https://podcast.dimitriregnier.net/@lemegaphone/feed.xml</description>
+                <title>Les consultations de sexologie à l&#39;hôpital</title>
+                <description>Les consultations de sexologie à l&#39;hôpital
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10078.xml</description>
                 
                 
-                <link>https://podcast.dimitriregnier.net/@lemegaphone/episodes/road-trip-et-bonne-humeur</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.dimitriregnier.net/audio/@lemegaphone/road-trip-et-bonne-humeur.mp3?_from=fyyd.de"/>
-                <guid>https://podcast.dimitriregnier.net/@lemegaphone/episodes/road-trip-et-bonne-humeur</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/les-consultations-de-sexologie-a-l-hopital-1453516</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/e7266c9f-9ed6-4c6b-8aad-b370f7e9d5bd/10078-14.05.2023-ITEMA_23243318-2020C6612E0020-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/les-consultations-de-sexologie-a-l-hopital-1453516</guid>
                 
             </item>
         </channel>
