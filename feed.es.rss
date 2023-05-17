@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 16 May 2023 04:22:14 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 17 May 2023 04:21:33 +0200</lastBuildDate>
             <item>
-                <title>Cap-97 Mi primer video de retos</title>
-                <description>Mi podcast de retos se vienen
-Feed: https://www.spreaker.com/show/5806312/episodes/feed</description>
+                <title>2023-05-07 FlaFri</title>
+                <description>
+Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
                 
                 
-                <link>https://www.spreaker.com/user/17022738/trim-c9861675-20fb-4a25-9dde-961f63435da</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/53873569/trim_c9861675_20fb_4a25_9dde_961f63435da4.mp3"/>
-                <guid>https://www.spreaker.com/user/17022738/trim-c9861675-20fb-4a25-9dde-961f63435da</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-05-06Flafri.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>105: Las preguntas más buscadas sobre el español</title>
-                <description>¿Es el español más difícil que el inglés? ¿Cuánta gente lo habla? ¿Cuál es el origen de este idioma? ¿Cuál es la mejor manera de aprenderlo?
-Feed: https://www.easyspanish.fm/rss</description>
+                <title>Milongas y valses que peinan canas</title>
+                <description>Cuantas veces hemos o&amp;iacute;do las cadenciosas milongas, esas que nos hacen bailar solos con su ritmo porte&amp;ntilde;o y definido. Los que dominan el baile, dicen que este &amp;lsquo;tango aligerado&amp;rsquo;, adem&amp;aacute;s de sus or&amp;iacute;genes gauchescos, sent&amp;oacute; sus ra&amp;iacute;ces en nuestra m&amp;uacute;sica, desde los comienzos de agrupaciones cortas que, con flauta y guitarra hac&amp;iacute;an las delicias de los muchachos esquineros de aquella perfumada Buenos Aires...
+Feed: https://feeds.feedburner.com/TangoSensei</description>
                 
                 
-                <link>https://www.easyspanish.fm/105</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G7F34G/aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/5ad0be53-94f3-4625-b24b-72ca00780654.mp3"/>
-                <guid>https://www.easyspanish.fm/105</guid>
+                <link>http://www.ivoox.com/milongas-valses-peinan-canas-audios-mp3_rf_108074400_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/milongas-valses-peinan-canas_mf_108074400_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/milongas-valses-peinan-canas-audios-mp3_rf_108074400_1.html</guid>
                 
             </item>
         </channel>
