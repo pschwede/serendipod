@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 17 May 2023 04:21:33 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 18 May 2023 04:21:27 +0200</lastBuildDate>
             <item>
+                <title>Sicut Luna Perfecta - Domingo 6º de Pascua - 14/05/23</title>
+                <description>Domingo 6º de Pascua
+Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
+                
+                
+                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/domingo-6o-pascua-14-05-23/6890072/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SSICUTL/mp3/6/7/1684048449576.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/domingo-6o-pascua-14-05-23/6890072/</guid>
+                
+            </item><item>
                 <title>2023-05-07 FlaFri</title>
                 <description>
 Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
@@ -19,16 +29,6 @@ Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</descr
                 <link></link>
                 <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-05-06Flafri.mp3"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Milongas y valses que peinan canas</title>
-                <description>Cuantas veces hemos o&amp;iacute;do las cadenciosas milongas, esas que nos hacen bailar solos con su ritmo porte&amp;ntilde;o y definido. Los que dominan el baile, dicen que este &amp;lsquo;tango aligerado&amp;rsquo;, adem&amp;aacute;s de sus or&amp;iacute;genes gauchescos, sent&amp;oacute; sus ra&amp;iacute;ces en nuestra m&amp;uacute;sica, desde los comienzos de agrupaciones cortas que, con flauta y guitarra hac&amp;iacute;an las delicias de los muchachos esquineros de aquella perfumada Buenos Aires...
-Feed: https://feeds.feedburner.com/TangoSensei</description>
-                
-                
-                <link>http://www.ivoox.com/milongas-valses-peinan-canas-audios-mp3_rf_108074400_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/milongas-valses-peinan-canas_mf_108074400_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/milongas-valses-peinan-canas-audios-mp3_rf_108074400_1.html</guid>
                 
             </item>
         </channel>
