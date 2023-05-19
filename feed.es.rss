@@ -9,16 +9,16 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 18 May 2023 04:21:27 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 May 2023 04:21:43 +0200</lastBuildDate>
             <item>
-                <title>Sicut Luna Perfecta - Domingo 6º de Pascua - 14/05/23</title>
-                <description>Domingo 6º de Pascua
-Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
+                <title>Historias de paz y fundamentos del pacifismo</title>
+                <description>Comienza una nueva serie en nuestro podcast. Esta vez haremos un recorrido por la historia de la paz y el pacifismo. Partimos de una idea fundamental: La historia humana se puede contar de las más diversas formas y desde distintas perspectivas, no...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/domingo-6o-pascua-14-05-23/6890072/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SSICUTL/mp3/6/7/1684048449576.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/domingo-6o-pascua-14-05-23/6890072/</guid>
+                <link>https://www.dianauribe.fm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Historias_de_paz_y_fundamentos_del_pacifismo.mp3?dest-id=844493"/>
+                <guid>https://www.dianauribe.fm</guid>
                 
             </item><item>
                 <title>2023-05-07 FlaFri</title>

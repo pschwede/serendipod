@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 18 May 2023 04:21:12 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 May 2023 04:21:28 +0200</lastBuildDate>
             <item>
-                <title>RIP a Livecast #721 - Dehydrated Apricot</title>
-                <description>&lt;p&gt;We kick things off by discussing David Ellefson&#39;s controversial comments about Dave Mustaine recently. We compare this to Jason Newsted defending his former bandmate, Lars Ulrich. Then, we can&#39;t help ourselves and play some of the most outlandish moments of the Trump town hall. Transitioning to another WWE Hall of Famer, we check in and see what Hulk Hogan and his son Nick are up to...
-Feed: https://feeds.acast.com/public/shows/638fae377944c60011e2e293</description>
+                <title>Linux Downtime – Episode 71</title>
+                <description>We are joined by Molly White from Web3 is Going Just Great to talk about the issues with crypto, Bitcoin, the Lightning network, blockchain, NFTs, and “web3”.   Molly’s Mastodon     Amolith will be at SELF June 9-11 in Charlotte NC.
+Feed: https://latenightlinux.com/feed/extra</description>
                 
                 
-                <link>https://shows.acast.com/ripalivecast/episodes/rip-a-livecast-721-dehydrated-apricot</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/638fae377944c60011e2e293/e/645fc33bdc9f290011d2b361/media.mp3"/>
-                <guid>https://shows.acast.com/ripalivecast/episodes/rip-a-livecast-721-dehydrated-apricot</guid>
+                <link>https://latenightlinux.com/linux-downtime-episode-71/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/latenightlinux/LDT71.mp3"/>
+                <guid>https://latenightlinux.com/linux-downtime-episode-71/</guid>
                 
             </item><item>
-                <title>Wrong Turn Proves Fatal for Garuda Indonesia Flight 152</title>
-                <description>Chris Demarais and Gustavo Sorola uncover how a wrong turn became deadly for Garuda Indonesia Flight 152 on this episode of Black Box Down. 
-Feed: https://feeds.megaphone.fm/blackboxdown</description>
+                <title>Heggie Writes a Choral Opera</title>
+                <description>&lt;strong&gt;Synopsis&lt;/strong&gt;
+&lt;p&gt;In Costa Mesa, California, on today’s date in 2014, the Pacific Chorale premiered a new choral opera. And what exactly is a “choral opera” you ask? Good question – and one that puzzled Jake Heggie as well, since he was the composer commissioned for that occasion.&lt;/p&gt;
+&lt;p&gt;Heggie and his librettist Gene Sheer at first scratched their heads. As Heggie put it, “Operas require action, characters, conflicts, journeys, transformation movement...
+Feed: https://feeds.publicradio.org/public_feeds/composers-datebook/itunes/rss</description>
                 
                 
-                <link>https://roosterteeth.com/watch/black-box-down-2023-5-11</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/claritaspod.com/measure/verifi.podscribe.com/rss/p/chtbl.com/track/289382/traffic.megaphone.fm/ROOSTER3331663091.mp3?updated=1683671143"/>
-                <guid>https://roosterteeth.com/watch/black-box-down-2023-5-11</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://play.podtrac.com/APM-ComposersDatebook/chrt.fm/track/3G835/play.publicradio.org/itunes/o/composers_datebook/2023/05/18/datebook_20230518_128.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
