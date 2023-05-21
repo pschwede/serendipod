@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 20 May 2023 04:20:42 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 21 May 2023 04:20:57 +0200</lastBuildDate>
             <item>
-                <title>Mix by audio-joiner.com</title>
-                <description>Der RUMS-Brief mit Svenja Stühmeier (19.05.2023)
-Feed: https://rums-briefe.podigee.io/feed/mp3</description>
+                <title>MT094 - Oladapo Afolayan</title>
+                <description>Eine neue Episode unserer Monatssendung und nach MT072 mit James Lawrence ist sie mal wieder auf Englisch. Zu Gast hatten wir FC St. Pauli-Neuzugang Oladapo Afolayan.
+Ja, auf Englisch. Ging nicht anders, allerdings spricht Dapo zwar sehr leise aber dafür ein umso besser verständliches Englisch, trotz nicht zu leugnendem Londoner Akzent.
+Wer sich das auf Englisch aber nicht zutraut muss nicht traurig sein, wir arbeiten bereits an einer schriftlichen Zusammenfassung des Gesprächs...
+Feed: https://millernton.podigee.io/feed/aac</description>
                 
                 
-                <link>https://www.rums.ms/briefe/stuehmeier-23-05-19/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1110935-m-f2cf3fc748b48d3fdef4ed3c1494153d.mp3?source=feed"/>
-                <guid>https://www.rums.ms/briefe/stuehmeier-23-05-19/</guid>
+                <link>https://millernton.de/2023/05/03/mt094-oladapo-afolayan/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1093595-m-d96155406eaf95ea57e1132c5ff9f0c8.m4a?source=feed"/>
+                <guid>https://millernton.de/2023/05/03/mt094-oladapo-afolayan/</guid>
                 
             </item><item>
-                <title>DSN-Chef Omar Haijawi-Pirchner im Gespräch mit Bernt Koschuh</title>
-                <description>
-Feed: https://podcast.orf.at/podcast/oe1/oe1_imjournalzugast/oe1_imjournalzugast.xml</description>
+                <title>Ja zum Nein</title>
+                <description>Folge 94
+Feed: https://erzaehlmirwasgutes.podigee.io/feed/aac</description>
                 
                 
-                <link>https://radiothek.orf.at/podcasts/oe1/im-oe1-journal-zu-gast/dsn-chef-omar-haijawi-pirchner-im-gespraech-mit-bernt-koschuh</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/oe1/oe1_imjournalzugast/items/di_oe1_imjournalzugast_cdk_99b6fac65e8f43568cd15b1090ce1841.mp3?etag=eb88c7b59f40ec9bcbaf7736b87f2efc"/>
-                <guid>https://radiothek.orf.at/podcasts/oe1/im-oe1-journal-zu-gast/dsn-chef-omar-haijawi-pirchner-im-gespraech-mit-bernt-koschuh</guid>
+                <link>https://erzaehlmirwasgutes.podigee.io/96-ja-zum-nein</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1105879-m-f1aa314bfa141550dc4952c2166a702f.m4a?source=feed"/>
+                <guid>https://erzaehlmirwasgutes.podigee.io/96-ja-zum-nein</guid>
                 
             </item>
         </channel>
