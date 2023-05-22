@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 21 May 2023 04:21:22 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 22 May 2023 04:21:40 +0200</lastBuildDate>
             <item>
-                <title>Avsnitt 113. Podden på tiden – VALBORGSPODDEN</title>
-                <description>Så blev det ännu en podd från strävsamma paret Christer Sturmark och Staffan Dopping. Inspelad på Lidingö Valborgsmässoafton 2023. 
-Feed: https://poddenpatiden.se/?feed=itunes-podcast-feed&amp;post_type=podcast</description>
+                <title>Soaking Up the Cider</title>
+                <description>We discuss switching to Apple Music on desktop Linux, sideloading homebrew on the Steam Deck, and finding note-taking nirvana.
+Feed: https://linuxmatters.sh/episode/index.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://staffandopping.se/wp-content/uploads/2023/05/poddenpatidenvalborg2023-04-3023.08.mp3"/>
-                <guid></guid>
+                <link>https://linuxmatters.sh/3/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/latenightlinux/LMP3.mp3"/>
+                <guid>https://linuxmatters.sh/3/</guid>
                 
             </item><item>
-                <title>A Leadership Guide to More Cultural Agility with Prof. Paula Caligiuri</title>
-                <description>&lt;p&gt;Cultural agility is a leadership skill many executives, managers and entrepreneurs don’t typically think about.&lt;/p&gt;&lt;p&gt;But the ability to work effectively with people from different cultures is increasingly important as domestic workplaces become more diversified and as more businesses expand their markets overseas.&lt;/p&gt;&lt;p&gt;It can be challenging, but Prof. Paula Caligiuri, a Distinguished Professor of International Business at Northeastern University offers guidance for more success...
-Feed: https://feeds.captivate.fm/business-confidential-n/</description>
+                <title>Giant Bombcast 789: Ewoks and Hobbits</title>
+                <description>Our dear friend Lucy James is here with us  and with the Legend of Zelda: Tears of the Kingdom finally here we ask the question that&#39;s on all our minds: Do you think Ewoks are better than Hobbits?
+Feed: https://www.giantbomb.com/podcast-xml/giant-bombcast</description>
                 
                 
-                <link>https://businessconfidentialradio.com/Leadership-Guide-to-More-Cultural-Agility-with-Prof-Paula-Caligiuri</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/aa37abd8-7c30-4115-bb50-6ae9e8fbe23a/S10-E21-Paula-Caligiuri.mp3"/>
-                <guid>https://businessconfidentialradio.com/Leadership-Guide-to-More-Cultural-Agility-with-Prof-Paula-Caligiuri</guid>
+                <link>https://www.giantbomb.com/shows/789-ewoks-and-hobbits/2970-22344/free-podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pds.cdnstream1.com/p/kast/giant-bombcast/giant-bombcast-789-ewoks-f0ccb8/audio.mp3"/>
+                <guid>https://www.giantbomb.com/shows/789-ewoks-and-hobbits/2970-22344/free-podcast</guid>
                 
             </item>
         </channel>
