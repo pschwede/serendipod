@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 22 May 2023 04:21:44 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 23 May 2023 04:22:02 +0200</lastBuildDate>
             <item>
-                <title>Pocket Episode: Livinia St. Cloud</title>
-                <description>&lt;p class=&#34;&#34; style=&#34;white-space:pre-wrap;&#34;&gt;Livinia and William use their pit stop to have some hang time, and find themselves unexpectedly burgled by a wild pokémon…&lt;/p&gt;&lt;p class=&#34;&#34; style=&#34;white-space:pre-wrap;&#34;&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&#34;&#34; style=&#34;white-space:pre-wrap;&#34;&gt;www.twitter.com/roaringtrainers&lt;/p&gt;&lt;p class=&#34;&#34; style=&#34;white-space:pre-wrap;&#34;&gt;www.patreon.com/roaringtrainers&lt;/p&gt;&lt;p class=&#34;&#34; style=&#34;white-space:pre-wrap;&#34;&gt;www.etsy...
-Feed: https://theroaringtrainers.com/podcasts/?format=rss</description>
+                <title>Linux Downtime – Episode 72</title>
+                <description>Part 2 of our chat with Molly White from Web3 is Going Just Great. This time we talk about Mastodon and the Fediverse, central bank digital currencies, cashless societies, the hype around AI, corporate surveillance, and more.
+Feed: https://latenightlinux.com/feed/extra</description>
                 
                 
-                <link>https://theroaringtrainers.com/podcasts/2023/5/17/pocket-episode-3-livinia-st-cloud</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/static1.squarespace.com/static/5b74af62d274cb4e86677043/t/645ab13c7b27bc4d23d53efe/1683665271257/Pocket+Episode+3_+Livinia+St.+Cloud.mp3"/>
-                <guid>https://theroaringtrainers.com/podcasts/2023/5/17/pocket-episode-3-livinia-st-cloud</guid>
+                <link>https://latenightlinux.com/linux-downtime-episode-72/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/latenightlinux/LDT72.mp3"/>
+                <guid>https://latenightlinux.com/linux-downtime-episode-72/</guid>
                 
             </item><item>
-                <title>Podcast Marketing (Taylor&#39;s Version)</title>
-                <description>Taylor Swift knows a lot about how to connect with an audience. This episode of Build a Big Podcast talks about three ways she is doing this and how you can do the same thing with your podcast audience. Topics covered in this episode:​  ​Taylor...
-Feed: http://feed.bigpodcast.com/bbp</description>
+                <title>Ep 133. Securing Supply Chains in C++, Java and Javascript</title>
+                <description>In episode 133 of The Secure Developer, we delve into the subject of supply chain security across various ecosystems and languages, guided by industry experts Liran Tal and Roy Ram from Snyk. Liran is the Director of Developer Advocacy at Snyk and has a background working particularly in Node.js and JavaScript. Roy is a Senior Product Manager serving as part of the product team for Snyk Code, and has a background in cybersecurity and a solid understanding of C++...
+Feed: https://feeds.simplecast.com/47yfLpm0</description>
                 
                 
-                <link>http://feed.bigpodcast.com/~/735763043/0/bbp/</link>
-                <enclosure type="audio/mpeg" length="1" url="http://feed.bigpodcast.com/-/740503697/0/bbp.m4a"/>
-                <guid>http://feed.bigpodcast.com/~/735763043/0/bbp/</guid>
+                <link>http://thesecuredeveloper.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/1fd194eb-71c0-4eef-97aa-ea112e54a46f/episodes/d3e764d4-b9f6-4273-9105-667f10605322/audio/31c1381a-a853-4755-a2c5-fd4699a0188b/default_tc.mp3?aid=rss_feed&amp;feed=47yfLpm0"/>
+                <guid>http://thesecuredeveloper.com/</guid>
                 
             </item>
         </channel>

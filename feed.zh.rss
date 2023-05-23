@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 22 May 2023 04:21:40 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 23 May 2023 04:21:56 +0200</lastBuildDate>
             <item>
-                <title>Soaking Up the Cider</title>
-                <description>We discuss switching to Apple Music on desktop Linux, sideloading homebrew on the Steam Deck, and finding note-taking nirvana.
-Feed: https://linuxmatters.sh/episode/index.xml</description>
+                <title>Exploring the World of Mining Penny Stocks: Risks, Opportunities, and Top Investment Candidates</title>
+                <description>Diving into the Financials, Portfolio, and Macro Environment Impact of 10 Leading Mining Penny Stocks for Potential High-Reward Investments
+Feed: https://feeds.megaphone.fm/inpennystock</description>
                 
                 
-                <link>https://linuxmatters.sh/3/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/latenightlinux/LMP3.mp3"/>
-                <guid>https://linuxmatters.sh/3/</guid>
+                <link>https://www.inpennystock.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/traffic.megaphone.fm/KNICO3154750613.mp3?updated=1683149746"/>
+                <guid>https://www.inpennystock.com/</guid>
                 
             </item><item>
-                <title>Giant Bombcast 789: Ewoks and Hobbits</title>
-                <description>Our dear friend Lucy James is here with us  and with the Legend of Zelda: Tears of the Kingdom finally here we ask the question that&#39;s on all our minds: Do you think Ewoks are better than Hobbits?
-Feed: https://www.giantbomb.com/podcast-xml/giant-bombcast</description>
+                <title>Can Twitter Become The Number One Podcast Platform?</title>
+                <description>Exclusive deal between Libsyn&#39;s Advertisecast and The Newsworthy! Pros and cons on shipping a microphone to your guests, how Twitter can become the world&#39;s number-one podcast platform, sharing YouTube stats for The Feed, comments on AI from Spotify,...
+Feed: https://thefeed.libsyn.com/rss</description>
                 
                 
-                <link>https://www.giantbomb.com/shows/789-ewoks-and-hobbits/2970-22344/free-podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pds.cdnstream1.com/p/kast/giant-bombcast/giant-bombcast-789-ewoks-f0ccb8/audio.mp3"/>
-                <guid>https://www.giantbomb.com/shows/789-ewoks-and-hobbits/2970-22344/free-podcast</guid>
+                <link>https://sites.libsyn.com/45546/243-can-twitter-become-the-number-one-podcast-platform</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/thefeed/243_thefeed.mp3?dest-id=149503"/>
+                <guid>https://sites.libsyn.com/45546/243-can-twitter-become-the-number-one-podcast-platform</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 22 May 2023 04:21:24 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 23 May 2023 04:21:36 +0200</lastBuildDate>
             <item>
-                <title>Was summt denn da?</title>
-                <description>Besprechung von &amp;quot;Dad&amp;quot; / &amp;quot;Vaterfreuden&amp;quot;
-Feed: https://hotel-hyperion.de/feed/mp3/</description>
+                <title>Umdenken in den Städten - Solaranlagen auf denkmalgeschützten Häusern</title>
+                <description>&lt;br clear=&#34;all&#34;/&gt;&lt;br/&gt;Siebert, Daniela&lt;br/&gt;www.deutschlandfunkkultur.de, Zeitfragen&lt;br/&gt;Direkter Link zur Audiodatei&lt;br/&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+Feed: https://www.deutschlandfunkkultur.de/zeitfragen-magazin-114.xml</description>
                 
                 
-                <link>https://hotel-hyperion.de/2023/05/15/was-summt-denn-da/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://hotel-hyperion.de/podlove/file/314/s/feed/c/mp3/HH058.mp3"/>
-                <guid>https://hotel-hyperion.de/2023/05/15/was-summt-denn-da/</guid>
+                <link>https://www.deutschlandfunkkultur.de/umdenken-in-den-staedten-solaranlagen-auf-denkmalgeschuetzten-haeusern-dlf-kultur-97130541-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2023/05/22/umdenken_in_den_staedten_solaranlagen_auf_drk_20230522_1920_97130541.mp3?refId=zeitfragen-magazin-114"/>
+                <guid>https://www.deutschlandfunkkultur.de/umdenken-in-den-staedten-solaranlagen-auf-denkmalgeschuetzten-haeusern-dlf-kultur-97130541-100.html</guid>
                 
             </item><item>
-                <title>Mix by audio-joiner.com</title>
-                <description>Der RUMS-Brief mit Svenja Stühmeier (19.05.2023)
-Feed: https://rums-briefe.podigee.io/feed/mp3</description>
+                <title>The Piano Man: Klavierbauer – ein Job zum Reich werden?</title>
+                <description>Jed Knauer verkauft und wartet heute Klaviere in Hamburg.
+Somit ist er der Richtige für die Frage, was ein Klavierbauer genau macht, worauf es bei Klavierwartung und beim Design von Klavieren ankommt. Auch zum Klavierverkauf steht Jed in der Themen-Sh
+Feed: https://www.themen-show.de/feed/podcast/</description>
                 
                 
-                <link>https://www.rums.ms/briefe/stuehmeier-23-05-19/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1110935-m-f2cf3fc748b48d3fdef4ed3c1494153d.mp3?source=feed"/>
-                <guid>https://www.rums.ms/briefe/stuehmeier-23-05-19/</guid>
+                <link>https://www.themen-show.de/podcast/the-piano-man-klavierbauer-ein-job-zum-reich-werden/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.themen-show.de/podcast-download/1178/the-piano-man-klavierbauer-ein-job-zum-reich-werden.mp3"/>
+                <guid>https://www.themen-show.de/podcast/the-piano-man-klavierbauer-ein-job-zum-reich-werden/</guid>
                 
             </item>
         </channel>
