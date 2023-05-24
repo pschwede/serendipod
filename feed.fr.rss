@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 23 May 2023 04:21:41 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 24 May 2023 04:21:52 +0200</lastBuildDate>
             <item>
-                <title>&#34;Auréliens&#34; d’Aurélien Barrau</title>
-                <description>&#34;Auréliens&#34; d’Aurélien Barrau
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11496.xml</description>
+                <title>#87 - Alexi Balès, insatiable passionné - La vie sans regret</title>
+                <description>Originaire du Lot et Garonne, Alexi débute le rugby tout jeune dans les pas de son grand frère, de 7 ans son ainé.
+Faisant l&#39;essentiel de son école de rugby à Fumel, il est retenu dans les différentes sélections locales et rejoint en Cadets le club pha...
+Feed: https://feed.ausha.co/yv1mvfdd4lr2</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/samedi-fiction/aureliens-d-aurelien-barrau-9932368</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/23537a53-8d45-4a34-9f2c-abe93c3575c2/11496-20.05.2023-ITEMA_23384716-2023C3067E0010-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/samedi-fiction/aureliens-d-aurelien-barrau-9932368</guid>
+                <link>https://podcast.ausha.co/la-cravate/alexi-bales</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/y0wGrT2zYK3Z.mp3?t=1684365959"/>
+                <guid>https://podcast.ausha.co/la-cravate/alexi-bales</guid>
                 
             </item><item>
-                <title>Minute Conseil Carrière | Apprendre, Faire, Prévoir... 6 Conseils qui déchirent : Samy Thuillier, expert SEO | Ep 03</title>
-                <description>Les samedis de mai &amp;amp; juin, vous pouvez écouter des capsules de conseils des invités du Décodeur de la Com.
-Aujourd&#39;hui, place à Samy Thuillier, expert SEO. Il vous donne 6 conseils de carrière, depuis l&#39;île Maurice. Et ils déchirent. Vraiment !
-1...
-Feed: https://feed.ausha.co/blnJrf635QNe</description>
+                <title>Trance Conference #537#</title>
+                <description>Plus d&#39;info sur notre site
+Feed: https://podcast.pulsradio.com/TranceConference/podcast.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/decodeur-de-la-communication/minute-conseil-carriere-apprendre-faire-prevoir-les-conseils-qui-dechirent-samy-thuillier-expert-seo</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BxWA7tPkXgjW.mp3?t=1684068543"/>
-                <guid>https://podcast.ausha.co/decodeur-de-la-communication/minute-conseil-carriere-apprendre-faire-prevoir-les-conseils-qui-dechirent-samy-thuillier-expert-seo</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/TranceConference/20230521/TranceConference_20230521.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

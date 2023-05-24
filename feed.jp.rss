@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 23 May 2023 04:22:02 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 24 May 2023 04:22:12 +0200</lastBuildDate>
             <item>
-                <title>Linux Downtime – Episode 72</title>
-                <description>Part 2 of our chat with Molly White from Web3 is Going Just Great. This time we talk about Mastodon and the Fediverse, central bank digital currencies, cashless societies, the hype around AI, corporate surveillance, and more.
-Feed: https://latenightlinux.com/feed/extra</description>
+                <title>Humility Leadership and Trust</title>
+                <description>Blessings!
+https://www.biblegateway.com/passage/?search=1%20Peter%205&amp;amp;version=KJV emphasizes the importance of leadership within the Christian community and provides guidance for both elders and younger members. The chapter begins by encouraging...
+Feed: https://www.spreaker.com/show/970904/episodes/feed</description>
                 
                 
-                <link>https://latenightlinux.com/linux-downtime-episode-72/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/latenightlinux/LDT72.mp3"/>
-                <guid>https://latenightlinux.com/linux-downtime-episode-72/</guid>
+                <link>https://www.spreaker.com/user/glendacoker/humility-leadership-and-trust</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/53966165/humility_leadership_and_trust.mp3"/>
+                <guid>https://www.spreaker.com/user/glendacoker/humility-leadership-and-trust</guid>
                 
             </item><item>
-                <title>Ep 133. Securing Supply Chains in C++, Java and Javascript</title>
-                <description>In episode 133 of The Secure Developer, we delve into the subject of supply chain security across various ecosystems and languages, guided by industry experts Liran Tal and Roy Ram from Snyk. Liran is the Director of Developer Advocacy at Snyk and has a background working particularly in Node.js and JavaScript. Roy is a Senior Product Manager serving as part of the product team for Snyk Code, and has a background in cybersecurity and a solid understanding of C++...
-Feed: https://feeds.simplecast.com/47yfLpm0</description>
+                <title>lynsey wolf, conducting insider threat investigations, CASB and UEBA utlization to good use.</title>
+                <description>Show Topic Summary (less than 300 words)      Insider threat still exists, Lynsey Wolf talks with us about HR’s role in insider threat, how prevalent investigations are in the post-pandemic work from home environment.                 Questions...
+Feed: https://brakeingsecurity.com/rss</description>
                 
                 
-                <link>http://thesecuredeveloper.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/1fd194eb-71c0-4eef-97aa-ea112e54a46f/episodes/d3e764d4-b9f6-4273-9105-667f10605322/audio/31c1381a-a853-4755-a2c5-fd4699a0188b/default_tc.mp3?aid=rss_feed&amp;feed=47yfLpm0"/>
-                <guid>http://thesecuredeveloper.com/</guid>
+                <link>http://brakeingsecurity.com/lynsey-wolf-conducting-insider-threat-investigations-casb-and-ueba-utlization-to-good-use</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/brakeingsecurity/lynsey-wolf-Insider_threat-investigations1.mp3?dest-id=177487"/>
+                <guid>http://brakeingsecurity.com/lynsey-wolf-conducting-insider-threat-investigations-casb-and-ueba-utlization-to-good-use</guid>
                 
             </item>
         </channel>
