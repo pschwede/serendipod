@@ -9,27 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 24 May 2023 04:21:52 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 25 May 2023 04:21:06 +0200</lastBuildDate>
             <item>
-                <title>#87 - Alexi Balès, insatiable passionné - La vie sans regret</title>
-                <description>Originaire du Lot et Garonne, Alexi débute le rugby tout jeune dans les pas de son grand frère, de 7 ans son ainé.
-Faisant l&#39;essentiel de son école de rugby à Fumel, il est retenu dans les différentes sélections locales et rejoint en Cadets le club pha...
-Feed: https://feed.ausha.co/yv1mvfdd4lr2</description>
-                
-                
-                <link>https://podcast.ausha.co/la-cravate/alexi-bales</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/y0wGrT2zYK3Z.mp3?t=1684365959"/>
-                <guid>https://podcast.ausha.co/la-cravate/alexi-bales</guid>
-                
-            </item><item>
-                <title>Trance Conference #537#</title>
-                <description>Plus d&#39;info sur notre site
-Feed: https://podcast.pulsradio.com/TranceConference/podcast.xml</description>
+                <title>Qu’est-ce que la précarité alimentaire, qui touche de plus en plus de Français ?</title>
+                <description>D’après les chiffres du Crédoc en mai 2023, le Centre de recherche pour l&#39;étude et l&#39;observation des conditions de vie, 16% des Français ne mangent pas à leur faim. Et le chiffre atteint presque les 25% pour les moins de 40 ans. Ce qui représente près de 11 millions de concitoyens.
+Aussi appelé insécurité alimentaire, le seuil permettant de quantifier la faim ne cesse de grimper dans le monde. L’Organisation Mondiale de la Santé estime à 2...
+Feed: https://feeds.megaphone.fm/BABA2900401712</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/TranceConference/20230521/TranceConference_20230521.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA8667267221.mp3?updated=1684944073"/>
                 <guid></guid>
+                
+            </item><item>
+                <title>LES MATINS DE FRANCE CULTURE, émission du mercredi 24 mai 2023</title>
+                <description>durée : 01:59:30 - Les Matins - par : Guillaume Erner 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10075.xml</description>
+                
+                
+                <link>http://www.radiofrance.fr/chaines/france-culture2/emissions/matins/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/09b763c3-888f-46b9-bfa2-d3285b766fde/10075-24.05.2023-ITEMA_23388587-2023C6608S0144-21.mp3"/>
+                <guid>http://www.radiofrance.fr/chaines/france-culture2/emissions/matins/</guid>
                 
             </item>
         </channel>

@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 24 May 2023 04:21:47 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 25 May 2023 04:21:01 +0200</lastBuildDate>
             <item>
-                <title>Wunschfeder interviewt Anna - Erschaffe die Welt, wie sie dir gefällt</title>
-                <description>Heute wird der Spieß umgedreht. Sabrina wollte einfach mehr wissen und gab sich nicht mit den sonst so gewohnten, wohl portionierten Häppchen zufrieden, die ich ab und an verteile. 
-So entstand ein tiefgehendes Gespräch über meine Kindheit, frühe und spätere Prägungen, Ereignisse, die das Leben ordentlich durcheinander gewirbelt haben, wie die Laufreise begann und was an Ultramarathons so faszinierend ist...
-Feed: https://12ck3od.podcaster.de/annachughes.rss</description>
+                <title>MT094 - Oladapo Afolayan</title>
+                <description>Eine neue Episode unserer Monatssendung und nach MT072 mit James Lawrence ist sie mal wieder auf Englisch. Zu Gast hatten wir FC St. Pauli-Neuzugang Oladapo Afolayan.
+Ja, auf Englisch. Ging nicht anders, allerdings spricht Dapo zwar sehr leise aber dafür ein umso besser verständliches Englisch, trotz nicht zu leugnendem Londoner Akzent.
+Wer sich das auf Englisch aber nicht zutraut muss nicht traurig sein, wir arbeiten bereits an einer schriftlichen Zusammenfassung des Gesprächs...
+Feed: https://millernton.podigee.io/feed/aac</description>
                 
                 
-                <link>https://12ck3od.podcaster.de/annachughes/wunschfeder-interviewt-anna-erschaffe-die-welt-wie-sie-dir-gefaellt/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://deliver.audiotakes.net/d/12ck3od.podcaster.de/p/annachughes/m/podcast-wunschfeder-anna.mp3?awCollectionId=at-9mlxz&amp;awEpisodeId=at-9mlxz-aa4cdf4b3acc308b1613d87687e15ef791c50d3d&amp;origin=feed&amp;v=1684605919"/>
-                <guid>https://12ck3od.podcaster.de/annachughes/wunschfeder-interviewt-anna-erschaffe-die-welt-wie-sie-dir-gefaellt/</guid>
+                <link>https://millernton.de/2023/05/03/mt094-oladapo-afolayan/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1093595-m-d96155406eaf95ea57e1132c5ff9f0c8.m4a?source=feed"/>
+                <guid>https://millernton.de/2023/05/03/mt094-oladapo-afolayan/</guid>
                 
             </item><item>
-                <title>Mutig leben</title>
-                <description>Gabriel Prabakaran
-Feed: https://www.pfimi-frutigen.ch/feed/podcast</description>
+                <title>Gott rettet</title>
+                <description>Jona 2,1-10
+Feed: https://predigt-welt.de/podcast/febg-espelkamp-predigten-1/</description>
                 
                 
-                <link>https://www.pfimi-frutigen.ch/podcast/mutig-leben/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.pfimi-frutigen.ch/podcast-download/20557/mutig-leben.mp3"/>
-                <guid>https://www.pfimi-frutigen.ch/podcast/mutig-leben/</guid>
+                <link>https://predigt.febg-espelkamp.de/resource/742</link>
+                <enclosure type="audio/mpeg" length="1" url="https://predigt.febg-espelkamp.de/pmedia/cf4ec42a-08e9-4750-bf90-b9ff949b85a0.mp3"/>
+                <guid>https://predigt.febg-espelkamp.de/resource/742</guid>
                 
             </item>
         </channel>
