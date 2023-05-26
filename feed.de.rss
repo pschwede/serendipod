@@ -9,28 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 25 May 2023 04:21:01 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 26 May 2023 04:21:16 +0200</lastBuildDate>
             <item>
-                <title>MT094 - Oladapo Afolayan</title>
-                <description>Eine neue Episode unserer Monatssendung und nach MT072 mit James Lawrence ist sie mal wieder auf Englisch. Zu Gast hatten wir FC St. Pauli-Neuzugang Oladapo Afolayan.
-Ja, auf Englisch. Ging nicht anders, allerdings spricht Dapo zwar sehr leise aber dafür ein umso besser verständliches Englisch, trotz nicht zu leugnendem Londoner Akzent.
-Wer sich das auf Englisch aber nicht zutraut muss nicht traurig sein, wir arbeiten bereits an einer schriftlichen Zusammenfassung des Gesprächs...
-Feed: https://millernton.podigee.io/feed/aac</description>
+                <title>27.04.2023: Der Kulturwandel in der Digitalszene</title>
+                <description>&lt;p&gt;Zalando, Delivery Hero, Hellofresh, Audi, Axel Springer, ProSiebenSat.1, Linkedin – das war Donnerstag, 27.04.2023.&lt;/p&gt;
+&lt;p&gt;Jeden Abend fassen wir die wichtigsten Wirtschaftsnews des Tages zusammen. Heute mit dem gnadenlosen Kampf in der Start-up-Szene, der internen Rebellion bei Audi und einem etwas anderen Blick auf die Springer-Affäre.&lt;/p&gt;
+&lt;p&gt;Der Nachrichtenüberblick zum Nachlesen. &lt;/p&gt;
+&lt;p&gt;-------------------------&lt;/p&gt;
+&lt;p&gt;Die war die letzte Folge des Podcasts &#34;Der Tag&#34;...
+Feed: https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/7f0ccf0e-5e59-46be-99da-adfd00cd897b/58010048-e594-4833-ba04-adfd00ce3a13/podcast.rss</description>
                 
                 
-                <link>https://millernton.de/2023/05/03/mt094-oladapo-afolayan/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1093595-m-d96155406eaf95ea57e1132c5ff9f0c8.m4a?source=feed"/>
-                <guid>https://millernton.de/2023/05/03/mt094-oladapo-afolayan/</guid>
+                <link>https://omny.fm/shows/der-tag/27-04-2023-der-kulturwandel-in-der-digitalszene</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/7f0ccf0e-5e59-46be-99da-adfd00cd897b/64cab246-c15a-435f-a3a3-aff100f9d81d/audio.mp3?utm_source=Podcast&amp;in_playlist=58010048-e594-4833-ba04-adfd00ce3a13"/>
+                <guid>https://omny.fm/shows/der-tag/27-04-2023-der-kulturwandel-in-der-digitalszene</guid>
                 
             </item><item>
-                <title>Gott rettet</title>
-                <description>Jona 2,1-10
-Feed: https://predigt-welt.de/podcast/febg-espelkamp-predigten-1/</description>
+                <title>Robust und vielseitig: Kleinformatige Faserzementplatten bieten maximales Gestaltungspotenzial, Architekt Hans Ruedi Stutz, Architekturbüro Stutz #331</title>
+                <description>Eine Aussenfassade, die aussieht wie eine Stickerei? Diesen Wunsch hatte die Bauherrschaft beim Pfarramt Degersheim – und mit den kleinformatigen Faserzementplatten ist das möglich! Erfahre in dieser Folge mehr über die erstaunlich vielfältigen...
+Feed: https://bauherren-schweiz.libsyn.com/rss</description>
                 
                 
-                <link>https://predigt.febg-espelkamp.de/resource/742</link>
-                <enclosure type="audio/mpeg" length="1" url="https://predigt.febg-espelkamp.de/pmedia/cf4ec42a-08e9-4750-bf90-b9ff949b85a0.mp3"/>
-                <guid>https://predigt.febg-espelkamp.de/resource/742</guid>
+                <link>https://bauherren-schweiz.libsyn.com/robust-und-vielseitig-kleinformatige-faserzementplatten-bieten-maximales-gestaltungspotenzial-architekt-hans-ruedi-stutz-architekturbro-stutz-331</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/bauherren-schweiz/331_Interview_Audio.mp3?dest-id=1649783"/>
+                <guid>https://bauherren-schweiz.libsyn.com/robust-und-vielseitig-kleinformatige-faserzementplatten-bieten-maximales-gestaltungspotenzial-architekt-hans-ruedi-stutz-architekturbro-stutz-331</guid>
                 
             </item>
         </channel>

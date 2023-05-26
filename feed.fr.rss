@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 25 May 2023 04:21:06 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 26 May 2023 04:21:23 +0200</lastBuildDate>
             <item>
-                <title>Qu’est-ce que la précarité alimentaire, qui touche de plus en plus de Français ?</title>
-                <description>D’après les chiffres du Crédoc en mai 2023, le Centre de recherche pour l&#39;étude et l&#39;observation des conditions de vie, 16% des Français ne mangent pas à leur faim. Et le chiffre atteint presque les 25% pour les moins de 40 ans. Ce qui représente près de 11 millions de concitoyens.
-Aussi appelé insécurité alimentaire, le seuil permettant de quantifier la faim ne cesse de grimper dans le monde. L’Organisation Mondiale de la Santé estime à 2...
-Feed: https://feeds.megaphone.fm/BABA2900401712</description>
+                <title>Les combats du tennisman Arthur Ashe</title>
+                <description>Les combats du tennisman Arthur Ashe
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13940.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA8667267221.mp3?updated=1684944073"/>
-                <guid></guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-25-mai-2023-1959383</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a018a1e6-83e9-425a-a1ba-d553d4b377c0/13940-25.05.2023-ITEMA_23389762-2023F22805S0145-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-25-mai-2023-1959383</guid>
                 
             </item><item>
-                <title>LES MATINS DE FRANCE CULTURE, émission du mercredi 24 mai 2023</title>
-                <description>durée : 01:59:30 - Les Matins - par : Guillaume Erner 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10075.xml</description>
+                <title>Amitié x Solitude : Affronter la solitude amicale à l&#39;âge adulte</title>
+                <description>&lt;p&gt;Aujourd’hui dans &lt;strong&gt;Friendship&lt;/strong&gt; tu as rendez-vous avec &lt;strong&gt;trois auditrices du podcast.&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;???? Avec Anne-Fleur Andrle du podcast French Expat, nous avons décidé d’unir nos forces pour vous proposer pas 1 épisode mais bien 4 épisodes en 10 jours ! Ensemble, nous avons pris conscience qu&#39;il est souvent compliqué de se faire des amis à l’âge adulte...
+Feed: https://feeds.acast.com/public/shows/619f9eac88058100125f4b74</description>
                 
                 
-                <link>http://www.radiofrance.fr/chaines/france-culture2/emissions/matins/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/09b763c3-888f-46b9-bfa2-d3285b766fde/10075-24.05.2023-ITEMA_23388587-2023C6608S0144-21.mp3"/>
-                <guid>http://www.radiofrance.fr/chaines/france-culture2/emissions/matins/</guid>
+                <link>https://shows.acast.com/619f9eac88058100125f4b74/episodes/amitie-solitude-adulte-friendship-frenchexpat-podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/619f9eac88058100125f4b74/e/64526a6f9dcdc10011659ca6/media.mp3"/>
+                <guid>https://shows.acast.com/619f9eac88058100125f4b74/episodes/amitie-solitude-adulte-friendship-frenchexpat-podcast</guid>
                 
             </item>
         </channel>

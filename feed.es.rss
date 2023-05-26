@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 25 May 2023 04:21:10 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 26 May 2023 04:21:29 +0200</lastBuildDate>
             <item>
-                <title>Dance Live Sessions #246</title>
-                <description>Ivan Voltes selects his favourite tracks of the moment every week live in the mix.
-Broadcasting LIVE every Thursday at 1pm EDT | 8pm GMT | 9pm CET on Twitch and YouTube.
-Tracklist: 1001.tl/d5hh1v
-@dancelive Official Spotify Playlists: linktr.ee/dancelive
-If you are a radio station interested in airing the show please contact here: dancelive.es@gmail.com
-Feed: https://www.ivoox.com/ivan-voltes-presents-dance-live-radio_fg_f1166124_filtro_1.xml</description>
+                <title>Rincón Sportinguista 519 #PodcastSportinguista</title>
+                <description>Programa con @JaviMelero77 @AlejandroJamart y @TinvsPilvs donde analizamos el empate a dos logrado por el Sporting contra el Eibar en Ipur&amp;uacute;a.
+Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
                 
                 
-                <link>https://www.ivoox.com/dance-live-sessions-246-audios-mp3_rf_108519023_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/dance-live-sessions-246_mf_108519023_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/dance-live-sessions-246-audios-mp3_rf_108519023_1.html</guid>
+                <link>https://www.ivoox.com/rincon-sportinguista-519-podcastsportinguista-audios-mp3_rf_108739020_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-519-podcastsportinguista_mf_108739020_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/rincon-sportinguista-519-podcastsportinguista-audios-mp3_rf_108739020_1.html</guid>
                 
             </item><item>
-                <title>¿Puede la IA detectar mejor las tormentas?</title>
-                <description>Gracias al análisis automático de imágenes de satélite y datos infrarrojos, en el futuro debería ser posible advertir más rápidamente a la población sobre las catástrofes medioambientales. Así se podría actuar con mayor antelación.
-Feed: https://rss.dw.com/xml/podcast_enlaces</description>
+                <title>La rosa de los vientos 22/05/2023</title>
+                <description>Programa completo de &#39;La rosa de los vientos&#39; con Bruno Cardeñosa y Silvia Casasola. En la &#39;Tertulia Zona Cero&#39; hablamos de las ofrendas que hacían los antiguos egipcios a los faraones. Además, charlamos con Andrés Guerra, periodista de la Vanguardia, ...
+Feed: https://www.ondacero.es/rss/podcast/8502/podcast.xml</description>
                 
                 
-                <link>https://www.dw.com/es/¿puede-la-ia-detectar-mejor-las-tormentas/av-62988854?maca=spa-podcast_enlaces-7583-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/enl/enl220901_Wettersatelliten_1_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/¿puede-la-ia-detectar-mejor-las-tormentas/av-62988854?maca=spa-podcast_enlaces-7583-xml-mrss</guid>
+                <link>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/rosa-vientos-22052023_20230522646aecd66cbd630001b4ef09.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.antena3.com/mp_audios4//2023/05/22/BFDB1E14-0F2F-4CFF-AD9F-62B06E6F5DB5/BFDB1E14-0F2F-4CFF-AD9F-62B06E6F5DB5.mp3"/>
+                <guid>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/rosa-vientos-22052023_20230522646aecd66cbd630001b4ef09.html</guid>
                 
             </item>
         </channel>
