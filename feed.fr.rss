@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 26 May 2023 04:21:23 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 27 May 2023 04:20:22 +0200</lastBuildDate>
             <item>
-                <title>Les combats du tennisman Arthur Ashe</title>
-                <description>Les combats du tennisman Arthur Ashe
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13940.xml</description>
+                <title>S7E3 — « C&#39;est pas éthique, mais c&#39;est mon kif »</title>
+                <description>Madmoizelle donne un micro à 4 imbéciles
+Feed: https://feeds.acast.com/public/shows/402cd0aa-d4d7-475b-85af-bf46fc7ec4e7</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-25-mai-2023-1959383</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a018a1e6-83e9-425a-a1ba-d553d4b377c0/13940-25.05.2023-ITEMA_23389762-2023F22805S0145-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-25-mai-2023-1959383</guid>
+                <link>https://www.madmoizelle.com/podcast/laisse-moi-kiffer</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/laisse-moi-kiffer/e/646e28e12ebbc000113fe971/media.mp3"/>
+                <guid>https://www.madmoizelle.com/podcast/laisse-moi-kiffer</guid>
                 
             </item><item>
-                <title>Amitié x Solitude : Affronter la solitude amicale à l&#39;âge adulte</title>
-                <description>&lt;p&gt;Aujourd’hui dans &lt;strong&gt;Friendship&lt;/strong&gt; tu as rendez-vous avec &lt;strong&gt;trois auditrices du podcast.&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;???? Avec Anne-Fleur Andrle du podcast French Expat, nous avons décidé d’unir nos forces pour vous proposer pas 1 épisode mais bien 4 épisodes en 10 jours ! Ensemble, nous avons pris conscience qu&#39;il est souvent compliqué de se faire des amis à l’âge adulte...
-Feed: https://feeds.acast.com/public/shows/619f9eac88058100125f4b74</description>
+                <title>Chemins d&#39;histoire-Ahutoru et l&#39;histoire de Tahiti au XVIIIe s., avec V. Dorbe-Larcade-21.05.23</title>
+                <description>Cent cinquante-deuxième numéro de Chemins d&#39;histo…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:73343895/sounds.rss</description>
                 
                 
-                <link>https://shows.acast.com/619f9eac88058100125f4b74/episodes/amitie-solitude-adulte-friendship-frenchexpat-podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/619f9eac88058100125f4b74/e/64526a6f9dcdc10011659ca6/media.mp3"/>
-                <guid>https://shows.acast.com/619f9eac88058100125f4b74/episodes/amitie-solitude-adulte-friendship-frenchexpat-podcast</guid>
+                <link>https://soundcloud.com/luc-daireaux/chemins-dhistoire-ahutoru-et-lhistoire-de-tahiti-au-xviiie-s-avec-v-dorbe-larcade-210523</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1518904909-luc-daireaux-chemins-dhistoire-ahutoru-et-lhistoire-de-tahiti-au-xviiie-s-avec-v-dorbe-larcade-210523.mp3"/>
+                <guid>https://soundcloud.com/luc-daireaux/chemins-dhistoire-ahutoru-et-lhistoire-de-tahiti-au-xviiie-s-avec-v-dorbe-larcade-210523</guid>
                 
             </item>
         </channel>
