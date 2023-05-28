@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 27 May 2023 04:20:22 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 28 May 2023 04:20:46 +0200</lastBuildDate>
             <item>
-                <title>S7E3 — « C&#39;est pas éthique, mais c&#39;est mon kif »</title>
-                <description>Madmoizelle donne un micro à 4 imbéciles
-Feed: https://feeds.acast.com/public/shows/402cd0aa-d4d7-475b-85af-bf46fc7ec4e7</description>
+                <title>Les morceaux incrr de la semaine (singles)</title>
+                <description>&lt;p&gt;
+La scène du rap français ne cesse de nous surprendre avec de nouveaux hits chaque semaine ! Ne manquez pas les sorties les plus récentes, y compris les singles de ENVY444, Tunisiano avec son titre &amp;quot;Ensemble&amp;quot; en featuring avec Aketo, Gambino BATMAN avec son dernier morceau réalisé par Hustler Game et produit par Yamamusic et Almes, ainsi que le nouveau single explosif de 3POUR100 intitulé &amp;quot;Sentinelle&amp;quot;...
+Feed: https://anchor.fm/s/142764b0/podcast/rss</description>
                 
                 
-                <link>https://www.madmoizelle.com/podcast/laisse-moi-kiffer</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/laisse-moi-kiffer/e/646e28e12ebbc000113fe971/media.mp3"/>
-                <guid>https://www.madmoizelle.com/podcast/laisse-moi-kiffer</guid>
+                <link>https://podcasters.spotify.com/pod/show/tyler-podcast-rapfrancais/episodes/Les-morceaux-incrr-de-la-semaine-singles-e24i8ve</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/142764b0/podcast/play/70902190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-23%2F331150486-44100-2-3ee6b58776926.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/tyler-podcast-rapfrancais/episodes/Les-morceaux-incrr-de-la-semaine-singles-e24i8ve</guid>
                 
             </item><item>
-                <title>Chemins d&#39;histoire-Ahutoru et l&#39;histoire de Tahiti au XVIIIe s., avec V. Dorbe-Larcade-21.05.23</title>
-                <description>Cent cinquante-deuxième numéro de Chemins d&#39;histo…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:73343895/sounds.rss</description>
+                <title>S07#06 Baptiste Dufossez et Joseph Timmermans, Brique House</title>
+                <description>Aujourd’hui, le vous emmène dans le Nord, à la découverte d’une brasserie improbable. Son succès attire les critiques et attise les jalousies autant qu’il suscite l’admiration. Brique House (https://briquehouse.com/) est née quelques jours avant le déb...
+Feed: https://feed.ausha.co/2B60pSpE9VOy</description>
                 
                 
-                <link>https://soundcloud.com/luc-daireaux/chemins-dhistoire-ahutoru-et-lhistoire-de-tahiti-au-xviiie-s-avec-v-dorbe-larcade-210523</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1518904909-luc-daireaux-chemins-dhistoire-ahutoru-et-lhistoire-de-tahiti-au-xviiie-s-avec-v-dorbe-larcade-210523.mp3"/>
-                <guid>https://soundcloud.com/luc-daireaux/chemins-dhistoire-ahutoru-et-lhistoire-de-tahiti-au-xviiie-s-avec-v-dorbe-larcade-210523</guid>
+                <link>https://podcast.ausha.co/podcapsuleur/brique-house</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/o9DasDge9YDB.mp3?t=1685052865"/>
+                <guid>https://podcast.ausha.co/podcapsuleur/brique-house</guid>
                 
             </item>
         </channel>
