@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 29 May 2023 04:21:32 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 30 May 2023 04:21:41 +0200</lastBuildDate>
             <item>
-                <title>Radioyentes 317 mujeres, estrellas y familias</title>
-                <description>Iniciamos aqu&amp;iacute; una nueva edici&amp;oacute;n de nuestro podcast hablando en primer lugar de Jos&amp;eacute; Hita y Nacho Martin, porque ellos analizan y descubren, en tono de humor, en el podcast titulado Una estrella, lo que lleva a ciertas personas a escribir rese&amp;ntilde;as negativas.
-Agradecimientos para:
-Jos&amp;eacute; Antonio Laboreo de Radio Villegas
-Sinton&amp;iacute;a: de Junior Menezes
-Feed: https://www.ivoox.com/podcast-radioyentes_fg_f1463235_filtro_1.xml</description>
+                <title>2023-05-20 Flafri</title>
+                <description>
+Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
                 
                 
-                <link>http://www.ivoox.com/radioyentes-317-mujeres-estrellas-familias-audios-mp3_rf_104820413_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-317-mujeres-estrellas-familias_mf_104820413_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/radioyentes-317-mujeres-estrellas-familias-audios-mp3_rf_104820413_1.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-05-20Flafri.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Los 5 Lenguajes Del Amor: Cómo fortalecer la conexión con tu cónyuge</title>
-                <description>Los 5 Lenguajes Del Amor: Cómo fortalecer la conexión con tu cónyuge
-Los 5 Lenguajes Del Amor EjemplosLas palabras de afirmación son expresiones verbales de amor y aprecio. Para alguien cuyo principal lenguaje amoroso son las palabras de afirmación, escuchar palabras amables y cariñosas de su pareja puede hacerle sentir profundamente querido y respetado. Ejemplos de palabras de afirmación son los cumplidos, los ánimos y las expresiones de gratitud...
-Feed: https://kxcddo.podcaster.de/bookey-es.rss</description>
+                <title>Solemnidad de Pentecostés (A)</title>
+                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Juan 28, 16-20 Gloria a ti, Señor. Al anochecer del día de la resurrección, estando cerradas las puertas de la &amp;#8230;
+Feed: http://feed.quechilero.com/PalabraEspirituYVida</description>
                 
                 
-                <link>https://www.bookey.app/es/book/los-5-lenguajes-del-amor</link>
-                <enclosure type="audio/mpeg" length="1" url="https://kxcddo.podcaster.de/bookey-es/media/The_Five_Love_Languages_es.mp3"/>
-                <guid>https://www.bookey.app/es/book/los-5-lenguajes-del-amor</guid>
+                <link>https://diocesisdeescuintla.com/solemnidad-de-pentecostes-a-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/10442/solemnidad-de-pentecostes-a-2023.mp3"/>
+                <guid>https://diocesisdeescuintla.com/solemnidad-de-pentecostes-a-2023/</guid>
                 
             </item>
         </channel>
