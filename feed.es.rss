@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 30 May 2023 04:21:41 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 31 May 2023 04:21:08 +0200</lastBuildDate>
             <item>
-                <title>2023-05-20 Flafri</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>Sicut Luna Perfecta - Pentecostés - 28/05/23</title>
+                <description>Pentecostés
+Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-05-20Flafri.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/pentecostes-28-05-23/6900802/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SSICUTL/mp3/4/8/1685258216784.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/pentecostes-28-05-23/6900802/</guid>
                 
             </item><item>
-                <title>Solemnidad de Pentecostés (A)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Juan 28, 16-20 Gloria a ti, Señor. Al anochecer del día de la resurrección, estando cerradas las puertas de la &amp;#8230;
-Feed: http://feed.quechilero.com/PalabraEspirituYVida</description>
+                <title>La rosa de los vientos 29/05/2023</title>
+                <description>Programa completo de &#39;La rosa de los vientos&#39; con Bruno Cardeñosa y Silvia Casasola. 
+Feed: https://www.ondacero.es/rss/podcast/8502/podcast.xml</description>
                 
                 
-                <link>https://diocesisdeescuintla.com/solemnidad-de-pentecostes-a-2023/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/10442/solemnidad-de-pentecostes-a-2023.mp3"/>
-                <guid>https://diocesisdeescuintla.com/solemnidad-de-pentecostes-a-2023/</guid>
+                <link>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/rosa-vientos-29052023_2023052964748f3d573e26000133be62.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.antena3.com/mp_audios4//2023/05/29/D1ACBBA2-70E1-4671-8F19-AAD6F5D159B4/D1ACBBA2-70E1-4671-8F19-AAD6F5D159B4.mp3"/>
+                <guid>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/rosa-vientos-29052023_2023052964748f3d573e26000133be62.html</guid>
                 
             </item>
         </channel>

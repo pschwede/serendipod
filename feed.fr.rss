@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 30 May 2023 04:21:37 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 31 May 2023 04:21:03 +0200</lastBuildDate>
             <item>
-                <title>VISION #50 — MARGUERITE BORNHAUSER</title>
-                <description>J’avais déjà réalisé en 2020 un premier podcast avec Marguerite Bornhauser, sous le format « Épisode », aux côtés de Julie Vallon. Son travail et son approche d’artiste plasticienne — utilisant principalement le médium photographique — me fascinaient d...
-Feed: https://feed.ausha.co/bYK62tPMjRp9</description>
+                <title>#43 Christian Junod, Argent et sexualité (FR)</title>
+                <description>Le 43ème épisode du podcast &#34;Entr&#39;Nous&#34;, le podcast du Love Health Center, accueille Christian Junod, expert, conférencier et écrivains de plusieurs ouvrages sur les questions d&#39;argent.
+Feed: https://feeds.simplecast.com/gSZmySeA</description>
                 
                 
-                <link>https://podcast.ausha.co/podcastvisions/marguerite-bornhauser</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/y8zvrHPXg1kX.mp3?t=1684851462"/>
-                <guid>https://podcast.ausha.co/podcastvisions/marguerite-bornhauser</guid>
+                <link>https://www.love-health-center.org/podcast/christian-junod-argent-et-sexualite-43/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c1da6983-a39d-48f6-97dd-d3819060e368/episodes/cdb4ad37-612a-4477-92e5-4200acb8449d/audio/adb1537d-4920-4513-b510-bb2dda89072b/default_tc.mp3?aid=rss_feed&amp;feed=gSZmySeA"/>
+                <guid>https://www.love-health-center.org/podcast/christian-junod-argent-et-sexualite-43/</guid>
                 
             </item><item>
-                <title>Le festival de Royaumont </title>
-                <description>Le festival de Royaumont 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11739.xml</description>
+                <title>&#34;Ziskakan, une révolution créole&#34;: le combat pacifique mené par le groupe Ziskakan, collectif d’artistes, d’intellectuels et de militants, dans les années 70 à L’île de La Réunion</title>
+                <description>À voir sur France 3 ce 1er mai ! Interview de Sébastien Folin, réalisateur, auteur et producteur de ce documentaire
+Feed: https://feeds.acast.com/public/shows/30a04126-d1d2-54c8-8276-82339b630ba5</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/le-vif-de-l-histoire/13h54-le-vif-de-l-histoire-du-lundi-29-mai-2023-1398531</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/8d05217a-3839-44c4-b91b-86047134a0d0/11739-29.05.2023-ITEMA_23393236-2023F17009S0149-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-vif-de-l-histoire/13h54-le-vif-de-l-histoire-du-lundi-29-mai-2023-1398531</guid>
+                <link>https://sosweetplanet.com/ziskakan-une-revolution-creole/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/so-sweet-planet/e/644e4064f2675e0011772562/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=kX_6BP5X83NEag8WJiRKIf6ChCymZsbgkHn720ukTYg"/>
+                <guid>https://sosweetplanet.com/ziskakan-une-revolution-creole/</guid>
                 
             </item>
         </channel>

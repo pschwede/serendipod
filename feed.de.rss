@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 30 May 2023 04:21:33 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 31 May 2023 04:20:59 +0200</lastBuildDate>
             <item>
-                <title>Momentaufnahmen, 1. Mai – 15. Mai 2023</title>
-                <description>???????????? 15 neue Momentaufnahmen, Stress-Angst-neue-Dinge-Edition. Heute mit:
-- Work-Life-Balance (3.5.)
-- Berlin-Mitte-Boy (9.5.)
-- Überraschungen (13.5.)
-- Angst (15.5.)
-Feed: https://momentaufnahmen.podigee.io/feed/mp3</description>
+                <title>Heide Sommer – „Ich habe mir die Schokoladenseiten von den Bäumen gepflückt“</title>
+                <description>Über fünf Jahrzehnte war sie vor allem die Sekretärin berühmter Männer: Heide Sommer, Jahrgang 1940, kam 1963 zur Wochenzeitung „Die Zeit“, wo sie für ihren späteren Mann Theo Sommer arbeitete. Später wechselte sie zum „Spiegel“ und assistierte Rudolf Augstein und Günter Gaus. Bis zu seinem Tod arbeitete sie für Fritz J. Raddatz und auch für Helmut und Loki Schmidt. Ihre Rolle als Assistentin und Sekretärin hat Heide Sommer fast immer genossen...
+Feed: https://podcast.hr.de/freiheit-deluxe/podcast.xml</description>
                 
                 
-                <link>https://momentaufnahmen.podigee.io/92-momentaufnahme-20230515</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1111675-m-3438fb5c3394c22b4230d8ca9df7b2cf.mp3?source=feed"/>
-                <guid>https://momentaufnahmen.podigee.io/92-momentaufnahme-20230515</guid>
+                <link>https://mp3podcasthr-a.akamaihd.net/mp3/podcast/freiheit-deluxe/freiheit-deluxe_20230519_97900284.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mp3podcasthr-a.akamaihd.net/mp3/podcast/freiheit-deluxe/freiheit-deluxe_20230519_97900284.mp3"/>
+                <guid>https://mp3podcasthr-a.akamaihd.net/mp3/podcast/freiheit-deluxe/freiheit-deluxe_20230519_97900284.mp3</guid>
                 
             </item><item>
-                <title>#86 EMBODIMENT - Warum wir nicht im Körper sein wollen</title>
-                <description>One Scoop Of Sunshine - 29. Mai 2023
-Feed: https://hjwzbk.podcaster.de/onescoopofsunshine.rss</description>
+                <title>Evangelium in Basel - Ruf mit Folgen (2023) - Anja</title>
+                <description>
+Feed: https://www.vineyard-basel.ch/podcast/predigten.xml</description>
                 
                 
-                <link>https://hjwzbk.podcaster.de/onescoopofsunshine/86-embodiment-warum-wir-nicht-im-koerper-sein-wollen/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://deliver.audiotakes.net/d/hjwzbk.podcaster.de/p/onescoopofsunshine/m/-86_EMBODIMENT.mp3?awCollectionId=at-tjgev&amp;awEpisodeId=at-tjgev-8ba0ce1f6c86716090b54c06a0d84a5ecc7165f8&amp;origin=feed&amp;v=1685332803"/>
-                <guid>https://hjwzbk.podcaster.de/onescoopofsunshine/86-embodiment-warum-wir-nicht-im-koerper-sein-wollen/</guid>
+                <link>http://www.vineyard-basel.ch/podcast/predigten/20230521_predigt.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.vineyard-basel.ch/podcast/predigten/20230521_predigt.mp3"/>
+                <guid>http://www.vineyard-basel.ch/podcast/predigten/20230521_predigt.mp3</guid>
                 
             </item>
         </channel>
