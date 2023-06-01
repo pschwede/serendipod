@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 31 May 2023 04:21:20 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 01 Jun 2023 04:22:33 +0200</lastBuildDate>
             <item>
-                <title>Sherilyn | Stop Faking It And Release Music Like A Pro</title>
-                <description>Release Music Like a Pro Bootcamp provides step-by-step personalized coaching to give songwriters the tools and guidance that they need to record, publish, and promote their music professionally in 12 weeks!
-Feed: https://feeds.megaphone.fm/careermusician</description>
+                <title>Jocelyn K. Glei: Dawning Awareness</title>
+                <description>Jocelyn K. Glei on how our obsession with the intellect cuts us off from deeper consciousness &amp; insight.
+Feed: https://hurryslowly.co/feed/podcast/</description>
                 
                 
-                <link>http://thecareermusician.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/p.podderapp.com/1394819820/chrt.fm/track/E74G3E/traffic.megaphone.fm/PAN7740421727.mp3?updated=1684460480"/>
-                <guid>http://thecareermusician.com/</guid>
+                <link>https://hurryslowly.co/508-dawning-awareness/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/hurryslowly/content.blubrry.com/hurryslowly/508_HurrySlowly_DawningAwareness.mp3"/>
+                <guid>https://hurryslowly.co/508-dawning-awareness/</guid>
                 
             </item><item>
-                <title>MICRO: Spectral Encounter</title>
-                <description>Spectral Encounter. Content warning for death in an elevator. Transcript here. 
-This microsode was recorded and produced by Tal Minear. 
-Follow us @SDITEpod on Instagram, Tumblr, &amp; Twitter
-Learn more about your ad choices. Visit megaphone.fm/adchoices
-Feed: https://feeds.megaphone.fm/SBP6054606259</description>
+                <title>WebAIM statistics that might surprise you about NVDA and JAWS</title>
+                <description>Chad and Dax take a look at some interesting new trends from the WebAIM report published every few years. #9 has some really interesting turns in the statistics that we take a closer look at.  
+Feed: https://a11ychax.libsyn.com/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/FGADCC/traffic.megaphone.fm/SBP1069980255.mp3?updated=1684729851"/>
-                <guid></guid>
+                <link>https://a11ychax.libsyn.com/webaim-statistics-that-might-surprise-you-about-nvda-and-jaws</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/a11ychax/S3_EP15_1.mp3?dest-id=2723792"/>
+                <guid>https://a11ychax.libsyn.com/webaim-statistics-that-might-surprise-you-about-nvda-and-jaws</guid>
                 
             </item>
         </channel>

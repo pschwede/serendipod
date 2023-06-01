@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 31 May 2023 04:21:08 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 01 Jun 2023 04:22:20 +0200</lastBuildDate>
             <item>
-                <title>Sicut Luna Perfecta - Pentecostés - 28/05/23</title>
-                <description>Pentecostés
-Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
-                
-                
-                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/pentecostes-28-05-23/6900802/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SSICUTL/mp3/4/8/1685258216784.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/pentecostes-28-05-23/6900802/</guid>
-                
-            </item><item>
                 <title>La rosa de los vientos 29/05/2023</title>
                 <description>Programa completo de &#39;La rosa de los vientos&#39; con Bruno Cardeñosa y Silvia Casasola. 
 Feed: https://www.ondacero.es/rss/podcast/8502/podcast.xml</description>
@@ -29,6 +19,17 @@ Feed: https://www.ondacero.es/rss/podcast/8502/podcast.xml</description>
                 <link>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/rosa-vientos-29052023_2023052964748f3d573e26000133be62.html</link>
                 <enclosure type="audio/mpeg" length="1" url="https://dpvclip.antena3.com/mp_audios4//2023/05/29/D1ACBBA2-70E1-4671-8F19-AAD6F5D159B4/D1ACBBA2-70E1-4671-8F19-AAD6F5D159B4.mp3"/>
                 <guid>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/rosa-vientos-29052023_2023052964748f3d573e26000133be62.html</guid>
+                
+            </item><item>
+                <title>Para mí el reguetón está muerto... | T4 E9</title>
+                <description>La popularización del reguetón ha generado diversas opiniones desde a quién le gusta y quienes piensan que el género ya está muerto.
+Este es un avance del final de la cuarta temporada.
+Feed: https://gustavito.media/feed/podcast/</description>
+                
+                
+                <link>https://gustavito.media/2023/05/31/para-mi-el-regueton-esta-muerto/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://gustavito.media/wp-content/uploads/2023/05/Para-mi-el-regueton-esta-muerto.mp3"/>
+                <guid>https://gustavito.media/2023/05/31/para-mi-el-regueton-esta-muerto/</guid>
                 
             </item>
         </channel>
