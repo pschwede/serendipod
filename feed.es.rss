@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 02 Jun 2023 04:21:32 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 03 Jun 2023 04:20:41 +0200</lastBuildDate>
             <item>
-                <title>La rosa de los vientos 29/05/2023</title>
-                <description>Programa completo de &#39;La rosa de los vientos&#39; con Bruno Cardeñosa y Silvia Casasola. 
-Feed: https://www.ondacero.es/rss/podcast/8502/podcast.xml</description>
+                <title>Transneptunianos. Hablamos con Noemí Pinilla Alonso.</title>
+                <description>Aquellos que, como yo, aprendimos cuáles eran componentes del Sistema Solar en la escuela, por entonces se llamaba “escuela”, recordamos de memoria los 9 planetas, que 9 eran en aquellos tiempos, y poca cosa más. A lo sumo nos enseñaban que entre Marte y Júpiter había pedruscos sueltos que llamaban asteroides y que, de vez en cuando, nos visitaba un cometa. Ahora todo ha cambiado...
+Feed: https://feeds.feedburner.com/HablandoConCientficos</description>
                 
                 
-                <link>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/rosa-vientos-29052023_2023052964748f3d573e26000133be62.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.antena3.com/mp_audios4//2023/05/29/D1ACBBA2-70E1-4671-8F19-AAD6F5D159B4/D1ACBBA2-70E1-4671-8F19-AAD6F5D159B4.mp3"/>
-                <guid>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/rosa-vientos-29052023_2023052964748f3d573e26000133be62.html</guid>
+                <link>http://cienciaes.com/entrevistas/2023/05/29/transneptunianos/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/cienciaes/hc_422_transneptunianos.mp3"/>
+                <guid>http://cienciaes.com/entrevistas/2023/05/29/transneptunianos/</guid>
                 
             </item><item>
-                <title>Islas de Robinson - Tedio - 29/05/23</title>
-                <description>Tedio
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>Solemnidad de la Santísima Trinidad (A)</title>
+                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Juan 3, 16-18 Gloria a ti, Señor. “Tanto amó Dios al mundo, que le entregó &amp;#8230;
+Feed: http://feed.quechilero.com/PodcastCatedralDeEscuintla</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/tedio-29-05-23/6901185/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SISLAS/mp3/6/8/1685316226486.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/tedio-29-05-23/6901185/</guid>
+                <link>https://catedraldeescuintla.com/solemnidad-de-la-santisima-trinidad-a-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://catedraldeescuintla.com/podcast-download/7724/solemnidad-de-la-santisima-trinidad-a-2023.mp3"/>
+                <guid>https://catedraldeescuintla.com/solemnidad-de-la-santisima-trinidad-a-2023/</guid>
                 
             </item>
         </channel>

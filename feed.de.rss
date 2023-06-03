@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 02 Jun 2023 04:21:19 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 03 Jun 2023 04:20:33 +0200</lastBuildDate>
             <item>
-                <title>231: Bleib dir selbst treu! Authentizität als Mittel, um Klarheit und Energie zu gewinnen</title>
-                <description>Bleib dir selbst treu! Authentizität als Mittel, um Klarheit und Energie zu gewinnen
-Feed: https://einfach-machen-podcast.podigee.io/feed/mp3</description>
+                <title>Staffel 5: Der Rickblick – Rick and Morty Podcast</title>
+                <description>Wie nach jeder Staffel von Rick and Morty setzten wir uns nochmal mit der Community hin und lassen unsere Lieblingsmomente der Staffel Revue passieren.
+Feed: http://rickandmorty.radio-castriert.de/feed/podcast</description>
                 
                 
-                <link>https://www.wemheuer.de/blog/231-sich-selbst-treu-bleiben</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1120615-m-ba4c368c3ee4dadc03810c6e6747f0f6.mp3?source=feed"/>
-                <guid>https://www.wemheuer.de/blog/231-sich-selbst-treu-bleiben</guid>
+                <link>http://rickandmorty.radio-castriert.de/staffel-5-der-rickblick-rick-and-morty-podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="http://rickandmorty.radio-castriert.de/podlove/file/569/s/feed/c/podcast/RnM-S5-Rickblick.mp3"/>
+                <guid>http://rickandmorty.radio-castriert.de/staffel-5-der-rickblick-rick-and-morty-podcast</guid>
                 
             </item><item>
-                <title>Wie gehts weiter in Liga 2?</title>
-                <description>Nun ist es also soweit, zum dritten Mal seit 2000 geht es runter in Liga 2. Wir haben das worstcase Szenario genutzt, um uns mal wieder auf der großen Bühne der Hertha Podcasts zurückzumelden. Unter Verkehrslärm der Kölner Brücken analsieren wir die Knackpunkte zum Abstieg und schauen voraus welche Spieler wir gerne für den Start in der 2. Bundesliga halten würden...
-Feed: https://plumpe-traeume.podcaster.de/Plumpe-Traeume.rss</description>
+                <title>Visite! Bruce Lee in Stoppersocken</title>
+                <description>Sonderfolge aus Zimmer 216
+Feed: https://grauzonepodcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://plumpe-traeume.podcaster.de/plumpe-traeume/wie-gehts-weiter-in-liga-2/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://plumpe-traeume.podcaster.de/Plumpe-Traeume/media/Folge_122_final.mp3"/>
-                <guid>https://plumpe-traeume.podcaster.de/plumpe-traeume/wie-gehts-weiter-in-liga-2/</guid>
+                <link>https://grauzonepodcast.podigee.io/118-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1118769-m-0fceaef2c01297ffcb6b2129b403bfd5.mp3?source=feed"/>
+                <guid>https://grauzonepodcast.podigee.io/118-new-episode</guid>
                 
             </item>
         </channel>
