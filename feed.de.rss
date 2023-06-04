@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 03 Jun 2023 04:20:33 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 04 Jun 2023 04:20:08 +0200</lastBuildDate>
             <item>
-                <title>Staffel 5: Der Rickblick – Rick and Morty Podcast</title>
-                <description>Wie nach jeder Staffel von Rick and Morty setzten wir uns nochmal mit der Community hin und lassen unsere Lieblingsmomente der Staffel Revue passieren.
-Feed: http://rickandmorty.radio-castriert.de/feed/podcast</description>
+                <title>#81 Julian Zietlow: ein Familienvater zwischen Drogen, S*xorgien und Onlyfans</title>
+                <description>Der Berliner Fitness-Influencer Julian Zietlow fällt schon seit geraumer Zeit mit fragwürdigem Instagram-Content auf.
+Feed: https://darksecrets.podigee.io/feed/mp3</description>
                 
                 
-                <link>http://rickandmorty.radio-castriert.de/staffel-5-der-rickblick-rick-and-morty-podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="http://rickandmorty.radio-castriert.de/podlove/file/569/s/feed/c/podcast/RnM-S5-Rickblick.mp3"/>
-                <guid>http://rickandmorty.radio-castriert.de/staffel-5-der-rickblick-rick-and-morty-podcast</guid>
+                <link>https://darksecrets.podigee.io/81-julian-zietlow</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1118768-m-db5c135f394cbcc1e6efa2e896b77d99.mp3?source=feed"/>
+                <guid>https://darksecrets.podigee.io/81-julian-zietlow</guid>
                 
             </item><item>
-                <title>Visite! Bruce Lee in Stoppersocken</title>
-                <description>Sonderfolge aus Zimmer 216
-Feed: https://grauzonepodcast.podigee.io/feed/mp3</description>
+                <title>Yin Klangyoga der Achtsamkeit mit Amariah</title>
+                <description>Mit dieser besonderen Yin Klangyogastunde laden wir dich ein ganz tief nach innen zu gehen, um aus dir zu schöpfen und deine Energie aufzutanken. Entspanne dich und lass dich von den wundervollen Klängen der verschiedensten Instrumente behutsam in dein...
+Feed: https://feeds.feedburner.com/achtsamkeitsmeditation</description>
                 
                 
-                <link>https://grauzonepodcast.podigee.io/118-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1118769-m-0fceaef2c01297ffcb6b2129b403bfd5.mp3?source=feed"/>
-                <guid>https://grauzonepodcast.podigee.io/118-new-episode</guid>
+                <link>https://blog.yoga-vidya.de/yin-klangyoga-der-achtsamkeit-mit-amariah-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=yin-klangyoga-der-achtsamkeit-mit-amariah-2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://jkv3wg.podcaster.de/download/Yin_Klangyoga_der_Achtsamkeit_mit_Amariah.mp3"/>
+                <guid>https://blog.yoga-vidya.de/yin-klangyoga-der-achtsamkeit-mit-amariah-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=yin-klangyoga-der-achtsamkeit-mit-amariah-2</guid>
                 
             </item>
         </channel>
