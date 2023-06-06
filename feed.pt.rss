@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 05 Jun 2023 04:21:22 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 06 Jun 2023 04:21:07 +0200</lastBuildDate>
             <item>
-                <title>Maternidades: como asfixiar o SNS</title>
-                <description>Edição de 30 Maio 2023
-Feed: http://feeds.tsf.pt/AOpiniaoDeDanielOliveira</description>
+                <title>#255: Ordenhando a boiada</title>
+                <description>Os entraves para a aprovação da MP da Esplanada r…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:136669160/sounds.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/05/opiniao30_20230530093514/mp3/opiniao30_20230530093514.mp3"/>
-                <guid></guid>
+                <link>https://soundcloud.com/revistapiaui/255-ordenhando-a-boiada</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1528867945-revistapiaui-255-ordenhando-a-boiada.mp3"/>
+                <guid>https://soundcloud.com/revistapiaui/255-ordenhando-a-boiada</guid>
                 
             </item><item>
-                <title>Sobre newsletters, Substack e fazer bagunça na internet</title>
-                <description>Neste episódio do Guia Prático, recebo a Aline Valek para uma conversa animada sobre newsletters, Substack e fazer bagunça na internet. Recentemente, ela escreveu uma newsletter relatando seu desconforto com o Substack. O desconforto vai além — Aline diz
-Feed: https://manualdousuario.net/feed/podcast/guia-pratico/</description>
+                <title>Como ganhei uma viagem com tudo pago? (FAM Trips)</title>
+                <description>&lt;p&gt;
+???????????? Embarcamos em uma aventura épica pela Grécia em uma FAM trip que vai além das expectativas! 
+As FAM trips (Familiarization trips) são experiências exclusivas para criadores de conteúdo, nos quais são convidados a explorar destinos turísticos com todas as despesas pagas...
+Feed: https://anchor.fm/s/1ab2e6c4/podcast/rss</description>
                 
                 
-                <link>https://manualdousuario.net/podcast/guia-pratico-s7e16/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/manualdousuario.net/podcast-download/35204/guia-pratico-s7e16.mp3"/>
-                <guid>https://manualdousuario.net/podcast/guia-pratico-s7e16/</guid>
+                <link>https://podcasters.spotify.com/pod/show/edublincast/episodes/Como-ganhei-uma-viagem-com-tudo-pago--FAM-Trips-e24matt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1ab2e6c4/podcast/play/71035261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-25%2F331585090-44100-2-2298800679dd4.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/edublincast/episodes/Como-ganhei-uma-viagem-com-tudo-pago--FAM-Trips-e24matt</guid>
                 
             </item>
         </channel>

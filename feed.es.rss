@@ -9,40 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 05 Jun 2023 04:21:17 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 06 Jun 2023 04:21:03 +0200</lastBuildDate>
             <item>
-                <title>Star 80 del 3 de junio de 2023 (edición 440 en Can10fm y www.star80.es)</title>
-                <description>Koto &amp;ndash; Visitors
-Carlos P&amp;eacute;rez &amp;ndash; Volviendo a los 80
-Miko Mission &amp;ndash; Two For Love
-Rick Astley - Never Gonna Give You Up
-Fred Ventura &amp;ndash; Heartbeats
-Sophie &amp;ndash; My World
-Fancy &amp;ndash; Slice Me Nice
-Baccara &amp;ndash; Don&amp;rsquo;t Let This Feeling Go Away
-Cristina Sevilla &amp;ndash; Angels
-Carlo Finazzi &amp;ndash; Are You Loving
-Koto Mix
-Peter Paul &amp;ndash; Look At The Moon
-Ken Laszlo &amp;ndash; Glasses Man
-Divine &amp;ndash; I&amp;rsquo;m So Beautiful
-Shannon &amp;ndash; Do You Wanna Get...
-Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
+                <title>Cómo la poesía desbloqueó mis superpoderes | Keenan Scott II</title>
+                <description>Cómo la poesía desbloqueó mis superpoderes | Keenan Scott II
+Feed: https://feeds.feedburner.com/SpanishPodcastArt</description>
                 
                 
-                <link>https://www.ivoox.com/star-80-del-3-junio-2023-audios-mp3_rf_109602646_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-3-junio-2023_mf_109602646_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/star-80-del-3-junio-2023-audios-mp3_rf_109602646_1.html</guid>
+                <link>https://www.ted.com/talks/keenan_scott_ii_how_poetry_unlocked_my_superpowers?rss=172BB350-0062</link>
+                <enclosure type="audio/mpeg" length="1" url="https://download.ted.com/products/164647.mp4?apikey=172BB350-0062"/>
+                <guid>https://www.ted.com/talks/keenan_scott_ii_how_poetry_unlocked_my_superpowers?rss=172BB350-0062</guid>
                 
             </item><item>
-                <title>Solemnidad de la Santísima Trinidad (A)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Juan 3, 16-18 Gloria a ti, Señor. “Tanto amó Dios al mundo, que le entregó &amp;#8230;
-Feed: http://feed.quechilero.com/PodcastCatedralDeEscuintla</description>
+                <title>Música y Letra: Jazz, para el que le aburre el jazz</title>
+                <description>Andrés Amorós dedica un programa al jazz a través de temas que desmontan el mito de que el género es aburrido.
+Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
                 
                 
-                <link>https://catedraldeescuintla.com/solemnidad-de-la-santisima-trinidad-a-2023/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://catedraldeescuintla.com/podcast-download/7724/solemnidad-de-la-santisima-trinidad-a-2023.mp3"/>
-                <guid>https://catedraldeescuintla.com/solemnidad-de-la-santisima-trinidad-a-2023/</guid>
+                <link>https://esradio.libertaddigital.com/fonoteca/2023-06-03/musica-y-letra-jazz-para-el-que-le-aburre-el-jazz-7020509.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/54086775/download.mp3?aw_0_1st.collectionid=musica-y-letra&amp;aw_0_1st.subcat=67"/>
+                <guid>https://esradio.libertaddigital.com/fonoteca/2023-06-03/musica-y-letra-jazz-para-el-que-le-aburre-el-jazz-7020509.html</guid>
                 
             </item>
         </channel>

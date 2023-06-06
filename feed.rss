@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 05 Jun 2023 04:21:05 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 06 Jun 2023 04:20:50 +0200</lastBuildDate>
             <item>
+                <title>The Women’s World Cup debutants take centre stage</title>
+                <description>Mani Djazmi and Sarah Mulkerrins profile the Women’s World Cup debut teams.
+Feed: https://podcasts.files.bbci.co.uk/p002vsyx.rss</description>
+                
+                
+                <link>http://www.bbc.co.uk/programmes/p0fs80d1</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0fs7xm7.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0fs80d1</guid>
+                
+            </item><item>
                 <title>Linda R. Duska, MD, MPH / Debra L. Richardson, MD, FACS, FACOG - Upgrading the Treatment Algorithm for Advanced Ovarian Cancer: Expert Tips, Tools, and Patient Care Strategies for Making the Most of PARP Inhibitors Across the Disease Continuum</title>
                 <description>Go online to PeerView.com/UNZ860 to view the activity, download slides and practice aids, and complete the post-test to earn credit.
 Feed: https://c.peerview.com/podcast/xml/nephrology_audio.xml</description>
@@ -19,16 +29,6 @@ Feed: https://c.peerview.com/podcast/xml/nephrology_audio.xml</description>
                 <link>https://PeerView.com/UNZ860</link>
                 <enclosure type="audio/mpeg" length="1" url="https://peerview.com/150208164UNZ.mp3?ProjectNumber=150208164&amp;Promocode=861&amp;AudienceID=PVI"/>
                 <guid>https://PeerView.com/UNZ860</guid>
-                
-            </item><item>
-                <title>The endocrine system: exploring thyroid, adrenal, and sex hormones | Peter Attia, M.D.</title>
-                <description>In this special episode of The Drive, Peter provides a comprehensive overview of the various endocrine systems: the thyroid system, the adrenal system, and the sex hormone system (for both men and women). He walks through the basic biology and the...
-Feed: https://peterattiadrive.libsyn.com/rss</description>
-                
-                
-                <link>https://peterattiamd.com/endocrinesystem/?utm_source=podcast-feed&amp;utm_medium=referral&amp;utm_campaign=230529-pod-endocrinesystem&amp;utm_content=230529-pod-endocrinesystem-podfeed</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/peterattiadrive/EP.256_-_Hormone_Video_Podcast_FINAL.mp3?dest-id=713489"/>
-                <guid>https://peterattiamd.com/endocrinesystem/?utm_source=podcast-feed&amp;utm_medium=referral&amp;utm_campaign=230529-pod-endocrinesystem&amp;utm_content=230529-pod-endocrinesystem-podfeed</guid>
                 
             </item>
         </channel>

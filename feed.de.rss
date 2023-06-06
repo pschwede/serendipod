@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 05 Jun 2023 04:21:09 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 06 Jun 2023 04:20:55 +0200</lastBuildDate>
             <item>
-                <title>HFC-Experte: &#34;Das war der Klassenerhalt der Fans!&#34;</title>
-                <description>Zittern bis zum vorletzten Spieltag, am Ende der Ligaverbleib: die turbulente Saison des Halleschen FC in der Podcast-Analyse. Plus: Wie es jetzt weitergeht.
-Feed: http://www.mdr.de/sport/fussball/podcast/badkurvenversteher/badkurven-versteher-hfc-podcast100-podcast.xml</description>
+                <title>#diepodcastin bei Reem Alsalem: Isabel Rohner &amp; Regula Stämpfli zu grossen Frauen wie Lida Gustava Heymann, Anne Rabe, Katja Oskamp, Reem Alsalem, Mahlagha Jaberi, Jutta Allmendinger &amp; 621 Tage Geschlechterapartheid in Afghanistan.</title>
+                <description>#diepodcastin bei Reem Alsalem: Isabel Rohner &amp; Regula Stämpfli zu grossen Frauen wie Lida Gustava Heymann, Anne Rabe, Katja Oskamp, Reem Alsalem, Mahlagha Jaberi, Jutta Allmendinger &amp; 621 Tage Geschlechterapartheid in Afghanistan.
+Feed: http://diepodcastin.de/feed/mp3/</description>
                 
                 
-                <link>https://www.mdr.de/mdr-sachsen-anhalt/podcast/badkurvenversteher/audio-hfc-podcast-saisonfazit-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/1/digas-1b32f848-46e2-4a57-ab05-6b402a9b7ee9-0a15de5e5053_1b.mp3"/>
-                <guid>https://www.mdr.de/mdr-sachsen-anhalt/podcast/badkurvenversteher/audio-hfc-podcast-saisonfazit-100.html</guid>
+                <link>https://diepodcastin.de/2023/06/03/diepodcastin-bei-reem-alsalem-isabel-rohner-regula-stampfli-zu-grossen-frauen-wie-lida-gustava-heymann-anne-rabe-katja-oskamp-reem-alsalem-mahlagha-jaberi-jutta-allmendinger-621-tage-geschl/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://diepodcastin.de/podlove/file/1187/s/feed/c/mp3/haltung.mp3"/>
+                <guid>https://diepodcastin.de/2023/06/03/diepodcastin-bei-reem-alsalem-isabel-rohner-regula-stampfli-zu-grossen-frauen-wie-lida-gustava-heymann-anne-rabe-katja-oskamp-reem-alsalem-mahlagha-jaberi-jutta-allmendinger-621-tage-geschl/</guid>
                 
             </item><item>
-                <title>Keine Gnade 59 - John Wayne Gacy - Teil 2</title>
-                <description>Vermächtnis eines Clowns
-Feed: https://jl7vop.podcaster.de/KeineGnade.rss</description>
+                <title>KI und Schule</title>
+                <description>Außerhalb des Rhythmus ein kurzer Monolog zu KI und Schule.
+Feed: http://lernfragen.org/feed/m4a/</description>
                 
                 
-                <link>https://keinegnadepodcast.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://jl7vop.podcaster.de/KeineGnade/media/Gacy2_Final.mp3"/>
-                <guid>https://keinegnadepodcast.com</guid>
+                <link>https://lernfragen.org/2023/06/04/lfr054-ki-und-schule/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lernfragen.org/podlove/file/254/s/feed/c/m4a/lfr054-ki-und-schule.m4a"/>
+                <guid>https://lernfragen.org/2023/06/04/lfr054-ki-und-schule/</guid>
                 
             </item>
         </channel>
