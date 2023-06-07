@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 06 Jun 2023 04:20:59 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 07 Jun 2023 04:21:34 +0200</lastBuildDate>
             <item>
-                <title>No smoking</title>
-                <description>&lt;p&gt;Le tabac n&#39;est pas tabou et on essaie de voir avec Julie &amp;amp; Mag si on peut vraiment en venir à bout ! Rdv dans une nouvelle émission santé  d&#39;ESSENTIEL academy &lt;/p&gt;
-Feed: https://feeds.captivate.fm/essentiel-radio-essentiel-academy/</description>
+                <title>Bam Salute special Joe Gibbs</title>
+                <description>bamsalute
+Feed: https://www.radiocampusparis.org/emission-category/bamsalute/feed</description>
                 
                 
-                <link>https://essentielradio.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/ef4ef845-2fc2-4db8-934e-4660e589f951/Julie-Mag-No-Smoking-pod.mp3"/>
-                <guid>https://essentielradio.com/</guid>
+                <link>https://www.radiocampusparis.org/emission-category/bamsalute</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.radiocampusparis.org/podcasts/bamsalute/2023-05-30%20Joe%20Gibbs.mp3"/>
+                <guid>https://www.radiocampusparis.org/emission-category/bamsalute</guid>
                 
             </item><item>
-                <title>Episode Bonus - La Jurée (2/2)</title>
-                <description>Tadam ! PILE a sorti son costume jaune et revient…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:387384284/sounds.rss</description>
+                <title>Quand les militaires confisquent le pouvoir 2/4 : Soudan : la révolution otage de la guerre des généraux</title>
+                <description>Quand les militaires confisquent le pouvoir 2/4 : Soudan : la révolution otage de la guerre des généraux
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11701.xml</description>
                 
                 
-                <link>https://soundcloud.com/pile-le-podcast/episode-bonus-la-juree-22</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1511655175-pile-le-podcast-episode-bonus-la-juree-22.mp3"/>
-                <guid>https://soundcloud.com/pile-le-podcast/episode-bonus-la-juree-22</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/soudan-la-revolution-otage-de-la-guerre-des-generaux-9608218</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/e6df2df4-0b9e-4b68-b3d7-8ccc28bf3717/11701-06.06.2023-ITEMA_23401808-2023C16756S0157-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/soudan-la-revolution-otage-de-la-guerre-des-generaux-9608218</guid>
                 
             </item>
         </channel>
