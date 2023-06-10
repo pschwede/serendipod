@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 09 Jun 2023 04:21:43 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 10 Jun 2023 04:20:56 +0200</lastBuildDate>
             <item>
-                <title>L&#39;INTÉGRALE - Charles Quint : dix-sept couronnes mais toujours fauché !</title>
-                <description>Détenteur de dix-sept couronnes, Charles Quint a ainsi déclaré: « Sur mon empire, le soleil ne se couche jamais » Avec pour devise « Encore plus loin », l&#39;homme le plus puissant de la planète à la Renaissance va passer une grande partie de son temps aux quatre coin...
-Feed: https://feeds.audiomeans.fr/feed/971b31f2-42d6-4d41-95ee-1c0554528483.xml</description>
+                <title>Trance Conference #538#</title>
+                <description>Plus d&#39;info sur notre site
+Feed: https://podcast.pulsradio.com/TranceConference/podcast.xml</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/entrez-dans-l-histoire</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rtl.proxycast.org/3071542971900899328/fe0e09fe-a679-4ebd-a029-a37f36440444.mp3?u=FbteVXJUvY&amp;_=1686243182"/>
-                <guid>https://www.rtl.fr/programmes/entrez-dans-l-histoire</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/TranceConference/20230604/TranceConference_20230604.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>American Beauty, Caroline Rose, Sammo Hung, un épisode en pétales et en épines</title>
-                <description>Le Random Culture Club, c&#39;est ce podcast où l&#39;on tire au sort des articles sur Wikipedia pour en tirer des chroniques culturelles. Et figurez-vous qu&#39;au dernier tirage au sort, nous sommes tombés sur Rosamunde (https://fr.wikipedia.org/wiki/Rosamunde_(...
-Feed: https://feed.ausha.co/oa7gVTNeXjW3</description>
+                <title>épisode 52 - Chloé Salort</title>
+                <description>Pour ce nouvel épisode de parcours de femmes, nous vous proposons le portrait d&#39;une future élite du golf français : Chloë Salort.
+C&#39;est en accompagnant ses parents sur les greens de golf que Chloé se passionne pour ce sport.
+Elle intègre le pôle France...
+Feed: https://feed.ausha.co/y0ZJh6g1ANXB</description>
                 
                 
-                <link>https://podcast.ausha.co/random-culture-club/american-beauty-caroline-rose-sammo-hung-un-episode-en-petales-et-en-epines</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bVaQ2fXRXMdy.mp3?t=1685481304"/>
-                <guid>https://podcast.ausha.co/random-culture-club/american-beauty-caroline-rose-sammo-hung-un-episode-en-petales-et-en-epines</guid>
+                <link>https://podcast.ausha.co/parcours-de-femmes/episode-52-chloe-salort</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/blDvlhllVlXP.mp3?t=1685898842"/>
+                <guid>https://podcast.ausha.co/parcours-de-femmes/episode-52-chloe-salort</guid>
                 
             </item>
         </channel>

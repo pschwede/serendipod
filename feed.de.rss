@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 09 Jun 2023 04:21:37 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 10 Jun 2023 04:20:51 +0200</lastBuildDate>
             <item>
-                <title>The Answer is always Yes – ein Interview mit Alex Lahey</title>
-                <description>Alex Lahey kann vieles: große Rock Songs schreiben, poppig zum Tanzen bringen, eine Prise Wehmut erwecken. Mit dem neuen Album The Answer is Always Yes beweist sie einmal mehr, dass sie wirklich sehr gut in all dem ist. Es geht darum dazuzugehören, Platz
-Feed: https://dragonseateverything.com/feed/podcast/all-you-can-eat-interviews/</description>
+                <title>APuZ #17: Ökologie und Demokratie</title>
+                <description>Aus Politik und Zeitgeschichte
+Feed: https://www.bpb.de/rss-feed/342466.rss</description>
                 
                 
-                <link>https://dragonseateverything.com/podcast/the-answer-is-always-yes-ein-interview-mit-alex-lahey/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dragonseateverything.com/podcast-download/5764/the-answer-is-always-yes-ein-interview-mit-alex-lahey.mp3"/>
-                <guid>https://dragonseateverything.com/podcast/the-answer-is-always-yes-ein-interview-mit-alex-lahey/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://film.bpb.de/system/files/audios/original/APuZ_017.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Verblendet</title>
-                <description>Das Gedicht ist schon älter, aber doch nicht nostalgisch.&lt;br&gt;&lt;br&gt;Link zu Verblendet
-Feed: https://letscast.fm/podcasts/poetrycop-ein-gedicht-pro-woche-704ff513/feed</description>
+                <title>Stalking bis zum Mord – Der Fall Sophie N.</title>
+                <description>Im Januar 2020 ersticht ein Mann Sophie N. in ihrer Wohnung. Die Ermittlungen zeigen: Der Täter hatte die Flugbegleiterin zuvor jahrelang massiv gestalked – online und im realen Leben. Dann wurde der Stalker zum Mörder.
+Feed: http://www.mdr.de/nachrichten/podcast/spurdertaeter/spurdertaeter-104-podcast.xml</description>
                 
                 
-                <link>https://poetrycop.letscast.fm/episode/verblendet</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/lcdn.letscast.fm/media/podcast/7a908811/episode/61705a9c.mp3?t=1685566504"/>
-                <guid>https://poetrycop.letscast.fm/episode/verblendet</guid>
+                <link>https://www.mdr.de/nachrichten/podcast/spurdertaeter/audio-sophie-stalking-mord100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/7/FCMS-7451ebcf-d8e1-44c9-a2ba-391f606af2d6-0a15de5e5053_74.mp3"/>
+                <guid>https://www.mdr.de/nachrichten/podcast/spurdertaeter/audio-sophie-stalking-mord100.html</guid>
                 
             </item>
         </channel>
