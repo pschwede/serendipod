@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 10 Jun 2023 04:20:56 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 11 Jun 2023 04:20:46 +0200</lastBuildDate>
             <item>
-                <title>Trance Conference #538#</title>
-                <description>Plus d&#39;info sur notre site
-Feed: https://podcast.pulsradio.com/TranceConference/podcast.xml</description>
+                <title>Le char de marge : Char de Marge - 4 juin 2023</title>
+                <description>637-290073
+Feed: http://podcast.cism893.ca/radioshows/637/feed_itunes.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/TranceConference/20230604/TranceConference_20230604.mp3"/>
-                <guid></guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/290073.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/290073.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/290073.mp3</guid>
                 
             </item><item>
-                <title>épisode 52 - Chloé Salort</title>
-                <description>Pour ce nouvel épisode de parcours de femmes, nous vous proposons le portrait d&#39;une future élite du golf français : Chloë Salort.
-C&#39;est en accompagnant ses parents sur les greens de golf que Chloé se passionne pour ce sport.
-Elle intègre le pôle France...
-Feed: https://feed.ausha.co/y0ZJh6g1ANXB</description>
+                <title>DJ LBR ADO39 270523</title>
+                <description>anotha banga
+Feed: https://dj-lbr.backdoorpodcasts.com/index.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/parcours-de-femmes/episode-52-chloe-salort</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/blDvlhllVlXP.mp3?t=1685898842"/>
-                <guid>https://podcast.ausha.co/parcours-de-femmes/episode-52-chloe-salort</guid>
+                <link>https://dj-lbr.backdoorpodcasts.com/episode/dj-lbr-ado39-270523-87</link>
+                <enclosure type="audio/mpeg" length="1" url="http://files.backdoorpodcasts.com/dj-lbr/dj-lbr-ado39-270523-87.mp3"/>
+                <guid>https://dj-lbr.backdoorpodcasts.com/episode/dj-lbr-ado39-270523-87</guid>
                 
             </item>
         </channel>

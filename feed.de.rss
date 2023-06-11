@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 10 Jun 2023 04:20:51 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 11 Jun 2023 04:20:41 +0200</lastBuildDate>
             <item>
-                <title>APuZ #17: Ökologie und Demokratie</title>
-                <description>Aus Politik und Zeitgeschichte
-Feed: https://www.bpb.de/rss-feed/342466.rss</description>
+                <title>DSM 2 1/2 – Folge 055 – Feuchte Hände</title>
+                <description>Der Interceptor nicht da, Katastrophe! Aber ein paar Links haben wir auch so zusammen bekommen, aber im Chat war es schon hart. Daher auch nur eine ganz, ganz kurze Folge, damit müsst ihr dieses Mal auskommen.
+Feed: https://d-buddi.de/feed/podcast/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://film.bpb.de/system/files/audios/original/APuZ_017.mp3"/>
-                <guid></guid>
+                <link>https://d-buddi.de/2023/06/08/dsm-2-1-2-folge-055-feuchte-haende/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/dbuddi/cdn.podseed.org/dsm2/DSM_2_1-2_055_Mono.mp3"/>
+                <guid>https://d-buddi.de/2023/06/08/dsm-2-1-2-folge-055-feuchte-haende/</guid>
                 
             </item><item>
-                <title>Stalking bis zum Mord – Der Fall Sophie N.</title>
-                <description>Im Januar 2020 ersticht ein Mann Sophie N. in ihrer Wohnung. Die Ermittlungen zeigen: Der Täter hatte die Flugbegleiterin zuvor jahrelang massiv gestalked – online und im realen Leben. Dann wurde der Stalker zum Mörder.
-Feed: http://www.mdr.de/nachrichten/podcast/spurdertaeter/spurdertaeter-104-podcast.xml</description>
+                <title>Tÿpo 2023 #1: «What nowbody talks about» mit Anne Treichel und Roland Stieger.</title>
+                <description>In dieser Episode sprechen wir mit Anne Treichel und Roland Stieger über die Tÿpo St. Gallen 2023. Das diesjährige Thema lautet - What nobody talks about. Wir erfahren mehr über die Veranstaltung und was die Teilnehmer:innen in diesem Jahr erwartet.
+Feed: https://www.geraumt.com/feed/podcast/</description>
                 
                 
-                <link>https://www.mdr.de/nachrichten/podcast/spurdertaeter/audio-sophie-stalking-mord100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/7/FCMS-7451ebcf-d8e1-44c9-a2ba-391f606af2d6-0a15de5e5053_74.mp3"/>
-                <guid>https://www.mdr.de/nachrichten/podcast/spurdertaeter/audio-sophie-stalking-mord100.html</guid>
+                <link>https://www.geraumt.com/typo-2023-1-what-nowbody-talks-about-mit-anne-treichel-und-roland-stieger/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.geraumt.com/wp-content/uploads/2023/06/What-nobody-talks-about.-Mit-Anne-Treichel-und-Roland-Stieger-zur-Typo-St.-Gallen.-zur-.mp3"/>
+                <guid>https://www.geraumt.com/typo-2023-1-what-nowbody-talks-about-mit-anne-treichel-und-roland-stieger/</guid>
                 
             </item>
         </channel>
