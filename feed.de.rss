@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 11 Jun 2023 04:20:41 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 13 Jun 2023 04:21:55 +0200</lastBuildDate>
             <item>
-                <title>DSM 2 1/2 – Folge 055 – Feuchte Hände</title>
-                <description>Der Interceptor nicht da, Katastrophe! Aber ein paar Links haben wir auch so zusammen bekommen, aber im Chat war es schon hart. Daher auch nur eine ganz, ganz kurze Folge, damit müsst ihr dieses Mal auskommen.
-Feed: https://d-buddi.de/feed/podcast/</description>
+                <title>Thomas Mauch - Mehr als nur Herzog und Kinski</title>
+                <description>In der heutigen Folge wollen wir uns einmal dem bewegten Bild widmen, ist doch Film auch nichts anderes als 24 Standbilder pro Sekunde. Aber im Ernst: Wenn ein Kameramann wie Thomas Mauch aus dem Nähkästchen plaudert, dann ist das so spannend, dass man es auf Sendung bringen muss, auch wenn es ursprünglich nur als Basis für einen Artikel in der Silvergrain Classics gedacht war...
+Feed: https://fz5vy7.podcaster.de/kreativkommune.rss</description>
                 
                 
-                <link>https://d-buddi.de/2023/06/08/dsm-2-1-2-folge-055-feuchte-haende/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/dbuddi/cdn.podseed.org/dsm2/DSM_2_1-2_055_Mono.mp3"/>
-                <guid>https://d-buddi.de/2023/06/08/dsm-2-1-2-folge-055-feuchte-haende/</guid>
+                <link>https://studio.kreativkommune.org/podcast/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fz5vy7.podcaster.de/kreativkommune/media/Podcast_SKK_053.mp3"/>
+                <guid>https://studio.kreativkommune.org/podcast/</guid>
                 
             </item><item>
-                <title>Tÿpo 2023 #1: «What nowbody talks about» mit Anne Treichel und Roland Stieger.</title>
-                <description>In dieser Episode sprechen wir mit Anne Treichel und Roland Stieger über die Tÿpo St. Gallen 2023. Das diesjährige Thema lautet - What nobody talks about. Wir erfahren mehr über die Veranstaltung und was die Teilnehmer:innen in diesem Jahr erwartet.
-Feed: https://www.geraumt.com/feed/podcast/</description>
+                <title>über die Gasse - Ein Gselchta am Wiener Bierfest 2023</title>
+                <description>Österreichs bierigster Podcast
+Feed: https://der-witzer.at/show/hopfologie/feed/mp3/</description>
                 
                 
-                <link>https://www.geraumt.com/typo-2023-1-what-nowbody-talks-about-mit-anne-treichel-und-roland-stieger/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.geraumt.com/wp-content/uploads/2023/06/What-nobody-talks-about.-Mit-Anne-Treichel-und-Roland-Stieger-zur-Typo-St.-Gallen.-zur-.mp3"/>
-                <guid>https://www.geraumt.com/typo-2023-1-what-nowbody-talks-about-mit-anne-treichel-und-roland-stieger/</guid>
+                <link>https://der-witzer.at/2023/06/hopfologie-ueber-die-gasse-ein-gselchta-am-wiener-bierfest-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://der-witzer.at/podlove/file/2052/s/feed/c/mp3/HP0153.mp3"/>
+                <guid>https://der-witzer.at/2023/06/hopfologie-ueber-die-gasse-ein-gselchta-am-wiener-bierfest-2023/</guid>
                 
             </item>
         </channel>
