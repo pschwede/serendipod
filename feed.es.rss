@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 13 Jun 2023 04:22:04 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 14 Jun 2023 04:22:00 +0200</lastBuildDate>
             <item>
-                <title>2023-06-03 Flafri</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>Música y Letra: Carlos Álvarez - Ópera</title>
+                <description>Andrés Amorós dedica un programa a uno de los mejores cantantes del mundo como barítono y reconocido internacionalmente.
+Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-06-03Flafri-Salu*.mp3"/>
-                <guid></guid>
+                <link>https://esradio.libertaddigital.com/fonoteca/2023-06-10/musica-y-letra-carlos-alvarez-opera-7020515.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/54215488/download.mp3?aw_0_1st.collectionid=musica-y-letra&amp;aw_0_1st.subcat=67"/>
+                <guid>https://esradio.libertaddigital.com/fonoteca/2023-06-10/musica-y-letra-carlos-alvarez-opera-7020515.html</guid>
                 
             </item><item>
-                <title>Seamos siempre pacientes (23-29 de octubre)</title>
-                <description>wS MP3 Agosto de 2023 - 05
-Feed: https://apps.jw.org/E_sFFZRQVNZNT?rln=S&amp;rmn=w&amp;rfm=mp3</description>
+                <title>PYM 43. Hey, hey, Peski | Especial Mitología</title>
+                <description>&amp;iquest;Otro especial? S&amp;iacute;, otro especial. Esta vez es un especial que ser&amp;aacute; legendario: &amp;iexcl;Especial Mitolog&amp;iacute;a!
+Estas son nuestras m&amp;iacute;ticas secciones:
+Mildre nos recomienda una novela:
+00:10:33 - &#34;La chica que se entreg&amp;oacute; al mar&#34; de Axie Oh
+Joy trae un k-drama:
+00:15:19 - Goblin
+Seidon habla de un video-juego.....
+Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
                 
                 
-                <link>https://d34ji3l0qn3w2t.cloudfront.net/1461db0f-068e-4ed4-b8bd-5acf4b42c9fd/1/w_S_202308_05.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://d34ji3l0qn3w2t.cloudfront.net/1461db0f-068e-4ed4-b8bd-5acf4b42c9fd/1/w_S_202308_05.mp3"/>
-                <guid>https://d34ji3l0qn3w2t.cloudfront.net/1461db0f-068e-4ed4-b8bd-5acf4b42c9fd/1/w_S_202308_05.mp3</guid>
+                <link>http://www.ivoox.com/pym-43-hey-hey-peski-especial-mitologia-audios-mp3_rf_109399870_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-43-hey-hey-peski-especial-mitologia_mf_109399870_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/pym-43-hey-hey-peski-especial-mitologia-audios-mp3_rf_109399870_1.html</guid>
                 
             </item>
         </channel>

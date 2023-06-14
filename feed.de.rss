@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 13 Jun 2023 04:21:55 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 14 Jun 2023 04:21:51 +0200</lastBuildDate>
             <item>
-                <title>Thomas Mauch - Mehr als nur Herzog und Kinski</title>
-                <description>In der heutigen Folge wollen wir uns einmal dem bewegten Bild widmen, ist doch Film auch nichts anderes als 24 Standbilder pro Sekunde. Aber im Ernst: Wenn ein Kameramann wie Thomas Mauch aus dem Nähkästchen plaudert, dann ist das so spannend, dass man es auf Sendung bringen muss, auch wenn es ursprünglich nur als Basis für einen Artikel in der Silvergrain Classics gedacht war...
-Feed: https://fz5vy7.podcaster.de/kreativkommune.rss</description>
+                <title>Grundehrlicher Podcast mit Offtopic und der Oldtimerliebe #33</title>
+                <description>SPRACHNOTIZEN ZUM RUNTERSCHALTEN
+Genau so begann alles als ich in diese Szene reingerutscht bin durch den Kauf eines Porsche 924 und mich auf die Suche machte nach Podcast und Webseiten.
+Amadeus sein Podcast ( heutiger Gast ) hat durch seine Rubrik Sharing is caring mir so viele tolle Inspirationen gegeben über die ich sehr Dankbar bin und gemeinsam sprechen wir heute in zwei Teilen ( hier geht es zu seinem Teil : https://anchor...
+Feed: https://anchor.fm/s/c6cbfe0/podcast/rss</description>
                 
                 
-                <link>https://studio.kreativkommune.org/podcast/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fz5vy7.podcaster.de/kreativkommune/media/Podcast_SKK_053.mp3"/>
-                <guid>https://studio.kreativkommune.org/podcast/</guid>
+                <link>https://podcasters.spotify.com/pod/show/dennis-brandt-fotografie/episodes/Grundehrlicher-Podcast-mit-Offtopic-und-der-Oldtimerliebe-33-e25jgs9</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/c6cbfe0/podcast/play/71991625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-11%2F8f5b5c30-1ad1-0bd1-1035-b24847a73876.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/dennis-brandt-fotografie/episodes/Grundehrlicher-Podcast-mit-Offtopic-und-der-Oldtimerliebe-33-e25jgs9</guid>
                 
             </item><item>
-                <title>über die Gasse - Ein Gselchta am Wiener Bierfest 2023</title>
-                <description>Österreichs bierigster Podcast
-Feed: https://der-witzer.at/show/hopfologie/feed/mp3/</description>
+                <title>Zeigler zum DFB-Pokalfinale</title>
+                <description>Mit garantierter Torgarantie!
+Feed: https://www.bremenvier.de/feed/podcast/zeigler-fussball-100.xml</description>
                 
                 
-                <link>https://der-witzer.at/2023/06/hopfologie-ueber-die-gasse-ein-gselchta-am-wiener-bierfest-2023/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://der-witzer.at/podlove/file/2052/s/feed/c/mp3/HP0153.mp3"/>
-                <guid>https://der-witzer.at/2023/06/hopfologie-ueber-die-gasse-ein-gselchta-am-wiener-bierfest-2023/</guid>
+                <link>https://www.bremenvier.de/audios/zeiglers-wunderbare-welt-des-fussballs-482.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rbprogressivedl-a.akamaihd.net/clips/122/122121/122121_00491520_audio_stereo.mp3"/>
+                <guid>https://www.bremenvier.de/audios/zeiglers-wunderbare-welt-des-fussballs-482.html</guid>
                 
             </item>
         </channel>
