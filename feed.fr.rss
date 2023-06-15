@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 Jun 2023 04:21:56 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Jun 2023 04:21:04 +0200</lastBuildDate>
             <item>
-                <title>#130 Je ne réalise pas que je suis enceinte</title>
-                <description>Vous sentez un décalage entre votre état de grossesse, et celui de votre conscience.
-Vous êtes enceinte, mais vous ne vous sentez pas &#34;enceinte&#34;.
-Vous avez du mal à en parler, à assumer ce statut.
-Cela peut s&#39;expliquer par plusieurs raisons, comme des...
-Feed: https://feed.ausha.co/yJkXpTmGWnYr</description>
+                <title>Mariage en vue ? Un collectif de musiciens chrétiens sublime votre célébration</title>
+                <description>deux sujets dans cette émisison : l&#39;animation des cérémonie religieuses de mariage et les retraites spirituelles au Chatelard
+Feed: https://www.rcf.fr/feed/emission/7793</description>
                 
                 
-                <link>https://podcast.ausha.co/un-temps-pour-naitre/13p</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/oK36qf8ZkYDn.mp3?t=1686632088"/>
-                <guid>https://podcast.ausha.co/un-temps-pour-naitre/13p</guid>
+                <link>https://www.rcf.fr/vie-spirituelle/eglises-en-marche?episode=380694</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rcf.proxycast.org/3071740075617300480/podcast.mp3"/>
+                <guid>https://www.rcf.fr/vie-spirituelle/eglises-en-marche?episode=380694</guid>
                 
             </item><item>
-                <title>Entreprendre sans Entreperdre avec Théodule Danmahbenz</title>
-                <description>Dans le podcast il y a des niches, des créneaux et nous on a nos chouchous.
-Parmi eux règnent en maîtres les podcasts sur les entrepreneurs. Parce que tout ce qui manquait à l’obscénité de LinkedIn était bien évidemment une fonction vocale pour parler...
-Feed: https://feed.ausha.co/yAGa3tkz4awP</description>
+                <title>Les Palestiniens et la question palestinienne 4/4 : Géographie, narratif et génération perdue </title>
+                <description>Les Palestiniens et la question palestinienne 4/4 : Géographie, narratif et génération perdue 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10177.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/detournement-de-sons/entreprendre-sans-entreperdre-avec-theodule-danmahbenz</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/yv3ddH6W5Z5Y.mp3?t=1686351156"/>
-                <guid>https://podcast.ausha.co/detournement-de-sons/entreprendre-sans-entreperdre-avec-theodule-danmahbenz</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/geographie-narratif-et-generation-perdue-3354939</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/8ed3954e-a887-40eb-acbd-65327ef1102d/10177-12.06.2023-ITEMA_23408066-2023C26362E0133-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/geographie-narratif-et-generation-perdue-3354939</guid>
                 
             </item>
         </channel>

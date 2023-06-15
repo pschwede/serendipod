@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 Jun 2023 04:22:00 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Jun 2023 04:21:08 +0200</lastBuildDate>
             <item>
-                <title>Música y Letra: Carlos Álvarez - Ópera</title>
-                <description>Andrés Amorós dedica un programa a uno de los mejores cantantes del mundo como barítono y reconocido internacionalmente.
-Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
+                <title>Underground Garage: las 4 canciones que moldearon el rock and roll... Según Stevie</title>
+                <description>
+Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
                 
                 
-                <link>https://esradio.libertaddigital.com/fonoteca/2023-06-10/musica-y-letra-carlos-alvarez-opera-7020515.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/54215488/download.mp3?aw_0_1st.collectionid=musica-y-letra&amp;aw_0_1st.subcat=67"/>
-                <guid>https://esradio.libertaddigital.com/fonoteca/2023-06-10/musica-y-letra-carlos-alvarez-opera-7020515.html</guid>
+                <link>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-las-canciones-que-moldearon-rock-and-roll-segun-stevie-20230612_2281085</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rockfm-cdnmed.agilecontent.com/resources/mp3/6/2/1686558326026.mp3"/>
+                <guid>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-las-canciones-que-moldearon-rock-and-roll-segun-stevie-20230612_2281085</guid>
                 
             </item><item>
-                <title>PYM 43. Hey, hey, Peski | Especial Mitología</title>
-                <description>&amp;iquest;Otro especial? S&amp;iacute;, otro especial. Esta vez es un especial que ser&amp;aacute; legendario: &amp;iexcl;Especial Mitolog&amp;iacute;a!
-Estas son nuestras m&amp;iacute;ticas secciones:
-Mildre nos recomienda una novela:
-00:10:33 - &#34;La chica que se entreg&amp;oacute; al mar&#34; de Axie Oh
-Joy trae un k-drama:
-00:15:19 - Goblin
-Seidon habla de un video-juego.....
-Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
+                <title>Long Play 12/06/2023</title>
+                <description>Playlist: Blondie – Heart Of Glass (Extended Mix) Break Machine – Street Dance (Extended version) Jason Donovan – Too Many Broken Hearts (Extended Mix) Kylie Minogue – Made In Heaven (Made In England Mix) The Communards – Never Can Say Goodbye (San Pau...
+Feed: https://feeds.feedburner.com/RipolletRadioLongPlay</description>
                 
                 
-                <link>http://www.ivoox.com/pym-43-hey-hey-peski-especial-mitologia-audios-mp3_rf_109399870_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-43-hey-hey-peski-especial-mitologia_mf_109399870_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/pym-43-hey-hey-peski-especial-mitologia-audios-mp3_rf_109399870_1.html</guid>
+                <link>https://ripolletradio.cat/2023/06/12/long-play-12-06-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/longplay/radio.ohhhtv.com/2223/longplay/230612longplay.mp3"/>
+                <guid>https://ripolletradio.cat/2023/06/12/long-play-12-06-2023/</guid>
                 
             </item>
         </channel>

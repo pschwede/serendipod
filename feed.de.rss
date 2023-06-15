@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 Jun 2023 04:21:51 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Jun 2023 04:20:59 +0200</lastBuildDate>
             <item>
                 <title>Grundehrlicher Podcast mit Offtopic und der Oldtimerliebe #33</title>
                 <description>SPRACHNOTIZEN ZUM RUNTERSCHALTEN
@@ -23,14 +23,14 @@ Feed: https://anchor.fm/s/c6cbfe0/podcast/rss</description>
                 <guid>https://podcasters.spotify.com/pod/show/dennis-brandt-fotografie/episodes/Grundehrlicher-Podcast-mit-Offtopic-und-der-Oldtimerliebe-33-e25jgs9</guid>
                 
             </item><item>
-                <title>Zeigler zum DFB-Pokalfinale</title>
-                <description>Mit garantierter Torgarantie!
-Feed: https://www.bremenvier.de/feed/podcast/zeigler-fussball-100.xml</description>
+                <title>Der Frosted Games Schreibtischblick 77 (KW 23/23)</title>
+                <description>Der Frosted Games Schreibtischblick 77 (KW 23/23)
+Feed: https://frostedgames.de/feed/schreibtisch/</description>
                 
                 
-                <link>https://www.bremenvier.de/audios/zeiglers-wunderbare-welt-des-fussballs-482.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rbprogressivedl-a.akamaihd.net/clips/122/122121/122121_00491520_audio_stereo.mp3"/>
-                <guid>https://www.bremenvier.de/audios/zeiglers-wunderbare-welt-des-fussballs-482.html</guid>
+                <link>https://frostedgames.de/der-frosted-games-schreibtischblick-77-kw-23-23/2023/06/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://frostedgames.de/podlove/file/201/s/feed/c/schreibtisch/schreibtischeinblick077.mp3"/>
+                <guid>https://frostedgames.de/der-frosted-games-schreibtischblick-77-kw-23-23/2023/06/</guid>
                 
             </item>
         </channel>
