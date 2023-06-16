@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 15 Jun 2023 04:21:04 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 16 Jun 2023 04:21:21 +0200</lastBuildDate>
             <item>
-                <title>Mariage en vue ? Un collectif de musiciens chrétiens sublime votre célébration</title>
-                <description>deux sujets dans cette émisison : l&#39;animation des cérémonie religieuses de mariage et les retraites spirituelles au Chatelard
-Feed: https://www.rcf.fr/feed/emission/7793</description>
+                <title>Livres Audio - ebooks - Eric Hansen - Bande Annonce</title>
+                <description>&lt;p&gt;La publication sur YouTube de la 50e vidéo de la chaîne était l&amp;#39;occasion de vous en dire plus sur ma passion et de vous présenter les projets à venir. Certes, &amp;quot;les murs porteurs&amp;quot; version Spotify sont en sommeil jusqu&amp;#39;à nouvel ordre. En attendant de nouveaux livres audio, je vous invite à vous promener, découvrir, et vous abonner à ma chaîne YouTube afin de continuer à profiter de mes livres audio exclusifs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Pour en savoir plus.....
+Feed: https://anchor.fm/s/1716fa28/podcast/rss</description>
                 
                 
-                <link>https://www.rcf.fr/vie-spirituelle/eglises-en-marche?episode=380694</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rcf.proxycast.org/3071740075617300480/podcast.mp3"/>
-                <guid>https://www.rcf.fr/vie-spirituelle/eglises-en-marche?episode=380694</guid>
+                <link>https://podcasters.spotify.com/pod/show/eric-hansen5/episodes/Livres-Audio---ebooks---Eric-Hansen---Bande-Annonce-e23m1k7</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1716fa28/podcast/play/69977159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-8%2F328285221-44100-2-b42b5295f2939.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/eric-hansen5/episodes/Livres-Audio---ebooks---Eric-Hansen---Bande-Annonce-e23m1k7</guid>
                 
             </item><item>
-                <title>Les Palestiniens et la question palestinienne 4/4 : Géographie, narratif et génération perdue </title>
-                <description>Les Palestiniens et la question palestinienne 4/4 : Géographie, narratif et génération perdue 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10177.xml</description>
+                <title>EP60 Contes quechuas - Le petit veau</title>
+                <description>Ce soir, on découvre que l’expression qui compare l’amour à des papillons dans le ventre est peut-être à prendre au sens littéral. 
+La créature du soir est un glouton pour qui le repas ne s’arrête jamais vraiment. 
+.
+Contes des Soirs Perdus est un podc...
+Feed: https://feed.ausha.co/ypDGASGwEPlZ</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/geographie-narratif-et-generation-perdue-3354939</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/8ed3954e-a887-40eb-acbd-65327ef1102d/10177-12.06.2023-ITEMA_23408066-2023C26362E0133-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/geographie-narratif-et-generation-perdue-3354939</guid>
+                <link>https://podcast.ausha.co/contes-des-soirs-perdus/ep60-contes-quechuas-le-petit-veau</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bzjMPiV49Jvl.mp3?t=1684657186"/>
+                <guid>https://podcast.ausha.co/contes-des-soirs-perdus/ep60-contes-quechuas-le-petit-veau</guid>
                 
             </item>
         </channel>

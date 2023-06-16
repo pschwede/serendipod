@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 15 Jun 2023 04:21:08 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 16 Jun 2023 04:21:25 +0200</lastBuildDate>
             <item>
-                <title>Underground Garage: las 4 canciones que moldearon el rock and roll... Según Stevie</title>
-                <description>
-Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
+                <title>Cheda DJ y Dave de Vicente - Soundbusters 070</title>
+                <description>Los lunes comienza un nuevo programa, con dos grandes @chedadj y @davedevicente que nos traen un programa lleno de muchos estilos, te puedes encontrar Remember, House, Techno, Trance, ah&amp;iacute; para todos los gustos as&amp;iacute; que esc&amp;uacute;chalo y no te lo pierdas en www.digitalmusic.es
+&amp;#128279; Redes Sociales DJs:
+Cheda
+Instagram: @chedadj
+MixCloud: https://www.mixcloud.com/Djcheda/
+Dave de Vicente
+https://linktr...
+Feed: https://de.ivoox.com/en/podcast-digital-music-radio-online_fg_f1112921_filtro_1.xml</description>
                 
                 
-                <link>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-las-canciones-que-moldearon-rock-and-roll-segun-stevie-20230612_2281085</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rockfm-cdnmed.agilecontent.com/resources/mp3/6/2/1686558326026.mp3"/>
-                <guid>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-las-canciones-que-moldearon-rock-and-roll-segun-stevie-20230612_2281085</guid>
+                <link>https://www.ivoox.com/cheda-dj-dave-vicente-soundbusters-audios-mp3_rf_110244873_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cheda-dj-dave-vicente-soundbusters_mf_110244873_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/cheda-dj-dave-vicente-soundbusters-audios-mp3_rf_110244873_1.html</guid>
                 
             </item><item>
-                <title>Long Play 12/06/2023</title>
-                <description>Playlist: Blondie – Heart Of Glass (Extended Mix) Break Machine – Street Dance (Extended version) Jason Donovan – Too Many Broken Hearts (Extended Mix) Kylie Minogue – Made In Heaven (Made In England Mix) The Communards – Never Can Say Goodbye (San Pau...
-Feed: https://feeds.feedburner.com/RipolletRadioLongPlay</description>
+                <title>2023-06-03 Flafri</title>
+                <description>
+Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
                 
                 
-                <link>https://ripolletradio.cat/2023/06/12/long-play-12-06-2023/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/longplay/radio.ohhhtv.com/2223/longplay/230612longplay.mp3"/>
-                <guid>https://ripolletradio.cat/2023/06/12/long-play-12-06-2023/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-06-03Flafri-Salu*.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
