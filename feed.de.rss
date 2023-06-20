@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 19 Jun 2023 04:21:32 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 20 Jun 2023 04:21:34 +0200</lastBuildDate>
             <item>
-                <title>Wie Du wieder hungrig auf das Leben wirst und in Deine Kraft kommst.</title>
-                <description>Antriebslos, energielos und lustlos - So findest Du neue Kraft.
-Feed: https://k4azjs.podcaster.de/licht-und-schatten-podcast.rss</description>
+                <title>Green Shooting</title>
+                <description>Nachhaltigkeit ist das Gebot der Stunde. Nun auch in der Filmproduktion. Sigrid Fischer berichtet, wie das funktionieren soll: &#39;Green Shooting&#39;.
+Feed: https://www1.wdr.de/mediathek/audio/wdr5/wdr5-scala-hintergrund/scala-hintergrund-104.podcast</description>
                 
                 
-                <link>https://www.andrea-hein.de/2023/06/15/109-wie-du-wieder-hungrig-auf-das-leben-wirst-und-in-deine-kraft-kommst/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://k4azjs.podcaster.de/licht-und-schatten-podcast/media/Podcastfolge-Nr-_109_Wie_Du_wieder_hungrig_auf_das_Leben_wirst_und_in_Deine_Kraft_kommst.mp3"/>
-                <guid>https://www.andrea-hein.de/2023/06/15/109-wie-du-wieder-hungrig-auf-das-leben-wirst-und-in-deine-kraft-kommst/</guid>
+                <link>https://www1.wdr.de/mediathek/audio/wdr5/wdr5-scala-hintergrund/audio-green-shooting-102.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/294/2942206/wdr5scalahintergrundkultur_2023-06-19_greenshooting_wdr5.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/wdr5/wdr5-scala-hintergrund/audio-green-shooting-102.html</guid>
                 
             </item><item>
-                <title>Mantra – Energie-Meditation  – Uebungsanleitung als mp3-datei</title>
-                <description>Eine machtvolle Übung, um mittels Mantra, Atem, Visualiserung und Bewusstseinslenkung die Energien der verschiedenen Chakras zu aktivieren, einen harmonischen Energiefluss herzustellen und den Geist in eine tiefe Erfahrung von Ruhe und Stille zu bringe...
-Feed: https://blog.yoga-vidya.de/category/multimedia/podcasts/meditationsanleitung/feed/</description>
+                <title>Der Solarfreund vom Simmental</title>
+                <description>Bergbauer Christian Haueter will eine riesige Solar­anlage in die Hänge bauen. Kann das gut gehen?
+Feed: https://republik-vorgelesen.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://blog.yoga-vidya.de/mantra-energie-meditation-uebungsanleitung-als-mp3-datei/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mantra-energie-meditation-uebungsanleitung-als-mp3-datei</link>
-                <enclosure type="audio/mpeg" length="1" url="https://jkv3wg.podcaster.de/download/13_Mantra_Energie_Meditation.mp3"/>
-                <guid>https://blog.yoga-vidya.de/mantra-energie-meditation-uebungsanleitung-als-mp3-datei/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mantra-energie-meditation-uebungsanleitung-als-mp3-datei</guid>
+                <link>https://republik-vorgelesen.podigee.io/131-solarnalage-simmental-bern-klima</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1135976-m-62a5ed31099739b57b9b6bd77ed4eae7.mp3?source=feed"/>
+                <guid>https://republik-vorgelesen.podigee.io/131-solarnalage-simmental-bern-klima</guid>
                 
             </item>
         </channel>
