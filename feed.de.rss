@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 20 Jun 2023 04:21:34 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 Jun 2023 04:21:20 +0200</lastBuildDate>
             <item>
-                <title>Green Shooting</title>
-                <description>Nachhaltigkeit ist das Gebot der Stunde. Nun auch in der Filmproduktion. Sigrid Fischer berichtet, wie das funktionieren soll: &#39;Green Shooting&#39;.
-Feed: https://www1.wdr.de/mediathek/audio/wdr5/wdr5-scala-hintergrund/scala-hintergrund-104.podcast</description>
+                <title>#159 Goldenes Lametta </title>
+                <description>Almut will nichts herstellen und kürt das Wort der Woche; Julian sucht Wortwitze und quietscht. 
+
+Feed: https://anchor.fm/s/1440a718/podcast/rss</description>
                 
                 
-                <link>https://www1.wdr.de/mediathek/audio/wdr5/wdr5-scala-hintergrund/audio-green-shooting-102.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/294/2942206/wdr5scalahintergrundkultur_2023-06-19_greenshooting_wdr5.mp3"/>
-                <guid>https://www1.wdr.de/mediathek/audio/wdr5/wdr5-scala-hintergrund/audio-green-shooting-102.html</guid>
+                <link>https://podcasters.spotify.com/pod/show/starke-starke/episodes/159-Goldenes-Lametta-e25pbh2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1440a718/podcast/play/72182754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F1440a718%2F72182754%2F3e2ac69d24d0e38294af21aab95fcbf8.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/starke-starke/episodes/159-Goldenes-Lametta-e25pbh2</guid>
                 
             </item><item>
-                <title>Der Solarfreund vom Simmental</title>
-                <description>Bergbauer Christian Haueter will eine riesige Solar­anlage in die Hänge bauen. Kann das gut gehen?
-Feed: https://republik-vorgelesen.podigee.io/feed/mp3</description>
+                <title>Good Boy - über die Lust an Dominanz und Hingabe</title>
+                <description>Alle 50 Folgen passiert etwas Außergewöhnliches bei Lê Mariables. Dann fliegt ein Sternschnuppie vorbei und aus der seltenen wie magischen Konstellation wird in einer geheimen Supernova eine ganz besondere Folge geboren. Das scheint nur angemessen für die 100. Folge, dachten sich Lê und Maria und luden ihre fabelhafte Gästin Mai zum Plausch ein...
+Feed: https://vczc9c.podcaster.de/lemariable.rss</description>
                 
                 
-                <link>https://republik-vorgelesen.podigee.io/131-solarnalage-simmental-bern-klima</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1135976-m-62a5ed31099739b57b9b6bd77ed4eae7.mp3?source=feed"/>
-                <guid>https://republik-vorgelesen.podigee.io/131-solarnalage-simmental-bern-klima</guid>
+                <link>https://vczc9c.podcaster.de/lemariable/good-boy-ueber-die-lust-an-dominanz-und-hingabe/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://vczc9c.podcaster.de/lemariable/media/100_LeMariabeles_Dominanz_Hingabe_Mai.mp3"/>
+                <guid>https://vczc9c.podcaster.de/lemariable/good-boy-ueber-die-lust-an-dominanz-und-hingabe/</guid>
                 
             </item>
         </channel>
