@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 21 Jun 2023 04:21:24 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 22 Jun 2023 04:21:15 +0200</lastBuildDate>
             <item>
-                <title>Trance Conference #540#</title>
-                <description>Plus d&#39;info sur notre site
-Feed: https://podcast.pulsradio.com/TranceConference/podcast.xml</description>
-                
-                
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/TranceConference/20230618/TranceConference_20230618.mp3"/>
-                <guid></guid>
-                
-            </item><item>
                 <title>S07#07 Hugo Sialelli, Brasserie Pietra</title>
                 <description>La Corse. 300 000 habitants l’hiver. 3 millions l’été. Si la région est réputée depuis toujours pour ses vins, sa charcuterie ou son fromage, elle ne l’était pas pour sa bière. Et pour cause : jusqu’en 1996, il n’y avait pas de brasserie sur l’Île de B...
 Feed: https://feed.ausha.co/2B60pSpE9VOy</description>
@@ -29,6 +19,23 @@ Feed: https://feed.ausha.co/2B60pSpE9VOy</description>
                 <link>https://podcast.ausha.co/podcapsuleur/pietra</link>
                 <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/y0Rgu6L0EkEB.mp3?t=1686263408"/>
                 <guid>https://podcast.ausha.co/podcapsuleur/pietra</guid>
+                
+            </item><item>
+                <title>CQEP - 141 - La course MotoGP du Sachsenring (ALL)</title>
+                <description>Salut à toutes et à tous, 
+Ophélie et Olivier débriefent ce week end de courses disputées en Allemagne.
+Ducati, à nouveau à la fête, c&#39;est cette fois ci Martin qui fait carton plein, Bagnaia prend 2 belles 2èmes places et Zarco ponctue ce solide weekend par un podium dimanche.
+Alex Marquez quand à lui a souffert tout le weekend, beaucoup de chutes pour le pilote Honda.
+Prochain arrêt Assen
+Bonne écoute
+Twitter: @cqep_pod 
+Discord: https://discord...
+Feed: https://cqeppod.lepodcast.fr/rss</description>
+                
+                
+                <link>https://cqeppod.lepodcast.fr/cqep-141-la-course-motogp-du-sachsenring-all</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/cqeppod/cqep-141-la-course-motogp-du-sachsenring-all/enclosure.2962f8532f5892d28aca23da4c8783ecd205310bc441a531b7f1436c387944f6.mp3?p=f"/>
+                <guid>https://cqeppod.lepodcast.fr/cqep-141-la-course-motogp-du-sachsenring-all</guid>
                 
             </item>
         </channel>
