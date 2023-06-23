@@ -9,33 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 22 Jun 2023 04:21:15 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 23 Jun 2023 04:25:07 +0200</lastBuildDate>
             <item>
-                <title>S07#07 Hugo Sialelli, Brasserie Pietra</title>
-                <description>La Corse. 300 000 habitants l’hiver. 3 millions l’été. Si la région est réputée depuis toujours pour ses vins, sa charcuterie ou son fromage, elle ne l’était pas pour sa bière. Et pour cause : jusqu’en 1996, il n’y avait pas de brasserie sur l’Île de B...
-Feed: https://feed.ausha.co/2B60pSpE9VOy</description>
+                <title>#89 - Mathieu Giudicelli, force et détermination - Apprendre à danser sous la pluie</title>
+                <description>Petit Montpellierain biberonné à la culture Corse, Mathieu est l&#39;ainé d&#39;une fratrie de 4 garçons. Tout jeune, il commence le rugby au MHR et fait rapidement montre de belles dispositions !
+Retenu dans toutes les équipes de France Jeunes, il fait ses pr...
+Feed: https://feed.ausha.co/yv1mvfdd4lr2</description>
                 
                 
-                <link>https://podcast.ausha.co/podcapsuleur/pietra</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/y0Rgu6L0EkEB.mp3?t=1686263408"/>
-                <guid>https://podcast.ausha.co/podcapsuleur/pietra</guid>
+                <link>https://podcast.ausha.co/la-cravate/mathieu-giudicelli</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B6YlviO2r3nR.mp3?t=1686793035"/>
+                <guid>https://podcast.ausha.co/la-cravate/mathieu-giudicelli</guid>
                 
             </item><item>
-                <title>CQEP - 141 - La course MotoGP du Sachsenring (ALL)</title>
-                <description>Salut à toutes et à tous, 
-Ophélie et Olivier débriefent ce week end de courses disputées en Allemagne.
-Ducati, à nouveau à la fête, c&#39;est cette fois ci Martin qui fait carton plein, Bagnaia prend 2 belles 2èmes places et Zarco ponctue ce solide weekend par un podium dimanche.
-Alex Marquez quand à lui a souffert tout le weekend, beaucoup de chutes pour le pilote Honda.
-Prochain arrêt Assen
-Bonne écoute
-Twitter: @cqep_pod 
-Discord: https://discord...
-Feed: https://cqeppod.lepodcast.fr/rss</description>
+                <title>John Dowland, musicien mélancolique, mais pas que...</title>
+                <description>John Dowland, musicien mélancolique, mais pas que...
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14498.xml</description>
                 
                 
-                <link>https://cqeppod.lepodcast.fr/cqep-141-la-course-motogp-du-sachsenring-all</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/cqeppod/cqep-141-la-course-motogp-du-sachsenring-all/enclosure.2962f8532f5892d28aca23da4c8783ecd205310bc441a531b7f1436c387944f6.mp3?p=f"/>
-                <guid>https://cqeppod.lepodcast.fr/cqep-141-la-course-motogp-du-sachsenring-all</guid>
+                <link>http://www.francemusique.fr/emission/musicopolis</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/5690509b-6d07-4580-a157-0b9624075bf4/14498-22.06.2023-ITEMA_23419084-2021M23884E0022-21.mp3"/>
+                <guid>http://www.francemusique.fr/emission/musicopolis</guid>
                 
             </item>
         </channel>
