@@ -9,27 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 23 Jun 2023 04:25:07 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 24 Jun 2023 04:24:48 +0200</lastBuildDate>
             <item>
-                <title>#89 - Mathieu Giudicelli, force et détermination - Apprendre à danser sous la pluie</title>
-                <description>Petit Montpellierain biberonné à la culture Corse, Mathieu est l&#39;ainé d&#39;une fratrie de 4 garçons. Tout jeune, il commence le rugby au MHR et fait rapidement montre de belles dispositions !
-Retenu dans toutes les équipes de France Jeunes, il fait ses pr...
-Feed: https://feed.ausha.co/yv1mvfdd4lr2</description>
+                <title>BONUS - Titanic : les dernières heures de l&#39;insubmersible...</title>
+                <description>Suite à la disparition du sous-marin Titan, Laurent Deutsch vous invite à monter à bord du Titanic, le plus grand, le plus majestueux et peut-être le plus célèbre navire qui a jamais existé. Dans cet épisode, découvrez aussi la tragique histoire d&#39;amour d&#39;Isidor et...
+Feed: https://feeds.audiomeans.fr/feed/971b31f2-42d6-4d41-95ee-1c0554528483.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/la-cravate/mathieu-giudicelli</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B6YlviO2r3nR.mp3?t=1686793035"/>
-                <guid>https://podcast.ausha.co/la-cravate/mathieu-giudicelli</guid>
+                <link>https://www.rtl.fr/programmes/entrez-dans-l-histoire</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rtl.proxycast.org/3076870574417391616/cd2253de-5826-4580-8dbd-a51c3697e1e3.mp3?u=FbteVXJUvY&amp;_=1687513382"/>
+                <guid>https://www.rtl.fr/programmes/entrez-dans-l-histoire</guid>
                 
             </item><item>
-                <title>John Dowland, musicien mélancolique, mais pas que...</title>
-                <description>John Dowland, musicien mélancolique, mais pas que...
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14498.xml</description>
+                <title>Algérie, Raï et Méhari avec Rabah Mezouane et Mohamed Lamouri</title>
+                <description>
+Le label français Born Bad Records sort une compilation de raï oranais « À Moi La Liberté, 83-90, Early Electronic Raï ». Rabah Mezouane, auteur du livret raconte ces années folles et électriques. Puis la #SessionLive reçoit Mohamed Lamouri pour la sort…
+Feed: https://www.rfi.fr/fr/podcasts/musiques-monde/podcast</description>
                 
                 
-                <link>http://www.francemusique.fr/emission/musicopolis</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/5690509b-6d07-4580-a157-0b9624075bf4/14498-22.06.2023-ITEMA_23419084-2021M23884E0022-21.mp3"/>
-                <guid>http://www.francemusique.fr/emission/musicopolis</guid>
+                <link>https://www.rfi.fr/fr/podcasts/musiques-du-monde/20230618-alg%C3%A9rie-ra%C3%AF-et-m%C3%A9hari-avec-rabah-mezouane-et-mohamed-lamouri</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB904-RFI-FR-20090930%7CMusiques%2520du%2520monde&amp;l3=WBMZ294715-RFI-FR-20230616%7CAlg%25C3%25A9rie%252C%2520Ra%25C3%25AF%2520et%2520M%25C3%25A9hari%2520avec%2520Rabah%2520Mezouane%2520et%2520Mohamed%2520Lamouri&amp;l4=podcast-rfi&amp;media_url="/>
+                <guid>https://www.rfi.fr/fr/podcasts/musiques-du-monde/20230618-alg%C3%A9rie-ra%C3%AF-et-m%C3%A9hari-avec-rabah-mezouane-et-mohamed-lamouri</guid>
                 
             </item>
         </channel>
