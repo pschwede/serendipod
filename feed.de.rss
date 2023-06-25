@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 24 Jun 2023 04:24:43 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 25 Jun 2023 04:24:33 +0200</lastBuildDate>
             <item>
-                <title>&#34;Hamburg Decks&#34;: ein Mannschaftshaus für alle entsteht</title>
-                <description>Was war heute in Hamburg los? Maiken Nielsen und Ole Wackermann werfen im wöchentlichen Wechsel zum Tagesende einen Blick auf die News und das aktuelle Stadtgeschehen. Das sind die Nachrichten und Themen mit Maiken Nielsen am Freitag, 23. Juni 2023:
-+++GRUNER+JAHR AM HAFEN SOLL MARKTHALLE WERDEN+++
-Eine große Markthalle, Wohnungen und Büros: Das soll aus dem Verlagsgebäude am Hamburger Baumwall werden, nachdem der Verlag Gruner+Jahr ausgezogen ist. Geplanter Umbau-Beginn ist im kommenden Jahr...
-Feed: https://www.ndr.de/903/podcast4778.xml</description>
+                <title>124. Börsenneuling IONOS im ES-Interview, mit CFO Britta Schmidt</title>
+                <description>Die Wachstumsmärkte der Webhoster
+Feed: https://effecten-spiegel-podcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.ndr.de/903/podcasts/Hamburg-Decks-ein-Mannschaftshaus-fuer-alle-entsteht,audio1408550.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4778/AU-20230623-1647-3900.mp3"/>
-                <guid>https://www.ndr.de/903/podcasts/Hamburg-Decks-ein-Mannschaftshaus-fuer-alle-entsteht,audio1408550.html</guid>
+                <link>https://effecten-spiegel-podcast.podigee.io/126-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1127478-m-907c9e4029c8187f88eb5d0c322a2f08.mp3?source=feed"/>
+                <guid>https://effecten-spiegel-podcast.podigee.io/126-new-episode</guid>
                 
             </item><item>
-                <title>Deine Beziehungsbotschaft für dich</title>
-                <description>Beziehungen stärken, Partnerschaft, Liebe, Kommuniktion, Selbstreflexion, Wachstum, Beziehung meistern, Selbstliebe, persönliche Entwicklung, Motivation, Spiritualität, Inspiration, Balance finden, Wohlbefinden,
-Feed: https://z4y4h8.podcaster.de/sabrinabarner.rss</description>
+                <title>Kinderernährung: Was hilft bei Picky Eatern?!</title>
+                <description>Hilfe, mein Kind isst nur Schoko, Schoko, Schoko all day Long
+Feed: https://hi-baby-der-mamapodcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://z4y4h8.podcaster.de/sabrinabarner/deine-beziehungsbotschaft-fuer-dich/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://z4y4h8.podcaster.de/sabrinabarner/media/Beziehungsbotschaft.mp3"/>
-                <guid>https://z4y4h8.podcaster.de/sabrinabarner/deine-beziehungsbotschaft-fuer-dich/</guid>
+                <link>https://hi-baby-der-mamapodcast.podigee.io/132-ernaehrungstipps-kind</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1141438-m-399575b2cde4850ddc258d071f0b9842.mp3?source=feed"/>
+                <guid>https://hi-baby-der-mamapodcast.podigee.io/132-ernaehrungstipps-kind</guid>
                 
             </item>
         </channel>
