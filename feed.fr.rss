@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 26 Jun 2023 04:25:38 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 27 Jun 2023 04:24:58 +0200</lastBuildDate>
             <item>
-                <title>Retour à la vie éphémère (Ephemeral Return to Life)</title>
-                <description>Une femme équatorienne est décédée quelques jours après que les personnes en deuil à ses funérailles aient été choquées de la trouver vivante dans son cercueil.
-Feed: https://feeds.megaphone.fm/FODL4957050068</description>
+                <title>ZQSD #92 - itw avec Atelier QDB pour Decarnation, Zelda ToTK, Warhammer 40000 Boltgun</title>
+                <description>Decarnation, Zelda ToTK, Warhammer 40000 Boltgun
+Feed: http://zqsd.fr/zqsd.xml</description>
+                
+                
+                <link>http://feeds.soundcloud.com/stream/1547961049-zqsd-1-zqsd92.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://feeds.soundcloud.com/stream/1547961049-zqsd-1-zqsd92.mp3"/>
+                <guid>http://feeds.soundcloud.com/stream/1547961049-zqsd-1-zqsd92.mp3</guid>
+                
+            </item><item>
+                <title>Marilyn Monroe et John Fitzgerald Kennedy : joyeux anniversaire, Monsieur le Président (3/4)</title>
+                <description>C’est une histoire digne de Roméo et Juliette. L’actrice Marilyn Monroe et le président des Etats-Unis John Fitzgerald Kennedy, deux icônes américaines, auraient eu une liaison dans les années 1960. Mais cette relation a-t-elle jamais existé ? Tout diffère, selon les dires, les films, les documentaires… Entre le mythe idéalisé et la réalité, il faut trancher...
+Feed: https://feeds.megaphone.fm/BABA7112846821</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/FODL2408854887.mp3?updated=1687483313"/>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA5529573386.mp3?updated=1686933113"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Le chèvrefeuille: pour éliminer les toxines et les regrets</title>
-                <description>Le chèvrefeuille est un arbuste grimpant de la famille des Caprifoliacées. Il pousse à l’état 
-sauvage dans presque toute l’Europe. Il est très répandu dans les jardins en raison de son 
-agréable parfum lorsqu’il est fleuri. Il dispose également de ver...
-Feed: https://feed.ausha.co/BNgz0ha3PApO</description>
-                
-                
-                <link>https://podcast.ausha.co/secrets-de-plantes/le-chevrefeuille-pour-eliminer-les-toxines-et-les-regrets</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bVa8ZHl8We5d.mp3?t=1687605228"/>
-                <guid>https://podcast.ausha.co/secrets-de-plantes/le-chevrefeuille-pour-eliminer-les-toxines-et-les-regrets</guid>
                 
             </item>
         </channel>
