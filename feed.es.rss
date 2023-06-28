@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 27 Jun 2023 04:25:05 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 28 Jun 2023 04:25:07 +0200</lastBuildDate>
             <item>
-                <title>No Anem Enlloc 1×15 – Fiji</title>
-                <description>Aquest va del sistema mètric internacional, de muts i de sords.
-Feed: https://xrcb.cat/subscribirse-a-podcast/?id=2115</description>
+                <title>Irlanda del Norte: el acuerdo del Viernes Santo</title>
+                <description>Uno de los procesos de paz más complejos y difíciles de lograr fue el de Irlanda del Norte. En este relato les narramos una historia de una guerra que no sabemos determinar cuándo empezó, pero sí sabemos cuándo terminó. Hablamos de las diversas...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link>https://xrcb.cat/ca/podcast/no-anem-enlloc-1x15-fiji/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://xrcb.cat/wp-content/uploads/2023/06/1x15-Fiji_audiofinal.mp3"/>
-                <guid>https://xrcb.cat/ca/podcast/no-anem-enlloc-1x15-fiji/</guid>
+                <link>https://www.dianauribe.fm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Irlanda_del_Norte-_el_acuerdo_del_Viernes_Santo.mp3?dest-id=844493"/>
+                <guid>https://www.dianauribe.fm</guid>
                 
             </item><item>
-                <title>Noosfera 150.El futuro de la energía | Alfredo García y Marcial González</title>
-                <description>Uno de los temas más candentes de la actualidad es la energía. Y, aunque todos estamos de acuerdo en que debemos prescindir de los combustibles fósiles en la medida de lo posible, parece que existen dudas acerca de las energías nucleares y renovables....
-Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
+                <title>XII Domingo del Tiempo Ordinario (A)</title>
+                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Mateo 10, 26-33. Gloria a ti, Señor. En aquel tiempo, Jesús dijo a sus apóstoles: &amp;#8230;
+Feed: http://feed.quechilero.com/PodcastCatedralDeEscuintla</description>
                 
                 
-                <link>https://www.spreaker.com/user/12512368/noosfera-150</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/54836225/noosfera_150.mp3"/>
-                <guid>https://www.spreaker.com/user/12512368/noosfera-150</guid>
+                <link>https://catedraldeescuintla.com/xii-domingo-del-tiempo-ordinario-a-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://catedraldeescuintla.com/podcast-download/7737/xii-domingo-del-tiempo-ordinario-a-2023.mp3"/>
+                <guid>https://catedraldeescuintla.com/xii-domingo-del-tiempo-ordinario-a-2023/</guid>
                 
             </item>
         </channel>
