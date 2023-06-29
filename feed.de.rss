@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 28 Jun 2023 04:24:56 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 29 Jun 2023 04:24:46 +0200</lastBuildDate>
             <item>
-                <title>#269 Was Männer kosten: Der hohe Preis von Geschlechterrollen</title>
-                <description>Interview mit Wirtschaftswissenschaftler Boris von Heesen
-Feed: https://femaleleadership-podcast.podigee.io/feed/mp3</description>
+                <title>Ferien im Ausland – Die aktuellen Roaming-Regeln</title>
+                <description>Ferien in Nordrhein-Westfalen. Und das Handy ist meistens auch dabei. Ob am Baggersee, auf der Wandertour oder beim Städtetrip – in Deutschland ist das mit dem jeweils gebuchten Mobilfunktarif ganz einfach. Aber im Ausland muss man schon auf ein paar Dinge achten. Stichwort &#34;Roaming&#34;.
+Feed: https://www1.wdr.de/mediathek/audio/wdr4/kuttler-digital/kuttler-digital-122.podcast</description>
                 
                 
-                <link>https://female-leadership-academy.de/podcast/episode-269-was-manner-kosten/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1143614-m-14ce538efe3d94ebc0468dba6f1096e5.mp3?source=feed"/>
-                <guid>https://female-leadership-academy.de/podcast/episode-269-was-manner-kosten/</guid>
+                <link>https://www1.wdr.de/mediathek/audio/wdr4/kuttler-digital/audio-ferien-im-ausland--die-aktuellen-roaming-regeln-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/294/2944459/wdr4kuttlerdigital_2023-06-21_ferienimauslanddieaktuellenroamingregeln_wdr4.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/wdr4/kuttler-digital/audio-ferien-im-ausland--die-aktuellen-roaming-regeln-100.html</guid>
                 
             </item><item>
-                <title>PCGC Podcast 260 - Erst kommt der Loot, dann die Moral</title>
-                <description>&lt;p&gt;Der Sommer ist da! Folgerichtig widmen wir uns ausführlich dem Thema Videospiele. Kristina, Tobi und Lukas sprechen über die Nicht-E3 Shows. Im Fokus sind dabei das XBOX Showcase inklusive Starfield Direct sowie die Ubisoft Forward. Was waren die High- und Lowlights? Im Anschluss sprechen wir mit Jan über Diablo 4, das er ausführlich gespielt hat...
-Feed: https://anchor.fm/s/5dd5e190/podcast/rss</description>
+                <title>Immer Hertha – Sommertour Vol. 1</title>
+                <description>Der Bundesliga-Podcast der Berliner Morgenpost
+Feed: https://cdn.julephosting.de/podcasts/234-immer-hertha/feed.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/pcgc-podcast/episodes/PCGC-Podcast-260---Erst-kommt-der-Loot--dann-die-Moral-e26469p</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/5dd5e190/podcast/play/72537849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-23%2F30e33b82-38b3-3874-c197-38845ea3950f.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/pcgc-podcast/episodes/PCGC-Podcast-260---Erst-kommt-der-Loot--dann-die-Moral-e26469p</guid>
+                <link>https://www.morgenpost.de/podcast/immer-hertha/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.julephosting.de/podcasts/234-immer-hertha/105170-new-episode.mp3?v=1"/>
+                <guid>https://www.morgenpost.de/podcast/immer-hertha/</guid>
                 
             </item>
         </channel>

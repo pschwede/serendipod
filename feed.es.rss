@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 28 Jun 2023 04:25:07 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 29 Jun 2023 04:24:57 +0200</lastBuildDate>
             <item>
-                <title>Irlanda del Norte: el acuerdo del Viernes Santo</title>
-                <description>Uno de los procesos de paz más complejos y difíciles de lograr fue el de Irlanda del Norte. En este relato les narramos una historia de una guerra que no sabemos determinar cuándo empezó, pero sí sabemos cuándo terminó. Hablamos de las diversas...
-Feed: https://dianauribefm.libsyn.com/rss</description>
+                <title>435.- Todos sufrimos el síndrome del objeto brillante y la IA lo demuestra.￼</title>
+                <description>Hola, bienvenidos y bienvenidas un día más a las “Guías Tecnológicas de cinco minutos de Simple Informática”. Yo soy Pedro Vicente y como todas las semanas, como todos los martes, intento contestar preguntas que nos hacen nuestros clientes,
+Feed: https://simpleinformatica.es/feed/podcast</description>
                 
                 
-                <link>https://www.dianauribe.fm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Irlanda_del_Norte-_el_acuerdo_del_Viernes_Santo.mp3?dest-id=844493"/>
-                <guid>https://www.dianauribe.fm</guid>
+                <link>https://www.simpleinformatica.es/435-todos-sufrimos-el-sindrome-del-objeto-brillante-y-la-ia-lo-demuestra-%ef%bf%bc/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.simpleinformatica.es/wp-content/uploads/pedro/435correovsredes.mp3"/>
+                <guid>https://www.simpleinformatica.es/435-todos-sufrimos-el-sindrome-del-objeto-brillante-y-la-ia-lo-demuestra-%ef%bf%bc/</guid>
                 
             </item><item>
-                <title>XII Domingo del Tiempo Ordinario (A)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Mateo 10, 26-33. Gloria a ti, Señor. En aquel tiempo, Jesús dijo a sus apóstoles: &amp;#8230;
-Feed: http://feed.quechilero.com/PodcastCatedralDeEscuintla</description>
+                <title>No es tema 34: Los caminos de la vida</title>
+                <description>&amp;iexcl;As&amp;iacute; es! nunca nos fuimos y estamos aqu&amp;iacute; presentando nuestro nuevo episodio de su podcast favorito, no es que no hayamos querido grabar sino que los caminos de la vida no son como nosotros pensabamos, por eso les preguntamos compas: &amp;iquest;que les parece este podcast?
+Que lo disfruten!
+Feed: https://www.ivoox.com/select-start-podcast_fg_f1143962_filtro_1.xml</description>
                 
                 
-                <link>https://catedraldeescuintla.com/xii-domingo-del-tiempo-ordinario-a-2023/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://catedraldeescuintla.com/podcast-download/7737/xii-domingo-del-tiempo-ordinario-a-2023.mp3"/>
-                <guid>https://catedraldeescuintla.com/xii-domingo-del-tiempo-ordinario-a-2023/</guid>
+                <link>https://www.ivoox.com/no-es-tema-34-los-caminos-la-audios-mp3_rf_109560873_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/no-es-tema-34-los-caminos-la_mf_109560873_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/no-es-tema-34-los-caminos-la-audios-mp3_rf_109560873_1.html</guid>
                 
             </item>
         </channel>
