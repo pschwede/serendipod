@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 29 Jun 2023 04:24:46 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 30 Jun 2023 04:23:55 +0200</lastBuildDate>
             <item>
-                <title>Ferien im Ausland – Die aktuellen Roaming-Regeln</title>
-                <description>Ferien in Nordrhein-Westfalen. Und das Handy ist meistens auch dabei. Ob am Baggersee, auf der Wandertour oder beim Städtetrip – in Deutschland ist das mit dem jeweils gebuchten Mobilfunktarif ganz einfach. Aber im Ausland muss man schon auf ein paar Dinge achten. Stichwort &#34;Roaming&#34;.
-Feed: https://www1.wdr.de/mediathek/audio/wdr4/kuttler-digital/kuttler-digital-122.podcast</description>
+                <title>#96 So kam ich zur meiner Passion: ENERGIEARBEIT Interview mit Sabine Wischnevsky</title>
+                <description>In LIEBE loslassen
+Feed: https://knochenmarc.podcaster.de/daslebenlehrt.rss</description>
                 
                 
-                <link>https://www1.wdr.de/mediathek/audio/wdr4/kuttler-digital/audio-ferien-im-ausland--die-aktuellen-roaming-regeln-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/294/2944459/wdr4kuttlerdigital_2023-06-21_ferienimauslanddieaktuellenroamingregeln_wdr4.mp3"/>
-                <guid>https://www1.wdr.de/mediathek/audio/wdr4/kuttler-digital/audio-ferien-im-ausland--die-aktuellen-roaming-regeln-100.html</guid>
+                <link>https://knochenmarc.podcaster.de/daslebenlehrt/media/Interview_mit_Sabine.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://knochenmarc.podcaster.de/daslebenlehrt/media/Interview_mit_Sabine.mp3"/>
+                <guid>https://knochenmarc.podcaster.de/daslebenlehrt/media/Interview_mit_Sabine.mp3</guid>
                 
             </item><item>
-                <title>Immer Hertha – Sommertour Vol. 1</title>
-                <description>Der Bundesliga-Podcast der Berliner Morgenpost
-Feed: https://cdn.julephosting.de/podcasts/234-immer-hertha/feed.rss</description>
+                <title>Verkaufsdruck beim DAX, zudem Siemens Energy, VW und SMA Solar</title>
+                <description>S&amp;P500, Nasdaq und DAX geben nach Höhenflug nach
+Feed: https://letscast.fm/podcasts/euer-egmond-von-bnp-paribas-zertifikate-cdd7b847/feed</description>
                 
                 
-                <link>https://www.morgenpost.de/podcast/immer-hertha/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.julephosting.de/podcasts/234-immer-hertha/105170-new-episode.mp3?v=1"/>
-                <guid>https://www.morgenpost.de/podcast/immer-hertha/</guid>
+                <link>https://www.derivate.bnpparibas.com/service/sendungen/euer-egmond</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/cdd7b847/episode/4c82a632.mp3?t=1687895209"/>
+                <guid>https://www.derivate.bnpparibas.com/service/sendungen/euer-egmond</guid>
                 
             </item>
         </channel>
