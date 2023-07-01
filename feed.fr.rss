@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 30 Jun 2023 04:24:00 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 01 Jul 2023 04:24:00 +0200</lastBuildDate>
             <item>
-                <title>Trance Conference #540#</title>
-                <description>Plus d&#39;info sur notre site
-Feed: https://podcast.pulsradio.com/TranceConference/podcast.xml</description>
+                <title>No Border #491#</title>
+                <description>No Border du 18 juin 2023
+Feed: https://podcast.pulsradio.com/NoBorder/podcast.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/TranceConference/20230618/TranceConference_20230618.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/NoBorder/20230618/NoBorder_20230618.mp3"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Cynic - Refocus</title>
-                <description>&lt;p&gt;Lorsque cette ovni a atterrit sur ma platine CD dans le courant des années 1990, ma vision du metal et de la musique a été bouleversé à tout jamais. Cynic est un groupe de death metal issue de la scène floridienne, de Tampa plus précisément, lieu mythique pour ce genre particulièrement riche qui a vu naître toutes les grandes formations du style (Death, Morbid Angel, Obituary, Nocturnus, Atheist...)...
-Feed: https://anchor.fm/s/cbd8cb6c/podcast/rss</description>
+                <title>ZQSD #92 - itw avec Atelier QDB pour Decarnation, Zelda ToTK, Warhammer 40000 Boltgun</title>
+                <description>Decarnation, Zelda ToTK, Warhammer 40000 Boltgun
+Feed: http://zqsd.fr/zqsd.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/1jour1album/episodes/Cynic---Refocus-e25hbqc</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/cbd8cb6c/podcast/play/71920908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-10%2F2c185681-f71e-647d-2811-ea730265fe13.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/1jour1album/episodes/Cynic---Refocus-e25hbqc</guid>
+                <link>http://feeds.soundcloud.com/stream/1547961049-zqsd-1-zqsd92.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://feeds.soundcloud.com/stream/1547961049-zqsd-1-zqsd92.mp3"/>
+                <guid>http://feeds.soundcloud.com/stream/1547961049-zqsd-1-zqsd92.mp3</guid>
                 
             </item>
         </channel>

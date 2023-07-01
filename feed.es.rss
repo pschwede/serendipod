@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 30 Jun 2023 04:24:06 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 01 Jul 2023 04:24:06 +0200</lastBuildDate>
             <item>
-                <title>180 grados - Sampha, Benee ft. Mallrat y Crystal Fighters - 29/06/23</title>
-                <description>Sampha, Benee ft. Mallrat y Crystal Fighters
-Feed: http://api.rtve.es/api/programas/22270/audios.rss</description>
+                <title>Rincón Sportinguista 520 #PodcastSportinguista</title>
+                <description>Programa con @JaviMelero77 @AlejandroJamart @TinvsPilvs y Mon donde analizamos la vergonzosa derrota del Sporting por 1-4 contra la Ponferradina en El Molin&amp;oacute;n.
+Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/180/sampha-benee-ft-mallrat-crystal-fighters-29-06-23/6924412/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_S180GRA/mp3/3/7/1688043449173.mp3"/>
-                <guid>https://www.rtve.es/play/audios/180/sampha-benee-ft-mallrat-crystal-fighters-29-06-23/6924412/</guid>
+                <link>https://www.ivoox.com/rincon-sportinguista-520-podcastsportinguista-audios-mp3_rf_109208019_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-520-podcastsportinguista_mf_109208019_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/rincon-sportinguista-520-podcastsportinguista-audios-mp3_rf_109208019_1.html</guid>
                 
             </item><item>
-                <title>Irlanda del Norte: el acuerdo del Viernes Santo</title>
-                <description>Uno de los procesos de paz más complejos y difíciles de lograr fue el de Irlanda del Norte. En este relato les narramos una historia de una guerra que no sabemos determinar cuándo empezó, pero sí sabemos cuándo terminó. Hablamos de las diversas...
-Feed: https://dianauribefm.libsyn.com/rss</description>
+                <title>La Traginera 04</title>
+                <description>La Traginera – Comunalitat de Ciutat Vella ofereix un programa a la ciutadania per donar visibilitat a les iniciatives, projectes i col·lectius que trobem als barris del districte. Expliquen les bones pràctiques i referències amb relació als béns comuns urbans que poden ser serveis, recursos o espais per saber l’ús i gestió que li podem donar. Promouen l’empoderament de la comunitat.
+Feed: https://xrcb.cat/subscribirse-a-podcast/?id=5919</description>
                 
                 
-                <link>https://www.dianauribe.fm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Irlanda_del_Norte-_el_acuerdo_del_Viernes_Santo.mp3?dest-id=844493"/>
-                <guid>https://www.dianauribe.fm</guid>
+                <link>https://xrcb.cat/ca/podcast/la-traginera-04/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://xrcb.cat/wp-content/uploads/2023/06/Programa_la_traginera_-28_juny.mp3"/>
+                <guid>https://xrcb.cat/ca/podcast/la-traginera-04/</guid>
                 
             </item>
         </channel>
