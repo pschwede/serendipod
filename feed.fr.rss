@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 01 Jul 2023 04:24:00 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 02 Jul 2023 04:23:11 +0200</lastBuildDate>
             <item>
-                <title>No Border #491#</title>
-                <description>No Border du 18 juin 2023
-Feed: https://podcast.pulsradio.com/NoBorder/podcast.xml</description>
+                <title>jamais trop dans le métro</title>
+                <description>&lt;p&gt;&lt;strong&gt;Le Son du Désir présente : LE METRO !!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Et si le métro devenait un lieu inspirant pour des câlins impromptus ? &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Imaginez que votre amant, après une soirée arrosée, vous appelle pour imaginer un moment entre exhibition, mystère et découverte d&amp;#39;un lieu urbain abandonné par presque tous ses occupants.&lt;/p&gt;&lt;p&gt;Vous ferez des câlins en vous tenant aux barres du métro.....
+Feed: https://anchor.fm/s/aa92874/podcast/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/NoBorder/20230618/NoBorder_20230618.mp3"/>
-                <guid></guid>
+                <link>https://podcasters.spotify.com/pod/show/lesondudesir/episodes/jamais-trop-dans-le-mtro-e26drp1</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/aa92874/podcast/play/72854753/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2Faa92874%2F72854753%2F03ff8d732a66cdbfffbb5a441b789d41.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/lesondudesir/episodes/jamais-trop-dans-le-mtro-e26drp1</guid>
                 
             </item><item>
-                <title>ZQSD #92 - itw avec Atelier QDB pour Decarnation, Zelda ToTK, Warhammer 40000 Boltgun</title>
-                <description>Decarnation, Zelda ToTK, Warhammer 40000 Boltgun
-Feed: http://zqsd.fr/zqsd.xml</description>
+                <title>Chérie FM cinéma du 28 Juin 2023</title>
+                <description>Marc Choquet vous présente l&#39;actualité des films à voir sur vos écrans. Cette semaine, retrouvez dans toutes les salles de cinéma : « Indiana Jones et le Cadran de la destinée », « Les Vengeances de Maître Poutifard », et « Ruby, l&#39;ado Kraken ».
+Feed: https://aod.nrjaudio.fm/xml/152.xml</description>
                 
                 
-                <link>http://feeds.soundcloud.com/stream/1547961049-zqsd-1-zqsd92.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://feeds.soundcloud.com/stream/1547961049-zqsd-1-zqsd92.mp3"/>
-                <guid>http://feeds.soundcloud.com/stream/1547961049-zqsd-1-zqsd92.mp3</guid>
+                <link>https://www.cheriefm.fr/podcasts/cherie-fm-cinema/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://spodcasts.nrjaudio.fm/podcasts/fr/2/152/0762691b-8fc6-499d-ba7a-fc2e4517b5a3.mp3?awCollectionId=152&amp;awEpisodeId=551529"/>
+                <guid>https://www.cheriefm.fr/podcasts/cherie-fm-cinema/</guid>
                 
             </item>
         </channel>

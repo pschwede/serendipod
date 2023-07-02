@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 01 Jul 2023 04:23:47 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 02 Jul 2023 04:22:58 +0200</lastBuildDate>
             <item>
                 <title>Icons: Sir Lady Java</title>
                 <description>Sir Lady Java (c. 1943-present) stood against a Los Angeles law that targeted trans women, drag performers and anyone who dared to live openly outside the gender binary. Her fierce advocacy made her a trailblazer for the trans community.
@@ -21,14 +21,14 @@ Feed: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b
                 <guid>https://omny.fm/shows/womanica/icons-sir-lady-java</guid>
                 
             </item><item>
-                <title>FABRIZIO MANCINELLI - Composer, Songwriter, Conductor</title>
-                <description>music, film, cinema, composer, conductor, The Land of Dreams,The Snow Queen 3, The Boat, Mushka, Green Book, Food 2050, UNCCC, songwriter, Italy
-Feed: https://thecreativeprocess.squarespace.com/music-dance?format=rss</description>
+                <title>Episode 614 – session X.5</title>
+                <description>* (0:28) Things are getting set for Fear the Con! An intro to RPGs game is available for newcomers. * (2:03) A shared Minecraft server. You can find more information on Discord. * (5:52) Realigning your game with a mid-campaign session zero.
+Feed: https://www.feartheboot.com/ftb/index.php/feed/podcast</description>
                 
                 
-                <link>https://www.creativeprocess.info/music-dance/fabrizio-mancinelli-mia-funk-gte8e-fcjcw</link>
-                <enclosure type="audio/mpeg" length="1" url="https://static1.squarespace.com/static/5745d9f137013b9d0a627c60/t/649c4649eeac0d7e2211f4ce/1687962979586/FABRIZIO+MANCINELLI-the-creative-process-podcast-mia-funk-FULL.mp3"/>
-                <guid>https://www.creativeprocess.info/music-dance/fabrizio-mancinelli-mia-funk-gte8e-fcjcw</guid>
+                <link>https://www.feartheboot.com/ftb/index.php/archives/7014</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/feartheboot/feartheboot_0614.mp3"/>
+                <guid>https://www.feartheboot.com/ftb/index.php/archives/7014</guid>
                 
             </item>
         </channel>

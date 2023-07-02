@@ -9,26 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 01 Jul 2023 04:24:06 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 02 Jul 2023 04:23:17 +0200</lastBuildDate>
             <item>
-                <title>Rincón Sportinguista 520 #PodcastSportinguista</title>
-                <description>Programa con @JaviMelero77 @AlejandroJamart @TinvsPilvs y Mon donde analizamos la vergonzosa derrota del Sporting por 1-4 contra la Ponferradina en El Molin&amp;oacute;n.
-Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
+                <title>Melodías pizarras - Rhumba Bamba - 17/06/23</title>
+                <description>Rhumba Bamba
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/rincon-sportinguista-520-podcastsportinguista-audios-mp3_rf_109208019_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-520-podcastsportinguista_mf_109208019_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/rincon-sportinguista-520-podcastsportinguista-audios-mp3_rf_109208019_1.html</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/rhumba-bamba/6916280/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SMELODI/mp3/5/2/1687043721425.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/rhumba-bamba/6916280/</guid>
                 
             </item><item>
-                <title>La Traginera 04</title>
-                <description>La Traginera – Comunalitat de Ciutat Vella ofereix un programa a la ciutadania per donar visibilitat a les iniciatives, projectes i col·lectius que trobem als barris del districte. Expliquen les bones pràctiques i referències amb relació als béns comuns urbans que poden ser serveis, recursos o espais per saber l’ús i gestió que li podem donar. Promouen l’empoderament de la comunitat.
-Feed: https://xrcb.cat/subscribirse-a-podcast/?id=5919</description>
+                <title>PYM 44. 44 Peskigatos | Especial Gatos</title>
+                <description>&amp;iquest;Otro especial? S&amp;iacute;, otro especial. Esta vez es un especial miaunt&amp;aacute;stico: &amp;iexcl;Especial Gatos!
+Estas son nuestras secciones gatunas:
+Seidon habla de... &amp;iquest;un m&amp;uacute;sico? S&amp;iacute;, un m&amp;uacute;sico:
+00:06:27 - The Kiffness.
+Mildre nos recomienda dos juegos:
+00:16:27 - Cat Quest y Spiritfarer.
+Phoebe is back. En esta ocasi&amp;oacute;n con doble recomendaci&amp;oacute;n de juegos de mesa:
+00:29:43 - Juego de Tutanitos: Cat Lady y Parade...
+Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
                 
                 
-                <link>https://xrcb.cat/ca/podcast/la-traginera-04/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://xrcb.cat/wp-content/uploads/2023/06/Programa_la_traginera_-28_juny.mp3"/>
-                <guid>https://xrcb.cat/ca/podcast/la-traginera-04/</guid>
+                <link>http://www.ivoox.com/pym-44-44-peskigatos-especial-gatos-audios-mp3_rf_111001635_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-44-44-peskigatos-especial-gatos_mf_111001635_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/pym-44-44-peskigatos-especial-gatos-audios-mp3_rf_111001635_1.html</guid>
                 
             </item>
         </channel>
