@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 04 Jul 2023 04:25:21 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 05 Jul 2023 04:26:08 +0200</lastBuildDate>
             <item>
-                <title>#269 Was Männer kosten: Der hohe Preis von Geschlechterrollen</title>
-                <description>Interview mit Wirtschaftswissenschaftler Boris von Heesen
-Feed: https://femaleleadership-podcast.podigee.io/feed/mp3</description>
+                <title>#165 Trennungsschmerz (mit Matthias Brändle)</title>
+                <description>Folge 165
+Feed: https://plan-z-podcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://female-leadership-academy.de/podcast/episode-269-was-manner-kosten/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1143614-m-14ce538efe3d94ebc0468dba6f1096e5.mp3?source=feed"/>
-                <guid>https://female-leadership-academy.de/podcast/episode-269-was-manner-kosten/</guid>
+                <link>https://plan-z-podcast.podigee.io/165-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1146825-m-7ba8662b5244d727a0efde16015a4451.mp3?source=feed"/>
+                <guid>https://plan-z-podcast.podigee.io/165-new-episode</guid>
                 
             </item><item>
-                <title>Schwitzen: Wie wir Schweiß reduzieren (Mit Christoph Schick)</title>
-                <description>&lt;p&gt;Feuchte Hände, nasse Stirn, dunkle Flecken unter den Armen. Schweiß fühlt sich nicht nur unangenehm an, sondern kann auch stinken. Wie wir weniger schwitzen und dabei besser riechen, erklärt Christoph Schick. &lt;/p&gt;
-&lt;p data-pm-slice=&#34;1 1 []&#34;&gt;&lt;strong&gt;Mehr Infos:&lt;br&gt;&lt;/strong&gt;Homepage: Deutsches Hyperhidrose Zentrum&lt;/p&gt;
-&lt;p&gt;App: Hyperhidrose-App&lt;/p&gt;
-&lt;p&gt;+++ Alle Rabattcodes und Infos zu unseren Werbepartnern finden Sie hier: https://linktr...
-Feed: https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/895a9f0b-6d87-4d20-aaba-abc000ffb087/913ea7fc-e0c6-4ba8-8360-abc000ffb08c/podcast.rss</description>
+                <title>Schweden, Sachsen, Osterzeit</title>
+                <description>Es ist endlich wieder soweit: CAMPINGZEIT!
+Feed: http://feed.campingcaravanpodcast.de/aac/</description>
                 
                 
-                <link>https://omny.fm/shows/smarter-leben-der-ideen-podcast/schwitzen-wie-wir-schwei-reduzieren-mit-christoph</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/895a9f0b-6d87-4d20-aaba-abc000ffb087/9d6f44be-731b-431f-9426-b02e013d741b/audio.mp3?utm_source=Podcast&amp;in_playlist=913ea7fc-e0c6-4ba8-8360-abc000ffb08c"/>
-                <guid>https://omny.fm/shows/smarter-leben-der-ideen-podcast/schwitzen-wie-wir-schwei-reduzieren-mit-christoph</guid>
+                <link>https://www.campingcaravanpodcast.de/2023/05/14/ccp070-schweden-sachsen-osterzeit/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.campingcaravanpodcast.de/podlove/file/1233/s/feed/c/aac/CCP070.m4a"/>
+                <guid>https://www.campingcaravanpodcast.de/2023/05/14/ccp070-schweden-sachsen-osterzeit/</guid>
                 
             </item>
         </channel>
