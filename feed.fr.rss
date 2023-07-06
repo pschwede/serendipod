@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 05 Jul 2023 04:26:13 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 06 Jul 2023 04:25:39 +0200</lastBuildDate>
             <item>
-                <title>Test your irregular verbs</title>
-                <description>Do you know the irregular verbs? 
-Feed: https://rss.acast.com/parler-anglais</description>
+                <title>Craquer l&#39;algorithme d&#39;Instagram avec Thibault Tourveille de Labrouhe (Super Daily) - Episode 185</title>
+                <description> Produire du contenu long, de qualité et régulièrement prouve votre expertise. Parce que seul un expert d&#39;un sujet est capable d&#39;en parler encore et encore, sous différents angles et différents points de vues.
+Autant vous dire que ...
+Feed: https://feeds.audiomeans.fr/feed/cbf09e37-4985-434e-afd2-c9372eaa597a.xml</description>
+                
+                
+                <link>https://lepodcastdumarketing.com/instagram-thibault-tourveille-de-labrouhe-super-daily-185/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/3db933cf-615b-4c09-bbdf-d7939c98caf5.mp3?_=1688037892"/>
+                <guid>https://lepodcastdumarketing.com/instagram-thibault-tourveille-de-labrouhe-super-daily-185/</guid>
+                
+            </item><item>
+                <title>Comment participer au décollage économique des Africains | 123</title>
+                <description>&lt;p&gt;PROBLÈME DU JOUR: La nouvelle génération d’africains doit se conscientiser et cessez d’avoir peur de sortir du cycle de pauvreté dans nos communautés noires&lt;br/&gt;&lt;br/&gt;Aperçu du livre, SAPOLOGIE FINANCIÈRE: Comment Briser les Tabous Africains de Finances Personnelles&lt;br/&gt;&lt;br/&gt;STRATÉGIE: Nous devons capitaliser sur tous les outils financiers que notre génération a le privilège de pouvoir déployer&lt;br/&gt;&lt;br/&gt;QUESTION DU JOUR: Comment pouvez-vous contribuer à changer le cours de l’histoire...
+Feed: https://feeds.buzzsprout.com/1376335.rss</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/FODL1884309281.mp3?updated=1687371032"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1376335/12885155-comment-participer-au-decollage-economique-des-africains-123.mp3"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Slimane en live dans &#34;Le Grand Studio RTL&#34;</title>
-                <description>REDIFF - Ecoutez ou réécoutez &#34;Le Grand Studio RTL&#34; de Slimane
-Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
-                
-                
-                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rtl.proxycast.org/3080469564350279680/80dd1e87-255c-4e72-9c39-e449b6a95775.mp3?u=FbteVXJUvY&amp;_=1688370784"/>
-                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
                 
             </item>
         </channel>

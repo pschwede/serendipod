@@ -9,36 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 05 Jul 2023 04:26:29 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 06 Jul 2023 04:25:54 +0200</lastBuildDate>
             <item>
-                <title>Méthode d&#39;Anglais Leçon 39.2</title>
-                <description> Une méthode qui a fait ses preuves, spécialement conçue pour les débutants et faux-débutants ! 
- 
-96 leçons disponibles avec pour chaque leçon :
- 
-- Des dialogues variés, concrets et tirés du quotidien 
- 
-- Des explications ...
-Feed: https://feeds.audiomeans.fr/feed/ce5b5f2d-bf14-444d-839a-9247f442fbcd.xml</description>
+                <title>Sarah Lee</title>
+                <description>Guardian/Observer staff photographer Sarah Lee first watched Dont Look Back whilst perched on a crowded bed in a Camden flat with a struggling rock combo called Coldplay.
+Feed: https://feeds.acast.com/public/shows/63d0e60777d9ee0011a4f45b</description>
+                
+                
+                <link>https://shows.acast.com/63d0e60777d9ee0011a4f45b/episodes/sarah-lee</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63d0e60777d9ee0011a4f45b/e/64629e546fe43200113c9ba5/media.mp3"/>
+                <guid>https://shows.acast.com/63d0e60777d9ee0011a4f45b/episodes/sarah-lee</guid>
+                
+            </item><item>
+                <title>Inside the Mind of Night Beats</title>
+                <description>Night Beats discusses his new album &#34;Rajan,&#34; the creative process, freedom and living in the present. 
+Feed: https://feeds.megaphone.fm/yesterdaysconcert</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/2d6887cf-2ee8-4202-83b0-8dcdbf593c18.mp3?_=1683818569"/>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/p.podderapp.com/1394819820/chrt.fm/track/E74G3E/traffic.megaphone.fm/PAN2456188040.mp3?updated=1688319295"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Was the Sprint Race the best part of the weekend? - 2023 F1 Austrian Grand Prix Review</title>
-                <description>The 2023 F1 Austrian Grand Prix was the second sprint weekend of the season, and a lot of people said the Sprint race was far better than the actual race. Verstappen won again (shock), and the Ferrari&#39;s actually looked good for a change. &lt;br&gt;
-&lt;br&gt;
-Enjoy The WTF1 Post race podcast hosted by Harry Benjamin with special guests Nicola Hume and Antonia Rankin, as they review the 2023 Austrian GP.&lt;br&gt;
-&lt;br&gt;
-This episode is sponsored by BetterHelp. Visit BetterHelp...
-Feed: https://audioboom.com/channels/4949565.rss</description>
-                
-                
-                <link>https://audioboom.com/posts/8327738</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arttrk.com/p/ABMA5/pdst.fm/e/pscrb.fm/rss/p/audioboom.com/posts/8327738.mp3?modified=1688471335&amp;sid=4949565&amp;source=rss"/>
-                <guid>https://audioboom.com/posts/8327738</guid>
                 
             </item>
         </channel>

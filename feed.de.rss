@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 05 Jul 2023 04:26:08 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 06 Jul 2023 04:25:34 +0200</lastBuildDate>
             <item>
-                <title>#165 Trennungsschmerz (mit Matthias Brändle)</title>
-                <description>Folge 165
-Feed: https://plan-z-podcast.podigee.io/feed/mp3</description>
+                <title>Störendes Verhalten oder Verhaltensstörung? – Teil 1</title>
+                <description>Interview mit Dr. Iris Mackensen-Friedrichs
+Feed: https://dercanis-podcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://plan-z-podcast.podigee.io/165-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1146825-m-7ba8662b5244d727a0efde16015a4451.mp3?source=feed"/>
-                <guid>https://plan-z-podcast.podigee.io/165-new-episode</guid>
+                <link>https://dercanis-podcast.podigee.io/67-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1150569-m-262237065291ba31963b3d1e3801070d.mp3?source=feed"/>
+                <guid>https://dercanis-podcast.podigee.io/67-new-episode</guid>
                 
             </item><item>
-                <title>Schweden, Sachsen, Osterzeit</title>
-                <description>Es ist endlich wieder soweit: CAMPINGZEIT!
-Feed: http://feed.campingcaravanpodcast.de/aac/</description>
+                <title>#064 Sonderfolge: Mein Hund hat Angst vor Gewitter</title>
+                <description>Die ersten schweren Sommergewitter haben wir schon überstanden. Doch der Sommer ist noch lang und es wird auch in den kommenden Wochen noch das ein oder andere Mal etwas lauter Knallen. Bei Liza und Nala ist die Rollenverteilung ganz klar: Nala hält Lizas Hand, denn angespannter ist in diesem Duo der Zweibeiner. In dieser Sonderfolge hat Liza ein paar Tipps, wie euer Hund (oder ihr) die Gewitter-Saison gut überstehen könnt...
+Feed: https://hunderunde.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.campingcaravanpodcast.de/2023/05/14/ccp070-schweden-sachsen-osterzeit/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.campingcaravanpodcast.de/podlove/file/1233/s/feed/c/aac/CCP070.m4a"/>
-                <guid>https://www.campingcaravanpodcast.de/2023/05/14/ccp070-schweden-sachsen-osterzeit/</guid>
+                <link>https://hunderunde.podigee.io/65-066-sonderfolge-mein-hund-hat-angst-vor-gewitter</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1151696-m-824a30c91ec315abf72f38599b08260f.mp3?source=feed"/>
+                <guid>https://hunderunde.podigee.io/65-066-sonderfolge-mein-hund-hat-angst-vor-gewitter</guid>
                 
             </item>
         </channel>
