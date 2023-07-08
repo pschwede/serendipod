@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 07 Jul 2023 04:24:34 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 08 Jul 2023 04:23:42 +0200</lastBuildDate>
             <item>
-                <title>So erkennen wir physische und psychische Gewalt frühzeitig</title>
-                <description>Missbrauch in der Beziehung
-Feed: https://diesachemitderliebe.podigee.io/feed/mp3</description>
+                <title>Achtung Wild</title>
+                <description>Wir sprechen in dieser Folge über Wildunfälle
+Feed: https://letscast.fm/podcasts/achtung-achtung-hier-sprach-die-polizei-der-podcast-mit-muensters-sheriff-a-d-udo-weiss-ee409367/feed</description>
                 
                 
-                <link>https://diesachemitderliebe.podigee.io/73-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1122030-m-e99ab1160367e5f9e4290193311ea040.mp3?source=feed"/>
-                <guid>https://diesachemitderliebe.podigee.io/73-neue-episode</guid>
+                <link>https://www.hiersprachdiepolizei.de/episode/achtung-wild</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/B9DD84/https://letscast.fm/track/https://lc.podcast-hosting.org/lcdn.letscast.fm/media/podcast/9adbb128/episode/d493c675.mp3?t=1688364066&amp;awCollectionId=lc-80018&amp;awEpisodeId=d493c675"/>
+                <guid>https://www.hiersprachdiepolizei.de/episode/achtung-wild</guid>
                 
             </item><item>
-                <title>mit der Naturchoachin Anita Maas</title>
-                <description>Raus ins Grüne, durchatmen und abschalten. Eine Erfahrung, die Anita Maas in ihren Naturcoachings mit anderen teilt. Mehr darüber, wie man in der Natur die eigenen Akkus wieder aufladen kann, verrät die Autorin in SR 3 &#34;Aus dem Leben&#34;.
-Feed: https://sr-mediathek.de/pcast/feeds/SR3_ADL_P/feed.xml</description>
+                <title>Literatur-Speeddating in Mehlem</title>
+                <description>Eine ungewöhnliche Lesung des Bonner BVJA
+Feed: https://medienwerkstatt-bonn.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://storage01.sr.de/podcast/SR3_ADL_P/SR3_ADL_P_31238_20230705_074432.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://storage01.sr.de/podcast/SR3_ADL_P/SR3_ADL_P_31238_20230705_074432.mp3"/>
-                <guid>https://storage01.sr.de/podcast/SR3_ADL_P/SR3_ADL_P_31238_20230705_074432.mp3</guid>
+                <link>https://medienwerkstatt-bonn.podigee.io/62-das-weihnachtsmenu-teil2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/270363-m-02ef3e8ea610ae683b61c2ebebf60a47.mp3?source=feed"/>
+                <guid>https://medienwerkstatt-bonn.podigee.io/62-das-weihnachtsmenu-teil2</guid>
                 
             </item>
         </channel>
