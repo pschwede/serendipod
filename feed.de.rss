@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 10 Jul 2023 04:24:36 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Jul 2023 04:24:35 +0200</lastBuildDate>
             <item>
-                <title>Die Angst vor Ablehung - eine wahre Geschichte</title>
-                <description>Wie uns Erlebnisse aus der Vergangenheit noch heute Sabotieren
-Feed: https://geileliebe.podigee.io/feed/mp3</description>
+                <title>Folge 147: Mehr Lieferengpässe, Blue Punisher &amp; Hitze</title>
+                <description>Folge 147: Mehr Lieferengpässe, Blue Punisher &amp; Hitze
+Feed: https://feeds.feedburner.com/ptaheute/podcast</description>
                 
                 
-                <link>https://geileliebe.podigee.io/72-ablehnung</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1152683-m-307fad5e5390d913c78bfaf61df560d2.mp3?source=feed"/>
-                <guid>https://geileliebe.podigee.io/72-ablehnung</guid>
+                <link>https://podcast.ptaheute.de/2023/07/10/folge-147-mehr-lieferengpaesse-blue-punisher-hitze/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.ptaheute.de/podlove/file/420/s/feed/c/mp3/20230710_mixdown.mp3"/>
+                <guid>https://podcast.ptaheute.de/2023/07/10/folge-147-mehr-lieferengpaesse-blue-punisher-hitze/</guid>
                 
             </item><item>
-                <title>Indiana Jones and the Dial of Destiny</title>
-                <description>Zeitsprung - Zeitgeschehen - Zeitverschwendung?
-Feed: https://cinecouch.net/feed/mp3/</description>
+                <title>#58 - Griechische Mythologie: Odysseus</title>
+                <description>Zurück nach Griechenland geht es endlich in Folge 58 eures liebsten Mythologie-Podcasts. Steffi konnte die Trennung nicht länger ertragen und hat sich aus Rache am Zwischenkonzept an eines der größten Themen aus der gesamten griechischen Mythologie gewagt: Die Odyssee...
+Feed: https://letscast.fm/podcasts/mythos-und-wahrheit-der-mythologie-podcast-59134f72/feed</description>
                 
                 
-                <link>https://cinecouch.net/2023/07/cinecouch-folge-334-indiana-jones-and-the-dial-of-destiny/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cinecouch.net/podlove/file/422/s/feed/c/mp3/cinecouch-334-indiana-jones-and-the-dial-of-destiny.mp3"/>
-                <guid>https://cinecouch.net/2023/07/cinecouch-folge-334-indiana-jones-and-the-dial-of-destiny/</guid>
+                <link>https://mythosundwahrheit.letscast.fm/episode/58-griechische-mythologie-odysseus</link>
+                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/59134f72/episode/1e3accca.mp3?t=1688749009&amp;awCollectionId=80000103&amp;awEpisodeId=1e3accca"/>
+                <guid>https://mythosundwahrheit.letscast.fm/episode/58-griechische-mythologie-odysseus</guid>
                 
             </item>
         </channel>
