@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Jul 2023 04:24:35 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 12 Jul 2023 04:24:00 +0200</lastBuildDate>
             <item>
-                <title>Folge 147: Mehr Lieferengpässe, Blue Punisher &amp; Hitze</title>
-                <description>Folge 147: Mehr Lieferengpässe, Blue Punisher &amp; Hitze
-Feed: https://feeds.feedburner.com/ptaheute/podcast</description>
+                <title>164; Meine persönliche Standortbestimmung</title>
+                <description>Was geht? Was läuft? Bei mir und meiner Arbeit etwas leider noch gar nicht. Was das ist? Check it...
+Feed: https://selbstbewusstwerden.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://podcast.ptaheute.de/2023/07/10/folge-147-mehr-lieferengpaesse-blue-punisher-hitze/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.ptaheute.de/podlove/file/420/s/feed/c/mp3/20230710_mixdown.mp3"/>
-                <guid>https://podcast.ptaheute.de/2023/07/10/folge-147-mehr-lieferengpaesse-blue-punisher-hitze/</guid>
+                <link>https://www.podomatic.com/podcasts/selbstbewusstwerden/episodes/2023-06-22T09_09_53-07_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://selbstbewusstwerden.podomatic.com/enclosure/2023-06-22T09_09_53-07_00.mp3?_=1687450276.16654649"/>
+                <guid>https://www.podomatic.com/podcasts/selbstbewusstwerden/episodes/2023-06-22T09_09_53-07_00</guid>
                 
             </item><item>
-                <title>#58 - Griechische Mythologie: Odysseus</title>
-                <description>Zurück nach Griechenland geht es endlich in Folge 58 eures liebsten Mythologie-Podcasts. Steffi konnte die Trennung nicht länger ertragen und hat sich aus Rache am Zwischenkonzept an eines der größten Themen aus der gesamten griechischen Mythologie gewagt: Die Odyssee...
-Feed: https://letscast.fm/podcasts/mythos-und-wahrheit-der-mythologie-podcast-59134f72/feed</description>
+                <title>Achtung Wild</title>
+                <description>Wir sprechen in dieser Folge über Wildunfälle
+Feed: https://letscast.fm/podcasts/achtung-achtung-hier-sprach-die-polizei-der-podcast-mit-muensters-sheriff-a-d-udo-weiss-ee409367/feed</description>
                 
                 
-                <link>https://mythosundwahrheit.letscast.fm/episode/58-griechische-mythologie-odysseus</link>
-                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/59134f72/episode/1e3accca.mp3?t=1688749009&amp;awCollectionId=80000103&amp;awEpisodeId=1e3accca"/>
-                <guid>https://mythosundwahrheit.letscast.fm/episode/58-griechische-mythologie-odysseus</guid>
+                <link>https://www.hiersprachdiepolizei.de/episode/achtung-wild</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/B9DD84/https://letscast.fm/track/https://lc.podcast-hosting.org/lcdn.letscast.fm/media/podcast/9adbb128/episode/d493c675.mp3?t=1688364066&amp;awCollectionId=lc-80018&amp;awEpisodeId=d493c675"/>
+                <guid>https://www.hiersprachdiepolizei.de/episode/achtung-wild</guid>
                 
             </item>
         </channel>
