@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 12 Jul 2023 04:24:00 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 13 Jul 2023 04:23:57 +0200</lastBuildDate>
             <item>
-                <title>164; Meine persönliche Standortbestimmung</title>
-                <description>Was geht? Was läuft? Bei mir und meiner Arbeit etwas leider noch gar nicht. Was das ist? Check it...
-Feed: https://selbstbewusstwerden.podomatic.com/rss2.xml</description>
+                <title>Der Radio F Sternecheck am 13.07.2023</title>
+                <description>Widder 5 Sterne
+Ihr Können verbinden Sie gekonnt mit Kommerz. Eine prächtige Kombination. Ein großer Schritt auf der Karriereleiter ist nicht ausgeschlossen.
+Stier 3 Sterne
+Was als Nächstes kommt, das weiß keiner. Doch sie sind für alles gewappnet und können Veränderungen ganz ruhig ins Auge sehen.
+Zwillinge 2 Sterne
+Sie sitzen zwischen zwei Stühlen. Da hilft nur eines: Bleiben Sie realistisch. Nicht alle Träume können auf einmal in Erfüllung gehen...
+Feed: https://rss.art19.com/der-radio-f-sternecheck</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/selbstbewusstwerden/episodes/2023-06-22T09_09_53-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://selbstbewusstwerden.podomatic.com/enclosure/2023-06-22T09_09_53-07_00.mp3?_=1687450276.16654649"/>
-                <guid>https://www.podomatic.com/podcasts/selbstbewusstwerden/episodes/2023-06-22T09_09_53-07_00</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/17ed45af-c7c2-450b-8a68-fcba4c925e73.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Achtung Wild</title>
-                <description>Wir sprechen in dieser Folge über Wildunfälle
-Feed: https://letscast.fm/podcasts/achtung-achtung-hier-sprach-die-polizei-der-podcast-mit-muensters-sheriff-a-d-udo-weiss-ee409367/feed</description>
+                <title>Netzgeschichten zwischen Xing, LinkedIn, dem Barcamp Bodensee und einer Reise nach Berlin - im Gespräch mit Oliver Gassner.</title>
+                <description>Netzgeschichten zwischen Xing, LinkedIn, dem Barcamp Bodensee und einer Reise nach Berlin - im Gespräch mit Oliver Gassner.
+Feed: https://social-media-schnack.de/feed/podcast/</description>
                 
                 
-                <link>https://www.hiersprachdiepolizei.de/episode/achtung-wild</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/B9DD84/https://letscast.fm/track/https://lc.podcast-hosting.org/lcdn.letscast.fm/media/podcast/9adbb128/episode/d493c675.mp3?t=1688364066&amp;awCollectionId=lc-80018&amp;awEpisodeId=d493c675"/>
-                <guid>https://www.hiersprachdiepolizei.de/episode/achtung-wild</guid>
+                <link>https://social-media-schnack.de/episode/xing-linkedin-barcamps-und-berlin-im-gespraech-mit-oliver-gassner/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://social-media-schnack.de/download-episode/2690/xing-linkedin-barcamps-und-berlin-im-gespraech-mit-oliver-gassner.mp3?ref=feed"/>
+                <guid>https://social-media-schnack.de/episode/xing-linkedin-barcamps-und-berlin-im-gespraech-mit-oliver-gassner/</guid>
                 
             </item>
         </channel>

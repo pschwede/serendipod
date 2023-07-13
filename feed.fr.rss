@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 12 Jul 2023 04:24:04 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 13 Jul 2023 04:24:01 +0200</lastBuildDate>
             <item>
-                <title>Understanding the lyrics: &#39;I Will Survive&#39; by Gloria Gaynor</title>
-                <description>Ben takes a look at the lyrics to this classic song from 1978
-Feed: https://rss.acast.com/parler-anglais</description>
+                <title>Turbo tannant : Édition du 7 juillet 2023</title>
+                <description>685-292075
+Feed: http://podcast.cism893.ca/radioshows/685/feed_itunes.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/FODL3231873438.mp3?updated=1687879668"/>
-                <guid></guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/292075.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/292075.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/292075.mp3</guid>
                 
             </item><item>
-                <title>L’accord de Paris sur le climat : comment mettre d&#39;accord toute la planète ? </title>
-                <description>L’accord de Paris sur le climat : comment mettre d&#39;accord toute la planète ? 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11701.xml</description>
+                <title>Avant nos recos culturelles de l&#39;été</title>
+                <description>Avec Alix, Kalindi, Camille et Louise
+Feed: https://feeds.acast.com/public/shows/4-quarts-dheure</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-accords-qui-ont-change-le-monde/l-accord-de-paris-sur-le-climat-comment-mettre-d-accord-toute-la-planete-1834523</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/e8a96a40-72fc-46fb-a123-f836d447407a/11701-10.07.2023-ITEMA_23433464-2023C51381E0001-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-accords-qui-ont-change-le-monde/l-accord-de-paris-sur-le-climat-comment-mettre-d-accord-toute-la-planete-1834523</guid>
+                <link>https://linktr.ee/4quartsdheure</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/632090bb4d259900133e31a5/e/64ac1a6a43129f0011e63ad4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=2YHmfzk_xvGBcnc2yA_aefsO4CKfD6LQ2mPxyJWHbnU"/>
+                <guid>https://linktr.ee/4quartsdheure</guid>
                 
             </item>
         </channel>
