@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 13 Jul 2023 04:24:14 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 14 Jul 2023 04:24:22 +0200</lastBuildDate>
             <item>
-                <title>FTN 543-2-1-0 Season Finale</title>
-                <description>Jazz returns with Mike and Warren with the hottest takes on Jazz&#39;s absence, what&#39;s next, what to think and not to think, along with firmware updates for Jazzhands and everyone else. 
-Feed: https://fash-the-nation.libsyn.com/rss</description>
+                <title>Winglets: Curved tips with a big effect</title>
+                <description>Most modern airplanes have curved wingtip devices. How do these &#34;winglets&#34; work, and what benefits do they boast?
+Feed: https://rss.dw.com/xml/podcast_tomorrow-today</description>
                 
                 
-                <link>https://fash-the-nation.libsyn.com/ftn-543-2-1-0-season-finale</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/fash-the-nation/FTN_060323.mp3?dest-id=561926"/>
-                <guid>https://fash-the-nation.libsyn.com/ftn-543-2-1-0-season-finale</guid>
+                <link>https://www.dw.com/en/winglets-curved-tips-with-a-big-effect/video-66085429?maca=en-podcast_tomorrow-today-3524-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/tt/tt230630_winglets_AVC_640x360.mp4"/>
+                <guid>https://www.dw.com/en/winglets-curved-tips-with-a-big-effect/video-66085429?maca=en-podcast_tomorrow-today-3524-xml-mrss</guid>
                 
             </item><item>
-                <title>Take Responsibility</title>
-                <description>There are many circumstances in our lives that we cannot control.   The one thing we always have control over, however, is ourselves. And taking responsibility for ourselves is incredibly empowering.   This week, hear how amazing taking...
-Feed: https://thelifecoachschool.libsyn.com/rss</description>
+                <title>Radio War Nerd EP 386 — The US Civil War, Part 15: Gettysburg Aftermath, Six Million Pounds of Rotting Meat</title>
+                <description>Co-hosts Gary Brecher &amp; Mark Ames
+Feed: http://exiledonline.com/45wn84klrz/feed.xml</description>
                 
                 
-                <link>https://thelifecoachschool.com/481</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/thelifecoachschool/LIFECOACHSCHOOL481.mp3?dest-id=191971"/>
-                <guid>https://thelifecoachschool.com/481</guid>
+                <link>http://exiledonline.com/45wn84klrz/?name=rwn_ep_386_0706231.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://exiledonline.com/45wn84klrz/media/rwn_ep_386_0706231.mp3"/>
+                <guid>http://exiledonline.com/45wn84klrz/?name=rwn_ep_386_0706231.mp3</guid>
                 
             </item>
         </channel>

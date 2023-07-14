@@ -9,31 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 13 Jul 2023 04:23:57 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 14 Jul 2023 04:24:01 +0200</lastBuildDate>
             <item>
-                <title>Der Radio F Sternecheck am 13.07.2023</title>
-                <description>Widder 5 Sterne
-Ihr Können verbinden Sie gekonnt mit Kommerz. Eine prächtige Kombination. Ein großer Schritt auf der Karriereleiter ist nicht ausgeschlossen.
-Stier 3 Sterne
-Was als Nächstes kommt, das weiß keiner. Doch sie sind für alles gewappnet und können Veränderungen ganz ruhig ins Auge sehen.
-Zwillinge 2 Sterne
-Sie sitzen zwischen zwei Stühlen. Da hilft nur eines: Bleiben Sie realistisch. Nicht alle Träume können auf einmal in Erfüllung gehen...
-Feed: https://rss.art19.com/der-radio-f-sternecheck</description>
+                <title>FS-210: Conventions, Apple Vision Pro und Podcast Update</title>
+                <description>Themen:
+- Japan
+- Basel
+- FedCon
+- Lange Krank
+- …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:51513142/sounds.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/17ed45af-c7c2-450b-8a68-fcba4c925e73.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://soundcloud.com/freischnauze-podcast/fs-210-conventions-apple</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1562019232-freischnauze-podcast-fs-210-conventions-apple.mp3"/>
+                <guid>https://soundcloud.com/freischnauze-podcast/fs-210-conventions-apple</guid>
                 
             </item><item>
-                <title>Netzgeschichten zwischen Xing, LinkedIn, dem Barcamp Bodensee und einer Reise nach Berlin - im Gespräch mit Oliver Gassner.</title>
-                <description>Netzgeschichten zwischen Xing, LinkedIn, dem Barcamp Bodensee und einer Reise nach Berlin - im Gespräch mit Oliver Gassner.
-Feed: https://social-media-schnack.de/feed/podcast/</description>
+                <title>MC 164: Wie zentral ist das Kreuz? Erkenntnisse aus der Verkündigung der ersten Christen</title>
+                <description>In diesem Podcast untersuche ich die Bedeutung des Kreuzes in der Verkündigung der Apostelgeschichte. Welche Rolle spielt das Kreuz und seine theologische Deutung in der missionarischen und bezeugenden Tätigkeit der Apostel?
+Dieser Podcast ist als Er...
+Feed: https://Movecast.podbean.com/feed.xml</description>
                 
                 
-                <link>https://social-media-schnack.de/episode/xing-linkedin-barcamps-und-berlin-im-gespraech-mit-oliver-gassner/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://social-media-schnack.de/download-episode/2690/xing-linkedin-barcamps-und-berlin-im-gespraech-mit-oliver-gassner.mp3?ref=feed"/>
-                <guid>https://social-media-schnack.de/episode/xing-linkedin-barcamps-und-berlin-im-gespraech-mit-oliver-gassner/</guid>
+                <link>https://Movecast.podbean.com/e/mc-164-wie-zentral-ist-das-kreuz-erkenntnisse-aus-der-verkundigung-der-ersten-christen/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/g3z45i/MC_164_Wie_zentral_ist_das_Kreuz6iw86.mp3"/>
+                <guid>https://Movecast.podbean.com/e/mc-164-wie-zentral-ist-das-kreuz-erkenntnisse-aus-der-verkundigung-der-ersten-christen/</guid>
                 
             </item>
         </channel>

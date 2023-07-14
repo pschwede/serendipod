@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 13 Jul 2023 04:24:01 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 14 Jul 2023 04:24:07 +0200</lastBuildDate>
             <item>
-                <title>Turbo tannant : Édition du 7 juillet 2023</title>
-                <description>685-292075
-Feed: http://podcast.cism893.ca/radioshows/685/feed_itunes.xml</description>
+                <title>Quel est le jeu vidéo préféré des Français ?</title>
+                <description>En 2022, le Syndicat des Éditeurs de Logiciels des Loisirs, en collaboration avec Médiamétrie, a livré les résultats de son étude annuelle sur Les Français et le jeu vidéo, un sondage mené auprès d’un échantillon de 4001 internautes de 10 ans et plus.
+Au vu des résultats, la popularité du jeu vidéo ne se dément pas. 70% de Français y jouent au moins occasionnellement. Les quarantenaires sont en première ligne, et seuls 12% des joueurs ont moins de 18 ans...
+Feed: https://feeds.megaphone.fm/BABA4781584394</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/292075.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/292075.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/292075.mp3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA1606864888.mp3?updated=1689176491"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Avant nos recos culturelles de l&#39;été</title>
-                <description>Avec Alix, Kalindi, Camille et Louise
-Feed: https://feeds.acast.com/public/shows/4-quarts-dheure</description>
+                <title>Comment participer au décollage économique des Africains | 123</title>
+                <description>&lt;p&gt;PROBLÈME DU JOUR: La nouvelle génération d’africains doit se conscientiser et cessez d’avoir peur de sortir du cycle de pauvreté dans nos communautés noires&lt;br/&gt;&lt;br/&gt;Aperçu du livre, SAPOLOGIE FINANCIÈRE: Comment Briser les Tabous Africains de Finances Personnelles&lt;br/&gt;&lt;br/&gt;STRATÉGIE: Nous devons capitaliser sur tous les outils financiers que notre génération a le privilège de pouvoir déployer&lt;br/&gt;&lt;br/&gt;QUESTION DU JOUR: Comment pouvez-vous contribuer à changer le cours de l’histoire...
+Feed: https://feeds.buzzsprout.com/1376335.rss</description>
                 
                 
-                <link>https://linktr.ee/4quartsdheure</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/632090bb4d259900133e31a5/e/64ac1a6a43129f0011e63ad4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=2YHmfzk_xvGBcnc2yA_aefsO4CKfD6LQ2mPxyJWHbnU"/>
-                <guid>https://linktr.ee/4quartsdheure</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1376335/12885155-comment-participer-au-decollage-economique-des-africains-123.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
