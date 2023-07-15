@@ -9,32 +9,41 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 14 Jul 2023 04:24:01 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 15 Jul 2023 04:23:27 +0200</lastBuildDate>
             <item>
-                <title>FS-210: Conventions, Apple Vision Pro und Podcast Update</title>
-                <description>Themen:
-- Japan
-- Basel
-- FedCon
-- Lange Krank
-- …
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:51513142/sounds.rss</description>
+                <title>Pottcast 108 mit Moritz von SRAM</title>
+                <description>
+    
+	
+									
+					Florian Pätzold
+										
+																														
+				
+												
+					Andreas Steinicke
+										
+																														
+				
+						
+Pottcast 108 mit Moritz von SRAM
+Ihr habt es sicher schon bemerkt, unser Titelbild bzw. der dazugehörige Text ist bei Folge 108 besonders lang. Das hat auch seinen guten Grund, denn wir haben das Privileg mit Moritz Dittmar exklusiv über die neue SRAM AXS GX Transmission zu sprechen, die just erschienen ist...
+Feed: https://meinsportpodcast.de/radsport/feed/</description>
                 
                 
-                <link>https://soundcloud.com/freischnauze-podcast/fs-210-conventions-apple</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1562019232-freischnauze-podcast-fs-210-conventions-apple.mp3"/>
-                <guid>https://soundcloud.com/freischnauze-podcast/fs-210-conventions-apple</guid>
+                <link>https://meinsportpodcast.de/radsport/pottcast-108-mit-moritz-von-sram/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/234107/pottcast-108-mit-moritz-von-sram.mp3?awCollectionId=10292&amp;awEpisodeId=234107"/>
+                <guid>https://meinsportpodcast.de/radsport/pottcast-108-mit-moritz-von-sram/</guid>
                 
             </item><item>
-                <title>MC 164: Wie zentral ist das Kreuz? Erkenntnisse aus der Verkündigung der ersten Christen</title>
-                <description>In diesem Podcast untersuche ich die Bedeutung des Kreuzes in der Verkündigung der Apostelgeschichte. Welche Rolle spielt das Kreuz und seine theologische Deutung in der missionarischen und bezeugenden Tätigkeit der Apostel?
-Dieser Podcast ist als Er...
-Feed: https://Movecast.podbean.com/feed.xml</description>
+                <title>Fotografische Momente</title>
+                <description>radioRAW No 103 - Fotografische Momente
+Feed: https://www.radioraw.de/feed/podcast-m4a/</description>
                 
                 
-                <link>https://Movecast.podbean.com/e/mc-164-wie-zentral-ist-das-kreuz-erkenntnisse-aus-der-verkundigung-der-ersten-christen/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/g3z45i/MC_164_Wie_zentral_ist_das_Kreuz6iw86.mp3"/>
-                <guid>https://Movecast.podbean.com/e/mc-164-wie-zentral-ist-das-kreuz-erkenntnisse-aus-der-verkundigung-der-ersten-christen/</guid>
+                <link>https://www.radioraw.de/radioraw-103-fotografische-momente/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.radioraw.de/podlove/file/996/s/feed/c/podcast-m4a/radioRAW103_Fotografische_Momente.m4a"/>
+                <guid>https://www.radioraw.de/radioraw-103-fotografische-momente/</guid>
                 
             </item>
         </channel>
