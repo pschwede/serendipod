@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 15 Jul 2023 04:23:33 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 16 Jul 2023 04:23:18 +0200</lastBuildDate>
             <item>
-                <title>Épisode 50 : Florian, Romain, Antoine - Coucou c&#39;est nous !</title>
-                <description>&lt;p&gt;Florian Nunez, Romain Becker, Antoine Msika&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Rendons à César ce qui est à César, c’est notre amie Alessandra Fottorino, autrice de l&amp;#39;excellent In Vino Femina, formatrice et agente, qui a eu l’idée de cet épisode. &lt;/p&gt;&lt;p&gt;« Vous savez les gars, nous a-t-elle dit, ça serait bien que vous vous présentiez, qu’on en sache un peu plus sur vous ». &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;C’est vrai que depuis 4 ans, on nous voit peu...
-Feed: https://anchor.fm/s/d058158/podcast/rss</description>
+                <title>Culte en direct du temple de Payerne</title>
+                <description>La communauté réformée nous invite à vivre une célébration dans léglise paroissiale de Payerne. La prédication sera portée par la pasteure ...
+Feed: https://www.rts.ch/emissions/religion/cultes-messes/podcasts/?format=rss/podcast</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/le-bon-grain-de-livresse/episodes/pisode-50--Florian--Romain--Antoine---Coucou-cest-nous-e26otqf</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/d058158/podcast/play/73217295/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-10%2Ff401b531-f432-4991-ca03-b0d9b162ade5.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/le-bon-grain-de-livresse/episodes/pisode-50--Florian--Romain--Antoine---Coucou-cest-nous-e26otqf</guid>
+                <link>https://www.rts.ch/video/emissions/religion/cultes-messes/14146501-culte-en-direct-du-temple-de-payerne.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/14146501/dd380c96-5c95-3de6-91cb-e443356800e8.mp4"/>
+                <guid>https://www.rts.ch/video/emissions/religion/cultes-messes/14146501-culte-en-direct-du-temple-de-payerne.html</guid>
                 
             </item><item>
-                <title>Pourquoi le logo du cinéma Pathé est-il un coq ? </title>
-                <description>Nombreuses sont les marques qui utilisent le coq dans leur logo. Mais il semble que l’entreprise de cinéma Pathé ait aujourd’hui une très forte empreinte dans la culture française, et fait presque partie de son patrimoine.
-Fondée en 1896, Pathé est la deuxième plus ancienne société de cinéma encore en activité dans le monde, avec Gaumont. C’est le premier réseau de cinéma en France métropolitaine et aux Pays-Bas, avec plus de 800 salles...
-Feed: https://feeds.megaphone.fm/BABA4781584394</description>
+                <title>Chemins d&#39;histoire-La res publica impériale, de Sylla à Trajan, avec J. Kennedy-16.07.23</title>
+                <description>Cent cinquante-huitième numéro de Chemins d&#39;histo…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:73343895/sounds.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA5240089550.mp3?updated=1689177592"/>
-                <guid></guid>
+                <link>https://soundcloud.com/luc-daireaux/chemins-dhistoire-la-res-publica-imperiale-de-sylla-a-trajan-avec-j-kennedy-160723</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1566106489-luc-daireaux-chemins-dhistoire-la-res-publica-imperiale-de-sylla-a-trajan-avec-j-kennedy-160723.mp3"/>
+                <guid>https://soundcloud.com/luc-daireaux/chemins-dhistoire-la-res-publica-imperiale-de-sylla-a-trajan-avec-j-kennedy-160723</guid>
                 
             </item>
         </channel>

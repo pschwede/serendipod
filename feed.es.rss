@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 15 Jul 2023 04:23:39 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 16 Jul 2023 04:23:23 +0200</lastBuildDate>
             <item>
-                <title>Oso polar gala .</title>
-                <description>Pingo se lleva a polar a hacerle un traje de gala y todo termina mal para polar  .
-Feed: https://www.spreaker.com/show/4548059/episodes/feed</description>
+                <title>Peligrosamente juntos - Jason Isbell &amp; The 400 Units - 15/07/23</title>
+                <description>Jason Isbell &amp; The 400 Units
+Feed: http://api.rtve.es/api/programas/2066/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/user/podway/oso-polar-gala-jun-18</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/E29D27/api.spreaker.com/download/episode/55994265/oso_polar_gala_jun_18.mp3"/>
-                <guid>https://www.spreaker.com/user/podway/oso-polar-gala-jun-18</guid>
+                <link>https://www.rtve.es/play/audios/peligrosamente-juntos/jason-isbell-the-400-units-15-07-23/6932220/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SPELIG/mp3/3/3/1689007159933.mp3"/>
+                <guid>https://www.rtve.es/play/audios/peligrosamente-juntos/jason-isbell-the-400-units-15-07-23/6932220/</guid>
                 
             </item><item>
-                <title>Capítulo 36 - Inflación en las notas de acceso a la universidad, con Avelino Vicente</title>
-                <description>Ya ha llegado de nuevo esa hermosa &amp;eacute;poca del a&amp;ntilde;o en que los estudiantes de segundo de bachiller se re&amp;uacute;nen en grandes n&amp;uacute;meros para hacer los ex&amp;aacute;menes de acceso a la universidad. Y nosotros aprovechamos para hablar de una problem&amp;aacute;tica relacionada con esto: las notas de corte para el acceso a los grados, que llevan unos cuantos a&amp;ntilde;os en continuo ascenso...
-Feed: https://www.ivoox.com/feed_fg_f11214570_filtro_1.xml</description>
+                <title>LITTLE STEVEN 25_06_23</title>
+                <description>
+Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
                 
                 
-                <link>http://www.ivoox.com/capitulo-36-inflacion-notas-de-audios-mp3_rf_110772682_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/capitulo-36-inflacion-notas-de_mf_110772682_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/capitulo-36-inflacion-notas-de-audios-mp3_rf_110772682_1.html</guid>
+                <link>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/little-steven-25-06-23-20230626_2292936</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rockfm-cdnmed.agilecontent.com/resources/mp3/2/5/1687799608652.mp3"/>
+                <guid>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/little-steven-25-06-23-20230626_2292936</guid>
                 
             </item>
         </channel>

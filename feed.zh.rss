@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 15 Jul 2023 04:23:50 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 16 Jul 2023 04:23:33 +0200</lastBuildDate>
             <item>
-                <title>#53 Disproving Ravenel&#39;s &#34;telescope conjecture&#34;: an interview with Tomer Schlank and Jeremy Hahn</title>
-                <description>&lt;p&gt;Episode recorded: 07/07/23&lt;br/&gt;&lt;br/&gt;In this episode of Living Proof,&lt;b&gt; Dan Aspel&lt;/b&gt; and &lt;b&gt;Marianne Freiberger &lt;/b&gt;are joined by &lt;b&gt;Tomer Schlank&lt;/b&gt; (Hebrew University of Jerusalem) and &lt;b&gt;Jeremy Hahn&lt;/b&gt; (MIT). Working alongside Robert Burklund and Ishan Levy, Tomer and Jeremy&amp;apos;s recently announced a disproof of Ravenel&amp;apos;s telescope conjecture at the June 2023 INI workshop &amp;quot;A panorama of homotopy theory&amp;quot;...
-Feed: https://feeds.buzzsprout.com/1992011.rss</description>
+                <title>gnuWorldOrder_520</title>
+                <description>
+**fftw** , **fluidsynth** , **freecell-solver** , **freetype** , **frei0r** ,
+**fribidi** , **fuse** from the **l** software set of Slackware.
+ shasum -a256=443c4933ba0b9ffb9b6881944e54e6f0d090b425a46de64289b9d979a9cd037a
+Feed: https://gnuworldorder.info/ogg.xml</description>
+                
+                
+                <link>http://gnuworldorder.info//audiophile/gnuWorldOrder_520_ogg.ogg</link>
+                <enclosure type="audio/mpeg" length="1" url="http://gnuworldorder.info//audiophile/gnuWorldOrder_520_ogg.ogg"/>
+                <guid>http://gnuworldorder.info//audiophile/gnuWorldOrder_520_ogg.ogg</guid>
+                
+            </item><item>
+                <title>Patreon Preview: Third Worldism, but Make it Racist</title>
+                <description>&lt;p&gt;Ukrainian Nationalism and Third Worldism in the Cold War&lt;/p&gt;&lt;p&gt;This week we read and discussed Congo on the Dnipro: Third Worldism and the Nationalization of Soviet Internationalism in Ukraine by Thom Lloyd. The author discusses attempts by Ukrainian nationalists to appropriate the language of third world liberation struggles, but with a twist (spoiler alert, its a racist one).&lt;/p&gt;&lt;p&gt;Loyd, Thom...
+Feed: https://feeds.buzzsprout.com/220523.rss</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1992011/13179500-53-disproving-ravenel-s-telescope-conjecture-an-interview-with-tomer-schlank-and-jeremy-hahn.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/220523/13219557-patreon-preview-third-worldism-but-make-it-racist.mp3"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Ep. 61 - Bill and Steve’s Floating Fen Foray (featuring the WNY Land Conservancy)</title>
-                <description>This month, Bill and Steve visit Floating Fen, although some might call it a bog, or is it a swamp? 
-Feed: https://www.thefieldguidespodcast.com/new-blog?format=rss</description>
-                
-                
-                <link>http://www.thefieldguidespodcast.com/new-blog/2023/6/28/ep-61-the-field-guides-floating-fen-foray</link>
-                <enclosure type="audio/mpeg" length="1" url="https://static1.squarespace.com/static/55fed072e4b0fc002cb47dd4/t/649cd01f368e2c3a2fb91887/1687998838629/Ep.+61+-+Floating+Fen+Final.mp3"/>
-                <guid>http://www.thefieldguidespodcast.com/new-blog/2023/6/28/ep-61-the-field-guides-floating-fen-foray</guid>
                 
             </item>
         </channel>

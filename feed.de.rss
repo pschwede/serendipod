@@ -9,41 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 15 Jul 2023 04:23:27 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 16 Jul 2023 04:23:13 +0200</lastBuildDate>
             <item>
-                <title>Pottcast 108 mit Moritz von SRAM</title>
-                <description>
-    
-	
-									
-					Florian Pätzold
-										
-																														
-				
-												
-					Andreas Steinicke
-										
-																														
-				
-						
-Pottcast 108 mit Moritz von SRAM
-Ihr habt es sicher schon bemerkt, unser Titelbild bzw. der dazugehörige Text ist bei Folge 108 besonders lang. Das hat auch seinen guten Grund, denn wir haben das Privileg mit Moritz Dittmar exklusiv über die neue SRAM AXS GX Transmission zu sprechen, die just erschienen ist...
-Feed: https://meinsportpodcast.de/radsport/feed/</description>
+                <title>BetzeGebabbel – Folge #73: Geilheitsfaktor</title>
+                <description>Der Podcast über den geilsten Club der Welt, das Herz der Pfalz: Den 1. FC Kaiserslautern.
+Daniel, Flo, Mathias, Paul, Stefan und Tobi diskutieren über alles Mögliche rund um den Betzenberg - ehrlich, humorvoll, interaktiv.
+Feed: https://www.betzegebabbel.de/feed/podcast-m4a/</description>
                 
                 
-                <link>https://meinsportpodcast.de/radsport/pottcast-108-mit-moritz-von-sram/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/234107/pottcast-108-mit-moritz-von-sram.mp3?awCollectionId=10292&amp;awEpisodeId=234107"/>
-                <guid>https://meinsportpodcast.de/radsport/pottcast-108-mit-moritz-von-sram/</guid>
+                <link>https://www.betzegebabbel.de/2023/06/16/betzegebabbel-folge-73-geilheitsfaktor/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.betzegebabbel.de/podlove/file/1996/s/feed/c/podcast-m4a/BetzeGebabbel73.m4a"/>
+                <guid>https://www.betzegebabbel.de/2023/06/16/betzegebabbel-folge-73-geilheitsfaktor/</guid>
                 
             </item><item>
-                <title>Fotografische Momente</title>
-                <description>radioRAW No 103 - Fotografische Momente
-Feed: https://www.radioraw.de/feed/podcast-m4a/</description>
+                <title>Podcast-Gespräch • PD Dr. Timur Sevincer • Augenhöhe (10): Die Psychologie des Zukunftsdenkens</title>
+                <description>Wir alle denken über die Zukunft nach – viel öfter, als uns klar ist. Das Zukunftsdenken ist eng mit Motivationspsychologie und Selbstregulation […]
+Feed: https://podcast.kortizes.de/feed/podcast/</description>
                 
                 
-                <link>https://www.radioraw.de/radioraw-103-fotografische-momente/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.radioraw.de/podlove/file/996/s/feed/c/podcast-m4a/radioRAW103_Fotografische_Momente.m4a"/>
-                <guid>https://www.radioraw.de/radioraw-103-fotografische-momente/</guid>
+                <link>https://podcast.kortizes.de/augenhoehe-10-timur-sevincer/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.kortizes.de/wp-content/uploads/Augenhoehe-11-Timur-Sevincer-Kopie.mp3"/>
+                <guid>https://podcast.kortizes.de/augenhoehe-10-timur-sevincer/</guid>
                 
             </item>
         </channel>
