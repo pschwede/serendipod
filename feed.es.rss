@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 16 Jul 2023 04:23:23 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 17 Jul 2023 04:24:46 +0200</lastBuildDate>
             <item>
-                <title>Peligrosamente juntos - Jason Isbell &amp; The 400 Units - 15/07/23</title>
-                <description>Jason Isbell &amp; The 400 Units
-Feed: http://api.rtve.es/api/programas/2066/audios.rss</description>
+                <title>114: Nos vamos de campamento</title>
+                <description>En este episodio discutimos sobre la comida, las comodidades y la importancia de conocer tus límites a la hora de acampar.
+Feed: https://www.easyspanish.fm/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/peligrosamente-juntos/jason-isbell-the-400-units-15-07-23/6932220/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SPELIG/mp3/3/3/1689007159933.mp3"/>
-                <guid>https://www.rtve.es/play/audios/peligrosamente-juntos/jason-isbell-the-400-units-15-07-23/6932220/</guid>
+                <link>https://www.easyspanish.fm/114</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G7F34G/aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/59d2ff5d-af94-4916-b3c4-85d3134e5d21.mp3"/>
+                <guid>https://www.easyspanish.fm/114</guid>
                 
             </item><item>
-                <title>LITTLE STEVEN 25_06_23</title>
-                <description>
-Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
+                <title>Los escépticos </title>
+                <description>En los tiempos de la Grecia clásica un grupo de filósofos dio origen a un movimiento que se conoció como escepticismo. Defendía dudar de todo y no tener certezas de nada. Y es que quien estaba seguro de algo se acercaba al fanatismo y el dogmatismo...
+Feed: https://www.ondacero.es/rss/podcast/8502/podcast.xml</description>
                 
                 
-                <link>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/little-steven-25-06-23-20230626_2292936</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rockfm-cdnmed.agilecontent.com/resources/mp3/2/5/1687799608652.mp3"/>
-                <guid>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/little-steven-25-06-23-20230626_2292936</guid>
+                <link>https://www.ondacero.es/programas/la-rosa-de-los-vientos/audios-podcast/entrevistas/escepticos_2023071764b4b5e2f7868800014f4924.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.antena3.com/mp_audios4//2023/07/17/FB8C6061-18CF-427D-9E78-72F8D5A4A50C/FB8C6061-18CF-427D-9E78-72F8D5A4A50C.mp3"/>
+                <guid>https://www.ondacero.es/programas/la-rosa-de-los-vientos/audios-podcast/entrevistas/escepticos_2023071764b4b5e2f7868800014f4924.html</guid>
                 
             </item>
         </channel>

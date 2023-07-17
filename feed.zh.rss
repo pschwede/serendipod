@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 16 Jul 2023 04:23:33 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 17 Jul 2023 04:24:56 +0200</lastBuildDate>
             <item>
-                <title>gnuWorldOrder_520</title>
-                <description>
-**fftw** , **fluidsynth** , **freecell-solver** , **freetype** , **frei0r** ,
-**fribidi** , **fuse** from the **l** software set of Slackware.
- shasum -a256=443c4933ba0b9ffb9b6881944e54e6f0d090b425a46de64289b9d979a9cd037a
-Feed: https://gnuworldorder.info/ogg.xml</description>
+                <title>(S5E31) Ties Go to Good Boys</title>
+                <description>In this thrilling episode, our heroes storm a defended mining room. Alecto does some fancy dodging. Kristy swings a big club. Ebenezer scores a big one.   Cast:   Jeff Richardson as the Loremaster @eljefetacoma   Kristy Ellen as Keziah...
+Feed: https://shatteredworlds.libsyn.com/rss</description>
                 
                 
-                <link>http://gnuworldorder.info//audiophile/gnuWorldOrder_520_ogg.ogg</link>
-                <enclosure type="audio/mpeg" length="1" url="http://gnuworldorder.info//audiophile/gnuWorldOrder_520_ogg.ogg"/>
-                <guid>http://gnuworldorder.info//audiophile/gnuWorldOrder_520_ogg.ogg</guid>
+                <link>https://shatteredworlds.libsyn.com/s5e31-ties-go-to-good-boys</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/shatteredworlds/SWRPG_June_29_2023_AJ_Sako_Jayme_Kristy_Upload.mp3?dest-id=463252"/>
+                <guid>https://shatteredworlds.libsyn.com/s5e31-ties-go-to-good-boys</guid>
                 
             </item><item>
-                <title>Patreon Preview: Third Worldism, but Make it Racist</title>
-                <description>&lt;p&gt;Ukrainian Nationalism and Third Worldism in the Cold War&lt;/p&gt;&lt;p&gt;This week we read and discussed Congo on the Dnipro: Third Worldism and the Nationalization of Soviet Internationalism in Ukraine by Thom Lloyd. The author discusses attempts by Ukrainian nationalists to appropriate the language of third world liberation struggles, but with a twist (spoiler alert, its a racist one).&lt;/p&gt;&lt;p&gt;Loyd, Thom...
-Feed: https://feeds.buzzsprout.com/220523.rss</description>
+                <title>115 - I’m Getting a Twinkie Vibe</title>
+                <description>Anthony is joined by Loren Grush (Bloomberg) and Rachael Zisk (Payload), to talk about Loren’s recent trip to see Virgin Galactic’s first commercial flight, to catch up on some news, and to do a mid-year check in on our 2023 predictions.
+Feed: https://feeds.simplecast.com/iyz_ESAp</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/220523/13219557-patreon-preview-third-worldism-but-make-it-racist.mp3"/>
-                <guid></guid>
+                <link>https://offnom.com/episodes/115</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/0dabfb01-42a8-4e13-a744-c84d1aa5e518/episodes/e5ff42a2-0080-4bb6-a03b-12632e68b8ea/audio/82d0d5b2-1dbb-4edd-ba3b-c25061119801/default_tc.mp3?aid=rss_feed&amp;feed=iyz_ESAp"/>
+                <guid>https://offnom.com/episodes/115</guid>
                 
             </item>
         </channel>

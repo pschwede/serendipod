@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 16 Jul 2023 04:23:13 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 17 Jul 2023 04:24:35 +0200</lastBuildDate>
             <item>
-                <title>BetzeGebabbel – Folge #73: Geilheitsfaktor</title>
-                <description>Der Podcast über den geilsten Club der Welt, das Herz der Pfalz: Den 1. FC Kaiserslautern.
-Daniel, Flo, Mathias, Paul, Stefan und Tobi diskutieren über alles Mögliche rund um den Betzenberg - ehrlich, humorvoll, interaktiv.
-Feed: https://www.betzegebabbel.de/feed/podcast-m4a/</description>
+                <title>Interview mit Dieter Riedel, Ehrenspielführer der SG Dynamo Dresden</title>
+                <description>Kaum eine Person hat so viele Turbulenzen bei Dyn…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:105781993/sounds.rss</description>
                 
                 
-                <link>https://www.betzegebabbel.de/2023/06/16/betzegebabbel-folge-73-geilheitsfaktor/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.betzegebabbel.de/podlove/file/1996/s/feed/c/podcast-m4a/BetzeGebabbel73.m4a"/>
-                <guid>https://www.betzegebabbel.de/2023/06/16/betzegebabbel-folge-73-geilheitsfaktor/</guid>
+                <link>https://soundcloud.com/welle1953/interview-mit-dieter-riedel-ehrenspielfuhrer-der-sg-dynamo-dresden</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1565095930-welle1953-interview-mit-dieter-riedel-ehrenspielfuhrer-der-sg-dynamo-dresden.mp3"/>
+                <guid>https://soundcloud.com/welle1953/interview-mit-dieter-riedel-ehrenspielfuhrer-der-sg-dynamo-dresden</guid>
                 
             </item><item>
-                <title>Podcast-Gespräch • PD Dr. Timur Sevincer • Augenhöhe (10): Die Psychologie des Zukunftsdenkens</title>
-                <description>Wir alle denken über die Zukunft nach – viel öfter, als uns klar ist. Das Zukunftsdenken ist eng mit Motivationspsychologie und Selbstregulation […]
-Feed: https://podcast.kortizes.de/feed/podcast/</description>
+                <title>TALK #88 - Fabio Melone</title>
+                <description>Hinter dem Vorhang der Leichtigkeit
+Feed: https://3fq1h4.podcaster.de/HDVDL.rss</description>
                 
                 
-                <link>https://podcast.kortizes.de/augenhoehe-10-timur-sevincer/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.kortizes.de/wp-content/uploads/Augenhoehe-11-Timur-Sevincer-Kopie.mp3"/>
-                <guid>https://podcast.kortizes.de/augenhoehe-10-timur-sevincer/</guid>
+                <link>https://3fq1h4.podcaster.de/HDVDL/media/HDVDL_Episode_88_Mastered.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://3fq1h4.podcaster.de/HDVDL/media/HDVDL_Episode_88_Mastered.mp3"/>
+                <guid>https://3fq1h4.podcaster.de/HDVDL/media/HDVDL_Episode_88_Mastered.mp3</guid>
                 
             </item>
         </channel>
