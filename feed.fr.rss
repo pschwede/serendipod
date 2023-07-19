@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 18 Jul 2023 04:22:12 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 19 Jul 2023 04:25:27 +0200</lastBuildDate>
             <item>
-                <title>Trance Conference #543#</title>
-                <description>Plus d&#39;info sur notre site
-Feed: https://podcast.pulsradio.com/TranceConference/podcast.xml</description>
+                <title>ZQSDeux #25 - Jika, Deez et FFXVI</title>
+                <description>Jika, Deez et FFXVI
+Feed: http://zqsd.fr/zqsd.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/TranceConference/20230716/TranceConference_20230716.mp3"/>
-                <guid></guid>
+                <link>http://feeds.soundcloud.com/stream/1553682739-zqsd-1-zqsdeux-25-final-fantasy-xvi.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://feeds.soundcloud.com/stream/1553682739-zqsd-1-zqsdeux-25-final-fantasy-xvi.mp3"/>
+                <guid>http://feeds.soundcloud.com/stream/1553682739-zqsd-1-zqsdeux-25-final-fantasy-xvi.mp3</guid>
                 
             </item><item>
-                <title>E3E13 HORS SÉRIE-2 avril-mai-juin 2023 </title>
-                <description>À CHAUD ! est un podcast cinéma de critiques de films qui viennent tout juste de sortir, que ce soit au cinéma ou toutes les plateformes de streaming. Avec ce podcast, on vit les premiers moments des chroniqueurs, leurs sensations, leurs...
-Feed: https://www.vodio.fr/rssmedias.php?valeur=204</description>
+                <title>Résolution de conflit express, comment apaiser une discussion en 3 minutes</title>
+                <description>Dans ce podcast résolution de conflit express, comment apaiser une discussion en 3 minutes.
+Télécharge ton [GUIDE] offert : comment apprendre à se connaître ? 
+https://maximisetonpotentiel.com/guide-apprendre-a-se-co-nnaitre/
+Le fameux point de vue, t...
+Feed: https://feed.ausha.co/5reZZtKQmraZ</description>
                 
                 
-                <link>https://www.vodio.fr/vodiotheque/i/12217/e3e13-hors-serie-2-avril-mai-juin-2023/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/www.vodio.fr/emissions/_ctmieuxavant56G2/s03e13-hs2-04-05-06.mp3"/>
-                <guid>https://www.vodio.fr/vodiotheque/i/12217/e3e13-hors-serie-2-avril-mai-juin-2023/</guid>
+                <link>https://podcast.ausha.co/maximisetonpotentiel/resolution-de-conflit-express-comment-apaiser-une-discussion-en-3-minutes</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/A448G3/https://audio.ausha.co/bW8pwFkW5MaY.mp3?t=1689531451"/>
+                <guid>https://podcast.ausha.co/maximisetonpotentiel/resolution-de-conflit-express-comment-apaiser-une-discussion-en-3-minutes</guid>
                 
             </item>
         </channel>
