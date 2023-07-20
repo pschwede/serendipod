@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 19 Jul 2023 04:25:22 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 20 Jul 2023 04:21:19 +0200</lastBuildDate>
             <item>
-                <title>Sinnlos Sommermärchen: Der Herr der Schwimmringe</title>
-                <description>Als die Sommerferien hereinbrechen, schickt Mutter Geiß die sieben, lieben, sächsischen Geißlein ins Freibad.
-Feed: https://psr-sinnlosmaerchen-itunes.podigee.io/feed/mp3</description>
+                <title>Folge 16 - Respekt vor der Streetfotografie</title>
+                <description>Der Streetfotografie Podcast... Und auch mal was vom Pferd...
+Feed: https://bremer-und-groth.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://psr-sinnlosmaerchen-itunes.podigee.io/67-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1162260-m-a41ad739f246a6db926db917fa4959c2.mp3?source=feed"/>
-                <guid>https://psr-sinnlosmaerchen-itunes.podigee.io/67-neue-episode</guid>
+                <link>https://bremer-und-groth.podigee.io/22-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1154059-m-35c858cced7576c417e70ed45704f14e.mp3?source=feed"/>
+                <guid>https://bremer-und-groth.podigee.io/22-new-episode</guid>
                 
             </item><item>
-                <title>STY – Ep. 247 – Jenny Kurth: IFBB NPC Pro Figure</title>
-                <description>Stronger Than You by Olaf Mann
-Feed: https://stronger-than-you.podigee.io/feed/mp3</description>
+                <title>Verscharrt im Blumenkübel – Die toten Babys von Brieskow-Finkenheerd</title>
+                <description>Nur durch Zufall wurden die &amp;#220;berreste von neun Kindern entdeckt, in T&amp;#252;ten gewickelt und in Eimern und Blumenk&amp;#252;beln auf einem Balkon vergraben. Wer ist die Frau, die neun ihrer Kinder sterben lie&amp;#223;? Was trieb sie? Warum reagierte der Vater nicht &amp;#8211; und warum bemerkte fast niemand etwas von den Schwangerschaften?
+
+Feed: https://www.rbb24.de/panorama/thema/podcast/imvisier/index.xml/feed=podcast.xml</description>
                 
                 
-                <link>https://stronger-than-you.podigee.io/257-jenny-kurth</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1158234-m-771ac4d42abca64d5f58f90d1c4f2744.mp3?source=feed"/>
-                <guid>https://stronger-than-you.podigee.io/257-jenny-kurth</guid>
+                <link>https://www.rbb24.de/panorama/thema/podcast/imvisier/mord-brandenburg-brieskow-finkenheerd-tote-babys-blumenkuebel-true-crime.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rbbmediapmdp-a.akamaihd.net/content/d6/19/d61934ee-749a-43fe-99bc-0421b93ef879/60ff5f52-6d00-4cdc-b23f-c8b788f808d2_68966a4b-b974-4e30-9a02-3a6919e85fbe.mp3"/>
+                <guid>https://www.rbb24.de/panorama/thema/podcast/imvisier/mord-brandenburg-brieskow-finkenheerd-tote-babys-blumenkuebel-true-crime.html</guid>
                 
             </item>
         </channel>
