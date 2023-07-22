@@ -9,40 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 21 Jul 2023 04:21:34 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 22 Jul 2023 04:20:36 +0200</lastBuildDate>
             <item>
-                <title>659 Música sin usura 16-07-2023______ demasiadas noches</title>
-                <description>Demasiado largas.
-Recorremos la geograf&amp;iacute;a y sus m&amp;uacute;sicas.
-Para m&amp;aacute;s detalles:
-https://slumdar2.wordpress.com
-TIME AND TRACK LIST
-[00:55:00] &amp;ndash; 01...
-Feed: https://www.ivoox.com/podcast-podcast-musica-sin-usura_fg_f126955_filtro_1.xml</description>
+                <title>SD154: Fin de temporada desde el Memorial Víctimas del Terrorismo; Golfo de Guinea; General Gan sobre Ucrania</title>
+                <description>El &amp;uacute;ltimo #sierradelta de la temporada, #sd154, lo hemos realizado por segundo a&amp;ntilde;o desde la sede en Vitoria de la Fundaci&amp;oacute;n Memorial V&amp;iacute;ctimas del Terrorismo...
+Feed: https://www.ivoox.com/sierra-delta_fg_f1507669_filtro_1.xml</description>
                 
                 
-                <link>https://www.ivoox.com/659-musica-sin-usura-16-07-2023-demasiadas-noches-audios-mp3_rf_112484325_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/659-musica-sin-usura-16-07-2023-demasiadas-noches_mh_112484325_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/659-musica-sin-usura-16-07-2023-demasiadas-noches-audios-mp3_rf_112484325_1.html</guid>
+                <link>https://www.ivoox.com/sd154-fin-temporada-desde-memorial-victimas-audios-mp3_rf_112872014_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sd154-fin-temporada-desde-memorial-victimas_mh_112872014_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/sd154-fin-temporada-desde-memorial-victimas-audios-mp3_rf_112872014_1.html</guid>
                 
             </item><item>
-                <title>Star 80 del 15 de julio de 2023 (edición 446 en Can10fm)</title>
-                <description>Atrium - Weekend
-Morgana - Ready For Love
-Lou Sern - Swiss Boy
-Brand Image - Love In A Summer Night
-Shy Rose - You Are My Desire
-Miko Mission - How Old Are You
-Body Power - Nothing
-Radiorama - Chance To Desire
-Stargo - Capsicum
-Stylove Feat...
-Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
+                <title>Melodías pizarras - Vuelta al despiporre - 15/07/23</title>
+                <description>Vuelta al despiporre
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/star-80-del-15-julio-2023-audios-mp3_rf_112452499_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-15-julio-2023_mf_112452499_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/star-80-del-15-julio-2023-audios-mp3_rf_112452499_1.html</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/vuelta-despiporre-15-07-23/6934280/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SMELODI/mp3/5/9/1689250508795.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/vuelta-despiporre-15-07-23/6934280/</guid>
                 
             </item>
         </channel>
