@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 22 Jul 2023 04:20:32 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 23 Jul 2023 04:20:35 +0200</lastBuildDate>
             <item>
-                <title>Va voir ailleurs si j&#39;y suis : 07/20/2023 16:00</title>
-                <description>669-292902
-Feed: http://podcast.cism893.ca/radioshows/669/feed_itunes.xml</description>
+                <title>&#34;Aguirre&#34;, &#34;Fitzcarraldo&#34; : les tournages fous de Werner Herzog</title>
+                <description>&#34;Aguirre&#34;, &#34;Fitzcarraldo&#34; : les tournages fous de Werner Herzog
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13940.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/292902.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/292902.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/292902.mp3</guid>
+                <link>http://www.franceinter.fr/emission-affaires-sensibles</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a4b59f92-3060-4de0-b57f-d7f9275b80e4/13940-21.07.2023-ITEMA_23444073-2021F22805S0365-22.mp3"/>
+                <guid>http://www.franceinter.fr/emission-affaires-sensibles</guid>
                 
             </item><item>
-                <title>Lecture / &#34;L&#39;Enfant d&#39;éléphant&#34;, Rudyard Kipling (troisième extrait).</title>
-                <description>Lecture de la fin du conte de Rudyard Kipling, &#34;L&#39;Enfant d&#39;éléphant&#34;, 1902
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/5140_c5acf2561b46b130695626c3c2cb0fac.rss</description>
+                <title>No Border #494#</title>
+                <description>Plus d&#39;info sur notre site
+Feed: https://podcast.pulsradio.com/NoBorder/podcast.xml</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/lecture-lenfant-delephant-rudyard-kipling-troisieme-extrait-239618/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/5140/239618.mp3?s=13657590"/>
-                <guid>https://www.podcastics.com/podcast/episode/lecture-lenfant-delephant-rudyard-kipling-troisieme-extrait-239618/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/NoBorder/20230716/NoBorder_20230716.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

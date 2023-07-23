@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 22 Jul 2023 04:20:40 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 23 Jul 2023 04:20:48 +0200</lastBuildDate>
             <item>
                 <title>Emissão Vespertina Qui - julho 20, 2023</title>
                 <description>Um programa orientado aos países Lusófonos de África, Brasil e comunidades de língua portuguesa no mundo. Oferece noticias do dia, informação, analises, desporto, artes, entretenimento, saúde, questões em debate em África. Às sextas em especial um convidado explora vários ângulos de um tema.
@@ -21,25 +21,14 @@ Feed: https://www.voaportugues.com/podcast/?count=20&amp;zoneId=3066</descriptio
                 <guid></guid>
                 
             </item><item>
-                <title>Progress #497 HearThis Exclusive Mix</title>
-                <description>Progress #497
-www.centraldj.com.br/progress/497
-Subscribe for free on iTunes:
-https://itunes.apple.com/br/podcast/progress/id1077982631?mt=2
--- 
-Progress
-By: DJ MTS
-To broadcast Progress on your radio/webradio, click here:
-https://www.centraldj.com.br/programas/?p=progress
-Follow Progress @ Twitter: http://twitter.com/progressbymts
-Like Progress @ Facebook: http://www.facebook.com/Progressbymts
-Follow Progress @ Instagram: http://www.instagram...
-Feed: https://hearthis.at/djmts/podcast/</description>
+                <title>TECNOPOLITICA #183 -  Mídia e Arte Ativismo Sul-Sul</title>
+                <description>Nesse episódio do Tecnopolítica, Sérgio Amadeu co…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:555955248/sounds.rss</description>
                 
                 
-                <link>https://hearthis.at/djmts/progress497/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/djmts/progress497/listen.mp3?s=oxv"/>
-                <guid>https://hearthis.at/djmts/progress497/</guid>
+                <link>https://soundcloud.com/podcasttecnopolitica/tecnopolitica-182</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1526330089-podcasttecnopolitica-tecnopolitica-182.mp3"/>
+                <guid>https://soundcloud.com/podcasttecnopolitica/tecnopolitica-182</guid>
                 
             </item>
         </channel>

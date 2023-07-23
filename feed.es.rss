@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 22 Jul 2023 04:20:36 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 23 Jul 2023 04:20:41 +0200</lastBuildDate>
             <item>
-                <title>SD154: Fin de temporada desde el Memorial Víctimas del Terrorismo; Golfo de Guinea; General Gan sobre Ucrania</title>
-                <description>El &amp;uacute;ltimo #sierradelta de la temporada, #sd154, lo hemos realizado por segundo a&amp;ntilde;o desde la sede en Vitoria de la Fundaci&amp;oacute;n Memorial V&amp;iacute;ctimas del Terrorismo...
-Feed: https://www.ivoox.com/sierra-delta_fg_f1507669_filtro_1.xml</description>
+                <title>Islas de Robinson - Música para una nueva sociedad - 17/07/23</title>
+                <description>Música para una nueva sociedad
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/sd154-fin-temporada-desde-memorial-victimas-audios-mp3_rf_112872014_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sd154-fin-temporada-desde-memorial-victimas_mh_112872014_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/sd154-fin-temporada-desde-memorial-victimas-audios-mp3_rf_112872014_1.html</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/musica-para-nueva-sociedad-17-07-23/6936020/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SISLAS/mp3/1/1/1689553398011.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/musica-para-nueva-sociedad-17-07-23/6936020/</guid>
                 
             </item><item>
-                <title>Melodías pizarras - Vuelta al despiporre - 15/07/23</title>
-                <description>Vuelta al despiporre
+                <title>Melodías pizarras - Fin de temporada - 22/07/23</title>
+                <description>Fin de temporada
 Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/vuelta-despiporre-15-07-23/6934280/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SMELODI/mp3/5/9/1689250508795.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/vuelta-despiporre-15-07-23/6934280/</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/22-07-23/6939035/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SMELODI/mp3/6/4/1689929799546.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/22-07-23/6939035/</guid>
                 
             </item>
         </channel>
