@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 23 Jul 2023 04:20:48 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 24 Jul 2023 04:21:47 +0200</lastBuildDate>
             <item>
-                <title>Emissão Vespertina Qui - julho 20, 2023</title>
-                <description>Um programa orientado aos países Lusófonos de África, Brasil e comunidades de língua portuguesa no mundo. Oferece noticias do dia, informação, analises, desporto, artes, entretenimento, saúde, questões em debate em África. Às sextas em especial um convidado explora vários ângulos de um tema.
-Feed: https://www.voaportugues.com/podcast/?count=20&amp;zoneId=3066</description>
+                <title>4. A Besta que Emerge do Mar (Apocalipse 13.1-10) - Pr. Geimar de Lima</title>
+                <description>Passagem exposta:
+&#34;Vi emergir do mar uma besta qu…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:95652311/sounds.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://av.voanews.com/clips/VPO/2023/07/20/20230720-170000-VPO077-program_original.mp3"/>
-                <guid></guid>
+                <link>https://soundcloud.com/ipsantoamaro/4-a-besta-que-emerge-do-mar-apocalipse-131-10-pr-geimar-de-lima</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1570547518-ipsantoamaro-4-a-besta-que-emerge-do-mar-apocalipse-131-10-pr-geimar-de-lima.mp3"/>
+                <guid>https://soundcloud.com/ipsantoamaro/4-a-besta-que-emerge-do-mar-apocalipse-131-10-pr-geimar-de-lima</guid>
                 
             </item><item>
-                <title>TECNOPOLITICA #183 -  Mídia e Arte Ativismo Sul-Sul</title>
-                <description>Nesse episódio do Tecnopolítica, Sérgio Amadeu co…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:555955248/sounds.rss</description>
+                <title>#204 - À conversa com Tim Vieira, Empresário e CEO da Bright Future Academy</title>
+                <description>Tim Vieira ficou conhecido por participar no Shark Tank Portugal, criou um modelo diferente de escolas, tem negócios em vários países e, mais recentemente, surpreendeu tudo e todos a anunciar a intenção de se candidatar à Presidência da República. 
+N...
+Feed: https://feed.podbean.com/barbarabarroso/feed.xml</description>
                 
                 
-                <link>https://soundcloud.com/podcasttecnopolitica/tecnopolitica-182</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1526330089-podcasttecnopolitica-tecnopolitica-182.mp3"/>
-                <guid>https://soundcloud.com/podcasttecnopolitica/tecnopolitica-182</guid>
+                <link>https://barbarabarroso.podbean.com/e/204-a-conversa-com-tim-vieira-empresario-e-ceo-da-bright-future-academy/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/g57bm8/EPISODIO204.mp3"/>
+                <guid>https://barbarabarroso.podbean.com/e/204-a-conversa-com-tim-vieira-empresario-e-ceo-da-bright-future-academy/</guid>
                 
             </item>
         </channel>

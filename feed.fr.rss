@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 23 Jul 2023 04:20:35 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 24 Jul 2023 04:21:37 +0200</lastBuildDate>
             <item>
-                <title>&#34;Aguirre&#34;, &#34;Fitzcarraldo&#34; : les tournages fous de Werner Herzog</title>
-                <description>&#34;Aguirre&#34;, &#34;Fitzcarraldo&#34; : les tournages fous de Werner Herzog
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13940.xml</description>
+                <title>#83 Katinka Sarkozy, fondatrice de KIKOFF Agency : construis ce que tu veux être </title>
+                <description>&lt;p&gt;Katinka Sarkozy a 32 ans et est la tête d’une agence digitale référence à Paris.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Issue d’une famille créative, entreprenante et travailleuse, elle a des rêves d’indépendance dès son plus jeune âge...
+Feed: https://feeds.acast.com/public/shows/61969132f2a68400119b1827</description>
                 
                 
-                <link>http://www.franceinter.fr/emission-affaires-sensibles</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a4b59f92-3060-4de0-b57f-d7f9275b80e4/13940-21.07.2023-ITEMA_23444073-2021F22805S0365-22.mp3"/>
-                <guid>http://www.franceinter.fr/emission-affaires-sensibles</guid>
+                <link>https://shows.acast.com/l-alea-par-laura-pouliquen/episodes/katinka-sarkozy-kikoff-agency-construis-ce-que-tu-veux-etre</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/61969132f2a68400119b1827/e/64b3aaeb59542d0011d72f7c/media.mp3"/>
+                <guid>https://shows.acast.com/l-alea-par-laura-pouliquen/episodes/katinka-sarkozy-kikoff-agency-construis-ce-que-tu-veux-etre</guid>
                 
             </item><item>
-                <title>No Border #494#</title>
-                <description>Plus d&#39;info sur notre site
-Feed: https://podcast.pulsradio.com/NoBorder/podcast.xml</description>
+                <title>Radio Rôliste #140 : Monsterhearts seconde édition en français (Chronique)</title>
+                <description>Monsterhearts est un jeu d’horreur sociale et personnelle dans lequel les joueurs incarnent des adolescents en proie aux troubles de la puberté, à la complexité de la vie dans un lycée américain, et qui sont secrètement des monstres.
+Feed: https://www.radio-roliste.net/?feed=rss2</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/NoBorder/20230716/NoBorder_20230716.mp3"/>
-                <guid></guid>
+                <link>https://www.radio-roliste.net/?p=3130</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/radio_roliste/www.radio-roliste.net/wp-content/uploads/powerpress/RR140%20-%20Chronique%20Monsterhearts.mp3"/>
+                <guid>https://www.radio-roliste.net/?p=3130</guid>
                 
             </item>
         </channel>
