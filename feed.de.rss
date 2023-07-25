@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 24 Jul 2023 04:21:32 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 25 Jul 2023 04:21:31 +0200</lastBuildDate>
             <item>
-                <title>SBS #110</title>
-                <description>+ Indiana Jones und das Rad des Schicksals - Spoiler Special!!
-Feed: https://cdn.julephosting.de/podcasts/452-strater-bender-streberg-der-podcast/feed.rss</description>
+                <title>Der imagePROGRAF PRO1000 von Canon und Papiere von Hahnemühle im Test</title>
+                <description>Jungs und ihre Spielzeuge: Michael, Neufi und Thomas unterhalten sich über den Test des imagePROGRAF PRO-1000 von Canon und dessen Qualität auf Canon und Hahnemühle Papieren. Und ein Fachmann kommt zu Wort, Grafiker und Illustrator Michael Haipeter.
+Feed: https://fotopodcast.de/feed/mp3/</description>
                 
                 
-                <link>https://straeter-bender-streberg-der-podcast.blogs.julephosting.de/126-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ads.julephosting.de/podcasts/452-strater-bender-streberg-der-podcast/105530-new-episode.mp3?v=1&amp;awCollectionId=julephosting_62162cc2cd24b&amp;awEpisodeId=105530"/>
-                <guid>https://straeter-bender-streberg-der-podcast.blogs.julephosting.de/126-new-episode</guid>
+                <link>https://fotopodcast.de/fpc340/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fotopodcast.de/podlove/file/7396/s/feed/c/mp3/fpc340.mp3"/>
+                <guid>https://fotopodcast.de/fpc340/</guid>
                 
             </item><item>
-                <title>Auswandern nach Portugal: Von der Radiojournalistin zur Tee-Produzentin</title>
-                <description>Nina Gruntkowski und ihre Auswanderung
-Feed: https://derauswandererpodcast.podigee.io/feed/mp3</description>
+                <title>Über die Kraft tiefer Heilungsprozesse</title>
+                <description>Verena König und Kathie Kleff haben in einem Insta Live über die Kraft tiefer Heilungsprozesse gesprochen und darüber, wie diese gelingen können.     In dieser Folge erfährst du:  Wie tiefgreifende Heilungsprozesse gelingen können Was...
+Feed: https://verenakoenig.libsyn.com/rss</description>
                 
                 
-                <link>https://derauswandererpodcast.podigee.io/146-episode-portugal</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1158414-m-182410088b4811a0bbecf84802340549.mp3?source=feed"/>
-                <guid>https://derauswandererpodcast.podigee.io/146-episode-portugal</guid>
+                <link>https://verenakoenig.libsyn.com/256-ber-die-kraft-tiefer-heilungsprozesse</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/verenakoenig/256_ber_die_Kraft_tiefer_Heilungsprozesse.mp3?dest-id=793641"/>
+                <guid>https://verenakoenig.libsyn.com/256-ber-die-kraft-tiefer-heilungsprozesse</guid>
                 
             </item>
         </channel>

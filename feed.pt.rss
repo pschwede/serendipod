@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 24 Jul 2023 04:21:47 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 25 Jul 2023 04:21:46 +0200</lastBuildDate>
             <item>
-                <title>4. A Besta que Emerge do Mar (Apocalipse 13.1-10) - Pr. Geimar de Lima</title>
-                <description>Passagem exposta:
-&#34;Vi emergir do mar uma besta qu…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:95652311/sounds.rss</description>
+                <title>Trabalhando em projetos FOSS: com Georges Stavracas do GNOME</title>
+                <description>&lt;p&gt;Sejam bem-vindos a mais um Diocast, neste episódio eu tive o prazer de entrevistar o Georges Stavracas, um desenvolvedor brasileiro que contribui para o projeto GNOME, uma das principais interfaces gráficas para sistemas operacionais baseados em Linux.&lt;/p&gt;&lt;p&gt;O Georges me contou um pouco sobre sua trajetória no desenvolvimento de código livre, como começou a se envolver com o GNOME e quais são os desafios e as recompensas de trabalhar em um projeto FOSS (Free and Open Source Software)...
+Feed: https://anchor.fm/s/4c177cd4/podcast/rss</description>
                 
                 
-                <link>https://soundcloud.com/ipsantoamaro/4-a-besta-que-emerge-do-mar-apocalipse-131-10-pr-geimar-de-lima</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1570547518-ipsantoamaro-4-a-besta-que-emerge-do-mar-apocalipse-131-10-pr-geimar-de-lima.mp3"/>
-                <guid>https://soundcloud.com/ipsantoamaro/4-a-besta-que-emerge-do-mar-apocalipse-131-10-pr-geimar-de-lima</guid>
+                <link>https://podcasters.spotify.com/pod/show/diolinux/episodes/Trabalhando-em-projetos-FOSS-com-Georges-Stavracas-do-GNOME-e26ncrk</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/4c177cd4/podcast/play/73167156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-8%2F338533464-44100-2-94545593505d8.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/diolinux/episodes/Trabalhando-em-projetos-FOSS-com-Georges-Stavracas-do-GNOME-e26ncrk</guid>
                 
             </item><item>
-                <title>#204 - À conversa com Tim Vieira, Empresário e CEO da Bright Future Academy</title>
-                <description>Tim Vieira ficou conhecido por participar no Shark Tank Portugal, criou um modelo diferente de escolas, tem negócios em vários países e, mais recentemente, surpreendeu tudo e todos a anunciar a intenção de se candidatar à Presidência da República. 
-N...
-Feed: https://feed.podbean.com/barbarabarroso/feed.xml</description>
+                <title>Açores: Geotermia como veículo de independência energética</title>
+                <description>
+Perdido no meio do Atlântico, a 1500 km das costas de Portugal continental, o arquipélago dos Açores aposta na geotermia como veículo de independência energética. Em São Miguel a geotermia representa 40% da energia total consumida e espera-se que aument…
+Feed: https://www.rfi.fr/pt/programas/ciencia/podcast</description>
                 
                 
-                <link>https://barbarabarroso.podbean.com/e/204-a-conversa-com-tim-vieira-empresario-e-ceo-da-bright-future-academy/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/g57bm8/EPISODIO204.mp3"/>
-                <guid>https://barbarabarroso.podbean.com/e/204-a-conversa-com-tim-vieira-empresario-e-ceo-da-bright-future-academy/</guid>
+                <link>https://www.rfi.fr/pt/programas/ci%C3%AAncia/20230717-a%C3%A7ores-geotermia-como-ve%C3%ADculo-de-independ%C3%AAncia-energ%C3%A9tica</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/219019219019.mp3?c=emission&amp;p=WB201934-RFI-PT-20150710%7CCi%25C3%25AAncia&amp;l3=WBMZ46463-RFI-PT-20230717%7CA%25C3%25A7ores%253A%2520Geotermia%2520como%2520ve%25C3%25ADculo%2520de%2520independ%25C3%25AAncia%2520energ%25C3%25A9tica&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2"/>
+                <guid>https://www.rfi.fr/pt/programas/ci%C3%AAncia/20230717-a%C3%A7ores-geotermia-como-ve%C3%ADculo-de-independ%C3%AAncia-energ%C3%A9tica</guid>
                 
             </item>
         </channel>
