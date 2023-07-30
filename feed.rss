@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 29 Jul 2023 04:19:46 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 30 Jul 2023 04:19:41 +0200</lastBuildDate>
             <item>
-                <title>SHOOBS UK PARTY - LIVE AMAPIANO MIX (MAY 21 2023)</title>
-                <description>Live Mix
-Feed: https://djjayonline.backdoorpodcasts.com/index.xml</description>
+                <title>Episode 79: Artist in Landscape</title>
+                <description>
+Feed: http://feeds.thememorypalace.us/thememorypalace</description>
                 
                 
-                <link>https://djjayonline.backdoorpodcasts.com/episode/shoobs-uk-party-live-amapiano-mix-may-21-2023-476</link>
-                <enclosure type="audio/mpeg" length="1" url="http://files.backdoorpodcasts.com/djjayonline/shoobs-uk-party-live-amapiano-mix-may-21-2023-476.mp3"/>
-                <guid>https://djjayonline.backdoorpodcasts.com/episode/shoobs-uk-party-live-amapiano-mix-may-21-2023-476</guid>
+                <link>https://beta.prx.org/stories/483951</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/3/2a99a4a3-bb74-469a-9301-d1ac08774fd8/thememorypalace.mp3"/>
+                <guid>https://beta.prx.org/stories/483951</guid>
                 
             </item><item>
-                <title>463 - Monstercat Call of the Wild</title>
-                <description>#COTWRadio - Join us on our weekly radio show!
-Feed: https://feeds.megaphone.fm/MSC1713576256</description>
+                <title>Greed</title>
+                <description>This recording was edited and prepared for publication by volunteer John Stott.
+Feed: https://seattleinsight.org/feed/podcast/</description>
                 
                 
-                <link>https://monster.cat/cotwradio</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/MSC5294454475.mp3?updated=1689895660"/>
-                <guid>https://monster.cat/cotwradio</guid>
+                <link>https://seattleinsight.org/podcast/greed/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://episodes.castos.com/5fc671303556c7-00491160/0cc0547f-33d0-4bd8-8ed5-92ffb0b8f8bd-SIMS-LaurenWilson-2023-07-23.mp3"/>
+                <guid>https://seattleinsight.org/podcast/greed/</guid>
                 
             </item>
         </channel>
