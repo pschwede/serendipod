@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 30 Jul 2023 04:19:53 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 02 Aug 2023 04:20:32 +0200</lastBuildDate>
             <item>
-                <title>Nationale 7</title>
-                <description>Nationale 7
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14497.xml</description>
+                <title>Episode 17 : L&#39;étoile : La tête dans les étoiles, les pieds dans l&#39;eau</title>
+                <description>&lt;p&gt;Des étoiles, il y en a des milliards, alors laquelle voit-on sur notre arcane ? Et qui est cette jeune femme qui verse de l&#39;eau sur le sol ? &lt;/p&gt;&lt;br&gt;&lt;p&gt;Dans cet épisode, nous partons à la découverte de l&#39;histoire de l&#39;astronomie qui remonte ... à l&#39;a préhistoire, rien que ça !&lt;/p&gt;&lt;br&gt;&lt;p&gt;Vous aimez le podcast ? Venez en discuter sur Instagram : @witchistory.podcast&lt;/p&gt;&lt;br&gt;&lt;p&gt;Bonne écoute !&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;.&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;&lt;p&gt;...
+Feed: https://feeds.acast.com/public/shows/witchistory</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/allegretto/allegretto-du-vendredi-30-juin-2023-9489432</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/be2e55d7-f70d-4e0e-a2c1-673dede02bc1/14497-30.06.2023-ITEMA_23428191-2023M26220S0181-21.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/allegretto/allegretto-du-vendredi-30-juin-2023-9489432</guid>
+                <link>https://shows.acast.com/witchistory/episodes/episode-17-letoile-la-tete-dans-les-etoiles-les-pieds-dans-l</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/634d597d9ad1f000112dcad6/e/64b2d0b579e40e0011afa231/media.mp3"/>
+                <guid>https://shows.acast.com/witchistory/episodes/episode-17-letoile-la-tete-dans-les-etoiles-les-pieds-dans-l</guid>
                 
             </item><item>
-                <title>#MondayMix 450 by @dirtyswift «SEASON FINALE : BRAND NEW RAP US &amp; FR » 26.Juin.2023 (Live Mix)</title>
-                <description>Le nouveau #MondayMix est là! Au programme  de ce dernier épisode de la saison, les dernière nouveautés rap US &amp; FR… VA LEUR DIRE!
-Feed: https://dirtyswift.backdoorpodcasts.com/index.xml</description>
+                <title>Hors-Série Témoignage  L&#39;Appel de la Forêt avec Céline Dartanian et François-Marie Dru</title>
+                <description>
+Feed: https://feeds.audiomeans.fr/feed/668b6919-1acc-45b7-a38e-08f6be8e9878.xml</description>
                 
                 
-                <link>https://dirtyswift.backdoorpodcasts.com/episode/mondaymix-450-by-dirtyswift-season-finale-brand-new-rap-us-fr-26-juin-2023-live-mix-699</link>
-                <enclosure type="audio/mpeg" length="1" url="http://files.backdoorpodcasts.com/dirtyswift/mondaymix-450-by-dirtyswift-season-finale-brand-new-rap-us-fr-26-juin-2023-live-mix-699.mp3"/>
-                <guid>https://dirtyswift.backdoorpodcasts.com/episode/mondaymix-450-by-dirtyswift-season-finale-brand-new-rap-us-fr-26-juin-2023-live-mix-699</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/5a20816d-a7b5-4cd8-bec3-be400a21122c.mp3?_=1686290881"/>
+                <guid></guid>
                 
             </item>
         </channel>

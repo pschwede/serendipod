@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 30 Jul 2023 04:19:41 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 02 Aug 2023 04:20:21 +0200</lastBuildDate>
             <item>
+                <title>Ear Hustle Presents: Violation</title>
+                <description>While we&#39;re at work on Season 12, we bring you an episode from one of our favorite new shows. 
+Feed: http://feeds.earhustlesq.com/earhustlesq</description>
+                
+                
+                <link>https://beta.prx.org/stories/472752</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/59/72257f70-0ac8-40ac-94b3-ff3a7058dfa2/1110_VIOLATION_FEED_DROP_Seg_A.mp3"/>
+                <guid>https://beta.prx.org/stories/472752</guid>
+                
+            </item><item>
                 <title>Episode 79: Artist in Landscape</title>
                 <description>
 Feed: http://feeds.thememorypalace.us/thememorypalace</description>
@@ -19,16 +29,6 @@ Feed: http://feeds.thememorypalace.us/thememorypalace</description>
                 <link>https://beta.prx.org/stories/483951</link>
                 <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/3/2a99a4a3-bb74-469a-9301-d1ac08774fd8/thememorypalace.mp3"/>
                 <guid>https://beta.prx.org/stories/483951</guid>
-                
-            </item><item>
-                <title>Greed</title>
-                <description>This recording was edited and prepared for publication by volunteer John Stott.
-Feed: https://seattleinsight.org/feed/podcast/</description>
-                
-                
-                <link>https://seattleinsight.org/podcast/greed/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://episodes.castos.com/5fc671303556c7-00491160/0cc0547f-33d0-4bd8-8ed5-92ffb0b8f8bd-SIMS-LaurenWilson-2023-07-23.mp3"/>
-                <guid>https://seattleinsight.org/podcast/greed/</guid>
                 
             </item>
         </channel>

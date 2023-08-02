@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 30 Jul 2023 04:19:58 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 02 Aug 2023 04:20:37 +0200</lastBuildDate>
             <item>
-                <title>Me dañaron el pipadre - Capítulo 192</title>
-                <description>Hoy va la versión extendida de la muerte de la abuela de Checho. Vamos con una bella interpretación alterna si Chechito hubiera sido rico. ¿Qué pasaría si hacemos de esa muerte un musical bailable con abuelitos cantando Los Enanitos Verdes? ¿Qué es el...
-Feed: https://www.spreaker.com/show/4081707/episodes/feed</description>
+                <title>Islas de Robinson - El alcance del eco - 24/07/23</title>
+                <description>El alcance del eco
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/user/11591262/los-impopulares-cap-192</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/56249863/los_impopulares_cap_192.mp3"/>
-                <guid>https://www.spreaker.com/user/11591262/los-impopulares-cap-192</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/alcance-del-eco-24-07-23/6940216/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SISLAS/mp3/8/9/1690155293498.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/alcance-del-eco-24-07-23/6940216/</guid>
                 
             </item><item>
-                <title>A golpe de bit - Diez puntos básicos sobre los Polos que debes conocer - 18/07/23</title>
-                <description>Diez puntos básicos sobre los Polos que debes conocer
-Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
+                <title>El Campo de Batalla de Tu Mente / Pt. 2 - Ps. Richard Álvarez</title>
+                <description>
+Feed: https://arboldevida.podbean.com/feed.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/diez-puntos-basicos-sobre-polos-debes-conocer/6936935/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_R18BITG/mp3/4/7/1689672186874.mp3"/>
-                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/diez-puntos-basicos-sobre-polos-debes-conocer/6936935/</guid>
+                <link>https://arboldevida.podbean.com/e/el-campo-de-batalla-de-tu-mente-pt-2-ps-richard-alvarez/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/g7mr2v/El_Campo_de_Batalla_de_tu_Mente_Parte_2_Ps_Richard_Alvarez_30-07-23a5l5h.mp3"/>
+                <guid>https://arboldevida.podbean.com/e/el-campo-de-batalla-de-tu-mente-pt-2-ps-richard-alvarez/</guid>
                 
             </item>
         </channel>
