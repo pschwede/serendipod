@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 02 Aug 2023 04:20:47 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 03 Aug 2023 04:20:29 +0200</lastBuildDate>
             <item>
-                <title>Linux Action News 299</title>
-                <description>Recent advances in embedded Linux, Canonical takes full control of LXD, ZFS gets a handy Btrfs feature, and updates on the show&#39;s production.
-Feed: https://linuxactionnews.com/rss</description>
+                <title>Radio War Nerd EP 389 — Kyrgyzstan, or Death By A Thousand NGOs</title>
+                <description>Co-hosts Gary Brecher &amp; Mark Ames
+Feed: http://exiledonline.com/45wn84klrz/feed.xml</description>
                 
                 
-                <link>https://linuxactionnews.com/299</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/270cad96-f51a-4143-9b0c-37083bd03e12.mp3"/>
-                <guid>https://linuxactionnews.com/299</guid>
+                <link>http://exiledonline.com/45wn84klrz/?name=rwn_ep_389_072523_v31.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://exiledonline.com/45wn84klrz/media/rwn_ep_389_072523_v31.mp3"/>
+                <guid>http://exiledonline.com/45wn84klrz/?name=rwn_ep_389_072523_v31.mp3</guid>
                 
             </item><item>
-                <title>The Internet&#39;s First Main Character? | The Redemption of Jar Jar Binks</title>
-                <description>What if the most exciting achievement in your career also created a cultural phenomenon that pushed your mental health to the brim? In this new podcast from the TED Audio Collective, host Dylan Marron explores the story behind one of the world&#39;s most controversial characters and the man who brought him to life.
-It&#39;s 1999, and sixteen years after its original release, a new Star Wars is finally coming...
-Feed: https://feeds.feedburner.com/iTunesPodcastTTHealth</description>
+                <title>URM Live 7.31.23</title>
+                <description>
+Feed: https://unionrescuemission.libsyn.com/rss</description>
                 
                 
-                <link>https://audiocollective.ted.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/48D18/https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/343/ab9089d7-ae52-4640-8ee2-353a0a7ffa42/JJB_FeedDrop_Ep1_REVISED_Master.mp3"/>
-                <guid>https://audiocollective.ted.com</guid>
+                <link>https://unionrescuemission.libsyn.com/urm-live-73123</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/unionrescuemission/URM_LIVE_7.31.23.mp3?dest-id=165570"/>
+                <guid>https://unionrescuemission.libsyn.com/urm-live-73123</guid>
                 
             </item>
         </channel>

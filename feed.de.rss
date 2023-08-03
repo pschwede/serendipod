@@ -9,33 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 02 Aug 2023 04:20:27 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 03 Aug 2023 04:20:13 +0200</lastBuildDate>
             <item>
-                <title>Die überraschend grosse Kraft der Aminos für Pferde</title>
-                <description>Entdecke das Geheimnis einer ausgewogenen Aminosäureversorgung für dein Pferd
-Feed: https://pferdefluesterei.podigee.io/feed/mp3</description>
+                <title>buffedCast: #624 mit WoW Patch 10.1.5 Chaos und der 1. Season von Diablo 4</title>
+                <description>Der Launch von WoW Patch 10.1.5 lief nicht unbedingt rund. Diverse Dinge funktionierten nicht und die Server mussten mehrfach abgeschaltet und Features deaktiviert werden. Darüber sprechen wir natürlich im buffedCast Folge 624. War das einfach nur Pec..
+Feed: https://podcast.audiocon.de/rss/8931b19361943713a1e72c4a76c47b01208b88c2</description>
                 
                 
-                <link>https://pferdefluesterei.podigee.io/244-aminos</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1167567-m-7e6576846cb9ce9c13acc11d537ddccc.mp3?source=feed"/>
-                <guid>https://pferdefluesterei.podigee.io/244-aminos</guid>
+                <link>https://www.buffed.de/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.audiocon.de/file/93b8b7888338afa5c4b765c099e9431118ffd431.mp3"/>
+                <guid>https://www.buffed.de/</guid>
                 
             </item><item>
-                <title>gc0587 - Alter Falter</title>
-                <description>
-&lt;p&gt;gc0587 - Alter Falter&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Werbung:&lt;/li&gt;
-&lt;li&gt;VanMoof: E-Shifter Kalibrierung per App.&lt;/li&gt;
-&lt;li&gt;VanMoof Reparatur-Programm von Upway&lt;/li&gt;
-&lt;li&gt;Neues zur Vision Pro:&lt;/li&gt;
-&lt;li&gt;Strenge Bedingungen für die Nutzung...
-Feed: https://geekcafe.podigee.io/feed/mp3</description>
+                <title>Twitter ohne Vogel, Google ohne Internet, Netflix ohne Basis-Abo | #heiseshow</title>
+                <description>Moderatorin Anna Kalinowsky, heise+-Chef Martin Fischer und Redakteur Alexander Spier sprechen in dieser Ausgabe unter anderem über folgende Themen:
+- Elon schießt den Vogel ab: Twitter heißt ab sofort X. Elon Musk hat seine Ankündigung in die Tat umgesetzt und den ikonischen Twitter-Vogel durch ein einfaches X ersetzt. Wir besprechen in der heiseshow, was wir von der Änderung halten und wie es mit X wohl weitergeht...
+Feed: https://www.heise.de/rss/heiseshowhd.rss</description>
                 
                 
-                <link>https://geekcafe.podigee.io/275-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1176106-m-bed63348d4287851492d08d0654ddeb8.mp3?source=feed"/>
-                <guid>https://geekcafe.podigee.io/275-neue-episode</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdnapisec.kaltura.com/p/2238431/sp/0/playManifest/entryId/1_2opf9z50/format/url/protocol/https/flavorParamId/487071/Twitter-ohne-Vogel-Google-ohne-Internet-Netflix-ohne-Basis-Abo-heiseshow.mp4"/>
+                <guid></guid>
                 
             </item>
         </channel>
