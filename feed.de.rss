@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 03 Aug 2023 04:20:13 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 04 Aug 2023 04:20:16 +0200</lastBuildDate>
             <item>
-                <title>buffedCast: #624 mit WoW Patch 10.1.5 Chaos und der 1. Season von Diablo 4</title>
-                <description>Der Launch von WoW Patch 10.1.5 lief nicht unbedingt rund. Diverse Dinge funktionierten nicht und die Server mussten mehrfach abgeschaltet und Features deaktiviert werden. Darüber sprechen wir natürlich im buffedCast Folge 624. War das einfach nur Pec..
-Feed: https://podcast.audiocon.de/rss/8931b19361943713a1e72c4a76c47b01208b88c2</description>
+                <title>Warum wir beim Klimaschutz Widersprüche im Kopf haben</title>
+                <description>Die Menschen in Deutschland wünschen sich eine nachhaltigere Wirtschaft - und wollen trotzdem nicht auf Komfort verzichten. Und nun?
+Feed: https://sz-auf-den-punkt.podigee.io/feed/aac</description>
                 
                 
-                <link>https://www.buffed.de/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.audiocon.de/file/93b8b7888338afa5c4b765c099e9431118ffd431.mp3"/>
-                <guid>https://www.buffed.de/</guid>
+                <link>https://sz-auf-den-punkt.podigee.io/1310-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1176899-m-ac19a240f7f7035d7fc46a65d461f5a8.mp3?source=feed"/>
+                <guid>https://sz-auf-den-punkt.podigee.io/1310-neue-episode</guid>
                 
             </item><item>
-                <title>Twitter ohne Vogel, Google ohne Internet, Netflix ohne Basis-Abo | #heiseshow</title>
-                <description>Moderatorin Anna Kalinowsky, heise+-Chef Martin Fischer und Redakteur Alexander Spier sprechen in dieser Ausgabe unter anderem über folgende Themen:
-- Elon schießt den Vogel ab: Twitter heißt ab sofort X. Elon Musk hat seine Ankündigung in die Tat umgesetzt und den ikonischen Twitter-Vogel durch ein einfaches X ersetzt. Wir besprechen in der heiseshow, was wir von der Änderung halten und wie es mit X wohl weitergeht...
-Feed: https://www.heise.de/rss/heiseshowhd.rss</description>
+                <title>„Wahre Preise“: Wie teuer müssten Lebensmittel sein?</title>
+                <description>Viele Lebensmittel müssten deutlich teurer sein. Der Grund sind versteckte Umweltkosten. Würden Sie mehr bezahlen für die Umwelt?
+Feed: http://www.ndr.de/nachrichten/info/podcast4124.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdnapisec.kaltura.com/p/2238431/sp/0/playManifest/entryId/1_2opf9z50/format/url/protocol/https/flavorParamId/487071/Twitter-ohne-Vogel-Google-ohne-Internet-Netflix-ohne-Basis-Abo-heiseshow.mp4"/>
-                <guid></guid>
+                <link>https://www.ndr.de/nachrichten/info/Wahre-Preise-Wie-teuer-muessten-Lebensmittel-sein,audio1436972.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4124/AU-20230803-2202-3000.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/Wahre-Preise-Wie-teuer-muessten-Lebensmittel-sein,audio1436972.html</guid>
                 
             </item>
         </channel>
