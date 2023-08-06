@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 04 Aug 2023 04:20:22 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 06 Aug 2023 04:19:49 +0200</lastBuildDate>
             <item>
-                <title>Abou Nidal </title>
-                <description>Abou Nidal 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14726.xml</description>
+                <title>Comment arrêter de te critiquer ? (rediff #127 - développer l&#39;auto-compassion)</title>
+                <description>Et si grâce à cet épisode, tu comprenais qu&#39;en te parlant bien, avec des mots gentils, ta vie allait s&#39;améliorer.
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/54_30992b45a07b6164e23dd005ea57f08c.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/rendez-vous-avec-x/rendez-vous-avec-x-du-vendredi-06-aout-2021-9144672</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/9725d36d-1d34-43cc-9eb8-f097bed109a1/14726-03.08.2023-ITEMA_23428756-2021F4726S0218-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/rendez-vous-avec-x/rendez-vous-avec-x-du-vendredi-06-aout-2021-9144672</guid>
+                <link>https://www.podcastics.com/podcast/episode/comment-arreter-de-te-critiquer-rediff-127-developper-lauto-compassion-247008/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/54/247008.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/comment-arreter-de-te-critiquer-rediff-127-developper-lauto-compassion-247008/</guid>
                 
             </item><item>
-                <title>Les grands défis technologiques de demain : la vérification de l’âge sur Internet</title>
-                <description>Les grands défis technologiques de demain : la vérification de l’âge sur Internet
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_18998.xml</description>
+                <title>Stileto - Cravin (Sylva bootleg)</title>
+                <description>Website: www.sylvadj.comFacebook: www.facebook.com/SylvaDjOfficialInstagram: www.instagram.com/sy...
+Feed: https://feedpress.me/da-sylva0</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/les-grands-defis-technologiques-de-demain-la-verification-de-l-age-sur-internet-4718439</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/4bd25cd8-0947-4d31-8d3e-05644eefc496/18998-30.07.2023-ITEMA_23449712-2023I12633S0211-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/les-grands-defis-technologiques-de-demain-la-verification-de-l-age-sur-internet-4718439</guid>
+                <link>https://www.podomatic.com/podcasts/dasylva/episodes/2023-07-11T10_07_53-07_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dasylva.podomatic.com/enclosure/2023-07-11T10_07_53-07_00.mp3?_=1689095284.16676733"/>
+                <guid>https://www.podomatic.com/podcasts/dasylva/episodes/2023-07-11T10_07_53-07_00</guid>
                 
             </item>
         </channel>

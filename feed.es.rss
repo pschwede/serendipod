@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 04 Aug 2023 04:20:27 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 06 Aug 2023 04:19:53 +0200</lastBuildDate>
             <item>
-                <title>Radioyentes 326 Eurovisión, compras y Caifás</title>
-                <description>Comenzamos aqu&amp;iacute; una nueva edici&amp;oacute;n de nuestro podcast Radioyentes en la que hablaremos de diversos espacios como el titulado Par&amp;eacute;ntesis de Olvido, una espacio que hace referencia a un t&amp;eacute;rmino m&amp;aacute;gico, que consiste en establecer una distancia temporal (y a veces espacial) entre el momento de la trampa y el de la revelaci&amp;oacute;n del efecto.
-Agradecimientos para:
-Jos&amp;eacute; Antonio Laboreo de Radio Villegas
-Sinton&amp;iacute;a: de Junior Menezes
-Feed: https://www.ivoox.com/podcast-radioyentes_fg_f1463235_filtro_1.xml</description>
+                <title>Seguridad en mis servicios</title>
+                <description>Seguridad en mis servicios
+Feed: https://feeds.feedburner.com/uGeek</description>
                 
                 
-                <link>http://www.ivoox.com/radioyentes-326-eurovision-compras-caifas-audios-mp3_rf_107129338_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-326-eurovision-compras-caifas_mf_107129338_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/radioyentes-326-eurovision-compras-caifas-audios-mp3_rf_107129338_1.html</guid>
+                <link>https://ugeek.github.io/post/2023-07-31-seguridad-en-mis-servicios.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/106db04/podcast/play/74046672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-6-30%2F341272266-44100-1-aa4296e0d473a.mp3"/>
+                <guid>https://ugeek.github.io/post/2023-07-31-seguridad-en-mis-servicios.html</guid>
                 
             </item><item>
-                <title>SER Historia | Crimen y muerte</title>
-                <description>&lt;p&gt;El mundo de la muerte está vinculado a nuestra cotidianidad. En este programa especial de SER Historia hablaremos de la historia del crimen, los casos más conocidos del crimen en España y acabamos con las catástrofes aéreas más impactantes&lt;br&gt;&lt;/p&gt;
-Feed: https://fapi-top.prisasd.com/podcast/playser/ser_historia/itunestfp/podcast.xml</description>
+                <title>Solemnidad de la Transfiguración del Señor (A)</title>
+                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Mateo 17, 1-9. Gloria a ti, Señor. En aquel tiempo, Jesús tomó consigo a Pedro, a Santiago y &amp;#8230;
+Feed: http://feed.quechilero.com/PodcastCatedralDeEscuintla</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/SER_HISTORIA_SER_PODCAST_355_P/media/playser/audio/20237/18/1689667142844_20038.mp3"/>
-                <guid></guid>
+                <link>https://catedraldeescuintla.com/solemnidad-de-la-transfiguracion-del-senor-a-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://catedraldeescuintla.com/podcast-download/7772/solemnidad-de-la-transfiguracion-del-senor-a-2023.mp3"/>
+                <guid>https://catedraldeescuintla.com/solemnidad-de-la-transfiguracion-del-senor-a-2023/</guid>
                 
             </item>
         </channel>

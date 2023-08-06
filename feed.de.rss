@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 04 Aug 2023 04:20:16 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 06 Aug 2023 04:19:45 +0200</lastBuildDate>
             <item>
-                <title>Warum wir beim Klimaschutz Widersprüche im Kopf haben</title>
-                <description>Die Menschen in Deutschland wünschen sich eine nachhaltigere Wirtschaft - und wollen trotzdem nicht auf Komfort verzichten. Und nun?
-Feed: https://sz-auf-den-punkt.podigee.io/feed/aac</description>
+                <title>Münster - Hugo Grotius und der Westfälische Frieden</title>
+                <description>&lt;br clear=&#34;all&#34;/&gt;&lt;br/&gt;Roeder, Étienne&lt;br/&gt;www.deutschlandfunkkultur.de, Sein und Streit&lt;br/&gt;Direkter Link zur Audiodatei&lt;br/&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+Feed: https://www.deutschlandfunkkultur.de/sein-und-streit-das-philosophiemagazin-100.xml</description>
                 
                 
-                <link>https://sz-auf-den-punkt.podigee.io/1310-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1176899-m-ac19a240f7f7035d7fc46a65d461f5a8.mp3?source=feed"/>
-                <guid>https://sz-auf-den-punkt.podigee.io/1310-neue-episode</guid>
+                <link>https://www.deutschlandfunkkultur.de/muenster-hugo-grotius-und-der-westfaelische-frieden-dlf-kultur-eac02e79-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2023/07/30/muenster_hugo_grotius_und_der_westfaelische_frieden_drk_20230730_1345_eac02e79.mp3?refId=sein-und-streit-das-philosophiemagazin-100"/>
+                <guid>https://www.deutschlandfunkkultur.de/muenster-hugo-grotius-und-der-westfaelische-frieden-dlf-kultur-eac02e79-100.html</guid>
                 
             </item><item>
-                <title>„Wahre Preise“: Wie teuer müssten Lebensmittel sein?</title>
-                <description>Viele Lebensmittel müssten deutlich teurer sein. Der Grund sind versteckte Umweltkosten. Würden Sie mehr bezahlen für die Umwelt?
-Feed: http://www.ndr.de/nachrichten/info/podcast4124.xml</description>
+                <title>„Le Nozze di Figaro“ von den Salzburger Festspielen im ARD Radiofestival</title>
+                <description>Die Neuproduktion von Wolfgang Amadeus Mozarts „Le Nozze di Figaro“ ist bei den diesjährigen Salzburger Festspielen gefeiert worden – nicht zuletzt wegen des französischen Dirigenten und Alte-Musik-Spezialisten Raphaël Pichon am Pult der Wiener Philharmoniker. Am 5. August gibt es im ARD Radiofestival den Salzburger Premierenmitschnitt, und SWR2-Opernredakteur Bernd Künzig verrät, auf welche musikalischen Höhepunkte sich die Hörer*innen dabei freuen können.
+Feed: https://www.swr.de/~podcast/swr2/programm/treffpunkt-klassik-podcast-102.xml</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/Wahre-Preise-Wie-teuer-muessten-Lebensmittel-sein,audio1436972.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4124/AU-20230803-2202-3000.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/Wahre-Preise-Wie-teuer-muessten-Lebensmittel-sein,audio1436972.html</guid>
+                <link>https://www.swr.de/swr2/musik-klassik/le-nozze-di-figaro-von-den-salzburger-festspielen-im-ard-radiofestival-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/swr2/treffpunkt-klassik/musik-klassik/1900108.l.mp3"/>
+                <guid>https://www.swr.de/swr2/musik-klassik/le-nozze-di-figaro-von-den-salzburger-festspielen-im-ard-radiofestival-100.html</guid>
                 
             </item>
         </channel>
