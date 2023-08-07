@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 06 Aug 2023 04:19:45 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 07 Aug 2023 04:20:49 +0200</lastBuildDate>
             <item>
-                <title>Münster - Hugo Grotius und der Westfälische Frieden</title>
-                <description>&lt;br clear=&#34;all&#34;/&gt;&lt;br/&gt;Roeder, Étienne&lt;br/&gt;www.deutschlandfunkkultur.de, Sein und Streit&lt;br/&gt;Direkter Link zur Audiodatei&lt;br/&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-Feed: https://www.deutschlandfunkkultur.de/sein-und-streit-das-philosophiemagazin-100.xml</description>
+                <title>07.08.2023: Geht nicht, gibt’s nicht!</title>
+                <description>gesprochen von Pfarrer Holger Treutmann
+Feed: http://www.mdr.de/sachsenradio/podcast/wort/audiogalerie-wzt100-podcast.xml</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/muenster-hugo-grotius-und-der-westfaelische-frieden-dlf-kultur-eac02e79-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2023/07/30/muenster_hugo_grotius_und_der_westfaelische_frieden_drk_20230730_1345_eac02e79.mp3?refId=sein-und-streit-das-philosophiemagazin-100"/>
-                <guid>https://www.deutschlandfunkkultur.de/muenster-hugo-grotius-und-der-westfaelische-frieden-dlf-kultur-eac02e79-100.html</guid>
+                <link>https://www.mdr.de/sachsenradio/podcast/wort/audio-2396814.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/1/digas-1ee16c00-d454-40d1-a9b4-374b42a094bf-0a15de5e5053_1e.mp3"/>
+                <guid>https://www.mdr.de/sachsenradio/podcast/wort/audio-2396814.html</guid>
                 
             </item><item>
-                <title>„Le Nozze di Figaro“ von den Salzburger Festspielen im ARD Radiofestival</title>
-                <description>Die Neuproduktion von Wolfgang Amadeus Mozarts „Le Nozze di Figaro“ ist bei den diesjährigen Salzburger Festspielen gefeiert worden – nicht zuletzt wegen des französischen Dirigenten und Alte-Musik-Spezialisten Raphaël Pichon am Pult der Wiener Philharmoniker. Am 5. August gibt es im ARD Radiofestival den Salzburger Premierenmitschnitt, und SWR2-Opernredakteur Bernd Künzig verrät, auf welche musikalischen Höhepunkte sich die Hörer*innen dabei freuen können.
-Feed: https://www.swr.de/~podcast/swr2/programm/treffpunkt-klassik-podcast-102.xml</description>
+                <title>Spezial: Homeoffice vs. Büro - Was ist besser für UNS?</title>
+                <description>Egal ob Arbeitnehmer oder Arbeitgeber, alle fragen sich: Homeoffice oder Büro? Viele Arbeitnehmer möchten möglichst viel ins Homeoffice, viele Vorgesetzte hätten ihre Teams lieber real vor Ort als per Videoschalte. Kann die Wissenschaft erklären, was wirklich besser ist, für mich, mein Unternehmen, meine Gesundheit und unsere Produktivität? Hier geht’s zur Übersicht und allen Infos zur Folge.
+Feed: https://www1.wdr.de/mediathek/audio/wdr5/quarks/daily-quarks-podcast-104.podcast</description>
                 
                 
-                <link>https://www.swr.de/swr2/musik-klassik/le-nozze-di-figaro-von-den-salzburger-festspielen-im-ard-radiofestival-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/swr2/treffpunkt-klassik/musik-klassik/1900108.l.mp3"/>
-                <guid>https://www.swr.de/swr2/musik-klassik/le-nozze-di-figaro-von-den-salzburger-festspielen-im-ard-radiofestival-100.html</guid>
+                <link>https://www1.wdr.de/mediathek/audio/daily-quarks/audio-spezial-homeoffice-vs-buero---was-ist-besser-fuer-uns-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/296/2965174/quarksdailydeintaeglicherwissenspodcast_2023-08-05_spezialhomeofficevsbuerowasistbesserfueruns_wdronline.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/daily-quarks/audio-spezial-homeoffice-vs-buero---was-ist-besser-fuer-uns-100.html</guid>
                 
             </item>
         </channel>
