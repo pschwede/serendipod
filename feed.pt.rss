@@ -9,26 +9,37 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 07 Aug 2023 04:21:06 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 09 Aug 2023 04:21:24 +0200</lastBuildDate>
             <item>
-                <title>Caneca de Mamicas 118 - Barbie e Seus 50 Tons de Rosa</title>
-                <description>E a festa continua, meu amooor! O episódio anterior não foi suficiente pra satisfazer todo esse desejo de mergulhar na vibe delícia do mundo cor de rosa da Barbie! Então estamos de volta pra dividir com vocês um pouco das nossas memórias de infância com nossa boneca preferida e também pra falar sobre a história de sua criação...
-Feed: https://jovemnerd.com.br/feed-nerdcast/</description>
+                <title>Progress #498</title>
+                <description>Progress #498
+www.centraldj.com.br/progress/498
+Subscribe for free on iTunes:
+https://itunes.apple.com/br/podcast/progress/id1077982631?mt=2
+-- 
+Progress
+By: DJ MTS
+To broadcast Progress on your radio/webradio, click here:
+https://www.centraldj.com.br/programas/?p=progress
+Follow Progress @ Twitter: http://twitter.com/progressbymts
+Like Progress @ Facebook: http://www.facebook.com/Progressbymts
+Follow Progress @ Instagram: http://www.instagram...
+Feed: https://hearthis.at/djmts/podcast/</description>
                 
                 
-                <link>https://jovemnerd.com.br/nerdcast/caneca-de-mamicas/barbie-e-seus-50-tons-de-rosa/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://nerdcast.jovemnerd.com.br/mamicas_118.mp3"/>
-                <guid>https://jovemnerd.com.br/nerdcast/caneca-de-mamicas/barbie-e-seus-50-tons-de-rosa/</guid>
+                <link>https://hearthis.at/djmts/progress498/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/djmts/progress498/listen.mp3?s=HxW"/>
+                <guid>https://hearthis.at/djmts/progress498/</guid>
                 
             </item><item>
-                <title>Bancas da Garagem: Tabata – Dragões de Garagem #273</title>
-                <description>Chegou a vez da Tabata Bohlen defender seu trabalho durante o mestrado e doutorado na exigente Banca da Garagem formada por: Kauê Nicolas e Tupá Guerra. Seja doador: Acessem nossa página de doações e contribuam para continuação do nosso projeto.
-Feed: https://feeds.feedburner.com/dragoesdegaragem</description>
+                <title>Com pontas soltas, depoimento de Anderson Torres &#39;não contribui para inocentá-lo&#39;</title>
+                <description>Maria Cristina Fernandes comenta depoimento do ex-ministro da Justiça na CPMI dos Ataques Golpistas. A jornalista foca nas pontas soltas que se acumulam desde a prisão de Torres, como as operações da PRF no 2º turno e a viagem de férias mesmo com alertas da Abin sobre ameaças de invasão em Brasília. Além de relembrar cada caso, a comentarista ainda analisa a &#39;função pedagógica&#39; da Comissão.
+Feed: http://audio.globoradio.globo.com/podcast/feed/327/politica-de-valor</description>
                 
                 
-                <link>http://dragoesdegaragem.com/podcast/bancas-da-garagem-tabata-dragoes-de-garagem-273/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/dragoesdegaragem/arquivos.dragoesdegaragem.com/dragoesdegaragem_273_defesa_tabata.mp3"/>
-                <guid>http://dragoesdegaragem.com/podcast/bancas-da-garagem-tabata-dragoes-de-garagem-273/</guid>
+                <link>https://cbn.globoradio.globo.com/media/audio/416097/com-pontas-soltas-depoimento-de-anderson-torres-na.htm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cbn.mc.tritondigital.com/POLITICA_VALOR_P/media/audios/encodeds/3/2023/08/08/416097_20230808.mp3"/>
+                <guid>https://cbn.globoradio.globo.com/media/audio/416097/com-pontas-soltas-depoimento-de-anderson-torres-na.htm</guid>
                 
             </item>
         </channel>
