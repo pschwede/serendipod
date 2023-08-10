@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 09 Aug 2023 04:21:03 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 10 Aug 2023 04:21:12 +0200</lastBuildDate>
             <item>
-                <title>Heilt Kranke, weckt Tote auf und treibt Dämonen aus!</title>
-                <description>&lt;p&gt;Thomas Hasen&lt;/p&gt;
-Feed: https://anchor.fm/s/74a84db8/podcast/rss</description>
+                <title>Abschaffung des Zölibats</title>
+                <description>Der Witz des Tages vom 10.08.2023 mit dem Titel &#39;Abschaffung des Zölibats&#39; zum Hören.
+Feed: https://www.witzschmiede.de/audiofeed</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/pfimithun/episodes/Heilt-Kranke--weckt-Tote-auf-und-treibt-Dmonen-aus-e27puah</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/74a84db8/podcast/play/74299153/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-6%2F3a24aa12-343a-099c-0b63-6435f8cef4bc.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/pfimithun/episodes/Heilt-Kranke--weckt-Tote-auf-und-treibt-Dmonen-aus-e27puah</guid>
+                <link>https://www.witzschmiede.de/audio/4620.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.witzschmiede.de/audio/4620.mp3"/>
+                <guid>https://www.witzschmiede.de/audio/4620.mp3</guid>
                 
             </item><item>
-                <title>heute journal vom 8. August 2023</title>
-                <description>Mit den Themen: TSMC-Deal in Dresden - Taiwans Hoffnung auf Sicherheit; 100 Tage Deutschland Ticket - Gemischte Bilanz für Stadt und Land; Amazonas-Gipfel in Brasilien - Kampf gegen illegale Abholzung.
-Feed: https://www.zdf.de/rss/podcast/video/zdf/nachrichten/heute-journal</description>
+                <title>Nachtgedanken</title>
+                <description>In den Nachtgedanken von Mathis Burfien, Pastor in Hannover, spielen Vögel eine große Rolle. Heute: Rotkehlchen.
+Feed: https://www.ndr.de/kirche/radiokirche/podcast4388.xml</description>
                 
                 
-                <link>https://www.zdf.de/nachrichten/heute-journal/heute-journal-vom-8-august-2023-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podfileszdf-a.akamaihd.net/podcast/zdf_podcasts/23/08/230808_2145_sendung_hjo/1/230808_2145_sendung_hjo_1528k_p20v17.mp4"/>
-                <guid>https://www.zdf.de/nachrichten/heute-journal/heute-journal-vom-8-august-2023-100.html</guid>
+                <link>https://www.ndr.de/ndr1niedersachsen/Nachtgedanken,audio1427954.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4388/AU-20230721-1002-0200.mp3"/>
+                <guid>https://www.ndr.de/ndr1niedersachsen/Nachtgedanken,audio1427954.html</guid>
                 
             </item>
         </channel>

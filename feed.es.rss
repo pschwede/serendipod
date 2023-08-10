@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 09 Aug 2023 04:21:17 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 10 Aug 2023 04:21:22 +0200</lastBuildDate>
             <item>
-                <title>435.- Todos sufrimos el síndrome del objeto brillante y la IA lo demuestra.</title>
-                <description>Hola, bienvenidos y bienvenidas un día más a las “Guías Tecnológicas de cinco minutos de Simple Informática”. Yo soy Pedro Vicente y como todas las semanas, como todos los martes, intento contestar preguntas que nos hacen nuestros clientes,
-Feed: https://simpleinformatica.es/feed/podcast</description>
+                <title>Inteligencia Artificial generativa ¿ángel o demonio? Hablamos con José Antonio Gámez Martín  </title>
+                <description>Cuando se desarrollaron las primeras computadoras electrónicas los científicos empezaron a explorar cómo se podía programar una máquina para que pensara y tomara decisiones de manera similar a los seres humanos. Uno de los primeros hitos fue el Test de Turing, propuesto por Alan Turing en 1950, que evaluaba la capacidad de una máquina para mostrar un comportamiento inteligente indistinguible del de un ser humano. Desde entonces, las máquinas hay ido evolucionando sin parar...
+Feed: https://feeds.feedburner.com/HablandoConCientficos</description>
                 
                 
-                <link>https://www.simpleinformatica.es/435-todos-sufrimos-el-sindrome-del-objeto-brillante-y-la-ia-lo-demuestra/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.simpleinformatica.es/wp-content/uploads/pedro/435correovsredes.mp3"/>
-                <guid>https://www.simpleinformatica.es/435-todos-sufrimos-el-sindrome-del-objeto-brillante-y-la-ia-lo-demuestra/</guid>
+                <link>http://cienciaes.com/entrevistas/2023/08/02/ia-generativa/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/cienciaes/hc_431_ia-generativa.mp3"/>
+                <guid>http://cienciaes.com/entrevistas/2023/08/02/ia-generativa/</guid>
                 
             </item><item>
-                <title>08-08-2023 Directo MARCA Valladolid de VERANO.</title>
-                <description>Toda la actualidad del deporte vallisoletano de la mano de Chus Rodr&amp;iacute;guez y Jes&amp;uacute;s P&amp;eacute;rez Baraja. Martes de repaso de mercado en una semana en la que vuelve la Liga. Hablamos con Luis Huerta, medallista paral&amp;iacute;mpico de nataci&amp;oacute;n; y cerramos con los oyentes.
-Feed: https://www.ivoox.com/directo-marca-valladolid_fg_f130892_filtro_1.xml</description>
+                <title>Sesión DJ Mota @ Ctrl Alt Dance [28-06-2023]</title>
+                <description>Sesi&amp;oacute;n en directo mezclada por DJ Mota en el programa Ctrl Alt Dance de Espacio 4 FM el Mi&amp;eacute;rcoles 26-04-2023
+----------------------------------------S&amp;iacute;guenos en----------------------------------------------------
+Twitch:      twitch.tv/ctrl_alt_dance_radioshow,
+Facebook: facebook.com/CtrlAltDanceRadioshow  
+Intragram: @Ctrl_Alt_Dance_Radioshow
+Feed: https://www.ivoox.com/podcast-espacio-4-fm_fg_f158739_filtro_1.xml</description>
                 
                 
-                <link>http://www.ivoox.com/08-08-2023-directo-marca-valladolid-verano-audios-mp3_rf_113873393_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/08-08-2023-directo-marca-valladolid-verano_mh_113873393_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/08-08-2023-directo-marca-valladolid-verano-audios-mp3_rf_113873393_1.html</guid>
+                <link>https://www.ivoox.com/sesion-dj-mota-a-ctrl-alt-dance-28-06-2023-audios-mp3_rf_113426665_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sesion-dj-mota-a-ctrl-alt-dance-28-06-2023_mh_113426665_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/sesion-dj-mota-a-ctrl-alt-dance-28-06-2023-audios-mp3_rf_113426665_1.html</guid>
                 
             </item>
         </channel>
