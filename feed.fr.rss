@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 10 Aug 2023 04:21:18 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 13 Aug 2023 04:19:09 +0200</lastBuildDate>
             <item>
-                <title>Mag d&#39;Ici et d&#39;Ailleurs : Goran Bregovic embrasse le nombril du monde !</title>
-                <description>&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hébergé par Acast. Visitez acast.com/privacy pour plus d&#39;informations.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/aa90808f-e40c-5ff1-8a36-6e5fabf76a13</description>
+                <title>[REDIFF] Arrimer philanthropie et science du bonheur pour réenchanter la générosité avec Charles Sel</title>
+                <description>???? ???? Filantropio est aussi à l&#39;initiative d&#39;une newsletter mensuelle qui parle de générosité. Si vous voulez faire le plein de Vitamine G, c&#39;est par là ???? https://bit.ly/vitamine-g
+[Rediffusion de l&#39;épisode 15] 
+Aujourd’hui je reçois le Conseiller-Expe...
+Feed: https://feed.ausha.co/9KELEHEqYnXX</description>
                 
                 
-                <link>https://www.nova.fr/podcasts/neo-geo-nova/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/neo-geo/e/64a3f28e1b96b90011a48f0e/media.mp3"/>
-                <guid>https://www.nova.fr/podcasts/neo-geo-nova/</guid>
+                <link>https://podcast.ausha.co/filantropio/rediff-arrimer-philanthropie-et-science-du-bonheur-pour-reenchanter-la-generosite-avec-charles-sel</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bY06jFzALnvy.mp3?t=1691530609"/>
+                <guid>https://podcast.ausha.co/filantropio/rediff-arrimer-philanthropie-et-science-du-bonheur-pour-reenchanter-la-generosite-avec-charles-sel</guid>
                 
             </item><item>
-                <title>&#34;Serge Rezvani : joyeux retour en Avignon&#34;</title>
-                <description>&#34;Serge Rezvani : joyeux retour en Avignon&#34;
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11498.xml</description>
+                <title>Radio Rôliste #141 : Alice en symbiose dans le coma</title>
+                <description>Avec : Mist, Steve J, Lam SonMontage : Lam Son Une fois n’est plus coutume, nous chroniquons 3 jeux forts en émotions et aux dispositifs de jeu originaux. Symbioses Un jeu de Nitz et David Subrenat, disponible gratuitement sur forthedrama.com.
+Feed: https://www.radio-roliste.net/?feed=rss2</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-fictions-avignon/serge-rezvani-joyeux-retour-en-avignon-2144518</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/f774018d-d032-46d6-a9b0-4913faebf09d/11498-14.07.2023-ITEMA_23439411-2023C25736S0195-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-fictions-avignon/serge-rezvani-joyeux-retour-en-avignon-2144518</guid>
+                <link>https://www.radio-roliste.net/?p=3140</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/radio_roliste/www.radio-roliste.net/wp-content/uploads/powerpress/RR141_Coma_is_missing.mp3"/>
+                <guid>https://www.radio-roliste.net/?p=3140</guid>
                 
             </item>
         </channel>
