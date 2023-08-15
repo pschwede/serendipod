@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 14 Aug 2023 04:20:25 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 15 Aug 2023 04:20:16 +0200</lastBuildDate>
             <item>
-                <title>Mix Franco : 08/13/2023 06:00</title>
-                <description>785-294309
-Feed: http://podcast.cism893.ca/radioshows/785/feed_itunes.xml</description>
+                <title>Lectures d&#39;été : les nouveaux livres de Chantal Thomas, Ellen J. Levy, William Boyd, Bernard Minier…</title>
+                <description>Lectures d&#39;été : les nouveaux livres de Chantal Thomas, Ellen J. Levy, William Boyd, Bernard Minier…
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14007.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/294309.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/294309.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/294309.mp3</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/le-masque-et-la-plume/le-masque-et-la-plume-du-dimanche-13-aout-2023-1277974</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/bbd38e3a-00cd-4883-b881-2feb885f34c9/14007-13.08.2023-ITEMA_23458727-2023F4007S0225-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-masque-et-la-plume/le-masque-et-la-plume-du-dimanche-13-aout-2023-1277974</guid>
                 
             </item><item>
-                <title>L&#39;horoscope du lundi 14 août</title>
-                <description>Retrouvez votre horoscope du 14/08/23
-Feed: https://podcasts.tendanceouest.com/rss-podcast-71-horoscope</description>
+                <title>Schizophrénie : 08/13/2023 21:00</title>
+                <description>713-294350
+Feed: http://podcast.cism893.ca/radioshows/713/feed_itunes.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.tendanceouest.com/medias/sons/3272-HOROS-230814.mp3"/>
-                <guid></guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/294350.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/294350.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/294350.mp3</guid>
                 
             </item>
         </channel>
