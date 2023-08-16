@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 15 Aug 2023 04:20:16 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Aug 2023 04:20:48 +0200</lastBuildDate>
             <item>
-                <title>Lectures d&#39;été : les nouveaux livres de Chantal Thomas, Ellen J. Levy, William Boyd, Bernard Minier…</title>
-                <description>Lectures d&#39;été : les nouveaux livres de Chantal Thomas, Ellen J. Levy, William Boyd, Bernard Minier…
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14007.xml</description>
+                <title>???? L&#39;ÉTÉ SUR L&#39;ALÉA : ce podcast est une révélation</title>
+                <description>&lt;p&gt;???? L&#39;ÉTÉ SUR L&#39;ALÉA : ce podcast est une révélation&lt;/p&gt;&lt;br&gt;&lt;p&gt;L’épisode est disponible sur toutes les plateformes d’écoute.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Si vous l&#39;avez aimé, 5 ⭐ et 1 commentaire sur Apple Podcasts ou Spotify serait pour moi le plus beau des cadeaux.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Belle écoute !&lt;/p&gt;&lt;br&gt;&lt;p&gt;???? Pour découvrir les coulisses du podcast :&amp;nbsp;https://www.instagram.com/lalea.podcast/&lt;/p&gt;&lt;br&gt;&lt;p&gt;???? Pour suivre ma vie de maman entrepreneuse :&amp;nbsp;https://www.instagram...
+Feed: https://feeds.acast.com/public/shows/61969132f2a68400119b1827</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/le-masque-et-la-plume/le-masque-et-la-plume-du-dimanche-13-aout-2023-1277974</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/bbd38e3a-00cd-4883-b881-2feb885f34c9/14007-13.08.2023-ITEMA_23458727-2023F4007S0225-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-masque-et-la-plume/le-masque-et-la-plume-du-dimanche-13-aout-2023-1277974</guid>
+                <link>https://shows.acast.com/l-alea-par-laura-pouliquen/episodes/lete-sur-lalea-ce-podcast-est-une-revelation</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/61969132f2a68400119b1827/e/64d94396b33120001160e9bf/media.mp3"/>
+                <guid>https://shows.acast.com/l-alea-par-laura-pouliquen/episodes/lete-sur-lalea-ce-podcast-est-une-revelation</guid>
                 
             </item><item>
-                <title>Schizophrénie : 08/13/2023 21:00</title>
-                <description>713-294350
-Feed: http://podcast.cism893.ca/radioshows/713/feed_itunes.xml</description>
+                <title>Paul Charpentier - Jour de la myrte</title>
+                <description>
+                        Bell Orchestre - Stripes (Susumu Yokota vs. Hôtel-de-Ville Remix) - Erased TapesBell Orchestre - Quintet (Hôtel-de-Ville Remix) - Erased TapesWoodleigh Research Facility - Borderland_yanob15(Feat Sarah Sarhandi) - IndépendantJah Wobble - Visions Of You (T
+                    
+Feed: https://www.choq.ca/emissions/mutations/rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/294350.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/294350.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/294350.mp3</guid>
+                <link>https://www.choq.ca/balados/mutations/emission-du-13-aout-2023</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mp3.choq.ca/mp3/episode/51593/Mutations-13-aout-2023.mp3"/>
+                <guid>https://www.choq.ca/balados/mutations/emission-du-13-aout-2023</guid>
                 
             </item>
         </channel>

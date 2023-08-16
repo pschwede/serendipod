@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 15 Aug 2023 04:20:11 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Aug 2023 04:20:42 +0200</lastBuildDate>
             <item>
-                <title>Episode 149 - Im Gespräch mit Dennis Blaul vom Weingut Blaul</title>
-                <description>&lt;p&gt;Bin ich froh, dass ich seine Weine entdecken durfte: ein großartiger Winzer, der beinahe am Schalter bei der Postbank gelandet wäre. Zum Glück wurde letztendlich doch noch seine Weinleidenschaft im Praktikum beim eigenen Vater entfacht und wir dürfen uns glücklich schätzen, wenn wir an seine Weine überhaupt noch ran kommen. Freut euch auf Dennis Blaul aus Gönnheim in der Pfalz.&lt;/p&gt;&lt;p&gt;Hier geht’s zum Weingut:&amp;nbsp;https://weingut-blaul.de/willkommen...
-Feed: https://feeds.acast.com/public/shows/98cac31c-4dc8-4796-a48f-30c99adfacdf</description>
+                <title>Björn Hayer</title>
+                <description>Der Schmerz ist ein komplexes Phänomen: Jeder kennt ihn, fast alle fürchten ihn, aber niemand kann ihn letztlich exakt beschreiben. Dabei hat der Schmerz eine immense Wirkung und Bedeutung – auch gesellschaftlich.
+Studiogast: Björn Hayer, Philosoph; Moderation: Jürgen Wiebicke
+Feed: https://www1.wdr.de/mediathek/audio/wdr5/wdr5-das-philosophische-radio/dasphilosophischeradio100.podcast</description>
                 
                 
-                <link>https://podcast.kunze.tv</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/weinwirtschaft/e/64cd8984a0dbaa0011ab7871/media.mp3"/>
-                <guid>https://podcast.kunze.tv</guid>
+                <link>https://www1.wdr.de/mediathek/audio/wdr5/wdr5-das-philosophische-radio/audio-bjoern-hayer-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/297/2971512/wdr5dasphilosophischeradio_2023-08-14_bjoernhayer_wdr5.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/wdr5/wdr5-das-philosophische-radio/audio-bjoern-hayer-100.html</guid>
                 
             </item><item>
-                <title>Was ist deine Schwach-Stärke?</title>
-                <description>Hier kannst du dich zu unserer Ausbildungen informieren:   Insta Daniel:    Insta Jana:   Möchtest du Kurse buchen oder suchst passende TrainerInnen, dann schau auf diese Webseite: 
-Feed: https://starkekinderstarkezukunft.libsyn.com/rss</description>
+                <title>Wie liebt man sich richtig selbst?</title>
+                <description>Nur wer sich selbst liebt, kann wahrlich andere Menschen lieben. Nur wer sich selbst liebt, kann wirklich Liebe erfahren. Und nur wer sich selbst liebt, kann wirklich gesund leben. Doch was ist diese Selbstliebe?
+Feed: http://www.urgeschmack.de/podcast</description>
                 
                 
-                <link>https://starkekinderstarkezukunft.libsyn.com/was-ist-deine-schwach-strke</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/starkekinderstarkezukunft/2023-08-12_21-44-51.mp3?dest-id=921965"/>
-                <guid>https://starkekinderstarkezukunft.libsyn.com/was-ist-deine-schwach-strke</guid>
+                <link>https://www.urgeschmack.de/selbstliebe/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/urgeschmack/www.urgeschmack.de/audio/selbstliebe.mp3"/>
+                <guid>https://www.urgeschmack.de/selbstliebe/</guid>
                 
             </item>
         </channel>
