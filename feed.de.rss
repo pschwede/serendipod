@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 16 Aug 2023 04:20:42 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 17 Aug 2023 04:20:20 +0200</lastBuildDate>
             <item>
-                <title>Björn Hayer</title>
-                <description>Der Schmerz ist ein komplexes Phänomen: Jeder kennt ihn, fast alle fürchten ihn, aber niemand kann ihn letztlich exakt beschreiben. Dabei hat der Schmerz eine immense Wirkung und Bedeutung – auch gesellschaftlich.
-Studiogast: Björn Hayer, Philosoph; Moderation: Jürgen Wiebicke
-Feed: https://www1.wdr.de/mediathek/audio/wdr5/wdr5-das-philosophische-radio/dasphilosophischeradio100.podcast</description>
+                <title>Alexandra Weber (Herzkissen) zu Gast bei Manolito Röhr</title>
+                <description>&lt;p&gt;Die 43-jährige Alexandra Weber war Jugendpflegerin und suchte auf die 40 zugehend eine Veränderung. Sie gründete die &amp;quot;Herzkissen&amp;quot; und arbeitet dazu als &amp;quot;Superhelferin&amp;quot; beim Deutschen Roten Kreuz. Sie bringt Energie und Optimismus mit ins Gespräch und sagt von sich selbst &amp;quot;...das sie etwas wäre, was nicht jedem schmeckt, aber die, die es mögen, die lieben es...&amp;quot;...
+Feed: https://anchor.fm/s/fc0d320/podcast/rss</description>
                 
                 
-                <link>https://www1.wdr.de/mediathek/audio/wdr5/wdr5-das-philosophische-radio/audio-bjoern-hayer-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/297/2971512/wdr5dasphilosophischeradio_2023-08-14_bjoernhayer_wdr5.mp3"/>
-                <guid>https://www1.wdr.de/mediathek/audio/wdr5/wdr5-das-philosophische-radio/audio-bjoern-hayer-100.html</guid>
+                <link>https://podcasters.spotify.com/pod/show/rund-ums-eck/episodes/Alexandra-Weber-Herzkissen-zu-Gast-bei-Manolito-Rhr-e2817ko</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/fc0d320/podcast/play/74538072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-12%2F16fd690a-379d-4589-d9c7-7164b00476ff.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/rund-ums-eck/episodes/Alexandra-Weber-Herzkissen-zu-Gast-bei-Manolito-Rhr-e2817ko</guid>
                 
             </item><item>
-                <title>Wie liebt man sich richtig selbst?</title>
-                <description>Nur wer sich selbst liebt, kann wahrlich andere Menschen lieben. Nur wer sich selbst liebt, kann wirklich Liebe erfahren. Und nur wer sich selbst liebt, kann wirklich gesund leben. Doch was ist diese Selbstliebe?
-Feed: http://www.urgeschmack.de/podcast</description>
+                <title>Verkehrsunfall: So helfen Sie richtig</title>
+                <description>Bei einem Unfall mit Verletzten heisst es, schnell helfen, aber trotzdem überlegt handeln. Das kann Angst verursachen. Was, wenn ich etwas falsch mache? Wer weiss, wie man sich richtig verhält, kann Druck herausnehmen. Hier eine kleine Auffrischung.
+Feed: https://www.srf.ch/feed/podcast/sd/f3715dd9-ca1a-4413-9180-11201892115a.xml</description>
                 
                 
-                <link>https://www.urgeschmack.de/selbstliebe/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/urgeschmack/www.urgeschmack.de/audio/selbstliebe.mp3"/>
-                <guid>https://www.urgeschmack.de/selbstliebe/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.srf.ch/world/audio/Ratgeber_16-08-2023-1108.1692180787611.mp3?assetId=f4fa13ed-a235-4f08-a1a5-8988db547228"/>
+                <guid></guid>
                 
             </item>
         </channel>

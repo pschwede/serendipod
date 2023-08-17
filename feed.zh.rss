@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 16 Aug 2023 04:21:03 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 17 Aug 2023 04:20:46 +0200</lastBuildDate>
             <item>
-                <title>News for Kids at LNE.news - Little Jade Tree News - Asian-American Kids Combat Hate</title>
-                <description>&lt;p&gt;It&amp;apos;s August 16, 2023. Glow is back to teach us about Asian American news for kids. Today we learn about Chinese adoptees loving Barbie, the next trend of Tteokbokki, Harvard promoting Tagalog, Asian Americans fighting hate, and the Supreme Court ending Affirmative Action.&lt;/p&gt;
-Feed: https://feeds.buzzsprout.com/1210538.rss</description>
+                <title>Religion and Foreign Policy Webinar: Reflecting on Turkey&#39;s Elections</title>
+                <description>
+Feed: https://www.cfr.org/CFREventsAudioFeed.xml</description>
                 
                 
-                <link>https://youtu.be/MVxx_zMU-e0</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1210538/13386977-news-for-kids-at-lne-news-little-jade-tree-news-asian-american-kids-combat-hate.mp3"/>
-                <guid>https://youtu.be/MVxx_zMU-e0</guid>
+                <link>https://www.cfr.org/event/religion-and-foreign-policy-webinar-reflecting-turkeys-elections</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/cfr-org-prod-media-files.s3.amazonaws.com/audio-files/7.26.23%20RFP%20Webinar%20Audio.mp3"/>
+                <guid>https://www.cfr.org/event/religion-and-foreign-policy-webinar-reflecting-turkeys-elections</guid>
                 
             </item><item>
-                <title>Murder On The West Gate Bridge: The Story Of Darcey Freeman</title>
-                <description>&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;THE END BITS&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Subscribe to Mamamia&lt;/p&gt;
-&lt;p&gt;If you have any details about this case, you can contact Crime Stoppers on 1800 333 000 or on their website.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CREDITS&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Guest: &lt;/strong&gt;Megan Norris&lt;/p&gt;
-&lt;p&gt;You can find out more details about her book Look What You Made Me Do here...
-Feed: https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/abaa347e-8ac5-454e-85f9-aa64005c285f/6d9fdc19-147e-4f77-8d3f-aa64005e5923/podcast.rss</description>
+                <title>S5 | 276: Mole-Beetlejuice</title>
+                <description>The Founding Five fight a pack of Mole Beetles before investigating the sinkhole in town. Later, visitors from neighboring colonies Zennilia and Nightwood come asking for access to the Goldenblooms store. The Founding Five have to make a choice.
+Feed: https://cosmiccrit.com/feed/podcast/</description>
                 
                 
-                <link>https://omny.fm/shows/true-crime-conversations/darcey-freeman</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/3ea926be-9be7-482a-8ac3-a44f016e43d1/abaa347e-8ac5-454e-85f9-aa64005c285f/429165e6-cd21-4383-9174-b0580002a81b/audio.mp3?utm_source=Podcast&amp;in_playlist=6d9fdc19-147e-4f77-8d3f-aa64005e5923"/>
-                <guid>https://omny.fm/shows/true-crime-conversations/darcey-freeman</guid>
+                <link>https://cosmiccrit.com/s5-276-mole-beetlejuice/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cosmiccrit.com/podcast-download/3339/s5-276-mole-beetlejuice.mp3"/>
+                <guid>https://cosmiccrit.com/s5-276-mole-beetlejuice/</guid>
                 
             </item>
         </channel>
