@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 17 Aug 2023 04:20:52 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 18 Aug 2023 04:21:12 +0200</lastBuildDate>
             <item>
-                <title>Digitas North America’s Ariel Sims assesses the Threads and X era of the social ad market</title>
-                <description>For all the attention being paid to X (née Twitter) these days, Ariel Sims is keeping a closer eye on Meta’s Threads at the moment. Between the two text-based social platforms, the latter is the one that the svp and head of paid social at Digitas North America said she’s spending more time talking with clients about and thinking about.
-“We’re having more conversation around [Threads]...
-Feed: https://feeds.megaphone.fm/DIGI5806832566</description>
+                <title>Ask Noah Show 350</title>
+                <description>This week CIQ, Oracle, and SUSE have formed OpenELA, we dig into the Libera chat / Matrix bridge issues, and we discuss choosing the problems you want to solve.
+Feed: https://podcast.asknoahshow.com/rss</description>
                 
                 
-                <link>https://digiday.com/marketing/digitas-north-americas-ariel-sims-assesses-the-threads-and-x-era-of-the-social-ad-market</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/traffic.megaphone.fm/DIGI6703166044.mp3?updated=1692046565"/>
-                <guid>https://digiday.com/marketing/digitas-north-americas-ariel-sims-assesses-the-threads-and-x-era-of-the-social-ad-market</guid>
+                <link>https://podcast.asknoahshow.com/350</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/305e3275-6919-4ed2-9ca1-b21e0cf904b2/08ab97ef-aca8-4f4d-b941-8cc0ee45914d.mp3"/>
+                <guid>https://podcast.asknoahshow.com/350</guid>
                 
             </item><item>
-                <title>Sublime!</title>
-                <description>G’day, everyone!
-On today’s show: Karlie Kloss made a curious appearance in the nosebleeds section of the Eras Tour, adding another chapter to the world’s most cryptic celebrity feud...
-Feed: https://feeds.megaphone.fm/ASEMS4278037250</description>
+                <title>2.5 Admins 156: SanDisk Extreme Fail</title>
+                <description>Why fully remote work is on the wane as Zoom drags employees back to the office and Bluejeans is shut down, the Sandisk SSDs that keep failing, and how and why you should use ECC RAM in your home server if you can.
+Feed: https://latenightlinux.com/feed/all</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/ASEMS6056608626.mp3?updated=1692160712"/>
-                <guid></guid>
+                <link>https://latenightlinux.com/2-5-admins-156-sandisk-extreme-fail/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/latenightlinux/2.5admins-156.mp3"/>
+                <guid>https://latenightlinux.com/2-5-admins-156-sandisk-extreme-fail/</guid>
                 
             </item>
         </channel>

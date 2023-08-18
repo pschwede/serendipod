@@ -9,27 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 17 Aug 2023 04:20:33 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 18 Aug 2023 04:20:53 +0200</lastBuildDate>
             <item>
-                <title>El Colegio Invisible 3x181: Más Allá de la mediumnidad</title>
-                <description>Esta semana, analizamos el fenómeno de la mediumnidad junto al sensitivo Aldo Linares, miembro del Grupo HEPTA. ¿Cómo percibe el &#39;otro lado&#39;? ¿Cómo es el proceso de comunicación? ¿Qué opina de la espectacularización y explotación de la mediumnidad? ¿Cu...
-Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
+                <title>Telemetría, privacidad y la exageración de algunos #Opinión</title>
+                <description>&lt;p&gt;Algunos usuarios reaccionan como gatos a la hora de ofrecer telemetría que sirve para mejorar el producto/software que estás usando y por el cual no pagas un centavo, sin embargo, su información se puede estar filtrando por otros lugares y eso no les preocupa tanto.&lt;/p&gt;
+&lt;p&gt;Me pueden contactar en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/contacto.html&lt;/p&gt;
+&lt;p&gt;Todos los medios donde publico contenido los encuentras en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/&lt;/p&gt;
+
+Feed: https://comopiensodigo.com/@comopiensodigo/feed.xml</description>
                 
                 
-                <link>https://www.ondacero.es/programas/colegio-invisible/podcast/colegio-invisible-3x181-mas-alla-mediumnidad_2023081164d5c3d295af7e000170124c.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.antena3.com/mp_audios5//2023/08/11/4D602B00-59EE-4A68-8C9D-E62403A8124D/4D602B00-59EE-4A68-8C9D-E62403A8124D.mp3"/>
-                <guid>https://www.ondacero.es/programas/colegio-invisible/podcast/colegio-invisible-3x181-mas-alla-mediumnidad_2023081164d5c3d295af7e000170124c.html</guid>
+                <link>https://comopiensodigo.com/@comopiensodigo/episodes/telemetria-privacidad-y-la-exageracion-de-algunos</link>
+                <enclosure type="audio/mpeg" length="1" url="https://comopiensodigo.com/audio/@comopiensodigo/telemetria-privacidad-y-la-exageracion-de-algunos.mp3?_from=fyyd.de"/>
+                <guid>https://comopiensodigo.com/@comopiensodigo/episodes/telemetria-privacidad-y-la-exageracion-de-algunos</guid>
                 
             </item><item>
-                <title>Drowning - T. J. Newman</title>
-                <description>Una vez más continuamos con las recomendaciones de novelas de thriller. Any nos cuenta donde encontró este libro y sus impresiones sobre la misma.
-Después de haber despegado hace minutos, el vuelo 1421 de pronto cae en el océano pacífico
-Feed: https://feeds.simplecast.com/Ls3L1Ojk</description>
+                <title>¿Es la realidad aumentada el futuro de las compras online?</title>
+                <description>Las apps de realidad aumentada con hologramas están llamadas a revolucionar las compras online. Los usuarios pueden evaluar mejor cómo quedan los nuevos muebles en su propia casa o qué gafas resaltan mejor su rostro.
+Feed: https://rss.dw.com/xml/podcast_enlaces</description>
                 
                 
-                <link>https://mentesliterales.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/0cc4690d-0899-463d-9bd6-b02c19a11833/episodes/93dd4bd3-4ac5-4488-a035-755f31810050/audio/4923016c-80d7-43f4-b7ff-2949d9edfeea/default_tc.mp3?aid=rss_feed&amp;feed=Ls3L1Ojk"/>
-                <guid>https://mentesliterales.com</guid>
+                <link>https://www.dw.com/es/¿es-la-realidad-aumentada-el-futuro-de-las-compras-online/video-66525151?maca=spa-podcast_enlaces-7583-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/enl/enl230817_ARAdvertising_AVC_640x360.mp4"/>
+                <guid>https://www.dw.com/es/¿es-la-realidad-aumentada-el-futuro-de-las-compras-online/video-66525151?maca=spa-podcast_enlaces-7583-xml-mrss</guid>
                 
             </item>
         </channel>
