@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 18 Aug 2023 04:21:12 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 19 Aug 2023 04:20:49 +0200</lastBuildDate>
             <item>
-                <title>Ask Noah Show 350</title>
-                <description>This week CIQ, Oracle, and SUSE have formed OpenELA, we dig into the Libera chat / Matrix bridge issues, and we discuss choosing the problems you want to solve.
-Feed: https://podcast.asknoahshow.com/rss</description>
+                <title>Walking in the Light</title>
+                <description>13-Aug-23 AM; 1 John 1v5 - 2v6
+Feed: https://www.ghbc.org.uk/ghbcpodcast.xml</description>
                 
                 
-                <link>https://podcast.asknoahshow.com/350</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/305e3275-6919-4ed2-9ca1-b21e0cf904b2/08ab97ef-aca8-4f4d-b941-8cc0ee45914d.mp3"/>
-                <guid>https://podcast.asknoahshow.com/350</guid>
+                <link>https://www.ghbc.org.uk/index.php?option=com_preachit&amp;view=study&amp;id=1074:walking-in-the-light&amp;Itemid=101&amp;mode=listen</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ghbc.org.uk/media/sermons/2023-08-13AM.mp3"/>
+                <guid>https://www.ghbc.org.uk/index.php?option=com_preachit&amp;view=study&amp;id=1074:walking-in-the-light&amp;Itemid=101&amp;mode=listen</guid>
                 
             </item><item>
-                <title>2.5 Admins 156: SanDisk Extreme Fail</title>
-                <description>Why fully remote work is on the wane as Zoom drags employees back to the office and Bluejeans is shut down, the Sandisk SSDs that keep failing, and how and why you should use ECC RAM in your home server if you can.
-Feed: https://latenightlinux.com/feed/all</description>
+                <title>#235 Alison Smith- When You Can&#39;t See the Wood for the Trees</title>
+                <description>&lt;p&gt;Alison Smith has a unique, quirky perspective - using nature as a metaphor for our lives - allows her to help people in an unconventional way that they may not be used to, but which always gets results! 
+&lt;/p&gt;&lt;p&gt;====================&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Please consider donating so I may continue to create free content https://www.podpage.com/speaking-podcast/support/&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Join Podmatch ⁠https://www.joinpodmatch...
+Feed: https://anchor.fm/s/7cd46bc/podcast/rss</description>
                 
                 
-                <link>https://latenightlinux.com/2-5-admins-156-sandisk-extreme-fail/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/latenightlinux/2.5admins-156.mp3"/>
-                <guid>https://latenightlinux.com/2-5-admins-156-sandisk-extreme-fail/</guid>
+                <link>https://podcasters.spotify.com/pod/show/roy-coughlan/episodes/235-Alison-Smith--When-You-Cant-See-the-Wood-for-the-Trees-e27r665</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/7cd46bc/podcast/play/74339973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-7%2F342185473-44100-2-33b265ab264fe.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/roy-coughlan/episodes/235-Alison-Smith--When-You-Cant-See-the-Wood-for-the-Trees-e27r665</guid>
                 
             </item>
         </channel>

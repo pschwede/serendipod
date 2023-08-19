@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 18 Aug 2023 04:20:34 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 19 Aug 2023 04:20:23 +0200</lastBuildDate>
             <item>
-                <title>DHE #187 -  Mid Year Review</title>
-                <description>Zach, Nicole, Nick, Chloe
-Feed: https://discourseofhumanevents.libsyn.com/rss</description>
+                <title>450: Hvorfor satser nordmenn sparepengene sine på lottoaksjer?</title>
+                <description>Mange nordmenn har fått øynene opp for investering i aksjer, men er det en utfordring at vi tar for høy risiko med sparepengene våre? Er vi klar over hvor stor risiko vi tar?
+Feed: https://feeds.acast.com/public/shows/61653f7433ffb500132c0775</description>
                 
                 
-                <link>https://discourseofhumanevents.libsyn.com/dhe-187-mid-year-review</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/discourseofhumanevents/Discourse187.mp3?dest-id=386465"/>
-                <guid>https://discourseofhumanevents.libsyn.com/dhe-187-mid-year-review</guid>
+                <link>https://www.nordnet.no/blogg/pengepodden/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/61653f7433ffb500132c0775/e/64de4cdf41893100116188a7/media.mp3"/>
+                <guid>https://www.nordnet.no/blogg/pengepodden/</guid>
                 
             </item><item>
-                <title>Elliot Jordan and Escrow Buddy</title>
-                <description>Today’s guest is Elliot Jordan, Senior Client Systems Engineer at Netflix, here to talk Escrow Buddy, Recipe Robot, AutoPkgr, and about all the fun projects he’s been involved in over the years! Hosts:  Tom Bridge -  Charles Edge -  Marcus Ransom...
-Feed: https://macadmins.libsyn.com/rss</description>
+                <title>S2 Episode 27: ill-advised Baldur&#39;s Gate 3 discourse chat</title>
+                <description>People have been having all sorts of opinions about Baldur&#39;s Gate 3, and we have opinions on those opinions
+Feed: https://feeds.megaphone.fm/GNL1793315816</description>
                 
                 
-                <link>https://macadmins.libsyn.com/episode-328-elliot-jordan-and-escrow-buddy</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/macadmins/Mac_Admins_Podcast_Episode_328.mp3?dest-id=358353"/>
-                <guid>https://macadmins.libsyn.com/episode-328-elliot-jordan-and-escrow-buddy</guid>
+                <link>https://www.rockpapershotgun.com/the-electronic-wireless-show-s2-episode-27-ill-advised-baldurs-gate-3-discourse-chat</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/GNL3651725172.mp3?updated=1692283136"/>
+                <guid>https://www.rockpapershotgun.com/the-electronic-wireless-show-s2-episode-27-ill-advised-baldurs-gate-3-discourse-chat</guid>
                 
             </item>
         </channel>
