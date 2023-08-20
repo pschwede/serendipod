@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 19 Aug 2023 04:20:49 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 20 Aug 2023 04:20:25 +0200</lastBuildDate>
             <item>
-                <title>Walking in the Light</title>
-                <description>13-Aug-23 AM; 1 John 1v5 - 2v6
-Feed: https://www.ghbc.org.uk/ghbcpodcast.xml</description>
+                <title>Polly Toynbee</title>
+                <description>&lt;p&gt;When Polly Toynbee arrived at&amp;nbsp;The Observer in the late 1960s, she&amp;nbsp;quickly concluded that she would make a useless news reporter.&amp;nbsp;Hailing from a long line of well-heeled and highly educated liberals and social reformers, Polly surmised that she didn&#39;t know enough about the country she&#39;d grown up in. Since then, Polly has worked in factories, hospitals and care homes, shedding light on the nature of work and class...
+Feed: https://feeds.captivate.fm/full-disclosure/</description>
                 
                 
-                <link>https://www.ghbc.org.uk/index.php?option=com_preachit&amp;view=study&amp;id=1074:walking-in-the-light&amp;Itemid=101&amp;mode=listen</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ghbc.org.uk/media/sermons/2023-08-13AM.mp3"/>
-                <guid>https://www.ghbc.org.uk/index.php?option=com_preachit&amp;view=study&amp;id=1074:walking-in-the-light&amp;Itemid=101&amp;mode=listen</guid>
+                <link>https://www.lbc.co.uk/radio/podcasts/james-obrien-podcast-full-disclosure-interview/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dax.captivate.fm/53286cd8-7ae0-4411-8138-87d1828e6bc5/Full-Disclosure-Polly-Mixdown-READY-encoded.mp3?aw_0_1st.showid=95158cfb-f74f-4f9c-8f47-00bd976ab01d&amp;aw_0_1st.episodeid=a54a7cfa-4edc-403c-a5ce-c9333b425cf4"/>
+                <guid>https://www.lbc.co.uk/radio/podcasts/james-obrien-podcast-full-disclosure-interview/</guid>
                 
             </item><item>
-                <title>#235 Alison Smith- When You Can&#39;t See the Wood for the Trees</title>
-                <description>&lt;p&gt;Alison Smith has a unique, quirky perspective - using nature as a metaphor for our lives - allows her to help people in an unconventional way that they may not be used to, but which always gets results! 
-&lt;/p&gt;&lt;p&gt;====================&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Please consider donating so I may continue to create free content https://www.podpage.com/speaking-podcast/support/&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Join Podmatch ⁠https://www.joinpodmatch...
-Feed: https://anchor.fm/s/7cd46bc/podcast/rss</description>
+                <title>Late Night Linux – Episode 242</title>
+                <description>Rare praise for Mozilla as more extensions come to Firefox on Android, Fedora is coming to Arm Macs, a rolling version of “Ubuntu” appears, an unwise solution to the problem of funding open source, SUSE might be the baddies, LXD is forked, and more.
+Feed: https://latenightlinux.com/feed/mp3</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/roy-coughlan/episodes/235-Alison-Smith--When-You-Cant-See-the-Wood-for-the-Trees-e27r665</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/7cd46bc/podcast/play/74339973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-7%2F342185473-44100-2-33b265ab264fe.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/roy-coughlan/episodes/235-Alison-Smith--When-You-Cant-See-the-Wood-for-the-Trees-e27r665</guid>
+                <link>https://latenightlinux.com/late-night-linux-episode-242/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/latenightlinux/LNL242.mp3"/>
+                <guid>https://latenightlinux.com/late-night-linux-episode-242/</guid>
                 
             </item>
         </channel>
