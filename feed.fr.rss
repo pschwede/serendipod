@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 20 Aug 2023 04:20:00 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 21 Aug 2023 04:20:10 +0200</lastBuildDate>
             <item>
-                <title>78. Clotilde Dusoulier : Manquer de temps</title>
-                <description>Bienvenue sur « S’ouvrir à l’amour » le podcast qui va t’aider à t’ouvrir à l’amour
-et à transformer ta vie amoureuse. 
- 
-Dans l’épisode 78 de S’ouvrir à l’amour j’ai l’honneur d’avoir comme invitée Clotilde Dusoulier CEO de Change ma vie (https://chan...
-Feed: https://feed.ausha.co/bjPkYiPMPlqo</description>
+                <title>Howl, autopsie d&#39;un cri</title>
+                <description>Howl, autopsie d&#39;un cri
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15537.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/s-ouvrir-a-l-amour/78-clotilde-dusoulier-manquer-de-temps</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BG4lZh8dGJwl.mp3?t=1687784359"/>
-                <guid>https://podcast.ausha.co/s-ouvrir-a-l-amour/78-clotilde-dusoulier-manquer-de-temps</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/la-compagnie-des-poetes</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c1bd6f15-3456-4b88-bbae-ed59d7cdb249/15537-20.08.2023-ITEMA_23463285-2023C23850E0009-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/la-compagnie-des-poetes</guid>
                 
             </item><item>
-                <title>Épisode 51 : Stéphane Cherrier, un maestro à Sancerre</title>
-                <description>&lt;p&gt;Domaine Paul Cherrier, Verdigny, Sancerre&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Si je vous dis Paul ou Stéphane Cherrier, ça vous parle ? A vrai dire, cela ne nous parlait pas du tout avant d’arriver à Verdigny, petit village tout proche de Sancerre. C’est Jean-Dominique Vacheron qui nous a mis sur cette piste et le moins que l’on puisse dire est que nous n’oublierons pas notre rencontre avec Stéphane...
-Feed: https://anchor.fm/s/d058158/podcast/rss</description>
+                <title>mardi 15 août, 09:00 - PRÉSENCE - MINUTE PAPILLON !</title>
+                <description>PRÉSENCE - MINUTE PAPILLON !
+Feed: http://radioagora-nanterre.fr/ws/saooti/services/rss/channel/1/15/fr_FR</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/le-bon-grain-de-livresse/episodes/pisode-51--Stphane-Cherrier--un-maestro--Sancerre-e2860j1</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/d058158/podcast/play/74694689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-16%2F8ca5c6ca-1cb3-9dcf-000f-d15b058cc9b6.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/le-bon-grain-de-livresse/episodes/pisode-51--Stphane-Cherrier--un-maestro--Sancerre-e2860j1</guid>
+                <link>https://radioagora-nanterre.fr/broadcast/2395</link>
+                <enclosure type="audio/mpeg" length="1" url="http://radioagora-nanterre.fr/external/podcast-385.mp3?mediaId=385&amp;duration=1800000"/>
+                <guid>https://radioagora-nanterre.fr/broadcast/2395</guid>
                 
             </item>
         </channel>
