@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 21 Aug 2023 04:20:10 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 22 Aug 2023 04:20:03 +0200</lastBuildDate>
             <item>
-                <title>Howl, autopsie d&#39;un cri</title>
-                <description>Howl, autopsie d&#39;un cri
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15537.xml</description>
+                <title>Grandeur nature</title>
+                <description>Grande taille, petits problèmes
+Feed: https://www.arteradio.com/xml_flux?fluxname=%22Profils%22</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/la-compagnie-des-poetes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c1bd6f15-3456-4b88-bbae-ed59d7cdb249/15537-20.08.2023-ITEMA_23463285-2023C23850E0009-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/la-compagnie-des-poetes</guid>
+                <link>https://www.arteradio.com/son/61678653/grandeur_nature</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arte.proxycast.org/m/media/226026218795.mp3?c=Flux&amp;p=1279&amp;l3=61678653&amp;l4=grandeur_nature-20230706&amp;media_url=https%3A%2F%2Fcdn.arteradio.com%2Fpermanent%2Farteradio%2Fsites%2Fdefault%2Ffiles%2Fsons%2F06grandeurnature_hq_fr.mp3"/>
+                <guid>https://www.arteradio.com/son/61678653/grandeur_nature</guid>
                 
             </item><item>
-                <title>mardi 15 août, 09:00 - PRÉSENCE - MINUTE PAPILLON !</title>
-                <description>PRÉSENCE - MINUTE PAPILLON !
-Feed: http://radioagora-nanterre.fr/ws/saooti/services/rss/channel/1/15/fr_FR</description>
+                <title>Best of d&#39;été #22 Malheurs Actuels 3/5 : Jusqu&#39;où aller trop loin ? (Albin Wagener et Cyrielle Istin) (S02E39)</title>
+                <description>Pour écouter la série entière : 
+https://bit.ly/MA_1_CBT (https://bit.ly/MA_1_CBT)
+https://bit.ly/MA_2_CBT (https://bit.ly/MA_2_CBT)
+https://bit.ly/MA_3_CBT (https://bit.ly/MA_3_CBT)
+https://bit.ly/MA_4_CBT (https://bit.ly/MA_4_CBT)
+https://bit.ly/MA_5...
+Feed: https://feed.ausha.co/oR3M1sX0ZX48</description>
                 
                 
-                <link>https://radioagora-nanterre.fr/broadcast/2395</link>
-                <enclosure type="audio/mpeg" length="1" url="http://radioagora-nanterre.fr/external/podcast-385.mp3?mediaId=385&amp;duration=1800000"/>
-                <guid>https://radioagora-nanterre.fr/broadcast/2395</guid>
+                <link>https://podcast.ausha.co/combats/best-of-d-ete-22-malheurs-actuels-3-5-jusqu-ou-aller-trop-loin-albin-wagener-et-cyrielle-istin-s02e39</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/oL2PaFgOnQva.mp3?t=1687874844"/>
+                <guid>https://podcast.ausha.co/combats/best-of-d-ete-22-malheurs-actuels-3-5-jusqu-ou-aller-trop-loin-albin-wagener-et-cyrielle-istin-s02e39</guid>
                 
             </item>
         </channel>
