@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 22 Aug 2023 04:20:03 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 23 Aug 2023 04:20:14 +0200</lastBuildDate>
             <item>
-                <title>Grandeur nature</title>
-                <description>Grande taille, petits problèmes
-Feed: https://www.arteradio.com/xml_flux?fluxname=%22Profils%22</description>
+                <title>Cléopâtre selon Shakespeare</title>
+                <description>Cléopâtre selon Shakespeare
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11739.xml</description>
                 
                 
-                <link>https://www.arteradio.com/son/61678653/grandeur_nature</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arte.proxycast.org/m/media/226026218795.mp3?c=Flux&amp;p=1279&amp;l3=61678653&amp;l4=grandeur_nature-20230706&amp;media_url=https%3A%2F%2Fcdn.arteradio.com%2Fpermanent%2Farteradio%2Fsites%2Fdefault%2Ffiles%2Fsons%2F06grandeurnature_hq_fr.mp3"/>
-                <guid>https://www.arteradio.com/son/61678653/grandeur_nature</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/le-vif-de-l-histoire/13h54-le-vif-de-l-histoire-du-jeudi-02-juin-2022-7495620</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/5e65602d-0766-4049-a083-91ddbcb01ced/11739-20.08.2023-ITEMA_23425595-2022F17009S0153-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-vif-de-l-histoire/13h54-le-vif-de-l-histoire-du-jeudi-02-juin-2022-7495620</guid>
                 
             </item><item>
-                <title>Best of d&#39;été #22 Malheurs Actuels 3/5 : Jusqu&#39;où aller trop loin ? (Albin Wagener et Cyrielle Istin) (S02E39)</title>
-                <description>Pour écouter la série entière : 
-https://bit.ly/MA_1_CBT (https://bit.ly/MA_1_CBT)
-https://bit.ly/MA_2_CBT (https://bit.ly/MA_2_CBT)
-https://bit.ly/MA_3_CBT (https://bit.ly/MA_3_CBT)
-https://bit.ly/MA_4_CBT (https://bit.ly/MA_4_CBT)
-https://bit.ly/MA_5...
-Feed: https://feed.ausha.co/oR3M1sX0ZX48</description>
+                <title>Chronique de Laurent et Lorette Costy « Sésame ouvre-toi et prends-en de la graine »</title>
+                <description> Les références : &lt;ul class=&#34;spip&#34;&gt;&lt;li&gt;La page Wikipedia sur les palindromes&lt;/li&gt;&lt;li&gt;Si l&#39;un de vos mots de passe est dans cette liste, changez-le :)&lt;/li&gt;&lt;li&gt;L&#39;Eurovision, ça coûte bonbon&lt;/li&gt;&lt;li&gt;Tout est dans l&#39;URL, non ? :)&lt;/li&gt;&lt;li&gt;X-Or est à l&#39;IA ce que San Ku Kaï est au cloud&lt;/li&gt;&lt;li&gt;Reflets d&#39;Acide : sans aucun doute l&#39;une des meilleures saga MP3 de tout les temps&lt;/li&gt;&lt;li&gt;Évaluer si votre mail fait partie de base de données pour lesquelles il y aurait eu des fuites déclarées&lt;/li&gt;&lt;li&gt;Voir...
+Feed: https://april.org/lav.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/combats/best-of-d-ete-22-malheurs-actuels-3-5-jusqu-ou-aller-trop-loin-albin-wagener-et-cyrielle-istin-s02e39</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/oL2PaFgOnQva.mp3?t=1687874844"/>
-                <guid>https://podcast.ausha.co/combats/best-of-d-ete-22-malheurs-actuels-3-5-jusqu-ou-aller-trop-loin-albin-wagener-et-cyrielle-istin-s02e39</guid>
+                <link>https://www.libreavous.org/181-parcours-libriste-avec-agnes-crepet-tor-et-nos-oignons</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20230704/libre-a-vous-20230704-chronique-laurent-et-lorette-costy.mp3"/>
+                <guid>https://www.libreavous.org/181-parcours-libriste-avec-agnes-crepet-tor-et-nos-oignons</guid>
                 
             </item>
         </channel>
