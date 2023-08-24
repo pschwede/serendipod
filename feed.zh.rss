@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 23 Aug 2023 04:20:29 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 24 Aug 2023 04:20:38 +0200</lastBuildDate>
             <item>
-                <title>Guest Spot: Cold Turkey Podcast (Ft. Arys Déjan)</title>
-                <description>&lt;p&gt;The TWHC podcast is sponsored by BetterHelp. Go to https://betterhelp...
-Feed: https://feeds.captivate.fm/whohowclub/</description>
+                <title>Little Acts of Kindness | UA130</title>
+                <description>&lt;p&gt;Little acts of kindness are like little acts of magic. They lighten our moods, tone down our cynicism, reduce our pessimism, and make us feel less judgmental about others and ourselves.&lt;/p&gt;&lt;p&gt;The tiniest things we do can make a huge difference to someone else. When we intentionally extend our goodwill to another person, they can feel it. We might be the only live person they interact with that day...
+Feed: https://feeds.captivate.fm/the-unlikely-artist/</description>
                 
                 
-                <link>https://whohowclub.captivate.fm/episode/coldturkey</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/693d09b0-58ab-4b0f-9717-5a587682921c/Guest-Spot-Cold-Turkey-converted.mp3"/>
-                <guid>https://whohowclub.captivate.fm/episode/coldturkey</guid>
+                <link>https://gracedcanvas.com/podcast-test/little-acts-of-kindness-ua130</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/7c80e628-a2b1-42cb-a6f9-20e95e4b7e55/UA-130-converted.mp3"/>
+                <guid>https://gracedcanvas.com/podcast-test/little-acts-of-kindness-ua130</guid>
                 
             </item><item>
-                <title>Sisterhood Heals w/ Dr Joy of Therapy For Black Girls</title>
-                <description>&lt;p&gt;Welcome to another empowering episode of the Brown Girl Self-Care podcast! In this week&amp;#39;s episode, we are diving deep into the transformative power of sisterhood and community with a truly inspiring guest. Join us as we engage in a heartfelt conversation with the incredible Dr. Joy Harden Bradford, the visionary behind Therapy for Black Girls, and the author of the enlightening new book, &amp;#34;Sisterhood Heals.&amp;#34;&lt;/p&gt;&lt;p&gt;Dr...
-Feed: https://feeds.redcircle.com/9e0a768b-f0d0-495c-ad53-721ad70f82a7</description>
+                <title>Feelings, Money &amp; the Medicine Space with David Sauvage</title>
+                <description>How can we find a balance between authentic connection and financial security?
+Listen in as Beth Weinstein and teacher, empath, artist, and guide, David Sauvage, take us on a journey exploring the intricate relationship between money and sacred work. David shares his perspectives on monetizing deeply spiritual and meaningful services, acknowledging the potential clash between the frequency of money and that of love, compassion, and authentic connection...
+Feed: https://feeds.simplecast.com/0uzhLxy2</description>
                 
                 
-                <link>https://redcircle.com/shows/9e0a768b-f0d0-495c-ad53-721ad70f82a7/episodes/97a410f5-19fd-4cb6-98ab-f8fc20550a6c</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio4.redcircle.com/episodes/97a410f5-19fd-4cb6-98ab-f8fc20550a6c/stream.mp3"/>
-                <guid>https://redcircle.com/shows/9e0a768b-f0d0-495c-ad53-721ad70f82a7/episodes/97a410f5-19fd-4cb6-98ab-f8fc20550a6c</guid>
+                <link>https://bethaweinstein.com/podcast/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/ab2a8690-7a9f-41a3-84f9-2f5c28084c2d/episodes/c9b9656f-e854-4df2-bebb-29e1fada132a/audio/63811b65-9dfb-4223-bf37-5b52179e707a/default_tc.mp3?aid=rss_feed&amp;feed=0uzhLxy2"/>
+                <guid>https://bethaweinstein.com/podcast/</guid>
                 
             </item>
         </channel>

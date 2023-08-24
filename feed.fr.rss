@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 23 Aug 2023 04:20:14 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 24 Aug 2023 04:20:19 +0200</lastBuildDate>
             <item>
-                <title>Cléopâtre selon Shakespeare</title>
-                <description>Cléopâtre selon Shakespeare
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11739.xml</description>
+                <title>[REDIFFUSION] Nathalie Boy de la Tour, Première femme élue présidente de la Ligue de football professionnel</title>
+                <description>Nathalie Boy de la Tour est la première femme élue présidente de la Ligue de football professionnel. Avec 800 matchs professionnels par an sur 32 journées, des milliers de spectateurs et des millions de téléspectateurs, la Ligue de football professionn...
+Feed: https://feed.ausha.co/BGYZlFJnq8XW</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/le-vif-de-l-histoire/13h54-le-vif-de-l-histoire-du-jeudi-02-juin-2022-7495620</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/5e65602d-0766-4049-a083-91ddbcb01ced/11739-20.08.2023-ITEMA_23425595-2022F17009S0153-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-vif-de-l-histoire/13h54-le-vif-de-l-histoire-du-jeudi-02-juin-2022-7495620</guid>
+                <link>https://podcast.ausha.co/pause-le-podcast-d-alexandre-mars/rediffusion-nathalie-boy-de-la-tour-premiere-femme-elue-presidente-de-la-ligue-de-football-professionnel</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B1jPOhGVjw1L.mp3?t=1690464760"/>
+                <guid>https://podcast.ausha.co/pause-le-podcast-d-alexandre-mars/rediffusion-nathalie-boy-de-la-tour-premiere-femme-elue-presidente-de-la-ligue-de-football-professionnel</guid>
                 
             </item><item>
-                <title>Chronique de Laurent et Lorette Costy « Sésame ouvre-toi et prends-en de la graine »</title>
-                <description> Les références : &lt;ul class=&#34;spip&#34;&gt;&lt;li&gt;La page Wikipedia sur les palindromes&lt;/li&gt;&lt;li&gt;Si l&#39;un de vos mots de passe est dans cette liste, changez-le :)&lt;/li&gt;&lt;li&gt;L&#39;Eurovision, ça coûte bonbon&lt;/li&gt;&lt;li&gt;Tout est dans l&#39;URL, non ? :)&lt;/li&gt;&lt;li&gt;X-Or est à l&#39;IA ce que San Ku Kaï est au cloud&lt;/li&gt;&lt;li&gt;Reflets d&#39;Acide : sans aucun doute l&#39;une des meilleures saga MP3 de tout les temps&lt;/li&gt;&lt;li&gt;Évaluer si votre mail fait partie de base de données pour lesquelles il y aurait eu des fuites déclarées&lt;/li&gt;&lt;li&gt;Voir...
-Feed: https://april.org/lav.xml</description>
+                <title>Mistral : Sélène Saint-Aimé, Keith Jarrett, Meshell Ndegeocello, Otis Redding and more</title>
+                <description>Mistral : Sélène Saint-Aimé, Keith Jarrett, Meshell Ndegeocello, Otis Redding and more
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14613.xml</description>
                 
                 
-                <link>https://www.libreavous.org/181-parcours-libriste-avec-agnes-crepet-tor-et-nos-oignons</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20230704/libre-a-vous-20230704-chronique-laurent-et-lorette-costy.mp3"/>
-                <guid>https://www.libreavous.org/181-parcours-libriste-avec-agnes-crepet-tor-et-nos-oignons</guid>
+                <link>http://www.francemusique.fr/emission/banzzai</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/2864ef26-fa3b-4c11-ba56-58ed6848de72/14613-23.08.2023-ITEMA_23465293-2023M23834E0070-21.mp3"/>
+                <guid>http://www.francemusique.fr/emission/banzzai</guid>
                 
             </item>
         </channel>
