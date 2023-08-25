@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 24 Aug 2023 04:20:19 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 25 Aug 2023 04:20:29 +0200</lastBuildDate>
             <item>
-                <title>[REDIFFUSION] Nathalie Boy de la Tour, Première femme élue présidente de la Ligue de football professionnel</title>
-                <description>Nathalie Boy de la Tour est la première femme élue présidente de la Ligue de football professionnel. Avec 800 matchs professionnels par an sur 32 journées, des milliers de spectateurs et des millions de téléspectateurs, la Ligue de football professionn...
-Feed: https://feed.ausha.co/BGYZlFJnq8XW</description>
+                <title>Épisode 80 - Clémentine et les boulangers pâtissiers au Moyen Âge</title>
+                <description>Dans cet épisode de Passion Médiévistes, Clémenti…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:147058082/sounds.rss</description>
                 
                 
-                <link>https://podcast.ausha.co/pause-le-podcast-d-alexandre-mars/rediffusion-nathalie-boy-de-la-tour-premiere-femme-elue-presidente-de-la-ligue-de-football-professionnel</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B1jPOhGVjw1L.mp3?t=1690464760"/>
-                <guid>https://podcast.ausha.co/pause-le-podcast-d-alexandre-mars/rediffusion-nathalie-boy-de-la-tour-premiere-femme-elue-presidente-de-la-ligue-de-football-professionnel</guid>
+                <link>https://soundcloud.com/fannycomo/ep-80-clementine-boulangers</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1590487231-fannycomo-ep-80-clementine-boulangers.mp3"/>
+                <guid>https://soundcloud.com/fannycomo/ep-80-clementine-boulangers</guid>
                 
             </item><item>
-                <title>Mistral : Sélène Saint-Aimé, Keith Jarrett, Meshell Ndegeocello, Otis Redding and more</title>
-                <description>Mistral : Sélène Saint-Aimé, Keith Jarrett, Meshell Ndegeocello, Otis Redding and more
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14613.xml</description>
+                <title>Générations JMJ : &#34;À Cracovie, le choc après l’assassinat du père Jacques Hamel&#34;</title>
+                <description>Place des religions, saison 6 : Générations JMJ
+Marie Malzac, ancienne journaliste à La Croix, nous raconte les Journées mondiales de la jeunesse de 2016, qui se sont déroulées dans la ville de Cracovie, en Pologne. Une édition que l’assassinat du pèr...
+Feed: https://feed.ausha.co/bVOzmcG6wpjm</description>
                 
                 
-                <link>http://www.francemusique.fr/emission/banzzai</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/2864ef26-fa3b-4c11-ba56-58ed6848de72/14613-23.08.2023-ITEMA_23465293-2023M23834E0070-21.mp3"/>
-                <guid>http://www.francemusique.fr/emission/banzzai</guid>
+                <link>https://podcast.ausha.co/place-des-religions/generations-jmj-a-cracovie-le-choc-apres-l-assassinat-du-pere-jacques-hamel</link>
+                <enclosure type="audio/mpeg" length="1" url="https://bayard.proxycast.org/m/media/244044219087.mp3?c=place-des-religions&amp;p=6&amp;l3=generations-jmj-a-cracovie-le-choc-apres-l-assassinat-du-per&amp;l4=2023-08-01+23%3A00%3A00&amp;media_url=https%3A%2F%2Faudio.ausha.co%2FbVxJ0c7ReQno.mp3%3Ft%3D1690548745"/>
+                <guid>https://podcast.ausha.co/place-des-religions/generations-jmj-a-cracovie-le-choc-apres-l-assassinat-du-pere-jacques-hamel</guid>
                 
             </item>
         </channel>

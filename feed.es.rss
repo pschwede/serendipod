@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 24 Aug 2023 04:20:25 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 25 Aug 2023 04:20:33 +0200</lastBuildDate>
             <item>
-                <title>Música y Letra: Conciertos para piano y orquesta IV - Chopin y Chaikovski</title>
-                <description>Andrés Amorós continúa su ciclo de conciertos para piano y orquesta dedicando este programa al polaco Chopin y al ruso Chaikovski.
-Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
+                <title>Barbie, prototipo de la mujer?</title>
+                <description>La mujer y todo lo que tiene que ver con ella, es un tema que se est&amp;aacute; cuestionando mucho en los &amp;uacute;ltimos tiempos y que se le est&amp;aacute; denigrando en su esencia femenina y, por tanto, en la energ&amp;iacute;a que integra. En los pron&amp;oacute;sticos que he hecho para el 2023, en diferentes canales, ya avis&amp;eacute; del cambio que se iba a dar y de la revoluci&amp;oacute;n que esto iba a producir. Lo femenino vuelve a estar sobre la mesa y hay un gran riesgo de demonizaci&amp;oacute;n de nuevo...
+Feed: https://www.ivoox.com/de/depodcast-sol-ahimsa_fg_f1407362_filtro_1.xml</description>
                 
                 
-                <link>https://esradio.libertaddigital.com/fonoteca/2023-08-19/musica-y-letra-conciertos-para-piano-y-orquesta-iv-chopin-y-chaikovski-p1696233-7038918.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/56522820/download.mp3?aw_0_1st.collectionid=musica-y-letra"/>
-                <guid>https://esradio.libertaddigital.com/fonoteca/2023-08-19/musica-y-letra-conciertos-para-piano-y-orquesta-iv-chopin-y-chaikovski-p1696233-7038918.html</guid>
+                <link>https://www.ivoox.com/barbie-prototipo-mujer-audios-mp3_rf_113315302_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/barbie-prototipo-mujer_mh_113315302_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/barbie-prototipo-mujer-audios-mp3_rf_113315302_1.html</guid>
                 
             </item><item>
-                <title>Instagram vs. realidad: Ámsterdam</title>
-                <description>Flores multicolores, canales, edificios históricos - así se presenta Ámsterdam en Instagram. Pero ¿cuánto de realidad hay en ello? Nuestra conclusión: la ciudad no cumple con todo lo prometido en las redes sociales.
-Feed: https://rss.dw.com/xml/podcast_euromaxx_spa</description>
+                <title>Historia de los Alimentos I</title>
+                <description>Cuando la alimentación lo cambió todo Empezamos un viaje por la historia de los alimentos. En este primer episodio les contaremos cómo la agricultura modificó por completo nuestra dieta, pero también nuestra cultura y nuestras estructuras...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link>https://www.dw.com/es/instagram-vs-realidad-ámsterdam/video-66562459?maca=spa-podcast_euromaxx_spa-7581-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ems/ems230818_amsterdam_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/instagram-vs-realidad-ámsterdam/video-66562459?maca=spa-podcast_euromaxx_spa-7581-xml-mrss</guid>
+                <link>https://www.dianauribe.fm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Historia_de_los_Alimentos_I.mp3?dest-id=844493"/>
+                <guid>https://www.dianauribe.fm</guid>
                 
             </item>
         </channel>
