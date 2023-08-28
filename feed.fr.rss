@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 27 Aug 2023 04:19:23 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 28 Aug 2023 04:20:45 +0200</lastBuildDate>
             <item>
-                <title>Grandeur nature</title>
-                <description>Grande taille, petits problèmes
-Feed: https://www.arteradio.com/xml_flux?fluxname=%22Profils%22</description>
+                <title>Place aux gros 4/4 : Aimer tous les corps</title>
+                <description>Place aux gros 4/4 : Aimer tous les corps
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10177.xml</description>
                 
                 
-                <link>https://www.arteradio.com/son/61678653/grandeur_nature</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arte.proxycast.org/m/media/226026218795.mp3?c=Flux&amp;p=1279&amp;l3=61678653&amp;l4=grandeur_nature-20230706&amp;media_url=https%3A%2F%2Fcdn.arteradio.com%2Fpermanent%2Farteradio%2Fsites%2Fdefault%2Ffiles%2Fsons%2F06grandeurnature_hq_fr.mp3"/>
-                <guid>https://www.arteradio.com/son/61678653/grandeur_nature</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/93fd33ae-2fca-436d-b586-71c72ad988a7/10177-21.08.2023-ITEMA_23463846-2023C26362E0101-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire</guid>
                 
             </item><item>
-                <title>Emission du 08/08/2023</title>
-                <description>Cette semaine, nous accueillons comme invité un artiste à l’inspiration et à la voix intactes : E...
-Feed: https://kitschetnet.podomatic.com/rss2.xml</description>
+                <title>{BONUS} - En direct du Podcast Movement avec Stéphane Berthomet</title>
+                <description>Directement de Denver, j&#39;ai rejoint Stéphane Bert…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:248510865/sounds.rss</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/kitschetnet/episodes/2023-08-21T13_41_19-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://kitschetnet.podomatic.com/enclosure/2023-08-21T13_41_19-07_00.mp3?_=1692651346.16724535"/>
-                <guid>https://www.podomatic.com/podcasts/kitschetnet/episodes/2023-08-21T13_41_19-07_00</guid>
+                <link>https://soundcloud.com/moncarnet/bonus-en-direct-du-podcast-movement-avec-stephane-berthomet</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1601200122-moncarnet-bonus-en-direct-du-podcast-movement-avec-stephane-berthomet.mp3"/>
+                <guid>https://soundcloud.com/moncarnet/bonus-en-direct-du-podcast-movement-avec-stephane-berthomet</guid>
                 
             </item>
         </channel>

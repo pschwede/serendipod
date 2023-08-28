@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 27 Aug 2023 04:19:28 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 28 Aug 2023 04:20:50 +0200</lastBuildDate>
             <item>
-                <title>2023-08-19 Flafri</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>Bang Bang –“Nos Pegan”, entrevista con la banda queer-punk Las Marikarmen</title>
+                <description>En este episodio de Bang-Bang, entrevistamos a la banda de travesti, transfeminista y queer-punk made in Catalonia: Las Marikarmen, actorxs clave de la escena wonderground española y autorxs de &#34;Nos Pegan&#34;, su segundo álbum de estudio.
+Feed: https://xrcb.cat/subscribirse-a-podcast/?id=864</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-08-19Flafri.mp3"/>
-                <guid></guid>
+                <link>https://xrcb.cat/ca/podcast/bang-bang-nos-pegan-entrevista-con-la-banda-queer-punk-las-marikarmen/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://xrcb.cat/wp-content/uploads/2023/07/Las-Marikarmen_Nos_Pegan.mp3"/>
+                <guid>https://xrcb.cat/ca/podcast/bang-bang-nos-pegan-entrevista-con-la-banda-queer-punk-las-marikarmen/</guid>
                 
             </item><item>
-                <title>Cosa Pública 2.0 - Vi. 25 Ago 2023 - #10aniversario</title>
-                <description>https://podcastudg.com/CosaPublica20230825.mp3
-Feed: https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/feed/19</description>
+                <title>Sapiens - Entendiendo el universo. Con Jon Marcaide - 22/07/23</title>
+                <description>Entendiendo el universo. Con Jon Marcaide
+Feed: http://www.rtve.es/api/programas/128073/audios.rss</description>
                 
                 
-                <link>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---vi-25-ago-2023---10aniversario/195009</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/CosaPublica20230825.mp3"/>
-                <guid>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---vi-25-ago-2023---10aniversario/195009</guid>
+                <link>https://www.rtve.es/play/audios/sapiens/entendiendo-universo-jon-marcaide/6939674/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SSAPIEN/mp3/8/3/1690016236038.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sapiens/entendiendo-universo-jon-marcaide/6939674/</guid>
                 
             </item>
         </channel>
