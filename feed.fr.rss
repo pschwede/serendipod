@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 28 Aug 2023 04:20:45 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 29 Aug 2023 04:20:39 +0200</lastBuildDate>
             <item>
-                <title>Place aux gros 4/4 : Aimer tous les corps</title>
-                <description>Place aux gros 4/4 : Aimer tous les corps
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10177.xml</description>
+                <title>60 ans après la marche des droits civiques, où en est la fracture raciale aux Etats-Unis ?</title>
+                <description>60 ans après la marche des droits civiques, où en est la fracture raciale aux Etats-Unis ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13305.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/93fd33ae-2fca-436d-b586-71c72ad988a7/10177-21.08.2023-ITEMA_23463846-2023C26362E0101-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/60-ans-apres-la-marche-des-droits-civiques-ou-en-est-la-fracture-raciale-aux-etats-unis-7898792</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a98e90db-8beb-473a-afd5-d33212bcc7fd/13305-28.08.2023-ITEMA_23468646-2023C3305S0240-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/60-ans-apres-la-marche-des-droits-civiques-ou-en-est-la-fracture-raciale-aux-etats-unis-7898792</guid>
                 
             </item><item>
-                <title>{BONUS} - En direct du Podcast Movement avec Stéphane Berthomet</title>
-                <description>Directement de Denver, j&#39;ai rejoint Stéphane Bert…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:248510865/sounds.rss</description>
+                <title>En passant par l&#39;Europe de l&#39;est</title>
+                <description>En passant par l&#39;Europe de l&#39;est
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14497.xml</description>
                 
                 
-                <link>https://soundcloud.com/moncarnet/bonus-en-direct-du-podcast-movement-avec-stephane-berthomet</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1601200122-moncarnet-bonus-en-direct-du-podcast-movement-avec-stephane-berthomet.mp3"/>
-                <guid>https://soundcloud.com/moncarnet/bonus-en-direct-du-podcast-movement-avec-stephane-berthomet</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/allegretto/en-passant-par-l-europe-de-l-est-1499667</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c0e6c845-d1bd-440c-a4fb-28192698e19d/14497-28.08.2023-ITEMA_23468687-2023M26220S0240-21.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/allegretto/en-passant-par-l-europe-de-l-est-1499667</guid>
                 
             </item>
         </channel>
