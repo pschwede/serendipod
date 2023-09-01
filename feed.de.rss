@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 31 Aug 2023 04:20:42 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 01 Sep 2023 04:20:27 +0200</lastBuildDate>
             <item>
-                <title>Mit dem Lehrer und Buchautor Bob Blume</title>
-                <description>Kurz vor Schulanfang blicken wir mit dem Lehrer und Buchautor Bob Blume in SR 3 &#34;Aus dem Leben&#34; darauf, was sich in unseren Schulen  ändern muss. Als &#34;Der Netzlehrer&#34; nimmt Blume regelmäßig in den  sozialen Medien unser Bildungssystem unter die Lupe.
-Feed: https://sr-mediathek.de/pcast/feeds/SR3_ADL_P/feed.xml</description>
+                <title>Folge 91 - Ahsoka: Kapitel 03 Review</title>
+                <description>Vielleicht die beste Ahsoka Folge bisher? Schwere…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:185116755/sounds.rss</description>
                 
                 
-                <link>https://storage01.sr.de/podcast/SR3_ADL_P/SR3_ADL_P_31954_20230829_172337.MP3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://storage01.sr.de/podcast/SR3_ADL_P/SR3_ADL_P_31954_20230829_172337.MP3"/>
-                <guid>https://storage01.sr.de/podcast/SR3_ADL_P/SR3_ADL_P_31954_20230829_172337.MP3</guid>
+                <link>https://soundcloud.com/antennealderaan/folge-91-ahsoka-kapitel-03-review</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1604647074-antennealderaan-folge-91-ahsoka-kapitel-03-review.mp3"/>
+                <guid>https://soundcloud.com/antennealderaan/folge-91-ahsoka-kapitel-03-review</guid>
                 
             </item><item>
-                <title>75 - Vorgeplänkel TS</title>
-                <description>Weil Manu, bürgerlicher Name Manolo da Silva Jr., kurzfristig die private Boeing zum Riad International Airport erwischen musste, nehmen Patrick und Felix in trauter Zweisamkeit eine neue Folge auf und rekapitulieren bei einer kühlen Açai Schorle den ersten Spieltag der Bundesliga...
-Feed: https://vorgeplaenkel-fussball-stammtisch-podcast.podigee.io/feed/mp3</description>
+                <title>Mein Urlaub </title>
+                <description>In dieser Folge erzähle ich euch etwas von meinem Urlaub.
+
+Feed: https://anchor.fm/s/3679f2e4/podcast/rss</description>
                 
                 
-                <link>https://vorgeplaenkel-fussball-stammtisch-podcast.podigee.io/77-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1198051-m-3451750a3199217edc1fea774577678a.mp3?source=feed"/>
-                <guid>https://vorgeplaenkel-fussball-stammtisch-podcast.podigee.io/77-new-episode</guid>
+                <link>https://podcasters.spotify.com/pod/show/ghuang/episodes/Mein-Urlaub-e28ibum</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/3679f2e4/podcast/play/75099542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2023-7-26%2F344544492-44100-1-336f10a57bb91.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/ghuang/episodes/Mein-Urlaub-e28ibum</guid>
                 
             </item>
         </channel>
