@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 01 Sep 2023 04:20:48 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 02 Sep 2023 04:19:52 +0200</lastBuildDate>
             <item>
-                <title>TO SCOTLAND AGAIN WITH LOVE</title>
-                <description>&lt;p&gt;Ned spends 36 hours in Scotland.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Unlock your AG1 offer here!&lt;/p&gt;&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/62ce78e40964ca00129fbf3a</description>
+                <title>Podcast Episode #172 - The Chernobyl Family</title>
+                <description>
+    	In our new podcast episode we are very happy to welcome the Chernobyl Family consisting of Alex from Ukraine and Michaela from Slovakia. They explore and study the phenomenon of Chernobyl since 2009 as on-site researchers and they are retro computing enthusiasts as well. Enjoy!
+The interview starts at minute 15:55
+    
+Feed: https://feeds.feedburner.com/sceneworldpodcast</description>
                 
                 
-                <link>https://shows.acast.com/never-strays-far/episodes/to-scotland-again-with-love</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/62ce78e40964ca00129fbf3a/e/64d8f8020fa6eb001117654a/media.mp3"/>
-                <guid>https://shows.acast.com/never-strays-far/episodes/to-scotland-again-with-love</guid>
+                <link>https://sceneworld.org/blog/2023/08/31/podcast-episode-172-the-chernobyl-family/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.sceneworld.org/assets/downloads/podcast/scene_world_podcast_episode172_august_2023.mp3"/>
+                <guid>https://sceneworld.org/blog/2023/08/31/podcast-episode-172-the-chernobyl-family/</guid>
                 
             </item><item>
-                <title>Steven Seagal: Worse Than A Stroke</title>
-                <description>&amp;nbsp; &amp;nbsp; &amp;nbsp;This week we close the month with a four pack of Steve Seagal in the 21st Century.&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;When ICE arrest a pair of OTMs (Other Than Mexican) who are affiliated with both AQAP AND Daesh (which would never happen) blows open a conspiracy of the (long defunct) Sonora Cartel smuggling in terrorists. A collaboration for reasons that aren&#39;t made very clear. The federal government has only one man to turn to, former DEA/CIA/FBI/USASF asset John Harmon...
-Feed: https://feeds.feedburner.com/RaidersOfThePodcast</description>
+                <title>The saga continues</title>
+                <description>The saga continues
+Feed: https://feeds.feedburner.com/cisnfn/chrisandjack</description>
                 
                 
-                <link>https://raidersofthepodcast.blogspot.com/2023/08/steven-seagal-worse-than-stroke.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/steven-seagal-worse-than-a-stroke/Steven%20Seagal%20Worse%20Than%20a%20Stroke.mp3"/>
-                <guid>https://raidersofthepodcast.blogspot.com/2023/08/steven-seagal-worse-than-stroke.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/chtbl.com/track/745E89/traffic.megaphone.fm/CORU3102692324.mp3?updated=1693581570"/>
+                <guid></guid>
                 
             </item>
         </channel>

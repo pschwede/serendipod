@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 01 Sep 2023 04:20:35 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 02 Sep 2023 04:19:36 +0200</lastBuildDate>
             <item>
-                <title> Tranquilas </title>
-                <description> De nuevo una sesión diferenciada en tres partes que pueden poner a prueba tus predilecciones sonoras. Como casi siempre nos gusta ir de menos a mas y comenzar por el bloque mas tranquilo.La primera la planteamos en clave hispano-popera sobre una base intimista. Todas las canciones están interpretadas en español.En la segunda más colorida y festiva damos cabida a variados estilos. Así comenzamos con un instrumental de lo mas positivo y divertido interpretado por Duo Stiehler/Lucaciu...
-Feed: http://cloud.gladyspalmera.net/api/sets/16/rss</description>
+                <title>Hora América en Radio 5 - &#39;Silencio&#39;, de Clyo Mendoza - 31/08/23</title>
+                <description>&#39;Silencio&#39;, de Clyo Mendoza
+Feed: http://api.rtve.es/api/programas/37571/audios.rss</description>
                 
                 
-                <link>http://gladyspalmera.com/tranquilas</link>
-                <enclosure type="audio/mpeg" length="1" url="http://s3-eu-west-1.amazonaws.com/rgp.gladyscloud/podcasts/RED+536+DIFERENTES+TRANQUILIDADES_e268f34cc3b7c4f8cc8dc8861adcfbe9.mp3"/>
-                <guid>http://gladyspalmera.com/tranquilas</guid>
+                <link>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-radio-5-silencio-clyo-mendoza/6959413/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SHORAAM/mp3/5/1/1693473986615.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-radio-5-silencio-clyo-mendoza/6959413/</guid>
                 
             </item><item>
-                <title>S01 E39 - Los titulares de prensa con carga emocional negativa crecen hasta un 150% en 20 años</title>
-                <description>&lt;p&gt;S01 E39 - Según un estudio que analizó 23 millones de titulares de noticias en Estados Unidos entre 2000 y 2019, se encontró que los titulares se volvieron más negativos con el tiempo. Los medios conservadores mostraron más negatividad que los liberales, con un aumento en los titulares que expresaban ira, miedo, disgusto y tristeza, y una disminución en los titulares neutrales...
-Feed: https://podcast.imasdeweb.com/@Datofilos/feed.xml</description>
+                <title>A golpe de bit - IA generativa: ¿hacia dónde vamos? - 01/09/23</title>
+                <description>IA generativa: ¿hacia dónde vamos?
+Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
                 
                 
-                <link>https://podcast.imasdeweb.com/@Datofilos/episodes/s01-e39-los-titulares-de-prensa-con-carga-emocional-negativa-crecen-hasta-un-150-en-20-anos</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.imasdeweb.com/audio/AQAAAE0AAAB.1g0AXdwxANgAAADHSKxk/Datofilos/s01-e39-los-titulares-de-prensa-con-carga-emocional-negativa-crecen-hasta-un-150-en-20-anos.mp3?_from=fyyd.de"/>
-                <guid>https://podcast.imasdeweb.com/@Datofilos/episodes/s01-e39-los-titulares-de-prensa-con-carga-emocional-negativa-crecen-hasta-un-150-en-20-anos</guid>
+                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/ia-generativa-hacia-donde-vamos/6960119/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_R18BITG/mp3/0/1/1693563498810.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/ia-generativa-hacia-donde-vamos/6960119/</guid>
                 
             </item>
         </channel>
