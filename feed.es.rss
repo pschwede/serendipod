@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 02 Sep 2023 04:19:36 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 03 Sep 2023 04:19:49 +0200</lastBuildDate>
             <item>
-                <title>Hora América en Radio 5 - &#39;Silencio&#39;, de Clyo Mendoza - 31/08/23</title>
-                <description>&#39;Silencio&#39;, de Clyo Mendoza
-Feed: http://api.rtve.es/api/programas/37571/audios.rss</description>
+                <title>2023-09-02 Flafri</title>
+                <description>
+Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-radio-5-silencio-clyo-mendoza/6959413/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SHORAAM/mp3/5/1/1693473986615.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-radio-5-silencio-clyo-mendoza/6959413/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-09-02Flafri.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>A golpe de bit - IA generativa: ¿hacia dónde vamos? - 01/09/23</title>
-                <description>IA generativa: ¿hacia dónde vamos?
-Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
+                <title>El salto al vaci&amp;#769;o &amp;#128371;&amp;#65039; Enric Ma&amp;#769;s Cerca</title>
+                <description>Para que podamos evolucionar y desarrollarnos en nuestra vida, todos inevitablemente hemos de pasar por una etapa en la que no nos queda otro remedio que confiar y seguir adelante asumiendo el riesgo y la incertidumbre que nos aguarda en el siguente paso, el llamado &#34;&#34;salto al vac&amp;iacute;o&#34;&#34;
+En este podcast, Enric Corbera explica c&amp;oacute;mo desarrollar el estado de conciencia que nos permite gestionar esta etapa tan necesaria para realizar cualquier cambio significativo en nuestra vida.
+Feed: https://www.ivoox.com/enric-corbera-oficial_fg_f1153445_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/ia-generativa-hacia-donde-vamos/6960119/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_R18BITG/mp3/0/1/1693563498810.mp3"/>
-                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/ia-generativa-hacia-donde-vamos/6960119/</guid>
+                <link>http://www.ivoox.com/salto-al-vaci-769-o-128371-65039-enric-ma-769-s-cerca-audios-mp3_rf_111899838_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/salto-al-vaci-769-o-128371-65039-enric-ma-769-s-cerca_mf_111899838_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/salto-al-vaci-769-o-128371-65039-enric-ma-769-s-cerca-audios-mp3_rf_111899838_1.html</guid>
                 
             </item>
         </channel>

@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 02 Sep 2023 04:19:25 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 03 Sep 2023 04:19:41 +0200</lastBuildDate>
             <item>
-                <title>Triodor, der Hase mit den drei Ohren</title>
-                <description>Eine alte Schildkröte erzählt die außerordentliche Geschichte über ein besonderes Wesen und macht klar, dass jedes Leben wertvoll und liebenswert ist. 
-Aus dem wunderbaren Band „Märchenland für alle“, geschrieben von Kriszta Kasza und übersetzt von Timea Tankó || Gelesen von Dustin Peters || Diversität, Akzeptanz, Waldtiere, Feuer, Ehrenbürger || Das exklusiv-gemalte Bild zur Geschichte gibt es auf Instagram im Profil @dustins.maerchen...
-Feed: https://rss.art19.com/dustins-maerchen-podcast</description>
+                <title>EAM 070: Die IAA Mobility</title>
+                <description>Elektromobilität live erleben
+Feed: https://letscast.fm/podcasts/elektroautomobil-der-podcast-zur-elektromobilitaet-9316e863/feed</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/246b86bc-2060-4527-b238-0c2b94d6d15d.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://www.elektroautomobil.com/newsbeitrag/eam-podcast-070/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/D5A58F/https://lcdn.letscast.fm/media/podcast/9316e863/episode/6eccfddf.mp3?t=1692734903"/>
+                <guid>https://www.elektroautomobil.com/newsbeitrag/eam-podcast-070/</guid>
                 
             </item><item>
-                <title>TOMSPRM: Der Preis für seinen Fame</title>
-                <description>Hey Freunde, 
-Der heutige Podcast ist etwas anders als die Episoden, die ihr sonst von mir kennt. Heute war Tom Sprm zu Gast. Tom ist YouTuber und für seine witzigen Straßenumfragen bekannt, in denen er ohne Rücksicht auf Verluste offen auf die Leute zu geht und immer einen guten Spruch auf Lage hat. Als ich Tom letztens auf einem Event gesehen habe, habe ich allerdings gemerkt, dass viel mehr hinter dieser witzigen Fassade steckt. Tom macht momentan keine einfache Zeit durch...
-Feed: https://insidebrains.podigee.io/feed/mp3</description>
+                <title>BEARcast#173: Kaffeekränzchen de Brasil</title>
+                <description>Claudio ist zurück!!
+Feed: https://14hxtzb.podcaster.de/bearcast.rss</description>
                 
                 
-                <link>https://insidebrains.podigee.io/95-tomsprm-der-preis-fur-seinen-fame</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1194033-m-7f2c049db4cf47dc16438152b04ec3c9.mp3?source=feed"/>
-                <guid>https://insidebrains.podigee.io/95-tomsprm-der-preis-fur-seinen-fame</guid>
+                <link>https://14hxtzb.podcaster.de/bearcast/bearcast-173-kaffeekraenzchen-mission-brasilien/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://deliver.audiotakes.net/d/14hxtzb.podcaster.de/p/bearcast/m/BC173.mp3?awCollectionId=at-fw0un&amp;awEpisodeId=at-fw0un-86cf6899876490142a4c15e1d6dec6aae332f547&amp;origin=feed&amp;v=1693348204"/>
+                <guid>https://14hxtzb.podcaster.de/bearcast/bearcast-173-kaffeekraenzchen-mission-brasilien/</guid>
                 
             </item>
         </channel>

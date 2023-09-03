@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 02 Sep 2023 04:19:30 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 03 Sep 2023 04:19:45 +0200</lastBuildDate>
             <item>
                 <title>Paul Charpentier -  Jour de la vesse-de-loup</title>
                 <description>
@@ -26,16 +26,14 @@ Feed: https://www.choq.ca/emissions/mutations/rss</description>
                 <guid>https://www.choq.ca/balados/mutations/emission-du-20-aout-2023</guid>
                 
             </item><item>
-                <title>#105 - Quels sont les impacts du changement climatique sur l&#39;agriculture ?</title>
-                <description>Pourra-t-on encore manger en 2050 ? Pour en discuter, j&#39;ai échangé avec Serge Zaka, agroclimatologue.
-Le changement climatique a de nombreux impacts sur notre planète. Elle a donc un impact sur notre agriculture.
-Pourquoi le changement climatique imp...
-Feed: https://feed.ausha.co/oR7APIOmX35x</description>
+                <title>Saint Augustin / Ouïghours / Ringlet</title>
+                <description>Il a défendu en Algérie lʹEglise et la foi telle quʹil la comprenait, entre 353 et 430 après Jésus-Christ. Saint Augustin a ainsi soutenu les ...
+Feed: https://www.rts.ch/la-1ere/programmes/hautes-frequences/podcast/?flux=rss</description>
                 
                 
-                <link>https://podcast.ausha.co/demain-et-durable-l-ecologie/podcast-quels-sont-les-impacts-du-changement-climatique-sur-l-agriculture</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/oavknSxZYneq.mp3?t=1693234054"/>
-                <guid>https://podcast.ausha.co/demain-et-durable-l-ecologie/podcast-quels-sont-les-impacts-du-changement-climatique-sur-l-agriculture</guid>
+                <link>https://www.rts.ch/la-1ere/programmes/hautes-frequences/14235933-saint-augustin-ouighours-ringlet-27-08-2023.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/14235933/c6581f0b-14f2-347b-abef-7173ae5929c7.mp3"/>
+                <guid>https://www.rts.ch/la-1ere/programmes/hautes-frequences/14235933-saint-augustin-ouighours-ringlet-27-08-2023.html</guid>
                 
             </item>
         </channel>
