@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 03 Sep 2023 04:19:45 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 04 Sep 2023 04:20:50 +0200</lastBuildDate>
             <item>
-                <title>Paul Charpentier -  Jour de la vesse-de-loup</title>
-                <description>
-                        Kieran Hebden &amp; William Tyler - No Services - Psychic Hotline
-Sun Ra - There Are Other Worlds (They Have Not Told You Of)- Strut/Art Yard
-Lorena Álvarez &amp; Alejandro Palacios - Paisajes Para Torcer al Reloj - Not Not Fun
-Karma - High Priestess - Groove Att
-                    
-Feed: https://www.choq.ca/emissions/mutations/rss</description>
+                <title>A Paray le Monial Jésus offre son coeur 1/5 Marguerite Marie</title>
+                <description>&lt;p&gt;Au 17e siècle à Paray le Monial sœur Marguerite Marie fait l’expérience d’une intimité avec le cœur de Jésus, un cœur blessé qui souffre de ne pas être aimé. Une spiritualité est née.&lt;/p&gt;
+Feed: https://www.rcf.fr/feed/podcast/5762</description>
                 
                 
-                <link>https://www.choq.ca/balados/mutations/emission-du-20-aout-2023</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mp3.choq.ca/mp3/episode/51594/Mutations-20-aout-2023.mp3"/>
-                <guid>https://www.choq.ca/balados/mutations/emission-du-20-aout-2023</guid>
+                <link>https://www.rcf.fr/vie-spirituelle/halte-spirituelle?episode=396696</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rcf.proxycast.org/3100834032636669952/podcast.mp3"/>
+                <guid>https://www.rcf.fr/vie-spirituelle/halte-spirituelle?episode=396696</guid>
                 
             </item><item>
-                <title>Saint Augustin / Ouïghours / Ringlet</title>
-                <description>Il a défendu en Algérie lʹEglise et la foi telle quʹil la comprenait, entre 353 et 430 après Jésus-Christ. Saint Augustin a ainsi soutenu les ...
-Feed: https://www.rts.ch/la-1ere/programmes/hautes-frequences/podcast/?flux=rss</description>
+                <title>Schizophrénie : 09/03/2023 21:00</title>
+                <description>713-295623
+Feed: http://podcast.cism893.ca/radioshows/713/feed_itunes.xml</description>
                 
                 
-                <link>https://www.rts.ch/la-1ere/programmes/hautes-frequences/14235933-saint-augustin-ouighours-ringlet-27-08-2023.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/14235933/c6581f0b-14f2-347b-abef-7173ae5929c7.mp3"/>
-                <guid>https://www.rts.ch/la-1ere/programmes/hautes-frequences/14235933-saint-augustin-ouighours-ringlet-27-08-2023.html</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/295623.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/295623.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/295623.mp3</guid>
                 
             </item>
         </channel>

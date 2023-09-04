@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 03 Sep 2023 04:19:49 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 04 Sep 2023 04:20:55 +0200</lastBuildDate>
             <item>
-                <title>2023-09-02 Flafri</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>Hora América en Radio 5 - &#39;Silencio&#39;, de Clyo Mendoza - 31/08/23</title>
+                <description>&#39;Silencio&#39;, de Clyo Mendoza
+Feed: http://api.rtve.es/api/programas/37571/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-09-02Flafri.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-radio-5-silencio-clyo-mendoza/6959413/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SHORAAM/mp3/5/1/1693473986615.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-radio-5-silencio-clyo-mendoza/6959413/</guid>
                 
             </item><item>
-                <title>El salto al vaci&amp;#769;o &amp;#128371;&amp;#65039; Enric Ma&amp;#769;s Cerca</title>
-                <description>Para que podamos evolucionar y desarrollarnos en nuestra vida, todos inevitablemente hemos de pasar por una etapa en la que no nos queda otro remedio que confiar y seguir adelante asumiendo el riesgo y la incertidumbre que nos aguarda en el siguente paso, el llamado &#34;&#34;salto al vac&amp;iacute;o&#34;&#34;
-En este podcast, Enric Corbera explica c&amp;oacute;mo desarrollar el estado de conciencia que nos permite gestionar esta etapa tan necesaria para realizar cualquier cambio significativo en nuestra vida.
-Feed: https://www.ivoox.com/enric-corbera-oficial_fg_f1153445_filtro_1.xml</description>
+                <title>Islas de Robinson - Montaña encantada - 28/08/23</title>
+                <description>Montaña encantada
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/salto-al-vaci-769-o-128371-65039-enric-ma-769-s-cerca-audios-mp3_rf_111899838_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/salto-al-vaci-769-o-128371-65039-enric-ma-769-s-cerca_mf_111899838_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/salto-al-vaci-769-o-128371-65039-enric-ma-769-s-cerca-audios-mp3_rf_111899838_1.html</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/montana-encantada-28-08-23/6957618/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SISLAS/mp3/8/0/1693203509508.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/montana-encantada-28-08-23/6957618/</guid>
                 
             </item>
         </channel>

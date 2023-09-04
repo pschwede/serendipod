@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 03 Sep 2023 04:19:41 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 04 Sep 2023 04:20:45 +0200</lastBuildDate>
             <item>
-                <title>EAM 070: Die IAA Mobility</title>
-                <description>Elektromobilität live erleben
-Feed: https://letscast.fm/podcasts/elektroautomobil-der-podcast-zur-elektromobilitaet-9316e863/feed</description>
+                <title>Bas Kast</title>
+                <description>Es lief alles recht gut im Leben meines heutigen Gastes. Der 1973 in der Pfalz zur Welt gekommene Bas Kas studierte Psychologie und Biologie, wurde Wissenschaftsjournalist und Bestseller-Autor mit Titeln wie „Die Liebe und wie sich Leidenschaft erklärt“, er kündigte seine Festanstellung und wurde Vater dreier Kinder. Eine männliche Bridget Jones war er lange, mit Schokolade zum Frühstück, aß haufenweise Chips oder Kroketten...
+Feed: https://toast-hawaii.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.elektroautomobil.com/newsbeitrag/eam-podcast-070/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/D5A58F/https://lcdn.letscast.fm/media/podcast/9316e863/episode/6eccfddf.mp3?t=1692734903"/>
-                <guid>https://www.elektroautomobil.com/newsbeitrag/eam-podcast-070/</guid>
+                <link>https://toast-hawaii.podigee.io/126-bas-kast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1205146-m-022bd6b00aa226987b0ef7f29e072cdf.mp3?source=feed"/>
+                <guid>https://toast-hawaii.podigee.io/126-bas-kast</guid>
                 
             </item><item>
-                <title>BEARcast#173: Kaffeekränzchen de Brasil</title>
-                <description>Claudio ist zurück!!
-Feed: https://14hxtzb.podcaster.de/bearcast.rss</description>
+                <title>&#34;One Piece&#34;, &#34;Who is Erin Carter?&#34;, &#34;Joe Pickett&#34; und &#34;Colin from Accounts&#34;</title>
+                <description>106 Manga-Volumes und 1073 Anime-Folgen gibt es aktuell von &#34;One Piece&#34; (4:53). An Stoff für eine Real-Adaption mangelte es Netflix also beileibe nicht. Doch wie man zuletzt bei &#34;Cowboy Bebop&#34; gesehen hat, ist ein Erfolg dennoch nicht garantiert, denn Anime-Adaptionen müssen das Kunststück schaffen, Fans zufriedenzustellen und gleichzeitig auch völlig Unbeleckte wie Michael und Rüdiger für sich zu gewinnen...
+Feed: https://feeds.blubrry.com/feeds/serienweise.xml</description>
                 
                 
-                <link>https://14hxtzb.podcaster.de/bearcast/bearcast-173-kaffeekraenzchen-mission-brasilien/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://deliver.audiotakes.net/d/14hxtzb.podcaster.de/p/bearcast/m/BC173.mp3?awCollectionId=at-fw0un&amp;awEpisodeId=at-fw0un-86cf6899876490142a4c15e1d6dec6aae332f547&amp;origin=feed&amp;v=1693348204"/>
-                <guid>https://14hxtzb.podcaster.de/bearcast/bearcast-173-kaffeekraenzchen-mission-brasilien/</guid>
+                <link>https://blubrry.com/serienweise/117477639/one-piece-who-is-erin-carter-joe-pickett-und-colin-from-accounts/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/serienweise/content.blubrry.com/serienweise/serienpod-2023-09-01-201.mp3"/>
+                <guid>https://blubrry.com/serienweise/117477639/one-piece-who-is-erin-carter-joe-pickett-und-colin-from-accounts/</guid>
                 
             </item>
         </channel>

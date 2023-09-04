@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 03 Sep 2023 04:19:36 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 04 Sep 2023 04:20:39 +0200</lastBuildDate>
             <item>
-                <title>#199.5 - EU or &#34;Pee-yousa!&#34;</title>
-                <description>EU or Pee-yousa...&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/e1373f50-fcf2-4dac-9651-5de3c97e4679</description>
+                <title>Episode #426 - Four Corners</title>
+                <description>Four Corners is a puzzle hunt in a phone booth. Can you create patterns of matching symbols to meet your goals? Fill a common board with an ever-changing array of tiles - creating opportunities for some and challenges for others.
+Feed: https://www.thespiel.net/feed.xml</description>
                 
                 
-                <link>https://shows.acast.com/weirdtalesandtheunexplainable/episodes/1995-eu-or-peeusa</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/weirdtalesandtheunexplainable/e/64a8188976dc880011019088/media.mp3"/>
-                <guid>https://shows.acast.com/weirdtalesandtheunexplainable/episodes/1995-eu-or-peeusa</guid>
+                <link>https://thespiel.net/node/1340</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/thespiel/thespiel-426.m4a"/>
+                <guid>https://thespiel.net/node/1340</guid>
                 
             </item><item>
-                <title>Global Microbiome Study Gives New View of Shared Health Risks</title>
-                <description>A recent study found that the more time you spend with someone, the more likely you are to share strains of species in your microbiome.
-Feed: https://api.quantamagazine.org/feed/podcast/</description>
+                <title>Mom of 18-month-old hit while running, suffers severe Brain Injury</title>
+                <description>We have the privilege of sitting down with Kristen, who shares her incredible story of overcoming a traumatic brain injury and finding hope amidst adversity. This episode is filled with insights, anecdotes, and lessons that offer a glimpse into the challenges faced and the triumphs achieved in the wake of a life-altering event.
+Feed: https://feeds.simplecast.com/xzziWRwc</description>
                 
                 
-                <link>https://www.quantamagazine.org/global-microbiome-study-gives-new-view-of-shared-health-risks-20230314/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/C9B4G7/d2r55xnwy6nx47.cloudfront.net/uploads/2023/03/Quanta-222_v1.mp3"/>
-                <guid>https://www.quantamagazine.org/global-microbiome-study-gives-new-view-of-shared-health-risks-20230314/</guid>
+                <link>https://www.betweenthebeforeandafter.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/9d63700f-a7e0-496b-996e-a86fc8ddcb01/episodes/5cf557e3-623d-470f-8cc6-8f9f817096a2/audio/bf5c0599-768e-473f-aeea-05d7c2063d7d/default_tc.mp3?aid=rss_feed&amp;feed=xzziWRwc"/>
+                <guid>https://www.betweenthebeforeandafter.com</guid>
                 
             </item>
         </channel>
