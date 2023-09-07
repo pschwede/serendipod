@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 04 Sep 2023 04:21:11 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 07 Sep 2023 04:20:52 +0200</lastBuildDate>
             <item>
-                <title>04/09/2023 03:01 GMT</title>
-                <description>The latest five minute news bulletin from BBC World Service.
-Feed: https://podcast.voice.api.bbci.co.uk/rss/audio/p002vsmz?api_key=Wbek5zSqxz0Hk1blo5IBqbd9SCWIfNbT</description>
+                <title>#202- “The Flying Yogi” Jim Mallinson</title>
+                <description>Jim Mallinson has a lot of titles. Baronet, Sir, Professor, Doctor, Mahant, and of course Pilot. Jim is the world&#39;s leading expert on Hatha yoga and Sanskrit. He has translated texts that go back thousands of years.
+Feed: https://feeds.podcastmirror.com/cloudbase-mayhem-podcast</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/w172z2qzzjmdr4d</link>
-                <enclosure type="audio/mpeg" length="1" url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/w1mskdl50x50dz9.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w172z2qzzjmdr4d</guid>
+                <link>https://www.cloudbasemayhem.com/202-the-flying-yogi-jim-mallinson/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/cloudbase_mayhem_podcast/content.blubrry.com/cloudbase_mayhem_podcast/Malinson_FINAL_001.mp3"/>
+                <guid>https://www.cloudbasemayhem.com/202-the-flying-yogi-jim-mallinson/</guid>
                 
             </item><item>
-                <title>Episode #426 - Four Corners</title>
-                <description>Four Corners is a puzzle hunt in a phone booth. Can you create patterns of matching symbols to meet your goals? Fill a common board with an ever-changing array of tiles - creating opportunities for some and challenges for others.
-Feed: https://www.thespiel.net/feed.xml</description>
+                <title>The BrewVerie Report #17</title>
+                <description>Mike of Brew Crime and I are here with your “daily” BrewVerie Report for this month! We bring you news from all around the world. JT is out on assignment this time but he will be back for the next news report!
+This episode includes the tragic death...
+Feed: https://www.spreaker.com/show/4442888/episodes/feed</description>
                 
                 
-                <link>https://thespiel.net/node/1340</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/thespiel/thespiel-426.m4a"/>
-                <guid>https://thespiel.net/node/1340</guid>
+                <link>https://www.spreaker.com/user/reverietruecrime/brewverie-report-20</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/56693168/brewverie_report_20.mp3"/>
+                <guid>https://www.spreaker.com/user/reverietruecrime/brewverie-report-20</guid>
                 
             </item>
         </channel>
