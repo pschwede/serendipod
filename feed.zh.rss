@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 08 Sep 2023 04:21:21 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 09 Sep 2023 04:20:19 +0200</lastBuildDate>
             <item>
-                <title>Seashells and Sand Dollars Sleep Meditation (Nikki&#39;s Voice)</title>
-                <description>Walk along a beautiful beach in your imagination finding seashells and sand dollars as you relax and fall asleep.
-Feed: https://feeds.acast.com/public/shows/60f9c4eb7dd5480012f98d21</description>
+                <title>An Interview with Sherri Chung</title>
+                <description>
+Even though Season 3 is over and Season 4 has yet to begin, The Film Scorer podcast returns with a new interview. This time, I&#39;m joined by composer Sherri Chung! Sherri (Riverdale, Kung Fu) and I intended to chat about her three latest projects, Gre...
+Feed: https://feed.podbean.com/thefilmscorer/feed.xml</description>
                 
                 
-                <link>https://www.trackstorelax.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/60f9c4eb7dd5480012f98d21/e/64f88f6957557000119ef48f/media.mp3"/>
-                <guid>https://www.trackstorelax.com</guid>
+                <link>https://thefilmscorer.podbean.com/e/an-interview-with-sherri-chung/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/z4mjwh/Sherri_Chung_FINAL.mp3"/>
+                <guid>https://thefilmscorer.podbean.com/e/an-interview-with-sherri-chung/</guid>
                 
             </item><item>
-                <title>Cyberpunk Red - Choom! Session 7</title>
-                <description>Welcome back to another episode of CHOOM! A Cyberpunk RED mashup with a sitcom attitude. In this episode: Richard is playing Lazlo, Jamas is playing Aleina, Kelly is playing Marius, Stephen is playing Pinball, and Michael is playing 40.
-Feed: https://feeds.simplecast.com/t6YJjNWI</description>
+                <title>Episode 106 - Legacy Of Monsters News + Godzilla Power Hour</title>
+                <description>KES and Slick celebrate 4 years of The Podcast From Odo Island by playing a drinking game/power hour to the Godzilla Power Hour aka The Hanna Barbera cartoon.  We laughed, we cried, we defended Godzuki from his abusive captures, and we made fun of ch...
+Feed: https://feed.podbean.com/podcastfromodoisland/feed.xml</description>
                 
                 
-                <link>https://blumagik.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/feae7a2a-e7f4-4c30-9255-8fe0ef02dcc1/episodes/b62f4067-6801-44ca-b6cd-d8d590709bd3/audio/baccb4ba-0baa-4a3a-8e40-b8d4507a1f22/default_tc.mp3?aid=rss_feed&amp;feed=t6YJjNWI"/>
-                <guid>https://blumagik.com</guid>
+                <link>https://podcastfromodoisland.podbean.com/e/episode-106-legacy-of-monsters-news-godzilla-power-hour/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/jpatk5/Episode_106_-_Apple_TV_News_Godzilla_Power_Hour8rfzv.mp3"/>
+                <guid>https://podcastfromodoisland.podbean.com/e/episode-106-legacy-of-monsters-news-godzilla-power-hour/</guid>
                 
             </item>
         </channel>
