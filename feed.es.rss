@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 09 Sep 2023 04:20:09 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 11 Sep 2023 04:20:50 +0200</lastBuildDate>
             <item>
-                <title>SDU576 SUPERASIS Presents SONIDOS DEL UNIVERSO RADIOSHOW NEW YORK UNIKA.FM 05.09.23</title>
-                <description>PODCAST SDU576- UNIKA.FM MADRID PRESENTA SONIDOS DEL UNIVERSO RADIOSHOW -TECHNO &amp;amp; RAVE- DESDE NUEVA YORK CON SUPERASIS INDAHOUSE.
-Desde RADIO NEW YORK CLUB- SUPERASIS INDAHOUSE Presents &#34;SONIDOS DEL UNIVERSO RADIOSHOW&#34; - ESCENA TECHNO &amp;amp; RAVE INTERNACIONAL- SDU576 - RADIO NEW YORK CLUB desde el Centro de Manhattan, Nueva York / Broadcast 05.09.23 Empire State Building Studios- LIVESTREAMING - EDICION EN ESPA&amp;Ntilde;OL para Unika...
-Feed: https://www.ivoox.com/podcast-podcast-sonidos-del-universo_fg_f133305_filtro_1.xml</description>
+                <title>Rincón Sportinguista 522 #PodcastSportinguista</title>
+                <description>Programa con @JaviMelero77 @TinvsPilvs y Mon donde analizamos la victoria del Sporting por 2-1 contra el Burgos en El Molin&amp;oacute;n.
+Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
                 
                 
-                <link>https://www.ivoox.com/sdu576-superasis-presents-sonidos-del-universo-radioshow-new-audios-mp3_rf_115594734_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sdu576-superasis-presents-sonidos-del-universo-radioshow-new_mh_115594734_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/sdu576-superasis-presents-sonidos-del-universo-radioshow-new-audios-mp3_rf_115594734_1.html</guid>
+                <link>https://www.ivoox.com/rincon-sportinguista-522-podcastsportinguista-audios-mp3_rf_115425474_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-522-podcastsportinguista_mf_115425474_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/rincon-sportinguista-522-podcastsportinguista-audios-mp3_rf_115425474_1.html</guid>
                 
             </item><item>
-                <title>Noosfera 171. Materiales complejos... muy complejos | Andrea Peralta</title>
-                <description>Estamos acostumbrados a materiales de los de toda la vida, y están muy bien, pero si queremos fantasía, la física nos proporciona todo un reino de ella: el de la nanociencia. Allí encontraremos materiales extraños y, para entenderlos, tenemos que...
-Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
+                <title>FSE: empecemos desde el principio</title>
+                <description>El equipo de Test ha lanzado una serie de pruebas para validar el uso completo del Full Site Editing en WordPress 6.3.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>https://www.spreaker.com/user/12512368/noosfera-171</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/56726211/noosfera_171.mp3"/>
-                <guid>https://www.spreaker.com/user/12512368/noosfera-171</guid>
+                <link>https://www.wppodcast.es/podcast/cientosesentaynueve/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/213/s/feed/c/podcast/wordpress-podcast-e169.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/cientosesentaynueve/</guid>
                 
             </item>
         </channel>

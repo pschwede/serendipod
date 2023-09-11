@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 09 Sep 2023 04:19:57 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 11 Sep 2023 04:20:42 +0200</lastBuildDate>
             <item>
-                <title>FOD 125 – Einer der glücklichsten Moerder der Welt</title>
-                <description>&lt;p&gt;Der Beitrag FOD 125 &amp;#8211; Einer der glücklichsten Moerder der Welt erschien zuerst auf ISN Radio.&lt;/p&gt;
-
-Feed: https://feeds.feedburner.com/faceofdeath</description>
+                <title>#165 Digital Detox - So klappt es mit dem Offline-Leben</title>
+                <description>Tipps und Tricks, wie man weniger oft online ist
+Feed: https://utopia.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://isn.fm/2023/08/26/fod-125-einer-der-gluecklichsten-moerder-der-welt/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.isn.fm/faceofdeath/fod125.mp3"/>
-                <guid>https://isn.fm/2023/08/26/fod-125-einer-der-gluecklichsten-moerder-der-welt/</guid>
+                <link>https://utopia.podigee.io/167-digital-detox</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1147340-m-bcd723a6fa76846f89612e6a6aa8abc6.mp3?source=feed"/>
+                <guid>https://utopia.podigee.io/167-digital-detox</guid>
                 
             </item><item>
-                <title>Die übernatürliche Kraft des Fastens!</title>
-                <description>&lt;p&gt;Diese Folge ist Teil der Reihe: Bergpredigt - ein festes Fundament!&lt;br/&gt;&lt;br/&gt;Ein fester Bestandteil eines lebendigen Glaubenslebens mit Jesus ist neben dem Gebet und den guten Taten, die wir durch die Kraft des Heiligen Geistes tun dürfen, das Fasten.&lt;br/&gt;&lt;br/&gt;Dieses Thema ist äußerst unbeliebt, da wir ungern auf Essen oder bestimmte Dinge verzichten...
-Feed: https://feeds.buzzsprout.com/1142369.rss</description>
+                <title>Warum scheitern fast alle Zahnarztpraxen im Online Marketing (Real Talk) - #140</title>
+                <description>100%iges Vertrauen ist auf dem Zahnarztstuhl ein Muss, damit ein optimales Ergebnis zustande kommt. Vertraust Du aber auch Deinem Online Marketer blind, wenn er Deine Online-Sichtbarkeit erhöhen möchte? Warum das passende Mindset dafür entscheidend ist, erkläre ich Dir in dieser Folge.
+Feed: https://praxismarketing-digital.podigee.io/feed/mp3</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1142369/13519157-die-ubernaturliche-kraft-des-fastens.mp3"/>
-                <guid></guid>
+                <link>https://praxismarketing.digital/podcast/140</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1200344-m-88c257ea7959fdce6e57a6550c14354d.mp3?source=feed"/>
+                <guid>https://praxismarketing.digital/podcast/140</guid>
                 
             </item>
         </channel>
