@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 11 Sep 2023 04:20:50 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Sep 2023 04:20:16 +0200</lastBuildDate>
             <item>
-                <title>Rincón Sportinguista 522 #PodcastSportinguista</title>
-                <description>Programa con @JaviMelero77 @TinvsPilvs y Mon donde analizamos la victoria del Sporting por 2-1 contra el Burgos en El Molin&amp;oacute;n.
-Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
+                <title>Entre probetas - Nuestra patata conocida como corazón - 05/09/23</title>
+                <description>Nuestra patata conocida como corazón
+Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/rincon-sportinguista-522-podcastsportinguista-audios-mp3_rf_115425474_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-522-podcastsportinguista_mf_115425474_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/rincon-sportinguista-522-podcastsportinguista-audios-mp3_rf_115425474_1.html</guid>
+                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-nuestra-patata-conocida-como-corazon/6961920/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SENTREP/mp3/8/8/1693905647488.mp3"/>
+                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-nuestra-patata-conocida-como-corazon/6961920/</guid>
                 
             </item><item>
-                <title>FSE: empecemos desde el principio</title>
-                <description>El equipo de Test ha lanzado una serie de pruebas para validar el uso completo del Full Site Editing en WordPress 6.3.
-Feed: https://www.wppodcast.es/feed/podcast/</description>
+                <title>PRIMER PLANO con SOFÍA ELLAR</title>
+                <description>Es un gustazo conversar con esta chica que naci&amp;oacute; en Londres pero que se siente absolutamente ciudadana del mundo. Hace nada ha estado en Colombia, se ha tra&amp;iacute;do canci&amp;oacute;n nueva y nos cuenta un poquito de toda la intrahistoria que tiene un temazo que, estamos seguros, va a marcar un antes y un despu&amp;eacute;s en su carrera.
+Feed: https://www.ivoox.com/primer-plano_fg_f1237454_filtro_1.xml</description>
                 
                 
-                <link>https://www.wppodcast.es/podcast/cientosesentaynueve/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/213/s/feed/c/podcast/wordpress-podcast-e169.mp3"/>
-                <guid>https://www.wppodcast.es/podcast/cientosesentaynueve/</guid>
+                <link>https://www.ivoox.com/primer-plano-sofia-ellar-audios-mp3_rf_115729296_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-sofia-ellar_mf_115729296_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/primer-plano-sofia-ellar-audios-mp3_rf_115729296_1.html</guid>
                 
             </item>
         </channel>

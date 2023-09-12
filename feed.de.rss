@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 11 Sep 2023 04:20:42 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Sep 2023 04:20:07 +0200</lastBuildDate>
             <item>
                 <title>#165 Digital Detox - So klappt es mit dem Offline-Leben</title>
                 <description>Tipps und Tricks, wie man weniger oft online ist
@@ -21,14 +21,14 @@ Feed: https://utopia.podigee.io/feed/mp3</description>
                 <guid>https://utopia.podigee.io/167-digital-detox</guid>
                 
             </item><item>
-                <title>Warum scheitern fast alle Zahnarztpraxen im Online Marketing (Real Talk) - #140</title>
-                <description>100%iges Vertrauen ist auf dem Zahnarztstuhl ein Muss, damit ein optimales Ergebnis zustande kommt. Vertraust Du aber auch Deinem Online Marketer blind, wenn er Deine Online-Sichtbarkeit erhöhen möchte? Warum das passende Mindset dafür entscheidend ist, erkläre ich Dir in dieser Folge.
-Feed: https://praxismarketing-digital.podigee.io/feed/mp3</description>
+                <title>Tierarztsprechstunde: Wie trauern Haustiere?</title>
+                <description>Wie äußert sich Trauer bei Katzen? Wie kann man ihr darüber hinweghelfen? Was, wenn die Hündin das Katzenfutter lieber mag als ihr eigenes Futter? Tierärztin Xandra Brauer hat Ihre Fragen beantwortet.
+Feed: http://www.mdr.de/sachsenradio/podcast/tierarzt/audiogalerie-tierarzt100-podcast.xml</description>
                 
                 
-                <link>https://praxismarketing.digital/podcast/140</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1200344-m-88c257ea7959fdce6e57a6550c14354d.mp3?source=feed"/>
-                <guid>https://praxismarketing.digital/podcast/140</guid>
+                <link>https://www.mdr.de/sachsenradio/podcast/tierarzt/audio-2423916.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/f/digas-f9216d82-5c3c-489c-860d-b0282b29d6be-0a15de5e5053_f9.mp3"/>
+                <guid>https://www.mdr.de/sachsenradio/podcast/tierarzt/audio-2423916.html</guid>
                 
             </item>
         </channel>
