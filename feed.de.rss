@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 12 Sep 2023 04:20:07 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 13 Sep 2023 04:20:53 +0200</lastBuildDate>
             <item>
                 <title>#165 Digital Detox - So klappt es mit dem Offline-Leben</title>
                 <description>Tipps und Tricks, wie man weniger oft online ist
@@ -21,14 +21,15 @@ Feed: https://utopia.podigee.io/feed/mp3</description>
                 <guid>https://utopia.podigee.io/167-digital-detox</guid>
                 
             </item><item>
-                <title>Tierarztsprechstunde: Wie trauern Haustiere?</title>
-                <description>Wie äußert sich Trauer bei Katzen? Wie kann man ihr darüber hinweghelfen? Was, wenn die Hündin das Katzenfutter lieber mag als ihr eigenes Futter? Tierärztin Xandra Brauer hat Ihre Fragen beantwortet.
-Feed: http://www.mdr.de/sachsenradio/podcast/tierarzt/audiogalerie-tierarzt100-podcast.xml</description>
+                <title>Tierkommunikation üben: Kommt bei dir nur Kauderwelsch?</title>
+                <description>??? Am 11.9. beginnt unsere Tierkommunikation 18 Tages-Online-Challenge für 0 EUR: https://seelenfreunde-tierakademie.com/event/tierkommunikation-challenge/ 
+? Sei beim Tierkommunikation Webinar für 0 EUR dabei und erhalte bis 31.8. Rabatt auf die Animal Creation® Ausbildung: https://seelenfreunde-tierakademie...
+Feed: https://1863huo.podcaster.de/seite-an-seite-tier-verstehen.rss</description>
                 
                 
-                <link>https://www.mdr.de/sachsenradio/podcast/tierarzt/audio-2423916.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/f/digas-f9216d82-5c3c-489c-860d-b0282b29d6be-0a15de5e5053_f9.mp3"/>
-                <guid>https://www.mdr.de/sachsenradio/podcast/tierarzt/audio-2423916.html</guid>
+                <link>https://1863huo.podcaster.de/seite-an-seite-tier-verstehen/media/Tierkommunikation_richtig_u--bersetzen.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://1863huo.podcaster.de/seite-an-seite-tier-verstehen/media/Tierkommunikation_richtig_u--bersetzen.mp3"/>
+                <guid>https://1863huo.podcaster.de/seite-an-seite-tier-verstehen/media/Tierkommunikation_richtig_u--bersetzen.mp3</guid>
                 
             </item>
         </channel>
