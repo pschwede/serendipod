@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 13 Sep 2023 04:20:53 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 21 Sep 2023 04:20:54 +0200</lastBuildDate>
             <item>
-                <title>#165 Digital Detox - So klappt es mit dem Offline-Leben</title>
-                <description>Tipps und Tricks, wie man weniger oft online ist
-Feed: https://utopia.podigee.io/feed/mp3</description>
+                <title>Der Campingplatz im Meer</title>
+                <description>Die Natur erinnert uns daran, was Menschlichkeit bedeutet. Erst extreme Hitze, jetzt extrem starker Regen. Der Klimawandel ist da. Leider vereinen sich Menschen nur in solchen Krisensituationen. &#34;Mit Akzent&#34;, eine Kolumne von Todor Ovtcharov. Sendungshinweis: FM4 Homebase, 6.9.2023, 20 Uhr
+Feed: https://podcast.orf.at/podcast/fm4/fm4_mitakzent/fm4_mitakzent.xml</description>
                 
                 
-                <link>https://utopia.podigee.io/167-digital-detox</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1147340-m-bcd723a6fa76846f89612e6a6aa8abc6.mp3?source=feed"/>
-                <guid>https://utopia.podigee.io/167-digital-detox</guid>
+                <link>https://sound.orf.at/podcast/fm4/fm4-mit-akzent/der-campingplatz-im-meer</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/fm4/fm4_mitakzent/items/di_fm4_mitakzent_clk_259f2f5fc3624cb08999fe70a13388c7.mp3?etag=7a257933a75af650661d49bd112b6fce"/>
+                <guid>https://sound.orf.at/podcast/fm4/fm4-mit-akzent/der-campingplatz-im-meer</guid>
                 
             </item><item>
-                <title>Tierkommunikation üben: Kommt bei dir nur Kauderwelsch?</title>
-                <description>??? Am 11.9. beginnt unsere Tierkommunikation 18 Tages-Online-Challenge für 0 EUR: https://seelenfreunde-tierakademie.com/event/tierkommunikation-challenge/ 
-? Sei beim Tierkommunikation Webinar für 0 EUR dabei und erhalte bis 31.8. Rabatt auf die Animal Creation® Ausbildung: https://seelenfreunde-tierakademie...
-Feed: https://1863huo.podcaster.de/seite-an-seite-tier-verstehen.rss</description>
+                <title>“Tele Meloni” - ist Italiens Mediensystem in Gefahr?</title>
+                <description>Die rechte Ministerpräsidentin Giorgia Meloni sorgt dafür, dass bei der Rai ordentlich umgebaut wird. Bei dem öffentlich-rechtlichen Sender musste der Chef gehen. Auch prominente Journalistinnen und Journalisten haben die Rai verlassen - aus politischen Gründen. Von einem &#34;Tele Meloni&#34; ist die Rede...
+Feed: https://feeds.br.de/br24-medien/feed.xml</description>
                 
                 
-                <link>https://1863huo.podcaster.de/seite-an-seite-tier-verstehen/media/Tierkommunikation_richtig_u--bersetzen.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://1863huo.podcaster.de/seite-an-seite-tier-verstehen/media/Tierkommunikation_richtig_u--bersetzen.mp3"/>
-                <guid>https://1863huo.podcaster.de/seite-an-seite-tier-verstehen/media/Tierkommunikation_richtig_u--bersetzen.mp3</guid>
+                <link>https://www.br.de/mediathek/podcast/br24-medien/tele-meloni-ist-italiens-mediensystem-in-gefahr/2047195</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2047195/c/feed/tele-meloni-ist-italiens-mediensystem-in-gefahr.mp3"/>
+                <guid>https://www.br.de/mediathek/podcast/br24-medien/tele-meloni-ist-italiens-mediensystem-in-gefahr/2047195</guid>
                 
             </item>
         </channel>
