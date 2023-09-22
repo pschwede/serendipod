@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 21 Sep 2023 04:20:54 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 22 Sep 2023 04:20:37 +0200</lastBuildDate>
             <item>
-                <title>Der Campingplatz im Meer</title>
-                <description>Die Natur erinnert uns daran, was Menschlichkeit bedeutet. Erst extreme Hitze, jetzt extrem starker Regen. Der Klimawandel ist da. Leider vereinen sich Menschen nur in solchen Krisensituationen. &#34;Mit Akzent&#34;, eine Kolumne von Todor Ovtcharov. Sendungshinweis: FM4 Homebase, 6.9.2023, 20 Uhr
-Feed: https://podcast.orf.at/podcast/fm4/fm4_mitakzent/fm4_mitakzent.xml</description>
+                <title>Folge 190: Der Hüter der bremischen Architekturgeschichte - Georg Skalecki</title>
+                <description>Georg Skalecki ist ein kunstgeschichtlicher Tausendsassa – als Landesdenkmalpfleger kennt er sich nicht nur in Bremen gut aus. Seine Doktorarbeit befasste sich mit einem architektonischen Phänomen zu Zeiten des 30-jährigen Krieges, sein Forschungsprojekt dreht sich um Sakralbauten in der Zeit der Merowinger und Karolinger...
+Feed: https://hintenlinks.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://sound.orf.at/podcast/fm4/fm4-mit-akzent/der-campingplatz-im-meer</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/fm4/fm4_mitakzent/items/di_fm4_mitakzent_clk_259f2f5fc3624cb08999fe70a13388c7.mp3?etag=7a257933a75af650661d49bd112b6fce"/>
-                <guid>https://sound.orf.at/podcast/fm4/fm4-mit-akzent/der-campingplatz-im-meer</guid>
+                <link>https://hintenlinks.podigee.io/190-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1217623-m-98f5c582364e5d751c28080e4794c89c.mp3?source=feed"/>
+                <guid>https://hintenlinks.podigee.io/190-new-episode</guid>
                 
             </item><item>
-                <title>“Tele Meloni” - ist Italiens Mediensystem in Gefahr?</title>
-                <description>Die rechte Ministerpräsidentin Giorgia Meloni sorgt dafür, dass bei der Rai ordentlich umgebaut wird. Bei dem öffentlich-rechtlichen Sender musste der Chef gehen. Auch prominente Journalistinnen und Journalisten haben die Rai verlassen - aus politischen Gründen. Von einem &#34;Tele Meloni&#34; ist die Rede...
-Feed: https://feeds.br.de/br24-medien/feed.xml</description>
+                <title>Nachrichten - 2023.09.21 </title>
+                <description>Last updated : 2023.09.21 Aktuelle Meldungen über Politik, Wirtschaft und Gesellschaft Koreas.  
+Feed: http://world.kbs.co.kr/rss/Podcast_News_g.xml</description>
                 
                 
-                <link>https://www.br.de/mediathek/podcast/br24-medien/tele-meloni-ist-italiens-mediensystem-in-gefahr/2047195</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2047195/c/feed/tele-meloni-ist-italiens-mediensystem-in-gefahr.mp3"/>
-                <guid>https://www.br.de/mediathek/podcast/br24-medien/tele-meloni-ist-italiens-mediensystem-in-gefahr/2047195</guid>
+                <link>https://world.kbs.co.kr/german</link>
+                <enclosure type="audio/mpeg" length="1" url="https://worldvod.gscdn.kbs.co.kr/podcast/Podcast/News/g230921.mp3"/>
+                <guid>https://world.kbs.co.kr/german</guid>
                 
             </item>
         </channel>
