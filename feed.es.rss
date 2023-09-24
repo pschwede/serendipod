@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 22 Sep 2023 04:20:47 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 24 Sep 2023 04:19:48 +0200</lastBuildDate>
             <item>
-                <title>Entre probetas - Nuestras vías aéreas - 19/09/23</title>
-                <description>Nuestras vías aéreas
-Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
+                <title>Hora América en Radio 5 - Exposición  &#34;Amazônia&#34; de Sebastião Salgado en Madrid - 21/09/23</title>
+                <description>Exposición  &#34;Amazônia&#34; de Sebastião Salgado en Madrid
+Feed: http://api.rtve.es/api/programas/37571/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-nuestras-vias-aereas/6971265/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SENTREP/mp3/8/9/1695115087198.mp3"/>
-                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-nuestras-vias-aereas/6971265/</guid>
+                <link>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-exposicion-amazonia-sebastio-salgado-madrid/6972962/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SHORAAM/mp3/3/5/1695287946753.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hora-america-en-radio-5/hora-america-exposicion-amazonia-sebastio-salgado-madrid/6972962/</guid>
                 
             </item><item>
-                <title>Nadie Sabe Nada | 11x02 | Samanté: Mi ignorancia saluda a la tuya</title>
-                <description>&lt;p class=&#34;Paragraph SCXW77511664 BCX4&#34; paraid=&#34;1000365068&#34; paraeid=&#34;{770c689a-310d-47c5-a54f-b2c794ffeceb}{216}&#34; style=&#34;margin-bottom: 0px; -webkit-user-select: text; -webkit-user-drag: none; overflow-wrap: break-word; white-space: pre-wrap; vertical-align: baseline; -webkit-nbsp-mode: normal !important;&#34;&gt;En este &#39;Nadie Sabe Nada&#39;, un poco tórrido, Andreu Buenafuente y Berto Romero han cogido el rábano por las hojas y han improvisado con la misma guasa que la primera temporada del Quijote...
-Feed: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml</description>
+                <title>Tarataña - Del &#39;Insólito y singular&#39; al &#39;Graná Folk&#39; - 23/09/23</title>
+                <description>Del &#39;Insólito y singular&#39; al &#39;Graná Folk&#39;
+Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20239/13/1694562326193_66842.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/taratana/del-insolito-singular-grana-folk/6974263/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_STARATA/mp3/0/1/1695406118110.mp3"/>
+                <guid>https://www.rtve.es/play/audios/taratana/del-insolito-singular-grana-folk/6974263/</guid>
                 
             </item>
         </channel>
