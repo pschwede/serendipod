@@ -9,27 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 24 Sep 2023 04:19:56 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 25 Sep 2023 04:21:21 +0200</lastBuildDate>
             <item>
-                <title>Going Linux #445 · Listener Feedback</title>
-                <description>Going Linux #445 · Listener Feedback
-Feed: https://goinglinux.com/mp3podcast.xml</description>
+                <title>The Dragon Slayer</title>
+                <description>A kitchen maid vs. a dragon
+Feed: https://feeds.megaphone.fm/afrotalespodcast</description>
                 
                 
-                <link>https://goinglinux.com/shownotes.html#glp445</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.archive.org/download/glp445/glp445.mp3"/>
-                <guid>https://goinglinux.com/shownotes.html#glp445</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/CDL8378423065.mp3?updated=1694363294"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Backstage fun with ALL the finalists</title>
-                <description>WE HAVE OUR WINNERS - JESS AND SAMMY! 
-Missed out on a front row seat at last night&#39;s Love Island final in Mallorca? We’ve the next best thing (actually it’s better in our opinion) as Sam Thompson and Indiyah Polack are your personal guides to ALL...
-Feed: https://podcast.global.com/show/3542184/episodes/feed</description>
+                <title>Monday 25 September- 8am news</title>
+                <description># Communication Technology ministry urges the public to register their Subscriber Identity Module cards .......
+# Walvis Mayor seeks ammicable solution to town&#39;s municipal challenges....
+# African Housing and Infrastructure Fund CEO says it is crucial for Africa to make progress in innovation for the Sustainable Development Goals ....
+# Uganda says it will mediate between Somalia and breakaway Somaliland...and
+#California sues anti-abortion groups
+Feed: https://iono.fm/rss/chan/6628</description>
                 
                 
-                <link>https://www.spreaker.com/user/11295291/final-copy-for-upload-mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/56330645/final_copy_for_upload_mp3.mp3"/>
-                <guid>https://www.spreaker.com/user/11295291/final-copy-for-upload-mp3</guid>
+                <link>https://iono.fm/e/1363239</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_2476/epi_1363239_medium.m4a?p=rss"/>
+                <guid>https://iono.fm/e/1363239</guid>
                 
             </item>
         </channel>

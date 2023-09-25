@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 24 Sep 2023 04:20:01 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 25 Sep 2023 04:21:26 +0200</lastBuildDate>
             <item>
-                <title>Ootundi 12h00 23 Sept</title>
-                <description>23 Sept
-12h00
-1.Uuministeli womauyelele nomakwatathano gopaungomba otawiindiile oshigwana shi shangitha uukalata wawo wongodhi dhopeke omanga o 31 Dec nuumvo inaaga thika.
-Uuministeli metine tauti uukalata mboka inaawu shangitha okuthika kesiku lya tulwapo otau ka tetwako.
-uuministeli tauti nonando pwa tulwa ethimbo lyokushangitha uukalata,oshigwana otashi ende momwaalu omushona.
-Nuuministeli owati ethimbo lyoku shangitha uukalata itali ka lelepekwa...
-Feed: https://iono.fm/rss/chan/6628</description>
+                <title>All about them world trees</title>
+                <description>Join us this week as we explore the histories of the world trees in WoW, including Teldrassil and Nordrassil. Plus, is Azshara the avatar of the soul of Azeroth?
+Feed: https://lorewatch.libsyn.com/rss</description>
                 
                 
-                <link>https://iono.fm/e/1363115</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_2476/epi_1363115_medium.m4a?p=rss"/>
-                <guid>https://iono.fm/e/1363115</guid>
+                <link>https://lorewatch.libsyn.com/all-about-them-world-trees</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/lorewatch/Lore-Watch-Podccast-297-wow-world-trees.mp3?dest-id=293495"/>
+                <guid>https://lorewatch.libsyn.com/all-about-them-world-trees</guid>
                 
             </item><item>
-                <title>Celebrity Rumors Old &amp; New with Michael Buckley</title>
-                <description>This week we&#39;re joined by Michael Buckley from the What The Buck show to talk all about old and new celebrity rumors. From Harry Styles to Lea Michele we discuss the rumors that have circulated Hollywood these past few years, and discuss which ones we believe and don&#39;t believe
-Feed: https://feeds.simplecast.com/d591w4bu</description>
+                <title>Constance Zimmer Unveils the Secrets of Harlan Coben’s ’Shelter’ on Prime Video</title>
+                <description>During a recent Press Day event interview, Constance Zimmer participated in an engaging and insightful conversation, shedding light on her significant role in the Prime Video series &#34;Shelter.&#34; This series is an adaptation of the celebrated literary w...
+Feed: https://themancavechronicles.podbean.com/feed.xml</description>
                 
                 
-                <link>https://www.fluentlyforward.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mgln.ai/e/1000/pdst.fm/e/cdn.simplecast.com/audio/76f8335f-a47a-40f1-a9e2-bddada376acc/episodes/57873633-b3cd-4581-8339-0c35beaca65f/audio/8442f246-edc8-4370-8763-bca088a11d5b/default_tc.mp3?aid=rss_feed&amp;feed=d591w4bu"/>
-                <guid>https://www.fluentlyforward.com/</guid>
+                <link>https://themancavechronicles.podbean.com/e/constance-zimmer-unveils-the-secrets-of-harlan-coben-s-shelter-on-prime-video/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/52517/mcdn.podbean.com/mf/web/pv2vqi/constance.mp3"/>
+                <guid>https://themancavechronicles.podbean.com/e/constance-zimmer-unveils-the-secrets-of-harlan-coben-s-shelter-on-prime-video/</guid>
                 
             </item>
         </channel>
