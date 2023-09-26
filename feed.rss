@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 25 Sep 2023 04:20:54 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 26 Sep 2023 04:20:39 +0200</lastBuildDate>
             <item>
-                <title>Eind goed al goed?</title>
-                <description>De wielerpodcast van Eurosport
-Feed: https://feeds.acast.com/public/shows/606f58bf5e2cd575e4466c93</description>
+                <title>Episode 147: Like Lavender</title>
+                <description>Episode 147: Like Lavender
+Feed: http://mp3s.nashownotes.com/pc20rss.xml</description>
                 
                 
-                <link>https://shows.acast.com/kop-over-kop/episodes/eind-goed-al-goed</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/606f58bf5e2cd575e4466c93/e/6508a0f52685640011df42d9/media.mp3"/>
-                <guid>https://shows.acast.com/kop-over-kop/episodes/eind-goed-al-goed</guid>
+                <link>http://adam.curry.com/html/PC2014720230922Podca-X2f5GDQ25Rjshg5sWLHNNf6V1F0W3D.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e/mp3s.nashownotes.com/PC20-147-2023-09-22-Final.mp3"/>
+                <guid>http://adam.curry.com/html/PC2014720230922Podca-X2f5GDQ25Rjshg5sWLHNNf6V1F0W3D.html</guid>
                 
             </item><item>
-                <title>All about them world trees</title>
-                <description>Join us this week as we explore the histories of the world trees in WoW, including Teldrassil and Nordrassil. Plus, is Azshara the avatar of the soul of Azeroth?
-Feed: https://lorewatch.libsyn.com/rss</description>
+                <title>Tuesday 26 September- 7am news</title>
+                <description># Oshikoto Regional Governor urges the youth to apply for the Youth for Green Hydrogen Scholarship Programme.......
+# Namibia&#39;s external loans might impact today&#39;s youth...
+# Three people are missing following the weekend’s flooding in the Western Cape
+# Sixteen people freed after kidnapping at Nigerian university...and
+#Biden hails tentative Hollywood writers strike agreement
+Feed: https://iono.fm/rss/chan/6628</description>
                 
                 
-                <link>https://lorewatch.libsyn.com/all-about-them-world-trees</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/lorewatch/Lore-Watch-Podccast-297-wow-world-trees.mp3?dest-id=293495"/>
-                <guid>https://lorewatch.libsyn.com/all-about-them-world-trees</guid>
+                <link>https://iono.fm/e/1363419</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_2476/epi_1363419_medium.m4a?p=rss"/>
+                <guid>https://iono.fm/e/1363419</guid>
                 
             </item>
         </channel>

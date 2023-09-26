@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 25 Sep 2023 04:20:59 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 26 Sep 2023 04:20:45 +0200</lastBuildDate>
             <item>
-                <title>Woher wissen wir, wie die Erde aussieht?</title>
-                <description>Geschichten vom ältesten Globus
-Feed: https://cdn.julephosting.de/podcasts/453-tonspur-wissen/feed.rss</description>
+                <title>#143 Bettpfanne to Go</title>
+                <description>Ich hab Dich trotzdem lieb!
+Feed: https://ichhabdichtrotzdemlieb.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://rp-online.de/podcasts/tonspurwissen/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.julephosting.de/podcasts/453-tonspur-wissen/120425-new-episode.mp3?v=1"/>
-                <guid>https://rp-online.de/podcasts/tonspurwissen/</guid>
+                <link>https://ichhabdichtrotzdemlieb.podigee.io/144-143-bettpfanne-to-go</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1225479-m-f8be806851f0b5d8a72cf123425ce30e.mp3?source=feed"/>
+                <guid>https://ichhabdichtrotzdemlieb.podigee.io/144-143-bettpfanne-to-go</guid>
                 
             </item><item>
-                <title>Zu Gast: Marco Giraldo (TourCert, Geschäftsführer/Gesellschafter)</title>
-                <description>Was ist Nachhaltigkeit? Ist es wirklich verantwortungsvoll, wenn man nicht oder weniger reist? Was machen die „Klimakleber“ richtig oder falsch? Marco Giraldo, Geschäftsführer und Gesellschafter von TourCert ist in Folge 141 von &#34;HIN &amp; WEG: der Reisepodcast mit Sven Meyer und Andy Janz&#34; zu Gast und teilt seine Perspektive auf diese Fragen...
-Feed: https://hinundweg.podigee.io/feed/mp3</description>
+                <title>Nach der Ebbe kommt die Flut</title>
+                <description>Die Browns gewinnen! Für Nick Chubb und gegen die Titan mit einem beeindruckenden 27-3 im heimischen Stadion. Wir sprechen über die bisher beste Leistung von Deshaun Watson als Brownie, merkwürdige Referees,  sowie über die historisch gute Defense!
+
+Feed: https://1blt0mq.podcaster.de/brownsfans.rss</description>
                 
                 
-                <link>https://hinundweg.podigee.io/140-tourcert</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1214316-m-6174b4ba6ecffd3ab8bc913f14164f32.mp3?source=feed"/>
-                <guid>https://hinundweg.podigee.io/140-tourcert</guid>
+                <link>https://1blt0mq.podcaster.de/brownsfans/media/Dawgsound_Folge_163.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://1blt0mq.podcaster.de/brownsfans/media/Dawgsound_Folge_163.mp3"/>
+                <guid>https://1blt0mq.podcaster.de/brownsfans/media/Dawgsound_Folge_163.mp3</guid>
                 
             </item>
         </channel>
