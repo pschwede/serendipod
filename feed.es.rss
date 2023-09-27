@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 26 Sep 2023 04:20:55 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 27 Sep 2023 04:21:01 +0200</lastBuildDate>
             <item>
-                <title>XXV Domingo del Tiempo Ordinario (A)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Mateo 20, 1-16. Gloria a ti, Señor. En aquel tiempo, Jesús dijo a sus discípulos esta parábola: “El Reino de &amp;#8230;
-Feed: http://feed.quechilero.com/PalabraEspirituYVida</description>
+                <title>Islas de Robinson - Micelio Robinsoniano - 25/09/23</title>
+                <description>Micelio Robinsoniano
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>https://diocesisdeescuintla.com/xxv-domingo-del-tiempo-ordinario-a-2023/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/11216/xxv-domingo-del-tiempo-ordinario-a-2023.mp3"/>
-                <guid>https://diocesisdeescuintla.com/xxv-domingo-del-tiempo-ordinario-a-2023/</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/micelio-robinsoniano-25-09-23/6974941/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SISLAS/mp3/7/0/1695597373207.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/micelio-robinsoniano-25-09-23/6974941/</guid>
                 
             </item><item>
-                <title>Hemos creado un monstruo feat. Ibrahim Salem - Capítulo 198</title>
-                <description>Hoy somos cronistas. ¿De dónde salió ese palestino que era intenso con Checho y Paulo? ¿Cuánto le cobró Paulo al árabe la primera vez? ¿Por qué Checho resultó en una izada de bandera? ¿Cómo se pronuncian esos apellidos árabes? Hoy estamos con...
-Feed: https://www.spreaker.com/show/4081707/episodes/feed</description>
+                <title>Oso Polar Radioactivo .</title>
+                <description>Las aventuras del Oso Polar.
+Feed: https://www.spreaker.com/show/4548059/episodes/feed</description>
                 
                 
-                <link>https://www.spreaker.com/user/11591262/los-impopulares-cap-198</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/56888284/los_impopulares_cap_198.mp3"/>
-                <guid>https://www.spreaker.com/user/11591262/los-impopulares-cap-198</guid>
+                <link>https://www.spreaker.com/user/podway/oso-polar-radioactivo-mar-28</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/E29D27/api.spreaker.com/download/episode/56476680/oso_polar_radioactivo_mar_28.mp3"/>
+                <guid>https://www.spreaker.com/user/podway/oso-polar-radioactivo-mar-28</guid>
                 
             </item>
         </channel>

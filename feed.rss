@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 26 Sep 2023 04:20:39 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 27 Sep 2023 04:20:48 +0200</lastBuildDate>
             <item>
-                <title>Episode 147: Like Lavender</title>
-                <description>Episode 147: Like Lavender
-Feed: http://mp3s.nashownotes.com/pc20rss.xml</description>
+                <title>Fossil licking | Cursed painting | Casino attack</title>
+                <description>With Alison Spittle and James Colley
+Feed: https://feeds.acast.com/public/shows/8d72ef0d-c0ba-4e52-a425-c3fcfa9e55fb</description>
                 
                 
-                <link>http://adam.curry.com/html/PC2014720230922Podca-X2f5GDQ25Rjshg5sWLHNNf6V1F0W3D.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e/mp3s.nashownotes.com/PC20-147-2023-09-22-Final.mp3"/>
-                <guid>http://adam.curry.com/html/PC2014720230922Podca-X2f5GDQ25Rjshg5sWLHNNf6V1F0W3D.html</guid>
+                <link>https://www.thebuglepodcast.com/the-gargle</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/the-gargle/e/650c1aa270a4310011cbff0b/media.mp3"/>
+                <guid>https://www.thebuglepodcast.com/the-gargle</guid>
                 
             </item><item>
-                <title>Tuesday 26 September- 7am news</title>
-                <description># Oshikoto Regional Governor urges the youth to apply for the Youth for Green Hydrogen Scholarship Programme.......
-# Namibia&#39;s external loans might impact today&#39;s youth...
-# Three people are missing following the weekend’s flooding in the Western Cape
-# Sixteen people freed after kidnapping at Nigerian university...and
-#Biden hails tentative Hollywood writers strike agreement
-Feed: https://iono.fm/rss/chan/6628</description>
+                <title>Waarom de fusie van Jumbo-Visma en Soudal Quick-Step goed is voor het wielrennen</title>
+                <description>De wielerpodcast van Eurosport
+Feed: https://feeds.acast.com/public/shows/606f58bf5e2cd575e4466c93</description>
                 
                 
-                <link>https://iono.fm/e/1363419</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_2476/epi_1363419_medium.m4a?p=rss"/>
-                <guid>https://iono.fm/e/1363419</guid>
+                <link>https://shows.acast.com/kop-over-kop/episodes/waarom-de-fusie-van-jumbo-visma-en-soudal-quick-step-goed-is</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/606f58bf5e2cd575e4466c93/e/6511e5cb1e565800110e7c5c/media.mp3"/>
+                <guid>https://shows.acast.com/kop-over-kop/episodes/waarom-de-fusie-van-jumbo-visma-en-soudal-quick-step-goed-is</guid>
                 
             </item>
         </channel>
