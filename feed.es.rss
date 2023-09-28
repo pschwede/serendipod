@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 27 Sep 2023 04:21:01 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 28 Sep 2023 04:20:49 +0200</lastBuildDate>
             <item>
-                <title>Islas de Robinson - Micelio Robinsoniano - 25/09/23</title>
-                <description>Micelio Robinsoniano
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>Concierto de Rata Blanca en Costa Rica 2023 - E132T03</title>
+                <description>Hablamos acerca del concierto del S&amp;aacute;bado 23 de Setiembre de 2023 en donde el chivo producciones realizaba su evento debut en conciertos con el evento que tra&amp;iacute;a a la banda de Hard Rock argentina Rata Blanca en Costa Rica.
+Puede calif&amp;iacute;canos y dejar su rese&amp;ntilde;a ac&amp;aacute;:
+https://ratethispodcast.com/colmilloroquero
+Puede suscribirse al podcast y encontrar las plataformas disponibles en: https://colmilloroquero...
+Feed: https://www.ivoox.com/es-roquero_fg_f1890087_filtro_1.xml?promotionalCampaign</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/micelio-robinsoniano-25-09-23/6974941/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SISLAS/mp3/7/0/1695597373207.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/micelio-robinsoniano-25-09-23/6974941/</guid>
+                <link>https://www.ivoox.com/concierto-rata-blanca-costa-rica-2023-audios-mp3_rf_116744570_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/concierto-rata-blanca-costa-rica-2023_mf_116744570_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/concierto-rata-blanca-costa-rica-2023-audios-mp3_rf_116744570_1.html</guid>
                 
             </item><item>
-                <title>Oso Polar Radioactivo .</title>
-                <description>Las aventuras del Oso Polar.
-Feed: https://www.spreaker.com/show/4548059/episodes/feed</description>
+                <title>A golpe de bit - Vive tu cerebro - 25/09/23</title>
+                <description>Vive tu cerebro
+Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/user/podway/oso-polar-radioactivo-mar-28</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/E29D27/api.spreaker.com/download/episode/56476680/oso_polar_radioactivo_mar_28.mp3"/>
-                <guid>https://www.spreaker.com/user/podway/oso-polar-radioactivo-mar-28</guid>
+                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/vive-tu-cerebro/6975236/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_R18BITG/mp3/4/1/1695639719014.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/vive-tu-cerebro/6975236/</guid>
                 
             </item>
         </channel>

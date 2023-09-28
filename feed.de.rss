@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 27 Sep 2023 04:20:52 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 28 Sep 2023 04:20:41 +0200</lastBuildDate>
             <item>
-                <title>Dunkle Wolken über Visp: Die Lonza verliert Moderna und den CEO</title>
-                <description>Die grösste Arbeitgeberin im Wallis produziert am Standort Visp bald keinen Corona-Impfstoff mehr. Die Auftraggeberin Moderna zieht sich Ende Monat zurück. Es ist nicht die einzige Hiobsbotschaft, die Lonza, Visp und der Kanton verdauen müssen.
-Feed: https://www.srf.ch/feed/podcast/sd/a4d5a8bd-423e-408d-a8fa-ca41d150c94e.xml</description>
+                <title>KLGSCH - 27.09.23 | Marcel aus Fischamend</title>
+                <description>Wie jeden Morgen gibt es die berühmte Klugscheißerfrage - Dieses Mal hatte Marcel aus Fischamend die Chance auf das begehrte Siegerhäferl und den Titel 88.6 Klugscheißer des Tages.
+Feed: http://feeds.radio886.at/klugscheisser</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.srf.ch/world/audio/Die-Woche-in-Tessin-und-Romandie_22-09-2023-1434.1695385652270.mp3?assetId=d8d398d6-38db-42e0-aab2-0a30caf9d00c"/>
-                <guid></guid>
+                <link>http://www.radio886.at</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.cdn.radio886.at/fbca18dc7c9269f0c087c52ed44b1030-radiothek_128.mp3"/>
+                <guid>http://www.radio886.at</guid>
                 
             </item><item>
-                <title>121. Erfahre dich und erlebe Wunder</title>
-                <description>In dieser Episode nehme ich dich mit auf meinen letzten Spaziergang während meiner aufregenden USA-Reise und teile das ein oder andere Erlebnisse und Erkenntnisse mit dir. 
-Außerdem waren die letzten Monate für mich eine Zeit intensiven Lernens und Wachstums. Ich habe an inspirierenden Workshops und Kursen teilgenommen, die alle eine ähnliche Botschaft hatten: Das Erlauben von neuen Erfahrungen und das bewusste Eintauchen in einen &#34;Raum&#34; der Entfaltung...
-Feed: https://kyyjvs.podcaster.de/project-love.rss</description>
+                <title>Felix Rexhausen: Lavendelschwert</title>
+                <description>Im Frühjahr 1965 erschien dieses satirische Buch bereits bei einem Verlag, der heute nicht mehr existiert: Schwule proben den Aufstand, machen – lange vor Stonewall – eine Revolution im todlangweiligen, spießigen Deutschland der 60er Jahre.
+Feed: http://www.berggasse8.at/feed/mp3/</description>
                 
                 
-                <link>https://kyyjvs.podcaster.de/project-love/121-erfahre-dich-und-erlebe-wunder/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://kyyjvs.podcaster.de/project-love/media/121_Erfahre_Dich_und_erlebe_Wunder.mp3"/>
-                <guid>https://kyyjvs.podcaster.de/project-love/121-erfahre-dich-und-erlebe-wunder/</guid>
+                <link>https://www.berggasse8.at/felix-rexhausen-lavendelschwert/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.berggasse8.at/podlove/file/93/s/feed/c/mp3/MSB031.mp3"/>
+                <guid>https://www.berggasse8.at/felix-rexhausen-lavendelschwert/</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 27 Sep 2023 04:21:14 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 28 Sep 2023 04:21:03 +0200</lastBuildDate>
             <item>
-                <title>Speaking Out of Place: LIZA FEATHERSTONE on Build Public Renewables Act (BPRA)</title>
-                <description>climate, climate change, activism, global warming, ecology, climate crisis
-Feed: https://thecreativeprocess.squarespace.com/books-writers?format=rss</description>
+                <title>SHHG! Episode 15: The Game</title>
+                <description>Catching Fire chapters 5-6
+This week we&#39;re back …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:407338935/sounds.rss</description>
                 
                 
-                <link>https://www.creativeprocess.info/books-writers/speaking-out-of-place-liza-featherstone-ydc8w</link>
-                <enclosure type="audio/mpeg" length="1" url="https://static1.squarespace.com/static/5745d9f137013b9d0a627c60/t/65115816d4d07536448ae25c/1695633960520/Liza_Featherstone_+SPEAKING+OUT+OF+PLACE.mp3"/>
-                <guid>https://www.creativeprocess.info/books-writers/speaking-out-of-place-liza-featherstone-ydc8w</guid>
+                <link>https://soundcloud.com/shriekingshack/shhg-episode-15-the-game</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1625478816-shriekingshack-shhg-episode-15-the-game.mp3"/>
+                <guid>https://soundcloud.com/shriekingshack/shhg-episode-15-the-game</guid>
                 
             </item><item>
-                <title>Fossil licking | Cursed painting | Casino attack</title>
-                <description>With Alison Spittle and James Colley
-Feed: https://feeds.acast.com/public/shows/8d72ef0d-c0ba-4e52-a425-c3fcfa9e55fb</description>
+                <title>The Dragon Slayer</title>
+                <description>A kitchen maid vs. a dragon
+Feed: https://feeds.megaphone.fm/afrotalespodcast</description>
                 
                 
-                <link>https://www.thebuglepodcast.com/the-gargle</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/the-gargle/e/650c1aa270a4310011cbff0b/media.mp3"/>
-                <guid>https://www.thebuglepodcast.com/the-gargle</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/CDL8378423065.mp3?updated=1694363294"/>
+                <guid></guid>
                 
             </item>
         </channel>
