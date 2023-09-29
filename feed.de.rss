@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 28 Sep 2023 04:20:41 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 29 Sep 2023 04:20:57 +0200</lastBuildDate>
             <item>
-                <title>KLGSCH - 27.09.23 | Marcel aus Fischamend</title>
-                <description>Wie jeden Morgen gibt es die berühmte Klugscheißerfrage - Dieses Mal hatte Marcel aus Fischamend die Chance auf das begehrte Siegerhäferl und den Titel 88.6 Klugscheißer des Tages.
-Feed: http://feeds.radio886.at/klugscheisser</description>
+                <title>Frankfurter Kranz 42</title>
+                <description>Staffelbesprechung: &#34;The Crown&#34; Season 5
+Feed: https://frankfurterkranz.podigee.io/feed/mp3</description>
                 
                 
-                <link>http://www.radio886.at</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.cdn.radio886.at/fbca18dc7c9269f0c087c52ed44b1030-radiothek_128.mp3"/>
-                <guid>http://www.radio886.at</guid>
+                <link>https://frankfurterkranz.podigee.io/71-frankfurter-kranz-42</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1199449-m-8b31809110ce5686e07722b178db452a.mp3?source=feed"/>
+                <guid>https://frankfurterkranz.podigee.io/71-frankfurter-kranz-42</guid>
                 
             </item><item>
-                <title>Felix Rexhausen: Lavendelschwert</title>
-                <description>Im Frühjahr 1965 erschien dieses satirische Buch bereits bei einem Verlag, der heute nicht mehr existiert: Schwule proben den Aufstand, machen – lange vor Stonewall – eine Revolution im todlangweiligen, spießigen Deutschland der 60er Jahre.
-Feed: http://www.berggasse8.at/feed/mp3/</description>
+                <title>179a: Frag Frau UseBuse zum Biber</title>
+                <description>Frau UseBuse verrät Geheimnisse, die jeder kennen darf. Sie beantwortet deine Fragen zum Biber. Wie kannst du einen Biber beobachten? Was UseBuse da wohl antwort?
+Am Ende bist du schlauer als vorher, mit Spaß dabei.
+
+Feed: https://anchor.fm/s/12cb7aac/podcast/rss</description>
                 
                 
-                <link>https://www.berggasse8.at/felix-rexhausen-lavendelschwert/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.berggasse8.at/podlove/file/93/s/feed/c/mp3/MSB031.mp3"/>
-                <guid>https://www.berggasse8.at/felix-rexhausen-lavendelschwert/</guid>
+                <link>https://podcasters.spotify.com/pod/show/vera-eb-schoenfeld/episodes/179a-Frag-Frau-UseBuse-zum-Biber-e29dpu4</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/12cb7aac/podcast/play/75998596/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F12cb7aac%2F75998596%2F0e55b1025b94fa7308f7be72c0ea2838.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/vera-eb-schoenfeld/episodes/179a-Frag-Frau-UseBuse-zum-Biber-e29dpu4</guid>
                 
             </item>
         </channel>

@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 28 Sep 2023 04:20:45 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 29 Sep 2023 04:21:03 +0200</lastBuildDate>
             <item>
-                <title>Bannir l&#39;esprit de critique</title>
-                <description>&lt;p&gt;Bannir l&#39;esprit de critique&lt;/p&gt;
-Feed: https://feeds.captivate.fm/essentiel-bible-tresor-quotidien/</description>
+                <title>Votre jardin</title>
+                <description>Votre jardin
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
                 
                 
-                <link>https://essentielbible.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/37f3f5ae-b9f6-4088-b7a8-14e415174587/Tr-sor-quotidien-Bannir-l-esprit-de-critique-pod-2809.mp3"/>
-                <guid>https://essentielbible.com/</guid>
+                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/37cc2080-5587-4100-a27f-beb359d9472c/15376-23.09.2023-ITEMA_23497069-2023B20690S0266-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
                 
             </item><item>
-                <title>84. La révolution russe</title>
-                <description>En 1917,  la Russie connaît 2 révolutions coup sur coup, celle de février qui renverse le tsar, laissant place à un gouvernement provisoire, et celle d’octobre quand Lénine et les bolcheviks prennent le pouvoir par un coup d’Etat.
-Quels sont les acteur...
-Feed: https://feed.ausha.co/BD4nAH80Wek1</description>
+                <title>Faut-il être expert pour être entrepreneur ? - Episode 198</title>
+                <description> ** FORMATION STRATEGIE INDEPENDANTE INSCRIPTIONS OUVERTES** 
+ 
+Stratégie Indépendante est LE programme qui vous montre exactement quoi faire et quand, pour construire une stratégie de com...
+Feed: https://feeds.audiomeans.fr/feed/cbf09e37-4985-434e-afd2-c9372eaa597a.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/t-as-qui-en-histoire/84-la-revolution-russe</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BxL8Xh950Jvw.mp3?t=1695504196"/>
-                <guid>https://podcast.ausha.co/t-as-qui-en-histoire/84-la-revolution-russe</guid>
+                <link>https://lepodcastdumarketing.com/expert-198/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/8e9113fa-1900-44a8-8176-8c086e69a813.mp3?_=1695898480"/>
+                <guid>https://lepodcastdumarketing.com/expert-198/</guid>
                 
             </item>
         </channel>

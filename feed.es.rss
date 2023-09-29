@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 28 Sep 2023 04:20:49 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 29 Sep 2023 04:21:08 +0200</lastBuildDate>
             <item>
-                <title>Concierto de Rata Blanca en Costa Rica 2023 - E132T03</title>
-                <description>Hablamos acerca del concierto del S&amp;aacute;bado 23 de Setiembre de 2023 en donde el chivo producciones realizaba su evento debut en conciertos con el evento que tra&amp;iacute;a a la banda de Hard Rock argentina Rata Blanca en Costa Rica.
-Puede calif&amp;iacute;canos y dejar su rese&amp;ntilde;a ac&amp;aacute;:
-https://ratethispodcast.com/colmilloroquero
-Puede suscribirse al podcast y encontrar las plataformas disponibles en: https://colmilloroquero...
-Feed: https://www.ivoox.com/es-roquero_fg_f1890087_filtro_1.xml?promotionalCampaign</description>
+                <title>Planeta vivo - California demanda a las petroleras - 27/09/23</title>
+                <description>California demanda a las petroleras
+Feed: http://api.rtve.es/api/programas/8893/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/concierto-rata-blanca-costa-rica-2023-audios-mp3_rf_116744570_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/concierto-rata-blanca-costa-rica-2023_mf_116744570_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/concierto-rata-blanca-costa-rica-2023-audios-mp3_rf_116744570_1.html</guid>
+                <link>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-california-demanda-petroleras/6976646/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_UNPLVI/mp3/5/0/1695805306505.mp3"/>
+                <guid>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-california-demanda-petroleras/6976646/</guid>
                 
             </item><item>
-                <title>A golpe de bit - Vive tu cerebro - 25/09/23</title>
-                <description>Vive tu cerebro
-Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
+                <title>Experiencia</title>
+                <description>wS MP3 Diciembre de 2023 - 07
+Feed: https://apps.jw.org/E_sFFZRQVNZNT?rln=S&amp;rmn=w&amp;rfm=mp3</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/vive-tu-cerebro/6975236/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_R18BITG/mp3/4/1/1695639719014.mp3"/>
-                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/vive-tu-cerebro/6975236/</guid>
+                <link>https://d34ji3l0qn3w2t.cloudfront.net/22236241-5e30-420f-94cb-03dbc75012df/2/w_S_202312_07.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://d34ji3l0qn3w2t.cloudfront.net/22236241-5e30-420f-94cb-03dbc75012df/2/w_S_202312_07.mp3"/>
+                <guid>https://d34ji3l0qn3w2t.cloudfront.net/22236241-5e30-420f-94cb-03dbc75012df/2/w_S_202312_07.mp3</guid>
                 
             </item>
         </channel>
