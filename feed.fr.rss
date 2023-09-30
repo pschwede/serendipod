@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 29 Sep 2023 04:21:03 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 30 Sep 2023 04:20:38 +0200</lastBuildDate>
             <item>
-                <title>Votre jardin</title>
-                <description>Votre jardin
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
+                <title>Extrait #112 Comment Claire Guillet (Karyon Food) a fait pour trouver et ajuster son modèle économique ?</title>
+                <description>Entre l&#39;idée de business qu&#39;elle a et la réalité d&#39;aujourd&#39;hui, il y a... un grand pas ! Comme pour beaucoup d&#39;entrepreneur(e)s.
+Claire Guillet revient dans cet extrait sur comment elle a fait pour trouver et ajuster le modèle économique de Karyon Foo...
+Feed: https://feed.ausha.co/B6EYWTGNrkQq</description>
                 
                 
-                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/37cc2080-5587-4100-a27f-beb359d9472c/15376-23.09.2023-ITEMA_23497069-2023B20690S0266-21.mp3"/>
-                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
+                <link>https://podcast.ausha.co/comment-t-as-fait-les-rencontres-d-entrepreneurs/extrait-112-comment-claire-guillet-karyon-food-a-fait-pour-trouver-et-ajuster-son-modele-economique</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.soundcast.io/v1/stitch/ausha.mp3?tags=61efe35a52fe6&amp;apiKey=c1a94b3301c64853868548ac73233ca1&amp;podcastUrl=https%3A%2F%2Faudio.ausha.co%2FoZ4gpTG62pdn.mp3%3Ft%3D1691077265"/>
+                <guid>https://podcast.ausha.co/comment-t-as-fait-les-rencontres-d-entrepreneurs/extrait-112-comment-claire-guillet-karyon-food-a-fait-pour-trouver-et-ajuster-son-modele-economique</guid>
                 
             </item><item>
-                <title>Faut-il être expert pour être entrepreneur ? - Episode 198</title>
-                <description> ** FORMATION STRATEGIE INDEPENDANTE INSCRIPTIONS OUVERTES** 
- 
-Stratégie Indépendante est LE programme qui vous montre exactement quoi faire et quand, pour construire une stratégie de com...
-Feed: https://feeds.audiomeans.fr/feed/cbf09e37-4985-434e-afd2-c9372eaa597a.xml</description>
+                <title>Une heure, un compositeur : Ludwig van Beethoven</title>
+                <description>Une heure, un compositeur : Ludwig van Beethoven
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20332.xml</description>
                 
                 
-                <link>https://lepodcastdumarketing.com/expert-198/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/8e9113fa-1900-44a8-8176-8c086e69a813.mp3?_=1695898480"/>
-                <guid>https://lepodcastdumarketing.com/expert-198/</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/stars-du-classique/une-heure-un-compositeur-ludwig-van-beethoven-4717725</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/41cfe54c-9bdb-49e8-a453-7e7b086bb101/20332-29.09.2023-ITEMA_23503418-2023M49077S0272-21.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/stars-du-classique/une-heure-un-compositeur-ludwig-van-beethoven-4717725</guid>
                 
             </item>
         </channel>

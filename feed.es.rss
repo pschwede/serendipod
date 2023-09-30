@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 29 Sep 2023 04:21:08 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 30 Sep 2023 04:20:42 +0200</lastBuildDate>
             <item>
-                <title>Planeta vivo - California demanda a las petroleras - 27/09/23</title>
-                <description>California demanda a las petroleras
-Feed: http://api.rtve.es/api/programas/8893/audios.rss</description>
+                <title>Mutación: Storm of the Century</title>
+                <description>A finales de los noventa, ABC estrenó la primera miniserie para televisión escrita por Stephen King: una historia fantástica que indaga en la ética humana a lo largo de 3 episodios. Entretenida y contundente por igual, Storm of the Century es una obr...
+Feed: https://www.martesataca.com.ar/category/medianocheenmaine/feed/</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-california-demanda-petroleras/6976646/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_UNPLVI/mp3/5/0/1695805306505.mp3"/>
-                <guid>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-california-demanda-petroleras/6976646/</guid>
+                <link>https://www.martesataca.com.ar/medianocheenmaine/mutacion-storm-of-the-century/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.martesataca.com.ar/wp-content/uploads/2023/08/medianocheenmaine_e40.mp3"/>
+                <guid>https://www.martesataca.com.ar/medianocheenmaine/mutacion-storm-of-the-century/</guid>
                 
             </item><item>
-                <title>Experiencia</title>
-                <description>wS MP3 Diciembre de 2023 - 07
-Feed: https://apps.jw.org/E_sFFZRQVNZNT?rln=S&amp;rmn=w&amp;rfm=mp3</description>
+                <title>125: &#34;La hora pico&#34;</title>
+                <description>Paulina y José exploran el peculiar y concurrido mundo del transporte público en la Ciudad de México, destacando sus aspectos culturales y desafíos.
+Feed: https://www.easyspanish.fm/rss</description>
                 
                 
-                <link>https://d34ji3l0qn3w2t.cloudfront.net/22236241-5e30-420f-94cb-03dbc75012df/2/w_S_202312_07.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://d34ji3l0qn3w2t.cloudfront.net/22236241-5e30-420f-94cb-03dbc75012df/2/w_S_202312_07.mp3"/>
-                <guid>https://d34ji3l0qn3w2t.cloudfront.net/22236241-5e30-420f-94cb-03dbc75012df/2/w_S_202312_07.mp3</guid>
+                <link>https://www.easyspanish.fm/125</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G7F34G/aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/3bdeba32-201a-45b7-b862-1e0c2333807b.mp3"/>
+                <guid>https://www.easyspanish.fm/125</guid>
                 
             </item>
         </channel>
