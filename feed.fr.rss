@@ -9,27 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 30 Sep 2023 04:20:38 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 01 Oct 2023 04:20:16 +0200</lastBuildDate>
             <item>
-                <title>Extrait #112 Comment Claire Guillet (Karyon Food) a fait pour trouver et ajuster son modèle économique ?</title>
-                <description>Entre l&#39;idée de business qu&#39;elle a et la réalité d&#39;aujourd&#39;hui, il y a... un grand pas ! Comme pour beaucoup d&#39;entrepreneur(e)s.
-Claire Guillet revient dans cet extrait sur comment elle a fait pour trouver et ajuster le modèle économique de Karyon Foo...
-Feed: https://feed.ausha.co/B6EYWTGNrkQq</description>
+                <title>150e de la Société de musique l&#39;Espérance - Salle Polyvalente - Coffrane</title>
+                <description>Production et présentation: Jean-Marc Richard
+Conseiller musical: Martial Rosselet 
+Réalisation: Laurence Boss
+Technique: JP Mages, Sofia Muller
+...
+Feed: https://www.rts.ch/la-1ere/programmes/le-kiosque-a-musiques/podcast/?flux=rss</description>
                 
                 
-                <link>https://podcast.ausha.co/comment-t-as-fait-les-rencontres-d-entrepreneurs/extrait-112-comment-claire-guillet-karyon-food-a-fait-pour-trouver-et-ajuster-son-modele-economique</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.soundcast.io/v1/stitch/ausha.mp3?tags=61efe35a52fe6&amp;apiKey=c1a94b3301c64853868548ac73233ca1&amp;podcastUrl=https%3A%2F%2Faudio.ausha.co%2FoZ4gpTG62pdn.mp3%3Ft%3D1691077265"/>
-                <guid>https://podcast.ausha.co/comment-t-as-fait-les-rencontres-d-entrepreneurs/extrait-112-comment-claire-guillet-karyon-food-a-fait-pour-trouver-et-ajuster-son-modele-economique</guid>
+                <link>https://www.rts.ch/emissions/kiosque-a-musiques/14318009-150e-de-la-societe-de-musique-lesperance-salle-polyvalente-coffrane-30-09-2023.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/14318009/d8e709f6-43af-305b-8bd9-4b35fa895fe3.mp3"/>
+                <guid>https://www.rts.ch/emissions/kiosque-a-musiques/14318009-150e-de-la-societe-de-musique-lesperance-salle-polyvalente-coffrane-30-09-2023.html</guid>
                 
             </item><item>
-                <title>Une heure, un compositeur : Ludwig van Beethoven</title>
-                <description>Une heure, un compositeur : Ludwig van Beethoven
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20332.xml</description>
+                <title>S7 Épisode 2: Forces Avenir Marc Privé</title>
+                <description>&lt;p&gt;Marc Privé est Lauréat au Gala Forces Avenir dans la catégorie Personnel engagé.&lt;/p&gt;&lt;p&gt;Nous discutons du processus et de son parcours.&lt;/p&gt;&lt;p&gt;Félicitations Marc&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Animateur&amp;nbsp;: Benoit Rochefort&lt;/p&gt;
+Feed: https://baladoquebec.ca/benlala/rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/stars-du-classique/une-heure-un-compositeur-ludwig-van-beethoven-4717725</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/41cfe54c-9bdb-49e8-a453-7e7b086bb101/20332-29.09.2023-ITEMA_23503418-2023M49077S0272-21.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/stars-du-classique/une-heure-un-compositeur-ludwig-van-beethoven-4717725</guid>
+                <link>https://baladoquebec.ca/benlala/s7-episode-2-forces-avenir-marc-prive</link>
+                <enclosure type="audio/mpeg" length="1" url="https://baladoquebec.ca/media/benlala/s7-episode-2-forces-avenir-marc-prive.mp3"/>
+                <guid>https://baladoquebec.ca/benlala/s7-episode-2-forces-avenir-marc-prive</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 30 Sep 2023 04:20:42 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 01 Oct 2023 04:20:20 +0200</lastBuildDate>
             <item>
-                <title>Mutación: Storm of the Century</title>
-                <description>A finales de los noventa, ABC estrenó la primera miniserie para televisión escrita por Stephen King: una historia fantástica que indaga en la ética humana a lo largo de 3 episodios. Entretenida y contundente por igual, Storm of the Century es una obr...
-Feed: https://www.martesataca.com.ar/category/medianocheenmaine/feed/</description>
+                <title>Entre probetas - El cromosoma más masculino - 26/09/23</title>
+                <description>El cromosoma más masculino
+Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
                 
                 
-                <link>https://www.martesataca.com.ar/medianocheenmaine/mutacion-storm-of-the-century/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.martesataca.com.ar/wp-content/uploads/2023/08/medianocheenmaine_e40.mp3"/>
-                <guid>https://www.martesataca.com.ar/medianocheenmaine/mutacion-storm-of-the-century/</guid>
+                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-cromosoma-mas-masculino/6975984/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SENTREP/mp3/3/7/1695721186973.mp3"/>
+                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-cromosoma-mas-masculino/6975984/</guid>
                 
             </item><item>
-                <title>125: &#34;La hora pico&#34;</title>
-                <description>Paulina y José exploran el peculiar y concurrido mundo del transporte público en la Ciudad de México, destacando sus aspectos culturales y desafíos.
-Feed: https://www.easyspanish.fm/rss</description>
+                <title>Oso Polar Radioactivo .</title>
+                <description>Las aventuras del Oso Polar.
+Feed: https://www.spreaker.com/show/4548059/episodes/feed</description>
                 
                 
-                <link>https://www.easyspanish.fm/125</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G7F34G/aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/3bdeba32-201a-45b7-b862-1e0c2333807b.mp3"/>
-                <guid>https://www.easyspanish.fm/125</guid>
+                <link>https://www.spreaker.com/user/podway/oso-polar-radioactivo-mar-28</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/E29D27/api.spreaker.com/download/episode/56476680/oso_polar_radioactivo_mar_28.mp3"/>
+                <guid>https://www.spreaker.com/user/podway/oso-polar-radioactivo-mar-28</guid>
                 
             </item>
         </channel>
