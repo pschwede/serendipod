@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 01 Oct 2023 04:20:20 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 02 Oct 2023 04:21:30 +0200</lastBuildDate>
             <item>
-                <title>Entre probetas - El cromosoma más masculino - 26/09/23</title>
-                <description>El cromosoma más masculino
-Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
+                <title>DIS-001-XIX-121-Multiverso Hipotesis Filosoficas B</title>
+                <description>&lt;p&gt;Hipótesis  Principio Antrópico&lt;/p&gt;&lt;p&gt;Se ha propuesto el concepto de otros universos para explicar por qué nuestro
+universo parece estar ajustado para la vida consciente tal como la
+experimentamos. &lt;/p&gt;&lt;p&gt;Si hubiera un gran número, posiblemente infinito, de diferentes leyes físicas o
+constantes fundamentales en tantos universos, algunos de estos tendrían leyes
+que serían adecuadas para que existieran las estrellas, los planetas y la vida...
+Feed: https://anchor.fm/s/b519be4/podcast/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-cromosoma-mas-masculino/6975984/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SENTREP/mp3/3/7/1695721186973.mp3"/>
-                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-cromosoma-mas-masculino/6975984/</guid>
+                <link>https://podcasters.spotify.com/pod/show/disciplinasalternativas/episodes/DIS-001-XIX-121-Multiverso-Hipotesis-Filosoficas-B-e28k4c5</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/b519be4/podcast/play/75157317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-28%2Fdc85bc12-3cd2-3d67-13e0-bc9a49003e7e.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/disciplinasalternativas/episodes/DIS-001-XIX-121-Multiverso-Hipotesis-Filosoficas-B-e28k4c5</guid>
                 
             </item><item>
-                <title>Oso Polar Radioactivo .</title>
-                <description>Las aventuras del Oso Polar.
-Feed: https://www.spreaker.com/show/4548059/episodes/feed</description>
+                <title>136 - In the Soup con Gerardo Alemán</title>
+                <description>Hola Gerardo aquí en otro episodio de Simplemente Yo; La selección de esta semana es In the Soup, es una comedia independiente de 1992 dirigida por Alexandre Rockwell y escrita por Rockwell y Sollace Mitchell.
+Plot: Un joven aspirante a ser cineasta ...
+Feed: https://filmicnotionpod.com/feed.xml</description>
                 
                 
-                <link>https://www.spreaker.com/user/podway/oso-polar-radioactivo-mar-28</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/E29D27/api.spreaker.com/download/episode/56476680/oso_polar_radioactivo_mar_28.mp3"/>
-                <guid>https://www.spreaker.com/user/podway/oso-polar-radioactivo-mar-28</guid>
+                <link>https://filmicnotionpod.com/e/136-in-the-soup-con-gerardo-aleman/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/k6chfy/136_-_FN_-_In_the_Soup752r3.mp3"/>
+                <guid>https://filmicnotionpod.com/e/136-in-the-soup-con-gerardo-aleman/</guid>
                 
             </item>
         </channel>
