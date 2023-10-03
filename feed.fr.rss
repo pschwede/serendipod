@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 02 Oct 2023 04:21:24 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 03 Oct 2023 04:20:53 +0200</lastBuildDate>
             <item>
-                <title>Intermède — SCOOP #10</title>
-                <description>Point route
-Feed: https://feeds.acast.com/public/shows/5c74448857223e944f75f7b6</description>
+                <title>BONUS - Maëlle : son titre exclusif en podcast</title>
+                <description>Ecoutez Le Grand Studio RTL du 30 septembre 2023 avec Éric Jean-Jean.
+Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
                 
                 
-                <link>https://metadechoc.fr/annonces/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5c74448857223e944f75f7b6/e/651680fe6d392d0011fc7afd/media.mp3"/>
-                <guid>https://metadechoc.fr/annonces/</guid>
+                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rtl.proxycast.org/3112098951214411776/def5e013-b495-48d0-8817-6df7121e474d.mp3?u=FbteVXJUvY&amp;_=1695912481"/>
+                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
                 
             </item><item>
-                <title>Transformation locale des matières premières : un enjeu crucial pour les pays africains</title>
-                <description>Transformer localement les matières premières pour mieux en faire bénéficier les retombées aux populations et accélérer la croissance économique… Les Africains sont de plus en plus conscients de l&#39;enjeu.
-Les pays exportaient à l&#39;état brut leurs richesses. Mais leur aspiration à les transformer localement se renforce davantage. Illustration avec la production de carreaux et faïence made in RDC.
-Feed: https://rss.dw.com/xml/podcast_fra_wirtschaft</description>
+                <title>DJ LBR SUNDAY MORNING fall in love</title>
+                <description>relax, smile, chill
+Feed: https://dj-lbr.backdoorpodcasts.com/index.xml</description>
                 
                 
-                <link>https://www.dw.com/fr/transformation-locale-des-matières-premières-un-enjeu-crucial-pour-les-pays-africains/audio-66890016?maca=fra-podcast_fra_wirtschaft-6027-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/6027_podcast_fra_wirtschaft/FBA5EEE1_2-podcast-6027-66890016.mp3"/>
-                <guid>https://www.dw.com/fr/transformation-locale-des-matières-premières-un-enjeu-crucial-pour-les-pays-africains/audio-66890016?maca=fra-podcast_fra_wirtschaft-6027-xml-mrss</guid>
+                <link>https://dj-lbr.backdoorpodcasts.com/episode/dj-lbr-sunday-morning-fall-in-love-87</link>
+                <enclosure type="audio/mpeg" length="1" url="http://files.backdoorpodcasts.com/dj-lbr/dj-lbr-sunday-morning-fall-in-love-87.mp3"/>
+                <guid>https://dj-lbr.backdoorpodcasts.com/episode/dj-lbr-sunday-morning-fall-in-love-87</guid>
                 
             </item>
         </channel>

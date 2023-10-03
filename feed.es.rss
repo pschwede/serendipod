@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 02 Oct 2023 04:21:30 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 03 Oct 2023 04:20:57 +0200</lastBuildDate>
             <item>
-                <title>DIS-001-XIX-121-Multiverso Hipotesis Filosoficas B</title>
-                <description>&lt;p&gt;Hipótesis  Principio Antrópico&lt;/p&gt;&lt;p&gt;Se ha propuesto el concepto de otros universos para explicar por qué nuestro
-universo parece estar ajustado para la vida consciente tal como la
-experimentamos. &lt;/p&gt;&lt;p&gt;Si hubiera un gran número, posiblemente infinito, de diferentes leyes físicas o
-constantes fundamentales en tantos universos, algunos de estos tendrían leyes
-que serían adecuadas para que existieran las estrellas, los planetas y la vida...
-Feed: https://anchor.fm/s/b519be4/podcast/rss</description>
+                <title>Web Performance: de teoría a práctica</title>
+                <description>Desde WordPress 6.2 se han ido aplicando mejoras en el rendimiento de WordPress, y tras la última versión y la teoría, llega la realidad de los datos.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/disciplinasalternativas/episodes/DIS-001-XIX-121-Multiverso-Hipotesis-Filosoficas-B-e28k4c5</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/b519be4/podcast/play/75157317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-28%2Fdc85bc12-3cd2-3d67-13e0-bc9a49003e7e.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/disciplinasalternativas/episodes/DIS-001-XIX-121-Multiverso-Hipotesis-Filosoficas-B-e28k4c5</guid>
+                <link>https://www.wppodcast.es/podcast/cientosetentaydos/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/216/s/feed/c/podcast/wordpress-podcast-e172.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/cientosetentaydos/</guid>
                 
             </item><item>
-                <title>136 - In the Soup con Gerardo Alemán</title>
-                <description>Hola Gerardo aquí en otro episodio de Simplemente Yo; La selección de esta semana es In the Soup, es una comedia independiente de 1992 dirigida por Alexandre Rockwell y escrita por Rockwell y Sollace Mitchell.
-Plot: Un joven aspirante a ser cineasta ...
-Feed: https://filmicnotionpod.com/feed.xml</description>
+                <title>Sonidos y Sonados 2023-09-28</title>
+                <description>Ya tenemos aquí el último de septiembre. Un programa que cuenta, nada más y nada menos, que con 21 propuestas musicales, con una variedad de contenido musical muy grande. En el Sonidos y Sonados de hoy participan : Nira, Breis, Angel Fe Garrido, Nito Serrano y Lapurasangre, Escuelas Pias, Erin Memento, Candela Gomez, Las Wonder, [&amp;#8230;]
+Feed: https://feeds.feedburner.com/sonidosysonados</description>
                 
                 
-                <link>https://filmicnotionpod.com/e/136-in-the-soup-con-gerardo-aleman/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/k6chfy/136_-_FN_-_In_the_Soup752r3.mp3"/>
-                <guid>https://filmicnotionpod.com/e/136-in-the-soup-con-gerardo-aleman/</guid>
+                <link>https://www.sonidosysonados.com/2023/09/28/sonidos-y-sonados-2023-09-28/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/SonidosySonados20230928Neu.mp3"/>
+                <guid>https://www.sonidosysonados.com/2023/09/28/sonidos-y-sonados-2023-09-28/</guid>
                 
             </item>
         </channel>
