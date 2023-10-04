@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 03 Oct 2023 04:20:53 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 04 Oct 2023 04:21:19 +0200</lastBuildDate>
             <item>
-                <title>BONUS - Maëlle : son titre exclusif en podcast</title>
-                <description>Ecoutez Le Grand Studio RTL du 30 septembre 2023 avec Éric Jean-Jean.
-Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
+                <title>On prend toujours un micro pour la vie : 09/27/2023 16:00</title>
+                <description>673-297198
+Feed: http://podcast.cism893.ca/radioshows/673/feed_itunes.xml</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rtl.proxycast.org/3112098951214411776/def5e013-b495-48d0-8817-6df7121e474d.mp3?u=FbteVXJUvY&amp;_=1695912481"/>
-                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/297198.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/297198.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/297198.mp3</guid>
                 
             </item><item>
-                <title>DJ LBR SUNDAY MORNING fall in love</title>
-                <description>relax, smile, chill
-Feed: https://dj-lbr.backdoorpodcasts.com/index.xml</description>
+                <title>Episode bonus - &#34;TaBoO&#34; - Improvisation sur le podcast de Jérémy Bemon: Comment s&#39;associer consciemment ? (FR)</title>
+                <description>Voici, dans cette capsule, l&#39;improvisation au micro inspirée du podcast (épisodes #37) de Jérémy Bemon, initiateur de l&#39;affectologie, qui nous invite à cultiver  l&#39;association consciente la plus large possible par la recherche individuelle de la pleine satisfaction.
+Feed: https://feeds.simplecast.com/gSZmySeA</description>
                 
                 
-                <link>https://dj-lbr.backdoorpodcasts.com/episode/dj-lbr-sunday-morning-fall-in-love-87</link>
-                <enclosure type="audio/mpeg" length="1" url="http://files.backdoorpodcasts.com/dj-lbr/dj-lbr-sunday-morning-fall-in-love-87.mp3"/>
-                <guid>https://dj-lbr.backdoorpodcasts.com/episode/dj-lbr-sunday-morning-fall-in-love-87</guid>
+                <link>https://www.love-health-center.org/podcast/taboo-episode-bonus-comment-sassocier-consciemment</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c1da6983-a39d-48f6-97dd-d3819060e368/episodes/539344fb-5b9c-4a47-bed6-b6c1a6219aec/audio/207c544e-708d-495e-8211-cced687a8a1b/default_tc.mp3?aid=rss_feed&amp;feed=gSZmySeA"/>
+                <guid>https://www.love-health-center.org/podcast/taboo-episode-bonus-comment-sassocier-consciemment</guid>
                 
             </item>
         </channel>

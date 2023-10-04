@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 03 Oct 2023 04:20:57 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 04 Oct 2023 04:21:24 +0200</lastBuildDate>
             <item>
-                <title>Web Performance: de teoría a práctica</title>
-                <description>Desde WordPress 6.2 se han ido aplicando mejoras en el rendimiento de WordPress, y tras la última versión y la teoría, llega la realidad de los datos.
-Feed: https://www.wppodcast.es/feed/podcast/</description>
+                <title>Intenciones de oración del Papa Francisco – Octubre 2023 [Video]</title>
+                <description>La Santa Sede ha dado a conocer las intenciones de oración del Papa Francisco para el mes de Octubre 2023. Intención de oración: Por el Sínodo Oremos por la Iglesia, &amp;#8230;
+Feed: http://feed.quechilero.com/IntencionesDeOracionDelPapa</description>
                 
                 
-                <link>https://www.wppodcast.es/podcast/cientosetentaydos/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/216/s/feed/c/podcast/wordpress-podcast-e172.mp3"/>
-                <guid>https://www.wppodcast.es/podcast/cientosetentaydos/</guid>
+                <link>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-octubre-2023-video/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/9162/intenciones-de-oracion-del-papa-francisco-octubre-2023-video.mp3"/>
+                <guid>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-octubre-2023-video/</guid>
                 
             </item><item>
-                <title>Sonidos y Sonados 2023-09-28</title>
-                <description>Ya tenemos aquí el último de septiembre. Un programa que cuenta, nada más y nada menos, que con 21 propuestas musicales, con una variedad de contenido musical muy grande. En el Sonidos y Sonados de hoy participan : Nira, Breis, Angel Fe Garrido, Nito Serrano y Lapurasangre, Escuelas Pias, Erin Memento, Candela Gomez, Las Wonder, [&amp;#8230;]
-Feed: https://feeds.feedburner.com/sonidosysonados</description>
+                <title>Long Play 25/09/2023</title>
+                <description>Playlist: Bee Gees – Stayin’ Alive (Version Extended) Azul y Negro – No tengo Tiempo (Maxi Version) Imagination – Just An Illusion (Remix) Mel &amp; Kim – Respectable (Extended Version) Atlanta – Romantic Break (Extended Version) Belinda Carlisle – Heaven ...
+Feed: https://feeds.feedburner.com/RipolletRadioLongPlay</description>
                 
                 
-                <link>https://www.sonidosysonados.com/2023/09/28/sonidos-y-sonados-2023-09-28/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/SonidosySonados20230928Neu.mp3"/>
-                <guid>https://www.sonidosysonados.com/2023/09/28/sonidos-y-sonados-2023-09-28/</guid>
+                <link>https://ripolletradio.cat/2023/09/25/long-play-25-09-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/longplay/audios.ripolletradio.cat/2324/longplay/230925longplay.mp3"/>
+                <guid>https://ripolletradio.cat/2023/09/25/long-play-25-09-2023/</guid>
                 
             </item>
         </channel>

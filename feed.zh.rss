@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 03 Oct 2023 04:21:06 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 04 Oct 2023 04:21:35 +0200</lastBuildDate>
             <item>
+                <title>3×61: A Room of Dalmatians</title>
+                <description>Jeremy Garcia, Jono Bacon, and Stuart Langridge present Bad Voltage, in which we revisit an old friend, Room 101, the place where all the things we hate should be banished. At least according to each of us: whether the other two can be so convinced [...]
+Feed: https://badvoltage.org/feed/ogg</description>
+                
+                
+                <link>https://www.badvoltage.org/2023/08/26/3x61/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.lugradio.org/badvoltage/Bad%20Voltage%203x61.ogg"/>
+                <guid>https://www.badvoltage.org/2023/08/26/3x61/</guid>
+                
+            </item><item>
                 <title>Hubba-Wha?! Episode #21 - Betty Lou&#39;s World</title>
                 <description>&lt;p&gt;She loves cinnamon toast, she’s Luis’s best friend, she wants to build a go-kart…That’s right: on today’s episode of Hubba-Wha?!, Becca Petunia is terrorizing Alethea Shirilan of Sesame History and Ryan Roe of ToughPigs with even more questions about the unsung hero of 54 years of Sesame Street, Betty Lou! Pick your pet! Take the subway! And acknowledge that everybody likes ice cream! Plus: the most ambitious Beat the Time round of all time. Play along at home and let us know how you do!&lt;/p&gt;
 Feed: https://anchor.fm/s/dac02bc/podcast/rss</description>
@@ -19,16 +29,6 @@ Feed: https://anchor.fm/s/dac02bc/podcast/rss</description>
                 <link>https://podcasters.spotify.com/pod/show/toughpigs/episodes/Hubba-Wha---Episode-21---Betty-Lous-World-e29sj42</link>
                 <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/dac02bc/podcast/play/76483138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-28%2Feefaada2-5b0c-6deb-84fd-33c9c6b5812b.mp3"/>
                 <guid>https://podcasters.spotify.com/pod/show/toughpigs/episodes/Hubba-Wha---Episode-21---Betty-Lous-World-e29sj42</guid>
-                
-            </item><item>
-                <title>102: From Fighter Jets to Rocket Ships: The Right Stuff</title>
-                <description>“The idea was to prove at every foot of the way up that you were one of the elected and anointed ones who had the right stuff and could move higher and higher and even—ultimately, God willing, one day—that you might be able to join that special...
-Feed: https://madeyouthink.libsyn.com/rss</description>
-                
-                
-                <link>https://madeyouthink.libsyn.com/from-fighter-jets-to-rocket-ships-the-right-stuff</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/traffic.libsyn.com/secure/madeyouthink/The_Right_Stuff.mp3?dest-id=566369"/>
-                <guid>https://madeyouthink.libsyn.com/from-fighter-jets-to-rocket-ships-the-right-stuff</guid>
                 
             </item>
         </channel>
