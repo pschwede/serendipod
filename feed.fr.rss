@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 04 Oct 2023 04:21:19 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 05 Oct 2023 04:21:10 +0200</lastBuildDate>
             <item>
-                <title>On prend toujours un micro pour la vie : 09/27/2023 16:00</title>
-                <description>673-297198
-Feed: http://podcast.cism893.ca/radioshows/673/feed_itunes.xml</description>
+                <title>Nous sommes en automne... parait-il !</title>
+                <description>Nous sommes en automne... parait-il !
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/297198.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/297198.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/297198.mp3</guid>
+                <link>https://www.francebleu.fr/emissions/votre-jardin/nous-sommes-en-automne-parait-il-2820916</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/9671088b-b3db-4695-99d6-9e736e019e9f/15376-30.09.2023-ITEMA_23504502-2023B20690S0273-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/votre-jardin/nous-sommes-en-automne-parait-il-2820916</guid>
                 
             </item><item>
-                <title>Episode bonus - &#34;TaBoO&#34; - Improvisation sur le podcast de Jérémy Bemon: Comment s&#39;associer consciemment ? (FR)</title>
-                <description>Voici, dans cette capsule, l&#39;improvisation au micro inspirée du podcast (épisodes #37) de Jérémy Bemon, initiateur de l&#39;affectologie, qui nous invite à cultiver  l&#39;association consciente la plus large possible par la recherche individuelle de la pleine satisfaction.
-Feed: https://feeds.simplecast.com/gSZmySeA</description>
+                <title>Ripples from Carcosa – Herald Of The Yellow King – Cthulhu Hack – #3 – Intuitions</title>
+                <description>Ripples from Carcosa est une campagne en 3 scénarios, à 3 époques différentes (https://www.legrog.org/jeux/appel-de-cthulhu/monographies-mula/ripples-from-carcosa-en)
+Cest le grand final de la 2ème époque, qui se déroule au moyen-âge ! 
+Nos personn
+Feed: https://www.jdracademy.fr/feed/podcast/</description>
                 
                 
-                <link>https://www.love-health-center.org/podcast/taboo-episode-bonus-comment-sassocier-consciemment</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c1da6983-a39d-48f6-97dd-d3819060e368/episodes/539344fb-5b9c-4a47-bed6-b6c1a6219aec/audio/207c544e-708d-495e-8211-cced687a8a1b/default_tc.mp3?aid=rss_feed&amp;feed=gSZmySeA"/>
-                <guid>https://www.love-health-center.org/podcast/taboo-episode-bonus-comment-sassocier-consciemment</guid>
+                <link>https://www.jdracademy.fr/ripples-from-carcosa-herald-of-the-yellow-king-cthulhu-hack-4-la-celebration-final/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/AF549D/dts.podtrac.com/redirect.mp3/jdracademy.fr/podcast-download/127396/ripples-from-carcosa-herald-of-the-yellow-king-cthulhu-hack-4-la-celebration-final.mp3"/>
+                <guid>https://www.jdracademy.fr/ripples-from-carcosa-herald-of-the-yellow-king-cthulhu-hack-4-la-celebration-final/</guid>
                 
             </item>
         </channel>
