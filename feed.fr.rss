@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 05 Oct 2023 04:21:10 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 06 Oct 2023 04:20:54 +0200</lastBuildDate>
             <item>
+                <title>Le char de marge : Char de Marge - 1er octobre 2023</title>
+                <description>637-297456
+Feed: http://podcast.cism893.ca/radioshows/637/feed_itunes.xml</description>
+                
+                
+                <link>https://podcast.cism893.ca/podcast/download_mp3/297456.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/297456.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/297456.mp3</guid>
+                
+            </item><item>
                 <title>Nous sommes en automne... parait-il !</title>
                 <description>Nous sommes en automne... parait-il !
 Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
@@ -19,18 +29,6 @@ Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400
                 <link>https://www.francebleu.fr/emissions/votre-jardin/nous-sommes-en-automne-parait-il-2820916</link>
                 <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/9671088b-b3db-4695-99d6-9e736e019e9f/15376-30.09.2023-ITEMA_23504502-2023B20690S0273-21.mp3"/>
                 <guid>https://www.francebleu.fr/emissions/votre-jardin/nous-sommes-en-automne-parait-il-2820916</guid>
-                
-            </item><item>
-                <title>Ripples from Carcosa – Herald Of The Yellow King – Cthulhu Hack – #3 – Intuitions</title>
-                <description>Ripples from Carcosa est une campagne en 3 scénarios, à 3 époques différentes (https://www.legrog.org/jeux/appel-de-cthulhu/monographies-mula/ripples-from-carcosa-en)
-Cest le grand final de la 2ème époque, qui se déroule au moyen-âge ! 
-Nos personn
-Feed: https://www.jdracademy.fr/feed/podcast/</description>
-                
-                
-                <link>https://www.jdracademy.fr/ripples-from-carcosa-herald-of-the-yellow-king-cthulhu-hack-4-la-celebration-final/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/AF549D/dts.podtrac.com/redirect.mp3/jdracademy.fr/podcast-download/127396/ripples-from-carcosa-herald-of-the-yellow-king-cthulhu-hack-4-la-celebration-final.mp3"/>
-                <guid>https://www.jdracademy.fr/ripples-from-carcosa-herald-of-the-yellow-king-cthulhu-hack-4-la-celebration-final/</guid>
                 
             </item>
         </channel>

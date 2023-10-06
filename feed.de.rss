@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 05 Oct 2023 04:21:03 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 06 Oct 2023 04:20:49 +0200</lastBuildDate>
             <item>
-                <title>&#34;Zugespitzt&#34; - Der satirische Monatsrückblick von Jonas Greiner</title>
-                <description>Jonas Greiner bezeichnet sich selbst gern als &#34;größten Kabarettisten Deutschlands&#34;. Mit zwei Meter sieben ist er zumindest überragend. Und darf heute &#34;in voller Länge&#34; auf den Monat September zurückblicken. Er philosophiert über wirkungsarme Wohngipfel, überambitionierte Landtagswahlen und verunglückte Deutschlandpakte.
-Feed: https://feeds.br.de/radiospitzen-kabarett-und-comedy/feed.xml</description>
+                <title>Getting Ready - Folge 168 - Unsere neue Website OHNE FlowThemes!</title>
+                <description>Getting Ready - Fotografie Podcast für Hochzeitsfotografen
+Feed: https://gettingready.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.br.de/mediathek/podcast/radiospitzen-kabarett-und-comedy/zugespitzt-der-satirische-monatsrueckblick-von-jonas-greiner-2/2053672</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2053672/c/feed/zugespitzt-der-satirische-monatsrueckblick-von-jonas-greiner-2.mp3"/>
-                <guid>https://www.br.de/mediathek/podcast/radiospitzen-kabarett-und-comedy/zugespitzt-der-satirische-monatsrueckblick-von-jonas-greiner-2/2053672</guid>
+                <link>https://gettingready-podcast.de/folge-168/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1236458-m-cb7dbe574881fcd3985c3e30cb76a082.mp3?source=feed"/>
+                <guid>https://gettingready-podcast.de/folge-168/</guid>
                 
             </item><item>
-                <title>Open Water - Cage Dive</title>
-                <description>So wie &amp;quot;Blair Witch Project&amp;quot; nur mit Haien.
-Feed: https://haialarm-podcast.de/feed/mp3-high/</description>
+                <title>Islamberater Hussein Hamdan: „DIE Muslime gibt es nicht“</title>
+                <description>Mit welchen muslimischen Partnern arbeiten wir zusammen für eine interreligiöse Veranstaltung? Wer sollte mit am Tisch sitzen, wenn auf dem örtlichen Friedhof ein islamisches Gräberfeld geplant wird? Antworten auf solche Fragen gibt Islamberater Hussein Hamdan. Er arbeitet für die Akademie der Diözese Rottenburg-Stuttgart und berät u.a. Kommunen, Vereine und Kirchengemeinden, wenn es darum geht, die örtlichen Moscheegemeinden besser einzuschätzen...
+Feed: https://www.swr.de/~podcast/swraktuell/radio/mondial-podcast-100.xml</description>
                 
                 
-                <link>https://haialarm-podcast.de/hap083/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://haialarm-podcast.de/podlove/file/1299/s/feed/c/mp3-high/HAP083.mp3"/>
-                <guid>https://haialarm-podcast.de/hap083/</guid>
+                <link>https://www.swr.de/swraktuell/radio/islamberater-hussein-hamdan-die-muslime-gibt-es-nicht-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/swraktuell/radio/mondial/1932026.m.mp3"/>
+                <guid>https://www.swr.de/swraktuell/radio/islamberater-hussein-hamdan-die-muslime-gibt-es-nicht-100.html</guid>
                 
             </item>
         </channel>
