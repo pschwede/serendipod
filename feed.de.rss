@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 06 Oct 2023 04:20:49 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 07 Oct 2023 04:20:37 +0200</lastBuildDate>
             <item>
-                <title>Getting Ready - Folge 168 - Unsere neue Website OHNE FlowThemes!</title>
-                <description>Getting Ready - Fotografie Podcast für Hochzeitsfotografen
-Feed: https://gettingready.podigee.io/feed/mp3</description>
+                <title>Danke Jesus</title>
+                <description>Title: Thank you Jesus
+ - Predigt von Roland Kui am 1.10.2023 im Christlichen Zentrum.
+
+Feed: https://czvs.podcaster.de/czvs.rss</description>
                 
                 
-                <link>https://gettingready-podcast.de/folge-168/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1236458-m-cb7dbe574881fcd3985c3e30cb76a082.mp3?source=feed"/>
-                <guid>https://gettingready-podcast.de/folge-168/</guid>
+                <link>https://czvs.podcaster.de/czvs/media/uploads_converted_6cbce_00___Desktop___Danke_Jesus___Roland_Kui___1_enhanced(1).mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://czvs.podcaster.de/czvs/media/uploads_converted_6cbce_00___Desktop___Danke_Jesus___Roland_Kui___1_enhanced(1).mp3"/>
+                <guid>https://czvs.podcaster.de/czvs/media/uploads_converted_6cbce_00___Desktop___Danke_Jesus___Roland_Kui___1_enhanced(1).mp3</guid>
                 
             </item><item>
-                <title>Islamberater Hussein Hamdan: „DIE Muslime gibt es nicht“</title>
-                <description>Mit welchen muslimischen Partnern arbeiten wir zusammen für eine interreligiöse Veranstaltung? Wer sollte mit am Tisch sitzen, wenn auf dem örtlichen Friedhof ein islamisches Gräberfeld geplant wird? Antworten auf solche Fragen gibt Islamberater Hussein Hamdan. Er arbeitet für die Akademie der Diözese Rottenburg-Stuttgart und berät u.a. Kommunen, Vereine und Kirchengemeinden, wenn es darum geht, die örtlichen Moscheegemeinden besser einzuschätzen...
-Feed: https://www.swr.de/~podcast/swraktuell/radio/mondial-podcast-100.xml</description>
+                <title>SpinOff-Folge 52 - Abenteuer verzapfen</title>
+                <description>Wie schreibe ich das perfekte Abenteuer? Karl-Heinz Zapf gibt Tipps!
+Feed: https://dernerdigetrashtalk.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.swr.de/swraktuell/radio/islamberater-hussein-hamdan-die-muslime-gibt-es-nicht-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/swraktuell/radio/mondial/1932026.m.mp3"/>
-                <guid>https://www.swr.de/swraktuell/radio/islamberater-hussein-hamdan-die-muslime-gibt-es-nicht-100.html</guid>
+                <link>https://dernerdigetrashtalk.podigee.io/126-verzapft</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1221140-m-4e821232e60129002b405bd41e27330a.mp3?source=feed"/>
+                <guid>https://dernerdigetrashtalk.podigee.io/126-verzapft</guid>
                 
             </item>
         </channel>
