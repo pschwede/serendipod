@@ -9,16 +9,16 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 07 Oct 2023 04:20:48 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 09 Oct 2023 04:22:41 +0200</lastBuildDate>
             <item>
-                <title>Café del sur - Vuelvo al Sur - 01/10/23</title>
-                <description>Vuelvo al Sur
-Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
+                <title>El himno tuchichense feat. Juan Pelaez - Capítulo 199</title>
+                <description>La estupidez mordió a la inteligencia. Es aquí donde comprobamos que este SÍ es un bazuco. Juanito Melele vuelve y juntos exploramos la geografía olvidada del país. ¿Conocen el pueblo de Tuchiche el cual colinda con el pueblo Tuchocho? La gente amable...
+Feed: https://www.spreaker.com/show/4081707/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cafe-del-sur/vuelvo-sur-01-10-23/6978727/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediavod-lvlt.rtve.es/resources/TE_SCAFEDE/mp3/2/5/1695999432652.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cafe-del-sur/vuelvo-sur-01-10-23/6978727/</guid>
+                <link>https://www.spreaker.com/user/11591262/los-impopulares-cap-199</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/56977875/los_impopulares_cap_199.mp3"/>
+                <guid>https://www.spreaker.com/user/11591262/los-impopulares-cap-199</guid>
                 
             </item><item>
                 <title>Serialmente: Richard Chase | El Vampiro de Sacramento</title>

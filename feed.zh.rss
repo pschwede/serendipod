@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 07 Oct 2023 04:20:59 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 09 Oct 2023 04:22:49 +0200</lastBuildDate>
             <item>
-                <title>Our Favorite Recording Sessions in Memory of Engineer Mary Gaffney</title>
-                <description>Jim and Greg revisit some of their favorite sessions they did with late audio engineer Mary Gaffney, which includes Jenny Lewis, Bob Mould and more.
-Feed: https://rss.art19.com/sound-opinions</description>
-                
-                
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/adc798e3-3ea7-4c8e-80fa-3db0a69f6fb8.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
-                
-            </item><item>
                 <title>Which Micronutrients Are Worth Monitoring?</title>
                 <description>In the final episode of our micronutrient series, Greg and Lyndsey discuss which micronutrients are most worth monitoring and good food sources for the micronutrients you may be under-consuming. Then, we talk more broadly about why you shouldn’t allow a focus on micronutrients specifically to detract from the pursuit of a generally healthy diet.
 Feed: https://feeds.simplecast.com/Fxu1mrhe</description>
@@ -29,6 +19,16 @@ Feed: https://feeds.simplecast.com/Fxu1mrhe</description>
                 <link>https://sbspod.com/episodes/which-micronutrients-are-worth-monitoring-bq5ag43c</link>
                 <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/1GFE32/afp-7305.calisto.simplecastaudio.com/04677c3e-9483-4edc-a51b-812e6b1f78b6/episodes/7d2e1b3a-2e8a-4a83-8c9b-5d8b1e91423a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=04677c3e-9483-4edc-a51b-812e6b1f78b6&amp;awEpisodeId=7d2e1b3a-2e8a-4a83-8c9b-5d8b1e91423a&amp;feed=Fxu1mrhe"/>
                 <guid>https://sbspod.com/episodes/which-micronutrients-are-worth-monitoring-bq5ag43c</guid>
+                
+            </item><item>
+                <title>Cartel Carnage and State Colonialism in the Lacandon Area of Chiapas, Mexico: Indigenous Survivance</title>
+                <description>In the region of the Lacandon forest in Chiapas, …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:149657550/sounds.rss</description>
+                
+                
+                <link>https://soundcloud.com/burntswamp/cartel-carnage-and-state-colonialism-in-the-lacandon-area-of-chiapas-mexico-indigenous-survivance</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/http://feeds.soundcloud.com/stream/1633191693-burntswamp-cartel-carnage-and-state-colonialism-in-the-lacandon-area-of-chiapas-mexico-indigenous-survivance.mp3"/>
+                <guid>https://soundcloud.com/burntswamp/cartel-carnage-and-state-colonialism-in-the-lacandon-area-of-chiapas-mexico-indigenous-survivance</guid>
                 
             </item>
         </channel>

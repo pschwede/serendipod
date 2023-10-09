@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 07 Oct 2023 04:20:37 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 09 Oct 2023 04:21:54 +0200</lastBuildDate>
             <item>
-                <title>Danke Jesus</title>
-                <description>Title: Thank you Jesus
- - Predigt von Roland Kui am 1.10.2023 im Christlichen Zentrum.
-
-Feed: https://czvs.podcaster.de/czvs.rss</description>
+                <title>Rebecca trifft &amp;quot;Top Dog&amp;quot;-Sieger Dominik Arend</title>
+                <description>In der 59. Episode des Podcasts „Rebecca trifft“ ist Dominik Arend zu Gast. Er hat gemeinsam mit seinem Border Collie Ninja die diesjährige Staffel der RTL-Show „Top Dog Germany“ gewonnen. In dieser Episode erzählt Dominik, wie Ninja überhaupt in sein Leben gekommen ist und wie die enge Bindung der Beiden entstanden ist. Außerdem gibt er wertvolle Tipps für den Umgang mit Hunden und der Hörer erhält einen Einblick, was hinter den Kulissen von „Top Dog“ geschieht...
+Feed: https://nop9wn.podcaster.de/rebecca-trifft.rss</description>
                 
                 
-                <link>https://czvs.podcaster.de/czvs/media/uploads_converted_6cbce_00___Desktop___Danke_Jesus___Roland_Kui___1_enhanced(1).mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://czvs.podcaster.de/czvs/media/uploads_converted_6cbce_00___Desktop___Danke_Jesus___Roland_Kui___1_enhanced(1).mp3"/>
-                <guid>https://czvs.podcaster.de/czvs/media/uploads_converted_6cbce_00___Desktop___Danke_Jesus___Roland_Kui___1_enhanced(1).mp3</guid>
+                <link>https://nop9wn.podcaster.de/rebecca-trifft/rebecca-trifft-top-dog-sieger-dominik-arend/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://nop9wn.podcaster.de/rebecca-trifft/media/59_Dominik_Top_Dog.mp3"/>
+                <guid>https://nop9wn.podcaster.de/rebecca-trifft/rebecca-trifft-top-dog-sieger-dominik-arend/</guid>
                 
             </item><item>
-                <title>SpinOff-Folge 52 - Abenteuer verzapfen</title>
-                <description>Wie schreibe ich das perfekte Abenteuer? Karl-Heinz Zapf gibt Tipps!
-Feed: https://dernerdigetrashtalk.podigee.io/feed/mp3</description>
+                <title>Fotopodcast-Gipfel Photopia 2023</title>
+                <description>Unsere große Podcaster-Runde zur Photopia 2023
+Feed: https://fotophonie.de/feed/m4a/</description>
                 
                 
-                <link>https://dernerdigetrashtalk.podigee.io/126-verzapft</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1221140-m-4e821232e60129002b405bd41e27330a.mp3?source=feed"/>
-                <guid>https://dernerdigetrashtalk.podigee.io/126-verzapft</guid>
+                <link>https://fotophonie.de/fotophonie-215/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/48821/fotophonie.de/podlove/file/11464/s/feed/c/m4a/fotophonie__215.m4a"/>
+                <guid>https://fotophonie.de/fotophonie-215/</guid>
                 
             </item>
         </channel>
