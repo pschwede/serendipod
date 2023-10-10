@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 09 Oct 2023 04:22:45 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 10 Oct 2023 04:20:55 +0200</lastBuildDate>
             <item>
                 <title>RP#106 – Como evangelizar?</title>
                 <description>Fala, Resistência! Chegamos ao episódio nº 106 e hoje a gente vai bater um papo sobre algo tão intrínseco à vida do cristão, mas que muitos tem grandes dificuldades de colocar em prática: a evangelização...
@@ -21,14 +21,15 @@ Feed: http://feeds.feedburner.com/ResistenciaPodcast</description>
                 <guid>https://resistenciapodcast.com/rp106-como-evangelizar/</guid>
                 
             </item><item>
-                <title>CORRESPONDENTES PREMIER #290: E AGORA, VAR?</title>
-                <description>O VAR está em crise na Inglaterra! Roubado? Aliás, por onde anda Renato Senise que grita isso em toda rodada? João Castelo-Branco e Natalie Gedra debatem esses e outros assuntos do futebol inglês.
-Feed: https://feeds.megaphone.fm/ESP2944640685</description>
+                <title>193 â Negritude sem Identidade, com Ãrico Andrade</title>
+                <description>&lt;p&gt;Recebemos o professor Ãrico Andrade para uma conversa sobre Negritude sem Identidade; pardos, identidade racial; psicanÃ¡lise e muito mais. Leia mais â&lt;/p&gt;
+O post 193 â Negritude sem Identidade, com Ãrico Andrade apareceu primeiro em filosofia pop.
+Feed: https://filosofiapop.com.br/feed/podcast/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP4105655747.mp3?updated=1696336404"/>
-                <guid></guid>
+                <link>https://filosofiapop.com.br/podcast/193-negritude-sem-identidade-com-erico-andrade/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=193-negritude-sem-identidade-com-erico-andrade</link>
+                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/filosofiapop/filosofiapop.com.br/episodios/193_negritudeSI.mp3"/>
+                <guid>https://filosofiapop.com.br/podcast/193-negritude-sem-identidade-com-erico-andrade/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=193-negritude-sem-identidade-com-erico-andrade</guid>
                 
             </item>
         </channel>

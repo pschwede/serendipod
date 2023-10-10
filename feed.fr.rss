@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 09 Oct 2023 04:21:59 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 10 Oct 2023 04:20:46 +0200</lastBuildDate>
             <item>
-                <title>S3E18 The Creator de Gareth Edwards</title>
-                <description>À CHAUD ! est un podcast cinéma de critiques de films qui viennent tout juste de sortir, que ce soit au cinéma ou toutes les plateformes de streaming. Avec ce podcast, on vit les premiers moments des chroniqueurs, leurs sensations, leurs...
-Feed: https://www.vodio.fr/rssmedias.php?valeur=204</description>
-                
-                
-                <link>https://www.vodio.fr/vodiotheque/i/12733/s3e18-the-creator-de-gareth-edwards/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/www.vodio.fr/emissions/_ctmieuxavant56G2/s3e18-creator.mp3"/>
-                <guid>https://www.vodio.fr/vodiotheque/i/12733/s3e18-the-creator-de-gareth-edwards/</guid>
-                
-            </item><item>
                 <title>London café : Émission du 3 octobre</title>
                 <description>665-297607
 Feed: http://podcast.cism893.ca/radioshows/665/feed_itunes.xml</description>
@@ -29,6 +19,16 @@ Feed: http://podcast.cism893.ca/radioshows/665/feed_itunes.xml</description>
                 <link>https://podcast.cism893.ca/podcast/download_mp3/297607.mp3</link>
                 <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/297607.mp3"/>
                 <guid>https://podcast.cism893.ca/podcast/download_mp3/297607.mp3</guid>
+                
+            </item><item>
+                <title>Les charlottes : 10/05/2023 07:00</title>
+                <description>692-297700
+Feed: http://podcast.cism893.ca/radioshows/692/feed_itunes.xml</description>
+                
+                
+                <link>https://podcast.cism893.ca/podcast/download_mp3/297700.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/297700.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/297700.mp3</guid>
                 
             </item>
         </channel>
