@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 10 Oct 2023 04:20:46 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 11 Oct 2023 04:20:53 +0200</lastBuildDate>
             <item>
-                <title>London café : Émission du 3 octobre</title>
-                <description>665-297607
-Feed: http://podcast.cism893.ca/radioshows/665/feed_itunes.xml</description>
+                <title>85. Bagdad, la capitale du monde musulman</title>
+                <description>Plongez dans l&#39;éblouissante histoire de Bagdad, le joyau étincelant du califat abbasside, où se mêlent les génies de l&#39;algèbre et de la philosophie et un marché digne d&#39;un conte des Mille et Une Nuits. 
+Née au bord du Tigre en 762, comment cette métrop...
+Feed: https://feed.ausha.co/BD4nAH80Wek1</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/297607.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/297607.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/297607.mp3</guid>
+                <link>https://podcast.ausha.co/t-as-qui-en-histoire/85-bagdad-la-capitale-du-monde-musulman</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/ypVnKsN2Ym65.mp3?t=1696515347"/>
+                <guid>https://podcast.ausha.co/t-as-qui-en-histoire/85-bagdad-la-capitale-du-monde-musulman</guid>
                 
             </item><item>
-                <title>Les charlottes : 10/05/2023 07:00</title>
-                <description>692-297700
-Feed: http://podcast.cism893.ca/radioshows/692/feed_itunes.xml</description>
+                <title>Radio Rôliste #143 : Émotions</title>
+                <description>Table ronde animée par FarfaAvec Ours, Macalys et Lam SonMontage : Lam Son Le jeu de rôle procure des émotions : la joie d’avoir joué avec ses amis, la frustration d’une partie décevante, la peur d’ouvrir cette porte,
+Feed: https://www.radio-roliste.net/?feed=rss2</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/297700.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/297700.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/297700.mp3</guid>
+                <link>https://www.radio-roliste.net/?p=3152</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/radio_roliste/www.radio-roliste.net/wp-content/uploads/powerpress/RR143_emotions.mp3"/>
+                <guid>https://www.radio-roliste.net/?p=3152</guid>
                 
             </item>
         </channel>

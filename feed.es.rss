@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 10 Oct 2023 04:20:50 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 11 Oct 2023 04:20:59 +0200</lastBuildDate>
             <item>
                 <title>137 - Christine con Gerardo Alemán</title>
                 <description>Hola Gerardo aquí en otro episodio de Simplemente Yo; La selección de esta semana es Christine, es una película de terror sobrenatural/ suspenso de 1983 dirigida por John Carpenter.
@@ -22,14 +22,14 @@ Feed: https://filmicnotionpod.com/feed.xml</description>
                 <guid>https://filmicnotionpod.com/e/137-christine-con-gerardo-aleman/</guid>
                 
             </item><item>
-                <title>SD Contra 24: Entrevistar a terroristas; Víctor Aparicio presenta &#39;La violencia, actor político de la Transición&#39;</title>
-                <description>En plena pol&amp;eacute;mica sobre las entrevistas medi&amp;aacute;ticas a terroristas por el documental &#39;No me llame Ternera&#39;, se acaba de celebrar la II Jornada &#39;Contar el terror. Relatos en primer persona&#39; en la Universidad de Navarra...
-Feed: https://www.ivoox.com/sierra-delta_fg_f1507669_filtro_1.xml</description>
+                <title>Ese no soy yo</title>
+                <description>La risa y la indignaciÃ³n en una foto. &lt;br&gt;&lt;br&gt;Para David Godoy el proceso de tramitar su libreta militar fue largo y engorroso. Cuando finalmente la recibiÃ³, se llevÃ³ una sorpresa: los datos en este documento oficial colombiano eran suyos, pero el retrato pertenecÃ­a a una celebridad internacional. Lo que al principio pareciÃ³ un simple error, desatÃ³ una investigaciÃ³n sobre corrupciÃ³n en una de las instituciones mÃ¡s poderosas del paÃ­s...
+Feed: https://feeds.npr.org/510315/podcast.xml</description>
                 
                 
-                <link>https://www.ivoox.com/sd-contra-24-entrevistar-a-terroristas-victor-aparicio-audios-mp3_rf_117277246_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sd-contra-24-entrevistar-a-terroristas-victor-aparicio_mh_117277246_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/sd-contra-24-entrevistar-a-terroristas-victor-aparicio-audios-mp3_rf_117277246_1.html</guid>
+                <link>https://www.npr.org/2023/10/10/1198908043/radio-ambulante-draft-10-10-2023</link>
+                <enclosure type="audio/mpeg" length="1" url="https://play.podtrac.com/npr-510315/traffic.megaphone.fm/NPR5789138623.mp3?d=2500&amp;size=40003754&amp;e=1198908043&amp;t=podcast&amp;p=510315"/>
+                <guid>https://www.npr.org/2023/10/10/1198908043/radio-ambulante-draft-10-10-2023</guid>
                 
             </item>
         </channel>

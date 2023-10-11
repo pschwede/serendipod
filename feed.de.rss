@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 10 Oct 2023 04:20:42 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 11 Oct 2023 04:20:47 +0200</lastBuildDate>
             <item>
-                <title>Audiogramm mit Canva erstellen</title>
-                <description>&lt;p&gt;Ein kurzes Audiogramm mit einer prägnanten Aussage ist ein gerne genutztes Format, um auf eine neue Podcastepisode aufmerksam zu machen. &lt;/p&gt;&lt;p&gt;Beliebt war dafür bislang immer das Tool Headlinerapp. Doch wusstet ihr, dass ein Audiogramm auch mit Canva ganz einfach zu erstellen ist?&lt;/p&gt;&lt;p&gt;Wie es geht, erkläre ich in dieser Episode, hört am besten gleich rein. &lt;/p&gt;
---- 
-Send in a voice message: https://podcasters.spotify.com/pod/show/mobilepodcast/message
-Feed: https://anchor.fm/s/9a1938/podcast/rss</description>
+                <title>WR108 - Tee, Drogen und Krieg</title>
+                <description>Vom Teetrinken, den Opiumkriegen und botanischer Spionage
+Feed: https://letscast.fm/podcasts/wissensreisende-51f138db/feed</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/mobilepodcast/episodes/Audiogramm-mit-Canva-erstellen-e29qh1l</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/9a1938/podcast/play/76415477/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-26%2F5b08a2bb-b9fb-dbeb-289e-8a472731366a.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/mobilepodcast/episodes/Audiogramm-mit-Canva-erstellen-e29qh1l</guid>
+                <link>https://www.wissensreisende.de/episode/wr108-tee-drogen-und-krieg</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/d139bd6f/episode/6f3509a3.mp3?t=1695048789"/>
+                <guid>https://www.wissensreisende.de/episode/wr108-tee-drogen-und-krieg</guid>
                 
             </item><item>
-                <title>Toni und Nemanja: dissoziative Identitätsstörung</title>
-                <description>Zu Gast ist die 22-jährige Toni und später auch eine weitere Persönlichkeit, mit der sich Toni ihren Körper teilt: der männliche Nemanja. Bei Toni wurde eine dissoziative Identitätsstörung diagnostiziert, früher bekannt als multiple Persönlichkeitsstörung. Diese wird zu 90 Prozent durch entsetzliche lebensbedrohliche Erlebnisse in der Kindheit verursacht.
-Toni studiert Lehramt. Und lebt mit acht weiteren Persönlichkeitsanteilen wie in einer Art Körper-WG...
-Feed: https://www.swr3.de/~podcast/podcasts/der-gangster-der-junkie-und-die-hure-112.xml</description>
+                <title>#099 - Kisaragi Station</title>
+                <description>Die Bahnstation des Grauens
+Feed: https://cdn.julephosting.de/podcasts/434-ende-mit-schrecken/feed.rss</description>
                 
                 
-                <link>https://www.swr3.de/podcasts/toni-und-nemanja-dissoziative-identitaetsstoerung-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr3/podcasts-audioreihen/der-gangster-der-junkie-und-die-hure/toni-und-nemanja-dissoziative-identitaetsstoerung.m.mp3"/>
-                <guid>https://www.swr3.de/podcasts/toni-und-nemanja-dissoziative-identitaetsstoerung-100.html</guid>
+                <link>https://podriders.de/podcast/ende-mit-schrecken</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ads.julephosting.de/podcasts/434-ende-mit-schrecken/120783-098-flug-1010.mp3?v=1&amp;awCollectionId=julep_09737b&amp;awEpisodeId=120783"/>
+                <guid>https://podriders.de/podcast/ende-mit-schrecken</guid>
                 
             </item>
         </channel>
