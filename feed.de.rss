@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 11 Oct 2023 04:20:47 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 12 Oct 2023 04:21:13 +0200</lastBuildDate>
             <item>
-                <title>WR108 - Tee, Drogen und Krieg</title>
-                <description>Vom Teetrinken, den Opiumkriegen und botanischer Spionage
-Feed: https://letscast.fm/podcasts/wissensreisende-51f138db/feed</description>
+                <title>Jason Steel: vom prÃ¼gelnden Jugendlichen zum Pornostar</title>
+                <description>Mag sein, dass ein Pornodarsteller von vielen vorschnell in eine Schublade gesteckt wird. Doch unser Gast Jason Steel hat mehr zu bieten: Er hat ein abgeschlossenes Wirtschaftsstudium, produziert Drehs auf der halben Welt, ist charmant und abenteuerlustig. Seine âLeiche im Kellerâ ist Gewalt â in seiner Jugend ein durchgehendes Thema.
+Jason wird als Jerome 1982 in Ostberlin geboren und schon als Kleinkind Opfer von SchlÃ¤gen. Eine 30 cm lange Narbe am Bauch zeugt davon...
+Feed: https://www.swr3.de/~podcast/podcasts/der-gangster-der-junkie-und-die-hure-112.xml</description>
                 
                 
-                <link>https://www.wissensreisende.de/episode/wr108-tee-drogen-und-krieg</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/d139bd6f/episode/6f3509a3.mp3?t=1695048789"/>
-                <guid>https://www.wissensreisende.de/episode/wr108-tee-drogen-und-krieg</guid>
+                <link>https://www.swr3.de/podcasts/jason-steel-vom-pruegelnden-jugendlichen-zum-pornostar-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr3/podcasts-audioreihen/der-gangster-der-junkie-und-die-hure/jason-steel-vom-pruegelnden-jugendlichen-zum-pornostar.m.mp3"/>
+                <guid>https://www.swr3.de/podcasts/jason-steel-vom-pruegelnden-jugendlichen-zum-pornostar-100.html</guid>
                 
             </item><item>
-                <title>#099 - Kisaragi Station</title>
-                <description>Die Bahnstation des Grauens
-Feed: https://cdn.julephosting.de/podcasts/434-ende-mit-schrecken/feed.rss</description>
+                <title>Rebecca trifft Autorin und Ãrztin Dr. Lisa Federle</title>
+                <description>Machen unglÃ¼ckliche Beziehungen krank?
+Feed: https://nop9wn.podcaster.de/rebecca-trifft.rss</description>
                 
                 
-                <link>https://podriders.de/podcast/ende-mit-schrecken</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ads.julephosting.de/podcasts/434-ende-mit-schrecken/120783-098-flug-1010.mp3?v=1&amp;awCollectionId=julep_09737b&amp;awEpisodeId=120783"/>
-                <guid>https://podriders.de/podcast/ende-mit-schrecken</guid>
+                <link>https://nop9wn.podcaster.de/rebecca-trifft/rebecca-trifft-autorin-und-aerztin-dr-lisa-federle/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://nop9wn.podcaster.de/rebecca-trifft/media/60episode_lisa_federle.mp3"/>
+                <guid>https://nop9wn.podcaster.de/rebecca-trifft/rebecca-trifft-autorin-und-aerztin-dr-lisa-federle/</guid>
                 
             </item>
         </channel>

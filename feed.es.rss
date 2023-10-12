@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 11 Oct 2023 04:20:59 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 12 Oct 2023 04:21:24 +0200</lastBuildDate>
             <item>
-                <title>137 - Christine con Gerardo Alemán</title>
-                <description>Hola Gerardo aquí en otro episodio de Simplemente Yo; La selección de esta semana es Christine, es una película de terror sobrenatural/ suspenso de 1983 dirigida por John Carpenter.
-Plot: Arnie, Un chico nerd compra un auto con una mente malvada prop...
-Feed: https://filmicnotionpod.com/feed.xml</description>
+                <title>AquÃ­ estoy - Una balsa se abre un camino diferente por los canales de BerlÃ­n</title>
+                <description>Juan Tapia fundÃ³ el colectivo llamado &#34;Unkraut&#34; para actividades sociales y artÃ­sticas. Su herramienta es una balsa y su medio el rÃ­o Spree de BerlÃ­n y sus canales que se esparcen por toda la ciudad. En su balsa suceden desde manifestaciones medioambientales hasta conciertos flotantes de mÃºsica tecno o jazz.
+Feed: https://rss.dw.com/xml/podcast_aqui_estoy</description>
                 
                 
-                <link>https://filmicnotionpod.com/e/137-christine-con-gerardo-aleman/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/789rhn/137_-_FN_-_Christine7ora2.mp3"/>
-                <guid>https://filmicnotionpod.com/e/137-christine-con-gerardo-aleman/</guid>
+                <link>https://www.dw.com/es/aquÃ­-estoy-una-balsa-se-abre-un-camino-diferente-por-los-canales-de-berlÃ­n/video-67054713?maca=spa-podcast_aqui_estoy-17479-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ae/ae20231110_gesamt_AVC_640x360.mp4"/>
+                <guid>https://www.dw.com/es/aquÃ­-estoy-una-balsa-se-abre-un-camino-diferente-por-los-canales-de-berlÃ­n/video-67054713?maca=spa-podcast_aqui_estoy-17479-xml-mrss</guid>
                 
             </item><item>
-                <title>Ese no soy yo</title>
-                <description>La risa y la indignaciÃ³n en una foto. &lt;br&gt;&lt;br&gt;Para David Godoy el proceso de tramitar su libreta militar fue largo y engorroso. Cuando finalmente la recibiÃ³, se llevÃ³ una sorpresa: los datos en este documento oficial colombiano eran suyos, pero el retrato pertenecÃ­a a una celebridad internacional. Lo que al principio pareciÃ³ un simple error, desatÃ³ una investigaciÃ³n sobre corrupciÃ³n en una de las instituciones mÃ¡s poderosas del paÃ­s...
-Feed: https://feeds.npr.org/510315/podcast.xml</description>
+                <title>Cosa PÃºblica 2.0 - Lu. 09 Oct 2023</title>
+                <description>https://podcastudg.com/CosaPublica20231009.mp3
+Feed: https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/feed/19</description>
                 
                 
-                <link>https://www.npr.org/2023/10/10/1198908043/radio-ambulante-draft-10-10-2023</link>
-                <enclosure type="audio/mpeg" length="1" url="https://play.podtrac.com/npr-510315/traffic.megaphone.fm/NPR5789138623.mp3?d=2500&amp;size=40003754&amp;e=1198908043&amp;t=podcast&amp;p=510315"/>
-                <guid>https://www.npr.org/2023/10/10/1198908043/radio-ambulante-draft-10-10-2023</guid>
+                <link>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---lu-09-oct-2023/199288</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/CosaPublica20231009.mp3"/>
+                <guid>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---lu-09-oct-2023/199288</guid>
                 
             </item>
         </channel>
