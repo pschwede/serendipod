@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 12 Oct 2023 04:21:24 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 13 Oct 2023 04:21:18 +0200</lastBuildDate>
             <item>
-                <title>AquÃ­ estoy - Una balsa se abre un camino diferente por los canales de BerlÃ­n</title>
-                <description>Juan Tapia fundÃ³ el colectivo llamado &#34;Unkraut&#34; para actividades sociales y artÃ­sticas. Su herramienta es una balsa y su medio el rÃ­o Spree de BerlÃ­n y sus canales que se esparcen por toda la ciudad. En su balsa suceden desde manifestaciones medioambientales hasta conciertos flotantes de mÃºsica tecno o jazz.
-Feed: https://rss.dw.com/xml/podcast_aqui_estoy</description>
+                <title>HistoCast 280 - Estados Unidos de España I</title>
+                <description>Esto es HistoCast. No es Esparta pero casi. De nuevo iniciamos una serie de programas monogr&amp;aacute;ficos, este ciclo lo dedicaremos al legado hispano en Estados Unidos de Am&amp;eacute;rica. Para ello y a caballo se encuentra @cerveranavas al que acompa&amp;ntilde;an @danigalpe, @HugoACanete y @goyix_salduero. Os recordamos que nos pod&amp;eacute;is seguir a trav&amp;eacute;s de nuestra cuenta de twitter @histocast y en facebook...
+Feed: https://www.ivoox.com/podcast-histocast_fg_f132047_filtro_1.xml</description>
                 
                 
-                <link>https://www.dw.com/es/aquÃ­-estoy-una-balsa-se-abre-un-camino-diferente-por-los-canales-de-berlÃ­n/video-67054713?maca=spa-podcast_aqui_estoy-17479-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ae/ae20231110_gesamt_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/aquÃ­-estoy-una-balsa-se-abre-un-camino-diferente-por-los-canales-de-berlÃ­n/video-67054713?maca=spa-podcast_aqui_estoy-17479-xml-mrss</guid>
+                <link>https://www.ivoox.com/histocast-280-estados-unidos-espana-i-audios-mp3_rf_116941515_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/histocast-280-estados-unidos-espana-i_mh_116941515_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/histocast-280-estados-unidos-espana-i-audios-mp3_rf_116941515_1.html</guid>
                 
             </item><item>
-                <title>Cosa PÃºblica 2.0 - Lu. 09 Oct 2023</title>
-                <description>https://podcastudg.com/CosaPublica20231009.mp3
-Feed: https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/feed/19</description>
+                <title>Long Play 09/10/2023</title>
+                <description>&lt;p&gt;&lt;/p&gt;
+Feed: https://feeds.feedburner.com/RipolletRadioLongPlay</description>
                 
                 
-                <link>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---lu-09-oct-2023/199288</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/CosaPublica20231009.mp3"/>
-                <guid>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---lu-09-oct-2023/199288</guid>
+                <link>https://ripolletradio.cat/2023/10/09/long-play-09-10-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/longplay/audios.ripolletradio.cat/2324/longplay/231009longplay.mp3"/>
+                <guid>https://ripolletradio.cat/2023/10/09/long-play-09-10-2023/</guid>
                 
             </item>
         </channel>
