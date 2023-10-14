@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 13 Oct 2023 04:21:12 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 14 Oct 2023 04:20:18 +0200</lastBuildDate>
             <item>
-                <title>Qu&#39;est-ce que la priÃ¨re ?</title>
-                <description>Catherine Fromager et Michel Epinat partagent avec nous leur expÃ©rience de la priÃ¨re; ce qu&#39;elle reprÃ©sente pour eux: une relation intime avec Dieu, comment elle s &#39;exprime: sous forme d&#39;action de grÃ¢ces, de demande d&#39;aide,  commment elle enrichit leur vie spirituelle. La priÃ¨re peut Ãªtre spontanÃ©e, tout au long de la journÃ©e, mais elle est parfois le fruit d&#39;un effort lorsque nous sommes habitÃ©s, voire dÃ©bordÃ©s par la douleur, la rÃ©volte quans ce n&#39;est pas la haine...
-Feed: https://www.rcf.fr/feed/emission/7793</description>
-                
-                
-                <link>https://www.rcf.fr/vie-spirituelle/eglises-en-marche?episode=411476</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rcf.proxycast.org/3116463306089443328/podcast.mp3"/>
-                <guid>https://www.rcf.fr/vie-spirituelle/eglises-en-marche?episode=411476</guid>
-                
-            </item><item>
                 <title>L&#39;appel au pardon | Daniel Decary</title>
                 <description>Église Communautaire Mosaïuque
 Feed: https://feeds.feedburner.com/egliseCommunautaireMosaiqueaudio</description>
@@ -29,6 +19,16 @@ Feed: https://feeds.feedburner.com/egliseCommunautaireMosaiqueaudio</description
                 <link>https://podcasters.spotify.com/pod/show/eglise-communautaire-mosaque-podcast-audio/episodes/Lappel-au-pardon--Daniel-Decary-e29ecg5</link>
                 <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1bd46104/podcast/play/76017605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-17%2Ff14c7caa-e848-f3a1-6172-ea19d8fd092c.mp3"/>
                 <guid>https://podcasters.spotify.com/pod/show/eglise-communautaire-mosaque-podcast-audio/episodes/Lappel-au-pardon--Daniel-Decary-e29ecg5</guid>
+                
+            </item><item>
+                <title>BAGNOLARDS â¢ Ãpisode 67 avec Yohanne LamoulÃ¨re</title>
+                <description>&lt;p&gt;Elle a collaborÃ© avec le metteur en scÃ¨ne Mohamed El Khatib pour une installation consacrÃ©e a la Renault 12 et Ã  la Peugeot 504, au Mucem, Ã  Marseille. La photographe Yohanne LamoulÃ¨re est lâinvitÃ©e de cet Ã©pisode de Bagnolards. Allergique au plastique des voitures modernes, elle revient sur sa fameuse BMW SÃ©rie 5, qui lui a Ã©tÃ© volÃ©e. Yohanne LamoulÃ¨re explique comment la conduite et le voyage par la route constituent une thÃ©rapie pour elle...
+Feed: https://feeds.acast.com/public/shows/5ef29235f24d2960f46fb962</description>
+                
+                
+                <link>https://shows.acast.com/bagnolards/episodes/bagnolards-yohanne-lamoulere</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5ef29235f24d2960f46fb962/e/6522cb3520178200115f59d9/media.mp3"/>
+                <guid>https://shows.acast.com/bagnolards/episodes/bagnolards-yohanne-lamoulere</guid>
                 
             </item>
         </channel>

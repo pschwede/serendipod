@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 13 Oct 2023 04:21:18 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 14 Oct 2023 04:20:24 +0200</lastBuildDate>
             <item>
-                <title>HistoCast 280 - Estados Unidos de España I</title>
-                <description>Esto es HistoCast. No es Esparta pero casi. De nuevo iniciamos una serie de programas monogr&amp;aacute;ficos, este ciclo lo dedicaremos al legado hispano en Estados Unidos de Am&amp;eacute;rica. Para ello y a caballo se encuentra @cerveranavas al que acompa&amp;ntilde;an @danigalpe, @HugoACanete y @goyix_salduero. Os recordamos que nos pod&amp;eacute;is seguir a trav&amp;eacute;s de nuestra cuenta de twitter @histocast y en facebook...
-Feed: https://www.ivoox.com/podcast-histocast_fg_f132047_filtro_1.xml</description>
+                <title>Dedicamos el podcast de hoy a la cantante Sevillana, Juanita Reina</title>
+                <description>Juana Reina Castrillo, mÃ¡s conocida como Juanita Reina (Sevilla, 25 de agosto de 1925 - ibidem, 19 de marzo de 1999), fue una cantante y actriz espaÃ±ola, reconocida como Â«la Reina de la CoplaÂ».
+Feed: https://eiberoamerica.com/feed/platicando.xml</description>
                 
                 
-                <link>https://www.ivoox.com/histocast-280-estados-unidos-espana-i-audios-mp3_rf_116941515_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/histocast-280-estados-unidos-espana-i_mh_116941515_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/histocast-280-estados-unidos-espana-i-audios-mp3_rf_116941515_1.html</guid>
+                <link>http://eiberoamerica.com/podcast/platicando/0767_JuanitaReina.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0767_JuanitaReina.mp3"/>
+                <guid>http://eiberoamerica.com/podcast/platicando/0767_JuanitaReina.mp3</guid>
                 
             </item><item>
-                <title>Long Play 09/10/2023</title>
-                <description>&lt;p&gt;&lt;/p&gt;
-Feed: https://feeds.feedburner.com/RipolletRadioLongPlay</description>
+                <title>Sonidos y Sonados 2023-10-12</title>
+                <description>Dos Sonidos y Sonados iguales o parecidos, difÃ­cil. La semana pasada un programa completamente instrumental, esta, algo bastante diferente. En total 17 propuestas, las de Los Glosters, Los Tang, Reme, Syrah Morrison con Alberto Anaut, Oest de Franc, Jamie 4 President, Antiplancton, The Ripples, Ulises Messner, Luback, Sonic Beast, La Kruel Band, The Kleejoss Band, [&amp;#8230;]
+Feed: https://feeds.feedburner.com/sonidosysonados</description>
                 
                 
-                <link>https://ripolletradio.cat/2023/10/09/long-play-09-10-2023/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/longplay/audios.ripolletradio.cat/2324/longplay/231009longplay.mp3"/>
-                <guid>https://ripolletradio.cat/2023/10/09/long-play-09-10-2023/</guid>
+                <link>https://www.sonidosysonados.com/2023/10/12/sonidos-y-sonados-2023-10-12/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/SonidosySonados20231012Neu.mp3"/>
+                <guid>https://www.sonidosysonados.com/2023/10/12/sonidos-y-sonados-2023-10-12/</guid>
                 
             </item>
         </channel>
