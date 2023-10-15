@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Oct 2023 04:20:11 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 15 Oct 2023 04:20:19 +0200</lastBuildDate>
             <item>
-                <title>Die Geißel der Karpaten</title>
-                <description>Alles, was Sie schon immer über Gödöllő wissen wollten.
-Feed: https://www.sprechkabine.de/feed/podcast</description>
+                <title>SÃ¼dafrika - Ein Traumland der WidersprÃ¼che und der Hoffnung</title>
+                <description>Wir waren in SÃ¼dafrika. Ein tolles Land mit sehr vielen WidersprÃ¼chen und doch ein Land, in dem die Hoffnung und der Traum auf eine bessere Zukunft lebt.
+Feed: http://schreihalzz.de/feed/mp3/</description>
                 
                 
-                <link>https://sprechkabine.de/s05e18</link>
-                <enclosure type="audio/mpeg" length="1" url="http://media.bitsundso.de/dsk/sprechkabine-s05e18-mYwG9KjN.m4a"/>
-                <guid>https://sprechkabine.de/s05e18</guid>
+                <link>https://schreihalzz.de/sp-573-suedafrika-ein-traumland-der-widersprueche-und-der-hoffnung/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://schreihalzz.de/podlove/file/2617/s/feed/c/mp3/SP_573_Suedafrika.mp3"/>
+                <guid>https://schreihalzz.de/sp-573-suedafrika-ein-traumland-der-widersprueche-und-der-hoffnung/</guid>
                 
             </item><item>
-                <title>S6E3: Verbotene LieBeth (Bethic Twinstinct) – Rick and Morty Podcast (Staffel 6 Episode 3)</title>
-                <description>Auch in der sechsten Staffel von Rick and Morty bekommen wir wieder eine Thanksgiving-Folge. In &#39;Verbotene LieBeth&#39; bekommt die Familie Besuch von Space Beth, die für ganz schön viel Chaos in der Gefühlswelt der Smith&#39; sorgt.
-Feed: http://rickandmorty.radio-castriert.de/feed/podcast</description>
+                <title>Wochenendrebellen – der Film</title>
+                <description>Es gibt jetzt einen Film zu den &#34;Wochenendrebellen&#34; Jason und Mirco von Juterczenka. Wie fühlt es sich an, wenn das eigene Leben verfilmt wird? Im Gespräch mit Andreas Thies und Max erzählen die beiden von Dialogen, die es ins Drehbuch geschafft haben, wi
+Feed: https://tribuenengespraech.podigee.io/feed/mp3</description>
                 
                 
-                <link>http://rickandmorty.radio-castriert.de/s6e3-verbotene-liebeth-bethic-twinstinct-rick-and-morty-podcast-staffel-6-episode-3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://rickandmorty.radio-castriert.de/podlove/file/575/s/feed/c/podcast/RnM-S6E3.mp3"/>
-                <guid>http://rickandmorty.radio-castriert.de/s6e3-verbotene-liebeth-bethic-twinstinct-rick-and-morty-podcast-staffel-6-episode-3</guid>
+                <link>https://tribuenengespraech.podigee.io/103-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1226603-m-a7d3d9f42f2dd5461b7f719ba8914a05.mp3?source=feed"/>
+                <guid>https://tribuenengespraech.podigee.io/103-neue-episode</guid>
                 
             </item>
         </channel>

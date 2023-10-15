@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Oct 2023 04:20:05 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 15 Oct 2023 04:20:13 +0200</lastBuildDate>
             <item>
-                <title>117 The Buddhist Fist</title>
-                <description>This week on Heroes Three podcast Marty starts us on an arc covering podcast favorite Yuen Woo-Ping with the Yuen clan action comedy from 1980, The Buddhist Fist! Full cast and credits at HKMDB. Find us online - https://linktr.ee/Heroes3Podcast Email us! - heroes3podcast@gmail.com Check out some H3 art and merch! - https://www.teepublic...
-Feed: https://feeds.feedburner.com/HeroesThreePodcast</description>
-                
-                
-                <link>https://podcasters.spotify.com/pod/show/heroes-3-podcast/episodes/117-The-Buddhist-Fist-e2acbeo</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/d5c0def8/podcast/play/76999576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-9%2Fdd528a1e-5b71-d7cd-e82f-034ca226c0a4.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/heroes-3-podcast/episodes/117-The-Buddhist-Fist-e2acbeo</guid>
-                
-            </item><item>
                 <title>270 - Defining Genius</title>
                 <description>&lt;p&gt;How Minds Change&lt;/p&gt;&lt;p&gt;David McRaney’s Twitter&lt;/p&gt;&lt;p&gt;YANSS Twitter&lt;/p&gt;&lt;p&gt;Show Notes&lt;/p&gt;&lt;p&gt;Exploring Genius Audio Documentary&lt;/p&gt;&lt;p&gt;In this show you&#39;ll hear the first episode of a documentary series I made for Himalaya, an audio service devoted to inspirational and educational content that asked me if I had any ideas for a book that I had yet to pursue, and sure enough, I did...
 Feed: https://feeds.simplecast.com/N5eKDxJI</description>
@@ -29,6 +19,16 @@ Feed: https://feeds.simplecast.com/N5eKDxJI</description>
                 <link>https://www.stitcher.com</link>
                 <enclosure type="audio/mpeg" length="1" url="https://stitcher.simplecastaudio.com/aa9f2648-25e9-472a-af42-4e5017da38cf/episodes/48121c1c-dba6-4228-b507-6868d43ee1e8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=aa9f2648-25e9-472a-af42-4e5017da38cf&amp;awEpisodeId=48121c1c-dba6-4228-b507-6868d43ee1e8&amp;feed=N5eKDxJI"/>
                 <guid>https://www.stitcher.com</guid>
+                
+            </item><item>
+                <title>Heavy Networking 705: Evolving From Python To Platforms For Network Automation (Sponsored)</title>
+                <description>Today on Heavy Networking we talk about how to get from a handful of Python scripts to a network automation platform that enables a self-service environment and incorporates the checks and governance required to make sure the automation doesn&#39;t blow up...
+Feed: https://feeds.packetpushers.net/packetpushersfatpipe/</description>
+                
+                
+                <link>https://packetpushers.net/podcast/heavy-networking-705-evolving-from-python-to-platforms-for-network-automation-sponsored/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.packetpushers.net/link/17421/16393983/HN_705_Evolving_From_Python_To_Platforms_For_Network_Automation_Sponsored_.mp3"/>
+                <guid>https://packetpushers.net/podcast/heavy-networking-705-evolving-from-python-to-platforms-for-network-automation-sponsored/</guid>
                 
             </item>
         </channel>

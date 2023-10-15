@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Oct 2023 04:20:18 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 15 Oct 2023 04:20:25 +0200</lastBuildDate>
             <item>
-                <title>L&#39;appel au pardon | Daniel Decary</title>
-                <description>Église Communautaire Mosaïuque
-Feed: https://feeds.feedburner.com/egliseCommunautaireMosaiqueaudio</description>
+                <title>On prend toujours un micro pour la vie : partie de rap entre BO$$</title>
+                <description>673-298211
+Feed: http://podcast.cism893.ca/radioshows/673/feed_itunes.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/eglise-communautaire-mosaque-podcast-audio/episodes/Lappel-au-pardon--Daniel-Decary-e29ecg5</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1bd46104/podcast/play/76017605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-17%2Ff14c7caa-e848-f3a1-6172-ea19d8fd092c.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/eglise-communautaire-mosaque-podcast-audio/episodes/Lappel-au-pardon--Daniel-Decary-e29ecg5</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/298211.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/298211.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/298211.mp3</guid>
                 
             </item><item>
-                <title>BAGNOLARDS â¢ Ãpisode 67 avec Yohanne LamoulÃ¨re</title>
-                <description>&lt;p&gt;Elle a collaborÃ© avec le metteur en scÃ¨ne Mohamed El Khatib pour une installation consacrÃ©e a la Renault 12 et Ã  la Peugeot 504, au Mucem, Ã  Marseille. La photographe Yohanne LamoulÃ¨re est lâinvitÃ©e de cet Ã©pisode de Bagnolards. Allergique au plastique des voitures modernes, elle revient sur sa fameuse BMW SÃ©rie 5, qui lui a Ã©tÃ© volÃ©e. Yohanne LamoulÃ¨re explique comment la conduite et le voyage par la route constituent une thÃ©rapie pour elle...
-Feed: https://feeds.acast.com/public/shows/5ef29235f24d2960f46fb962</description>
+                <title>Histoire juive de la France 1/3 Une aventure éditoriale</title>
+                <description>Histoire juive de la France 1/3 Une aventure éditoriale
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13094.xml</description>
                 
                 
-                <link>https://shows.acast.com/bagnolards/episodes/bagnolards-yohanne-lamoulere</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5ef29235f24d2960f46fb962/e/6522cb3520178200115f59d9/media.mp3"/>
-                <guid>https://shows.acast.com/bagnolards/episodes/bagnolards-yohanne-lamoulere</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/histoire-juive-de-la-france-1-3-une-aventure-editoriale-6236619</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/35aae64d-237e-441e-b8a7-f3679be30350/13094-08.10.2023-ITEMA_23512552-2023C21364E0036-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/histoire-juive-de-la-france-1-3-une-aventure-editoriale-6236619</guid>
                 
             </item>
         </channel>

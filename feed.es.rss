@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Oct 2023 04:20:24 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 15 Oct 2023 04:20:30 +0200</lastBuildDate>
             <item>
-                <title>Dedicamos el podcast de hoy a la cantante Sevillana, Juanita Reina</title>
-                <description>Juana Reina Castrillo, mÃ¡s conocida como Juanita Reina (Sevilla, 25 de agosto de 1925 - ibidem, 19 de marzo de 1999), fue una cantante y actriz espaÃ±ola, reconocida como Â«la Reina de la CoplaÂ».
-Feed: https://eiberoamerica.com/feed/platicando.xml</description>
+                <title>Ese no soy yo</title>
+                <description>La risa y la indignaciÃ³n en una foto. &lt;br&gt;&lt;br&gt;Para David Godoy el proceso de tramitar su libreta militar fue largo y engorroso. Cuando finalmente la recibiÃ³, se llevÃ³ una sorpresa: los datos en este documento oficial colombiano eran suyos, pero el retrato pertenecÃ­a a una celebridad internacional. Lo que al principio pareciÃ³ un simple error, desatÃ³ una investigaciÃ³n sobre corrupciÃ³n en una de las instituciones mÃ¡s poderosas del paÃ­s...
+Feed: https://feeds.npr.org/510315/podcast.xml</description>
                 
                 
-                <link>http://eiberoamerica.com/podcast/platicando/0767_JuanitaReina.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0767_JuanitaReina.mp3"/>
-                <guid>http://eiberoamerica.com/podcast/platicando/0767_JuanitaReina.mp3</guid>
+                <link>https://www.npr.org/2023/10/10/1198908043/radio-ambulante-draft-10-10-2023</link>
+                <enclosure type="audio/mpeg" length="1" url="https://play.podtrac.com/npr-510315/traffic.megaphone.fm/NPR5789138623.mp3?d=2500&amp;size=40003754&amp;e=1198908043&amp;t=podcast&amp;p=510315"/>
+                <guid>https://www.npr.org/2023/10/10/1198908043/radio-ambulante-draft-10-10-2023</guid>
                 
             </item><item>
-                <title>Sonidos y Sonados 2023-10-12</title>
-                <description>Dos Sonidos y Sonados iguales o parecidos, difÃ­cil. La semana pasada un programa completamente instrumental, esta, algo bastante diferente. En total 17 propuestas, las de Los Glosters, Los Tang, Reme, Syrah Morrison con Alberto Anaut, Oest de Franc, Jamie 4 President, Antiplancton, The Ripples, Ulises Messner, Luback, Sonic Beast, La Kruel Band, The Kleejoss Band, [&amp;#8230;]
-Feed: https://feeds.feedburner.com/sonidosysonados</description>
+                <title>Sapiens - Homo cartographicus. Con Kevin R. Wittman - 07/10/23</title>
+                <description>Homo cartographicus. Con Kevin R. Wittman
+Feed: http://www.rtve.es/api/programas/128073/audios.rss</description>
                 
                 
-                <link>https://www.sonidosysonados.com/2023/10/12/sonidos-y-sonados-2023-10-12/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/SonidosySonados20231012Neu.mp3"/>
-                <guid>https://www.sonidosysonados.com/2023/10/12/sonidos-y-sonados-2023-10-12/</guid>
+                <link>https://www.rtve.es/play/audios/sapiens/homo-cartographicus-kevin-wittman/6984230/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/6984230.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sapiens/homo-cartographicus-kevin-wittman/6984230/</guid>
                 
             </item>
         </channel>
