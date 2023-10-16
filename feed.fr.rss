@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 15 Oct 2023 04:20:25 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 16 Oct 2023 04:21:20 +0200</lastBuildDate>
             <item>
-                <title>On prend toujours un micro pour la vie : partie de rap entre BO$$</title>
-                <description>673-298211
-Feed: http://podcast.cism893.ca/radioshows/673/feed_itunes.xml</description>
+                <title>Rencontres #18 - RaphaÃ«lle RiviÃ¨re, historienne freelance pour l&#39;architecture</title>
+                <description>Dans le format Rencontres de ce podcast, je vous â¦
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:147058082/sounds.rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/298211.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/298211.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/298211.mp3</guid>
+                <link>https://soundcloud.com/fannycomo/rencontres-18-raphaelle-riviere</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1640004543-fannycomo-rencontres-18-raphaelle-riviere.mp3"/>
+                <guid>https://soundcloud.com/fannycomo/rencontres-18-raphaelle-riviere</guid>
                 
             </item><item>
-                <title>Histoire juive de la France 1/3 Une aventure éditoriale</title>
-                <description>Histoire juive de la France 1/3 Une aventure éditoriale
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13094.xml</description>
+                <title>Le mix de Otavio</title>
+                <description>
+Feed: https://www.rts.ch/couleur3/programmes/metissages/podcast/?flux=rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/histoire-juive-de-la-france-1-3-une-aventure-editoriale-6236619</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/35aae64d-237e-441e-b8a7-f3679be30350/13094-08.10.2023-ITEMA_23512552-2023C21364E0036-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/histoire-juive-de-la-france-1-3-une-aventure-editoriale-6236619</guid>
+                <link>https://www.rts.ch/couleur3/programmes/metissages/14367051-le-mix-de-otavio-12-10-2023.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/14367051/ebfc3102-95dd-3e9e-baa6-6f94619b55d6.mp3"/>
+                <guid>https://www.rts.ch/couleur3/programmes/metissages/14367051-le-mix-de-otavio-12-10-2023.html</guid>
                 
             </item>
         </channel>

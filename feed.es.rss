@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 15 Oct 2023 04:20:30 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 16 Oct 2023 04:21:24 +0200</lastBuildDate>
             <item>
-                <title>Ese no soy yo</title>
-                <description>La risa y la indignaciÃ³n en una foto. &lt;br&gt;&lt;br&gt;Para David Godoy el proceso de tramitar su libreta militar fue largo y engorroso. Cuando finalmente la recibiÃ³, se llevÃ³ una sorpresa: los datos en este documento oficial colombiano eran suyos, pero el retrato pertenecÃ­a a una celebridad internacional. Lo que al principio pareciÃ³ un simple error, desatÃ³ una investigaciÃ³n sobre corrupciÃ³n en una de las instituciones mÃ¡s poderosas del paÃ­s...
-Feed: https://feeds.npr.org/510315/podcast.xml</description>
+                <title>2023-10-14 Flafri</title>
+                <description>
+Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
                 
                 
-                <link>https://www.npr.org/2023/10/10/1198908043/radio-ambulante-draft-10-10-2023</link>
-                <enclosure type="audio/mpeg" length="1" url="https://play.podtrac.com/npr-510315/traffic.megaphone.fm/NPR5789138623.mp3?d=2500&amp;size=40003754&amp;e=1198908043&amp;t=podcast&amp;p=510315"/>
-                <guid>https://www.npr.org/2023/10/10/1198908043/radio-ambulante-draft-10-10-2023</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-10-14Flafri.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Sapiens - Homo cartographicus. Con Kevin R. Wittman - 07/10/23</title>
-                <description>Homo cartographicus. Con Kevin R. Wittman
-Feed: http://www.rtve.es/api/programas/128073/audios.rss</description>
+                <title>Dance Live Sessions #256 - Deep Edition Vol. 1</title>
+                <description>Ivan Voltes selects his favourite tracks of the moment every week live in the mix.
+Broadcasting LIVE every Thursday at 1pm EDT | 8pm GMT | 9pm CET on Twitch and YouTube.
+Tracklist: 1001.tl/d5hh1v
+@dancelive Official Spotify Playlists: linktr.ee/dancelive
+If you are a radio station interested in airing the show please contact here: dancelive.es@gmail.com
+Feed: https://www.ivoox.com/ivan-voltes-presents-dance-live-radio_fg_f1166124_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sapiens/homo-cartographicus-kevin-wittman/6984230/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/6984230.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sapiens/homo-cartographicus-kevin-wittman/6984230/</guid>
+                <link>https://www.ivoox.com/dance-live-sessions-256-deep-edition-vol-audios-mp3_rf_117769288_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/dance-live-sessions-256-deep-edition-vol_mh_117769288_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/dance-live-sessions-256-deep-edition-vol-audios-mp3_rf_117769288_1.html</guid>
                 
             </item>
         </channel>
