@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 16 Oct 2023 04:21:24 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 17 Oct 2023 04:21:16 +0200</lastBuildDate>
             <item>
-                <title>2023-10-14 Flafri</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>Intenciones de oración del Papa Francisco – Octubre 2023 [Video]</title>
+                <description>La Santa Sede ha dado a conocer las intenciones de oración del Papa Francisco para el mes de Octubre 2023. Intención de oración: Por el Sínodo Oremos por la Iglesia, &amp;#8230;
+Feed: http://feed.quechilero.com/IntencionesDeOracionDelPapa</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2023-10-14Flafri.mp3"/>
-                <guid></guid>
+                <link>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-octubre-2023-video/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/9162/intenciones-de-oracion-del-papa-francisco-octubre-2023-video.mp3"/>
+                <guid>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-octubre-2023-video/</guid>
                 
             </item><item>
-                <title>Dance Live Sessions #256 - Deep Edition Vol. 1</title>
-                <description>Ivan Voltes selects his favourite tracks of the moment every week live in the mix.
-Broadcasting LIVE every Thursday at 1pm EDT | 8pm GMT | 9pm CET on Twitch and YouTube.
-Tracklist: 1001.tl/d5hh1v
-@dancelive Official Spotify Playlists: linktr.ee/dancelive
-If you are a radio station interested in airing the show please contact here: dancelive.es@gmail.com
-Feed: https://www.ivoox.com/ivan-voltes-presents-dance-live-radio_fg_f1166124_filtro_1.xml</description>
+                <title>Experiencia</title>
+                <description>wS MP3 Diciembre de 2023 - 07
+Feed: https://apps.jw.org/E_sFFZRQVNZNT?rln=S&amp;rmn=w&amp;rfm=mp3</description>
                 
                 
-                <link>https://www.ivoox.com/dance-live-sessions-256-deep-edition-vol-audios-mp3_rf_117769288_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/dance-live-sessions-256-deep-edition-vol_mh_117769288_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/dance-live-sessions-256-deep-edition-vol-audios-mp3_rf_117769288_1.html</guid>
+                <link>https://d34ji3l0qn3w2t.cloudfront.net/22236241-5e30-420f-94cb-03dbc75012df/2/w_S_202312_07.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://d34ji3l0qn3w2t.cloudfront.net/22236241-5e30-420f-94cb-03dbc75012df/2/w_S_202312_07.mp3"/>
+                <guid>https://d34ji3l0qn3w2t.cloudfront.net/22236241-5e30-420f-94cb-03dbc75012df/2/w_S_202312_07.mp3</guid>
                 
             </item>
         </channel>

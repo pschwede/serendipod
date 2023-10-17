@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 16 Oct 2023 04:21:20 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 17 Oct 2023 04:21:12 +0200</lastBuildDate>
             <item>
-                <title>Rencontres #18 - RaphaÃ«lle RiviÃ¨re, historienne freelance pour l&#39;architecture</title>
-                <description>Dans le format Rencontres de ce podcast, je vous â¦
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:147058082/sounds.rss</description>
+                <title>CQEP - Entretien - Valentin DEBISE (SSP - GMT94 2023)</title>
+                <description>Salut Ã  toutes et Ã  tous, 
+On retrouve OphÃ©lie pour un entretien avec Valentin Debise (SSP) enregistrÃ© au circuit Carole lors de l&#39;Ã©tape du FSBK qui s&#39;est dÃ©roulÃ©e sur le Circuit Carole en aoÃ»t dernier. 
+Il revient sur les temps forts de sa carriÃ¨re, son passage en SBK AMA, en Moto2 et ses titres en 600. 
+Valentin Ã©voque Ã©galement les Ã©volutions dans les diffÃ©rentes catÃ©gories notamment le SBK.
+Vous pouvez retrouver Valentin Debise sur Facebook  et Instagram ...
+Feed: https://cqeppod.lepodcast.fr/rss</description>
                 
                 
-                <link>https://soundcloud.com/fannycomo/rencontres-18-raphaelle-riviere</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1640004543-fannycomo-rencontres-18-raphaelle-riviere.mp3"/>
-                <guid>https://soundcloud.com/fannycomo/rencontres-18-raphaelle-riviere</guid>
+                <link>https://cqeppod.lepodcast.fr/cqep-entretien-valentin-debise-ssp-gmt94-2023</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/cqeppod/cqep-entretien-valentin-debise-ssp-gmt94-2023/enclosure.d67ecae9e2df1941f9486b7492af53fa58fe86a3d379ef4610fa9d03b50e3f58.mp3?p=f"/>
+                <guid>https://cqeppod.lepodcast.fr/cqep-entretien-valentin-debise-ssp-gmt94-2023</guid>
                 
             </item><item>
-                <title>Le mix de Otavio</title>
-                <description>
-Feed: https://www.rts.ch/couleur3/programmes/metissages/podcast/?flux=rss</description>
+                <title>#149 - Comment te libérer ENFIN de la victimisation ? (Adieu aux Excuses !)</title>
+                <description>Si tu veux te libérer de la victimisation et dire adieu aux excuses, je suis là pour t&#39;expliquer comment.
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/54_30992b45a07b6164e23dd005ea57f08c.rss</description>
                 
                 
-                <link>https://www.rts.ch/couleur3/programmes/metissages/14367051-le-mix-de-otavio-12-10-2023.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/14367051/ebfc3102-95dd-3e9e-baa6-6f94619b55d6.mp3"/>
-                <guid>https://www.rts.ch/couleur3/programmes/metissages/14367051-le-mix-de-otavio-12-10-2023.html</guid>
+                <link>https://www.podcastics.com/podcast/episode/149-comment-te-liberer-enfin-de-la-victimisation-adieu-aux-excuses-257899/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/54/257899.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/149-comment-te-liberer-enfin-de-la-victimisation-adieu-aux-excuses-257899/</guid>
                 
             </item>
         </channel>
