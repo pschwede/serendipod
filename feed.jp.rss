@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 17 Oct 2023 04:21:28 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 19 Oct 2023 04:21:23 +0200</lastBuildDate>
             <item>
-                <title>Main Room Mix 13th Oct 2023</title>
-                <description>Dangerous Dan, Nicky Night Time, Rhonda INTL. ft Julian Mitchell - A History ts DJ Georgie Porgie...
-Feed: https://kelsaudiomixes.podomatic.com/rss2.xml</description>
+                <title>Ep 144: Galaxy Quest (Part 2)</title>
+                <description>Galaxy Quest! Kara yells at actors! Paulo takes a bath! Joz eats a taco! Andy repairs a spaceship! Paulo Quiros – Jason Nesmith Kara Strait – Sir Alexander Dane Joz Vammer – Gwen DeMarco Andy Hoover – Fred Kwan Jon Miller – DM
+Feed: http://www.filmreroll.com/?feed=podcast</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/kelsaudiomixes/episodes/2023-10-13T04_52_52-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/https://kelsaudiomixes.podomatic.com/enclosure/2023-10-13T04_52_52-07_00.mp3?_=1697198005.16786161"/>
-                <guid>https://www.podomatic.com/podcasts/kelsaudiomixes/episodes/2023-10-13T04_52_52-07_00</guid>
+                <link>http://www.filmreroll.com/?p=573</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1629434844-pauloquiros-ep-144-galaxy-quest-part-2.mp3"/>
+                <guid>http://www.filmreroll.com/?p=573</guid>
                 
             </item><item>
-                <title>Ep 188  Ben Raven -Hot Air Ballon - Paramotor - UK Pilot -  Run Into The Sky Nonprofit</title>
-                <description>Ep 188 - Ben Raven Â 
-Iâm Ben, 28 from the UK. Caught the flying bug from flying light aircraft but fell in love with paramotoring. Have been paramotoring since Jan 2019. Have done some instructing of new ppg pilots too. In the last 2 years a Iâve add...
-Feed: https://www.paratalk.org/feed.xml</description>
+                <title>Day Two Cloud 216: Implementing Private AI Architecture With VMware (Sponsored)</title>
+                <description>The goal of private AI is to bring AI models and compute to where your data is stored to ensure privacy and control. On today&#39;s Day Two Cloud, sponsored by VMware, we dig more deeply into private AI, major use cases,
+Feed: https://feeds.packetpushers.net/packetpushersfatpipe/</description>
                 
                 
-                <link>https://www.paratalk.org/e/ep-188-ben-raven-hot-air-ballon-paramotor-uk-pilot-run-into-the-sky-nonprofit/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/vd5kge/GMT20230925-235725_Recording.m4a"/>
-                <guid>https://www.paratalk.org/e/ep-188-ben-raven-hot-air-ballon-paramotor-uk-pilot-run-into-the-sky-nonprofit/</guid>
+                <link>https://packetpushers.net/podcast/day-two-cloud-216-implementing-private-ai-architecture-with-vmware-sponsored/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.packetpushers.net/link/17421/16401386/D2C_216_Implementing_Private_AI_Architecture_With_VMware_Sponsored_.mp3"/>
+                <guid>https://packetpushers.net/podcast/day-two-cloud-216-implementing-private-ai-architecture-with-vmware-sponsored/</guid>
                 
             </item>
         </channel>

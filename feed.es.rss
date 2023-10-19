@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 17 Oct 2023 04:21:16 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 19 Oct 2023 04:21:09 +0200</lastBuildDate>
             <item>
-                <title>Intenciones de oración del Papa Francisco – Octubre 2023 [Video]</title>
-                <description>La Santa Sede ha dado a conocer las intenciones de oración del Papa Francisco para el mes de Octubre 2023. Intención de oración: Por el Sínodo Oremos por la Iglesia, &amp;#8230;
-Feed: http://feed.quechilero.com/IntencionesDeOracionDelPapa</description>
+                <title>Planeta vivo - Purpurina, la biodegradable - 18/10/23</title>
+                <description>Purpurina, la biodegradable
+Feed: http://api.rtve.es/api/programas/8893/audios.rss</description>
                 
                 
-                <link>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-octubre-2023-video/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/9162/intenciones-de-oracion-del-papa-francisco-octubre-2023-video.mp3"/>
-                <guid>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-octubre-2023-video/</guid>
+                <link>https://www.rtve.es/play/audios/planeta-vivo/1758_planeta_vivo__1147____181023___purpurina__la_biodegradable_2023_10_18t16_23_08833/6992495/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/6992495.mp3"/>
+                <guid>https://www.rtve.es/play/audios/planeta-vivo/1758_planeta_vivo__1147____181023___purpurina__la_biodegradable_2023_10_18t16_23_08833/6992495/</guid>
                 
             </item><item>
-                <title>Experiencia</title>
-                <description>wS MP3 Diciembre de 2023 - 07
-Feed: https://apps.jw.org/E_sFFZRQVNZNT?rln=S&amp;rmn=w&amp;rfm=mp3</description>
+                <title>Microondas Radio 180 / Serkin b2b Arde</title>
+                <description>Serkin y Arde nos sumergen en el sonido de Volta …
+Feed: https://feeds.feedburner.com/MicroondasRadio</description>
                 
                 
-                <link>https://d34ji3l0qn3w2t.cloudfront.net/22236241-5e30-420f-94cb-03dbc75012df/2/w_S_202312_07.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://d34ji3l0qn3w2t.cloudfront.net/22236241-5e30-420f-94cb-03dbc75012df/2/w_S_202312_07.mp3"/>
-                <guid>https://d34ji3l0qn3w2t.cloudfront.net/22236241-5e30-420f-94cb-03dbc75012df/2/w_S_202312_07.mp3</guid>
+                <link>https://soundcloud.com/microondas/microondas-radio-180-serkin-b2b-arde-mix</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1621134606-microondas-microondas-radio-180-serkin-b2b-arde-mix.mp3"/>
+                <guid>https://soundcloud.com/microondas/microondas-radio-180-serkin-b2b-arde-mix</guid>
                 
             </item>
         </channel>

@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 17 Oct 2023 04:21:24 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 19 Oct 2023 04:21:19 +0200</lastBuildDate>
             <item>
-                <title>Main Room Mix 13th Oct 2023</title>
-                <description>Dangerous Dan, Nicky Night Time, Rhonda INTL. ft Julian Mitchell - A History ts DJ Georgie Porgie...
-Feed: https://kelsaudiomixes.podomatic.com/rss2.xml</description>
+                <title>Welcome to the SITREP Podcast: Open Topic Show</title>
+                <description>Join Bill and Oriskany Jim as we talk about a wide range of topics on todays show!
+Feed: https://feed.podbean.com/sitreppodcast/feed.xml</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/kelsaudiomixes/episodes/2023-10-13T04_52_52-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/https://kelsaudiomixes.podomatic.com/enclosure/2023-10-13T04_52_52-07_00.mp3?_=1697198005.16786161"/>
-                <guid>https://www.podomatic.com/podcasts/kelsaudiomixes/episodes/2023-10-13T04_52_52-07_00</guid>
+                <link>https://sitreppodcast.podbean.com/e/welcome-to-the-sitrep-podcast-open-topic-show/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/uen3h4/1240530-1696773902548_restream.m4a"/>
+                <guid>https://sitreppodcast.podbean.com/e/welcome-to-the-sitrep-podcast-open-topic-show/</guid>
                 
             </item><item>
-                <title>Méthode d&#39;Anglais Leçon 40.2</title>
-                <description> Une méthode qui a fait ses preuves, spécialement conçue pour les débutants et faux-débutants ! 
- 
-96 leçons disponibles avec pour chaque leçon :
- 
-- Des dialogues variés, concrets et tirés du quotidien 
- 
-- Des explications ...
-Feed: https://feeds.audiomeans.fr/feed/ce5b5f2d-bf14-444d-839a-9247f442fbcd.xml</description>
+                <title>Day Two Cloud 216: Implementing Private AI Architecture With VMware (Sponsored)</title>
+                <description>The goal of private AI is to bring AI models and compute to where your data is stored to ensure privacy and control. On today&#39;s Day Two Cloud, sponsored by VMware, we dig more deeply into private AI, major use cases,
+Feed: https://feeds.packetpushers.net/packetpushersfatpipe/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/023852ac-8f49-461a-9b59-7a691b96c237.mp3?_=1696605153"/>
-                <guid></guid>
+                <link>https://packetpushers.net/podcast/day-two-cloud-216-implementing-private-ai-architecture-with-vmware-sponsored/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.packetpushers.net/link/17421/16401386/D2C_216_Implementing_Private_AI_Architecture_With_VMware_Sponsored_.mp3"/>
+                <guid>https://packetpushers.net/podcast/day-two-cloud-216-implementing-private-ai-architecture-with-vmware-sponsored/</guid>
                 
             </item>
         </channel>
