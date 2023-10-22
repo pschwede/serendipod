@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 19 Oct 2023 04:21:09 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 22 Oct 2023 04:20:34 +0200</lastBuildDate>
             <item>
-                <title>Planeta vivo - Purpurina, la biodegradable - 18/10/23</title>
-                <description>Purpurina, la biodegradable
-Feed: http://api.rtve.es/api/programas/8893/audios.rss</description>
-                
-                
-                <link>https://www.rtve.es/play/audios/planeta-vivo/1758_planeta_vivo__1147____181023___purpurina__la_biodegradable_2023_10_18t16_23_08833/6992495/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/6992495.mp3"/>
-                <guid>https://www.rtve.es/play/audios/planeta-vivo/1758_planeta_vivo__1147____181023___purpurina__la_biodegradable_2023_10_18t16_23_08833/6992495/</guid>
-                
-            </item><item>
                 <title>Microondas Radio 180 / Serkin b2b Arde</title>
                 <description>Serkin y Arde nos sumergen en el sonido de Volta …
 Feed: https://feeds.feedburner.com/MicroondasRadio</description>
@@ -29,6 +19,16 @@ Feed: https://feeds.feedburner.com/MicroondasRadio</description>
                 <link>https://soundcloud.com/microondas/microondas-radio-180-serkin-b2b-arde-mix</link>
                 <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1621134606-microondas-microondas-radio-180-serkin-b2b-arde-mix.mp3"/>
                 <guid>https://soundcloud.com/microondas/microondas-radio-180-serkin-b2b-arde-mix</guid>
+                
+            </item><item>
+                <title>Respuestas de la Ciencia - ¿Qué es un batolito? - 10/10/23 </title>
+                <description>¿Qué es un batolito?
+Feed: http://www.rtve.es/api/programas/50191/audios.rss</description>
+                
+                
+                <link>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-batolito/6986405/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/6986405.mp3"/>
+                <guid>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-batolito/6986405/</guid>
                 
             </item>
         </channel>

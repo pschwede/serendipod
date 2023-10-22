@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 19 Oct 2023 04:21:19 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 22 Oct 2023 04:20:44 +0200</lastBuildDate>
             <item>
-                <title>Welcome to the SITREP Podcast: Open Topic Show</title>
-                <description>Join Bill and Oriskany Jim as we talk about a wide range of topics on todays show!
-Feed: https://feed.podbean.com/sitreppodcast/feed.xml</description>
+                <title>Cheese &amp; Kraken</title>
+                <description>Joyce Vance hosts #SistersInLaw to analyze the guilty pleas of Kenneth Chesebro and Sidney Powell in Georgia, why they got off relatively easy, and what their convictions mean for the other defendants.  Then, they discuss the DOJ’s class action settlement on behalf of immigrant families separated at the border, with a look at how they’re being compensated and the steps the government must take to make sure it never happens again...
+Feed: https://audioboom.com/channels/5043432.rss</description>
                 
                 
-                <link>https://sitreppodcast.podbean.com/e/welcome-to-the-sitrep-podcast-open-topic-show/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/uen3h4/1240530-1696773902548_restream.m4a"/>
-                <guid>https://sitreppodcast.podbean.com/e/welcome-to-the-sitrep-podcast-open-topic-show/</guid>
+                <link>https://audioboom.com/posts/8388208</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/ABMA5/audioboom.com/posts/8388208.mp3?modified=1697863146&amp;sid=5043432&amp;source=rss&amp;rssua=FeedFetcher-Google%3B"/>
+                <guid>https://audioboom.com/posts/8388208</guid>
                 
             </item><item>
-                <title>Day Two Cloud 216: Implementing Private AI Architecture With VMware (Sponsored)</title>
-                <description>The goal of private AI is to bring AI models and compute to where your data is stored to ensure privacy and control. On today&#39;s Day Two Cloud, sponsored by VMware, we dig more deeply into private AI, major use cases,
-Feed: https://feeds.packetpushers.net/packetpushersfatpipe/</description>
+                <title>Is It Good To Be King?</title>
+                <description>We’ve been spending a lot of time with England lately… and there’s a good reason for that.  England was the main target of the Norman invasion, and everything changed for the Kingdom when William arrived.  Furthermore, the nature of our surviving sources is that they were more likely to survive if they were Norman sources. […]
+Feed: https://feeds.feedburner.com/TheBritishHistoryPodcast</description>
                 
                 
-                <link>https://packetpushers.net/podcast/day-two-cloud-216-implementing-private-ai-architecture-with-vmware-sponsored/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.packetpushers.net/link/17421/16401386/D2C_216_Implementing_Private_AI_Architecture_With_VMware_Sponsored_.mp3"/>
-                <guid>https://packetpushers.net/podcast/day-two-cloud-216-implementing-private-ai-architecture-with-vmware-sponsored/</guid>
+                <link>https://www.thebritishhistorypodcast.com/430-is-it-good-to-be-king/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/britishhistory/www.thebritishhistorypodcast.com/episodes/430.mp3"/>
+                <guid>https://www.thebritishhistorypodcast.com/430-is-it-good-to-be-king/</guid>
                 
             </item>
         </channel>

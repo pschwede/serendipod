@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 19 Oct 2023 04:21:14 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 22 Oct 2023 04:20:39 +0200</lastBuildDate>
             <item>
-                <title>O que deve fazer Israel?</title>
-                <description>Edição de 17 Outubro 2023
-Feed: http://feeds.tsf.pt/AOpiniaoDeDanielOliveira</description>
+                <title>Ep 664 - Somos Ícaros Adiados</title>
+                <description>Apeadeiros da conversa:
+.Insuflar o silêncio de …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:386738054/sounds.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/10/opiniao_20231017121230/mp3/opiniao_20231017121230.mp3"/>
-                <guid></guid>
+                <link>https://soundcloud.com/tuneldevento/ep-664-somos-icaros-adiados</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1641258552-tuneldevento-ep-664-somos-icaros-adiados.mp3"/>
+                <guid>https://soundcloud.com/tuneldevento/ep-664-somos-icaros-adiados</guid>
                 
             </item><item>
-                <title>#349 &#34;O Som da Papagaiada&#34; - com Caio Almendra</title>
-                <description>Saudações pessoas! Mais uma edição do Vira e mais uma edição de nossa sessão especial de cinema onde cumprimos a árdua missão de assistir a algum filme-bomba para que você possa saber de tudo sem precisar passar por isso! E a bola da vez é...
-Feed: https://viracasacas.libsyn.com/rss</description>
+                <title>Regras do Jogo – 200 Episódios, BGS e barzinho</title>
+                <description>Neste episódio mega especial, Fernando, Guilherme e Anderson comemoram a marca de 200 episódios do Regras do Jogo e relembram histórias pessoais. Falamos também do primeiro dia da BGS e o calendário de eventos desse fim de semana. 
+Agradecemos a nossa audiência por nos acompanhar por tanto tempo, esse trabalho não seria possível sem vocês. Nos vemos nos próximos 100 episódios!
+Ajude a financiar o Holodeck Design no Apoia.se ou fazendo doações pelo PicPay...
+Feed: https://www.holodeckdesign.com.br/feed/podcast/</description>
                 
                 
-                <link>https://viracasacas.libsyn.com/349-o-som-da-papagaiada-com-caio-almendra</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/viracasacas/VC_349.mp3?dest-id=803878"/>
-                <guid>https://viracasacas.libsyn.com/349-o-som-da-papagaiada-com-caio-almendra</guid>
+                <link>https://www.holodeckdesign.com.br/regras-do-jogo-200-episodios-bgs-e-barzinho/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=regras-do-jogo-200-episodios-bgs-e-barzinho</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/holodeckdesign/www.holodeckdesign.com.br/podcast/regras_do_jogo_200.mp3"/>
+                <guid>https://www.holodeckdesign.com.br/regras-do-jogo-200-episodios-bgs-e-barzinho/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=regras-do-jogo-200-episodios-bgs-e-barzinho</guid>
                 
             </item>
         </channel>
