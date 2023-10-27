@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 22 Oct 2023 04:20:28 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 27 Oct 2023 04:21:01 +0200</lastBuildDate>
             <item>
-                <title>Elkin Polo El Show : 10/21/2023 13:00</title>
-                <description>709-298791
-Feed: http://podcast.cism893.ca/radioshows/709/feed_itunes.xml</description>
+                <title>100% Live Taratata - France 2 - 20/10/2023</title>
+                <description>100% Live Taratata - France 2
+Feed: http://www.obispoonline.com/rss/podcast.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/298791.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/298791.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/298791.mp3</guid>
+                <link>https://www.obispoonline.com/rss/taratata2023.mp4</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.obispoonline.com/rss/taratata2023.mp4"/>
+                <guid>https://www.obispoonline.com/rss/taratata2023.mp4</guid>
                 
             </item><item>
-                <title>Place des religions, Marseille : la fête</title>
-                <description>Place des religions, saison 7 : Marseille 
-À l’occasion de la venue du pape François à Marseille, les 22 et 23 septembre, La Croix donne la parole aux habitants de la ville. Alain Sportouch, Xavier Nataf et Françoise Mercier ont chacun été invités à u...
-Feed: https://feed.ausha.co/bVOzmcG6wpjm</description>
+                <title>LES NOCTURNES DU 06/10/2023</title>
+                <description>Ecoutez Les Nocturnes du 06 octobre 2023 avec Georges Lang.
+Feed: https://feeds.audiomeans.fr/feed/295c47c9-8837-4bba-840a-c53a72498512.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/place-des-religions/place-des-religions-marseille-la-fete</link>
-                <enclosure type="audio/mpeg" length="1" url="https://bayard.proxycast.org/m/media/244044219087.mp3?c=place-des-religions&amp;p=7&amp;l3=place-des-religions-marseille-la-fete&amp;l4=2023-09-21+23%3A00%3A00&amp;media_url=https%3A%2F%2Faudio.ausha.co%2Fb31VQIJWvzDa.mp3%3Ft%3D1695115609"/>
-                <guid>https://podcast.ausha.co/place-des-religions/place-des-religions-marseille-la-fete</guid>
+                <link>https://www.rtl.fr/programmes/les-nocturnes</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rtl.proxycast.org/3115126411677937664/cbfc9f8d-f051-4f77-bff9-f0648a4b0f6f.mp3?u=FbteVXJUvY&amp;_=1696634284"/>
+                <guid>https://www.rtl.fr/programmes/les-nocturnes</guid>
                 
             </item>
         </channel>

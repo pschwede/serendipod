@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 22 Oct 2023 04:20:34 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 27 Oct 2023 04:21:06 +0200</lastBuildDate>
             <item>
-                <title>Microondas Radio 180 / Serkin b2b Arde</title>
-                <description>Serkin y Arde nos sumergen en el sonido de Volta …
-Feed: https://feeds.feedburner.com/MicroondasRadio</description>
+                <title>Radioyentes 338 Anguita, rutas y votos</title>
+                <description>Damos inicio una semana m&amp;aacute;s a nuestro podcast Radioyentes y lo hacemos hablando de Anguita y Julio que es un espacio narrativo que cuenta la historia de este pol&amp;iacute;tico a lo largo de seis episodios, que nos llegan gracias a Cord&amp;oacute;polis y elDiario.es, que han producido este documental sonoro sobre el pol&amp;iacute;tico cordob&amp;eacute;s, convertido en referente nacional.
+Agradecimientos para:
+Jos&amp;eacute; Antonio Laboreo de Radio Villegas
+Sinton&amp;iacute;a: de Junior Menezes
+Feed: https://www.ivoox.com/podcast-radioyentes_fg_f1463235_filtro_1.xml</description>
                 
                 
-                <link>https://soundcloud.com/microondas/microondas-radio-180-serkin-b2b-arde-mix</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1621134606-microondas-microondas-radio-180-serkin-b2b-arde-mix.mp3"/>
-                <guid>https://soundcloud.com/microondas/microondas-radio-180-serkin-b2b-arde-mix</guid>
+                <link>http://www.ivoox.com/radioyentes-338-anguita-rutas-votos-audios-mp3_rf_112093459_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-338-anguita-rutas-votos_mf_112093459_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/radioyentes-338-anguita-rutas-votos-audios-mp3_rf_112093459_1.html</guid>
                 
             </item><item>
-                <title>Respuestas de la Ciencia - ¿Qué es un batolito? - 10/10/23 </title>
-                <description>¿Qué es un batolito?
-Feed: http://www.rtve.es/api/programas/50191/audios.rss</description>
+                <title>PRIMER PLANO con EL CHINO LABORDE</title>
+                <description>Muchos nos hecmos acercado al tango del siglo XX, con sus grandes figuras, con sus canciones inmortales, pero en el siglo XXI se sigue haciendo un muy buen tango y &#39;El Chino&#39; Laborde es uno de sus m&amp;aacute;ximos exponentes. Dentro de nada le tendremos en concierto en Espa&amp;ntilde;a y hemos podido hablar con &amp;eacute;l sobre su m&amp;uacute;sica, sobre el tango y sobre todo lo que todav&amp;iacute;a dice el m&amp;aacute;s inmortal de los g&amp;eacute;neros musicales argentinos.
+Feed: https://www.ivoox.com/primer-plano_fg_f1237454_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-batolito/6986405/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/6986405.mp3"/>
-                <guid>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-batolito/6986405/</guid>
+                <link>https://www.ivoox.com/primer-plano-el-chino-laborde-audios-mp3_rf_118168426_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-el-chino-laborde_mf_118168426_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/primer-plano-el-chino-laborde-audios-mp3_rf_118168426_1.html</guid>
                 
             </item>
         </channel>
