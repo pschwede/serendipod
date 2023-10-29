@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 27 Oct 2023 04:21:01 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Oct 2023 04:20:15 +0200</lastBuildDate>
             <item>
-                <title>100% Live Taratata - France 2 - 20/10/2023</title>
-                <description>100% Live Taratata - France 2
-Feed: http://www.obispoonline.com/rss/podcast.xml</description>
+                <title>OEC 276 : Des Mickey dans les Cadeaux</title>
+                <description>Du cinéma de banlieue, du polar tropical,  de la survie campagnarde, et de la science en marche...
+Feed: https://oec.lepodcast.fr/rss</description>
                 
                 
-                <link>https://www.obispoonline.com/rss/taratata2023.mp4</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.obispoonline.com/rss/taratata2023.mp4"/>
-                <guid>https://www.obispoonline.com/rss/taratata2023.mp4</guid>
+                <link>https://www.lavoixdesbulles.fr/oec-276-des-mickey-dans-les-cadeaux/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/oec/oec-276-des-mickey-dans-les-cadeaux/enclosure.4009064f6ba3f2588c915e5583fda36e3cf057eac4ff46f3f60b29b39da0fdd4.mp3?p=f"/>
+                <guid>https://www.lavoixdesbulles.fr/oec-276-des-mickey-dans-les-cadeaux/</guid>
                 
             </item><item>
-                <title>LES NOCTURNES DU 06/10/2023</title>
-                <description>Ecoutez Les Nocturnes du 06 octobre 2023 avec Georges Lang.
-Feed: https://feeds.audiomeans.fr/feed/295c47c9-8837-4bba-840a-c53a72498512.xml</description>
+                <title>Jérôme Mercier (Campings.com) - Comment t&#39;as fait pour passer d&#39;ingénieur à co-fondateur de Kelkoo ou CEO de Campings.com ? Ép.114</title>
+                <description>Jérôme Mercier (https://www.linkedin.com/in/jpamercier/), c&#39;est l&#39;histoire d&#39;un ingénieur qui a toujours considéré qu&#39;il était important de disposer d&#39;une double compétence : après un début de carrière dans l&#39;ingénierie, il co-fonde Kelkoo en 1999 qu&#39;i...
+Feed: https://feed.ausha.co/B6EYWTGNrkQq</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/les-nocturnes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rtl.proxycast.org/3115126411677937664/cbfc9f8d-f051-4f77-bff9-f0648a4b0f6f.mp3?u=FbteVXJUvY&amp;_=1696634284"/>
-                <guid>https://www.rtl.fr/programmes/les-nocturnes</guid>
+                <link>https://podcast.ausha.co/comment-t-as-fait-les-rencontres-d-entrepreneurs/jerome-mercier-campings-com-comment-t-as-fait-pour-passer-d-ingenieur-a-co-fondateur-de-kelkoo-ou-ceo-de-campings</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.soundcast.io/v1/stitch/ausha.mp3?tags=61efe35a52fe6&amp;apiKey=c1a94b3301c64853868548ac73233ca1&amp;podcastUrl=https%3A%2F%2Faudio.ausha.co%2FBqWrvhJDVpl4.mp3%3Ft%3D1698007228"/>
+                <guid>https://podcast.ausha.co/comment-t-as-fait-les-rencontres-d-entrepreneurs/jerome-mercier-campings-com-comment-t-as-fait-pour-passer-d-ingenieur-a-co-fondateur-de-kelkoo-ou-ceo-de-campings</guid>
                 
             </item>
         </channel>

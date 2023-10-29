@@ -9,29 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 27 Oct 2023 04:21:06 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Oct 2023 04:20:20 +0200</lastBuildDate>
             <item>
-                <title>Radioyentes 338 Anguita, rutas y votos</title>
-                <description>Damos inicio una semana m&amp;aacute;s a nuestro podcast Radioyentes y lo hacemos hablando de Anguita y Julio que es un espacio narrativo que cuenta la historia de este pol&amp;iacute;tico a lo largo de seis episodios, que nos llegan gracias a Cord&amp;oacute;polis y elDiario.es, que han producido este documental sonoro sobre el pol&amp;iacute;tico cordob&amp;eacute;s, convertido en referente nacional.
-Agradecimientos para:
-Jos&amp;eacute; Antonio Laboreo de Radio Villegas
-Sinton&amp;iacute;a: de Junior Menezes
-Feed: https://www.ivoox.com/podcast-radioyentes_fg_f1463235_filtro_1.xml</description>
+                <title>Tarataña - De Juanjo Robles al &#39;Magusto&#39; de Carbajo - 28/10/23</title>
+                <description>De Juanjo Robles al &#39;Magusto&#39; de Carbajo
+Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/radioyentes-338-anguita-rutas-votos-audios-mp3_rf_112093459_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-338-anguita-rutas-votos_mf_112093459_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/radioyentes-338-anguita-rutas-votos-audios-mp3_rf_112093459_1.html</guid>
+                <link>https://www.rtve.es/play/audios/taratana/juanjo-robles-magusto-carbajo-28-10-23/6998039/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/6998039.mp3"/>
+                <guid>https://www.rtve.es/play/audios/taratana/juanjo-robles-magusto-carbajo-28-10-23/6998039/</guid>
                 
             </item><item>
-                <title>PRIMER PLANO con EL CHINO LABORDE</title>
-                <description>Muchos nos hecmos acercado al tango del siglo XX, con sus grandes figuras, con sus canciones inmortales, pero en el siglo XXI se sigue haciendo un muy buen tango y &#39;El Chino&#39; Laborde es uno de sus m&amp;aacute;ximos exponentes. Dentro de nada le tendremos en concierto en Espa&amp;ntilde;a y hemos podido hablar con &amp;eacute;l sobre su m&amp;uacute;sica, sobre el tango y sobre todo lo que todav&amp;iacute;a dice el m&amp;aacute;s inmortal de los g&amp;eacute;neros musicales argentinos.
-Feed: https://www.ivoox.com/primer-plano_fg_f1237454_filtro_1.xml</description>
+                <title>Actividades comunitarias con personal de servicio público #Misc</title>
+                <description>&lt;p&gt;Algo que se suele hacer en los Estados Unidos son actividades organizadas por funcionarios y personal de servicios públicos (Bomberos, Policías, Bibliotecarios, etc..), donde participa gran parte de la Comunidad.&lt;/p&gt;
+&lt;p&gt;PD: QEPD Matthew Perry…&lt;/p&gt;
+&lt;p&gt;Me pueden contactar en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/contacto.html&lt;/p&gt;
+&lt;p&gt;Todos los medios donde publico contenido los encuentras en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/&lt;/p&gt;
+
+Feed: https://comopiensodigo.com/@comopiensodigo/feed.xml</description>
                 
                 
-                <link>https://www.ivoox.com/primer-plano-el-chino-laborde-audios-mp3_rf_118168426_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-el-chino-laborde_mf_118168426_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/primer-plano-el-chino-laborde-audios-mp3_rf_118168426_1.html</guid>
+                <link>https://comopiensodigo.com/@comopiensodigo/episodes/actividades-comunitarias-con-personal-de-servicio-publico</link>
+                <enclosure type="audio/mpeg" length="1" url="https://comopiensodigo.com/audio/@comopiensodigo/actividades-comunitarias-con-personal-de-servicio-publico.mp3?_from=fyyd.de"/>
+                <guid>https://comopiensodigo.com/@comopiensodigo/episodes/actividades-comunitarias-con-personal-de-servicio-publico</guid>
                 
             </item>
         </channel>

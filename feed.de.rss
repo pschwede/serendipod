@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 27 Oct 2023 04:20:56 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Oct 2023 04:20:11 +0200</lastBuildDate>
             <item>
-                <title>Themenfrühstück: Dortmund schlägt auch Newcastle. Jegliche Zweifel an Terzic ausgeräumt?</title>
-                <description>Donnerstag: Tim und Louis sprechen über Dortmunds Sieg in Nordengland und schauen voraus auf die heutigen Europapokalspiele der deutschen Mannschaften! Außerdem erzählt Tim von seinen Eindrücken aus dem Interview mit Christian Streich, welches in der neuen 11FREUNDE-Ausgabe zu lesen ist!
-+++ Alle Rabattcodes und Infos zu unseren Werbepartnern findet ihr hier: https://linktr.ee/11_freunde_taeglich +++
-+++ Unsere allgemeinen Datenschutzrichtlinien finden Sie unter https://datenschutz.ad-alliance...
-Feed: https://rss.art19.com/11freunde</description>
+                <title>Steuerparadies Ehe: Ist das Ehegattensplitting noch gerecht?</title>
+                <description>Katrin Reese ärgert sich über ihren Steuerbescheid. Auf dem steht, dass sie als alleinerziehende Mutter viel mehr Steuern zahlen muss, als wenn sie verheiratet wäre.
+Feed: https://www1.wdr.de/mediathek/video/podcast/channel-die-story-100.podcast</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/64ce45fc-0f95-449d-b00b-f5933616c225.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://www1.wdr.de/mediathek/video/sendungen/die-story/die-story-steuerparadies-ehe-ist-das-ehegattensplitting-noch-gerecht-clip-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/deChAt/fsk0/300/3006476/3006476_54456233.mp4"/>
+                <guid>https://www1.wdr.de/mediathek/video/sendungen/die-story/die-story-steuerparadies-ehe-ist-das-ehegattensplitting-noch-gerecht-clip-100.html</guid>
                 
             </item><item>
-                <title>Deine Zuversicht kehrt zurück</title>
-                <description>Bernhard Olpen
-Feed: https://czd.de/feed/mp3/</description>
+                <title>Was ist wirklich dran an populären Argumenten von Windkraftgegnern?</title>
+                <description>Windräder stoßen bei manchen auf stürmischen Widerstand. Warum viele Warnungen schnell widerlegt werden können, erklärt Energieberater Rupert Wychera
+Feed: https://editionzukunft.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://fokus-kirche.de/deine-zuversicht-kehrt-zurueck-einzelpredigt/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fokus-kirche.de/podcast/Deine%20Zuversicht%20kehrt%20zur%C3%BCck%20-%20Einzelpredigt.mp3"/>
-                <guid>https://fokus-kirche.de/deine-zuversicht-kehrt-zurueck-einzelpredigt/</guid>
+                <link>https://www.derstandard.at/story/3000000192667</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1259721-m-55b126d89c1f7c5b9c9d24faeb2ac627.mp3?source=feed"/>
+                <guid>https://www.derstandard.at/story/3000000192667</guid>
                 
             </item>
         </channel>
