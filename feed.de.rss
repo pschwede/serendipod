@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 29 Oct 2023 04:20:11 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 30 Oct 2023 04:21:16 +0200</lastBuildDate>
             <item>
-                <title>Steuerparadies Ehe: Ist das Ehegattensplitting noch gerecht?</title>
-                <description>Katrin Reese ärgert sich über ihren Steuerbescheid. Auf dem steht, dass sie als alleinerziehende Mutter viel mehr Steuern zahlen muss, als wenn sie verheiratet wäre.
-Feed: https://www1.wdr.de/mediathek/video/podcast/channel-die-story-100.podcast</description>
+                <title>Der perfekte Allerheiligenstriezel von Bäckermeister Franz Brandl aus Linz – #19</title>
+                <description>An Allerheiligen ist es in vielen Regionen Österreichs Tradition, einen Striezel zu backen. Aber woher kommt das eigentlich und wie gelingt der Germteigzopf ganz sicher? Das erfahren Sie von Bäcker Franz Brandl aus Linz.
+Stadtbäcker Franz Brandl...
+Feed: https://www.spreaker.com/show/4515570/episodes/feed</description>
                 
                 
-                <link>https://www1.wdr.de/mediathek/video/sendungen/die-story/die-story-steuerparadies-ehe-ist-das-ehegattensplitting-noch-gerecht-clip-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/deChAt/fsk0/300/3006476/3006476_54456233.mp4"/>
-                <guid>https://www1.wdr.de/mediathek/video/sendungen/die-story/die-story-steuerparadies-ehe-ist-das-ehegattensplitting-noch-gerecht-clip-100.html</guid>
+                <link>https://www.spreaker.com/user/redbull/servus-gutekueche-f19-allerheiligenstrie</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/7B3821/api.spreaker.com/download/episode/57412494/19_servus_gute_kueche_allerheiligenstriezel_final_mixdown.mp3"/>
+                <guid>https://www.spreaker.com/user/redbull/servus-gutekueche-f19-allerheiligenstrie</guid>
                 
             </item><item>
-                <title>Was ist wirklich dran an populären Argumenten von Windkraftgegnern?</title>
-                <description>Windräder stoßen bei manchen auf stürmischen Widerstand. Warum viele Warnungen schnell widerlegt werden können, erklärt Energieberater Rupert Wychera
-Feed: https://editionzukunft.podigee.io/feed/mp3</description>
+                <title>Der Glory-Hole-Adventskalender</title>
+                <description>Digga, Alter!
+Feed: https://sprechstunde.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.derstandard.at/story/3000000192667</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1259721-m-55b126d89c1f7c5b9c9d24faeb2ac627.mp3?source=feed"/>
-                <guid>https://www.derstandard.at/story/3000000192667</guid>
+                <link>https://sprechstunde.podigee.io/427-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1259958-m-3933b04f087e3e0cba2a40d5992bd3a3.mp3?source=feed"/>
+                <guid>https://sprechstunde.podigee.io/427-new-episode</guid>
                 
             </item>
         </channel>
