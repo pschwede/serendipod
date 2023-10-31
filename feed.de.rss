@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 30 Oct 2023 04:21:16 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 31 Oct 2023 04:20:53 +0200</lastBuildDate>
             <item>
-                <title>Der perfekte Allerheiligenstriezel von Bäckermeister Franz Brandl aus Linz – #19</title>
-                <description>An Allerheiligen ist es in vielen Regionen Österreichs Tradition, einen Striezel zu backen. Aber woher kommt das eigentlich und wie gelingt der Germteigzopf ganz sicher? Das erfahren Sie von Bäcker Franz Brandl aus Linz.
-Stadtbäcker Franz Brandl...
-Feed: https://www.spreaker.com/show/4515570/episodes/feed</description>
+                <title>Radio Jorns #70</title>
+                <description>Musik und Fotografie für Liebhaber
+Feed: https://letscast.fm/podcasts/radio-jorns-5a9af248/feed</description>
                 
                 
-                <link>https://www.spreaker.com/user/redbull/servus-gutekueche-f19-allerheiligenstrie</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/7B3821/api.spreaker.com/download/episode/57412494/19_servus_gute_kueche_allerheiligenstriezel_final_mixdown.mp3"/>
-                <guid>https://www.spreaker.com/user/redbull/servus-gutekueche-f19-allerheiligenstrie</guid>
+                <link>https://radiojorns.letscast.fm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/57a87b20/episode/9b8a0c26.mp3?t=1697806332"/>
+                <guid>https://radiojorns.letscast.fm</guid>
                 
             </item><item>
-                <title>Der Glory-Hole-Adventskalender</title>
-                <description>Digga, Alter!
-Feed: https://sprechstunde.podigee.io/feed/mp3</description>
+                <title>Niederlande: Verseuchte Böden, ausgelaugte Politik</title>
+                <description>In den Niederlanden sind viele Böden überdüngt und mit Stickstoff verseucht. Darum wollte die Regierung Rutte Bauern davon überzeugen, ihre Höfe aufzugeben. Doch dieser Plan ist umstritten und erschüttert die niederländische Politik.
+Feed: https://www.srf.ch/feed/podcast/sd/a8c3c0a7-46ee-4cde-9a63-cc735f19aaf9.xml</description>
                 
                 
-                <link>https://sprechstunde.podigee.io/427-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1259958-m-3933b04f087e3e0cba2a40d5992bd3a3.mp3?source=feed"/>
-                <guid>https://sprechstunde.podigee.io/427-new-episode</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.srf.ch/world/audio/International_28-10-2023-0908.1698398185261.mp3?assetId=df2aca1c-85dd-4e0c-8dcf-5a6bae224cf6"/>
+                <guid></guid>
                 
             </item>
         </channel>
