@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Oct 2023 04:20:53 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 Nov 2023 04:21:10 +0200</lastBuildDate>
             <item>
-                <title>Radio Jorns #70</title>
-                <description>Musik und Fotografie für Liebhaber
-Feed: https://letscast.fm/podcasts/radio-jorns-5a9af248/feed</description>
+                <title>Was Jesus in uns sieht</title>
+                <description>Einzelne Predigten | Nico Strobel | https://www.youtube.com/watch?v=rH5vUvYGHiQ |
+Feed: https://fcg-bielefeld.de/feed/?post_type=wpfc_sermon</description>
                 
                 
-                <link>https://radiojorns.letscast.fm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/57a87b20/episode/9b8a0c26.mp3?t=1697806332"/>
-                <guid>https://radiojorns.letscast.fm</guid>
+                <link>https://fcg-bielefeld.de/predigt/was-jesus-in-uns-sieht/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://dts.podtrac.com/redirect.mp3/http://fcg-bielefeld.de/wp-content/uploads/2023/10/2023-10-29_Einzelne_Predigten_Was_Jesus_in_uns_sieht_Nico_Strobel.mp3"/>
+                <guid>https://fcg-bielefeld.de/predigt/was-jesus-in-uns-sieht/</guid>
                 
             </item><item>
-                <title>Niederlande: Verseuchte Böden, ausgelaugte Politik</title>
-                <description>In den Niederlanden sind viele Böden überdüngt und mit Stickstoff verseucht. Darum wollte die Regierung Rutte Bauern davon überzeugen, ihre Höfe aufzugeben. Doch dieser Plan ist umstritten und erschüttert die niederländische Politik.
-Feed: https://www.srf.ch/feed/podcast/sd/a8c3c0a7-46ee-4cde-9a63-cc735f19aaf9.xml</description>
+                <title>Episode 167 – Das Netz fragt den Technik-Chef, Teil 1</title>
+                <description>Die Zukunft von Glasfaser und Kupfernetz
+Feed: https://telekomnetz-der-podcast.podigee.io/feed/mp3</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.srf.ch/world/audio/International_28-10-2023-0908.1698398185261.mp3?assetId=df2aca1c-85dd-4e0c-8dcf-5a6bae224cf6"/>
-                <guid></guid>
+                <link>https://telekomnetz-der-podcast.podigee.io/172-162-episode-167</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1259611-m-d5be4ffd5e03c72dd7e2411cec28f740.mp3?source=feed"/>
+                <guid>https://telekomnetz-der-podcast.podigee.io/172-162-episode-167</guid>
                 
             </item>
         </channel>

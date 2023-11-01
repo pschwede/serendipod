@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Oct 2023 04:21:02 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 Nov 2023 04:21:18 +0200</lastBuildDate>
             <item>
-                <title>Respuestas de la Ciencia - ¿Qué es un batolito? - 10/10/23 </title>
-                <description>¿Qué es un batolito?
-Feed: http://www.rtve.es/api/programas/50191/audios.rss</description>
+                <title>Pero que invento es esto! - La silla y su variante más tenebrosa</title>
+                <description>La silla y su variante más tenebrosa
+Feed: https://www.rtve.es/api/programas/133133/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-batolito/6986405/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/6986405.mp3"/>
-                <guid>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-batolito/6986405/</guid>
+                <link>https://www.rtve.es/play/audios/pero-que-invento-es-esto/silla-variante-tenebrosa/6999014/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/6999014.mp3"/>
+                <guid>https://www.rtve.es/play/audios/pero-que-invento-es-esto/silla-variante-tenebrosa/6999014/</guid>
                 
             </item><item>
-                <title>Maguiaventuras en el Chimborazo feat Camilo Pardo -  Capítulo 200</title>
-                <description>Hoy, prestado por Fucks News, nos acompaña el mago Camilo Pardo. ¿Cómo se sobrevive a un golpe en el baño? ¿Qué hizo Checho en New York? Hoy Paulo nos cuenta la segunda parte de su extraña despedida en Londres. ¿Por qué lo encontraron en un baño de...
-Feed: https://www.spreaker.com/show/4081707/episodes/feed</description>
+                <title>Hoy traemos a Platicando al cantante Mexicano Javier Solís </title>
+                <description>Gabriel Siria Levario (Ciudad de México, 4 de septiembre de 1931-Ciudad de México, 19 de abril de 1966), conocido como Javier Solís, fue un cantante y actor mexicano. Se inició como cantante presentándose en restaurantes y como parte primero del Dúo Guadalajara y luego del Trío Flamingo, llamado después Trío México, con sus amigos Pablo Flores y Miguel Ortiz Reyes.  
+Feed: https://eiberoamerica.com/feed/platicando.xml</description>
                 
                 
-                <link>https://www.spreaker.com/user/11591262/los-impopulares-cap-200</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/57210397/los_impopulares_cap_200.mp3"/>
-                <guid>https://www.spreaker.com/user/11591262/los-impopulares-cap-200</guid>
+                <link>http://eiberoamerica.com/podcast/platicando/0768_GabrielSiriaLevarioJavierSolis.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0768_GabrielSiriaLevarioJavierSolis.mp3"/>
+                <guid>http://eiberoamerica.com/podcast/platicando/0768_GabrielSiriaLevarioJavierSolis.mp3</guid>
                 
             </item>
         </channel>

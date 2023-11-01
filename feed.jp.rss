@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Oct 2023 04:21:14 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 Nov 2023 04:21:31 +0200</lastBuildDate>
             <item>
-                <title>SuperTab Radio 254</title>
-                <description>Radio show hosted by Super8 &amp; Tab. 
-Feed: https://feeds.feedburner.com/SupertabRadioPodcast</description>
+                <title>The Oatly Chronicles Part 2: What’s The Housing Crisis Got To Do With It?</title>
+                <description>&lt;p&gt;Swedish oat milk company Oatly says it&amp;#39;s on a mission to defeat the almighty dairy industry and save the planet. To do that, it claims it needs to grow into a massive corporate success — and it’s willing to take on controversial investments to get there. &lt;/p&gt;
+&lt;p&gt;In episode two of ‘The Oatly Chronicles’, we investigate what makes those investors so controversial...
+Feed: https://anchor.fm/s/17af354/podcast/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://radio.super8andtab.com/radio/audio/Supertab254.mp3"/>
-                <guid></guid>
+                <link>https://podcasters.spotify.com/pod/show/the-europeans/episodes/The-Oatly-Chronicles-Part-2-Whats-The-Housing-Crisis-Got-To-Do-With-It-e2b3u55</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/17af354/podcast/play/77772389/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-26%2Fb4e3db7b-f443-6bf0-f3b3-de2b24117b52.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/the-europeans/episodes/The-Oatly-Chronicles-Part-2-Whats-The-Housing-Crisis-Got-To-Do-With-It-e2b3u55</guid>
                 
             </item><item>
-                <title>The Human Factor 001 | Caffeine, Learning HOW your Mind works, and the Wellness Journey</title>
-                <description>This week we introduce a new segment - THE HUMAN FACTOR! As hard as we might try to forget, scientists and engineers (and anyone) lives inside of a human body. While we might push ourselves mentally, we have a tendency to fuel and treat our bodies...
-Feed: https://todayinspace.libsyn.com/rss</description>
+                <title>Concentrated vs. Diversified Investments: Pursuing Top-Tier Returns vs. Targeting Average Performance</title>
+                <description>Aram Verdiyan, Partner at Accolade Partners, offers a comprehensive exploration of the LP landscape and the strategies that drive success in the world of venture capital. Aram emphasizes the importance of building strong relationships with VCs and sheds light on how general partners (GPs) think. He also discusses his views on returns generation, comparing concentrated and diversified investments.
+Feed: https://feeds.simplecast.com/gDgkg35_</description>
                 
                 
-                <link>https://todayinspace.libsyn.com/the-human-factor-001-caffeine-learning-how-your-mind-works-and-the-wellness-journey</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/traffic.libsyn.com/secure/todayinspace/TIS_324_human_factor_wellness_caffeine_magic_mind.mp3?dest-id=330345"/>
-                <guid>https://todayinspace.libsyn.com/the-human-factor-001-caffeine-learning-how-your-mind-works-and-the-wellness-journey</guid>
+                <link>https://podcast.sure.ventures</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/A299DB/cdn.simplecast.com/audio/8a5f01b8-f271-4de0-b289-c224dc4fce0a/episodes/961bcb46-9039-4514-b8a9-afd11445908b/audio/dc15e739-5e5e-470a-9288-a5c92be2528e/default_tc.mp3?aid=rss_feed&amp;feed=gDgkg35_"/>
+                <guid>https://podcast.sure.ventures</guid>
                 
             </item>
         </channel>

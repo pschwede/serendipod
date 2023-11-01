@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Oct 2023 04:20:57 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 Nov 2023 04:21:14 +0200</lastBuildDate>
             <item>
-                <title>Enfant indigo et Starseed 3  — SCRIPT #2</title>
-                <description>Partie 3 : La relève Starseed
-Feed: https://feeds.acast.com/public/shows/5c74448857223e944f75f7b6</description>
+                <title>Emission du 17/10/2023</title>
+                <description>Les grandes voix féminines vous guident et traversent les éposques et les frontières, nous allons...
+Feed: https://kitschetnet.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://metadechoc.fr/podcast/chroniques-de-la-spiritualite-contemporaine-2/enfant-indigo-et-starseed/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5c74448857223e944f75f7b6/e/653aded7ab9fa2001289be12/media.mp3"/>
-                <guid>https://metadechoc.fr/podcast/chroniques-de-la-spiritualite-contemporaine-2/enfant-indigo-et-starseed/</guid>
+                <link>https://www.podomatic.com/podcasts/kitschetnet/episodes/2023-10-30T15_07_49-07_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://kitschetnet.podomatic.com/enclosure/2023-10-30T15_07_49-07_00.mp3?_=1698703891.16806319"/>
+                <guid>https://www.podomatic.com/podcasts/kitschetnet/episodes/2023-10-30T15_07_49-07_00</guid>
                 
             </item><item>
-                <title>Le cours de math : 10/25/2023 20:00</title>
-                <description>1226-299085
-Feed: http://podcast.cism893.ca/radioshows/1226/feed_itunes.xml</description>
+                <title>Mathias Vicherat, Secrétaire général de Danone</title>
+                <description>Dans l&#39;Empreinte, nous essayons de comprendre, ensemble, comment les marques d&#39;aujourd&#39;hui s&#39;engagent ou non, pour notre planète. Chaque semaine, Alice Vachet reçoit donc des start-upers, des PDG de grands groupes ou encore des directeurs de la RSE qui lui expliquent comment leur entreprise s&#39;engage pour porter une révolution de l&#39;impact sur notre planète, une empreinte. 
+Dans ce nouvel épisode de l&#39;Empreinte, Alice Vachet reçoit Mathias Vicherat, secrétaire général de Danone...
+Feed: https://feeds.megaphone.fm/BABA1421902366</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/299085.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/299085.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/299085.mp3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA8581269895.mp3?updated=1698392314"/>
+                <guid></guid>
                 
             </item>
         </channel>
