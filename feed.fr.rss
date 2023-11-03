@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 01 Nov 2023 04:21:14 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 03 Nov 2023 04:21:09 +0200</lastBuildDate>
             <item>
-                <title>Emission du 17/10/2023</title>
-                <description>Les grandes voix féminines vous guident et traversent les éposques et les frontières, nous allons...
-Feed: https://kitschetnet.podomatic.com/rss2.xml</description>
+                <title>Policiers indociles</title>
+                <description>Policiers indociles
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10078.xml</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/kitschetnet/episodes/2023-10-30T15_07_49-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://kitschetnet.podomatic.com/enclosure/2023-10-30T15_07_49-07_00.mp3?_=1698703891.16806319"/>
-                <guid>https://www.podomatic.com/podcasts/kitschetnet/episodes/2023-10-30T15_07_49-07_00</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/les-pieds-sur-terre-emission-du-jeudi-02-novembre-2023-8459939</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/d2100fb0-2893-42e0-bf12-dcd792f7b31a/10078-02.11.2023-ITEMA_23538557-2023C6612S0306-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/les-pieds-sur-terre-emission-du-jeudi-02-novembre-2023-8459939</guid>
                 
             </item><item>
-                <title>Mathias Vicherat, Secrétaire général de Danone</title>
-                <description>Dans l&#39;Empreinte, nous essayons de comprendre, ensemble, comment les marques d&#39;aujourd&#39;hui s&#39;engagent ou non, pour notre planète. Chaque semaine, Alice Vachet reçoit donc des start-upers, des PDG de grands groupes ou encore des directeurs de la RSE qui lui expliquent comment leur entreprise s&#39;engage pour porter une révolution de l&#39;impact sur notre planète, une empreinte. 
-Dans ce nouvel épisode de l&#39;Empreinte, Alice Vachet reçoit Mathias Vicherat, secrétaire général de Danone...
-Feed: https://feeds.megaphone.fm/BABA1421902366</description>
+                <title>Ex0215 Café bricole</title>
+                <description>La documentation et les liens de cette émission sont sur http://cpu.pm/0215 . Cette release fait partie de la série “Recycle”. Dans cette release : Des tournevis, du fer à souder, de bons conseils et un café avec ça. Nous recevons Philippe Martorell, animateur des café bricol&#39;. Interview enregistrée durant l&#39;édition 2023 du THSF. Chapitres : Bonjour à toi, Enfant du Futur…
+Feed: https://feeds.feedburner.com/Cpu-Programmes</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA8581269895.mp3?updated=1698392314"/>
-                <guid></guid>
+                <link>https://cpu.dascritch.net/post/2023/10/19/Ex0215-Caf%C3%A9-bricole</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cpu.dascritch.net/public/Sonores/Emissions/podcast/0215-CPU%2819-10-23%29.mp3"/>
+                <guid>https://cpu.dascritch.net/post/2023/10/19/Ex0215-Caf%C3%A9-bricole</guid>
                 
             </item>
         </channel>
