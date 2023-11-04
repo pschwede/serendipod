@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 03 Nov 2023 04:21:22 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 04 Nov 2023 04:21:06 +0200</lastBuildDate>
             <item>
                 <title>SD-LA New</title>
                 <description>New music from San Diego and LA to begin this episode of In The Groove.
@@ -21,14 +21,15 @@ Feed: https://jazzandbeyond.podbean.com/feed.xml</description>
                 <guid>https://jazzandbeyond.podbean.com/e/sd-la-new/</guid>
                 
             </item><item>
-                <title>Nick Hutchison and the power of reading. Transform your life with books.</title>
-                <description>&lt;p&gt;Nick Hutchison is the visionary force behind BookThinkers, a thriving 7-figure marketing agency bridging authors and readers. In just over 7 years, he has cultivated a platform reaching over 1,000,000 people monthly and hosts the top 2% global podcast, &amp;quot;BookThinkers: Life-Changing Books,&amp;quot; featuring interviews with renowned authors like Grant Cardone and Lewis Howes...
-Feed: https://feeds.buzzsprout.com/1269647.rss</description>
+                <title>Soapy Dollar (Mescalero Apache) Part 2</title>
+                <description>I remember, early on, wondering a whole lot about my place in the world and if there was any significance to my life, or was I just kind of drifting along here like a twig sitting on the waves of the ocean, no significance, no background, no future.
+  
+Feed: https://www.withoutreservation.com/wr_podcast.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/https://chtbl.com/track/8137GE/www.buzzsprout.com/1269647/13837628-nick-hutchison-and-the-power-of-reading-transform-your-life-with-books.mp3"/>
-                <guid></guid>
+                <link>https://www.withoutreservation.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.withoutreservation.com/media/low/246-SoapyDollar-2.mp3"/>
+                <guid>https://www.withoutreservation.com/</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 03 Nov 2023 04:21:09 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 04 Nov 2023 04:20:50 +0200</lastBuildDate>
             <item>
-                <title>Policiers indociles</title>
-                <description>Policiers indociles
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10078.xml</description>
+                <title>La culture dans la course des Jeux Olympiques</title>
+                <description>La culture dans la course des Jeux Olympiques
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10183.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/les-pieds-sur-terre-emission-du-jeudi-02-novembre-2023-8459939</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/d2100fb0-2893-42e0-bf12-dcd792f7b31a/10078-02.11.2023-ITEMA_23538557-2023C6612S0306-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/les-pieds-sur-terre-emission-du-jeudi-02-novembre-2023-8459939</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/soft-power/la-culture-dans-la-course-des-jeux-olympiques-9597680</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/f844566c-7598-42c0-b5bc-6ea35e23bc03/10183-29.10.2023-ITEMA_23534616-2023C22976E0003-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/soft-power/la-culture-dans-la-course-des-jeux-olympiques-9597680</guid>
                 
             </item><item>
-                <title>Ex0215 Café bricole</title>
-                <description>La documentation et les liens de cette émission sont sur http://cpu.pm/0215 . Cette release fait partie de la série “Recycle”. Dans cette release : Des tournevis, du fer à souder, de bons conseils et un café avec ça. Nous recevons Philippe Martorell, animateur des café bricol&#39;. Interview enregistrée durant l&#39;édition 2023 du THSF. Chapitres : Bonjour à toi, Enfant du Futur…
-Feed: https://feeds.feedburner.com/Cpu-Programmes</description>
+                <title>[COUP DE ♥️] Êtes-vous vraiment capable de faire du mal à votre enfant ?</title>
+                <description>&lt;p&gt;Si l&#39;épisode d&#39;Emotions sur les phobies vous a plu, on se dit que celui de Faites des Gosses &#34;Suis-je vraiment capable de faire du mal à mes enfants ?&#34; pourrait aussi vous intéresser. Dans cet épisode, on vous parle de phobies d’impulsions...
+Feed: https://feeds.acast.com/public/shows/8fb79794-2f6a-41f0-9ae1-d7766f4e4092</description>
                 
                 
-                <link>https://cpu.dascritch.net/post/2023/10/19/Ex0215-Caf%C3%A9-bricole</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cpu.dascritch.net/public/Sonores/Emissions/podcast/0215-CPU%2819-10-23%29.mp3"/>
-                <guid>https://cpu.dascritch.net/post/2023/10/19/Ex0215-Caf%C3%A9-bricole</guid>
+                <link>https://shows.acast.com/emotions/episodes/phobies-impulsion</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/emotions/e/653fd5b58f6e5f001281e23c/media.mp3"/>
+                <guid>https://shows.acast.com/emotions/episodes/phobies-impulsion</guid>
                 
             </item>
         </channel>
