@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 04 Nov 2023 04:20:55 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 Nov 2023 04:20:38 +0200</lastBuildDate>
             <item>
-                <title>Dios nos declara justos por nuestra fe y por nuestras obras (5-11 de febrero)</title>
-                <description>wS MP3 Diciembre de 2023 - 01
-Feed: https://apps.jw.org/E_sFFZRQVNZNT?rln=S&amp;rmn=w&amp;rfm=mp3</description>
+                <title>Cosa Pública 2.0 - Vi. 03 Nov 2023</title>
+                <description>https://podcastudg.com/CosaPublica20231103.mp3
+Feed: https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/feed/19</description>
                 
                 
-                <link>https://download-a.akamaihd.net/files/media_periodical/d4/w_S_202312_01.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://download-a.akamaihd.net/files/media_periodical/d4/w_S_202312_01.mp3"/>
-                <guid>https://download-a.akamaihd.net/files/media_periodical/d4/w_S_202312_01.mp3</guid>
+                <link>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---vi-03-nov-2023/202502</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/CosaPublica20231103.mp3"/>
+                <guid>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---vi-03-nov-2023/202502</guid>
                 
             </item><item>
-                <title>Lenny Dykstra: El Beisbolista Loco </title>
-                <description>Lenny Dykstra, fue un destacado jugador de béisbol conocido por su estilo agresivo y su habilidad en el campo. Sin embargo, también ganó fama por su comportamiento extravagante y controvertido fuera del terreno de juego, lo que le otorgó el apodo de &#34;El Beisbolista Loco&#34;.
-﻿Síguenos y visita nuestro sitio oficial:
-https://www.instagram.com/eldollop
-https://twitter.com/eldollop
-https://www.facebook.com/eldolloppodcast
-http://eldollop.com
-Feed: https://feeds.megaphone.fm/SONORO4124946493</description>
+                <title>Música antigua - Desde Flandes a España - 31/10/23</title>
+                <description>Desde Flandes a España
+Feed: http://api.rtve.es/api/programas/23353/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/39325/pdst.fm/e/traffic.megaphone.fm/SONORO6661358161.mp3?updated=1698533866"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/musica-antigua/desde-flandes-espana/7001956/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7001956.mp3"/>
+                <guid>https://www.rtve.es/play/audios/musica-antigua/desde-flandes-espana/7001956/</guid>
                 
             </item>
         </channel>

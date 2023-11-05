@@ -9,26 +9,34 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 04 Nov 2023 04:20:40 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 Nov 2023 04:20:22 +0200</lastBuildDate>
             <item>
-                <title>The Linux Link Tech Show Episode 1024</title>
-                <description>joel contemplates indian buffet.
-Feed: https://feeds.feedburner.com/TheLinuxLinkTechShowMp3Feed</description>
+                <title>Chronology 418</title>
+                <description>
+The four hundred eighteenth episode of the «Chronology» podcast
+Tracklist:
+1) Anne Reburn, HeartWerk — It&#39;s What You Know
+2) Dorian Craft — Kilamba
+3) Nicolas Masseyeff — Double Visage (Oxia Remix)
+4) Nohan — Reality Shaking
+5) South Bloom — Let Me In (Volen Sentir Secret Technique Remix)
+6) magic.made.by...
+Feed: https://www.eugenebalul.com/podcast/chronology.xml</description>
                 
                 
-                <link>http://www.tllts.org</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.tlltsarchive.org/archives/tllts_1024-10-25-23.mp3"/>
-                <guid>http://www.tllts.org</guid>
+                <link>https://eugenebalul.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1651087344-eugenebalul-chronology-418.m4a"/>
+                <guid>https://eugenebalul.com</guid>
                 
             </item><item>
-                <title>36 Future Now Show - Galactic Sonification, Coffee, Adaptogenic Fungi, and the Big U, with Guests Gabriel Cianfrani and Paul Gotel</title>
-                <description>Listen Now to #36 Future Now Show Listening to the cosmos has never been so much fun or interesting!&amp;nbsp; With advancements in sensor technology and computing power, we can now use our ears to tune into the universe like never before! In our explorations of the sonic universe, you&amp;#8217;ll hear a black hole, a stellar nursery, and the planets in motion of the Trappist-1 solar system, 40 light years away....
-Feed: https://feeds.feedburner.com/DrFutureShow</description>
+                <title>Modern Bard Dr. Martin Shaw: Be a Story-maker for Your Times</title>
+                <description>Dr. Martin Shaw is the best oral storyteller that I know of. He is also the only person who can impromptu tell the entire Odyssey by his imagination alone. Martin is well versed in a variety of stories from classic Greek to pagan, indigenous,
+Feed: https://feeds.feedburner.com/SingularityWeblogPodcasts</description>
                 
                 
-                <link>http://www.drfutureshow.com/drfutureblog/36-future-now-show-galactic-sonification-coffee-adaptogenic.html</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.futurepeak.net/audio/36_FutureNow_PaulGotel.mp3"/>
-                <guid>http://www.drfutureshow.com/drfutureblog/36-future-now-show-galactic-sonification-coffee-adaptogenic.html</guid>
+                <link>https://www.singularityweblog.com/martin-shaw/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/singularity/feeds.soundcloud.com/stream/1629937200-singularity1on1-martin-shaw.mp3"/>
+                <guid>https://www.singularityweblog.com/martin-shaw/</guid>
                 
             </item>
         </channel>
