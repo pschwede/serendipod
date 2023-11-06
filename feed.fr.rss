@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 05 Nov 2023 04:20:33 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 06 Nov 2023 04:22:00 +0200</lastBuildDate>
             <item>
-                <title>Le Sud global</title>
-                <description>
-Il y a un nouveau venu dans la cour de récré.
-
-Feed: https://www.rfi.fr/fr/podcasts/chronique-mamane/podcast</description>
+                <title>Les aveugles rêvent-ils ? </title>
+                <description>&lt;p&gt;Aujourd’hui, on va essayer de répondre à une question que vous vous êtes forcément déjà posé: est-ce que les aveugles rêvent ? Ça paraît dingue, mais cette question, pas si bête que ça en fait, nous emmène dans les méandres de notre cerveau.&lt;/p&gt;
+Feed: https://feeds.360.audion.fm/DvTHxYW1zFrtJE_EcJJWs</description>
                 
                 
-                <link>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20231102-le-sud-global</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB2894-RFI-FR-20090915%7CChronique%20de%20Mamane&amp;l3=WBMZ338473-RFI-FR-20231102%7CLe%20Sud%20global&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202311%2FMAMANE_02_11_Le_Sud_Global.mp3"/>
-                <guid>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20231102-le-sud-global</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/d2fb9779-7353-46e7-bdd5-5bc0f902e79c.mp3?from=Fyyd"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Les impasses de la migration   4/4 : Une famille afghane en Touraine</title>
-                <description>Les impasses de la migration   4/4 : Une famille afghane en Touraine
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10177.xml</description>
+                <title>Emmanuel Bentejac, fondateur &amp; CEO de Wenabi</title>
+                <description>Dans l&#39;Empreinte, nous essayons de comprendre, ensemble, comment les marques d&#39;aujourd&#39;hui s&#39;engagent ou non, pour notre planète. Chaque semaine, Alice Vachet reçoit donc des start-upers, des PDG de grands groupes ou encore des directeurs de la RSE qui lui expliquent comment leur entreprise s&#39;engage pour porter une révolution de l&#39;impact sur notre planète, une empreinte...
+Feed: https://feeds.megaphone.fm/BABA1421902366</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/une-famille-afghane-en-touraine-6456038</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/bc76a328-d71d-4e01-ba76-2a71c6755eac/10177-30.10.2023-ITEMA_23535374-2021C26046E2611-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/une-famille-afghane-en-touraine-6456038</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA7542666301.mp3?updated=1698935030"/>
+                <guid></guid>
                 
             </item>
         </channel>

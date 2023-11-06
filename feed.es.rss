@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 05 Nov 2023 04:20:38 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 06 Nov 2023 04:22:07 +0200</lastBuildDate>
             <item>
-                <title>Cosa Pública 2.0 - Vi. 03 Nov 2023</title>
-                <description>https://podcastudg.com/CosaPublica20231103.mp3
-Feed: https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/feed/19</description>
+                <title>Café del sur - El baile de san Vito - 05/11/23</title>
+                <description>El baile de san Vito 
+Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
                 
                 
-                <link>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---vi-03-nov-2023/202502</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/CosaPublica20231103.mp3"/>
-                <guid>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---vi-03-nov-2023/202502</guid>
+                <link>https://www.rtve.es/play/audios/cafe-del-sur/baile-san-vito/7003716/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7003716.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cafe-del-sur/baile-san-vito/7003716/</guid>
                 
             </item><item>
-                <title>Música antigua - Desde Flandes a España - 31/10/23</title>
-                <description>Desde Flandes a España
-Feed: http://api.rtve.es/api/programas/23353/audios.rss</description>
+                <title>Viaje a Cancún y Día de Muertos</title>
+                <description>En este episodio de No Hay Tos hablamos sobre el viaje de Beto a Cancún y sobre el Día de Muertos.
+Para ver la transcripción completa (word for word) de este episodio visítanos en Patreon. - Venos en video en YouTube. - ¡Si el podcast te es útil por favor déjanos un review en Apple Podcasts! - Donate: https://www.paypal...
+Feed: https://feeds.megaphone.fm/SONORO4487924320</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/musica-antigua/desde-flandes-espana/7001956/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7001956.mp3"/>
-                <guid>https://www.rtve.es/play/audios/musica-antigua/desde-flandes-espana/7001956/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/SONORO8570991457.mp3?updated=1698811846"/>
+                <guid></guid>
                 
             </item>
         </channel>
