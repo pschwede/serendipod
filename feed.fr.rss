@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 06 Nov 2023 04:22:00 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 07 Nov 2023 04:21:26 +0200</lastBuildDate>
             <item>
-                <title>Les aveugles rêvent-ils ? </title>
-                <description>&lt;p&gt;Aujourd’hui, on va essayer de répondre à une question que vous vous êtes forcément déjà posé: est-ce que les aveugles rêvent ? Ça paraît dingue, mais cette question, pas si bête que ça en fait, nous emmène dans les méandres de notre cerveau.&lt;/p&gt;
-Feed: https://feeds.360.audion.fm/DvTHxYW1zFrtJE_EcJJWs</description>
+                <title>Les charlottes : Les Charlottes # 625 : Émission du 2 novembre 2023</title>
+                <description>692-299622
+Feed: http://podcast.cism893.ca/radioshows/692/feed_itunes.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/d2fb9779-7353-46e7-bdd5-5bc0f902e79c.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/299622.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/299622.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/299622.mp3</guid>
                 
             </item><item>
-                <title>Emmanuel Bentejac, fondateur &amp; CEO de Wenabi</title>
-                <description>Dans l&#39;Empreinte, nous essayons de comprendre, ensemble, comment les marques d&#39;aujourd&#39;hui s&#39;engagent ou non, pour notre planète. Chaque semaine, Alice Vachet reçoit donc des start-upers, des PDG de grands groupes ou encore des directeurs de la RSE qui lui expliquent comment leur entreprise s&#39;engage pour porter une révolution de l&#39;impact sur notre planète, une empreinte...
-Feed: https://feeds.megaphone.fm/BABA1421902366</description>
+                <title>Ecrire une saga fantasy en partant de zéro - Michael Bielli</title>
+                <description>Hello, collègue écrivain ! Avec notre premier invité de la saison 3, j&#39;ai nommé Michael Bielli, l&#39;épisode du jour est haut en couleurs ! Nous parlons de :
+  comment Michael s&#39;est lancé dans l&#39;écriture de sa saga fantasy en partant presque de zéro,
+  c...
+Feed: https://feed.ausha.co/B4MYwHnNVDYN</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA7542666301.mp3?updated=1698935030"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/le-cafe-des-auteurs/ecrire-une-saga-fantasy-en-partant-de-zero-michael-bielli</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B63jWHlmWOeG.mp3?t=1698935232"/>
+                <guid>https://podcast.ausha.co/le-cafe-des-auteurs/ecrire-une-saga-fantasy-en-partant-de-zero-michael-bielli</guid>
                 
             </item>
         </channel>
