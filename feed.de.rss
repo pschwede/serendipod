@@ -9,31 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 07 Nov 2023 04:21:21 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 09 Nov 2023 04:21:12 +0200</lastBuildDate>
             <item>
-                <title>Warum wir mehr Gründer:innen brauchen – mit Carsten Puschmann</title>
-                <description>Seit seinen jüngsten Jahren ist Carsten Puschmann Seriengründer. Als CEO von des Venture Building Unternehmens Scale Now unterstützt er Startups mit Geld und Knowhow. Was genau hinter Venture Building steckt und warum Deutschland heute mehr als je Gründer:innen braucht, erklärt er im Interview mit Alex. +++
-Eine Produktion der Audio Alliance.
-Host: Alexander Langer.
-Redaktion: Lucile Gagnière.
-Produktion: Lia Wittfeld. +++
-Weitere Infos zu unseren Werbepartnern finden Sie hier: https://linktr...
-Feed: https://rss.art19.com/business-punk-how-to-hack</description>
+                <title>Camping Höker</title>
+                <description>Florian und Andre haben sich erneut zusammengefunden, um eine unterhaltsame Folge von &#34;Feuerfest und Wasserdicht&#34; aufzunehmen, die mit viel Spaß und Unsinn gefüllt ist. Post an Podcast@hzbal.de
+
+Feed: https://anchor.fm/s/145afd48/podcast/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/ce069b21-8edd-4f2b-8cb5-11b38c8614be.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://podcasters.spotify.com/pod/show/hzbal/episodes/Camping-Hker-e2bf7li</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/145afd48/podcast/play/78142578/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-3%2F7cfd1d2c-a699-b4d8-1613-f45b62480892.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/hzbal/episodes/Camping-Hker-e2bf7li</guid>
                 
             </item><item>
-                <title>Projekt X live – Joesi Prokopetz trifft Lady Gargamel</title>
-                <description>Sendungshinweis: FM4 Projekt X, 3.11.2023, 0 Uhr
-Feed: https://podcast.orf.at/podcast/fm4/fm4_projektx/fm4_projektx.xml</description>
+                <title>Delay of game - der Football-Podcast, Folge 284: Fins without Big Wins</title>
+                <description>Christian und Tobi diskutieren über die #Dolphins…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:334810023/sounds.rss</description>
                 
                 
-                <link>https://sound.orf.at/podcast/fm4/fm4-projekt-x/projekt-x-live--joesi-prokopetz-trifft-lady-gargamel</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/fm4/fm4_projektx/items/di_fm4_projektx_clk_5c1b6a1119504e2aa44fa95639494007.mp3?etag=a8a1ec6b72fb1bfe6c1a9dc21b3dcd3f"/>
-                <guid>https://sound.orf.at/podcast/fm4/fm4-projekt-x/projekt-x-live--joesi-prokopetz-trifft-lady-gargamel</guid>
+                <link>https://soundcloud.com/delayofgamepodcast/delay-of-game-der-football-podcast-folge-284-fins-without-big-wins</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1659137091-delayofgamepodcast-delay-of-game-der-football-podcast-folge-284-fins-without-big-wins.mp3"/>
+                <guid>https://soundcloud.com/delayofgamepodcast/delay-of-game-der-football-podcast-folge-284-fins-without-big-wins</guid>
                 
             </item>
         </channel>

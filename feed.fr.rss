@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 07 Nov 2023 04:21:26 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 09 Nov 2023 04:21:18 +0200</lastBuildDate>
             <item>
-                <title>Les charlottes : Les Charlottes # 625 : Émission du 2 novembre 2023</title>
-                <description>692-299622
-Feed: http://podcast.cism893.ca/radioshows/692/feed_itunes.xml</description>
+                <title>Le mix de Pat Duvoisin</title>
+                <description>
+Feed: https://www.rts.ch/couleur3/programmes/metissages/podcast/?flux=rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/299622.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/299622.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/299622.mp3</guid>
+                <link>https://www.rts.ch/couleur3/programmes/metissages/14434412-le-mix-de-pat-duvoisin-08-11-2023.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/14434412/248c1a28-217f-377a-b8c9-1a55d8717280.mp3"/>
+                <guid>https://www.rts.ch/couleur3/programmes/metissages/14434412-le-mix-de-pat-duvoisin-08-11-2023.html</guid>
                 
             </item><item>
-                <title>Ecrire une saga fantasy en partant de zéro - Michael Bielli</title>
-                <description>Hello, collègue écrivain ! Avec notre premier invité de la saison 3, j&#39;ai nommé Michael Bielli, l&#39;épisode du jour est haut en couleurs ! Nous parlons de :
-  comment Michael s&#39;est lancé dans l&#39;écriture de sa saga fantasy en partant presque de zéro,
-  c...
-Feed: https://feed.ausha.co/B4MYwHnNVDYN</description>
+                <title>Elkin Polo El Show : 11/04/2023 13:00</title>
+                <description>709-299754
+Feed: http://podcast.cism893.ca/radioshows/709/feed_itunes.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/le-cafe-des-auteurs/ecrire-une-saga-fantasy-en-partant-de-zero-michael-bielli</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B63jWHlmWOeG.mp3?t=1698935232"/>
-                <guid>https://podcast.ausha.co/le-cafe-des-auteurs/ecrire-une-saga-fantasy-en-partant-de-zero-michael-bielli</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/299754.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/299754.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/299754.mp3</guid>
                 
             </item>
         </channel>

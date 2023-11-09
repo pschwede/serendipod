@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 07 Nov 2023 04:21:43 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 09 Nov 2023 04:21:34 +0200</lastBuildDate>
             <item>
-                <title>Copycat Recipe for a favorite Starbucks drink and the Tagged Murderer</title>
-                <description>Make your own Starbucks drink
-Feed: https://feeds.simplecast.com/kvHwtGUq</description>
+                <title>Grok, Okta, Looney Tunables, HelloKitty, Gootbot, Veeam, More News and Jason Wood - SWN #340</title>
+                <description>Grok, Okta, Looney Tunables, HelloKitty, Gootbot, Veeam, More News and Jason Wood, on this edition of the Security Weekly News Show Notes:
+Feed: https://hntvvideo.libsyn.com/rss</description>
                 
                 
-                <link>https://bleav.com/shows/sugar-coated-murder/?post_type=gp_podcast_episode&amp;p=159</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/2F64EC/injector.simplecastaudio.com/43bcf62a-20f8-43b5-ba44-c1b228e5a9af/episodes/9af63d1c-f598-417a-8693-abde9bdc349d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=43bcf62a-20f8-43b5-ba44-c1b228e5a9af&amp;awEpisodeId=9af63d1c-f598-417a-8693-abde9bdc349d&amp;feed=kvHwtGUq"/>
-                <guid>https://bleav.com/shows/sugar-coated-murder/?post_type=gp_podcast_episode&amp;p=159</guid>
+                <link>http://hntvvideo.libsyn.com/grok-okta-looney-tunables-hellokitty-gootbot-veeam-more-news-and-jason-wood-swn-340</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvvideo/SWN_340_converted.mp4?dest-id=376663"/>
+                <guid>http://hntvvideo.libsyn.com/grok-okta-looney-tunables-hellokitty-gootbot-veeam-more-news-and-jason-wood-swn-340</guid>
                 
             </item><item>
-                <title>Layers of Band-Aids</title>
-                <description>Kevin Lannen is an embedded systems engineer making powered wheelchairs safer. This sounded interesting to us. Kevin works at LUCI Mobility (). Check out their  as well as technical description of . We also talked about the app that goes with the...
-Feed: https://makingembeddedsystems.libsyn.com/rss</description>
+                <title>Tony Jones Show #236</title>
+                <description>Tony Jones Show #236 - With music from: Deer Tick, Jonee Earthquake Band, Karma Rocket, Archers, Jason James, Lords of the Highway, Tall Teenagers, The Schemers, Jets Can&#39;t Land, Glenn Robinson, Eric and the Nothing, Hello Atlantic, Damone, Nova One,...
+Feed: https://www.spreaker.com/show/277123/episodes/feed</description>
                 
                 
-                <link>https://embedded.fm/episodes/463</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep463.mp3?dest-id=141180"/>
-                <guid>https://embedded.fm/episodes/463</guid>
+                <link>https://www.spreaker.com/user/tonyjones/tony-jones-show-236</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/74B661/api.spreaker.com/download/episode/57354548/tony_jones_show_236.mp3"/>
+                <guid>https://www.spreaker.com/user/tonyjones/tony-jones-show-236</guid>
                 
             </item>
         </channel>
