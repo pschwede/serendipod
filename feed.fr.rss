@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 12 Nov 2023 04:20:40 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 14 Nov 2023 04:21:00 +0200</lastBuildDate>
             <item>
-                <title>Mix anglo : 11/11/2023 00:00</title>
-                <description>770-300216
+                <title>Mix anglo : Mix anglo 13 nov 2023</title>
+                <description>770-300340
 Feed: http://podcast.cism893.ca/radioshows/770/feed_itunes.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/300216.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/300216.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/300216.mp3</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/300340.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/300340.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/300340.mp3</guid>
                 
             </item><item>
-                <title>Episode 137 - Coach toujours un métier d&#39;avenir</title>
-                <description>Dans ce 137ème épisode de la Systémique du bonheur ????, on va te parler de l&#39;avenir du metier de coach. 
-Arthur : Merlin, notre royaume est en constante évolution, et je me demande comment le métier de coach s&#39;adaptera à ces changements. Quelles sont te...
-Feed: https://feed.ausha.co/y09WEHYw6VWK</description>
+                <title>Les agrumes à l&#39;honneur</title>
+                <description>Les agrumes à l&#39;honneur
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/la-systemique-bonheur/episode-137-coach-toujours-un-metier-d-avenir</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/y0D5nsvq69Q9.mp3?t=1699240943"/>
-                <guid>https://podcast.ausha.co/la-systemique-bonheur/episode-137-coach-toujours-un-metier-d-avenir</guid>
+                <link>https://www.francebleu.fr/emissions/votre-jardin/les-agrumes-a-l-honneur-3557151</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/b6df9578-4c3a-4375-b551-23087e139c91/15376-11.11.2023-ITEMA_23548492-2023B20690S0315-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/votre-jardin/les-agrumes-a-l-honneur-3557151</guid>
                 
             </item>
         </channel>
