@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 15 Nov 2023 04:21:43 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 16 Nov 2023 04:22:37 +0200</lastBuildDate>
             <item>
-                <title>Mix anglo : 11/14/2023 02:00</title>
-                <description>770-300424
-Feed: http://podcast.cism893.ca/radioshows/770/feed_itunes.xml</description>
+                <title>MÉMOIRES DU 13 NOVEMBRE - 5. Gaëlle, et son visage à reconstruire</title>
+                <description>On se souvient tous de notre 13 novembre 2015. De l&#39;instant précis où nous avons appris que des attaques étaient en cours à Paris et à Saint-Denis. Que reste-t-il de nos souvenirs ? Comment se relever ? Comment juger l&#39;horreur ?
+Dans ce cinquième épisode, vous all...
+Feed: https://feeds.audiomeans.fr/feed/ff5d679f-7715-44f3-840a-08858189e727.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/300424.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/300424.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/300424.mp3</guid>
+                <link>https://www.rtl.fr/programmes/les-voix-du-crime</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/0c0d115d-a73a-4143-9bb9-22262526f020.mp3?_=1694438282"/>
+                <guid>https://www.rtl.fr/programmes/les-voix-du-crime</guid>
                 
             </item><item>
-                <title>:104 Alexis Normand - Greenly - &#34;Votre business existera-t-il en 2050 ?&#34;</title>
-                <description>&lt;p&gt;Imaginez une planète où le réchauffement climatique inverserait le Gulf Stream, refroidissant ainsi l’atmosphère et obligeant les Européens à migrer vers Dakar, devenue une mégalopole technologique ? C’est en écrivant cette histoire, vendue à Endemol, qu’Alexis Normand chemine vers l’entrepreneuriat...
-Feed: https://feeds.acast.com/public/shows/6352aa64fe5138001205d9b3</description>
+                <title>Quel est le programme du candidat Trump pour 2024?</title>
+                <description>&lt;p&gt;Le projet de gouvernement de Donald Trump se précise. En vue de sa potentielle réélection, l&#39;homme d&#39;affaires revient avec un programme bien plus développé qu&#39;en 2016 et 2020.&lt;br/&gt;&lt;br/&gt;En ligne de mire du candidat, les communautés LGBT+ et les minorités: Donald Trump souhaite notamment faire voter une loi qui n&#39;autorise que deux genres aux États-Unis...
+Feed: https://feeds.360.audion.fm/6DEDYNDVuyDDA-xbBAq8y</description>
                 
                 
-                <link>https://shows.acast.com/40nuancesdenext/episodes/104-alexis-normand-greenly</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6352aa64fe5138001205d9b3/e/6548ec8c6905da00124cf1f5/media.mp3"/>
-                <guid>https://shows.acast.com/40nuancesdenext/episodes/104-alexis-normand-greenly</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/ca5d34e9-6c6e-456d-b328-4afc68d7a5fe.mp3?from=Fyyd"/>
+                <guid></guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 15 Nov 2023 04:21:31 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 16 Nov 2023 04:22:28 +0200</lastBuildDate>
             <item>
-                <title>Norman on Poetry and Dharma</title>
-                <description>Norman gives a talk to the Minnesota Zen Center on &#34;Poetry and Dharma.&#34; - Suggested donation: $7 - https://bit.ly/donate-edz-online-teachings - We cannot continue offering teachings online without it. Thank you! -   - https://s3.us-west-1.
-Feed: https://feeds.feedburner.com/EverydayZenPodcast</description>
+                <title>CyanogenMod and the Death of the Android ROM</title>
+                <description>David talks about the history of Android and ROMming in general. 
+Feed: https://feeds.megaphone.fm/STU4418364045</description>
                 
                 
-                <link>https://everydayzen.org/teachings/norman-on-poetry-and-dharma/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://s3.us-west-1.amazonaws.com/edz.assets/wp-content/uploads/2023/11/Norman-on-Poetry-and-Dharma-Minnesota-Zen-Center-November-11-2023.mp3"/>
-                <guid>https://everydayzen.org/teachings/norman-on-poetry-and-dharma/</guid>
+                <link>https://linktr.ee/MKBHD</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/524GE/traffic.megaphone.fm/VMP4878385471.mp3?updated=1700061700"/>
+                <guid>https://linktr.ee/MKBHD</guid>
                 
             </item><item>
-                <title>Teenage Mutant Ninja Turtles: Mutant Mayhem</title>
-                <description>In this episode, we take a look at the new Teenage Mutant Ninja Turtles: Mutant Mayhem movie! The mutated, sewer-dwelling, pizza-munching, bad guy-punching teen heroes are voiced (for the first time) by actual teen voice actors but they are not alone...
-Feed: https://threegeekydads.libsyn.com/rss</description>
+                <title>Jem Bendell</title>
+                <description>&lt;p&gt;Former Professor of Sustainability Leadership and author of Breaking Together: A Freedom-Loving Response To Collapse Jem Bendell tells us to stop pretending and learn how to navigate climate change through deep adaptation.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt; &lt;strong&gt;Jem Bendell&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Professor Jem Bendell is a world-renowned scholar on the breakdown of modern societies due to environmental change...
+Feed: https://feed.pippa.io/public/shows/teamhuman</description>
                 
                 
-                <link>https://threegeekydads.libsyn.com/teenage-mutant-ninja-turtles-mutant-mayhem</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/threegeekydads/TNMT_-_FINAL.mp3?dest-id=890492"/>
-                <guid>https://threegeekydads.libsyn.com/teenage-mutant-ninja-turtles-mutant-mayhem</guid>
+                <link>https://shows.acast.com/teamhuman/episodes/jem-bendell</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/58ad887a1608b1752663b04a/e/6554441c633f5200120fdd35/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=_ggDcvSlDKK7R1RZaUyNmm6rCVHiZn0xSrtKkzQzzog"/>
+                <guid>https://shows.acast.com/teamhuman/episodes/jem-bendell</guid>
                 
             </item>
         </channel>

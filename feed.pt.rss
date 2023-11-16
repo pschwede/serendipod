@@ -9,37 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 15 Nov 2023 04:21:53 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 16 Nov 2023 04:22:47 +0200</lastBuildDate>
             <item>
-                <title>Progress #506</title>
-                <description>Progress #506
-www.centraldj.com.br/progress/506
-Subscribe for free on iTunes:
-https://itunes.apple.com/br/podcast/progress/id1077982631?mt=2
--- 
-Progress
-By: DJ MTS
-To broadcast Progress on your radio/webradio, click here:
-https://www.centraldj.com.br/programas/?p=progress
-Follow Progress @ Twitter: http://twitter.com/progressbymts
-Like Progress @ Facebook: http://www.facebook.com/Progressbymts
-Follow Progress @ Instagram: http://www.instagram...
-Feed: https://hearthis.at/djmts/podcast/</description>
+                <title>Pistolando 205 - Helo Villela</title>
+                <description>
+Feed: https://pistolando.libsyn.com/rss</description>
                 
                 
-                <link>https://hearthis.at/djmts/progress506/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/djmts/progress506/listen.mp3?s=fh2"/>
-                <guid>https://hearthis.at/djmts/progress506/</guid>
+                <link>http://www.pistolando.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/1184BF/traffic.libsyn.com/secure/pistolando/Pistolando_205_-_Helo_Villela.mp3?dest-id=1389563"/>
+                <guid>http://www.pistolando.com</guid>
                 
             </item><item>
-                <title>#58 - Bem Feito: creepy pastas, found footage e efeito Mandela (com Cabie, Kazemyers e Yukohhh)</title>
-                <description>&lt;p&gt;&lt;strong&gt;Bem Feito&lt;/strong&gt; é um simulador de fazendinha em que o simpático Reginaldo passa por situações inusitadas. O jogo feito pelo trio &lt;strong&gt;Cabie&lt;/strong&gt;, &lt;strong&gt;Kazemyers&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;e &lt;strong&gt;Yukohhh&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;viaja entre o &amp;quot;found cartridge&amp;quot;, as creepy pastas e o efeito Mandela pra fazer um clássico instantâneo...
-Feed: https://anchor.fm/s/817457bc/podcast/rss</description>
+                <title>Braga Netto inelegível mostra que Justiça &#39;não está disposta a compactuar com crimes&#39;</title>
+                <description>O TSE estendeu, na terça-feira (31), a condenação de inelegibilidade ao ex-ministro e companheiro de chapa de Bolsonaro, o general Braga Neto. A comentarista Maria Cristina Fernandes, então, retoma o voto do ministro Floriano Azevedo Marques para explicar a decisão e destaca que a condenação &#39;mostra que o Judiciário não está disposto a passar a mão na cabeça dos militares - atitude que não é sempre seguida pela corporação.&#39;
+Feed: http://audio.globoradio.globo.com/podcast/feed/327/politica-de-valor</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/lucas-resende-toso/episodes/58---Bem-Feito-creepy-pastas--found-footage-e-efeito-Mandela-com-Cabie--Kazemyers-e-Yukohhh-e2bn4gq</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/817457bc/podcast/play/78401498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-9%2F6b62c167-4d7b-7c65-ec1e-9d7732f61fe7.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/lucas-resende-toso/episodes/58---Bem-Feito-creepy-pastas--found-footage-e-efeito-Mandela-com-Cabie--Kazemyers-e-Yukohhh-e2bn4gq</guid>
+                <link>https://cbn.globoradio.globo.com/media/audio/424144/braga-netto-inelegivel-mostra-que-justica-nao-esta.htm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cbn.mc.tritondigital.com/POLITICA_VALOR_P/media/audios/encodeds/3/2023/11/01/424144_20231101.mp3"/>
+                <guid>https://cbn.globoradio.globo.com/media/audio/424144/braga-netto-inelegivel-mostra-que-justica-nao-esta.htm</guid>
                 
             </item>
         </channel>
