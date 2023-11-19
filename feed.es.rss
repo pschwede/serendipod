@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 18 Nov 2023 04:21:42 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 19 Nov 2023 04:21:23 +0200</lastBuildDate>
             <item>
-                <title>Sateli 3 - Los En3ijos Sonoros de Bruno Freire: Nuevo Jazz Polaco - 17/11/23</title>
-                <description>Los En3ijos Sonoros de Bruno Freire: Nuevo Jazz Polaco
-Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
+                <title>Kiribati y el cambio climático</title>
+                <description>Kiribati podría convertirse en el primer país inhabitable debido al cambio climático. Sus habitantes se protegen como pueden de la subida del nivel del agua.
+Feed: https://rss.dw.com/xml/podcast_el_reportero</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sateli-3/en3ijos-sonoros-bruno-freire-nuevo-jazz-polaco/7013082/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7013082.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sateli-3/en3ijos-sonoros-bruno-freire-nuevo-jazz-polaco/7013082/</guid>
+                <link>https://www.dw.com/es/kiribati-y-el-cambio-climático/video-67478449?maca=spa-podcast_el_reportero-17483-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/repos/repos20231118_gesamtHD_AVC_640x360.mp4"/>
+                <guid>https://www.dw.com/es/kiribati-y-el-cambio-climático/video-67478449?maca=spa-podcast_el_reportero-17483-xml-mrss</guid>
                 
             </item><item>
-                <title>Mundo pequeño 12/11/2023 23:05</title>
-                <description>La música para los más jóvenes tendrá un horario destacado los sábados por la noche con &amp;#8220;Mundo Pequeño&amp;#8221; y llevarán la voz inconfundible de Gloria Santoro.
-Feed: https://www.ivoox.com/mundo-pequeno_fg_f1251946_filtro_1.xml</description>
+                <title>CdNx085 &amp;#8211; Nantuckianos por Nueva Inglaterra (parte 1)</title>
+                <description>Quer&amp;iacute;amos visitar los lugares en los que basa Lovecraft su mundo literario. Tambi&amp;eacute;n ten&amp;iacute;amos morri&amp;ntilde;a y quer&amp;iacute;amos ver la isla de Nantucket real. Pues dicho y hecho. En este programa analizamos la obra de Lovecraft y dos nantuckiamos contamos nuestra experiencia por las carreteras de Nueva Inglaterra...
+Feed: https://feeds.feedburner.com/CronicasDeNantucket</description>
                 
                 
-                <link>https://www.ivoox.com/mundo-pequeno-12-11-2023-23-05-audios-mp3_rf_119338671_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/mundo-pequeno-12-11-2023-23-05_mh_119338671_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/mundo-pequeno-12-11-2023-23-05-audios-mp3_rf_119338671_1.html</guid>
+                <link>https://www.ivoox.com/cdnx085-8211-nantuckianos-nueva-inglaterra-parte-1-audios-mp3_rf_119527161_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cdnx085-8211-nantuckianos-nueva-inglaterra-parte-1_mh_119527161_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/cdnx085-8211-nantuckianos-nueva-inglaterra-parte-1-audios-mp3_rf_119527161_1.html</guid>
                 
             </item>
         </channel>
