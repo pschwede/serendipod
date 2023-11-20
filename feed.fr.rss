@@ -9,28 +9,35 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 19 Nov 2023 04:21:19 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 20 Nov 2023 04:22:51 +0200</lastBuildDate>
             <item>
-                <title>Ghetto érudit : 11/18/2023 19:00</title>
-                <description>704-300745
-Feed: http://podcast.cism893.ca/radioshows/704/feed_itunes.xml</description>
+                <title>CHRO23030 - Lucy</title>
+                <description>En route vers Jupiter, la sonde Lucy est passée à…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:161771999/sounds.rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/300745.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/300745.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/300745.mp3</guid>
+                <link>https://soundcloud.com/albireo78/chro23030-lucy</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1669135479-albireo78-chro23030-lucy.mp3"/>
+                <guid>https://soundcloud.com/albireo78/chro23030-lucy</guid>
                 
             </item><item>
-                <title>La crise de la cinquantaine</title>
-                <description>Je vous explique pourquoi il n&#39;y a pas eu d&#39;épisode depuis août.
-On se retrouve en janvier pour la 6e saison ! 
-En attendant, suivez Equinox Barcelone (https://www.linkedin.com/company/equinox-barcelone) et Equinox Factory (https://www.linkedin.com/s...
-Feed: https://feed.ausha.co/bY9kiw6OqLQb</description>
+                <title>Fixer le souvenir</title>
+                <description>&lt;p&gt;Parenthèse : Juliette dessine la musique avant de partir en voyage - Musique : “13 pieces for piano, Op. 76: II. Etude” de J. Sibelius, extrait de Reverie - Jian Wang &amp;amp; Göran Söllscher  - Deutsche Grammophon (2007).&lt;/p&gt;
+&lt;strong&gt;Me contacter / Me suivre&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;❤️ Soutenir
+&lt;/li&gt;
+&lt;li&gt;✍️ Mon site
+&lt;/li&gt;
+&lt;li&gt;???? Mastodon
+&lt;/li&gt;
+&lt;li&gt;???? salut@dimi...
+Feed: https://podcast.dimitriregnier.net/@lemegaphone/feed.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/tous-les-chemins-menent-a-barcelone/la-crise-de-la-cinquantaine</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/b3PwwSPJa8DE.mp3?t=1699471709"/>
-                <guid>https://podcast.ausha.co/tous-les-chemins-menent-a-barcelone/la-crise-de-la-cinquantaine</guid>
+                <link>https://podcast.dimitriregnier.net/@lemegaphone/episodes/fixer-le-souvenir</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.dimitriregnier.net/audio/@lemegaphone/fixer-le-souvenir.mp3?_from=fyyd.de"/>
+                <guid>https://podcast.dimitriregnier.net/@lemegaphone/episodes/fixer-le-souvenir</guid>
                 
             </item>
         </channel>
