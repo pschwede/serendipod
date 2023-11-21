@@ -9,30 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 20 Nov 2023 04:22:47 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 21 Nov 2023 04:22:29 +0200</lastBuildDate>
             <item>
-                <title>Dem Auferstandenen nachfolgen (Pascal Grosjean)</title>
-                <description>&#34;Dem Auferstandenen nachfolgen&#34; von Pascal Grosjean am 19.11.2023. 
-Weitere Infos unter https://predigten.ecg.berlin/sermon/index?id=7184
-
-Feed: https://predigten.ecg.berlin/sermon/rss?filter%5BgroupCode%5D=Predigt&amp;filter%5Blanguage%5D=de</description>
+                <title>Warum du schon jetzt die Weichen für 2024 stellen solltest!</title>
+                <description>Erfahre wie mit der richtigen Planung 2024 ein Erfolg wird.
+Feed: https://podcast1a1aab.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://predigten.ecg.berlin/sermon/index?id=7184</link>
-                <enclosure type="audio/mpeg" length="1" url="http://predigten.ecg.berlin/downloads/hellersdorf/Predigt/audio/2023/2023-11-19_Dem-Auferstandenen-nachfolgen_Pascal-Grosjean.mp3"/>
-                <guid>https://predigten.ecg.berlin/sermon/index?id=7184</guid>
+                <link>https://podcast1a1aab.podigee.io/138-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1268684-m-cd0f4718ef78e55b2aa60fe58057df88.mp3?source=feed"/>
+                <guid>https://podcast1a1aab.podigee.io/138-new-episode</guid>
                 
             </item><item>
-                <title>WR 208 Die hässlichen Bundesadler aus Bremen</title>
-                <description>Ein Unentschieden gegen die Eintracht. Wie ist dieses Unentschieden zu bewerten? 
-Dieses und weitere Themen besprechen wir wieder zusammen mit Panskihb.
-Außerdem reden wir noch über das bevorstehende Heimspiel gegen Bayer 04 Leverkusen.
-Feed: http://werder-raute.de/feed/mp3/</description>
+                <title>&amp;quot;Nagelsmann lässt sich blenden von Kimmich&amp;quot;</title>
+                <description>Spiel gegen uns bei Kicktipp!
+https://www.kicktipp.de/basler-ballert/
+Hier folgen:
+Instagram
+Die neue Folge des Podcasts &#34;Basler ballert&#34; mit Mario Basler und Oliver Dütschke steht fast komplett im Zeichen des Fußball-Länderspiels vom DFB-Team gegen die Türkei...
+Feed: https://basler-ballert.audiotakes.de/basler-ballert-der-podcast-powered-by-newsflash24de.rss</description>
                 
                 
-                <link>http://werder-raute.de/2023/11/15/wr-208-die-haesslichen-bundesadler-aus-bremen/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://werder-raute.de/podlove/file/1700/s/feed/c/mp3/WR_208_Die_haesslichen_Bundesadler_aus_Bremen.mp3"/>
-                <guid>http://werder-raute.de/2023/11/15/wr-208-die-haesslichen-bundesadler-aus-bremen/</guid>
+                <link>https://newsflash24.de/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://main.podcast-hosting.org/basler-ballert.audiotakes.de/basler-ballert-der-podcast-powered-by-newsflash24de/media/BB50_Abmischung_2.mp3?awCollectionId=at-9q7ey&amp;awEpisodeId=at-9q7ey-e847c37ca3ae3421b99f7964b1c5a5c80cba6f61&amp;origin=feed&amp;v=1700496086"/>
+                <guid>https://newsflash24.de/</guid>
                 
             </item>
         </channel>
