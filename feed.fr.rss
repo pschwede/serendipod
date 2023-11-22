@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 21 Nov 2023 04:22:33 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 Nov 2023 04:22:21 +0200</lastBuildDate>
             <item>
-                <title>Thread horreur 19 : ALEXA, est ce qu&#39;il y a des esprits chez moi ?! (je crois bien que oui)</title>
-                <description>Alexa, est ce qu&#39;il y a des esprits chez moi ? Je crois bien que oui ! Cette nuit il m&#39;est encore arrivé des choses étranges ... 
- 
-Ps : Ceci n&#39;est pas un placement de produit.
- 
-UPDATE : Depuis cette nuit tout mon système de domotique Alexa bug, ...
-Feed: https://feeds.audiomeans.fr/feed/ad057f0a-e4ff-4730-8be9-7ae1a01876db.xml</description>
+                <title>“Polar Park” (Arte) &amp; &#34;La Chica Invisible&#34; (Polar+)</title>
+                <description>“Polar Park” (Arte) &amp; &#34;La Chica Invisible&#34; (Polar+)
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20470.xml</description>
+                
+                
+                <link>https://www.radiofrance.fr/franceinter/podcasts/le-temps-des-series/le-temps-des-series-du-samedi-28-octobre-2023-8303733</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/817ad496-e22b-4a3d-a330-b0a3ac4af634/20470-28.10.2023-ITEMA_23495187-2023F52526S0301-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-temps-des-series/le-temps-des-series-du-samedi-28-octobre-2023-8303733</guid>
+                
+            </item><item>
+                <title>Le cycle négatif de la rumination</title>
+                <description>Qu&#39;est-ce que la rumination? Pourquoi certains ruminent autant? Que peut-on y faire?
+Feed: https://malka.fr/podcast/newfeed.rss</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/cf326455-173f-4e6d-9917-0371e71caefc.mp3?_=1700155719"/>
+                <enclosure type="audio/mpeg" length="1" url="http://malka.fr/podcast/ruminator.mp3"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Replanter la forêt en Indonésie 4/4 : Nasique et &#34;Salty&#34;, l&#39;histoire du singe et du croco géant (Réo, Planète Urgence)</title>
-                <description>Les 17 500 îles indonésiennes hébergent le 2e hotspot (foisonnement) de biodiversité mondiale après le Brésil. Reonaldus, notre invité, est l’un de ses 270 millions d’habitants et le dirigeant local de Planète Urgence (https://planete-urgence.org/).
-&#34;...
-Feed: https://feed.ausha.co/oR3M1sX0ZX48</description>
-                
-                
-                <link>https://podcast.ausha.co/combats/savez-vous-planter-des-forets-nasique-et-crocodile-marin-rheo-indonesie-4-4</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/omArMiVzDd8o.mp3?t=1698848448"/>
-                <guid>https://podcast.ausha.co/combats/savez-vous-planter-des-forets-nasique-et-crocodile-marin-rheo-indonesie-4-4</guid>
                 
             </item>
         </channel>
