@@ -9,26 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 Nov 2023 04:22:21 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 23 Nov 2023 04:22:05 +0200</lastBuildDate>
             <item>
-                <title>“Polar Park” (Arte) &amp; &#34;La Chica Invisible&#34; (Polar+)</title>
-                <description>“Polar Park” (Arte) &amp; &#34;La Chica Invisible&#34; (Polar+)
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20470.xml</description>
+                <title>MA PAUSE GOURMANDE... Avec Florence ! - #02E04</title>
+                <description>Tous les mercredis, rejoignez Christian dans ses …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:768821542/sounds.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/le-temps-des-series/le-temps-des-series-du-samedi-28-octobre-2023-8303733</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/817ad496-e22b-4a3d-a330-b0a3ac4af634/20470-28.10.2023-ITEMA_23495187-2023F52526S0301-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-temps-des-series/le-temps-des-series-du-samedi-28-octobre-2023-8303733</guid>
+                <link>https://soundcloud.com/lespasseursdecles/ma-pause-gourmande-avec-florence-02e04</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1652088141-lespasseursdecles-ma-pause-gourmande-avec-florence-02e04.mp3"/>
+                <guid>https://soundcloud.com/lespasseursdecles/ma-pause-gourmande-avec-florence-02e04</guid>
                 
             </item><item>
-                <title>Le cycle négatif de la rumination</title>
-                <description>Qu&#39;est-ce que la rumination? Pourquoi certains ruminent autant? Que peut-on y faire?
-Feed: https://malka.fr/podcast/newfeed.rss</description>
+                <title>CQEP - 154 - La course MotoGP de Losail (QAT)</title>
+                <description>alut à toutes et à tous, 
+Stéphane et Cyrille débriefent un weekend marqué par le titre de Masia en Moto 3.
+En MotoGP, il faudra attendre Valence pour que la décision se fasse entre Bagnaia et Martin; le pilote espagnoe compte 21 points de retard.
+Di Gianantonio concrétise sa très belle forme en remportant une vistoire pleine de panache.
+A très vite pour le débreif de Valence
+Bonne écoute
+Twitter: @cqep_pod 
+Discord: https://discord...
+Feed: https://cqeppod.lepodcast.fr/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://malka.fr/podcast/ruminator.mp3"/>
-                <guid></guid>
+                <link>https://cqeppod.lepodcast.fr/cqep-154-la-course-motogp-de-losail-qat</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/cqeppod/cqep-154-la-course-motogp-de-losail-qat/enclosure.7bf15de51beb3c28759da9788d9c1336de7eee8846ceaf9302d383d511b3d520.mp3?p=f"/>
+                <guid>https://cqeppod.lepodcast.fr/cqep-154-la-course-motogp-de-losail-qat</guid>
                 
             </item>
         </channel>
