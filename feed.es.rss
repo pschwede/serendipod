@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 23 Nov 2023 04:22:10 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 24 Nov 2023 04:21:48 +0200</lastBuildDate>
             <item>
-                <title>Adornos de perlas de vidrio muy especiales</title>
-                <description>Las últimas de su tipo: perlas de vidrio artesanales para el árbol de Navidad. Solo una pequeña empresa familiar de la República Checa sigue produciendo estos delicados adornos populares en todo el mundo.
-Feed: https://rss.dw.com/xml/podcast_euromaxx_spa</description>
+                <title>Long Play 13/11/2023</title>
+                <description>&lt;p&gt;&lt;/p&gt;
+Feed: https://feeds.feedburner.com/RipolletRadioLongPlay</description>
                 
                 
-                <link>https://www.dw.com/es/adornos-de-perlas-de-vidrio-muy-especiales/video-67457320?maca=spa-podcast_euromaxx_spa-7581-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ems/ems20231117_weihnachtsglasperlen_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/adornos-de-perlas-de-vidrio-muy-especiales/video-67457320?maca=spa-podcast_euromaxx_spa-7581-xml-mrss</guid>
+                <link>https://ripolletradio.cat/2023/11/13/long-play-13-11-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/longplay/audios.ripolletradio.cat/2324/longplay/231113longplay.mp3"/>
+                <guid>https://ripolletradio.cat/2023/11/13/long-play-13-11-2023/</guid>
                 
             </item><item>
-                <title>BlitzoCast 108 - Viaje jistocástico</title>
-                <description>Esto es BlitzoCast. No es HistoCast pero casi. Tenemos que anunciaros que nos embarcamos en una nueva aventura, literalmente un viaje con los oyentes. Os lo cuentan David Arjona, @tamtamveramendi, @HugoACanete y @goyix_salduero. Os recordamos que nos pod&amp;eacute;is seguir a trav&amp;eacute;s de nuestra cuenta de twitter @histocast y en facebook.
-Soundtrack (CC PDM 1.0):
-Albert Farrington - It&#39;s a long way to Tipperary
-Soundtrack (CC BY 3...
-Feed: https://www.ivoox.com/podcast-histocast_fg_f132047_filtro_1.xml</description>
+                <title>A golpe de bit - Sólo el 40% de las empresas registra su Plan de Igualdad - 22/11/23</title>
+                <description>Sólo el 40% de las empresas registra su Plan de Igualdad
+Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/blitzocast-108-viaje-jistocastico-audios-mp3_rf_119723214_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/blitzocast-108-viaje-jistocastico_mh_119723214_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/blitzocast-108-viaje-jistocastico-audios-mp3_rf_119723214_1.html</guid>
+                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/solo-40-empresas-registra-su-plan-igualdad/7016754/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7016754.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/solo-40-empresas-registra-su-plan-igualdad/7016754/</guid>
                 
             </item>
         </channel>
