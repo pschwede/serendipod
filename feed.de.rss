@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Nov 2023 04:21:39 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 25 Nov 2023 04:21:15 +0200</lastBuildDate>
             <item>
-                <title>Das Interview mit Maik Pfingsten</title>
-                <description>Maik Pfingsten ist Mentor und Gründer der Productized Service Mastermind.
-Feed: https://ipad4productivity.libsyn.com/rss</description>
+                <title>Anstand - Bernd Braun zu Gast</title>
+                <description>Bernd Braun, Business-Coach für Digitale Etiquette &amp; Competence im Interview. Adolph Freiherr von Knigge, der vermeintliche Autor der Anstands-Fibel über Etikette und gutes Benehmen schrieb 1788 das Buch „Über den Umgang mit Menschen“. Interessanterweise hat das Buch von ihm mit dem Anstandsweisheiten, wie wir sie heute kennen, nichts gemein. Kaum ein Buch wurde über die Jahre so verhunzt...
+Feed: https://birgitschuermann.podcaster.de/Rhetorik.rss</description>
                 
                 
-                <link>https://digital4productivity.de/das-interview-mit-maik-pfingsten</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/ipad4productivity/Podcast_Interview_Maik_Pfingsten_1.mp3?dest-id=239926"/>
-                <guid>https://digital4productivity.de/das-interview-mit-maik-pfingsten</guid>
+                <link>https://www.birgit-schuermann.com/podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://birgitschuermann.podcaster.de/Rhetorik/media/Podcast_121_Bernd_Braun_-_18-11-23-_18-02.mp3"/>
+                <guid>https://www.birgit-schuermann.com/podcast</guid>
                 
             </item><item>
-                <title>Erkenne die POWER Deiner Einzigartigkeit für eine Neue Welt ???? DU bist WICHTIG! | 293</title>
-                <description>Ohne DICH geht‘s nicht!
-Feed: https://ankommenimleben.podigee.io/feed/mp3</description>
+                <title>#129. Symptome googeln</title>
+                <description>Die Herbstdepression kommt mit Grippe im Gepäck schneller als man denkt. Sorry fürs laut Atmen, unsere Technik ist einfach zu Stabil.
+Feed: https://feeds.redcircle.com/5ee9eb92-698a-4c8b-8f96-3fb2e5d98de5</description>
                 
                 
-                <link>https://ankommenimleben.podigee.io/293-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1286647-m-b147350357dbe4f5a2b1aea826d53aa0.mp3?source=feed"/>
-                <guid>https://ankommenimleben.podigee.io/293-neue-episode</guid>
+                <link>https://redcircle.com/shows/5ee9eb92-698a-4c8b-8f96-3fb2e5d98de5/episodes/536f0790-731c-4fd4-acd7-c0ea641078c0</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio3.redcircle.com/episodes/536f0790-731c-4fd4-acd7-c0ea641078c0/stream.mp3"/>
+                <guid>https://redcircle.com/shows/5ee9eb92-698a-4c8b-8f96-3fb2e5d98de5/episodes/536f0790-731c-4fd4-acd7-c0ea641078c0</guid>
                 
             </item>
         </channel>

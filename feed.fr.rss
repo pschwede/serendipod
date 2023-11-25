@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Nov 2023 04:21:44 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 25 Nov 2023 04:21:19 +0200</lastBuildDate>
             <item>
-                <title>Chemins d&#39;histoire-Juifs et conversion à Rome au XVIe s., avec I. Poutrin-21.11.23</title>
-                <description>Cent soixante-neuvième numéro de Chemins d&#39;histoi…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:73343895/sounds.rss</description>
+                <title>Le cours de math : 11/22/2023 20:00</title>
+                <description>1226-301034
+Feed: http://podcast.cism893.ca/radioshows/1226/feed_itunes.xml</description>
                 
                 
-                <link>https://soundcloud.com/luc-daireaux/chemins-dhistoire-juifs-et-conversion-a-rome-au-xvie-s-avec-i-poutrin-211123</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1670349213-luc-daireaux-chemins-dhistoire-juifs-et-conversion-a-rome-au-xvie-s-avec-i-poutrin-211123.mp3"/>
-                <guid>https://soundcloud.com/luc-daireaux/chemins-dhistoire-juifs-et-conversion-a-rome-au-xvie-s-avec-i-poutrin-211123</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/301034.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/301034.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/301034.mp3</guid>
                 
             </item><item>
-                <title>Le sentier lumineux </title>
-                <description>Le sentier lumineux 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14726.xml</description>
+                <title>Épisode 47 - Verlaine, prince des « poètes maudits »</title>
+                <description>Il a défrayé la chronique par sa vie dissolue et sa relation avec Rimbaud. A force de subvertir les règles de la versification et d’oser la dissonance pour mieux exprimer une harmonie, Verlaine est devenu l’un des plus grands poètes du monde.
+Enfan...
+Feed: https://feed.ausha.co/NbYNrMHnO4VB</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/rendez-vous-avec-x/rendez-vous-avec-x-du-samedi-09-octobre-2021-8051994</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/4d837add-a73a-46c9-bd88-7cea8f300864/14726-04.11.2023-ITEMA_23540566-2021F4726S0282-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/rendez-vous-avec-x/rendez-vous-avec-x-du-samedi-09-octobre-2021-8051994</guid>
+                <link>https://podcast.ausha.co/portraits-par-lire-magazine-litteraire/verlaine</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.soundcast.io/v1/stitch/ausha.mp3?tags=63b43c05d782b&amp;apiKey=c1a94b3301c64853868548ac73233ca1&amp;podcastUrl=https%3A%2F%2Faudio.ausha.co%2FbjpRzS11XjxV.mp3%3Ft%3D1695140433"/>
+                <guid>https://podcast.ausha.co/portraits-par-lire-magazine-litteraire/verlaine</guid>
                 
             </item>
         </channel>
