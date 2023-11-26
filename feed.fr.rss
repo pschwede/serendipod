@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 25 Nov 2023 04:21:19 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 26 Nov 2023 04:21:19 +0200</lastBuildDate>
             <item>
-                <title>Le cours de math : 11/22/2023 20:00</title>
-                <description>1226-301034
-Feed: http://podcast.cism893.ca/radioshows/1226/feed_itunes.xml</description>
+                <title>Judy Chicago : dépasser le sexisme pour devenir artiste #17</title>
+                <description>&lt;p&gt;Dans ce nouvel épisode de Pour de vrai, je vous parle de l’artiste Etats-Unienne &lt;strong&gt;Judy Chicago&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Si elle n’est pas très connue en dehors des milieux artistiques, Judy Chicago est une des pionnières de l’art féministe. Par sa pratique artistique engagée et en s’imposant dans un milieu de l’art californien sexiste et masculin dans les années 70, elle a permis l’émergence de sujets touchant les femmes...
+Feed: https://anchor.fm/s/914a0e20/podcast/rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/301034.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/301034.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/301034.mp3</guid>
+                <link>https://podcasters.spotify.com/pod/show/pour-de-vrai/episodes/Judy-Chicago--dpasser-le-sexisme-pour-devenir-artiste-17-e2ae9hr</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/914a0e20/podcast/play/77063163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-11%2F46a66656-f8e9-393d-f02d-907bab6c2a50.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/pour-de-vrai/episodes/Judy-Chicago--dpasser-le-sexisme-pour-devenir-artiste-17-e2ae9hr</guid>
                 
             </item><item>
-                <title>Épisode 47 - Verlaine, prince des « poètes maudits »</title>
-                <description>Il a défrayé la chronique par sa vie dissolue et sa relation avec Rimbaud. A force de subvertir les règles de la versification et d’oser la dissonance pour mieux exprimer une harmonie, Verlaine est devenu l’un des plus grands poètes du monde.
-Enfan...
-Feed: https://feed.ausha.co/NbYNrMHnO4VB</description>
+                <title>États altérés : 11/21/2023 00:00</title>
+                <description>655-300904
+Feed: http://podcast.cism893.ca/radioshows/655/feed_itunes.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/portraits-par-lire-magazine-litteraire/verlaine</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.soundcast.io/v1/stitch/ausha.mp3?tags=63b43c05d782b&amp;apiKey=c1a94b3301c64853868548ac73233ca1&amp;podcastUrl=https%3A%2F%2Faudio.ausha.co%2FbjpRzS11XjxV.mp3%3Ft%3D1695140433"/>
-                <guid>https://podcast.ausha.co/portraits-par-lire-magazine-litteraire/verlaine</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/300904.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/300904.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/300904.mp3</guid>
                 
             </item>
         </channel>
