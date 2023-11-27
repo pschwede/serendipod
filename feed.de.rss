@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 26 Nov 2023 04:21:13 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 27 Nov 2023 04:22:26 +0200</lastBuildDate>
             <item>
-                <title>Christkönig</title>
-                <description>Die wahre Alternative
-Feed: https://schiesslerswoche.podigee.io/feed/mp3</description>
+                <title>130: FRANK NUBER (SGM HEUBERG)</title>
+                <description>Frank Nuber von der SGM Heuberg ist zu Gast. Ein interessantes Gespräch ist die Folge. Die SGM spielt keine gute Saison bisher in der Bezirksliga Zollern. Man steht nach 14 Spielen mit sieben Punkten auf dem vorletzten Platz. Unter anderem darüber haben wir mit Frank gesprochen.
+Hier geht&#39;s zu Moritz: https://www.instagram.com/moritzliss/
+Das Team Match.Report:
+Tom Vetter: https://www.instagram.com/_tomvetter_/
+Marius Schmiedel: https://www.instagram...
+Feed: https://rjnhhj.podcaster.de/sportlerfruehstueck.rss</description>
                 
                 
-                <link>https://schiesslerswoche.podigee.io/214-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1289536-m-373ca2edcba901e6b2c8fa68782ab093.mp3?source=feed"/>
-                <guid>https://schiesslerswoche.podigee.io/214-new-episode</guid>
+                <link>https://rjnhhj.podcaster.de/sportlerfruehstueck/130-frank-nuber-sgm-heuberg/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://deliver.audiotakes.net/d/rjnhhj.podcaster.de/p/sportlerfruehstueck/m/20231122_Zollern.mp3?awCollectionId=at-x8upt&amp;awEpisodeId=at-x8upt-93a0eed59b5cd5047e8cfc89b88040f4ede9b2e1&amp;origin=feed&amp;v=1700640004"/>
+                <guid>https://rjnhhj.podcaster.de/sportlerfruehstueck/130-frank-nuber-sgm-heuberg/</guid>
                 
             </item><item>
-                <title>Franchisegeber müssen sich nicht bedroht fühlen [English]</title>
-                <description>Warum mächtige Multi-Unit und Multi-Brand-Franchisenehmer bestärkt werden müssen
-Feed: https://franchiseuniversum.podigee.io/feed/mp3</description>
+                <title>Betty Gore ist tot!</title>
+                <description>Candy: Tod in Texas
+Feed: https://feeds.acast.com/public/shows/630cbf19fb72b400121afb32</description>
                 
                 
-                <link>https://www.franchiseuniversum.de/ratgeber-podcast/218</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1290432-m-c4435d9cf77887dccd4038779e764a2f.mp3?source=feed"/>
-                <guid>https://www.franchiseuniversum.de/ratgeber-podcast/218</guid>
+                <link>https://linktr.ee/wahre_verbrechen_pc</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/630cbf19fb72b400121afb32/e/6552575946e5c90011e320d3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=9oKGKZVn6xTFQDeNyu24YdpS5ucY3K2cRdI6XHge9bQ"/>
+                <guid>https://linktr.ee/wahre_verbrechen_pc</guid>
                 
             </item>
         </channel>
