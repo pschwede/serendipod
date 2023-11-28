@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 27 Nov 2023 04:22:37 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 Nov 2023 04:22:25 +0200</lastBuildDate>
             <item>
-                <title>Hora América en Radio 5 - Pan de muertos: dulce típico mexicano también en España - 23/11/23</title>
-                <description>Pan de muertos: dulce típico mexicano también en España
-Feed: http://api.rtve.es/api/programas/37571/audios.rss</description>
+                <title>Vestir mejor con menos prendas: el armario sostenible - Episodio 3</title>
+                <description>&lt;p&gt;¿Nos hemos creído que es obligatorio ir a la moda? Cada vez somos más conscientes de la importancia de consumir ropa de una forma más responsable, pero la industria suele ser más fuerte que nuestro propósito y tanto el marketing como las redes sociales y los precios de la fast fashion lo ponen verdaderamente difícil...
+Feed: https://www.omnycontent.com/d/playlist/2446592a-b80e-4d28-a4fd-ae4c0140ac11/9d313449-5b99-4855-81a4-aea700ee3a1b/5589b437-096d-42ae-999e-aea700ee3a33/podcast.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hora-america-en-radio-5/pan-muertos-dulce-tipico-mexicano-tambien-espana/7017751/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7017751.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hora-america-en-radio-5/pan-muertos-dulce-tipico-mexicano-tambien-espana/7017751/</guid>
+                <link>https://omny.fm/shows/ma-ana-empiezo/vestir-mejor-con-menos-prendas-el-armario-sostenib</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/2446592a-b80e-4d28-a4fd-ae4c0140ac11/9d313449-5b99-4855-81a4-aea700ee3a1b/5a703a54-5bc3-4485-9837-b0c6017a195d/audio.mp3?utm_source=Podcast&amp;in_playlist=5589b437-096d-42ae-999e-aea700ee3a33"/>
+                <guid>https://omny.fm/shows/ma-ana-empiezo/vestir-mejor-con-menos-prendas-el-armario-sostenib</guid>
                 
             </item><item>
-                <title>133: La tiendita de la esquina</title>
-                <description>En este episodio, José y Paulina exploran la conexión única con &#34;La tiendita de la esquina&#34;, compartiendo anécdotas, humor y señales divertidas sobre el no fiar. ¡Imperdible! ????????
-Feed: https://www.easyspanish.fm/rss</description>
+                <title>Peligrosamente juntos - U.S. Girls - 26/11/23</title>
+                <description>U.S. Girls
+Feed: http://api.rtve.es/api/programas/2066/audios.rss</description>
                 
                 
-                <link>https://www.easyspanish.fm/133</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G7F34G/aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/9b7820f5-605e-4252-8db1-5ca2bc19010d.mp3"/>
-                <guid>https://www.easyspanish.fm/133</guid>
+                <link>https://www.rtve.es/play/audios/peligrosamente-juntos/us-girls/7015319/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7015319.mp3"/>
+                <guid>https://www.rtve.es/play/audios/peligrosamente-juntos/us-girls/7015319/</guid>
                 
             </item>
         </channel>

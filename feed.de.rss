@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 27 Nov 2023 04:22:26 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 Nov 2023 04:22:17 +0200</lastBuildDate>
             <item>
-                <title>130: FRANK NUBER (SGM HEUBERG)</title>
-                <description>Frank Nuber von der SGM Heuberg ist zu Gast. Ein interessantes Gespräch ist die Folge. Die SGM spielt keine gute Saison bisher in der Bezirksliga Zollern. Man steht nach 14 Spielen mit sieben Punkten auf dem vorletzten Platz. Unter anderem darüber haben wir mit Frank gesprochen.
-Hier geht&#39;s zu Moritz: https://www.instagram.com/moritzliss/
-Das Team Match.Report:
-Tom Vetter: https://www.instagram.com/_tomvetter_/
-Marius Schmiedel: https://www.instagram...
-Feed: https://rjnhhj.podcaster.de/sportlerfruehstueck.rss</description>
+                <title>158 Heult nicht rum, wenn’s abgelaufen ist!</title>
+                <description>Das TolkCast-Team meldet sich in mit einer energiegeladenen Sendung zurück, vollgepackt mit Neuigkeiten und einem charmanten Käse-Ausklang.
+Feed: https://www.tolkcast.de/feed/mp3</description>
                 
                 
-                <link>https://rjnhhj.podcaster.de/sportlerfruehstueck/130-frank-nuber-sgm-heuberg/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://deliver.audiotakes.net/d/rjnhhj.podcaster.de/p/sportlerfruehstueck/m/20231122_Zollern.mp3?awCollectionId=at-x8upt&amp;awEpisodeId=at-x8upt-93a0eed59b5cd5047e8cfc89b88040f4ede9b2e1&amp;origin=feed&amp;v=1700640004"/>
-                <guid>https://rjnhhj.podcaster.de/sportlerfruehstueck/130-frank-nuber-sgm-heuberg/</guid>
+                <link>https://www.tolkcast.de/episode/158-heult-nicht-rum-wenn-s-abgelaufen-ist</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/de9ecdb2/episode/b49aef70.mp3?t=1700679438"/>
+                <guid>https://www.tolkcast.de/episode/158-heult-nicht-rum-wenn-s-abgelaufen-ist</guid>
                 
             </item><item>
-                <title>Betty Gore ist tot!</title>
-                <description>Candy: Tod in Texas
-Feed: https://feeds.acast.com/public/shows/630cbf19fb72b400121afb32</description>
+                <title>Das Interview mit Maik Pfingsten</title>
+                <description>Maik Pfingsten ist Mentor und Gründer der Productized Service Mastermind.
+Feed: https://ipad4productivity.libsyn.com/rss</description>
                 
                 
-                <link>https://linktr.ee/wahre_verbrechen_pc</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/630cbf19fb72b400121afb32/e/6552575946e5c90011e320d3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=9oKGKZVn6xTFQDeNyu24YdpS5ucY3K2cRdI6XHge9bQ"/>
-                <guid>https://linktr.ee/wahre_verbrechen_pc</guid>
+                <link>https://digital4productivity.de/das-interview-mit-maik-pfingsten</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/ipad4productivity/Podcast_Interview_Maik_Pfingsten_1.mp3?dest-id=239926"/>
+                <guid>https://digital4productivity.de/das-interview-mit-maik-pfingsten</guid>
                 
             </item>
         </channel>
