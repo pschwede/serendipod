@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 28 Nov 2023 04:22:17 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 30 Nov 2023 04:22:13 +0200</lastBuildDate>
             <item>
-                <title>158 Heult nicht rum, wenn’s abgelaufen ist!</title>
-                <description>Das TolkCast-Team meldet sich in mit einer energiegeladenen Sendung zurück, vollgepackt mit Neuigkeiten und einem charmanten Käse-Ausklang.
-Feed: https://www.tolkcast.de/feed/mp3</description>
+                <title>Worte &#34;wider den Antisemitismus&#34;: Was beteiligte Autor*innen lesen werden</title>
+                <description> &amp;nbsp;Dückers, Tanja; Kapitelman, Dmitrij; Poschmann, Marion&lt;br/&gt;www.deutschlandfunkkultur.de, Lesart&lt;br/&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+  
+Feed: https://www.deutschlandfunkkultur.de/lesart-das-literaturmagazin-100.xml</description>
                 
                 
-                <link>https://www.tolkcast.de/episode/158-heult-nicht-rum-wenn-s-abgelaufen-ist</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/de9ecdb2/episode/b49aef70.mp3?t=1700679438"/>
-                <guid>https://www.tolkcast.de/episode/158-heult-nicht-rum-wenn-s-abgelaufen-ist</guid>
+                <link>https://www.deutschlandfunkkultur.de/worte-wider-den-antisemitismus-was-beteiligte-autor-innen-lesen-werden-dlf-kultur-33868917-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2023/11/29/worte_wider_den_antisemitismus_was_beteiligte_autorinnen_drk_20231129_1054_33868917.mp3?refId=lesart-das-literaturmagazin-100"/>
+                <guid>https://www.deutschlandfunkkultur.de/worte-wider-den-antisemitismus-was-beteiligte-autor-innen-lesen-werden-dlf-kultur-33868917-100.html</guid>
                 
             </item><item>
-                <title>Das Interview mit Maik Pfingsten</title>
-                <description>Maik Pfingsten ist Mentor und Gründer der Productized Service Mastermind.
-Feed: https://ipad4productivity.libsyn.com/rss</description>
+                <title>Sonntagsimpuls -71- Was hat Ja-Sagen mit Frieden zu tun?</title>
+                <description>&lt;p&gt;
+Heute gehe ich zum einen auf den Aspekt des „Ja-Sagens“ ein, wenn man eigentlich „Nein“ meint. Der andere Aspekt ist die bedingungslose Annahme, das bedingungslose „Ja-Sagen“. Beides sind sehr spannende Themen.
+Das ist das Kinderbuch, das ich am Ende des Videos erwähnte: 
+„Die Wiese“ von Susan Bagdach. ISBN-13: 978-3964440006. Eine absolute Kaufempfehlung.
+Apropos Kaufempfehlung: In dem Video stelle ich Dir meine Print-Produkte vor: 
+   • Geschenkideen (auch) für Weihnachten .....
+Feed: https://anchor.fm/s/a4754b4/podcast/rss</description>
                 
                 
-                <link>https://digital4productivity.de/das-interview-mit-maik-pfingsten</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/ipad4productivity/Podcast_Interview_Maik_Pfingsten_1.mp3?dest-id=239926"/>
-                <guid>https://digital4productivity.de/das-interview-mit-maik-pfingsten</guid>
+                <link>https://podcasters.spotify.com/pod/show/iris-ludolf/episodes/Sonntagsimpuls--71--Was-hat-Ja-Sagen-mit-Frieden-zu-tun-e2cf3ah</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/a4754b4/podcast/play/79186705/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-29%2F305a90fd-6b18-8010-ce48-d1f4bf2fa9e6.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/iris-ludolf/episodes/Sonntagsimpuls--71--Was-hat-Ja-Sagen-mit-Frieden-zu-tun-e2cf3ah</guid>
                 
             </item>
         </channel>

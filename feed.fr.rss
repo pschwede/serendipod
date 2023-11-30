@@ -9,30 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 28 Nov 2023 04:22:21 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 30 Nov 2023 04:22:19 +0200</lastBuildDate>
             <item>
-                <title>Quoi de Libre ? Actualités et annonces concernant l&#39;April et le monde du libre</title>
-                <description> Les références : &lt;ul class=&#34;spip&#34;&gt;&lt;li&gt; Pour continuer à exister, radio Cause commune a besoin de vous&lt;/li&gt;&lt;li&gt; Soirée « radio ouverte » au studio de Cause Commune (Paris, 18e) vendredi 1er décembre 2023 à partir de 19 h 30&lt;/li&gt;&lt;li&gt; L&#39;April présente à Capitole du Libre à Toulouse les 18 et 19 novembre 2023&lt;/li&gt;&lt;li&gt; Install Party GNU/Linux à Marseille le samedi 25 novembre 2023 de 14h00 à 19h00&lt;/li&gt;&lt;li&gt; Install party et aide à la résolution de vos petits problèmes informatiques, à Vernon...
-Feed: https://april.org/lav.xml</description>
+                <title>Stop ou Encore du 26 novembre 2023</title>
+                <description>Ecoutez Stop ou Encore du 26 novembre 2023 avec Éric Jean-Jean.
+Feed: https://feeds.audiomeans.fr/feed/923c454c-9a6c-4dd3-987f-159bda81d36f.xml</description>
                 
                 
-                <link>https://www.libreavous.org/191-la-federation-des-pros-d-osm-le-reconditionnement-l-interet-de-contribuer-a</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20231114/libre-a-vous-20231114-annonces.mp3"/>
-                <guid>https://www.libreavous.org/191-la-federation-des-pros-d-osm-le-reconditionnement-l-interet-de-contribuer-a</guid>
+                <link>https://www.rtl.fr/programmes/stop-ou-encore</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/f43c5249-cd08-44af-a2af-3ed347151544.mp3?_=1700997492"/>
+                <guid>https://www.rtl.fr/programmes/stop-ou-encore</guid>
                 
             </item><item>
-                <title>On sème FORT ! - Hiverner et ranger son jardin avant l&#39;hiver - Emission du 24 novembre</title>
-                <description>Au programme de cette émission : 
-Dans les régions au climat doux, on peut encore planter et repiquer l&#39;ail, les fraisiers, les salades...
-Les bulbes à floraison printanière peuvent être repiqués.
-Retrouvez l&#39;agenda du jardinier sur notre blog !
-Comme...
-Feed: https://feed.ausha.co/oRdQLT4qD569</description>
+                <title>Temic - Terror Management Theory</title>
+                <description>&lt;p&gt;Temic est un nouveau groupe de Metal Progressif très prometteur. Composé d&amp;#39;Eric Gillette (Neal Morse Band) et de Diego Tejeida (ex-Haken, Devin Townsend) qui, après avoir parcouru le monde dans le Mike Portnoy&amp;#39;s Shattered Fortress, ont décidé de lancer ce nouveau projet avec cet excellent premier album.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Xavier Boscher est un musicien, guitariste, compositeur, peintre, auteur et podcaster français, il a enregistré plus de 500 titres sur plus de 50 albums...
+Feed: https://anchor.fm/s/cbd8cb6c/podcast/rss</description>
                 
                 
-                <link>https://podcast.ausha.co/monjardinbio-podcast-jardinage-bio/on-seme-fort-hiverner-et-ranger-son-jardin-avant-l-hiver-emission-du-24-novembre</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/yOd5wsw3mnlL.mp3?t=1700818157"/>
-                <guid>https://podcast.ausha.co/monjardinbio-podcast-jardinage-bio/on-seme-fort-hiverner-et-ranger-son-jardin-avant-l-hiver-emission-du-24-novembre</guid>
+                <link>https://podcasters.spotify.com/pod/show/1jour1album/episodes/Temic---Terror-Management-Theory-e2cjbcl</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/cbd8cb6c/podcast/play/79326037/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-29%2F8531362b-5982-f968-0f15-9cbffec1c24c.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/1jour1album/episodes/Temic---Terror-Management-Theory-e2cjbcl</guid>
                 
             </item>
         </channel>
