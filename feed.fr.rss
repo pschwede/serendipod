@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 30 Nov 2023 04:22:19 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 01 Dec 2023 04:22:40 +0200</lastBuildDate>
             <item>
-                <title>Stop ou Encore du 26 novembre 2023</title>
-                <description>Ecoutez Stop ou Encore du 26 novembre 2023 avec Éric Jean-Jean.
-Feed: https://feeds.audiomeans.fr/feed/923c454c-9a6c-4dd3-987f-159bda81d36f.xml</description>
+                <title>Ep 133 : SCB 36 Ne tapez pas ça dans Google</title>
+                <description>Eh non, vous ne rêvez pas, il est bien là cet épisode 37... euh 36 pardon. 2 longs mois d&#39;attente pour notre nouveau meilleur épisode, on espère que vous serez toujours au rendez-vous !
+Au programme donc, Dave - John Wick - Mustaine, une nouvelle juri...
+Feed: https://feed.ausha.co/b5OqSkK12NXo</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/stop-ou-encore</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/f43c5249-cd08-44af-a2af-3ed347151544.mp3?_=1700997492"/>
-                <guid>https://www.rtl.fr/programmes/stop-ou-encore</guid>
+                <link>https://podcast.ausha.co/ecoute-ca/ep-133-scb-36-ne-tapez-pas-ca-dans-google</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BDNYTMlKwzQy.mp3?t=1701105960"/>
+                <guid>https://podcast.ausha.co/ecoute-ca/ep-133-scb-36-ne-tapez-pas-ca-dans-google</guid>
                 
             </item><item>
-                <title>Temic - Terror Management Theory</title>
-                <description>&lt;p&gt;Temic est un nouveau groupe de Metal Progressif très prometteur. Composé d&amp;#39;Eric Gillette (Neal Morse Band) et de Diego Tejeida (ex-Haken, Devin Townsend) qui, après avoir parcouru le monde dans le Mike Portnoy&amp;#39;s Shattered Fortress, ont décidé de lancer ce nouveau projet avec cet excellent premier album.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Xavier Boscher est un musicien, guitariste, compositeur, peintre, auteur et podcaster français, il a enregistré plus de 500 titres sur plus de 50 albums...
-Feed: https://anchor.fm/s/cbd8cb6c/podcast/rss</description>
+                <title>#129 Emission du 28 novembre 2023</title>
+                <description>Sans contrôle, le podcast 100 % FC Nantes
+Feed: https://api.octopus.saooti.com/rss/emission/82.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/1jour1album/episodes/Temic---Terror-Management-Theory-e2cjbcl</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/cbd8cb6c/podcast/play/79326037/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-29%2F8531362b-5982-f968-0f15-9cbffec1c24c.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/1jour1album/episodes/Temic---Terror-Management-Theory-e2cjbcl</guid>
+                <link>https://podcasts.ouest-france.fr/main/pub/podcast/411521</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.octopus.saooti.com/podcast/download/411521.mp3?origin=rss"/>
+                <guid>https://podcasts.ouest-france.fr/main/pub/podcast/411521</guid>
                 
             </item>
         </channel>

@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 30 Nov 2023 04:22:13 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 01 Dec 2023 04:22:36 +0200</lastBuildDate>
             <item>
-                <title>Worte &#34;wider den Antisemitismus&#34;: Was beteiligte Autor*innen lesen werden</title>
-                <description> &amp;nbsp;Dückers, Tanja; Kapitelman, Dmitrij; Poschmann, Marion&lt;br/&gt;www.deutschlandfunkkultur.de, Lesart&lt;br/&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-  
-Feed: https://www.deutschlandfunkkultur.de/lesart-das-literaturmagazin-100.xml</description>
+                <title>Kunst unter dem Druck der Zeit</title>
+                <description>Der Hamas-Terror strahlt auch auf das Kulturleben hierzulande.
+Feed: http://www.ndr.de/podcast/podcast4374.xml</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/worte-wider-den-antisemitismus-was-beteiligte-autor-innen-lesen-werden-dlf-kultur-33868917-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2023/11/29/worte_wider_den_antisemitismus_was_beteiligte_autorinnen_drk_20231129_1054_33868917.mp3?refId=lesart-das-literaturmagazin-100"/>
-                <guid>https://www.deutschlandfunkkultur.de/worte-wider-den-antisemitismus-was-beteiligte-autor-innen-lesen-werden-dlf-kultur-33868917-100.html</guid>
+                <link>https://www.ndr.de/kultur/Kunst-unter-dem-Druck-der-Zeit,audio1515206.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4374/AU-20231123-1303-2500.mp3"/>
+                <guid>https://www.ndr.de/kultur/Kunst-unter-dem-Druck-der-Zeit,audio1515206.html</guid>
                 
             </item><item>
-                <title>Sonntagsimpuls -71- Was hat Ja-Sagen mit Frieden zu tun?</title>
-                <description>&lt;p&gt;
-Heute gehe ich zum einen auf den Aspekt des „Ja-Sagens“ ein, wenn man eigentlich „Nein“ meint. Der andere Aspekt ist die bedingungslose Annahme, das bedingungslose „Ja-Sagen“. Beides sind sehr spannende Themen.
-Das ist das Kinderbuch, das ich am Ende des Videos erwähnte: 
-„Die Wiese“ von Susan Bagdach. ISBN-13: 978-3964440006. Eine absolute Kaufempfehlung.
-Apropos Kaufempfehlung: In dem Video stelle ich Dir meine Print-Produkte vor: 
-   • Geschenkideen (auch) für Weihnachten .....
-Feed: https://anchor.fm/s/a4754b4/podcast/rss</description>
+                <title>Fotobuch-Ecke - Florian Holzherr</title>
+                <description>Im Podcast spreche ich mit Florian Holzherr über die Idee zu seinem Bildband, die Entstehung und das besondere an der Oktoberfestattraktion.
+Feed: https://de9vpm.podcaster.de/fotobuch-ecke.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/iris-ludolf/episodes/Sonntagsimpuls--71--Was-hat-Ja-Sagen-mit-Frieden-zu-tun-e2cf3ah</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/a4754b4/podcast/play/79186705/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-29%2F305a90fd-6b18-8010-ce48-d1f4bf2fa9e6.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/iris-ludolf/episodes/Sonntagsimpuls--71--Was-hat-Ja-Sagen-mit-Frieden-zu-tun-e2cf3ah</guid>
+                <link>https://fotobuch-ecke.de/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://de9vpm.podcaster.de/fotobuch-ecke/media/FBE048_-_Florian_Holzherr_Wall_of_Death_au.mp3"/>
+                <guid>https://fotobuch-ecke.de/</guid>
                 
             </item>
         </channel>

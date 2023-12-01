@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 30 Nov 2023 04:22:25 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 01 Dec 2023 04:22:44 +0200</lastBuildDate>
             <item>
-                <title>Música antigua - Hallazgos afortunados - 28/11/23</title>
-                <description>Hallazgos afortunados
-Feed: http://api.rtve.es/api/programas/23353/audios.rss</description>
+                <title>Un AirPort Time Capsule del 2009 como NAS #Tech</title>
+                <description>&lt;p&gt;El AirPort Time Capsule es un Router/Switch/NAS producido por Apple que dejó el mercado en el 2016 aproximadamente. Es la versión con disco duro del AirPort Extreme. Lo encuentras hoy bastante barato en eBay y te permite tener un pequeño NAS para hacer copias de Time Machine, por ejemplo, de todos los ordenadores de la casa.&lt;/p&gt;
+&lt;p&gt;Me pueden contactar en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/contacto...
+Feed: https://comopiensodigo.com/@comopiensodigo/feed.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/musica-antigua/hallazgos-afortunados/7022891/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7022891.mp3"/>
-                <guid>https://www.rtve.es/play/audios/musica-antigua/hallazgos-afortunados/7022891/</guid>
+                <link>https://comopiensodigo.com/@comopiensodigo/episodes/un-airport-time-capsule-del-2009-como-nas</link>
+                <enclosure type="audio/mpeg" length="1" url="https://comopiensodigo.com/audio/@comopiensodigo/un-airport-time-capsule-del-2009-como-nas.mp3?_from=fyyd.de"/>
+                <guid>https://comopiensodigo.com/@comopiensodigo/episodes/un-airport-time-capsule-del-2009-como-nas</guid>
                 
             </item><item>
-                <title>Previsualizando plugins, de nuevo</title>
-                <description>El botón de previsualizar un plugin dentro del directorio de plugins vuelve, aunque esta vez lo hace de una forma muy diferente.
-Feed: https://www.wppodcast.es/feed/podcast/</description>
+                <title>PRIMER PLANO con ALEJANDRO SANTAMARÍA</title>
+                <description>El cantante colombiano llega a Espa&amp;ntilde;a por primera vez de promoci&amp;oacute;n para hablarnos de &#39;Discoteca&#39;, su m&amp;aacute;s reciente sencillo, ocasi&amp;oacute;n que aprovechamos para conversar con &amp;eacute;l su creciente carrera. Alejandro es uno de los valores m&amp;aacute;s prometedores de la m&amp;uacute;sica latina actual y un serio candidato para convertirse en uno de esos cantantes que son, sencillamente, imprescindibles.
+Feed: https://www.ivoox.com/primer-plano_fg_f1237454_filtro_1.xml</description>
                 
                 
-                <link>https://www.wppodcast.es/podcast/previsualizando-plugins-de-nuevo/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/227/s/feed/c/podcast/wordpress-podcast-e181.mp3"/>
-                <guid>https://www.wppodcast.es/podcast/previsualizando-plugins-de-nuevo/</guid>
+                <link>https://www.ivoox.com/primer-plano-alejandro-santamaria-audios-mp3_rf_120074648_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-alejandro-santamaria_mf_120074648_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/primer-plano-alejandro-santamaria-audios-mp3_rf_120074648_1.html</guid>
                 
             </item>
         </channel>
