@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 01 Dec 2023 04:22:44 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 03 Dec 2023 04:21:23 +0200</lastBuildDate>
             <item>
-                <title>Un AirPort Time Capsule del 2009 como NAS #Tech</title>
-                <description>&lt;p&gt;El AirPort Time Capsule es un Router/Switch/NAS producido por Apple que dejó el mercado en el 2016 aproximadamente. Es la versión con disco duro del AirPort Extreme. Lo encuentras hoy bastante barato en eBay y te permite tener un pequeño NAS para hacer copias de Time Machine, por ejemplo, de todos los ordenadores de la casa.&lt;/p&gt;
-&lt;p&gt;Me pueden contactar en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta.me/contacto...
-Feed: https://comopiensodigo.com/@comopiensodigo/feed.xml</description>
+                <title>Sapiens - Cáncer. Con Juan Fueyo - 25/11/23</title>
+                <description>Cáncer. Con Juan Fueyo
+Feed: http://www.rtve.es/api/programas/128073/audios.rss</description>
                 
                 
-                <link>https://comopiensodigo.com/@comopiensodigo/episodes/un-airport-time-capsule-del-2009-como-nas</link>
-                <enclosure type="audio/mpeg" length="1" url="https://comopiensodigo.com/audio/@comopiensodigo/un-airport-time-capsule-del-2009-como-nas.mp3?_from=fyyd.de"/>
-                <guid>https://comopiensodigo.com/@comopiensodigo/episodes/un-airport-time-capsule-del-2009-como-nas</guid>
+                <link>https://www.rtve.es/play/audios/sapiens/juan-fueyo-25-11-23/7019181/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7019181.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sapiens/juan-fueyo-25-11-23/7019181/</guid>
                 
             </item><item>
-                <title>PRIMER PLANO con ALEJANDRO SANTAMARÍA</title>
-                <description>El cantante colombiano llega a Espa&amp;ntilde;a por primera vez de promoci&amp;oacute;n para hablarnos de &#39;Discoteca&#39;, su m&amp;aacute;s reciente sencillo, ocasi&amp;oacute;n que aprovechamos para conversar con &amp;eacute;l su creciente carrera. Alejandro es uno de los valores m&amp;aacute;s prometedores de la m&amp;uacute;sica latina actual y un serio candidato para convertirse en uno de esos cantantes que son, sencillamente, imprescindibles.
-Feed: https://www.ivoox.com/primer-plano_fg_f1237454_filtro_1.xml</description>
+                <title>Hora América en Radio 5 - Exposicion Picasso Mestizo de Felipe Alarcón - 30/11/23</title>
+                <description>Exposicion Picasso Mestizo de Felipe Alarcón
+Feed: http://api.rtve.es/api/programas/37571/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/primer-plano-alejandro-santamaria-audios-mp3_rf_120074648_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-alejandro-santamaria_mf_120074648_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/primer-plano-alejandro-santamaria-audios-mp3_rf_120074648_1.html</guid>
+                <link>https://www.rtve.es/play/audios/hora-america-en-radio-5/exposicion-picasso-mestizo-felipe-alarcon/7024193/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7024193.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hora-america-en-radio-5/exposicion-picasso-mestizo-felipe-alarcon/7024193/</guid>
                 
             </item>
         </channel>

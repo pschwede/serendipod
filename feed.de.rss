@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 01 Dec 2023 04:22:36 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 03 Dec 2023 04:21:12 +0200</lastBuildDate>
             <item>
-                <title>Kunst unter dem Druck der Zeit</title>
-                <description>Der Hamas-Terror strahlt auch auf das Kulturleben hierzulande.
-Feed: http://www.ndr.de/podcast/podcast4374.xml</description>
+                <title>#224 Vermögensaufbau leicht gemacht: Die 3 Formeln für Deinen finanziellen Erfolg</title>
+                <description>Mit Aktienprofi Ulrich Müller
+Feed: https://ulrichmueller.libsyn.com/rss</description>
                 
                 
-                <link>https://www.ndr.de/kultur/Kunst-unter-dem-Druck-der-Zeit,audio1515206.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4374/AU-20231123-1303-2500.mp3"/>
-                <guid>https://www.ndr.de/kultur/Kunst-unter-dem-Druck-der-Zeit,audio1515206.html</guid>
+                <link>https://www.ulrichmueller.de/?p=20173</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/ulrichmueller/Der_Borseninvestor_master_224.mp3?dest-id=2074040"/>
+                <guid>https://www.ulrichmueller.de/?p=20173</guid>
                 
             </item><item>
-                <title>Fotobuch-Ecke - Florian Holzherr</title>
-                <description>Im Podcast spreche ich mit Florian Holzherr über die Idee zu seinem Bildband, die Entstehung und das besondere an der Oktoberfestattraktion.
-Feed: https://de9vpm.podcaster.de/fotobuch-ecke.rss</description>
+                <title>Der Walzer in der Musik des 20. Jahrhunderts</title>
+                <description>Ein Streifzug durch die Kompositionsgeschichte mit Anselm Gerhard, Musikwissenschaftler. Sei es Puccini, Strauss oder Ravel oder aber Komponisten wie Arnold Schönberg, Benjamin Britten und György Kurtag - sie alle haben gewalzert in ihrer Musik. Und d ...
+Feed: https://www.srf.ch/feed/podcast/sd/cc04df08-20e8-405f-b606-c16017937412.xml</description>
                 
                 
-                <link>https://fotobuch-ecke.de/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://de9vpm.podcaster.de/fotobuch-ecke/media/FBE048_-_Florian_Holzherr_Wall_of_Death_au.mp3"/>
-                <guid>https://fotobuch-ecke.de/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.srf.ch/ch/audio/Musik-unserer-Zeit_29-11-2023-2000.1701291782629.mp3?assetId=271988f5-6336-43ed-992d-4e92fcc56575"/>
+                <guid></guid>
                 
             </item>
         </channel>
