@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 03 Dec 2023 04:21:23 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 04 Dec 2023 04:22:16 +0200</lastBuildDate>
             <item>
-                <title>Sapiens - Cáncer. Con Juan Fueyo - 25/11/23</title>
-                <description>Cáncer. Con Juan Fueyo
-Feed: http://www.rtve.es/api/programas/128073/audios.rss</description>
+                <title>Anexo: Pet Sematary: Bloodlines</title>
+                <description>Segunda parte del episodio doble: un anexo modelo 2023. Repasamos la historia que cuenta Jud Crandall en la novela Pet Sematary con motivo de su adaptación al cine. En la versión de Lindsey Beer, la descripción terrorífica de Timmy Baterman y su inev...
+Feed: https://www.martesataca.com.ar/category/medianocheenmaine/feed/</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sapiens/juan-fueyo-25-11-23/7019181/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7019181.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sapiens/juan-fueyo-25-11-23/7019181/</guid>
+                <link>https://www.martesataca.com.ar/medianocheenmaine/anexo-pet-sematary-bloodlines/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.martesataca.com.ar/wp-content/uploads/2023/10/medianocheenmaine_e42.mp3"/>
+                <guid>https://www.martesataca.com.ar/medianocheenmaine/anexo-pet-sematary-bloodlines/</guid>
                 
             </item><item>
-                <title>Hora América en Radio 5 - Exposicion Picasso Mestizo de Felipe Alarcón - 30/11/23</title>
-                <description>Exposicion Picasso Mestizo de Felipe Alarcón
-Feed: http://api.rtve.es/api/programas/37571/audios.rss</description>
+                <title>Popcasting443</title>
+                <description>kirsty maccoll · time :: kirsty maccoll · annie :: trevor horn · swimming pools (drank) feat...
+Feed: https://feeds.feedburner.com/Popcasting</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hora-america-en-radio-5/exposicion-picasso-mestizo-felipe-alarcon/7024193/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7024193.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hora-america-en-radio-5/exposicion-picasso-mestizo-felipe-alarcon/7024193/</guid>
+                <link>http://www.ivoox.com/popcasting443-audios-mp3_rf_120397814_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting443_mh_120397814_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/popcasting443-audios-mp3_rf_120397814_1.html</guid>
                 
             </item>
         </channel>
