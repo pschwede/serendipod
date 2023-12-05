@@ -9,29 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 04 Dec 2023 04:22:12 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 05 Dec 2023 04:22:39 +0200</lastBuildDate>
             <item>
-                <title>Épisode 87 - Elise et l&#39;Apocalypse</title>
-                <description>Élise Haddad, docteure à l’École des Hautes Etude…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:147058082/sounds.rss</description>
+                <title>Rebelles soniques : 12/01/2023 16:00</title>
+                <description>693-301633
+Feed: http://podcast.cism893.ca/radioshows/693/feed_itunes.xml</description>
                 
                 
-                <link>https://soundcloud.com/fannycomo/episode-87-elise-et-lapocalypse</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1679336109-fannycomo-episode-87-elise-et-lapocalypse.mp3"/>
-                <guid>https://soundcloud.com/fannycomo/episode-87-elise-et-lapocalypse</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/301633.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/301633.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/301633.mp3</guid>
                 
             </item><item>
-                <title>Fan de funk Radio show du 01-12-2023</title>
-                <description>Fan de funk Radio show du 01-12-2023
-Retrouvez le groupe des amis de l&#39;émission Fan de funk sur FACEBOOK - [Cliquez-ici pour être membre de la page](https://www.facebook.com/groups/lesamisdefandefunk)
-Retrouvez Fan de funk sur Twiter - [Cliquez-ici pour être membre de la page](https://twitter.com/fandefunk)
-Retrouvez les mix et le live sur [fandefunk.com](https://www.fandefunk.com) - Cliquez-ici + Playlists, actus, événements.
-Feed: https://hearthis.at/fandefunk/podcast/rss/</description>
+                <title>#33 La poupée qui fait non (le point commun entre Polnareff, Led Zeppelin et Hendrix)</title>
+                <description>&lt;p&gt;Mais non ?! Deux membres de Led Zeppelin jouent sur &#34;La poupée qui fait non&#34; de Michel Polnareff ?!&lt;/p&gt;
+&lt;p&gt;On en parle dans ce nouvel épisode !&lt;/p&gt;
+
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/5423_17676b1841af819ae181d6abb1a2e320.rss</description>
                 
                 
-                <link>https://hearthis.at/fandefunk/fandefunk-semaine-49-2023/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/fandefunk/fandefunk-semaine-49-2023/listen.mp3?s=qXd"/>
-                <guid>https://hearthis.at/fandefunk/fandefunk-semaine-49-2023/</guid>
+                <link>https://www.podcastics.com/podcast/episode/33-la-poupee-qui-fait-non-le-point-commun-entre-polnareff-led-zeppelin-et-hendrix-265985/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/5423/265985.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/33-la-poupee-qui-fait-non-le-point-commun-entre-polnareff-led-zeppelin-et-hendrix-265985/</guid>
                 
             </item>
         </channel>

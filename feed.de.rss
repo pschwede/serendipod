@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 04 Dec 2023 04:22:07 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 05 Dec 2023 04:22:33 +0200</lastBuildDate>
             <item>
-                <title>Folge #211 Marvin Martins</title>
-                <description>Folge #211 Marvin Martins
-Feed: https://dabderaudiobeweis.podigee.io/feed/mp3</description>
+                <title>#113 Den starken Mann markieren</title>
+                <description>Es geht doch nichts über Urlaub in deutschen Mittelgebirgen! Auf dem Weg von Futterstelle zu Futterstelle ist dort bisweilen freilich Furchtlosigkeit gefragt.
+      
+Feed: https://letscast.fm/podcasts/granteln-mit-charme-cac8f3d4/feed</description>
                 
                 
-                <link>https://dabderaudiobeweis.podigee.io/214-folge-211-marvin-martins</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1295309-m-6f12e5b24fb29f68c8428e696f757725.mp3?source=feed"/>
-                <guid>https://dabderaudiobeweis.podigee.io/214-folge-211-marvin-martins</guid>
+                <link>https://granteln.letscast.fm/episode/113-den-starken-mann-markieren</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/94dbf3cd/episode/b6438490.mp3?t=1700756677"/>
+                <guid>https://granteln.letscast.fm/episode/113-den-starken-mann-markieren</guid>
                 
             </item><item>
-                <title>308 Bestsellerautorin Mira Valentin verrät 111 Tipps und Tricks für erfolgreiches Schreiben und Vermarkten von Büchern</title>
-                <description>Als erfolgreiche Fantasy-Autorin gibt Mira Valentin Tipps aus ihrer Praxis – Schreiben, Veröffentlichungswege und Buchmarketing – Selfpublishing und Verlag
-Feed: https://dein-buch.libsyn.com/rss</description>
+                <title>Folge 183 - Lost in the Clocktower</title>
+                <description>Recap Digger Wochenende
+Feed: https://meepleporn.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://dein-buch.libsyn.com/308-bestsellerautorin-mira-valentin-verrt-111-tipps-und-tricks-fr-erfolgreiches-schreiben-und-vermarkten-von-bchern</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dein-buch/Mission_Bestseller_Selfpublishing_Podcast_Folge_308_Bestsellerautorin_Mira_Valentin_verrt_101_Tipps_und_Tricks_fr_erfolgreiches_Schreiben_und_Vermarkten_von_Bchern.mp3?dest-id=250516"/>
-                <guid>https://dein-buch.libsyn.com/308-bestsellerautorin-mira-valentin-verrt-111-tipps-und-tricks-fr-erfolgreiches-schreiben-und-vermarkten-von-bchern</guid>
+                <link>https://meepleporn.podigee.io/205-folge-183-lost-in-the-clocktower</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1299338-m-bfb8e90c654b3e5a61ed6b6b5b382cc4.mp3?source=feed"/>
+                <guid>https://meepleporn.podigee.io/205-folge-183-lost-in-the-clocktower</guid>
                 
             </item>
         </channel>
