@@ -9,28 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 05 Dec 2023 04:22:39 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 06 Dec 2023 04:22:54 +0200</lastBuildDate>
             <item>
-                <title>Rebelles soniques : 12/01/2023 16:00</title>
-                <description>693-301633
-Feed: http://podcast.cism893.ca/radioshows/693/feed_itunes.xml</description>
+                <title>Le cours de math : Épisode 404 : 29 novembre 2023</title>
+                <description>1226-301509
+Feed: http://podcast.cism893.ca/radioshows/1226/feed_itunes.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/301633.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/301633.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/301633.mp3</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/301509.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/301509.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/301509.mp3</guid>
                 
             </item><item>
-                <title>#33 La poupée qui fait non (le point commun entre Polnareff, Led Zeppelin et Hendrix)</title>
-                <description>&lt;p&gt;Mais non ?! Deux membres de Led Zeppelin jouent sur &#34;La poupée qui fait non&#34; de Michel Polnareff ?!&lt;/p&gt;
-&lt;p&gt;On en parle dans ce nouvel épisode !&lt;/p&gt;
-
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/5423_17676b1841af819ae181d6abb1a2e320.rss</description>
+                <title>Comment maximiser ses revenus de podcasteur et générer 20k€ de CA mensuel - Caroline Mignaux (Marketing Square)</title>
+                <description>Comment fonctionne le sponsoring dans le podcasting ?
+ 
+Quels sont les avantages pour les podcasteurs d&#39;avoir des sponsors ?
+ 
+Comment trouver des sponsors pertinents et quels sont les différents types de partenariats possibles ?
+ 
+Comment intégre...
+Feed: https://feeds.audiomeans.fr/feed/a6898d5d-745a-46f6-aebc-0f2c4c5b0819.xml</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/33-la-poupee-qui-fait-non-le-point-commun-entre-polnareff-led-zeppelin-et-hendrix-265985/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/5423/265985.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/33-la-poupee-qui-fait-non-le-point-commun-entre-polnareff-led-zeppelin-et-hendrix-265985/</guid>
+                <link>https://podcasts.audiomeans.fr/build-yourself-0f2c4c5b0819/comment-maximiser-ses-revenus-de-podcasteur-et-generer-20keuro-de-ca-mensuel-caroline-mignaux-marketing-square-608d8c7f</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/608d8c7f-eb9f-4eaf-8bc7-8511673d25c7.mp3?_=1698154656"/>
+                <guid>https://podcasts.audiomeans.fr/build-yourself-0f2c4c5b0819/comment-maximiser-ses-revenus-de-podcasteur-et-generer-20keuro-de-ca-mensuel-caroline-mignaux-marketing-square-608d8c7f</guid>
                 
             </item>
         </channel>

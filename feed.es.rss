@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 05 Dec 2023 04:22:45 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 06 Dec 2023 04:23:00 +0200</lastBuildDate>
             <item>
-                <title>Sateli 3 - The 2Tone Collection (1/2) (UK Ska-Pop-Reggae,1979-85) - 04/12/23</title>
-                <description>The 2Tone Collection (1/2) (UK Ska-Pop-Reggae,1979-85)
-Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
+                <title>Recuperando almas</title>
+                <description>Recuperando fragmentos de alma &amp;hellip; y formas pensamiento
+Cuando se habla de mal de ojo se habla de un pensamiento negativo proyectado, en realidad no hay magia sin la forma pensamiento. De hecho cuando en la actualidad se habla de que alguien te ha hecho un conjuro puede ser tan solo un pensamiento energizado, por una o por varias personas&amp;hellip; La forma pensamiento puede ser proyectada en el lugar deseado o la persona objetivo...
+Feed: https://www.ivoox.com/podcast-nodo-estelar-aneto_fg_f11026236_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sateli-3/2tone-collection-1-2-uk-ska-pop-reggae1979-85-04-12-23/7027275/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7027275.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sateli-3/2tone-collection-1-2-uk-ska-pop-reggae1979-85-04-12-23/7027275/</guid>
+                <link>https://www.ivoox.com/recuperando-almas-audios-mp3_rf_120481305_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/recuperando-almas_mf_120481305_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/recuperando-almas-audios-mp3_rf_120481305_1.html</guid>
                 
             </item><item>
-                <title>La forma de querer, un poema romántico de Pedro Salinas. Poemas con voz para parejas enamoradas</title>
-                <description>Poemas con voz de Pedro Salinas.  Los mejores poemas de Pedro Salinas en audio. Poemas románticos de Pedro Salinas. Poesías románticas de Pedro Salinas. Poesías de amor de Pedro Salinas. Poemas de amor con voz de Pedro Salinas . Versos de amor de...
-Feed: https://www.spreaker.com/show/5435375/episodes/feed</description>
+                <title>ATA 547 ¿Porque el self hosted con Docker?</title>
+                <description>&lt;p&gt;Desde que entendí las posibilidades de Docker. Desde que entendí las 
+ventajas de tener los servicios auto alojados, o como dicen en el mundo 
+anglosajón en modo self hosted, muchos de los servicios que tenía delegados
+ a terceros, han pasado a ser propios. Esto no quiere decir que hayan 
+sido todos, porque hay determinados servicios que prefiero que se 
+encargue un tercero. Desde luego, esta es la ventaja de conocer el mundo self hosted...
+Feed: https://anchor.fm/s/5a5b39c/podcast/rss</description>
                 
                 
-                <link>https://www.amorypoesia.es/poemas-pedro-salinas-poemas-famosos-pedro-salinas/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/57891244/pedro_salinas_forma_querer_poemas_amor.mp3"/>
-                <guid>https://www.amorypoesia.es/poemas-pedro-salinas-poemas-famosos-pedro-salinas/</guid>
+                <link>https://podcasters.spotify.com/pod/show/atareao-con-linux/episodes/ATA-547-Porque-el-self-hosted-con-Docker-e2cpbdu</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/5a5b39c/podcast/play/79522686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-4%2Fadaab9da-8124-afce-4e3d-e190c46a5ff8.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/atareao-con-linux/episodes/ATA-547-Porque-el-self-hosted-con-Docker-e2cpbdu</guid>
                 
             </item>
         </channel>

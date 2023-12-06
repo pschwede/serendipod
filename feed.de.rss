@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 05 Dec 2023 04:22:33 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 06 Dec 2023 04:22:48 +0200</lastBuildDate>
             <item>
-                <title>#113 Den starken Mann markieren</title>
-                <description>Es geht doch nichts über Urlaub in deutschen Mittelgebirgen! Auf dem Weg von Futterstelle zu Futterstelle ist dort bisweilen freilich Furchtlosigkeit gefragt.
-      
-Feed: https://letscast.fm/podcasts/granteln-mit-charme-cac8f3d4/feed</description>
+                <title>Eure Fragen, unsere Antworten – XXL Q&amp;A Winter 2023</title>
+                <description>Einblicke und Geheimnisse aus unserer Duftwelt
+Feed: https://l0zfp4.podcaster.de/parfuempodcast.rss</description>
                 
                 
-                <link>https://granteln.letscast.fm/episode/113-den-starken-mann-markieren</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/94dbf3cd/episode/b6438490.mp3?t=1700756677"/>
-                <guid>https://granteln.letscast.fm/episode/113-den-starken-mann-markieren</guid>
+                <link>https://l0zfp4.podcaster.de/parfuempodcast/media/ParfumPodcastFolge161.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://l0zfp4.podcaster.de/parfuempodcast/media/ParfumPodcastFolge161.mp3"/>
+                <guid>https://l0zfp4.podcaster.de/parfuempodcast/media/ParfumPodcastFolge161.mp3</guid>
                 
             </item><item>
-                <title>Folge 183 - Lost in the Clocktower</title>
-                <description>Recap Digger Wochenende
-Feed: https://meepleporn.podigee.io/feed/mp3</description>
+                <title>Social Advertising News - KW 47/23</title>
+                <description>Snapchat+, YouTube Short Ads, Bards Videoanalyse, Meta Ads Optimierung &amp; Amazon
+Feed: https://digitalmarketingupgrade.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://meepleporn.podigee.io/205-folge-183-lost-in-the-clocktower</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1299338-m-bfb8e90c654b3e5a61ed6b6b5b382cc4.mp3?source=feed"/>
-                <guid>https://meepleporn.podigee.io/205-folge-183-lost-in-the-clocktower</guid>
+                <link>https://digitalmarketingupgrade.podigee.io/203-social-advertising-news-kw-4723</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1291347-m-64ea6166afef347f44d86fb2774a0748.mp3?source=feed"/>
+                <guid>https://digitalmarketingupgrade.podigee.io/203-social-advertising-news-kw-4723</guid>
                 
             </item>
         </channel>
