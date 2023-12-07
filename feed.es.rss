@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 06 Dec 2023 04:23:00 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 07 Dec 2023 04:22:35 +0200</lastBuildDate>
             <item>
-                <title>Recuperando almas</title>
-                <description>Recuperando fragmentos de alma &amp;hellip; y formas pensamiento
-Cuando se habla de mal de ojo se habla de un pensamiento negativo proyectado, en realidad no hay magia sin la forma pensamiento. De hecho cuando en la actualidad se habla de que alguien te ha hecho un conjuro puede ser tan solo un pensamiento energizado, por una o por varias personas&amp;hellip; La forma pensamiento puede ser proyectada en el lugar deseado o la persona objetivo...
-Feed: https://www.ivoox.com/podcast-nodo-estelar-aneto_fg_f11026236_filtro_1.xml</description>
+                <title>Música y Letra: Victoria de los Ángeles en la música culta y popular española</title>
+                <description>Amorós dedica este segundo programa a la ‘antidiva’, centrándose ahora en la cantante dentro del sector de la canción culta y popular española.
+Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
                 
                 
-                <link>https://www.ivoox.com/recuperando-almas-audios-mp3_rf_120481305_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/recuperando-almas_mf_120481305_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/recuperando-almas-audios-mp3_rf_120481305_1.html</guid>
+                <link>https://esradio.libertaddigital.com/fonoteca/2023-12-02/musica-y-letra-victoria-de-los-angeles-en-la-musica-culta-y-popular-espanola-p1696233-7068035.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/57828847/download.mp3?aw_0_1st.collectionid=musica-y-letra"/>
+                <guid>https://esradio.libertaddigital.com/fonoteca/2023-12-02/musica-y-letra-victoria-de-los-angeles-en-la-musica-culta-y-popular-espanola-p1696233-7068035.html</guid>
                 
             </item><item>
-                <title>ATA 547 ¿Porque el self hosted con Docker?</title>
-                <description>&lt;p&gt;Desde que entendí las posibilidades de Docker. Desde que entendí las 
-ventajas de tener los servicios auto alojados, o como dicen en el mundo 
-anglosajón en modo self hosted, muchos de los servicios que tenía delegados
- a terceros, han pasado a ser propios. Esto no quiere decir que hayan 
-sido todos, porque hay determinados servicios que prefiero que se 
-encargue un tercero. Desde luego, esta es la ventaja de conocer el mundo self hosted...
-Feed: https://anchor.fm/s/5a5b39c/podcast/rss</description>
+                <title>La forma de querer, un poema romántico de Pedro Salinas. Poemas con voz para parejas enamoradas</title>
+                <description>Poemas con voz de Pedro Salinas.  Los mejores poemas de Pedro Salinas en audio. Poemas románticos de Pedro Salinas. Poesías románticas de Pedro Salinas. Poesías de amor de Pedro Salinas. Poemas de amor con voz de Pedro Salinas . Versos de amor de...
+Feed: https://www.spreaker.com/show/5435375/episodes/feed</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/atareao-con-linux/episodes/ATA-547-Porque-el-self-hosted-con-Docker-e2cpbdu</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/5a5b39c/podcast/play/79522686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-4%2Fadaab9da-8124-afce-4e3d-e190c46a5ff8.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/atareao-con-linux/episodes/ATA-547-Porque-el-self-hosted-con-Docker-e2cpbdu</guid>
+                <link>https://www.amorypoesia.es/poemas-pedro-salinas-poemas-famosos-pedro-salinas/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/57891244/pedro_salinas_forma_querer_poemas_amor.mp3"/>
+                <guid>https://www.amorypoesia.es/poemas-pedro-salinas-poemas-famosos-pedro-salinas/</guid>
                 
             </item>
         </channel>

@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 06 Dec 2023 04:22:54 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 07 Dec 2023 04:22:31 +0200</lastBuildDate>
             <item>
-                <title>Le cours de math : Épisode 404 : 29 novembre 2023</title>
-                <description>1226-301509
-Feed: http://podcast.cism893.ca/radioshows/1226/feed_itunes.xml</description>
+                <title>Le monde de la spiritualité a montré son vrai visage, les pièges du diable et la mission de vie !</title>
+                <description>Dans cet épisode, je vous partage ma vision du monde, pourquoi je fais ce que je fais et ce que j&#39;ai observé après plus de 150 consultations et maintenant coaching. Je parle aussi du salariat et des pièges du diable pour vous empêcher de servir le mo...
+Feed: https://feed.podbean.com/theinnerjourney/feed.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/301509.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/301509.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/301509.mp3</guid>
+                <link>https://theinnerjourney.podbean.com/e/le-monde-de-la-spiritualite-a-montre-son-vrai-visage-les-pieges-du-diable-et-la-mission-de-vie/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/9sv66d/Alignement_et_diable_final832gy.mp3"/>
+                <guid>https://theinnerjourney.podbean.com/e/le-monde-de-la-spiritualite-a-montre-son-vrai-visage-les-pieges-du-diable-et-la-mission-de-vie/</guid>
                 
             </item><item>
-                <title>Comment maximiser ses revenus de podcasteur et générer 20k€ de CA mensuel - Caroline Mignaux (Marketing Square)</title>
-                <description>Comment fonctionne le sponsoring dans le podcasting ?
- 
-Quels sont les avantages pour les podcasteurs d&#39;avoir des sponsors ?
- 
-Comment trouver des sponsors pertinents et quels sont les différents types de partenariats possibles ?
- 
-Comment intégre...
-Feed: https://feeds.audiomeans.fr/feed/a6898d5d-745a-46f6-aebc-0f2c4c5b0819.xml</description>
+                <title>Tueurs en série</title>
+                <description>Nous faisons le point sur ce qu&#39;on sait, le vrai, le faux et tout le reste: Qu&#39;est-ce qui mène quelqu&#39;un à devenir tueur en série?
+Feed: https://malka.fr/podcast/newfeed.rss</description>
                 
                 
-                <link>https://podcasts.audiomeans.fr/build-yourself-0f2c4c5b0819/comment-maximiser-ses-revenus-de-podcasteur-et-generer-20keuro-de-ca-mensuel-caroline-mignaux-marketing-square-608d8c7f</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/608d8c7f-eb9f-4eaf-8bc7-8511673d25c7.mp3?_=1698154656"/>
-                <guid>https://podcasts.audiomeans.fr/build-yourself-0f2c4c5b0819/comment-maximiser-ses-revenus-de-podcasteur-et-generer-20keuro-de-ca-mensuel-caroline-mignaux-marketing-square-608d8c7f</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://malka.fr/podcast/tueurs.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

@@ -9,34 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 06 Dec 2023 04:23:18 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 07 Dec 2023 04:22:47 +0200</lastBuildDate>
             <item>
-                <title>Monday 27 November- 12pm news</title>
-                <description>#/Karas and Hardap report male suicides...
-#Landless People&#39;s Movement&#39;s Harold Kambrude argues for urgent poverty strategy.......
-#SA&#39;s President Cyril Ramaphosa says the ANC government is bringing about real transformation ....and
-#Biden proposes extension to Gaza humanitarian pause.........
-Feed: https://iono.fm/rss/chan/6628</description>
+                <title>Advent 2023</title>
+                <description>Fr. Branson and Fr. John, along with FOCUS missio…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:138411202/sounds.rss</description>
                 
                 
-                <link>https://iono.fm/e/1384490</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_2476/epi_1384490_medium.m4a?p=rss"/>
-                <guid>https://iono.fm/e/1384490</guid>
+                <link>https://soundcloud.com/helluva-catholic-podcast/advent-2023</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1680226485-helluva-catholic-podcast-advent-2023.mp3"/>
+                <guid>https://soundcloud.com/helluva-catholic-podcast/advent-2023</guid>
                 
             </item><item>
-                <title>352: Crawling Girl In Bali &amp; Something Sinister In Oregon</title>
-                <description>TELL YOUR STORY 
-Email or Voice Message: https://www.paranormalmysteriespodcast.com/tell-your-story 
-SUPPORT THE SHOW 
-Patreon: https://www.patreon.com/join/paranormalmysteries
-BuyMeACoffee: https://www.buymeacoffee.com/paranormal
-PayPal:...
-Feed: https://www.spreaker.com/show/2321086/episodes/feed</description>
+                <title>Exosomes Are Key to Cell-to-Cell Communication</title>
+                <description>Creative Biolabs integrates the latest scientific advances in exosomes and makes them into a podcast column. This episode introduces the exosome biogenesis and therapeutics knowledge.
+Feed: https://feed.podbean.com/antibodybasedpharmaceuticalsresourcelibrary/feed.xml</description>
                 
                 
-                <link>https://www.spreaker.com/user/mythicradio/352-crawling-girl-in-bali-something-sini</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/57806655/352_crawling_girl_something_sinister.mp3"/>
-                <guid>https://www.spreaker.com/user/mythicradio/352-crawling-girl-in-bali-something-sini</guid>
+                <link>https://antibodybasedpharmaceuticalsresourcelibrary.podbean.com/e/exosomes-are-key-to-cell-to-cell-communication/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/yea48z/5-2_Exosomes_Are_Key_to_Cell-to-Cell_Communication7eepp.mp3"/>
+                <guid>https://antibodybasedpharmaceuticalsresourcelibrary.podbean.com/e/exosomes-are-key-to-cell-to-cell-communication/</guid>
                 
             </item>
         </channel>
