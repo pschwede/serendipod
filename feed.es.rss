@@ -9,26 +9,40 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 07 Dec 2023 04:22:35 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 08 Dec 2023 04:22:19 +0200</lastBuildDate>
             <item>
-                <title>Música y Letra: Victoria de los Ángeles en la música culta y popular española</title>
-                <description>Amorós dedica este segundo programa a la ‘antidiva’, centrándose ahora en la cantante dentro del sector de la canción culta y popular española.
-Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
+                <title>Star 80 del 2 de diciembre de 2023 (edición 451 en Can10fm) - Entrevista Rachel Santos y Karel Sanders</title>
+                <description>Paul Parker - Don&#39;t Play With Fire
+Aleph - Fire On The Moon
+Ray - I&#39;m Not A Dreamer
+Norman &amp;ndash; Lovergirl
+Albert One - Heart On Fire
+DJ&#39;s Project - Vision Of Love
+Beagle Music Ltd. - Daydream
+Trams X - Ich Liebe Dich (I Love You) (Continental Mix)
+Tom Hooker - Feeling Okay
+New Baccara &amp;ndash; Touch Me
+A-HA -The Sun Always Shines on T.V.
+Entrevista a Rachel santos y Karel Sanders
+Divine - I&amp;acute;m So Beautiful
+Baccara &amp;ndash; When I&#39;m With You
+Mazinger Z
+Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
                 
                 
-                <link>https://esradio.libertaddigital.com/fonoteca/2023-12-02/musica-y-letra-victoria-de-los-angeles-en-la-musica-culta-y-popular-espanola-p1696233-7068035.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/57828847/download.mp3?aw_0_1st.collectionid=musica-y-letra"/>
-                <guid>https://esradio.libertaddigital.com/fonoteca/2023-12-02/musica-y-letra-victoria-de-los-angeles-en-la-musica-culta-y-popular-espanola-p1696233-7068035.html</guid>
+                <link>https://www.ivoox.com/star-80-del-2-diciembre-2023-audios-mp3_rf_120446590_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-2-diciembre-2023_mh_120446590_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/star-80-del-2-diciembre-2023-audios-mp3_rf_120446590_1.html</guid>
                 
             </item><item>
-                <title>La forma de querer, un poema romántico de Pedro Salinas. Poemas con voz para parejas enamoradas</title>
-                <description>Poemas con voz de Pedro Salinas.  Los mejores poemas de Pedro Salinas en audio. Poemas románticos de Pedro Salinas. Poesías románticas de Pedro Salinas. Poesías de amor de Pedro Salinas. Poemas de amor con voz de Pedro Salinas . Versos de amor de...
-Feed: https://www.spreaker.com/show/5435375/episodes/feed</description>
+                <title>Melodías pizarras - Hadacol Boogie - 02/12/23</title>
+                <description>Hadacol Boogie
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://www.amorypoesia.es/poemas-pedro-salinas-poemas-famosos-pedro-salinas/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/57891244/pedro_salinas_forma_querer_poemas_amor.mp3"/>
-                <guid>https://www.amorypoesia.es/poemas-pedro-salinas-poemas-famosos-pedro-salinas/</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/hadacol-boogie/7025743/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7025743.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/hadacol-boogie/7025743/</guid>
                 
             </item>
         </channel>
