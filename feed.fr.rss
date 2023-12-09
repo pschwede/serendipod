@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 08 Dec 2023 04:22:15 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 09 Dec 2023 04:21:51 +0200</lastBuildDate>
             <item>
-                <title>#50 Raquel Veiga - Mon amour des hommes (FR)</title>
-                <description>Dans cet épisode d&#39;Entr&#39;Nous, Olivier Mageren nous emmène dans un voyage introspectif et révélateur avec une invitée exceptionnelle, Raquel Veiga. Passionnée du Tantra en tant qu&#39;art de vivre et de pratique, Raquel partage son amour profond pour les hommes, ce qu&#39;il l&#39;a amenée sur ce parcours et sa riche expérience en tant que masseuse tantrique.
-Feed: https://feeds.simplecast.com/gSZmySeA</description>
+                <title>Wonder Woman, une des figures du féminisme</title>
+                <description>L’historien Alexandre Dumas parle de Wonder Woman, qui a fait ses premiers pas sous la forme de la bande dessinée, en 1941, aux États-Unis.
+Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
                 
                 
-                <link>https://www.love-health-center.org/podcast/raquel-veiga-mon-amour-des-hommes-50/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c1da6983-a39d-48f6-97dd-d3819060e368/episodes/9125d62e-aa83-4f15-9f76-fb2f440dcbff/audio/aad7a006-17eb-44d6-b6bd-835f0074d69f/default_tc.mp3?aid=rss_feed&amp;feed=gSZmySeA"/>
-                <guid>https://www.love-health-center.org/podcast/raquel-veiga-mon-amour-des-hommes-50/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/464e0944-a3f2-4de8-8193-dee3fc29d785/2023-12-08_15_37_55_aujourdhuilhistoirebalado_0000.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Les racines de la peur</title>
-                <description>                                                            EPISODE 674
-Découvrez les origines terrifiantes de nos peurs les plus profondes dans le nouvel épisode de notre podcast. Dans &#34;Les Racines de la Peur&#34;, nous explorons les légendes et les hist...
-Feed: https://feed.ausha.co/oLnxpsvVwV2g</description>
+                <title>&#34;Ye&#34; (Focus sur Kanye West)</title>
+                <description>&#34;Ye&#34; (Focus sur Kanye West)
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_12269.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/danslombresdeslegendes/les-racines-de-la-peur</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/yJdkqikVPXPR.mp3?t=1699830445"/>
-                <guid>https://podcast.ausha.co/danslombresdeslegendes/les-racines-de-la-peur</guid>
+                <link>https://www.radiofrance.fr/mouv/podcasts/cautionneries/ye-focus-sur-kanye-west-6537316</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c2c4654b-6cda-4db5-b3fd-010f555a246a/12269-03.12.2023-ITEMA_23571899-2023J18878S0337-21.mp3"/>
+                <guid>https://www.radiofrance.fr/mouv/podcasts/cautionneries/ye-focus-sur-kanye-west-6537316</guid>
                 
             </item>
         </channel>

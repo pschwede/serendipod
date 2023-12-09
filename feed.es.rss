@@ -9,40 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 08 Dec 2023 04:22:19 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 09 Dec 2023 04:21:56 +0200</lastBuildDate>
             <item>
-                <title>Star 80 del 2 de diciembre de 2023 (edición 451 en Can10fm) - Entrevista Rachel Santos y Karel Sanders</title>
-                <description>Paul Parker - Don&#39;t Play With Fire
-Aleph - Fire On The Moon
-Ray - I&#39;m Not A Dreamer
-Norman &amp;ndash; Lovergirl
-Albert One - Heart On Fire
-DJ&#39;s Project - Vision Of Love
-Beagle Music Ltd. - Daydream
-Trams X - Ich Liebe Dich (I Love You) (Continental Mix)
-Tom Hooker - Feeling Okay
-New Baccara &amp;ndash; Touch Me
-A-HA -The Sun Always Shines on T.V.
-Entrevista a Rachel santos y Karel Sanders
-Divine - I&amp;acute;m So Beautiful
-Baccara &amp;ndash; When I&#39;m With You
-Mazinger Z
-Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
+                <title>Ars canendi - Caramelos envenenados - 03/12/23</title>
+                <description>Caramelos envenenados
+Feed: http://api.rtve.es/api/programas/1888/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/star-80-del-2-diciembre-2023-audios-mp3_rf_120446590_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-2-diciembre-2023_mh_120446590_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/star-80-del-2-diciembre-2023-audios-mp3_rf_120446590_1.html</guid>
+                <link>https://www.rtve.es/play/audios/ars-canendi/caramelos-envenenados-03-12-23/7027065/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7027065.mp3"/>
+                <guid>https://www.rtve.es/play/audios/ars-canendi/caramelos-envenenados-03-12-23/7027065/</guid>
                 
             </item><item>
-                <title>Melodías pizarras - Hadacol Boogie - 02/12/23</title>
-                <description>Hadacol Boogie
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
+                <title>Tangos Infinitos de &amp;#9854; años</title>
+                <description>Cumplir años es cumplir con la vida, en nuestro caso, el júbilo aumenta porque también cumplimos con el Tango; sus ídolos, recuerdos y nostalgias que resuenan en nuestros oídos como suaves caricias de nuestra Argentina, siempre presente. Ocho años de aires musicales rioplatenses que envuelven esta frontera generosa y amiga...
+Feed: https://feeds.feedburner.com/TangoSensei</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/hadacol-boogie/7025743/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7025743.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/hadacol-boogie/7025743/</guid>
+                <link>http://www.ivoox.com/tangos-infinitos-9854-anos-audios-mp3_rf_120429256_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/tangos-infinitos-9854-anos_mh_120429256_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/tangos-infinitos-9854-anos-audios-mp3_rf_120429256_1.html</guid>
                 
             </item>
         </channel>
