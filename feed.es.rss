@@ -9,26 +9,39 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 09 Dec 2023 04:21:56 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 10 Dec 2023 04:21:39 +0200</lastBuildDate>
             <item>
-                <title>Ars canendi - Caramelos envenenados - 03/12/23</title>
-                <description>Caramelos envenenados
-Feed: http://api.rtve.es/api/programas/1888/audios.rss</description>
+                <title>Mundo pequeño 09/12/2023 23:05</title>
+                <description>La música para los más jóvenes tendrá un horario destacado los sábados por la noche con &amp;#8220;Mundo Pequeño&amp;#8221; y llevarán la voz inconfundible de Gloria Santoro.
+Feed: https://www.ivoox.com/mundo-pequeno_fg_f1251946_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/ars-canendi/caramelos-envenenados-03-12-23/7027065/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7027065.mp3"/>
-                <guid>https://www.rtve.es/play/audios/ars-canendi/caramelos-envenenados-03-12-23/7027065/</guid>
+                <link>https://www.ivoox.com/mundo-pequeno-09-12-2023-23-05-audios-mp3_rf_120825465_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/mundo-pequeno-09-12-2023-23-05_mh_120825465_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/mundo-pequeno-09-12-2023-23-05-audios-mp3_rf_120825465_1.html</guid>
                 
             </item><item>
-                <title>Tangos Infinitos de &amp;#9854; años</title>
-                <description>Cumplir años es cumplir con la vida, en nuestro caso, el júbilo aumenta porque también cumplimos con el Tango; sus ídolos, recuerdos y nostalgias que resuenan en nuestros oídos como suaves caricias de nuestra Argentina, siempre presente. Ocho años de aires musicales rioplatenses que envuelven esta frontera generosa y amiga...
-Feed: https://feeds.feedburner.com/TangoSensei</description>
+                <title>Star 80 del 9 de diciembre de 2023 (edición 452 en Can10fm)</title>
+                <description>Radiorama &amp;ndash; Chance To Desire
+Fred Ventura &amp;ndash; The Years
+Ken Lazlo &amp;ndash; Time Of My Life
+David Lyme &amp;ndash; Playboy
+Miko Mission &amp;ndash; Universal Feeling
+Daydream &amp;ndash; In The Night
+Brand Image &amp;ndash; Love In A Summer Night
+Alan Cook &amp;ndash; Running Away
+Reale Accademia &amp;ndash; She&#39;s Mine
+Boytronic &amp;ndash; Don&amp;acute;t Let Me Down
+Mark Ashley - Hot Like Fire Ext Edit Version Dj Manuel Rios
+Azul y Negro &amp;ndash; Me Estoy Volviendo Loco
+Chip Chip &amp;ndash; So Close To Heaven
+Stylove...
+Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
                 
                 
-                <link>http://www.ivoox.com/tangos-infinitos-9854-anos-audios-mp3_rf_120429256_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/tangos-infinitos-9854-anos_mh_120429256_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/tangos-infinitos-9854-anos-audios-mp3_rf_120429256_1.html</guid>
+                <link>https://www.ivoox.com/star-80-del-9-diciembre-2023-audios-mp3_rf_120816141_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-9-diciembre-2023_mh_120816141_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/star-80-del-9-diciembre-2023-audios-mp3_rf_120816141_1.html</guid>
                 
             </item>
         </channel>

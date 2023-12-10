@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 09 Dec 2023 04:21:51 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 10 Dec 2023 04:21:35 +0200</lastBuildDate>
             <item>
-                <title>Wonder Woman, une des figures du féminisme</title>
-                <description>L’historien Alexandre Dumas parle de Wonder Woman, qui a fait ses premiers pas sous la forme de la bande dessinée, en 1941, aux États-Unis.
-Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
+                <title>Exposition Youngtimer Epoqu’auto</title>
+                <description>je vous parle de l’exposition consacré aux Youngtimer sur Epoqu’auto.
+ 
+Feed: https://feeds.audiomeans.fr/feed/4fd530d2-7f7b-4f02-bfd9-e707a3d31182.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/464e0944-a3f2-4de8-8193-dee3fc29d785/2023-12-08_15_37_55_aujourdhuilhistoirebalado_0000.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/b59256d1-00e7-4496-aa7a-3d05f9481a7f.mp3?_=1699711023"/>
                 <guid></guid>
                 
             </item><item>
-                <title>&#34;Ye&#34; (Focus sur Kanye West)</title>
-                <description>&#34;Ye&#34; (Focus sur Kanye West)
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_12269.xml</description>
+                <title>Ep 133 : SCB 36 Ne tapez pas ça dans Google</title>
+                <description>Eh non, vous ne rêvez pas, il est bien là cet épisode 37... euh 36 pardon. 2 longs mois d&#39;attente pour notre nouveau meilleur épisode, on espère que vous serez toujours au rendez-vous !
+Au programme donc, Dave - John Wick - Mustaine, une nouvelle juri...
+Feed: https://feed.ausha.co/b5OqSkK12NXo</description>
                 
                 
-                <link>https://www.radiofrance.fr/mouv/podcasts/cautionneries/ye-focus-sur-kanye-west-6537316</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c2c4654b-6cda-4db5-b3fd-010f555a246a/12269-03.12.2023-ITEMA_23571899-2023J18878S0337-21.mp3"/>
-                <guid>https://www.radiofrance.fr/mouv/podcasts/cautionneries/ye-focus-sur-kanye-west-6537316</guid>
+                <link>https://podcast.ausha.co/ecoute-ca/ep-133-scb-36-ne-tapez-pas-ca-dans-google</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BDNYTMlKwzQy.mp3?t=1701105960"/>
+                <guid>https://podcast.ausha.co/ecoute-ca/ep-133-scb-36-ne-tapez-pas-ca-dans-google</guid>
                 
             </item>
         </channel>
