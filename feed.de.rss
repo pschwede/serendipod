@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 10 Dec 2023 04:21:31 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 11 Dec 2023 04:23:03 +0200</lastBuildDate>
             <item>
-                <title>Audiotravels: Orient Silk Road Express - Zugreise durch Usbekistan, Kirgistan und Kasachstan</title>
-                <description>
-In dieser Episode reist Audiotraveller Henry Barchet mit dem Zug „Orient Silk Road Express“ von Samarkand nach Almaty durch Usbekistan, Kasachstan und Kirgistan. Sie hören Geschichten und Musik von Menschen, die entlang der Seidenstraße leben. Außer...
-Feed: https://audiotravels.podbean.com/feed.xml</description>
+                <title>Die Frauenleiche im Kanal – der Kronzeuge</title>
+                <description>Wenn der Sohn gegen den eigenen Vater vor Gericht aussagt: Mit Spannung wird in Alex laufendem Prozess die Aussage eines Kronzeugen erwartet. Beim vergangenen Termin war er krank, wird er diesmal vor Gericht erscheinen? Zuletzt haben zudem weitere Zeugen ausgesagt, die den Angeklagten mit ihren Angaben belasten. BAYERN 3 Moderatorin Jaqueline Belle und Strafverteidiger Dr. Alexander Stevens verfolgen diesen Prozess, der eine absurde Wendung nach der anderen nimmt...
+Feed: https://feeds.br.de/true-crime/feed.xml</description>
                 
                 
-                <link>https://audiotravels.podbean.com/e/audiotravels-orient-silk-road-express-zugreise-durch-usbekistan-kirgistan-und-kasachstan/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/pq5cmk/AT2023OrientSilkExpress12.mp3"/>
-                <guid>https://audiotravels.podbean.com/e/audiotravels-orient-silk-road-express-zugreise-durch-usbekistan-kirgistan-und-kasachstan/</guid>
+                <link>https://www.br.de/mediathek/podcast/true-crime/die-frauenleiche-im-kanal-der-kronzeuge/2087315</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2087315/c/feed/die-frauenleiche-im-kanal-der-kronzeuge.mp3"/>
+                <guid>https://www.br.de/mediathek/podcast/true-crime/die-frauenleiche-im-kanal-der-kronzeuge/2087315</guid>
                 
             </item><item>
-                <title>#150 Elder Mediation - Mediationen in Alters- und Generationenfragen. Im Gespräch mit Yvonne Rogger Hofstetter</title>
-                <description>Wofür Mediation in Fragen des Älterwerdens und Altseins hilfreich ist
-Feed: https://inkovema.podigee.io/feed/mp3</description>
+                <title>Übernatürliche Freude</title>
+                <description>
+Feed: https://feg-mo.de/feg-mo-predigten/</description>
                 
                 
-                <link>https://inkovema.de/blog/elder-mediation-mediationen-in-altersfragen-generationenfragen-yvonne-rogger-hofstetter-150/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1298805-m-07641d0c6c017b4106029cae2f45a106.mp3?source=feed"/>
-                <guid>https://inkovema.de/blog/elder-mediation-mediationen-in-altersfragen-generationenfragen-yvonne-rogger-hofstetter-150/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://feg-mo.de/wp-content/uploads/predigten/20231203_Timon_Kubsch.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

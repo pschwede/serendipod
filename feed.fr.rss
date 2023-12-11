@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 10 Dec 2023 04:21:35 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 11 Dec 2023 04:23:09 +0200</lastBuildDate>
             <item>
-                <title>Exposition Youngtimer Epoqu’auto</title>
-                <description>je vous parle de l’exposition consacré aux Youngtimer sur Epoqu’auto.
- 
-Feed: https://feeds.audiomeans.fr/feed/4fd530d2-7f7b-4f02-bfd9-e707a3d31182.xml</description>
+                <title>Practising uncountable nouns (with food!)</title>
+                <description>Ben has a list of things to get from the supermarket
+Feed: https://rss.acast.com/parler-anglais</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/b59256d1-00e7-4496-aa7a-3d05f9481a7f.mp3?_=1699711023"/>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/FODL1865590241.mp3?updated=1701966483"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Ep 133 : SCB 36 Ne tapez pas ça dans Google</title>
-                <description>Eh non, vous ne rêvez pas, il est bien là cet épisode 37... euh 36 pardon. 2 longs mois d&#39;attente pour notre nouveau meilleur épisode, on espère que vous serez toujours au rendez-vous !
-Au programme donc, Dave - John Wick - Mustaine, une nouvelle juri...
-Feed: https://feed.ausha.co/b5OqSkK12NXo</description>
+                <title>Séducteurs professionnels</title>
+                <description>&lt;p&gt;&lt;strong&gt;Si ce sont les hommes qui jouissent le plus souvent du tourisme sexuel, il existe aussi d’autres schémas. &lt;/strong&gt;Les bricheros sont des séducteurs professionnels au Pérou, des “chasseurs de gringas” : en jouant avec les fantasmes occidentaux sur les pratiques chamaniques des Andes ou la mythologie inca, ils séduisent des touristes blanches pour en tirer un bénéfice matériel et symbolique, sans jamais rendre cette transaction explicite...
+Feed: https://feeds.acast.com/public/shows/aa928f4a-8155-4b36-b190-4dfd32da8a84</description>
                 
                 
-                <link>https://podcast.ausha.co/ecoute-ca/ep-133-scb-36-ne-tapez-pas-ca-dans-google</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BDNYTMlKwzQy.mp3?t=1701105960"/>
-                <guid>https://podcast.ausha.co/ecoute-ca/ep-133-scb-36-ne-tapez-pas-ca-dans-google</guid>
+                <link>https://www.binge.audio/podcast/les-couilles-sur-la-table/seducteurs-professionnels</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/les-couilles-sur-la-table/e/656db3ea4af87f0012d701ba/media.mp3"/>
+                <guid>https://www.binge.audio/podcast/les-couilles-sur-la-table/seducteurs-professionnels</guid>
                 
             </item>
         </channel>
