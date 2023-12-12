@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 11 Dec 2023 04:23:03 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Dec 2023 04:22:20 +0200</lastBuildDate>
             <item>
-                <title>Die Frauenleiche im Kanal – der Kronzeuge</title>
-                <description>Wenn der Sohn gegen den eigenen Vater vor Gericht aussagt: Mit Spannung wird in Alex laufendem Prozess die Aussage eines Kronzeugen erwartet. Beim vergangenen Termin war er krank, wird er diesmal vor Gericht erscheinen? Zuletzt haben zudem weitere Zeugen ausgesagt, die den Angeklagten mit ihren Angaben belasten. BAYERN 3 Moderatorin Jaqueline Belle und Strafverteidiger Dr. Alexander Stevens verfolgen diesen Prozess, der eine absurde Wendung nach der anderen nimmt...
-Feed: https://feeds.br.de/true-crime/feed.xml</description>
+                <title>&#34;Hervorstechend Mittelmäßig&#34;</title>
+                <description>SiZ&amp;#039;ung vom 20.10.2023
+Feed: https://feeds.feedburner.com/zwiegespraech</description>
                 
                 
-                <link>https://www.br.de/mediathek/podcast/true-crime/die-frauenleiche-im-kanal-der-kronzeuge/2087315</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2087315/c/feed/die-frauenleiche-im-kanal-der-kronzeuge.mp3"/>
-                <guid>https://www.br.de/mediathek/podcast/true-crime/die-frauenleiche-im-kanal-der-kronzeuge/2087315</guid>
+                <link>https://zwiegespraech.selbstgespraeche-podcast.de/2023/11/01/hervorstechend-mittelmaessig-sizung-vom-20-10-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://selbstgespraeche-podcast.de/wp-content/folgen/siz-010-20-10-23.mp3"/>
+                <guid>https://zwiegespraech.selbstgespraeche-podcast.de/2023/11/01/hervorstechend-mittelmaessig-sizung-vom-20-10-2023/</guid>
                 
             </item><item>
-                <title>Übernatürliche Freude</title>
-                <description>
-Feed: https://feg-mo.de/feg-mo-predigten/</description>
+                <title>Unperfekte Familie</title>
+                <description>Bernhard Olpen
+Feed: https://czd.de/feed/mp3/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://feg-mo.de/wp-content/uploads/predigten/20231203_Timon_Kubsch.mp3"/>
-                <guid></guid>
+                <link>https://fokus-kirche.de/unperfekte-weihnachten-unperfekte-familie/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fokus-kirche.de/podcast/Unperfekte%20Weihnachten%20-%20Unperfekte%20Familie.mp3"/>
+                <guid>https://fokus-kirche.de/unperfekte-weihnachten-unperfekte-familie/</guid>
                 
             </item>
         </channel>

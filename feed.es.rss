@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 11 Dec 2023 04:23:15 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Dec 2023 04:22:28 +0200</lastBuildDate>
             <item>
-                <title>Tangos Infinitos de &amp;#9854; años</title>
-                <description>Cumplir años es cumplir con la vida, en nuestro caso, el júbilo aumenta porque también cumplimos con el Tango; sus ídolos, recuerdos y nostalgias que resuenan en nuestros oídos como suaves caricias de nuestra Argentina, siempre presente. Ocho años de aires musicales rioplatenses que envuelven esta frontera generosa y amiga...
-Feed: https://feeds.feedburner.com/TangoSensei</description>
+                <title>Recuerdos, un poema romántico de Concha Méndez. Poemas de amor de la Generación del 27</title>
+                <description>Concha Méndez, una voz femenina de la Generación del 27. Poemas recitados de Concha Méndez. Poesías románticas de la Generación del 27. Poetas y poemas famosos de la generación del 27. Poesías de amor con voz de la Generación del 27. Escuchar poemas...
+Feed: https://www.spreaker.com/show/5435375/episodes/feed</description>
                 
                 
-                <link>http://www.ivoox.com/tangos-infinitos-9854-anos-audios-mp3_rf_120429256_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/tangos-infinitos-9854-anos_mh_120429256_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/tangos-infinitos-9854-anos-audios-mp3_rf_120429256_1.html</guid>
+                <link>https://www.locutortv.es/dubbing-voices-dubbing-services/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/57953876/concha_mendez_recuerdos_poema_amor_amorypoesia.mp3"/>
+                <guid>https://www.locutortv.es/dubbing-voices-dubbing-services/</guid>
                 
             </item><item>
-                <title>¿Quieres saber cómo influyen las creencias en tu salud? &amp;#128173; Enric Más Cerca</title>
-                <description>Nuestras creencias afectan directamente a nuestra manera de percibir todo lo que nos sucede, influyendo en nuestras emociones, en las decisiones que tomamos, en las acciones que emprendemos y en los resultados que obtenemos en diferentes &amp;aacute;mbitos de nuestra vida. Por tanto, podemos decir que nuestras creencias tienen un impacto en nuestra salud y bienestar...
-Feed: https://www.ivoox.com/enric-corbera-oficial_fg_f1153445_filtro_1.xml</description>
+                <title>Lo conciertos de Radio 3 - Queralt Lahoz - 12/12/23</title>
+                <description>Queralt Lahoz
+Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/quieres-saber-como-influyen-creencias-tu-audios-mp3_rf_117723907_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/quieres-saber-como-influyen-creencias-tu_mf_117723907_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/quieres-saber-como-influyen-creencias-tu-audios-mp3_rf_117723907_1.html</guid>
+                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/queralt-lahoz/7028972/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7028972.mp3"/>
+                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/queralt-lahoz/7028972/</guid>
                 
             </item>
         </channel>

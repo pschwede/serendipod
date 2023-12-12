@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 11 Dec 2023 04:23:09 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Dec 2023 04:22:24 +0200</lastBuildDate>
             <item>
-                <title>Practising uncountable nouns (with food!)</title>
-                <description>Ben has a list of things to get from the supermarket
-Feed: https://rss.acast.com/parler-anglais</description>
+                <title>Super Cover Battle #36 : « Ne tapez pas ça dans Google ».</title>
+                <description>2 mois et demi sans nouvel épisode, c’est long. Et bah dites vous que c’est rien comparé à certaines chansons abordées dans ce 37ème numéro.
+Encore un épisode à ne pas écouter un dimanche soir de Novembre dans la zone industrielle de Dunkerque.
+Au menu : une Princesse, une chanson d’après-guerre, et des adaptations franchement ratées.
+[La playlist Spotify, pas du tout dans l&#39;ordre de l&#39;épisode (parce que j’ai pas eu le temps).](https://open.spotify...
+Feed: https://recoversion.lepodcast.fr/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/FODL1865590241.mp3?updated=1701966483"/>
-                <guid></guid>
+                <link>https://recoversion.lepodcast.fr/super-cover-battle-numero-36-ne-tapez-pas-ca-dans-google</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/recoversion/super-cover-battle-numero-36-ne-tapez-pas-ca-dans-google/enclosure.fe43edfd98319fe5db5a11fb60159b663252c6028473bc439b046bc59f0dd130.mp3?p=f"/>
+                <guid>https://recoversion.lepodcast.fr/super-cover-battle-numero-36-ne-tapez-pas-ca-dans-google</guid>
                 
             </item><item>
-                <title>Séducteurs professionnels</title>
-                <description>&lt;p&gt;&lt;strong&gt;Si ce sont les hommes qui jouissent le plus souvent du tourisme sexuel, il existe aussi d’autres schémas. &lt;/strong&gt;Les bricheros sont des séducteurs professionnels au Pérou, des “chasseurs de gringas” : en jouant avec les fantasmes occidentaux sur les pratiques chamaniques des Andes ou la mythologie inca, ils séduisent des touristes blanches pour en tirer un bénéfice matériel et symbolique, sans jamais rendre cette transaction explicite...
-Feed: https://feeds.acast.com/public/shows/aa928f4a-8155-4b36-b190-4dfd32da8a84</description>
+                <title>Faut-il former les juges aux affaires psychiatriques ?</title>
+                <description>Faut-il former les juges aux affaires psychiatriques ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10175.xml</description>
                 
                 
-                <link>https://www.binge.audio/podcast/les-couilles-sur-la-table/seducteurs-professionnels</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/les-couilles-sur-la-table/e/656db3ea4af87f0012d701ba/media.mp3"/>
-                <guid>https://www.binge.audio/podcast/les-couilles-sur-la-table/seducteurs-professionnels</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/faut-il-former-les-juges-aux-affaires-psychiatriques-4795138</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/06a59400-5d9b-41ec-b777-da45c7b10607/10175-11.12.2023-ITEMA_23580222-2023C36267S0345-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/faut-il-former-les-juges-aux-affaires-psychiatriques-4795138</guid>
                 
             </item>
         </channel>
