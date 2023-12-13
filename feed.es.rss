@@ -9,26 +9,39 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 12 Dec 2023 04:22:28 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 13 Dec 2023 04:22:34 +0200</lastBuildDate>
             <item>
-                <title>Recuerdos, un poema romántico de Concha Méndez. Poemas de amor de la Generación del 27</title>
-                <description>Concha Méndez, una voz femenina de la Generación del 27. Poemas recitados de Concha Méndez. Poesías románticas de la Generación del 27. Poetas y poemas famosos de la generación del 27. Poesías de amor con voz de la Generación del 27. Escuchar poemas...
-Feed: https://www.spreaker.com/show/5435375/episodes/feed</description>
+                <title>Ars Canendi - María Callas: 100 años (I) - 10/12/23</title>
+                <description>María Callas: 100 años (I)
+Feed: http://api.rtve.es/api/programas/1888/audios.rss</description>
                 
                 
-                <link>https://www.locutortv.es/dubbing-voices-dubbing-services/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/57953876/concha_mendez_recuerdos_poema_amor_amorypoesia.mp3"/>
-                <guid>https://www.locutortv.es/dubbing-voices-dubbing-services/</guid>
+                <link>https://www.rtve.es/play/audios/ars-canendi/maria-callas-100-anos-10-12-23/7032115/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7032115.mp3"/>
+                <guid>https://www.rtve.es/play/audios/ars-canendi/maria-callas-100-anos-10-12-23/7032115/</guid>
                 
             </item><item>
-                <title>Lo conciertos de Radio 3 - Queralt Lahoz - 12/12/23</title>
-                <description>Queralt Lahoz
-Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
+                <title>Star 80 del 9 de diciembre de 2023 (edición 452 en Can10fm)</title>
+                <description>Radiorama &amp;ndash; Chance To Desire
+Fred Ventura &amp;ndash; The Years
+Ken Lazlo &amp;ndash; Time Of My Life
+David Lyme &amp;ndash; Playboy
+Miko Mission &amp;ndash; Universal Feeling
+Daydream &amp;ndash; In The Night
+Brand Image &amp;ndash; Love In A Summer Night
+Alan Cook &amp;ndash; Running Away
+Reale Accademia &amp;ndash; She&#39;s Mine
+Boytronic &amp;ndash; Don&amp;acute;t Let Me Down
+Mark Ashley - Hot Like Fire Ext Edit Version Dj Manuel Rios
+Azul y Negro &amp;ndash; Me Estoy Volviendo Loco
+Chip Chip &amp;ndash; So Close To Heaven
+Stylove...
+Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/queralt-lahoz/7028972/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7028972.mp3"/>
-                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/queralt-lahoz/7028972/</guid>
+                <link>https://www.ivoox.com/star-80-del-9-diciembre-2023-audios-mp3_rf_120816141_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-9-diciembre-2023_mh_120816141_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/star-80-del-9-diciembre-2023-audios-mp3_rf_120816141_1.html</guid>
                 
             </item>
         </channel>
