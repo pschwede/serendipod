@@ -9,39 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 13 Dec 2023 04:22:34 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 14 Dec 2023 04:22:16 +0200</lastBuildDate>
             <item>
-                <title>Ars Canendi - María Callas: 100 años (I) - 10/12/23</title>
-                <description>María Callas: 100 años (I)
-Feed: http://api.rtve.es/api/programas/1888/audios.rss</description>
+                <title>Hora América en Radio 5 - Alberto &amp; García de gira con &#39;La Herida&#39; - 12/11/23</title>
+                <description>Alberto &amp; García de gira con &#39;La Herida&#39;
+Feed: http://api.rtve.es/api/programas/37571/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/ars-canendi/maria-callas-100-anos-10-12-23/7032115/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7032115.mp3"/>
-                <guid>https://www.rtve.es/play/audios/ars-canendi/maria-callas-100-anos-10-12-23/7032115/</guid>
+                <link>https://www.rtve.es/play/audios/hora-america-en-radio-5/alberto-garcia-gira-herida/7033385/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7033385.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hora-america-en-radio-5/alberto-garcia-gira-herida/7033385/</guid>
                 
             </item><item>
-                <title>Star 80 del 9 de diciembre de 2023 (edición 452 en Can10fm)</title>
-                <description>Radiorama &amp;ndash; Chance To Desire
-Fred Ventura &amp;ndash; The Years
-Ken Lazlo &amp;ndash; Time Of My Life
-David Lyme &amp;ndash; Playboy
-Miko Mission &amp;ndash; Universal Feeling
-Daydream &amp;ndash; In The Night
-Brand Image &amp;ndash; Love In A Summer Night
-Alan Cook &amp;ndash; Running Away
-Reale Accademia &amp;ndash; She&#39;s Mine
-Boytronic &amp;ndash; Don&amp;acute;t Let Me Down
-Mark Ashley - Hot Like Fire Ext Edit Version Dj Manuel Rios
-Azul y Negro &amp;ndash; Me Estoy Volviendo Loco
-Chip Chip &amp;ndash; So Close To Heaven
-Stylove...
-Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
+                <title>Gana Dinero Siguiendo Este canal</title>
+                <description>Gana dinero siguiendo este canal : ????https://youtube.com/@MonetizaTodito?si=NDXbFBq2AK9cOufq
+Feed: https://www.spreaker.com/show/5806312/episodes/feed</description>
                 
                 
-                <link>https://www.ivoox.com/star-80-del-9-diciembre-2023-audios-mp3_rf_120816141_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-9-diciembre-2023_mh_120816141_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/star-80-del-9-diciembre-2023-audios-mp3_rf_120816141_1.html</guid>
+                <link>https://www.spreaker.com/user/17022738/gana-dinero-en-youtube</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/57446196/copy_1b2c7430_ca92_4fe2_8a8e_18e380088753.mp3"/>
+                <guid>https://www.spreaker.com/user/17022738/gana-dinero-en-youtube</guid>
                 
             </item>
         </channel>
