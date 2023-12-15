@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 14 Dec 2023 04:22:12 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 15 Dec 2023 04:22:29 +0200</lastBuildDate>
             <item>
                 <title>Découvrez la nouvelle exposition de Urban Art Podcast au Scandle !</title>
                 <description>&lt;p&gt;&lt;strong&gt;Urban Art Podcast présente sa nouvelle exposition au Scandle, concept store parisien : &amp;quot;Connexions artistiques, de Séville à Paris&amp;quot; ! &lt;/strong&gt;&lt;/p&gt;
@@ -22,14 +22,15 @@ Feed: https://anchor.fm/s/38aece68/podcast/rss</description>
                 <guid>https://podcasters.spotify.com/pod/show/urban-art-podcast/episodes/Dcouvrez-la-nouvelle-exposition-de-Urban-Art-Podcast-au-Scandle-e2c1g52</guid>
                 
             </item><item>
-                <title>-CINE- « Les Dents de la Mer » Rétrospective Steven Spielberg Ep #3</title>
-                <description>Fréquence Spielberg, épisode 3. Une plongée en direction de la mâchoire des océans
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/1562_0fea13d0c38a6e2187ab788875727fcf.rss</description>
+                <title>La Préparation des Rituels de Magie et de Sorcellerie !</title>
+                <description>&lt;p&gt;Source Wicca Podcasts - Wicca Podcasts, la plateforme des sorcières et de tous les mystères !&lt;/p&gt;
+&lt;p&gt;La Préparation des Rituels de Magie et de Sorcellerie ! Les différents sujets abordés dans l&amp;#8217;émission L&amp;#8217;occultum est un atelier ou une pièce spécifique destinée aux pratiques magiques ! Que peut on retrouver dans un occultum de sorciers et de sorcières ? (Autel ; Tunique de rituel ; Bougies de [.....
+Feed: https://wiccaradio.net/feed/</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/cine-les-dents-de-la-mer-retrospective-steven-spielberg-ep-3-258554/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/1562/258554.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/cine-les-dents-de-la-mer-retrospective-steven-spielberg-ep-3-258554/</guid>
+                <link>https://wiccaradio.net/la-preparation-des-rituels-de-magie-et-de-sorcellerie/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wiccaradio.net/wp-content/uploads/2023/11/Preparation-des-Rituels-de-Magie-et-de-Sorcellerie.mp3"/>
+                <guid>https://wiccaradio.net/la-preparation-des-rituels-de-magie-et-de-sorcellerie/</guid>
                 
             </item>
         </channel>

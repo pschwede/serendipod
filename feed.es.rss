@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 14 Dec 2023 04:22:16 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 15 Dec 2023 04:22:33 +0200</lastBuildDate>
             <item>
-                <title>Hora América en Radio 5 - Alberto &amp; García de gira con &#39;La Herida&#39; - 12/11/23</title>
-                <description>Alberto &amp; García de gira con &#39;La Herida&#39;
-Feed: http://api.rtve.es/api/programas/37571/audios.rss</description>
+                <title>Razón y percepción (14-12-23)</title>
+                <description>Escúchalo aquí sin publicidad
+https://www.menteuno.com/audios/60---razon-y-percepcion-%2814-12-23%29
+Ver en YouTube
+https://youtu.be/4mW_EkbdjxI?si=y3TTIw3G4jwuGFAn
+Telegram
+https://t.me/MenteUno
+Repaso de las primeras secciones del capítulo 21 a través de las preguntas del cuestionario. Grupo de estudio.
+Feed: https://www.ivoox.com/ensenanzas-sobre-un-curso-milagros_fg_f1263434_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hora-america-en-radio-5/alberto-garcia-gira-herida/7033385/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7033385.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hora-america-en-radio-5/alberto-garcia-gira-herida/7033385/</guid>
+                <link>http://www.ivoox.com/razon-percepcion-14-12-23-audios-mp3_rf_121127903_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/razon-percepcion-14-12-23_mh_121127903_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/razon-percepcion-14-12-23-audios-mp3_rf_121127903_1.html</guid>
                 
             </item><item>
-                <title>Gana Dinero Siguiendo Este canal</title>
-                <description>Gana dinero siguiendo este canal : ????https://youtube.com/@MonetizaTodito?si=NDXbFBq2AK9cOufq
-Feed: https://www.spreaker.com/show/5806312/episodes/feed</description>
+                <title>Salvador de Bahía (Brasil)</title>
+                <description>&#34;Você já foi a Bahia?&#34; Si la respuesta es un &#34;no&#34;, pues hay que ir. Salvador de Bahía está localizada en la costa nordeste de Brasil. Fue la capital de las colonias portuguesas en América, por lo cual es una de las ciudades brasileñas más...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link>https://www.spreaker.com/user/17022738/gana-dinero-en-youtube</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/57446196/copy_1b2c7430_ca92_4fe2_8a8e_18e380088753.mp3"/>
-                <guid>https://www.spreaker.com/user/17022738/gana-dinero-en-youtube</guid>
+                <link>https://www.dianauribe.fm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Salvador_de_Baha.mp3?dest-id=844493"/>
+                <guid>https://www.dianauribe.fm</guid>
                 
             </item>
         </channel>
