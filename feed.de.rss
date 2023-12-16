@@ -9,26 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 15 Dec 2023 04:22:25 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 16 Dec 2023 04:21:34 +0200</lastBuildDate>
             <item>
-                <title>&#34;Hervorstechend Mittelmäßig&#34;</title>
-                <description>SiZ&amp;#039;ung vom 20.10.2023
-Feed: https://feeds.feedburner.com/zwiegespraech</description>
+                <title>Unperfekter Ort</title>
+                <description>Eva Batarov
+Feed: https://czd.de/feed/mp3/</description>
                 
                 
-                <link>https://zwiegespraech.selbstgespraeche-podcast.de/2023/11/01/hervorstechend-mittelmaessig-sizung-vom-20-10-2023/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://selbstgespraeche-podcast.de/wp-content/folgen/siz-010-20-10-23.mp3"/>
-                <guid>https://zwiegespraech.selbstgespraeche-podcast.de/2023/11/01/hervorstechend-mittelmaessig-sizung-vom-20-10-2023/</guid>
+                <link>https://fokus-kirche.de/unperfekte-weihnachten-unperfekter-ort/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fokus-kirche.de/podcast/Unperfekte%20Weihnachten%20_%20FOKUS%20KIRCHE.mp3"/>
+                <guid>https://fokus-kirche.de/unperfekte-weihnachten-unperfekter-ort/</guid>
                 
             </item><item>
-                <title>Flg. 306 - Kunst Macht Politik</title>
-                <description>Kunst macht Politik und die Politik mischt sich immer wieder und vehementer in die Kunst ein. Wo ist die Grenze zwischer politischer Kunst und Propaganda? Über Kunst, Macht, Kultur (und Jazz) spricht Gerd Buurmann mit drei Musikern. Zugeschaltet sind...
-Feed: https://www.spreaker.com/show/4605067/episodes/feed</description>
+                <title>#199,5 Jahresendspurt: Der Duft von Lebkuchen und Budgetverhandlungen</title>
+                <description>[Unser Geschäftsmodell-Guide für IT-Unternehmen](https://scaling-champions.com/guide/)
+Lasst uns ein Abo hier, bewertet uns und kontaktiert uns gerne für Fragen, Anregungen oder Kritik!
+Unsere Bücherliste zum Podcast: https://bit.ly/2PmVe2U
+Unsere Weinliste zum Podcast: https://bit.ly/2MNqpD8
+Per Mail an: podcast@scaling-champions.com
+Per LinkedIn
+[Eric Osselmann ](http://bit.ly/37ttBsl)
+[Johannes Rasch](http://bit.ly/31ZMORj)
+Feed: https://scalingchampions.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.spreaker.com/user/indubio/kunstmachtpolitik</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/57946391/kunstmachtpolitik.mp3"/>
-                <guid>https://www.spreaker.com/user/indubio/kunstmachtpolitik</guid>
+                <link>https://scalingchampions.podigee.io/200-jahresendspurt-der-duft-von-lebkuchen-und-budgetverhandlungen</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1307722-m-0a05a3d86acdca952fc40c2c3fd2f06b.mp3?source=feed"/>
+                <guid>https://scalingchampions.podigee.io/200-jahresendspurt-der-duft-von-lebkuchen-und-budgetverhandlungen</guid>
                 
             </item>
         </channel>

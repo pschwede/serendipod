@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 15 Dec 2023 04:22:38 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 16 Dec 2023 04:21:52 +0200</lastBuildDate>
             <item>
-                <title>É o Gustavo, não é?</title>
-                <description>Joana Marques traz de volta um dos preferidos de todos nós (e dele próprio): Gustavo Santos.
-Feed: https://rr.sapo.pt/rss/podcastitunes.aspx?fid=339</description>
+                <title>Xadrez Verbal #361 COP28 + Prévia das Eleições da RD Congo</title>
+                <description>A última edição da sua revista semanal de política internacional em formato podcastal antes do Natal!
+Recebemos novamente Natalie Unterstell, presidenta do Instituto Tanaloa, para abordar os atritos e resoluções da COP28, realizada nos Emirados...
+Feed: https://www.spreaker.com/show/4712237/episodes/feed</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://amsrr.streaming.mediaservices.windows.net/79943351-0396-404c-b13a-3d312b7760d4/extremamente-desagradavel-14-dezembro-2023125693ec.mp3"/>
-                <guid></guid>
+                <link>https://www.spreaker.com/user/central3/xadrez-verbal-361</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/58023394/xadrez_verbal_361.mp3"/>
+                <guid>https://www.spreaker.com/user/central3/xadrez-verbal-361</guid>
                 
             </item><item>
-                <title>#225 - Como aproveitar os benefícios fiscais até ao final do ano</title>
-                <description>Quer saber o que pode fazer para pagar menos impostos ou até mesmo aumentar o seu reembolso de IRS? Neste episódio do podcast MoneyBar, damos-lhe algumas dicas sobre o que ainda pode ser feito antes do final do ano, para conseguir usufruir de benefíc...
-Feed: https://feed.podbean.com/barbarabarroso/feed.xml</description>
+                <title>#103 - Jornada Mundial da Juventude 2023</title>
+                <description>&lt;p&gt;Nenhuma criança sofreu qualquer forma de maus-tratos durante a produção deste episódio. Todos os nomes e situações apresentados são fictícios e não têm qualquer relação com eventos reais.&lt;/p&gt;
+Feed: https://anchor.fm/s/8f0fc78/podcast/rss</description>
                 
                 
-                <link>https://barbarabarroso.podbean.com/e/225-como-aproveitar-os-beneficios-fiscais-ate-ao-final-do-ano/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/n6pxxm/EPISODIO225.mp3"/>
-                <guid>https://barbarabarroso.podbean.com/e/225-como-aproveitar-os-beneficios-fiscais-ate-ao-final-do-ano/</guid>
+                <link>https://podcasters.spotify.com/pod/show/ntbn/episodes/103---Jornada-Mundial-da-Juventude-2023-e2c1jm7</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/8f0fc78/podcast/play/78744711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2F65197688-00cd-9580-8728-0173979f5949.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/ntbn/episodes/103---Jornada-Mundial-da-Juventude-2023-e2c1jm7</guid>
                 
             </item>
         </channel>

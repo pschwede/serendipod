@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 15 Dec 2023 04:22:29 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 16 Dec 2023 04:21:40 +0200</lastBuildDate>
             <item>
-                <title>Découvrez la nouvelle exposition de Urban Art Podcast au Scandle !</title>
-                <description>&lt;p&gt;&lt;strong&gt;Urban Art Podcast présente sa nouvelle exposition au Scandle, concept store parisien : &amp;quot;Connexions artistiques, de Séville à Paris&amp;quot; ! &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Du 28 novembre au 11 décembre 2023, l&amp;#39;artiste espagnole&lt;strong&gt; Laura Aguilar&lt;/strong&gt; est mise à l&amp;#39;honneur. L’épisode du podcast qui lui est dédié sera disponible via un QR au sein de l&amp;#39;exposition...
-Feed: https://anchor.fm/s/38aece68/podcast/rss</description>
+                <title>Rencontre avec Céline autour de la santé mentale, une clé de la réussite</title>
+                <description>Santé mentale
+Feed: https://feeds.acast.com/public/shows/61ed8bf34ba2630012a04bd3</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/urban-art-podcast/episodes/Dcouvrez-la-nouvelle-exposition-de-Urban-Art-Podcast-au-Scandle-e2c1g52</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/38aece68/podcast/play/78741090/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-16%2Fc68bdf01-384b-dfb5-def0-22f140bddf24.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/urban-art-podcast/episodes/Dcouvrez-la-nouvelle-exposition-de-Urban-Art-Podcast-au-Scandle-e2c1g52</guid>
+                <link>https://shows.acast.com/la-boussole/episodes/rencontre-avec-celine-autour-de-la-sante-mentale</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/61ed8bf34ba2630012a04bd3/e/6575798d9ec6570012158a9b/media.mp3"/>
+                <guid>https://shows.acast.com/la-boussole/episodes/rencontre-avec-celine-autour-de-la-sante-mentale</guid>
                 
             </item><item>
-                <title>La Préparation des Rituels de Magie et de Sorcellerie !</title>
-                <description>&lt;p&gt;Source Wicca Podcasts - Wicca Podcasts, la plateforme des sorcières et de tous les mystères !&lt;/p&gt;
-&lt;p&gt;La Préparation des Rituels de Magie et de Sorcellerie ! Les différents sujets abordés dans l&amp;#8217;émission L&amp;#8217;occultum est un atelier ou une pièce spécifique destinée aux pratiques magiques ! Que peut on retrouver dans un occultum de sorciers et de sorcières ? (Autel ; Tunique de rituel ; Bougies de [.....
-Feed: https://wiccaradio.net/feed/</description>
+                <title>-CINE- « Les Dents de la Mer » Rétrospective Steven Spielberg Ep #3</title>
+                <description>Fréquence Spielberg, épisode 3. Une plongée en direction de la mâchoire des océans
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/1562_0fea13d0c38a6e2187ab788875727fcf.rss</description>
                 
                 
-                <link>https://wiccaradio.net/la-preparation-des-rituels-de-magie-et-de-sorcellerie/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wiccaradio.net/wp-content/uploads/2023/11/Preparation-des-Rituels-de-Magie-et-de-Sorcellerie.mp3"/>
-                <guid>https://wiccaradio.net/la-preparation-des-rituels-de-magie-et-de-sorcellerie/</guid>
+                <link>https://www.podcastics.com/podcast/episode/cine-les-dents-de-la-mer-retrospective-steven-spielberg-ep-3-258554/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/1562/258554.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/cine-les-dents-de-la-mer-retrospective-steven-spielberg-ep-3-258554/</guid>
                 
             </item>
         </channel>
