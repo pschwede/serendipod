@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 16 Dec 2023 04:21:40 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 17 Dec 2023 04:22:00 +0200</lastBuildDate>
             <item>
-                <title>Rencontre avec Céline autour de la santé mentale, une clé de la réussite</title>
-                <description>Santé mentale
-Feed: https://feeds.acast.com/public/shows/61ed8bf34ba2630012a04bd3</description>
+                <title>Mix 25 : 12/15/2023 09:00</title>
+                <description>647-302568
+Feed: http://podcast.cism893.ca/radioshows/647/feed_itunes.xml</description>
                 
                 
-                <link>https://shows.acast.com/la-boussole/episodes/rencontre-avec-celine-autour-de-la-sante-mentale</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/61ed8bf34ba2630012a04bd3/e/6575798d9ec6570012158a9b/media.mp3"/>
-                <guid>https://shows.acast.com/la-boussole/episodes/rencontre-avec-celine-autour-de-la-sante-mentale</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/302568.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/302568.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/302568.mp3</guid>
                 
             </item><item>
-                <title>-CINE- « Les Dents de la Mer » Rétrospective Steven Spielberg Ep #3</title>
-                <description>Fréquence Spielberg, épisode 3. Une plongée en direction de la mâchoire des océans
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/1562_0fea13d0c38a6e2187ab788875727fcf.rss</description>
+                <title>L&#39;INTÉGRALE - Walt Disney : un cœur d&#39;enfant et une main de fer</title>
+                <description>Son génie a révolutionné le monde du cinéma et celui de l&#39;animation. Depuis près d&#39;un siècle, ses dessins animés bercent l&#39;enfance de nombreuses générations : Blanche Neige et les 7 nains, Bambi ou encore la Belle et le Clochard. De son vivant et encore plus après ...
+Feed: https://feeds.audiomeans.fr/feed/971b31f2-42d6-4d41-95ee-1c0554528483.xml</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/cine-les-dents-de-la-mer-retrospective-steven-spielberg-ep-3-258554/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/1562/258554.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/cine-les-dents-de-la-mer-retrospective-steven-spielberg-ep-3-258554/</guid>
+                <link>https://www.rtl.fr/programmes/entrez-dans-l-histoire</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/0359828a-2f72-4bc4-87bf-4331eef1918a.mp3?_=1702583284"/>
+                <guid>https://www.rtl.fr/programmes/entrez-dans-l-histoire</guid>
                 
             </item>
         </channel>

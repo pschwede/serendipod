@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 16 Dec 2023 04:21:46 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 17 Dec 2023 04:22:05 +0200</lastBuildDate>
             <item>
-                <title>Tarataña - Hevia y Korrontzi, y del Aitzina Folk, algo más - 10/12/23</title>
-                <description>Hevia y Korrontzi, y del Aitzina Folk, algo más
-Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
+                <title>A golpe de bit - Navidad inteligente y luminosa: tres proyectos - 01/12/23</title>
+                <description>Navidad inteligente y luminosa: tres proyectos
+Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/taratana/hevia-korrontzi-del-aitzina-folk-algo-mas-10-12-23/7030844/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7030844.mp3"/>
-                <guid>https://www.rtve.es/play/audios/taratana/hevia-korrontzi-del-aitzina-folk-algo-mas-10-12-23/7030844/</guid>
+                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/navidad-inteligente-luminosa-tres-proyectos/7025371/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7025371.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/navidad-inteligente-luminosa-tres-proyectos/7025371/</guid>
                 
             </item><item>
-                <title>Threads sigue siendo un apéndice de Instagram #</title>
-                <description>&lt;p&gt;Threads llega a Europa y se nota, pero todavía es una aplicación que depende mucho de su hermana mayor para casi todo. En mi opinión, Meta está experimentando para algo más grande..&lt;/p&gt;
-&lt;p&gt;Me pueden contactar en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta.me/contacto.html&lt;/p&gt;
-&lt;p&gt;Todos los medios donde publico contenido los encuentras en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta.me/&lt;/p&gt;
-
-Feed: https://comopiensodigo.com/@comopiensodigo/feed.xml</description>
+                <title>El Colegio Invisible 4x199: Cazafantasmas</title>
+                <description>En las últimas semanas algunas de las plataformas de televisión más potentes de España han estrenado programas en los que se habla de fenómenos paranormales y de casas encantadas, combinando lo cómico con lo misterioso. Y es que este tipo de fenómenos ...
+Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
                 
                 
-                <link>https://comopiensodigo.com/@comopiensodigo/episodes/threads-sigue-siendo-un-apendice-de-instagram</link>
-                <enclosure type="audio/mpeg" length="1" url="https://comopiensodigo.com/audio/@comopiensodigo/threads-sigue-siendo-un-apendice-de-instagram.mp3?_from=fyyd.de"/>
-                <guid>https://comopiensodigo.com/@comopiensodigo/episodes/threads-sigue-siendo-un-apendice-de-instagram</guid>
+                <link>https://www.ondacero.es/programas/colegio-invisible/podcast/colegio-invisible-4x199-cazafantasmas_20231215657be3bed7b0c300018f3997.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.ondacero.es/mp_audios5//2023/12/15/522AE00E-5FED-4115-9E12-D208B9CA4A4B/522AE00E-5FED-4115-9E12-D208B9CA4A4B.mp3"/>
+                <guid>https://www.ondacero.es/programas/colegio-invisible/podcast/colegio-invisible-4x199-cazafantasmas_20231215657be3bed7b0c300018f3997.html</guid>
                 
             </item>
         </channel>
