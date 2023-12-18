@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 Dec 2023 04:22:00 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 18 Dec 2023 04:22:52 +0200</lastBuildDate>
             <item>
-                <title>Mix 25 : 12/15/2023 09:00</title>
-                <description>647-302568
-Feed: http://podcast.cism893.ca/radioshows/647/feed_itunes.xml</description>
+                <title>Plus c&#39;est long, part III (Kaorin #213)</title>
+                <description>Plus de cent épisodes au compteur pour ces animés - souvent cultes !
+Feed: https://kaorin.fr/podcast_kaorin.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/302568.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/302568.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/302568.mp3</guid>
+                <link>https://kaorin.fr/podcast/kaorin-213/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/kaorin.fr/dl/Kaorin213.mp3"/>
+                <guid>https://kaorin.fr/podcast/kaorin-213/</guid>
                 
             </item><item>
-                <title>L&#39;INTÉGRALE - Walt Disney : un cœur d&#39;enfant et une main de fer</title>
-                <description>Son génie a révolutionné le monde du cinéma et celui de l&#39;animation. Depuis près d&#39;un siècle, ses dessins animés bercent l&#39;enfance de nombreuses générations : Blanche Neige et les 7 nains, Bambi ou encore la Belle et le Clochard. De son vivant et encore plus après ...
-Feed: https://feeds.audiomeans.fr/feed/971b31f2-42d6-4d41-95ee-1c0554528483.xml</description>
+                <title>Discobitch vs Bodybanger vs Zayfall - La Bourgeoisie (SYLVA bootleg)</title>
+                <description>Website: www.sylvadj.comInstagram: www.instagram.com/sylva.officialFacebook: www.facebook.com/Syl...
+Feed: https://feedpress.me/da-sylva0</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/entrez-dans-l-histoire</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/0359828a-2f72-4bc4-87bf-4331eef1918a.mp3?_=1702583284"/>
-                <guid>https://www.rtl.fr/programmes/entrez-dans-l-histoire</guid>
+                <link>https://www.podomatic.com/podcasts/dasylva/episodes/2023-12-14T04_22_31-08_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dasylva.podomatic.com/enclosure/2023-12-14T04_22_31-08_00.mp3?_=1702556553.16860300"/>
+                <guid>https://www.podomatic.com/podcasts/dasylva/episodes/2023-12-14T04_22_31-08_00</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 Dec 2023 04:21:54 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 18 Dec 2023 04:22:48 +0200</lastBuildDate>
             <item>
-                <title>Heiter Weiter: Weihnachten</title>
-                <description>Eine Sendung mit viel Gefühl, Erinnerungen an das Weihnachten unserer Kindheit, Lyrik, Prosa und Tipps für Harmonie und gute Stimmung unterm Baum.
-Feed: http://www.ndr.de/podcast/podcast3050.xml</description>
+                <title>Innovation und Nachhaltigkeit im Handwerksbetrieb</title>
+                <description>Live-Podcast von der RIFA 2023 mit Steffen Erath, hansgrohe
+Feed: https://handwerk.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.ndr.de/ndr1niedersachsen/Heiter-Weiter-Weihnachten,audio1530296.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast3050/AU-20231214-1513-3600.mp3"/>
-                <guid>https://www.ndr.de/ndr1niedersachsen/Heiter-Weiter-Weihnachten,audio1530296.html</guid>
+                <link>https://www.handwerk.live/blog/innovation-und-nachhaltigkeit-im-handwerk/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1255780-m-cb5aebb0a74d5065caeabf1041a90bbc.mp3?source=feed"/>
+                <guid>https://www.handwerk.live/blog/innovation-und-nachhaltigkeit-im-handwerk/</guid>
                 
             </item><item>
-                <title>Wie war das Leben als digital nomad? - mit Katsche Platz</title>
-                <description>mit Katsche Platz haben wir über digitales Nomadentum, das Leben ohne festen Wohnsitz und wie so ein Lifestyle mit Familienplanung vereinbar ist.
-Feed: https://techundtrara.podigee.io/feed/mp3</description>
+                <title>Unperfekter Ort</title>
+                <description>Eva Batarov
+Feed: https://czd.de/feed/mp3/</description>
                 
                 
-                <link>https://techundtrara.podigee.io/150-wie-war-das-leben-als-digital-nomad-mit-katsche-platz</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1299923-m-eef7d0aa524eabd62202b514ae1c5d95.mp3?source=feed"/>
-                <guid>https://techundtrara.podigee.io/150-wie-war-das-leben-als-digital-nomad-mit-katsche-platz</guid>
+                <link>https://fokus-kirche.de/unperfekte-weihnachten-unperfekter-ort/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fokus-kirche.de/podcast/Unperfekte%20Weihnachten%20_%20FOKUS%20KIRCHE.mp3"/>
+                <guid>https://fokus-kirche.de/unperfekte-weihnachten-unperfekter-ort/</guid>
                 
             </item>
         </channel>

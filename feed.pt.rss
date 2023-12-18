@@ -9,26 +9,36 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 Dec 2023 04:22:11 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 18 Dec 2023 04:23:01 +0200</lastBuildDate>
             <item>
-                <title>JetBrains turbina IDEs com IA; Google Duet no VS Code; Novo SvelteKit; Deno com novidades no KV e WebGPU; Jira ganha IA; Wi-Fi 7 5x mais rápido [Compilado #129]</title>
-                <description>&lt;p&gt;Nesse episódio trouxemos as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 09/12 a 15/12...
-Feed: https://anchor.fm/s/4f366e84/podcast/rss</description>
+                <title>Um balanço de 2023 no Manual do Usuário</title>
+                <description>No último episódio do podcast em 2023, fiz uma retrospectiva do Manual do Usuário, das coisas novas, boas e não tão boas que aconteceram por aqui ao longo do ano.
+Alguns links de que comentei no monólogo:
+Nossos repositórios no GitHub.
+Anúncio do comitê
+Feed: https://manualdousuario.net/feed/podcast/guia-pratico/</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/compilado/episodes/JetBrains-turbina-IDEs-com-IA-Google-Duet-no-VS-Code-Novo-SvelteKit-Deno-com-novidades-no-KV-e-WebGPU-Jira-ganha-IA-Wi-Fi-7-5x-mais-rpido-Compilado-129-e2daksa</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/4f366e84/podcast/play/80089418/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-16%2F360152550-44100-2-9d259c1dd69b9.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/compilado/episodes/JetBrains-turbina-IDEs-com-IA-Google-Duet-no-VS-Code-Novo-SvelteKit-Deno-com-novidades-no-KV-e-WebGPU-Jira-ganha-IA-Wi-Fi-7-5x-mais-rpido-Compilado-129-e2daksa</guid>
+                <link>https://manualdousuario.net/podcast/guia-pratico-s7e38/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/manualdousuario.net/podcast-download/39222/guia-pratico-s7e38.mp3"/>
+                <guid>https://manualdousuario.net/podcast/guia-pratico-s7e38/</guid>
                 
             </item><item>
-                <title>Nuno Poiares sobre a formação de oficiais da PSP (Entrevista)</title>
-                <description>&lt;p&gt;As futuras lideranças da PSP passam todas pelas mãos de Nuno Poiares. O comandante do corpo de alunos do ISCPSI, universidade da Polícia de Segurança Pública, garante estar “muito focado” num objetivo único: formar “melhores oficiais” capazes tanto de “motivar” quanto de “corrigir e denunciar”. Nesta entrevista, reflete sobre como ensinar direitos humanos, e prevenir maus tratos, dopoliciamento de proximidade à diversidade no recrutamento...
-Feed: https://www.omnycontent.com/d/playlist/35bdb4a8-b7f8-457b-a09c-a8bd009964db/4e3deeb0-0f9e-4822-8039-a8f20105e067/16a26c17-e6b1-4286-9a00-a8f20105e071/podcast.rss</description>
+                <title>187 - Privatização dos Presídios</title>
+                <description>&lt;p&gt;Zamiliano junto com Jones Manoel recebem Thiago Sardinha e Lorena Martins para debater e explicitar as contradições e riscos a nossa classe inerentes a privatização dos presídios&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quem faz&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Este programa é criado e produzido por Revolushow&lt;/li&gt;
+ &lt;li&gt;Produção Executiva – Zamiliano, Larissa Coutinho, Júlia Rocha, e Jones Manoel&lt;/li&gt;
+  &lt;li&gt;Edição: Zé Lucas&lt;/li&gt;
+  &lt;li&gt;Redes Sociais: Hiago Soares&lt;/li&gt;
+  &lt;li&gt;Revisão:...
+Feed: https://anchor.fm/s/7dfb0f7c/podcast/rss</description>
                 
                 
-                <link>https://omny.fm/shows/eapenasfumaca/nuno-poiares-sobre-a-forma-o-de-oficiais-da-psp-en</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/84C58G/traffic.omny.fm/d/clips/35bdb4a8-b7f8-457b-a09c-a8bd009964db/4e3deeb0-0f9e-4822-8039-a8f20105e067/ff91369f-b86a-44c1-a179-b0bc0019f0ba/audio.mp3?utm_source=Podcast&amp;in_playlist=16a26c17-e6b1-4286-9a00-a8f20105e071"/>
-                <guid>https://omny.fm/shows/eapenasfumaca/nuno-poiares-sobre-a-forma-o-de-oficiais-da-psp-en</guid>
+                <link>https://podcasters.spotify.com/pod/show/revolushow/episodes/187---Privatizao-dos-Presdios-e2bkliu</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/7dfb0f7c/podcast/play/78320670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-8%2F99fdf60a-7b12-3229-712d-d9aeb7e10577.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/revolushow/episodes/187---Privatizao-dos-Presdios-e2bkliu</guid>
                 
             </item>
         </channel>
