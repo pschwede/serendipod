@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 18 Dec 2023 04:22:48 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 21 Dec 2023 04:22:14 +0200</lastBuildDate>
             <item>
-                <title>Innovation und Nachhaltigkeit im Handwerksbetrieb</title>
-                <description>Live-Podcast von der RIFA 2023 mit Steffen Erath, hansgrohe
-Feed: https://handwerk.podigee.io/feed/mp3</description>
+                <title>Findet Schatz - Staffel 6 - Folge 13 - Soul Crystal</title>
+                <description>Eine weitere Staffel Findet Schatz. Christoph, Andreas und Jürgen rätseln sich durch „Soul Crystal“.Alle zwei Wochen könnt ihr uns beim Verzweifeln und manchmal auch beim Jubeln zuhören. Viel Spaß!
+Feed: https://zankstelle-podcast.de/feed/podcast/</description>
                 
                 
-                <link>https://www.handwerk.live/blog/innovation-und-nachhaltigkeit-im-handwerk/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1255780-m-cb5aebb0a74d5065caeabf1041a90bbc.mp3?source=feed"/>
-                <guid>https://www.handwerk.live/blog/innovation-und-nachhaltigkeit-im-handwerk/</guid>
+                <link>https://zankstelle-podcast.de/2023/12/findet-schatz-staffel-6-folge-13-soul-crystal/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/zankstelle/www.zankstelle-podcast.de/zankfolgen/250-Findet-Schatz-S6F13-Soul-Crystal.mp3"/>
+                <guid>https://zankstelle-podcast.de/2023/12/findet-schatz-staffel-6-folge-13-soul-crystal/</guid>
                 
             </item><item>
-                <title>Unperfekter Ort</title>
-                <description>Eva Batarov
-Feed: https://czd.de/feed/mp3/</description>
+                <title>Wie war das Leben als digital nomad? - mit Katsche Platz</title>
+                <description>mit Katsche Platz haben wir über digitales Nomadentum, das Leben ohne festen Wohnsitz und wie so ein Lifestyle mit Familienplanung vereinbar ist.
+Feed: https://techundtrara.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://fokus-kirche.de/unperfekte-weihnachten-unperfekter-ort/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fokus-kirche.de/podcast/Unperfekte%20Weihnachten%20_%20FOKUS%20KIRCHE.mp3"/>
-                <guid>https://fokus-kirche.de/unperfekte-weihnachten-unperfekter-ort/</guid>
+                <link>https://techundtrara.podigee.io/150-wie-war-das-leben-als-digital-nomad-mit-katsche-platz</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1299923-m-eef7d0aa524eabd62202b514ae1c5d95.mp3?source=feed"/>
+                <guid>https://techundtrara.podigee.io/150-wie-war-das-leben-als-digital-nomad-mit-katsche-platz</guid>
                 
             </item>
         </channel>

@@ -9,35 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 18 Dec 2023 04:22:57 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 21 Dec 2023 04:22:22 +0200</lastBuildDate>
             <item>
-                <title>Análisis del &#34;Girls Girls, Girls&#34; de Mötely Crüe - E142T03</title>
-                <description>Puede calif&amp;iacute;canos y dejar su rese&amp;ntilde;a ac&amp;aacute;:
-https://ratethispodcast.com/colmilloroquero
-Puede suscribirse al podcast y encontrar las plataformas disponibles en: https://colmilloroquero.com/plataformas/
-Todos nuestros enlaces est&amp;aacute;n disponibles ac&amp;aacute;:
-https://linktr.ee/ColmilloRoquero
-Todos lo episodios previos en iVoox:
-https://www.ivoox.com/podcast-colmillo-roquero_sq_f1890087_1.html
-Enlaces de lo que hablamos en el episodio:
-Libro en Amazon:
-https://www.amazon...
-Feed: https://www.ivoox.com/es-roquero_fg_f1890087_filtro_1.xml?promotionalCampaign</description>
+                <title>Melodías pizarras - Listos para esas fiestas tan entrañables - 16/12/23</title>
+                <description>Listos para esas fiestas tan entrañables
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/analisis-del-girls-girls-girls-motely-crue-audios-mp3_rf_121035581_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/analisis-del-girls-girls-girls-motely-crue_mf_121035581_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/analisis-del-girls-girls-girls-motely-crue-audios-mp3_rf_121035581_1.html</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/listos-para-fiestas-tan-entranables/7036934/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7036934.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/listos-para-fiestas-tan-entranables/7036934/</guid>
                 
             </item><item>
-                <title>Gana Dinero Siguiendo Este canal</title>
-                <description>Gana dinero siguiendo este canal : ????https://youtube.com/@MonetizaTodito?si=NDXbFBq2AK9cOufq
-Feed: https://www.spreaker.com/show/5806312/episodes/feed</description>
+                <title>Un ejercicio para fortalecer el sistema cardiovascular</title>
+                <description>Nuestro entrenador personal, Tim, hoy nos propone un ejercicio de sentadilla con salto. Especialmente indicado para fortalecer la musculatura de las piernas y activar el sistema cardiovascular.
+Feed: https://rss.dw.com/xml/podcast_en-forma</description>
                 
                 
-                <link>https://www.spreaker.com/user/17022738/gana-dinero-en-youtube</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/57446196/copy_1b2c7430_ca92_4fe2_8a8e_18e380088753.mp3"/>
-                <guid>https://www.spreaker.com/user/17022738/gana-dinero-en-youtube</guid>
+                <link>https://www.dw.com/es/un-ejercicio-para-fortalecer-el-sistema-cardiovascular/video-67712903?maca=spa-podcast_en-forma-7577-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ef/ef20231213_6Tim_AVC_640x360.mp4"/>
+                <guid>https://www.dw.com/es/un-ejercicio-para-fortalecer-el-sistema-cardiovascular/video-67712903?maca=spa-podcast_en-forma-7577-xml-mrss</guid>
                 
             </item>
         </channel>
