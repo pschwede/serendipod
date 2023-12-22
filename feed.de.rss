@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 21 Dec 2023 04:22:14 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 22 Dec 2023 04:22:09 +0200</lastBuildDate>
             <item>
-                <title>Findet Schatz - Staffel 6 - Folge 13 - Soul Crystal</title>
-                <description>Eine weitere Staffel Findet Schatz. Christoph, Andreas und Jürgen rätseln sich durch „Soul Crystal“.Alle zwei Wochen könnt ihr uns beim Verzweifeln und manchmal auch beim Jubeln zuhören. Viel Spaß!
-Feed: https://zankstelle-podcast.de/feed/podcast/</description>
+                <title>Hunger der Tiefe - Pahltera S6 E06</title>
+                <description>Die Gruppe hilft dem Zombie Dude, in dem sie zum Tempel der Miva gehen.
+Feed: https://keeponrolling.de/show/keep-on-rolling/feed/mp3/</description>
                 
                 
-                <link>https://zankstelle-podcast.de/2023/12/findet-schatz-staffel-6-folge-13-soul-crystal/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/zankstelle/www.zankstelle-podcast.de/zankfolgen/250-Findet-Schatz-S6F13-Soul-Crystal.mp3"/>
-                <guid>https://zankstelle-podcast.de/2023/12/findet-schatz-staffel-6-folge-13-soul-crystal/</guid>
+                <link>https://keeponrolling.de/podcast/helfende-elfen-pahltera-s6-e06/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://keeponrolling.de/podlove/file/174/s/feed/c/mp3/KoR_90.mp3"/>
+                <guid>https://keeponrolling.de/podcast/helfende-elfen-pahltera-s6-e06/</guid>
                 
             </item><item>
-                <title>Wie war das Leben als digital nomad? - mit Katsche Platz</title>
-                <description>mit Katsche Platz haben wir über digitales Nomadentum, das Leben ohne festen Wohnsitz und wie so ein Lifestyle mit Familienplanung vereinbar ist.
-Feed: https://techundtrara.podigee.io/feed/mp3</description>
+                <title>WR1535 Der Wahnsinn in der USA</title>
+                <description>Diese Sendung ist das erste Mal, dass ich wesentliche Teile des Schnitts von einer KI habe machen lassen, und mich interessiert sehr, wie ihr das Ergebnis findet. Am Abend des 19. Oktober 2023 fragte mich Rüdiger Bachmann,
+Feed: https://wrint.de/category/zum_thema/feed/</description>
                 
                 
-                <link>https://techundtrara.podigee.io/150-wie-war-das-leben-als-digital-nomad-mit-katsche-platz</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1299923-m-eef7d0aa524eabd62202b514ae1c5d95.mp3?source=feed"/>
-                <guid>https://techundtrara.podigee.io/150-wie-war-das-leben-als-digital-nomad-mit-katsche-platz</guid>
+                <link>https://wrint.de/2023/10/21/wr1535-der-wahnsinn-in-der-usa/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://files.wrint.de/WR1535_Der_Wahnsinn_in_der_USA.mp3"/>
+                <guid>https://wrint.de/2023/10/21/wr1535-der-wahnsinn-in-der-usa/</guid>
                 
             </item>
         </channel>

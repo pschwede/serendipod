@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 21 Dec 2023 04:22:22 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 22 Dec 2023 04:22:18 +0200</lastBuildDate>
             <item>
-                <title>Melodías pizarras - Listos para esas fiestas tan entrañables - 16/12/23</title>
-                <description>Listos para esas fiestas tan entrañables
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
+                <title>Susana Rinaldi y Julio de Caro, cumpleañeros de diciembre</title>
+                <description>Queridos amigos, llegamos a fin de año transitando entusiasmados nuestro octavo aniversario hacia el infinito del tango, recordando que en diciembre varios de los máximos exponentes del tango nacieron este mes. Por ese motivo Tango Sensei dedica un par de programas a cuatro de las figuras más significativas de la música rioplatense...
+Feed: https://feeds.feedburner.com/TangoSensei</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/listos-para-fiestas-tan-entranables/7036934/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7036934.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/listos-para-fiestas-tan-entranables/7036934/</guid>
+                <link>http://www.ivoox.com/susana-rinaldi-julio-caro-cumpleaneros-de-audios-mp3_rf_121496145_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/susana-rinaldi-julio-caro-cumpleaneros-de_mh_121496145_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/susana-rinaldi-julio-caro-cumpleaneros-de-audios-mp3_rf_121496145_1.html</guid>
                 
             </item><item>
-                <title>Un ejercicio para fortalecer el sistema cardiovascular</title>
-                <description>Nuestro entrenador personal, Tim, hoy nos propone un ejercicio de sentadilla con salto. Especialmente indicado para fortalecer la musculatura de las piernas y activar el sistema cardiovascular.
-Feed: https://rss.dw.com/xml/podcast_en-forma</description>
+                <title>Programa de afiliados de RØDE #Misc</title>
+                <description>&lt;p&gt;RØDE lanzó un programa de afiliados que se supone solo ha llegado a unos pocos (aunque lo dudo), donde básicamente podrás ganar dinero si alguien compra algún producto de la tienda de ellos si usan tu enlace, como el resto de programas afiliados, vamos..&lt;/p&gt;
+&lt;p&gt;Me pueden contactar en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/contacto.html&lt;/p&gt;
+&lt;p&gt;Todos los medios donde publico contenido los encuentras en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/&lt;/p&gt;
+
+Feed: https://comopiensodigo.com/@comopiensodigo/feed.xml</description>
                 
                 
-                <link>https://www.dw.com/es/un-ejercicio-para-fortalecer-el-sistema-cardiovascular/video-67712903?maca=spa-podcast_en-forma-7577-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ef/ef20231213_6Tim_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/un-ejercicio-para-fortalecer-el-sistema-cardiovascular/video-67712903?maca=spa-podcast_en-forma-7577-xml-mrss</guid>
+                <link>https://comopiensodigo.com/@comopiensodigo/episodes/programa-de-afiliados-de-rode-misc</link>
+                <enclosure type="audio/mpeg" length="1" url="https://comopiensodigo.com/audio/@comopiensodigo/programa-de-afiliados-de-rode-misc.mp3?_from=fyyd.de"/>
+                <guid>https://comopiensodigo.com/@comopiensodigo/episodes/programa-de-afiliados-de-rode-misc</guid>
                 
             </item>
         </channel>
