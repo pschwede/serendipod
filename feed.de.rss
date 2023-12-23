@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 22 Dec 2023 04:22:09 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 23 Dec 2023 04:22:05 +0200</lastBuildDate>
             <item>
-                <title>Hunger der Tiefe - Pahltera S6 E06</title>
-                <description>Die Gruppe hilft dem Zombie Dude, in dem sie zum Tempel der Miva gehen.
-Feed: https://keeponrolling.de/show/keep-on-rolling/feed/mp3/</description>
+                <title>„Fragen zum Jahresausklang, die Dich bewegen werden“</title>
+                <description>Das Leben ist eine Reise, die wir alle gemeinsam machen mit all seinen Höhen und Tiefen. Wir werden herausgefordert und werden beschenkt. Mal werden wir durchgeschüttelt und dann wieder sanft gewogen. Es gibt Zeiten, in denen wir überfordert sind...
+Feed: https://yvonnes-podcast.libsyn.com/rss</description>
                 
                 
-                <link>https://keeponrolling.de/podcast/helfende-elfen-pahltera-s6-e06/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://keeponrolling.de/podlove/file/174/s/feed/c/mp3/KoR_90.mp3"/>
-                <guid>https://keeponrolling.de/podcast/helfende-elfen-pahltera-s6-e06/</guid>
+                <link>https://yvonnes-podcast.libsyn.com/fragen-zum-jahresausklang-die-dich-bewegen-werden</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/yvonnes-podcast/Mind_in_Talk___Rckblick-neu.mp3?dest-id=635580"/>
+                <guid>https://yvonnes-podcast.libsyn.com/fragen-zum-jahresausklang-die-dich-bewegen-werden</guid>
                 
             </item><item>
-                <title>WR1535 Der Wahnsinn in der USA</title>
-                <description>Diese Sendung ist das erste Mal, dass ich wesentliche Teile des Schnitts von einer KI habe machen lassen, und mich interessiert sehr, wie ihr das Ergebnis findet. Am Abend des 19. Oktober 2023 fragte mich Rüdiger Bachmann,
-Feed: https://wrint.de/category/zum_thema/feed/</description>
+                <title>Die Frauenleiche im Kanal – das Urteil</title>
+                <description>Das Urteil im Prozess ist gefallen. Alex spricht in dieser Folge des BAYERN 3 True Crime Podcasts mit Jaci darüber, wie das Gericht entschieden hat. Außerdem geht es um wichtige Erkenntnisse der Gerichtsmedizin und die Aussage eines weiteren Kronzeugen. Leider hat der Fall auch noch eine weitere tragische Wendung genommen.  Während der zwölf Verhandlungstage ging es um den Tod von Anastasia aus Solingen. 2021 wurde ihre nackte Leiche in einem Kanal in den Niederlanden gefunden...
+Feed: https://feeds.br.de/true-crime/feed.xml</description>
                 
                 
-                <link>https://wrint.de/2023/10/21/wr1535-der-wahnsinn-in-der-usa/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://files.wrint.de/WR1535_Der_Wahnsinn_in_der_USA.mp3"/>
-                <guid>https://wrint.de/2023/10/21/wr1535-der-wahnsinn-in-der-usa/</guid>
+                <link>https://www.br.de/mediathek/podcast/true-crime/die-frauenleiche-im-kanal-das-urteil/2087951</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2087951/c/feed/die-frauenleiche-im-kanal-das-urteil.mp3"/>
+                <guid>https://www.br.de/mediathek/podcast/true-crime/die-frauenleiche-im-kanal-das-urteil/2087951</guid>
                 
             </item>
         </channel>
