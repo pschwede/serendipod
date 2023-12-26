@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 23 Dec 2023 04:22:05 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 26 Dec 2023 04:21:46 +0200</lastBuildDate>
             <item>
-                <title>„Fragen zum Jahresausklang, die Dich bewegen werden“</title>
-                <description>Das Leben ist eine Reise, die wir alle gemeinsam machen mit all seinen Höhen und Tiefen. Wir werden herausgefordert und werden beschenkt. Mal werden wir durchgeschüttelt und dann wieder sanft gewogen. Es gibt Zeiten, in denen wir überfordert sind...
-Feed: https://yvonnes-podcast.libsyn.com/rss</description>
+                <title>Quatschbrötchen: #110 - Weihnachtsausgabe mit Kartoffelsalat und Würstchen</title>
+                <description>Comedy, Satire, Quatsch, Spaß und beste Unterhaltung in einem Podcast!
+Feed: https://qqq.quatschbroetchen.de/show/quatschbroetchen/feed/mp3/</description>
                 
                 
-                <link>https://yvonnes-podcast.libsyn.com/fragen-zum-jahresausklang-die-dich-bewegen-werden</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/yvonnes-podcast/Mind_in_Talk___Rckblick-neu.mp3?dest-id=635580"/>
-                <guid>https://yvonnes-podcast.libsyn.com/fragen-zum-jahresausklang-die-dich-bewegen-werden</guid>
+                <link>https://qqq.quatschbroetchen.de/110/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://qqq.quatschbroetchen.de/podlove/file/2526/s/feed/c/mp3/quatschbroetchen-110.mp3"/>
+                <guid>https://qqq.quatschbroetchen.de/110/</guid>
                 
             </item><item>
-                <title>Die Frauenleiche im Kanal – das Urteil</title>
-                <description>Das Urteil im Prozess ist gefallen. Alex spricht in dieser Folge des BAYERN 3 True Crime Podcasts mit Jaci darüber, wie das Gericht entschieden hat. Außerdem geht es um wichtige Erkenntnisse der Gerichtsmedizin und die Aussage eines weiteren Kronzeugen. Leider hat der Fall auch noch eine weitere tragische Wendung genommen.  Während der zwölf Verhandlungstage ging es um den Tod von Anastasia aus Solingen. 2021 wurde ihre nackte Leiche in einem Kanal in den Niederlanden gefunden...
-Feed: https://feeds.br.de/true-crime/feed.xml</description>
+                <title>Weihnachtsspezial 2023: Der Podcast – Teil 2</title>
+                <description> Weihnachtsspezial 2023
+Terminplan:
+ 	Weihnachtsspezial 2023: Teil 1 (24.12.23)
+ 	Weihnachtsspezial 2023: Teil 2 (25.12.23)
+Die Geschenke sind ausgepackt und zu allem Glück wartet der zweite Podcast-Teil des Weihnachtsspezials auf euch. Wieviel besser kann der Tag wohl noch werden? :)
+Leider gibt es auch eine schlechte Nachricht: Aufgrund kranksheitsbedingter Ausfälle und terminlicher Problematiken wird in Teil 2 ausnahmsweise nur Alex zu hören sein und seine Plätze 3 bis 1 zum Besten geben...
+Feed: http://podcast.sothi.de/?feed=swp</description>
                 
                 
-                <link>https://www.br.de/mediathek/podcast/true-crime/die-frauenleiche-im-kanal-das-urteil/2087951</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2087951/c/feed/die-frauenleiche-im-kanal-das-urteil.mp3"/>
-                <guid>https://www.br.de/mediathek/podcast/true-crime/die-frauenleiche-im-kanal-das-urteil/2087951</guid>
+                <link>https://podcast.sothi.de/weihnachtsspezial-2023-der-podcast-teil-2/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.sothi.de/files/swp/weihnachtsspezial_2023_2.mp3"/>
+                <guid>https://podcast.sothi.de/weihnachtsspezial-2023-der-podcast-teil-2/</guid>
                 
             </item>
         </channel>

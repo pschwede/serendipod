@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 23 Dec 2023 04:22:13 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 26 Dec 2023 04:21:58 +0200</lastBuildDate>
             <item>
-                <title>Salones de baile</title>
-                <description>Es salud, es amor, es alegría: el baile. &lt;br&gt;&lt;br&gt;Hay un baile que parece cumbia pero no es cumbia, que se parece al swing pero no es swing. Se llama swing criollo y es único de Costa Rica. Y un periodista está determinado a aprender su arte. &lt;br&gt;&lt;br&gt;En nuestro sitio web puedes encontrar una transcripción del episodio. &lt;br&gt;&lt;br&gt;Or you can also check this English translation. &lt;br&gt;&lt;br&gt;♥ Radio Ambulante es posible gracias a nuestra comunidad...
-Feed: https://feeds.npr.org/510315/podcast.xml</description>
+                <title>Música y Letra: Especial Nochebuena</title>
+                <description>Amorós dedica este programa especial de Navidad a diferentes compositores como Bach, Vivaldi y Haendel con algunas piezas litúrgicas y otras melodías.
+Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
                 
                 
-                <link>https://www.npr.org/2023/12/19/1198908310/radio-ambulante-draft-12-19-2023</link>
-                <enclosure type="audio/mpeg" length="1" url="https://play.podtrac.com/npr-510315/traffic.megaphone.fm/NPR1145350622.mp3?d=1685&amp;size=26969697&amp;e=1198908310&amp;t=podcast&amp;p=510315"/>
-                <guid>https://www.npr.org/2023/12/19/1198908310/radio-ambulante-draft-12-19-2023</guid>
+                <link>https://esradio.libertaddigital.com/fonoteca/2023-12-24/musica-y-letra-especial-nochebuena-p1696233-7081302.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/58069670/download.mp3?aw_0_1st.collectionid=musica-y-letra"/>
+                <guid>https://esradio.libertaddigital.com/fonoteca/2023-12-24/musica-y-letra-especial-nochebuena-p1696233-7081302.html</guid>
                 
             </item><item>
-                <title>PRIMER PLANO con ÁLEX CONDE</title>
-                <description>Estamos ante uno de los artistas referentes del jazz flamenco y tendremos la fortuna de verlo esta semana en Madrid pero antes de subirse a un escenario hemos podido conversar con &amp;eacute;l y nos cuenta la historia de muchas de sus canciones y de su trabajado &amp;eacute;xito
-Feed: https://www.ivoox.com/primer-plano_fg_f1237454_filtro_1.xml</description>
+                <title>148 - It’s a Wonderful Life con Gerardo Alemán</title>
+                <description>Hola Gerardo aquí en otro episodio de Simplemente Yo; La selección de esta semana es It&#39;s a Wonderful Life, es una película dramática de fantasía navideña de 1946 producida y dirigida por Frank Capra. Se basa en el cuento y el folleto The Greatest Gi...
+Feed: https://filmicnotionpod.com/feed.xml</description>
                 
                 
-                <link>https://www.ivoox.com/primer-plano-alex-conde-audios-mp3_rf_121214319_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-alex-conde_mf_121214319_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/primer-plano-alex-conde-audios-mp3_rf_121214319_1.html</guid>
+                <link>https://filmicnotionpod.com/e/148-it-s-a-wonderful-life-con-gerardo-aleman/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/tbz6fp/148_-_FN_-_It_s_a_Wonderful_Life9cz3e.mp3"/>
+                <guid>https://filmicnotionpod.com/e/148-it-s-a-wonderful-life-con-gerardo-aleman/</guid>
                 
             </item>
         </channel>

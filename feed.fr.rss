@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 23 Dec 2023 04:22:09 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 26 Dec 2023 04:21:52 +0200</lastBuildDate>
             <item>
-                <title>Stop ou Encore du 17 décembre 2023</title>
-                <description>Ecoutez Stop ou Encore du 17 décembre 2023 avec Éric Jean-Jean.
-Feed: https://feeds.audiomeans.fr/feed/923c454c-9a6c-4dd3-987f-159bda81d36f.xml</description>
+                <title>Les criquets crinqués : 12/18/2023 21:00</title>
+                <description>653-302812
+Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/stop-ou-encore</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/d0d152c3-f106-4739-8555-a62a76ddc057.mp3?_=1702811588"/>
-                <guid>https://www.rtl.fr/programmes/stop-ou-encore</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/302812.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/302812.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/302812.mp3</guid>
                 
             </item><item>
-                <title>&#34;Mon corps fabrique de l&#39;alcool&#34; : Éric et Murielle nous parlent du syndrome de l&#39;auto-brasserie</title>
-                <description>&lt;p&gt;David Venkatapen, mannequin grande taille, nous raconte comment il vit son métier et met en valeur avec fierté son corps, loin des normes. Ses astuces pour mieux s&#39;aimer, l&#39;évolution de la visibilité, le chemin pour trouver sa&amp;nbsp;place... Il fallait qu&#39;on en parle, on en a parlé.&lt;/p&gt;
-Feed: https://feeds.360.audion.fm/WmqPUwPHUILSN5ysZLgUm</description>
+                <title>Ep 133 : SCB 36 Ne tapez pas ça dans Google</title>
+                <description>Eh non, vous ne rêvez pas, il est bien là cet épisode 37... euh 36 pardon. 2 longs mois d&#39;attente pour notre nouveau meilleur épisode, on espère que vous serez toujours au rendez-vous !
+Au programme donc, Dave - John Wick - Mustaine, une nouvelle juri...
+Feed: https://feed.ausha.co/b5OqSkK12NXo</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/f71e6a31-0b8a-4f72-8213-bc303c5425fd.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/ecoute-ca/ep-133-scb-36-ne-tapez-pas-ca-dans-google</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BDNYTMlKwzQy.mp3?t=1701105960"/>
+                <guid>https://podcast.ausha.co/ecoute-ca/ep-133-scb-36-ne-tapez-pas-ca-dans-google</guid>
                 
             </item>
         </channel>
