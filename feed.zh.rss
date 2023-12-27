@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 26 Dec 2023 04:22:10 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 27 Dec 2023 04:21:32 +0200</lastBuildDate>
             <item>
-                <title>Linux Horror Stories</title>
-                <description>Linux Horror Stories
-Feed: https://feeds.fireside.fm/thelinuxcast/rss</description>
+                <title>Frank Borman - Apollo Legend</title>
+                <description>His Apollo 8 mission was the first manned mission to the Moon...
+Feed: https://www.thenakedscientists.com/rss/naked_astronomy_podcast.xml</description>
                 
                 
-                <link>https://thelinuxcast.fireside.fm/142</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/ae328e48-d61d-425d-bd02-a620d555c202/15c804c0-57c3-46d0-86c5-dc4cb1842251.mp3"/>
-                <guid>https://thelinuxcast.fireside.fm/142</guid>
+                <link>https://www.thenakedscientists.com/podcasts/astronomy-podcasts/space-boffins/frank-borman-apollo-legend</link>
+                <enclosure type="audio/mpeg" length="1" url="https://flex.acast.com/downloads.nakeddiscovery.com/downloads/active/Space_Boffins_23.12.18.mp3"/>
+                <guid>https://www.thenakedscientists.com/podcasts/astronomy-podcasts/space-boffins/frank-borman-apollo-legend</guid>
                 
             </item><item>
-                <title>Christmas Special &#39;23: Gremlins (1984)</title>
-                <description>&lt;p&gt;It&amp;#39;s the most wonderful time of the year or the worst depending on who you ask.&lt;/p&gt;
---- 
-Send in a voice message: https://podcasters.spotify.com/pod/show/mmftg/message
-Feed: https://anchor.fm/s/415f3cb4/podcast/rss</description>
+                <title>Winter Chill Vol 2</title>
+                <description>Legit Trip - DeeperLogic - I Got Something ( Deep Mix )Lucky Sun feat Jaidene Veda - Falling Fool...
+Feed: https://djnimbus.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/mmftg/episodes/Christmas-Special-23-Gremlins-1984-e2djdo8</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO4242822457.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/mmftg/episodes/Christmas-Special-23-Gremlins-1984-e2djdo8</guid>
+                <link>https://www.podomatic.com/podcasts/djnimbus/episodes/2023-12-01T14_56_25-08_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/https://djnimbus.podomatic.com/enclosure/2023-12-01T14_56_25-08_00.mp3?_=1701471391.16845035"/>
+                <guid>https://www.podomatic.com/podcasts/djnimbus/episodes/2023-12-01T14_56_25-08_00</guid>
                 
             </item>
         </channel>

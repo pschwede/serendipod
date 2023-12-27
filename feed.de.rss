@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 26 Dec 2023 04:21:46 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 27 Dec 2023 04:21:15 +0200</lastBuildDate>
             <item>
-                <title>Quatschbrötchen: #110 - Weihnachtsausgabe mit Kartoffelsalat und Würstchen</title>
-                <description>Comedy, Satire, Quatsch, Spaß und beste Unterhaltung in einem Podcast!
-Feed: https://qqq.quatschbroetchen.de/show/quatschbroetchen/feed/mp3/</description>
+                <title>Apropos ... Mental Health!</title>
+                <description>Aus Tiefschlägen heraus in ein neues, erfüllteres Leben: Dominique de Marné hat nach zehn Jahren der Sucht und Depression für sich einen Weg herausgeschafft. In dieser Folge soll es nicht unbedingt um die Extreme des Lebens gehen, sondern vielmehr darum, ihnen vorzubeugen. Mit mentaler Fitness. Was können wir tun, um in einer Zeit der stark belastenden Krisen psychisch gesund zu bleiben? Die Ressourcen dazu stecken bereits in uns...
+Feed: https://mlu4ob.podcaster.de/aproposPsychologie.rss</description>
                 
                 
-                <link>https://qqq.quatschbroetchen.de/110/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://qqq.quatschbroetchen.de/podlove/file/2526/s/feed/c/mp3/quatschbroetchen-110.mp3"/>
-                <guid>https://qqq.quatschbroetchen.de/110/</guid>
+                <link>https://junfermann.podcaster.de/apropospsychologie/apropos-mental-health/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://junfermann.podcaster.de/aproposPsychologie/media/Apropos_---_mit_Dominique_de_Marne.mp3"/>
+                <guid>https://junfermann.podcaster.de/apropospsychologie/apropos-mental-health/</guid>
                 
             </item><item>
-                <title>Weihnachtsspezial 2023: Der Podcast – Teil 2</title>
-                <description> Weihnachtsspezial 2023
-Terminplan:
- 	Weihnachtsspezial 2023: Teil 1 (24.12.23)
- 	Weihnachtsspezial 2023: Teil 2 (25.12.23)
-Die Geschenke sind ausgepackt und zu allem Glück wartet der zweite Podcast-Teil des Weihnachtsspezials auf euch. Wieviel besser kann der Tag wohl noch werden? :)
-Leider gibt es auch eine schlechte Nachricht: Aufgrund kranksheitsbedingter Ausfälle und terminlicher Problematiken wird in Teil 2 ausnahmsweise nur Alex zu hören sein und seine Plätze 3 bis 1 zum Besten geben...
-Feed: http://podcast.sothi.de/?feed=swp</description>
+                <title>scobel - Verzicht</title>
+                <description>Verzicht ist zum Politikum geworden. Der soziale Zusammenhalt ist dahin, der gesellschaftliche Frieden bröckelt. Die protestantische Verzichtsethik ist zur Spaßbremse verkommen.
+Feed: https://www.3sat.de/rss/podcast/video/zdf/wissen/scobel</description>
                 
                 
-                <link>https://podcast.sothi.de/weihnachtsspezial-2023-der-podcast-teil-2/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.sothi.de/files/swp/weihnachtsspezial_2023_2.mp3"/>
-                <guid>https://podcast.sothi.de/weihnachtsspezial-2023-der-podcast-teil-2/</guid>
+                <link>https://www.3sat.de/wissen/scobel/scobel---verzicht-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podfileszdf-a.akamaihd.net/podcast/3sat_podcasts/23/12/231214_sendung_scobel/1/231214_sendung_scobel_1528k_p20v15.mp4"/>
+                <guid>https://www.3sat.de/wissen/scobel/scobel---verzicht-100.html</guid>
                 
             </item>
         </channel>

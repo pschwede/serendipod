@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 26 Dec 2023 04:21:52 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 27 Dec 2023 04:21:20 +0200</lastBuildDate>
             <item>
-                <title>Les criquets crinqués : 12/18/2023 21:00</title>
-                <description>653-302812
-Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
+                <title>André Markowicz (3/3)</title>
+                <description>Métrique et astuces 
+Feed: https://www.arteradio.com/xml_sound_serie?seriename=%22BOOKMAKERS%22</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/302812.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/302812.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/302812.mp3</guid>
+                <link>https://www.arteradio.com/son/61681723/andre_markowicz_3_3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arte.proxycast.org/m/media/226026218795.mp3?c=Serie&amp;p=1627&amp;l3=61681723&amp;l4=andre_markowicz_3_3-20231213-86&amp;media_url=https%3A%2F%2Fcdn.arteradio.com%2Fpermanent%2Farteradio%2Fsites%2Fdefault%2Ffiles%2Fsons%2F13bookmakersandremarkowicz3_hq_fr.mp3"/>
+                <guid>https://www.arteradio.com/son/61681723/andre_markowicz_3_3</guid>
                 
             </item><item>
-                <title>Ep 133 : SCB 36 Ne tapez pas ça dans Google</title>
-                <description>Eh non, vous ne rêvez pas, il est bien là cet épisode 37... euh 36 pardon. 2 longs mois d&#39;attente pour notre nouveau meilleur épisode, on espère que vous serez toujours au rendez-vous !
-Au programme donc, Dave - John Wick - Mustaine, une nouvelle juri...
-Feed: https://feed.ausha.co/b5OqSkK12NXo</description>
+                <title>Archéologie des mythes : une plongée dans l’imaginaire de l’humanité</title>
+                <description>Archéologie des mythes : une plongée dans l’imaginaire de l’humanité
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10267.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/ecoute-ca/ep-133-scb-36-ne-tapez-pas-ca-dans-google</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BDNYTMlKwzQy.mp3?t=1701105960"/>
-                <guid>https://podcast.ausha.co/ecoute-ca/ep-133-scb-36-ne-tapez-pas-ca-dans-google</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/carbone-14-le-magazine-de-l-archeologie/archeologie-des-mythes-une-plongee-dans-l-imaginaire-de-l-humanite-8764237</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/af8e3d5a-0731-4e86-a2df-7bfa214b2c9d/10267-23.12.2023-ITEMA_23594326-2023C26375E0045-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/carbone-14-le-magazine-de-l-archeologie/archeologie-des-mythes-une-plongee-dans-l-imaginaire-de-l-humanite-8764237</guid>
                 
             </item>
         </channel>
