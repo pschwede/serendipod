@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 27 Dec 2023 04:21:15 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 28 Dec 2023 04:22:02 +0200</lastBuildDate>
             <item>
-                <title>Apropos ... Mental Health!</title>
-                <description>Aus Tiefschlägen heraus in ein neues, erfüllteres Leben: Dominique de Marné hat nach zehn Jahren der Sucht und Depression für sich einen Weg herausgeschafft. In dieser Folge soll es nicht unbedingt um die Extreme des Lebens gehen, sondern vielmehr darum, ihnen vorzubeugen. Mit mentaler Fitness. Was können wir tun, um in einer Zeit der stark belastenden Krisen psychisch gesund zu bleiben? Die Ressourcen dazu stecken bereits in uns...
-Feed: https://mlu4ob.podcaster.de/aproposPsychologie.rss</description>
+                <title>Janine und Sammeln</title>
+                <description>Die spitzeste Zunge der Stadt kann nicht fassen, was ihre Tochter alles sammelt... genau: ALLES!
+Feed: https://www.rbb888.de/podcast/berlin_und_janine.xml/feed=podcast.xml</description>
                 
                 
-                <link>https://junfermann.podcaster.de/apropospsychologie/apropos-mental-health/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://junfermann.podcaster.de/aproposPsychologie/media/Apropos_---_mit_Dominique_de_Marne.mp3"/>
-                <guid>https://junfermann.podcaster.de/apropospsychologie/apropos-mental-health/</guid>
+                <link>https://rbbmediapmdp-a.akamaihd.net/content/21/11/21119396-1d2d-4dca-be1d-bf542bfc1f4d/0e1f3cdc-686c-4d04-90d6-d08344c4d986_8732de62-ce65-44ce-9a10-ece2f57d9556.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rbbmediapmdp-a.akamaihd.net/content/21/11/21119396-1d2d-4dca-be1d-bf542bfc1f4d/0e1f3cdc-686c-4d04-90d6-d08344c4d986_8732de62-ce65-44ce-9a10-ece2f57d9556.mp3"/>
+                <guid>https://rbbmediapmdp-a.akamaihd.net/content/21/11/21119396-1d2d-4dca-be1d-bf542bfc1f4d/0e1f3cdc-686c-4d04-90d6-d08344c4d986_8732de62-ce65-44ce-9a10-ece2f57d9556.mp3</guid>
                 
             </item><item>
-                <title>scobel - Verzicht</title>
-                <description>Verzicht ist zum Politikum geworden. Der soziale Zusammenhalt ist dahin, der gesellschaftliche Frieden bröckelt. Die protestantische Verzichtsethik ist zur Spaßbremse verkommen.
-Feed: https://www.3sat.de/rss/podcast/video/zdf/wissen/scobel</description>
+                <title>RadPod#157 Bundeshaushalt</title>
+                <description>&amp;nbsp;RadPod: Bundeshaushalt&amp;nbsp; 
+&amp;nbsp;Folge 157&amp;nbsp; 
+Shownotes/Quellen:ADFC zum BundesratADFC zum BundeshaushaltStudie Radverkehr stärkt sozialen ZusammenhaltBeschluss zum RadentscheidRadinvestitionen Tabelle aus dem Jahr 2019Radinvestitionen Tabel
+Feed: http://www.fahrradstadt-magazin.de/feed/podcast/allgemein/</description>
                 
                 
-                <link>https://www.3sat.de/wissen/scobel/scobel---verzicht-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podfileszdf-a.akamaihd.net/podcast/3sat_podcasts/23/12/231214_sendung_scobel/1/231214_sendung_scobel_1528k_p20v15.mp4"/>
-                <guid>https://www.3sat.de/wissen/scobel/scobel---verzicht-100.html</guid>
+                <link>https://www.fahrradstadt-magazin.de/2023/12/20/radpod157-bundeshaushalt/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.fahrradstadt-magazin.de/podcast-download/3583/radpod157-bundeshaushalt.mp3"/>
+                <guid>https://www.fahrradstadt-magazin.de/2023/12/20/radpod157-bundeshaushalt/</guid>
                 
             </item>
         </channel>

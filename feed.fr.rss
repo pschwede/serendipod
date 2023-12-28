@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 27 Dec 2023 04:21:20 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 28 Dec 2023 04:22:06 +0200</lastBuildDate>
             <item>
-                <title>André Markowicz (3/3)</title>
-                <description>Métrique et astuces 
-Feed: https://www.arteradio.com/xml_sound_serie?seriename=%22BOOKMAKERS%22</description>
+                <title>Ghetto érudit : 12/23/2023 19:00</title>
+                <description>704-303139
+Feed: http://podcast.cism893.ca/radioshows/704/feed_itunes.xml</description>
                 
                 
-                <link>https://www.arteradio.com/son/61681723/andre_markowicz_3_3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arte.proxycast.org/m/media/226026218795.mp3?c=Serie&amp;p=1627&amp;l3=61681723&amp;l4=andre_markowicz_3_3-20231213-86&amp;media_url=https%3A%2F%2Fcdn.arteradio.com%2Fpermanent%2Farteradio%2Fsites%2Fdefault%2Ffiles%2Fsons%2F13bookmakersandremarkowicz3_hq_fr.mp3"/>
-                <guid>https://www.arteradio.com/son/61681723/andre_markowicz_3_3</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/303139.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/303139.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/303139.mp3</guid>
                 
             </item><item>
-                <title>Archéologie des mythes : une plongée dans l’imaginaire de l’humanité</title>
-                <description>Archéologie des mythes : une plongée dans l’imaginaire de l’humanité
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10267.xml</description>
+                <title>S03E17 Oh la Vache !</title>
+                <description>L’histoire a commencé il y a 8000 ou 9000 ans avec la domestication de l’Auroch. Après des milliers d’années de sélection par l’être humain, on compte des centaines de races de Vaches dans le monde. Rien qu’en France, le pays aux 300 fromages, on en co...
+Feed: https://feed.ausha.co/ygMWxC00Q5WA</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/carbone-14-le-magazine-de-l-archeologie/archeologie-des-mythes-une-plongee-dans-l-imaginaire-de-l-humanite-8764237</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/af8e3d5a-0731-4e86-a2df-7bfa214b2c9d/10267-23.12.2023-ITEMA_23594326-2023C26375E0045-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/carbone-14-le-magazine-de-l-archeologie/archeologie-des-mythes-une-plongee-dans-l-imaginaire-de-l-humanite-8764237</guid>
+                <link>https://podcast.ausha.co/nomen/s03e17-oh-la-vache</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BG8vPFgv0m0G.mp3?t=1687622777"/>
+                <guid>https://podcast.ausha.co/nomen/s03e17-oh-la-vache</guid>
                 
             </item>
         </channel>
