@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 28 Dec 2023 04:22:02 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 29 Dec 2023 04:21:55 +0200</lastBuildDate>
             <item>
-                <title>Janine und Sammeln</title>
-                <description>Die spitzeste Zunge der Stadt kann nicht fassen, was ihre Tochter alles sammelt... genau: ALLES!
-Feed: https://www.rbb888.de/podcast/berlin_und_janine.xml/feed=podcast.xml</description>
+                <title>Ich komme wieder</title>
+                <description>Hast du schon mal die Frage gehört: “Was wäre, wenn…”? Die Bibel beantwortet einige dieser spekulativen Fragen. Die Bibel beantwortet auch die Frage: “Was würde geschehen, wenn Jesus Christus heute sichtbar in unserer Mitte erschiene”?
+Feed: https://heukelbach.org/podcast/feed/mwh-podcasts/</description>
                 
                 
-                <link>https://rbbmediapmdp-a.akamaihd.net/content/21/11/21119396-1d2d-4dca-be1d-bf542bfc1f4d/0e1f3cdc-686c-4d04-90d6-d08344c4d986_8732de62-ce65-44ce-9a10-ece2f57d9556.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rbbmediapmdp-a.akamaihd.net/content/21/11/21119396-1d2d-4dca-be1d-bf542bfc1f4d/0e1f3cdc-686c-4d04-90d6-d08344c4d986_8732de62-ce65-44ce-9a10-ece2f57d9556.mp3"/>
-                <guid>https://rbbmediapmdp-a.akamaihd.net/content/21/11/21119396-1d2d-4dca-be1d-bf542bfc1f4d/0e1f3cdc-686c-4d04-90d6-d08344c4d986_8732de62-ce65-44ce-9a10-ece2f57d9556.mp3</guid>
+                <link>https://heukelbach.org/podcast/ich-komme-wieder?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ich-komme-wieder</link>
+                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/heukelbach/podcasts.websites.heukelbach.org/2023_12_29.mp3"/>
+                <guid>https://heukelbach.org/podcast/ich-komme-wieder?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ich-komme-wieder</guid>
                 
             </item><item>
-                <title>RadPod#157 Bundeshaushalt</title>
-                <description>&amp;nbsp;RadPod: Bundeshaushalt&amp;nbsp; 
-&amp;nbsp;Folge 157&amp;nbsp; 
-Shownotes/Quellen:ADFC zum BundesratADFC zum BundeshaushaltStudie Radverkehr stärkt sozialen ZusammenhaltBeschluss zum RadentscheidRadinvestitionen Tabelle aus dem Jahr 2019Radinvestitionen Tabel
-Feed: http://www.fahrradstadt-magazin.de/feed/podcast/allgemein/</description>
+                <title>Historische Parks und der Klimawandel</title>
+                <description>Erst die große Trockenheit, nun wochenlanger Regen: Darunter leiden auch historische und denkmalgeschützten Parks. Michael Dreisvogt vom Arboretum Haerle berichtet von Pflanzen für den Klimawandel und warum sich auch der Denkmalschutz wohl wandeln muss.
+Feed: https://www1.wdr.de/mediathek/audio/wdr3/wdr3-resonanzen/resonanzen-122.podcast</description>
                 
                 
-                <link>https://www.fahrradstadt-magazin.de/2023/12/20/radpod157-bundeshaushalt/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.fahrradstadt-magazin.de/podcast-download/3583/radpod157-bundeshaushalt.mp3"/>
-                <guid>https://www.fahrradstadt-magazin.de/2023/12/20/radpod157-bundeshaushalt/</guid>
+                <link>https://www1.wdr.de/mediathek/audio/wdr3/wdr3-resonanzen/audio-historische-parks-und-der-klimawandel-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/304/3048940/wdr3resonanzen_2023-12-28_historischeparksundderklimawandel_wdr3.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/wdr3/wdr3-resonanzen/audio-historische-parks-und-der-klimawandel-100.html</guid>
                 
             </item>
         </channel>

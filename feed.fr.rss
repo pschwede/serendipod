@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 28 Dec 2023 04:22:06 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 29 Dec 2023 04:21:59 +0200</lastBuildDate>
             <item>
-                <title>Ghetto érudit : 12/23/2023 19:00</title>
-                <description>704-303139
-Feed: http://podcast.cism893.ca/radioshows/704/feed_itunes.xml</description>
+                <title>L&#39;INTÉGRALE - Natasha St-Pier &amp; Axelle Red en live dans &#34;Le Grand Studio de Noël &#34;</title>
+                <description>Ecoutez Le Grand Studio RTL du 23 décembre 2023 avec Éric Jean-Jean.
+Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/303139.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/303139.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/303139.mp3</guid>
+                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/cec6e2e2-0922-4183-bea8-249b604fc7a2.mp3?_=1702648086"/>
+                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
                 
             </item><item>
-                <title>S03E17 Oh la Vache !</title>
-                <description>L’histoire a commencé il y a 8000 ou 9000 ans avec la domestication de l’Auroch. Après des milliers d’années de sélection par l’être humain, on compte des centaines de races de Vaches dans le monde. Rien qu’en France, le pays aux 300 fromages, on en co...
-Feed: https://feed.ausha.co/ygMWxC00Q5WA</description>
+                <title>#99 - Rob Spiro - Imagination Machine : comment être dans le système pour mieux le changer ?</title>
+                <description>Dans cet épisode, Rob Spiro, entrepreneur américain et co-fondateur du start-up studio Imagination Machine, revient sur sa carrière, ses expériences en tant qu&#39;entrepreneur et les leçons qu&#39;il a...
+Feed: https://feeds.audiomeans.fr/feed/af6f5238-da44-454d-b172-593d65d5b044.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/nomen/s03e17-oh-la-vache</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BG8vPFgv0m0G.mp3?t=1687622777"/>
-                <guid>https://podcast.ausha.co/nomen/s03e17-oh-la-vache</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/e1cabe0c-5762-45b1-87d5-55be22249c33.mp3?_=1670577951"/>
+                <guid></guid>
                 
             </item>
         </channel>

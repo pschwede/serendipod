@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 28 Dec 2023 04:22:09 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 29 Dec 2023 04:22:03 +0200</lastBuildDate>
             <item>
-                <title>El reportero - El difícil camino de Sudáfrica</title>
-                <description>El ANC ha gobernado Sudáfrica durante 30 años. El movimiento defendió en su día el fin del apartheid. En 2024 se celebrarán elecciones y muchos sienten decepción.
-Feed: https://rss.dw.com/xml/podcast_el_reportero</description>
+                <title>Anexo: Danse Macabre, parte 1</title>
+                <description>Un anexo contundente que abarca literatura, radio y cine de terror desde los años 50 hasta 1980. Discutimos los primeros seis capítulos de Danse Macabre (1981), ensayo que inspecciona el género a partir de argumentos sólidos y sin caer en academicism...
+Feed: https://www.martesataca.com.ar/category/medianocheenmaine/feed/</description>
                 
                 
-                <link>https://www.dw.com/es/el-reportero-el-difícil-camino-de-sudáfrica/video-67738998?maca=spa-podcast_el_reportero-17483-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/repos/repos20231216_gesamtHD_AVC_640x360.mp4"/>
-                <guid>https://www.dw.com/es/el-reportero-el-difícil-camino-de-sudáfrica/video-67738998?maca=spa-podcast_el_reportero-17483-xml-mrss</guid>
+                <link>https://www.martesataca.com.ar/medianocheenmaine/anexo-danse-macabre-parte-1/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.martesataca.com.ar/wp-content/uploads/2023/12/medianocheenmaine_e43.mp3"/>
+                <guid>https://www.martesataca.com.ar/medianocheenmaine/anexo-danse-macabre-parte-1/</guid>
                 
             </item><item>
-                <title>Melodías Pizarras - Felices saturnales -23/12/23</title>
-                <description>Felices saturnales
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
+                <title>Documentos RNE - Deportistas españolas pioneras: talento y olvido - 15/12/23</title>
+                <description>Deportistas españolas pioneras: talento y olvido
+Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/felices-saturnales-23-12-23/7043061/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7043061.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/felices-saturnales-23-12-23/7043061/</guid>
+                <link>https://www.rtve.es/play/audios/documentos-rne/deportistas-espanolas-pioneras-talento-olvido-15-12-23/7036525/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7036525.mp3"/>
+                <guid>https://www.rtve.es/play/audios/documentos-rne/deportistas-espanolas-pioneras-talento-olvido-15-12-23/7036525/</guid>
                 
             </item>
         </channel>
