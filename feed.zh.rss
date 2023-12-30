@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 29 Dec 2023 04:22:11 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 30 Dec 2023 04:22:41 +0200</lastBuildDate>
             <item>
-                <title>Warm Wishes and Cheers: A Festive Message from Joe Menninger</title>
-                <description>Dear Esteemed Listeners,
-As the holiday season wraps us in its joyful embrace, I wanted to take a moment to extend my heartfelt gratitude to each and every one of you who has been a part of our incredible journey here at Startuprad.io.
-This time of year is not just about the twinkling lights and merry melodies; it&#39;s about cherishing connections, celebrating accomplishments, and embracing the spirit of togetherness...
-Feed: https://fintechgermany.podcaster.de/fintechgermany.rss</description>
+                <title>Babel</title>
+                <description>&lt;p&gt;The Delta Flyers is a weekly podcast hosted by Garrett Wang, Robert Duncan McNeill, Terry Farrell &amp;amp; Armin Shimerman. In each podcast release they will recap and discuss an episode of Star Trek: Deep Space Nine. This week’s episode is Babel.&lt;/p&gt;&lt;p&gt;Babel: A virus infects the station&#39;s residents, making almost everyone unable to speak coherently. Aboard Deep Space 9, Chief O&#39;Brien is feeling both overworked and underappreciated...
+Feed: https://feeds.captivate.fm/the-delta-flyers/</description>
                 
                 
-                <link>https://startuprad.io/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fintechgermany.podcaster.de/fintechgermany/media/Joe_Christmas_Message_Startuprad-io(4).mp3"/>
-                <guid>https://startuprad.io/</guid>
+                <link>https://the-delta-flyers.captivate.fm/episode/babel</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/8d8a1c2b-da26-41ac-abc1-7e648ef6b04f/babel-captivate.mp3"/>
+                <guid>https://the-delta-flyers.captivate.fm/episode/babel</guid>
                 
             </item><item>
-                <title>Tunes from Turtle Island S04E52</title>
-                <description>Indigenous made Punk, Indie, Rock, Blues, Classical, Soul, Hip Hop, Pop, Rez Metal, and Electronic, by music makers from the Piipaash, Quechan, Northern Cheyenne, Blackfeet, Iñupiaq, Métis, Inuk, Lakota, Nisenan, Cree, and Washoe nations.  Brought to you by Tunes From Turtle Island and Pantheon Podcasts.
-Feed: https://feeds.megaphone.fm/turtleisland</description>
+                <title>Eli Roth on THANKSGIVING</title>
+                <description>Today we have a very, very special guest. Somebody who I&#39;ve wanted to have on the show since I first started the show a few years ago. That is the legendary Eli Roth. We basically focused the conversation on Thanksgiving, his latest movie, which I...
+Feed: https://nicktaylorhorrorshow.libsyn.com/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/p.podderapp.com/1394819820/chrt.fm/track/E74G3E/traffic.megaphone.fm/PAN2867110870.mp3?updated=1701975357"/>
-                <guid></guid>
+                <link>https://nicktaylorhorrorshow.libsyn.com/eli-roths-thanksgiving</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/nicktaylorhorrorshow/NTHS108-ELI-ROTH.m4a?dest-id=794403"/>
+                <guid>https://nicktaylorhorrorshow.libsyn.com/eli-roths-thanksgiving</guid>
                 
             </item>
         </channel>

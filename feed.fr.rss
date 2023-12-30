@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 29 Dec 2023 04:21:59 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 30 Dec 2023 04:22:22 +0200</lastBuildDate>
             <item>
-                <title>L&#39;INTÉGRALE - Natasha St-Pier &amp; Axelle Red en live dans &#34;Le Grand Studio de Noël &#34;</title>
-                <description>Ecoutez Le Grand Studio RTL du 23 décembre 2023 avec Éric Jean-Jean.
-Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
+                <title>STAR de Noël !</title>
+                <description>&lt;p&gt;De la Star Academy️ à Britney Spears en passant par les stars du football, de la gastronomie ou du cinéma... quelle STAR de Noël brillera le + ?&amp;nbsp;&lt;/p&gt;&lt;p&gt;Réponse avec Julie &amp;amp; Mag dans une nouvelle édition d&#39;ESSENTIEL Academy sur ESSENTIEL Noël !&amp;nbsp;&lt;/p&gt;
+Feed: https://feeds.captivate.fm/essentiel-radio-essentiel-academy/</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/cec6e2e2-0922-4183-bea8-249b604fc7a2.mp3?_=1702648086"/>
-                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
+                <link>https://essentielradio.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/b89e53f6-c26f-4b6c-81b1-ca02f35ad356/EA09-Star-de-No-l.mp3"/>
+                <guid>https://essentielradio.com/</guid>
                 
             </item><item>
-                <title>#99 - Rob Spiro - Imagination Machine : comment être dans le système pour mieux le changer ?</title>
-                <description>Dans cet épisode, Rob Spiro, entrepreneur américain et co-fondateur du start-up studio Imagination Machine, revient sur sa carrière, ses expériences en tant qu&#39;entrepreneur et les leçons qu&#39;il a...
-Feed: https://feeds.audiomeans.fr/feed/af6f5238-da44-454d-b172-593d65d5b044.xml</description>
+                <title>Votre jardin</title>
+                <description>Votre jardin
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/e1cabe0c-5762-45b1-87d5-55be22249c33.mp3?_=1670577951"/>
-                <guid></guid>
+                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/071d1d3d-0d91-4194-aba3-77ac526de233/15376-23.12.2023-ITEMA_23594450-2023B20690S0357-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 29 Dec 2023 04:21:55 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 30 Dec 2023 04:22:16 +0200</lastBuildDate>
             <item>
-                <title>Ich komme wieder</title>
-                <description>Hast du schon mal die Frage gehört: “Was wäre, wenn…”? Die Bibel beantwortet einige dieser spekulativen Fragen. Die Bibel beantwortet auch die Frage: “Was würde geschehen, wenn Jesus Christus heute sichtbar in unserer Mitte erschiene”?
-Feed: https://heukelbach.org/podcast/feed/mwh-podcasts/</description>
+                <title>Wir machen Winterschlaf!</title>
+                <description>Zumindest einen kurzen: Am 12. Januar sind wir dann mit neuen Debatten aus Kultur und Gesellschaft wieder für euch da. Abonniert &#34;Was geht was bleibt&#34;, dann seid ihr immer auf dem Laufenden. Und schreibt uns gern mit Themen, über die wir mit unseren Gästen sprechen solletn! Feedback und Anregungen könnt ihr an kulturpodcast@swr.de schicken.
+Wir freuen uns auf euch!
+Feed: https://www.swr.de/~podcast/swr2/programm/was-geht-was-bleibt-zeitgeist-debatten-kultur-100.xml</description>
                 
                 
-                <link>https://heukelbach.org/podcast/ich-komme-wieder?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ich-komme-wieder</link>
-                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/heukelbach/podcasts.websites.heukelbach.org/2023_12_29.mp3"/>
-                <guid>https://heukelbach.org/podcast/ich-komme-wieder?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ich-komme-wieder</guid>
+                <link>https://www.swr.de/swr2/programm/wir-machen-winterschlaf-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/swr2/kultur-aktuell/was-geht-was-bleibt-zeitgeist-debatten-kultur/1974745.m.mp3"/>
+                <guid>https://www.swr.de/swr2/programm/wir-machen-winterschlaf-100.html</guid>
                 
             </item><item>
-                <title>Historische Parks und der Klimawandel</title>
-                <description>Erst die große Trockenheit, nun wochenlanger Regen: Darunter leiden auch historische und denkmalgeschützten Parks. Michael Dreisvogt vom Arboretum Haerle berichtet von Pflanzen für den Klimawandel und warum sich auch der Denkmalschutz wohl wandeln muss.
-Feed: https://www1.wdr.de/mediathek/audio/wdr3/wdr3-resonanzen/resonanzen-122.podcast</description>
+                <title>#289: Jahresrückblick 2023 feat. Frédéric Schwilden</title>
+                <description>In unserer diesjährigen Jahresabschlussfolge beehrt uns der fantastische Frédéric Schwilden, mit dem wir auf 2023 zurückblicken.
+Feed: https://papierstaupodcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www1.wdr.de/mediathek/audio/wdr3/wdr3-resonanzen/audio-historische-parks-und-der-klimawandel-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/304/3048940/wdr3resonanzen_2023-12-28_historischeparksundderklimawandel_wdr3.mp3"/>
-                <guid>https://www1.wdr.de/mediathek/audio/wdr3/wdr3-resonanzen/audio-historische-parks-und-der-klimawandel-100.html</guid>
+                <link>https://papierstaupodcast.podigee.io/354-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1322912-m-deac7e007c181be14310c87cda7fc4dd.mp3?source=feed"/>
+                <guid>https://papierstaupodcast.podigee.io/354-new-episode</guid>
                 
             </item>
         </channel>

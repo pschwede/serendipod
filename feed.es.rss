@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 29 Dec 2023 04:22:03 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 30 Dec 2023 04:22:28 +0200</lastBuildDate>
             <item>
-                <title>Anexo: Danse Macabre, parte 1</title>
-                <description>Un anexo contundente que abarca literatura, radio y cine de terror desde los años 50 hasta 1980. Discutimos los primeros seis capítulos de Danse Macabre (1981), ensayo que inspecciona el género a partir de argumentos sólidos y sin caer en academicism...
-Feed: https://www.martesataca.com.ar/category/medianocheenmaine/feed/</description>
+                <title>Bonus: ¡Felices fiestas!</title>
+                <description>Estamos de vacaciones. ¡Nos vemos en enero!
+Feed: https://www.easyspanish.fm/rss</description>
                 
                 
-                <link>https://www.martesataca.com.ar/medianocheenmaine/anexo-danse-macabre-parte-1/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.martesataca.com.ar/wp-content/uploads/2023/12/medianocheenmaine_e43.mp3"/>
-                <guid>https://www.martesataca.com.ar/medianocheenmaine/anexo-danse-macabre-parte-1/</guid>
+                <link>https://www.easyspanish.fm/bonus-felices-fiestas</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G7F34G/aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/e58d9733-5676-4b6b-81be-7834cda2f13b.mp3"/>
+                <guid>https://www.easyspanish.fm/bonus-felices-fiestas</guid>
                 
             </item><item>
-                <title>Documentos RNE - Deportistas españolas pioneras: talento y olvido - 15/12/23</title>
-                <description>Deportistas españolas pioneras: talento y olvido
-Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
+                <title>Los novios, un poema de Octavio Paz. Poemas de amor de Octavio Paz. Poemas con voz de Octavio Paz</title>
+                <description>Octavio Paz, poeta mexicano, poemas de amor para parejas enamoradas de Octavio Paz.  Poema &#34;Los novios&#34;, poesía recitada.   Mas poemas: https://www.amorypoesia.es/poemas_amor_octavio_paz.htm
+Poemas recitados de Octavio Paz. Poesías de amor de Octavio...
+Feed: https://www.spreaker.com/show/5435375/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/documentos-rne/deportistas-espanolas-pioneras-talento-olvido-15-12-23/7036525/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7036525.mp3"/>
-                <guid>https://www.rtve.es/play/audios/documentos-rne/deportistas-espanolas-pioneras-talento-olvido-15-12-23/7036525/</guid>
+                <link>https://www.locutortv.com/spanish-voice-over/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/58027522/novios_octavio_paz.mp3"/>
+                <guid>https://www.locutortv.com/spanish-voice-over/</guid>
                 
             </item>
         </channel>
