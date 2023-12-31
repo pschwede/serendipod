@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 30 Dec 2023 04:22:28 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 31 Dec 2023 04:21:34 +0200</lastBuildDate>
             <item>
-                <title>Bonus: ¡Felices fiestas!</title>
-                <description>Estamos de vacaciones. ¡Nos vemos en enero!
-Feed: https://www.easyspanish.fm/rss</description>
+                <title>Noosfera 184. De ciberseguridad, hackers y otras leyendas | Miguel Juan</title>
+                <description>Vivimos en el mundo digital casi tanto tiempo como el que pasamos en el mundo físico y, por lo que sea, todavía no hemos interiorizado algunas normas básicas de seguridad. Nos hemos acostumbrado a mirar a ambos lados de la calle antes de cruzar, pero...
+Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
                 
                 
-                <link>https://www.easyspanish.fm/bonus-felices-fiestas</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G7F34G/aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/e58d9733-5676-4b6b-81be-7834cda2f13b.mp3"/>
-                <guid>https://www.easyspanish.fm/bonus-felices-fiestas</guid>
+                <link>https://www.spreaker.com/user/12512368/noosfera-184</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/58148642/noosfera_184.mp3"/>
+                <guid>https://www.spreaker.com/user/12512368/noosfera-184</guid>
                 
             </item><item>
-                <title>Los novios, un poema de Octavio Paz. Poemas de amor de Octavio Paz. Poemas con voz de Octavio Paz</title>
-                <description>Octavio Paz, poeta mexicano, poemas de amor para parejas enamoradas de Octavio Paz.  Poema &#34;Los novios&#34;, poesía recitada.   Mas poemas: https://www.amorypoesia.es/poemas_amor_octavio_paz.htm
-Poemas recitados de Octavio Paz. Poesías de amor de Octavio...
-Feed: https://www.spreaker.com/show/5435375/episodes/feed</description>
+                <title>Música y Letra: Músicas de Hitchcock</title>
+                <description>Andrés Amorós dedica este programa al gran director de cine Alfred Hitchcock a través de un recorrido por diferentes músicas de sus películas.
+Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
                 
                 
-                <link>https://www.locutortv.com/spanish-voice-over/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/58027522/novios_octavio_paz.mp3"/>
-                <guid>https://www.locutortv.com/spanish-voice-over/</guid>
+                <link>https://esradio.libertaddigital.com/fonoteca/2023-12-30/musica-y-letra-musicas-de-hitchcock-p1696233-7082813.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/58121058/download.mp3?aw_0_1st.collectionid=musica-y-letra"/>
+                <guid>https://esradio.libertaddigital.com/fonoteca/2023-12-30/musica-y-letra-musicas-de-hitchcock-p1696233-7082813.html</guid>
                 
             </item>
         </channel>

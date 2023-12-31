@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 30 Dec 2023 04:22:16 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 31 Dec 2023 04:21:26 +0200</lastBuildDate>
             <item>
-                <title>Wir machen Winterschlaf!</title>
-                <description>Zumindest einen kurzen: Am 12. Januar sind wir dann mit neuen Debatten aus Kultur und Gesellschaft wieder für euch da. Abonniert &#34;Was geht was bleibt&#34;, dann seid ihr immer auf dem Laufenden. Und schreibt uns gern mit Themen, über die wir mit unseren Gästen sprechen solletn! Feedback und Anregungen könnt ihr an kulturpodcast@swr.de schicken.
-Wir freuen uns auf euch!
-Feed: https://www.swr.de/~podcast/swr2/programm/was-geht-was-bleibt-zeitgeist-debatten-kultur-100.xml</description>
+                <title>Antje Boetius, was ist das Geheimnis der Meere?</title>
+                <description>Für ihre Forschung wurde die Meeresbiologin vielfach ausgezeichnet. Im Podcast spricht Boetius über Science Fiction und verrät, warum sie den Mauerfall verpasst hat.
+Feed: https://allesgesagt.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.swr.de/swr2/programm/wir-machen-winterschlaf-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/swr2/kultur-aktuell/was-geht-was-bleibt-zeitgeist-debatten-kultur/1974745.m.mp3"/>
-                <guid>https://www.swr.de/swr2/programm/wir-machen-winterschlaf-100.html</guid>
+                <link>https://allesgesagt.podigee.io/81-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1275566-m-8be8804205c2c2450fe2ea9bb3a47f52.mp3?source=feed"/>
+                <guid>https://allesgesagt.podigee.io/81-new-episode</guid>
                 
             </item><item>
-                <title>#289: Jahresrückblick 2023 feat. Frédéric Schwilden</title>
-                <description>In unserer diesjährigen Jahresabschlussfolge beehrt uns der fantastische Frédéric Schwilden, mit dem wir auf 2023 zurückblicken.
-Feed: https://papierstaupodcast.podigee.io/feed/mp3</description>
+                <title>Singen gegen Long Covid</title>
+                <description>Singen ist gut gegen Long Covid - das hat eine neue Studie bestätigt. Marie-Therese Rudolph hat in Wien Betroffene und Experten dazu befragt.
+Feed: https://www1.wdr.de/mediathek/audio/wdr3/wdr3-tonart/tonart-104.podcast</description>
                 
                 
-                <link>https://papierstaupodcast.podigee.io/354-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1322912-m-deac7e007c181be14310c87cda7fc4dd.mp3?source=feed"/>
-                <guid>https://papierstaupodcast.podigee.io/354-new-episode</guid>
+                <link>https://www1.wdr.de/mediathek/audio/wdr3/wdr3-tonart/audio-singen-gegen-long-covid-102.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/304/3049460/wdr3tonart_2023-12-29_singengegenlongcovid_wdr3.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/wdr3/wdr3-tonart/audio-singen-gegen-long-covid-102.html</guid>
                 
             </item>
         </channel>
