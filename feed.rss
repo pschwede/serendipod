@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 31 Dec 2023 04:21:22 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 01 Jan 2024 04:22:15 +0200</lastBuildDate>
             <item>
-                <title>The Immutable Links of Bitcoin and BTK (Crypto &amp; Crime)</title>
-                <description>&lt;p&gt;Welcome to Shill Kill, where I pair a cryptocurrency review with a true crime case. As a Certified DeFi Expert and true crime enthusiast, I offer insight into a crypto project while also discussing a killer. Get ready for a unique fusion of finance and mystery! #cryptocurrency #truecrime&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;This episode&amp;#39;s Shill: Bitcoin
-The Kill: BTK&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Like video? Join thousands of followers on Spotify. Or search Shill Kill on YouTube...
-Feed: https://anchor.fm/s/15a4788c/podcast/rss</description>
+                <title>Episode 136: Vali Chandrasekaran Interview (Fulfillment After Show)</title>
+                <description>This is the after show interview with Vali Chandrasekaran (Modern Family, 30 Rock)
+Feed: https://feeds.simplecast.com/FxPyOlup</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/shill-kill-podcast/episodes/The-Immutable-Links-of-Bitcoin-and-BTK-Crypto--Crime-e2df47m</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/15a4788c/podcast/play/80236214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-19%2F360592215-44100-2-3877c45fed4b2.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/shill-kill-podcast/episodes/The-Immutable-Links-of-Bitcoin-and-BTK-Crypto--Crime-e2df47m</guid>
+                <link>http://maximumfun.org/shows/dead-pilots-society</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/001d4001-40dd-441a-b2b8-2ab4465b466c/episodes/9323525f-9539-4f1a-a794-69a0816483c7/audio/57ed88d4-cbf1-4daa-b0bd-bd893cceda00/default_tc.mp3?aid=rss_feed&amp;feed=FxPyOlup"/>
+                <guid>http://maximumfun.org/shows/dead-pilots-society</guid>
                 
             </item><item>
-                <title>Babel</title>
-                <description>&lt;p&gt;The Delta Flyers is a weekly podcast hosted by Garrett Wang, Robert Duncan McNeill, Terry Farrell &amp;amp; Armin Shimerman. In each podcast release they will recap and discuss an episode of Star Trek: Deep Space Nine. This week’s episode is Babel.&lt;/p&gt;&lt;p&gt;Babel: A virus infects the station&#39;s residents, making almost everyone unable to speak coherently. Aboard Deep Space 9, Chief O&#39;Brien is feeling both overworked and underappreciated...
-Feed: https://feeds.captivate.fm/the-delta-flyers/</description>
+                <title>Python Bytes Crossover 2023</title>
+                <description>Special crossover episode of Python Bytes to wrap up 2023. Topics include: **Michael #1** : [Hatch v1.8](https://hatch.pypa.io/latest/blog/2023/12/11/hatch-v180/) **Brian #2:** [svcs : A Flexible Service Locator for Python](https://svcs.hynek.me/en/stable/) **Michael #3:** [Steering Council 2024 Term Election Results](https://discuss.python.org/t/steering-council- election-results-2024-term/40851) **Brian #4:** [Python protocols...
+Feed: https://talkpython.fm/episodes/rss</description>
                 
                 
-                <link>https://the-delta-flyers.captivate.fm/episode/babel</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/8d8a1c2b-da26-41ac-abc1-7e648ef6b04f/babel-captivate.mp3"/>
-                <guid>https://the-delta-flyers.captivate.fm/episode/babel</guid>
+                <link>https://talkpython.fm/episodes/show/443/python-bytes-crossover-2023</link>
+                <enclosure type="audio/mpeg" length="1" url="https://talkpython.fm/episodes/download/443/python-bytes-crossover-2023.mp3"/>
+                <guid>https://talkpython.fm/episodes/show/443/python-bytes-crossover-2023</guid>
                 
             </item>
         </channel>

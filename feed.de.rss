@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 31 Dec 2023 04:21:26 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 01 Jan 2024 04:22:20 +0200</lastBuildDate>
             <item>
-                <title>Antje Boetius, was ist das Geheimnis der Meere?</title>
-                <description>Für ihre Forschung wurde die Meeresbiologin vielfach ausgezeichnet. Im Podcast spricht Boetius über Science Fiction und verrät, warum sie den Mauerfall verpasst hat.
-Feed: https://allesgesagt.podigee.io/feed/mp3</description>
+                <title>#196: FRATZENGEBALLER!  - Wir lesen aus Jason Darks GHOSTBUSTERS 2 Filmroman (Teil 6)</title>
+                <description>Denny und Timo hauen euch doch noch eine (wirklich) letzte Folge für 2023 um die Ohren.
+Es gibt offizielle Poster zu GHOSTBUSTERS: FROZEN EMPIRE zu besprechen...
+... nächstes mal! Denn dann ist Heiko wieder am Start.
+Für heute muss es also reichen, dass Timo und Denny zumindest ein paar Details und Bilder aus dem aktuellen Empire Magazine zum Film besprechen.
+Und natürlich gibt es obendrauf noch eine weitere Lesung aus Jason Darks GHOSTBUSTERS 2 Roman...
+Feed: https://spectralradio.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://allesgesagt.podigee.io/81-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1275566-m-8be8804205c2c2450fe2ea9bb3a47f52.mp3?source=feed"/>
-                <guid>https://allesgesagt.podigee.io/81-new-episode</guid>
+                <link>https://spectralradio.podigee.io/199-episode196</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1323410-m-5c9b95dffa0f3934a6d1f247070f86c5.mp3?source=feed"/>
+                <guid>https://spectralradio.podigee.io/199-episode196</guid>
                 
             </item><item>
-                <title>Singen gegen Long Covid</title>
-                <description>Singen ist gut gegen Long Covid - das hat eine neue Studie bestätigt. Marie-Therese Rudolph hat in Wien Betroffene und Experten dazu befragt.
-Feed: https://www1.wdr.de/mediathek/audio/wdr3/wdr3-tonart/tonart-104.podcast</description>
+                <title>Gesegneten Sonntag</title>
+                <description>Marco Voigt spricht mit Ruth Gütter über Klimaschutz, besucht eine Kirchenruine und fragt, ob man Bleigießen darf.
+Feed: http://www.ndr.de/kirche/podcast4221.xml</description>
                 
                 
-                <link>https://www1.wdr.de/mediathek/audio/wdr3/wdr3-tonart/audio-singen-gegen-long-covid-102.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/304/3049460/wdr3tonart_2023-12-29_singengegenlongcovid_wdr3.mp3"/>
-                <guid>https://www1.wdr.de/mediathek/audio/wdr3/wdr3-tonart/audio-singen-gegen-long-covid-102.html</guid>
+                <link>https://www.ndr.de/wellenord/Gesegneten-Sonntag,audio1539626.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4221/AU-20231229-1216-3200.mp3"/>
+                <guid>https://www.ndr.de/wellenord/Gesegneten-Sonntag,audio1539626.html</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 31 Dec 2023 04:21:30 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 01 Jan 2024 04:22:25 +0200</lastBuildDate>
             <item>
-                <title>[EXTRAIT] #38 : Les grandes tendances de la communication de cause à travers le temps - Magali Faget</title>
-                <description>Depuis l’émergence du sans-frontiérisme dans les années 80 autour de la thématique des droits de l&#39;homme (appellation issue de Médecins sans frontières), la communication de cause a considérablement évolué au fil du temps. Dans cet extrait, Magali Fage...
-Feed: https://feed.ausha.co/9KELEHEqYnXX</description>
+                <title>Exposition Youngtimer Epoqu’auto</title>
+                <description>je vous parle de l’exposition consacré aux Youngtimer sur Epoqu’auto.
+ 
+Feed: https://feeds.audiomeans.fr/feed/4fd530d2-7f7b-4f02-bfd9-e707a3d31182.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/filantropio/extrait-38-les-grandes-tendances-de-la-communication-de-cause-a-travers-le-temps-magali-faget</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/b308WFa5MLw9.mp3?t=1702960197"/>
-                <guid>https://podcast.ausha.co/filantropio/extrait-38-les-grandes-tendances-de-la-communication-de-cause-a-travers-le-temps-magali-faget</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/b59256d1-00e7-4496-aa7a-3d05f9481a7f.mp3?_=1699711023"/>
+                <guid></guid>
                 
             </item><item>
-                <title>2023-11-10 Don Lorenzo Show @ Z-&gt;EST RADIO STRASBOURG</title>
-                <description>Le podcast de mon émission mensuelle sur [Zone Est Radio](https://zest...
-Feed: https://feeds.feedburner.com/daclubhouse</description>
+                <title>qu&#39;est-ce que le pardon ? - Libébulles !</title>
+                <description>Libébulles !
+Feed: http://radioagora-nanterre.fr/ws/saooti/services/rss/channel/1/15/fr_FR</description>
                 
                 
-                <link>https://hearthis.at/daclubhouse/don-lorenzo-show-avec-don-lorenzo-101123/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/daclubhouse/don-lorenzo-show-avec-don-lorenzo-101123/listen.mp3?s=zbL"/>
-                <guid>https://hearthis.at/daclubhouse/don-lorenzo-show-avec-don-lorenzo-101123/</guid>
+                <link>https://radioagora-nanterre.fr/broadcast/2639</link>
+                <enclosure type="audio/mpeg" length="1" url="http://radioagora-nanterre.fr/external/podcast-474.mp3?mediaId=474&amp;duration=324000"/>
+                <guid>https://radioagora-nanterre.fr/broadcast/2639</guid>
                 
             </item>
         </channel>
