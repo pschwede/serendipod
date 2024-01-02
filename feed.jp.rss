@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 01 Jan 2024 04:22:43 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 02 Jan 2024 04:22:24 +0200</lastBuildDate>
             <item>
-                <title>Python Bytes Crossover 2023</title>
-                <description>Special crossover episode of Python Bytes to wrap up 2023. Topics include: **Michael #1** : [Hatch v1.8](https://hatch.pypa.io/latest/blog/2023/12/11/hatch-v180/) **Brian #2:** [svcs : A Flexible Service Locator for Python](https://svcs.hynek.me/en/stable/) **Michael #3:** [Steering Council 2024 Term Election Results](https://discuss.python.org/t/steering-council- election-results-2024-term/40851) **Brian #4:** [Python protocols...
-Feed: https://talkpython.fm/episodes/rss</description>
+                <title>Revisiting WWE RAW 2009 The Little People&#39;s Court, D-X Against Hornswoggle, RAW Guest Host Era</title>
+                <description>The final DEADLOCK Podcast of the year and it’s 2009 WWE RAW! Not only that, but Shawn Michaels and Triple of D-X are taken to court by Hornswoggle. They must go under the ring and enter Little People Court. Yes, it’s exactly what you think. Also, MLB...
+Feed: https://www.spreaker.com/show/5810608/episodes/feed</description>
                 
                 
-                <link>https://talkpython.fm/episodes/show/443/python-bytes-crossover-2023</link>
-                <enclosure type="audio/mpeg" length="1" url="https://talkpython.fm/episodes/download/443/python-bytes-crossover-2023.mp3"/>
-                <guid>https://talkpython.fm/episodes/show/443/python-bytes-crossover-2023</guid>
+                <link>https://www.spreaker.com/user/17034015/deadlock226</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/58113863/deadlock226.mp3"/>
+                <guid>https://www.spreaker.com/user/17034015/deadlock226</guid>
                 
             </item><item>
-                <title>539: Query all hosts</title>
-                <description>In this special holiday episode, we, the BSDNow hosts, get together to answer questions that listeners have sent us over time. We give you updates on our gear, books we read, favorite places, and a whole lot more. Enjoy!
-Feed: https://www.bsdnow.tv/rss</description>
+                <title>Bonus: Friendly Holiday Greetings</title>
+                <description>&lt;p&gt;Enjoy these holiday greetings from whoever we could find. Because this will be our last podcast of the year, we here at A Couple of Friends with No Class want to wish you all a Merry Christmas, Happy Holidays, and a very Happy New Year...
+Feed: https://anchor.fm/s/6a3303c8/podcast/rss</description>
                 
                 
-                <link>https://www.bsdnow.tv/539</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/c91b88f1-e824-4815-bcb8-5227818d6010/c8786993-f9f3-4b3d-814f-b7396ee2b050.mp3"/>
-                <guid>https://www.bsdnow.tv/539</guid>
+                <link>https://podcasters.spotify.com/pod/show/cfnc/episodes/Bonus-Friendly-Holiday-Greetings-e2dklmc</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/6a3303c8/podcast/play/80417932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F6a3303c8%2F80417932%2Fbd15ed269be217825fc0a938ad685116.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/cfnc/episodes/Bonus-Friendly-Holiday-Greetings-e2dklmc</guid>
                 
             </item>
         </channel>

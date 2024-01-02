@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 01 Jan 2024 04:22:20 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 02 Jan 2024 04:21:54 +0200</lastBuildDate>
             <item>
-                <title>#196: FRATZENGEBALLER!  - Wir lesen aus Jason Darks GHOSTBUSTERS 2 Filmroman (Teil 6)</title>
-                <description>Denny und Timo hauen euch doch noch eine (wirklich) letzte Folge für 2023 um die Ohren.
-Es gibt offizielle Poster zu GHOSTBUSTERS: FROZEN EMPIRE zu besprechen...
-... nächstes mal! Denn dann ist Heiko wieder am Start.
-Für heute muss es also reichen, dass Timo und Denny zumindest ein paar Details und Bilder aus dem aktuellen Empire Magazine zum Film besprechen.
-Und natürlich gibt es obendrauf noch eine weitere Lesung aus Jason Darks GHOSTBUSTERS 2 Roman...
-Feed: https://spectralradio.podigee.io/feed/mp3</description>
+                <title>#241 Business Knigge: Wer antwortet, gewinnt!</title>
+                <description>Wie lange wartest du mit einer Antwort auf eine Geschäftsmail? Gibt es da eine Regel? Was ist zu schnell? Was zu langsam? Darum geht es heute in meiner neuen Podcastfolge „Business Knigge: Wer antwortet, gewinnt!“.
+Feed: https://silkefritzsche.de/podcast/</description>
                 
                 
-                <link>https://spectralradio.podigee.io/199-episode196</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1323410-m-5c9b95dffa0f3934a6d1f247070f86c5.mp3?source=feed"/>
-                <guid>https://spectralradio.podigee.io/199-episode196</guid>
+                <link>https://silkefritzsche.de/podcast/241-wer-antwortet-gewinnt-business-knigge-digitales-charisma-3/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/big_bang_life/silkefritzsche.de/wp-content/uploads/2023/12/Big-Bang-life-241_Business_Knigge_Wer_antwortet_gewinnt.mp3"/>
+                <guid>https://silkefritzsche.de/podcast/241-wer-antwortet-gewinnt-business-knigge-digitales-charisma-3/</guid>
                 
             </item><item>
-                <title>Gesegneten Sonntag</title>
-                <description>Marco Voigt spricht mit Ruth Gütter über Klimaschutz, besucht eine Kirchenruine und fragt, ob man Bleigießen darf.
-Feed: http://www.ndr.de/kirche/podcast4221.xml</description>
+                <title>Special: Zwei bei Olaf- Selbstständigkeit und Podcasting</title>
+                <description>Puppies and Crime
+Feed: https://cdn.julephosting.de/podcasts/617-puppies-and-crime/feed.rss</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/Gesegneten-Sonntag,audio1539626.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4221/AU-20231229-1216-3200.mp3"/>
-                <guid>https://www.ndr.de/wellenord/Gesegneten-Sonntag,audio1539626.html</guid>
+                <link>https://puppies-and-crime.blogs.julephosting.de/207-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ads.julephosting.de/podcasts/617-puppies-and-crime/137393-new-episode.mp3?v=1&amp;awCollectionId=julep_b6fa60&amp;awEpisodeId=137393"/>
+                <guid>https://puppies-and-crime.blogs.julephosting.de/207-new-episode</guid>
                 
             </item>
         </channel>

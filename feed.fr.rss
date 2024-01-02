@@ -9,27 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 01 Jan 2024 04:22:25 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 02 Jan 2024 04:22:00 +0200</lastBuildDate>
             <item>
-                <title>Exposition Youngtimer Epoqu’auto</title>
-                <description>je vous parle de l’exposition consacré aux Youngtimer sur Epoqu’auto.
- 
-Feed: https://feeds.audiomeans.fr/feed/4fd530d2-7f7b-4f02-bfd9-e707a3d31182.xml</description>
+                <title>Redécouverte de la voix de Paulette : courage et résilience </title>
+                <description>Au-delà de la SLA
+Feed: https://feeds.acast.com/public/shows/5ff6d31c17e792372794adc0</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/b59256d1-00e7-4496-aa7a-3d05f9481a7f.mp3?_=1699711023"/>
-                <guid></guid>
+                <link>https://shows.acast.com/restez-dans-le-flow/episodes/redecouverte-de-la-voix-de-paulette-courage-et-resilience</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5ff6d31c17e792372794adc0/e/658ae5545876d50017ab59c6/media.mp3"/>
+                <guid>https://shows.acast.com/restez-dans-le-flow/episodes/redecouverte-de-la-voix-de-paulette-courage-et-resilience</guid>
                 
             </item><item>
-                <title>qu&#39;est-ce que le pardon ? - Libébulles !</title>
-                <description>Libébulles !
-Feed: http://radioagora-nanterre.fr/ws/saooti/services/rss/channel/1/15/fr_FR</description>
+                <title>Episode 68. Des mobile homes et des forteresses hantées.</title>
+                <description>Bonjour tout le monde et joyeux Noël !
+Des Mots et Débats vous accompagne en cette fin d&#39;année, avec le numéro 68, présenté par Florent, accompagné de Caroline et Antoine !
+Au menu :
+- Dracula, de Georges Bess et Braham Stoker
+- Tom, petit homme, tout petit homme Tom de Barbara Constantine,
+- Forteresse digitale, Dan Brown
+Continuez à nous envoyer des listes de livres à podcastdmed@gmail.com
+Bonne écoute !
+Feed: https://desmotsetdebats.lepodcast.fr/rss</description>
                 
                 
-                <link>https://radioagora-nanterre.fr/broadcast/2639</link>
-                <enclosure type="audio/mpeg" length="1" url="http://radioagora-nanterre.fr/external/podcast-474.mp3?mediaId=474&amp;duration=324000"/>
-                <guid>https://radioagora-nanterre.fr/broadcast/2639</guid>
+                <link>https://desmotsetdebats.lepodcast.fr/episode-68-des-mobile-homes-et-des-forteresses-hantees</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/desmotsetdebats/episode-68-des-mobile-homes-et-des-forteresses-hantees/enclosure.b10bc859e99e8f89f3c1492b2664a3ad72b429879ee7f636ddbae9dce36658b5.mp3?p=f"/>
+                <guid>https://desmotsetdebats.lepodcast.fr/episode-68-des-mobile-homes-et-des-forteresses-hantees</guid>
                 
             </item>
         </channel>
