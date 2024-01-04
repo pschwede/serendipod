@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 03 Jan 2024 04:22:01 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 04 Jan 2024 04:22:12 +0200</lastBuildDate>
             <item>
-                <title>Le P’tit Train du Nord, un moyen de transport essentiel à la colonisation</title>
-                <description>Sans le P&#39;tit Train du Nord, les Laurentides n&#39;auraient jamais été développées. Maxime Coutié en parle avec le géographe et historien Claude Martel, président de l&#39;Institut de recherche sur l&#39;histoire des chemins de fer du Québec.
-Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
+                <title>Mix 25 : Mix 25 - 03 janvier 2024</title>
+                <description>647-303805
+Feed: http://podcast.cism893.ca/radioshows/647/feed_itunes.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/902d1c52-4811-4ff7-93f9-c36696d65537/2023-12-22_05_00_00_aujourdhuilhistoirebalado_0000.mp3"/>
-                <guid></guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/303805.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/303805.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/303805.mp3</guid>
                 
             </item><item>
-                <title>« Il a laissé tombé le seau avec le liquide enflammé. Le liquide a atteint Monsieur et sa combinaison a pris feu... » (rediffusion)</title>
-                <description>&lt;p&gt;Salariés en danger&amp;nbsp;-&amp;nbsp;Affaire jugée au Tribunal correctionnel de Bordeaux.&amp;nbsp;&lt;br/&gt;À travers un tour de France des tribunaux, Justice en direct rend compte sans artifice, ni commentaire, au plus près de la réalité, du déroulement des audiences correctionnelles qui représentent l&#39;essentiel de l&#39;activité judiciaire. Trafics de stupéfiants, vols, violences conjugales, mise en danger de la vie d’autrui… autant de délits qui racontent le quotidien des tribunaux correctionnels...
-Feed: https://feeds.360.audion.fm/8H-fp4pLZ5dmU8r3YCLs7</description>
+                <title>La crise de la cinquantaine</title>
+                <description>Je vous explique pourquoi il n&#39;y a pas eu d&#39;épisode depuis août.
+On se retrouve en janvier pour la 6e saison ! 
+En attendant, suivez Equinox Barcelone (https://www.linkedin.com/company/equinox-barcelone) et Equinox Factory (https://www.linkedin.com/s...
+Feed: https://feed.ausha.co/bY9kiw6OqLQb</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/2df6123b-13cf-496e-b83d-b20705ad4aca.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/tous-les-chemins-menent-a-barcelone/la-crise-de-la-cinquantaine</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/b3PwwSPJa8DE.mp3?t=1699471709"/>
+                <guid>https://podcast.ausha.co/tous-les-chemins-menent-a-barcelone/la-crise-de-la-cinquantaine</guid>
                 
             </item>
         </channel>

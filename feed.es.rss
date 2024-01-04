@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 03 Jan 2024 04:22:05 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 04 Jan 2024 04:22:18 +0200</lastBuildDate>
             <item>
-                <title>Star 80 del 30 de diciembre de 2023 (edición 455 en Can10fm)</title>
-                <description>Yazzo - Don&#39;t Go
-C.C...
-Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
+                <title>Frontera - 23/12/23</title>
+                <description>Frontera - 23/12/23
+Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/star-80-del-30-diciembre-2023-audios-mp3_rf_121856018_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-30-diciembre-2023_mh_121856018_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/star-80-del-30-diciembre-2023-audios-mp3_rf_121856018_1.html</guid>
+                <link>https://www.rtve.es/play/audios/frontera/23-12-23/7039641/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7039641.mp3"/>
+                <guid>https://www.rtve.es/play/audios/frontera/23-12-23/7039641/</guid>
                 
             </item><item>
-                <title>Melodías pizarras - Feliz año pizarro - 30/12/23</title>
-                <description>Feliz año pizarro
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
+                <title>Dockge. Servicio para gestionar mis docker compose</title>
+                <description>Dockge. Servicio para gestionar mis docker compose 
+Feed: https://feeds.feedburner.com/uGeek</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/feliz-ano-pizarro-30-12-23/7047271/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7047271.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/feliz-ano-pizarro-30-12-23/7047271/</guid>
+                <link>https://ugeek.github.io/post/2023-11-20-dockge-servicio-para-gestionar-mis-docker-compose.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/106db04/podcast/play/78903838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-20%2Fd9f75ee3-edcf-ce2f-da58-b07547b04a10.mp3"/>
+                <guid>https://ugeek.github.io/post/2023-11-20-dockge-servicio-para-gestionar-mis-docker-compose.html</guid>
                 
             </item>
         </channel>
