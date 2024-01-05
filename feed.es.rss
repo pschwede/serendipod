@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 04 Jan 2024 04:22:18 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 05 Jan 2024 04:22:24 +0200</lastBuildDate>
             <item>
-                <title>Frontera - 23/12/23</title>
-                <description>Frontera - 23/12/23
-Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
+                <title>Ctrl Alt Dance @ Tony Alonso &amp;amp; Milero DJ (20-12-2023)</title>
+                <description>Programa presentado por Alex Noisy, Karlos AG. Todos los mi&amp;eacute;rcoles de 20h a 22h te esperamos en www.espacio4fm.com,en el 95.4 de la fm con el sonido de la &amp;eacute;poca dorada del dance. Tony Alonso &amp;amp; Milero DJ
+----------------------------------------S&amp;iacute;guenos en----------------------------------------------------
+Twitch:      twitch.tv/ctrl_alt_dance_radioshow,
+HearThis:   hearthis.at/ctrl-alt-dance-radioshow/
+Facebook: facebook...
+Feed: https://www.ivoox.com/podcast-espacio-4-fm_fg_f158739_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/frontera/23-12-23/7039641/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7039641.mp3"/>
-                <guid>https://www.rtve.es/play/audios/frontera/23-12-23/7039641/</guid>
+                <link>https://www.ivoox.com/ctrl-alt-dance-a-tony-alonso-amp-milero-audios-mp3_rf_122107597_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/ctrl-alt-dance-a-tony-alonso-amp-milero_mh_122107597_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/ctrl-alt-dance-a-tony-alonso-amp-milero-audios-mp3_rf_122107597_1.html</guid>
                 
             </item><item>
-                <title>Dockge. Servicio para gestionar mis docker compose</title>
-                <description>Dockge. Servicio para gestionar mis docker compose 
-Feed: https://feeds.feedburner.com/uGeek</description>
+                <title>Gritos Y Partituras: FDC llega a Filarmonía participando en Palco Real por Halloween 2023</title>
+                <description>Gracias a Ale pudimos participar de la edición de Halloween del programa Palco Real, el cual fue transmitido en Radio Filarmonía el pasado 28 de octubre. Reunimos una selección de canciones extraídas de la banda sonora de películas de terror,
+Feed: https://fueradelcine.com/feed/podcast/</description>
                 
                 
-                <link>https://ugeek.github.io/post/2023-11-20-dockge-servicio-para-gestionar-mis-docker-compose.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/106db04/podcast/play/78903838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-20%2Fd9f75ee3-edcf-ce2f-da58-b07547b04a10.mp3"/>
-                <guid>https://ugeek.github.io/post/2023-11-20-dockge-servicio-para-gestionar-mis-docker-compose.html</guid>
+                <link>https://fueradelcine.com/gritos-y-partituras-fdc-llega-a-filarmonia-participando-en-palco-real-por-halloween-2023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/PALCO-REAL-FUERA-DEL-CINE-28-10-23.mp3"/>
+                <guid>https://fueradelcine.com/gritos-y-partituras-fdc-llega-a-filarmonia-participando-en-palco-real-por-halloween-2023/</guid>
                 
             </item>
         </channel>

@@ -9,28 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 04 Jan 2024 04:22:12 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 05 Jan 2024 04:22:20 +0200</lastBuildDate>
             <item>
-                <title>Mix 25 : Mix 25 - 03 janvier 2024</title>
-                <description>647-303805
-Feed: http://podcast.cism893.ca/radioshows/647/feed_itunes.xml</description>
+                <title>Le P’tit Train du Nord, un moyen de transport essentiel à la colonisation</title>
+                <description>Sans le P&#39;tit Train du Nord, les Laurentides n&#39;auraient jamais été développées. Maxime Coutié en parle avec le géographe et historien Claude Martel, président de l&#39;Institut de recherche sur l&#39;histoire des chemins de fer du Québec.
+Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/303805.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/303805.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/303805.mp3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/902d1c52-4811-4ff7-93f9-c36696d65537/2023-12-22_05_00_00_aujourdhuilhistoirebalado_0000.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>La crise de la cinquantaine</title>
-                <description>Je vous explique pourquoi il n&#39;y a pas eu d&#39;épisode depuis août.
-On se retrouve en janvier pour la 6e saison ! 
-En attendant, suivez Equinox Barcelone (https://www.linkedin.com/company/equinox-barcelone) et Equinox Factory (https://www.linkedin.com/s...
-Feed: https://feed.ausha.co/bY9kiw6OqLQb</description>
+                <title>FRONTIER SCUM - Oil Rush (partie 2)</title>
+                <description>La JDR ACADEMY vous souhaite une bonne année en direct de lOuest ! 
+On ne perd pas de temps et nous retrouvons les racailles sans cœur pour la seconde partie de Frontier Scum, un jeu de rôle western sous acides écrit par Karl Druid. 
+Toujours sous 
+Feed: https://www.jdracademy.fr/feed/podcast/</description>
                 
                 
-                <link>https://podcast.ausha.co/tous-les-chemins-menent-a-barcelone/la-crise-de-la-cinquantaine</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/b3PwwSPJa8DE.mp3?t=1699471709"/>
-                <guid>https://podcast.ausha.co/tous-les-chemins-menent-a-barcelone/la-crise-de-la-cinquantaine</guid>
+                <link>https://www.jdracademy.fr/frontier-scum-oil-rush-partie-2/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/AF549D/dts.podtrac.com/redirect.mp3/jdracademy.fr/podcast-download/127561/frontier-scum-oil-rush-partie-2.mp3"/>
+                <guid>https://www.jdracademy.fr/frontier-scum-oil-rush-partie-2/</guid>
                 
             </item>
         </channel>
