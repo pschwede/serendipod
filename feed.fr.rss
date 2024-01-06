@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 05 Jan 2024 04:22:20 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 06 Jan 2024 04:21:47 +0200</lastBuildDate>
             <item>
-                <title>Le P’tit Train du Nord, un moyen de transport essentiel à la colonisation</title>
-                <description>Sans le P&#39;tit Train du Nord, les Laurentides n&#39;auraient jamais été développées. Maxime Coutié en parle avec le géographe et historien Claude Martel, président de l&#39;Institut de recherche sur l&#39;histoire des chemins de fer du Québec.
-Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
+                <title>Bonus - Retour sur le Nocode Summit 2023</title>
+                <description>&lt;p&gt;&lt;strong&gt;Plongez dans les coulisses du Nocode Summit 2023 avec cet épisode spécial du podcast.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je vous emmène avec moi pour 6 courtes interviews :&lt;/p&gt;&lt;p&gt;Tout d&amp;#39;abord, &lt;strong&gt;Pierre Launay&lt;/strong&gt;, président du SFPN, syndicat patronal indépendant qui représente les professionnels du NoCode et organisateur de l&amp;#39;événement...
+Feed: https://anchor.fm/s/3a56518c/podcast/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/902d1c52-4811-4ff7-93f9-c36696d65537/2023-12-22_05_00_00_aujourdhuilhistoirebalado_0000.mp3"/>
-                <guid></guid>
+                <link>https://podcasters.spotify.com/pod/show/openstartup/episodes/Bonus---Retour-sur-le-Nocode-Summit-2023-e2d6ls0</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/3a56518c/podcast/play/79959360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-13%2Fce107e3a-e306-f9cd-5aeb-644dce27dd2d.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/openstartup/episodes/Bonus---Retour-sur-le-Nocode-Summit-2023-e2d6ls0</guid>
                 
             </item><item>
-                <title>FRONTIER SCUM - Oil Rush (partie 2)</title>
-                <description>La JDR ACADEMY vous souhaite une bonne année en direct de lOuest ! 
-On ne perd pas de temps et nous retrouvons les racailles sans cœur pour la seconde partie de Frontier Scum, un jeu de rôle western sous acides écrit par Karl Druid. 
-Toujours sous 
-Feed: https://www.jdracademy.fr/feed/podcast/</description>
+                <title>Schizophrénie : 12/31/2023 21:00</title>
+                <description>713-303642
+Feed: http://podcast.cism893.ca/radioshows/713/feed_itunes.xml</description>
                 
                 
-                <link>https://www.jdracademy.fr/frontier-scum-oil-rush-partie-2/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/AF549D/dts.podtrac.com/redirect.mp3/jdracademy.fr/podcast-download/127561/frontier-scum-oil-rush-partie-2.mp3"/>
-                <guid>https://www.jdracademy.fr/frontier-scum-oil-rush-partie-2/</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/303642.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/303642.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/303642.mp3</guid>
                 
             </item>
         </channel>
