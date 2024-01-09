@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 07 Jan 2024 04:21:45 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 09 Jan 2024 04:22:40 +0200</lastBuildDate>
             <item>
-                <title>Inside: Das war unser Podcast-Jahr 2023</title>
-                <description>Das Jahr 2023 war für unseren Podcast ein wirklich erfolgreiches Jahr und das haben wir natürlich vor allem euch zu verdanken. Grund genug, dass sich Johannes nochmals vors Mikrofon setzt, um den ein oder anderen Einblick in die Produktion unseres Projekts zu geben. Dabei bekommt ihr Infos zu unseren erfolgreichsten Folgen, welchen Musikgeschmack ihr habt und obendrein die Entstehungsgeschichte der ein oder anderen Episode.
-Abseits dessen möchten wir schon bald auf das Spielejahr 2024 blicken...
-Feed: http://nintendo-online.de/podcast/feed.rss</description>
+                <title>3on3-S0508 - E61 - Schmerzhafte Weihnachten</title>
+                <description>Staffel 5 - Episode 8
+Feed: https://letscast.fm/podcasts/3on3overtime-der-wolfsburger-eishockeypodcast-0a0b3eea/feed</description>
                 
                 
-                <link>https://nintendo-online.de/podcast/42966/inside-das-war-unser-podcast-jahr-2023</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/22925/https://nintendo-online.de/podcastEpisodes/download/42966.mp3"/>
-                <guid>https://nintendo-online.de/podcast/42966/inside-das-war-unser-podcast-jahr-2023</guid>
+                <link>https://www.3on3overtime.de/episode/3on3-s0508-e61-schmerzhafte-weihnachten</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C1369F/https://lcdn.letscast.fm/media/podcast/0a0b3eea/episode/9b01762d.mp3?t=1703688082"/>
+                <guid>https://www.3on3overtime.de/episode/3on3-s0508-e61-schmerzhafte-weihnachten</guid>
                 
             </item><item>
-                <title>#132: Sei nicht da, um zu BEKOMMEN, sondern sei da um zu GEBEN</title>
-                <description>Dein Dating-Podcast
-Feed: https://feeds.redcircle.com/26481c2f-47e7-40e5-9bf7-776631770572</description>
+                <title>Meine Instagram Strategie 2024: Diese 7 Veränderungen musst du jetzt umsetzen!</title>
+                <description>Diese 7 Veränderungen musst du jetzt umsetzen!
+Feed: https://carolinepreusspodcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://dating-bros.jimdosite.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio2.redcircle.com/episodes/3f1311d8-efbf-4698-bcef-1beaf87ee7c8/stream.mp3"/>
-                <guid>https://dating-bros.jimdosite.com</guid>
+                <link>https://carolinepreusspodcast.podigee.io/428-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1325662-m-d510a793ecbc5439d180da5c4d54d28e.mp3?source=feed"/>
+                <guid>https://carolinepreusspodcast.podigee.io/428-neue-episode</guid>
                 
             </item>
         </channel>

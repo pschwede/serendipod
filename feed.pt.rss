@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 07 Jan 2024 04:21:57 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 09 Jan 2024 04:22:53 +0200</lastBuildDate>
             <item>
-                <title>RP#109 – QUAL O CUSTO DE SEGUIR A CRISTO?</title>
-                <description>Fala, Resistência, chegamos ao episódio #109 e hoje a gente vai bater um papo sobre o custo real de ser um seguidor de Jesus nesta Terra. Será que pra ser um verdadeiro cristão basta eu...
-Feed: http://feeds.feedburner.com/ResistenciaPodcast</description>
+                <title>Um balanço de 2023 no Manual do Usuário</title>
+                <description>No último episódio do podcast em 2023, fiz uma retrospectiva do Manual do Usuário, das coisas novas, boas e não tão boas que aconteceram por aqui ao longo do ano.
+Alguns links de que comentei no monólogo:
+Nossos repositórios no GitHub.
+Anúncio do comitê
+Feed: https://manualdousuario.net/feed/podcast/manual-do-usuario/</description>
                 
                 
-                <link>https://resistenciapodcast.com/rp109-qual-o-custo-de-seguir-a-cristo/</link>
-                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/resistenciapodcast/resistenciapodcast.com/podcast/RP_109_O_PRECO_DE_SEGUIR_A_CRISTO.mp3"/>
-                <guid>https://resistenciapodcast.com/rp109-qual-o-custo-de-seguir-a-cristo/</guid>
+                <link>https://manualdousuario.net/podcast/guia-pratico-s7e38/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/manualdousuario.net/podcast-download/39222/guia-pratico-s7e38.mp3"/>
+                <guid>https://manualdousuario.net/podcast/guia-pratico-s7e38/</guid>
                 
             </item><item>
-                <title>Férias, reaparições, casamento e outras tretas!</title>
-                <description>Reunimos os quatro hosts do Chutando a Escada para um episódio especial de natal. Nos vemos em fevereiro de 2024!
-Feed: https://chutandoaescada.com.br/feed/podcast</description>
+                <title>Tertúlia de Mentirosos - Chico da Poesia </title>
+                <description>&lt;p&gt;Chico da Poesia...
+Feed: https://anchor.fm/s/3ad739f0/podcast/rss</description>
                 
                 
-                <link>https://chutandoaescada.com.br/2023/12/22/chute-334/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/deviante/media.blubrry.com/chutandoaescada/content.blubrry.com/chutandoaescada/Chute-334.mp3"/>
-                <guid>https://chutandoaescada.com.br/2023/12/22/chute-334/</guid>
+                <link>https://podcasters.spotify.com/pod/show/tertuliadementirosos/episodes/Tertlia-de-Mentirosos---Chico-da-Poesia-e2e2r5l</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/3ad739f0/podcast/play/80882293/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-6%2F82f1d9e3-1831-4ca5-db96-e5bfc25deb5f.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/tertuliadementirosos/episodes/Tertlia-de-Mentirosos---Chico-da-Poesia-e2e2r5l</guid>
                 
             </item>
         </channel>
