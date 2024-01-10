@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 09 Jan 2024 04:22:53 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 10 Jan 2024 04:23:18 +0200</lastBuildDate>
             <item>
-                <title>Um balanço de 2023 no Manual do Usuário</title>
-                <description>No último episódio do podcast em 2023, fiz uma retrospectiva do Manual do Usuário, das coisas novas, boas e não tão boas que aconteceram por aqui ao longo do ano.
-Alguns links de que comentei no monólogo:
-Nossos repositórios no GitHub.
-Anúncio do comitê
-Feed: https://manualdousuario.net/feed/podcast/manual-do-usuario/</description>
+                <title>Mulheres na Diplomacia</title>
+                <description>Para fechar a temporada de 2023, recebemos a embaixadora Irene Vida Gala, a professora Tatiana Berringer (RI-UFABC) e a professora Mariana Davi Ferreira (Sociologia-IFPB) para um papo sobre a participação feminina nas Relações Internacionais!
+Feed: https://www.spreaker.com/show/4712237/episodes/feed</description>
                 
                 
-                <link>https://manualdousuario.net/podcast/guia-pratico-s7e38/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/manualdousuario.net/podcast-download/39222/guia-pratico-s7e38.mp3"/>
-                <guid>https://manualdousuario.net/podcast/guia-pratico-s7e38/</guid>
+                <link>https://www.spreaker.com/user/central3/mulheres-na-diplomacia</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/58106937/mulheres_na_diplomacia.mp3"/>
+                <guid>https://www.spreaker.com/user/central3/mulheres-na-diplomacia</guid>
                 
             </item><item>
-                <title>Tertúlia de Mentirosos - Chico da Poesia </title>
-                <description>&lt;p&gt;Chico da Poesia...
-Feed: https://anchor.fm/s/3ad739f0/podcast/rss</description>
+                <title>Vértice #405: TGA 2023, Kojima, Mario RPG, Trails in the Sky e mais!</title>
+                <description>No último Vértice do ano, os lados bons e ruins do The Game Awards 2023, a morte oficial da E3, o cancelamento de The Last of Us Online, a simplicidade de Super Mario RPG e a complexidade da trilogia Trails in the Sky...
+Feed: https://feeds.feedburner.com/dashpodcast</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/tertuliadementirosos/episodes/Tertlia-de-Mentirosos---Chico-da-Poesia-e2e2r5l</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/3ad739f0/podcast/play/80882293/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-6%2F82f1d9e3-1831-4ca5-db96-e5bfc25deb5f.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/tertuliadementirosos/episodes/Tertlia-de-Mentirosos---Chico-da-Poesia-e2e2r5l</guid>
+                <link>https://jogabilida.de/2023/12/vertice-405/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/bilid/audio.transistor.fm/m/shows/42739/2ac98281fa5677e29efc4533ae7085b5.mp3"/>
+                <guid>https://jogabilida.de/2023/12/vertice-405/</guid>
                 
             </item>
         </channel>

@@ -9,30 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 09 Jan 2024 04:22:44 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 10 Jan 2024 04:23:09 +0200</lastBuildDate>
             <item>
-                <title>La voix tropicale : Voix Tropicale</title>
-                <description>700-303986
-Feed: http://podcast.cism893.ca/radioshows/700/feed_itunes.xml</description>
+                <title>Mythes et cultures du Pacifique</title>
+                <description>Mythes et cultures du Pacifique
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_21467.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/303986.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/303986.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/303986.mp3</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/geographie-a-la-carte/mythes-et-cultures-du-pacifique-8598083</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c99d3c0c-3ddd-4c4d-870d-0a18111d924c/21467-04.01.2024-ITEMA_23603492-2023C29635E0012-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/geographie-a-la-carte/mythes-et-cultures-du-pacifique-8598083</guid>
                 
             </item><item>
-                <title>98. Le prince charmant existe</title>
-                <description>Bienvenue sur « S’ouvrir à l’amour » le podcast qui va t’aider à t’ouvrir à l’amour
-et à transformer ta vie amoureuse. 
- 
-Pour débuter cette année 2024 en beauté j’avais envie de réconcilier l’amour romantique avec le dev perso. 
-Oui tu as le droit de...
-Feed: https://feed.ausha.co/bjPkYiPMPlqo</description>
+                <title>La librairie francophone</title>
+                <description>Lʹévènement culturel de la semaine avec un tour de la rentrée littéraire dans le monde Francophone avec des journalistes littéraire. 
+Le groupe ...
+Feed: https://www.rts.ch/la-1ere/programmes/la-librairie-francophone/podcast/?flux=rss</description>
                 
                 
-                <link>https://podcast.ausha.co/s-ouvrir-a-l-amour/98-le-prince-charmant-existe</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BnaM5cR7JZwe.mp3?t=1696430900"/>
-                <guid>https://podcast.ausha.co/s-ouvrir-a-l-amour/98-le-prince-charmant-existe</guid>
+                <link>https://www.rts.ch/la-1ere/programmes/la-librairie-francophone/14569680-la-librairie-francophone-06-01-2024.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/14569680/2ac54051-4566-3f4a-a433-820b942fc2c2.mp3"/>
+                <guid>https://www.rts.ch/la-1ere/programmes/la-librairie-francophone/14569680-la-librairie-francophone-06-01-2024.html</guid>
                 
             </item>
         </channel>
