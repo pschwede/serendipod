@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 10 Jan 2024 04:23:13 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 11 Jan 2024 04:22:58 +0200</lastBuildDate>
             <item>
-                <title>2024-01-06 Flafri</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>Long Play 08/01/2024</title>
+                <description>&lt;p&gt;&lt;/p&gt;
+Feed: https://feeds.feedburner.com/RipolletRadioLongPlay</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2024-01-06Flafri.mp3"/>
-                <guid></guid>
+                <link>https://ripolletradio.cat/2024/01/08/long-play-08-01-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/longplay/audios.ripolletradio.cat/2324/longplay/240108longplay.mp3"/>
+                <guid>https://ripolletradio.cat/2024/01/08/long-play-08-01-2024/</guid>
                 
             </item><item>
-                <title>Nadie Sabe Nada | 11x18 | 48 plátanos y 12 hamburguesas</title>
-                <description>&lt;p class=&#34;Paragraph SCXW24010393 BCX0&#34; paraid=&#34;599521370&#34; paraeid=&#34;{3889f747-a79c-4aba-b211-12c844dd2ff7}{235}&#34; style=&#34;margin-bottom: 10.6667px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; white-space-collapse: preserve; vertical-align: baseline; font-kerning: none; background-color: transparent; color: windowtext;&#34;&gt;Ep...
-Feed: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml</description>
+                <title>Islas de Robinson - Las sombras se rompen - 08/01/24</title>
+                <description>Las sombras se rompen
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20241/05/1704467080360_888.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/sombras-se-rompen/7051178/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7051178.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/sombras-se-rompen/7051178/</guid>
                 
             </item>
         </channel>

@@ -9,27 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 10 Jan 2024 04:23:09 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 11 Jan 2024 04:22:54 +0200</lastBuildDate>
             <item>
-                <title>Mythes et cultures du Pacifique</title>
-                <description>Mythes et cultures du Pacifique
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_21467.xml</description>
+                <title>[NOTRE CARTON DE L’ANNÉE] La Traque : Viktor Bout, le marchand de mort</title>
+                <description>Pour fêter cette fin d’année, nous vous proposons de découvrir le podcast qui a cartonné chez Bababam : la Traque. Chaque week-end de décembre, plongez-vous dans les plus grandes cavales de l&#39;histoire qui ont marqué nos esprits, racontés par Anne Cosmao et Aurélien Gouas. Bonne écoute !
+Dans cette saison de La Traque, zoom sur le &#34;marchand de mort&#34; Viktor Bout...
+Feed: https://feeds.megaphone.fm/BABA7148388036</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/geographie-a-la-carte/mythes-et-cultures-du-pacifique-8598083</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c99d3c0c-3ddd-4c4d-870d-0a18111d924c/21467-04.01.2024-ITEMA_23603492-2023C29635E0012-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/geographie-a-la-carte/mythes-et-cultures-du-pacifique-8598083</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA6593796761.mp3?updated=1703589187"/>
+                <guid></guid>
                 
             </item><item>
-                <title>La librairie francophone</title>
-                <description>Lʹévènement culturel de la semaine avec un tour de la rentrée littéraire dans le monde Francophone avec des journalistes littéraire. 
-Le groupe ...
-Feed: https://www.rts.ch/la-1ere/programmes/la-librairie-francophone/podcast/?flux=rss</description>
+                <title>Paul Charpentier - Jour du liège (Coups de cœur 2023)</title>
+                <description>
+                        Joyeuses fêtes! Merci d&#39;être à l&#39;écoute. De retour le 14 janvier  ❤️
+ 
+waterfront dining - jacuzzi wishes - Indépendant Steve Cobby - Ikigai - DéclasséPrins Emanuel - Year End - Music For Dreams Rare Silk - Storm (Arp Duppy Chip Mix) - Mr. Bongo Teatron -
+                    
+Feed: https://www.choq.ca/emissions/mutations/rss</description>
                 
                 
-                <link>https://www.rts.ch/la-1ere/programmes/la-librairie-francophone/14569680-la-librairie-francophone-06-01-2024.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/14569680/2ac54051-4566-3f4a-a433-820b942fc2c2.mp3"/>
-                <guid>https://www.rts.ch/la-1ere/programmes/la-librairie-francophone/14569680-la-librairie-francophone-06-01-2024.html</guid>
+                <link>https://www.choq.ca/balados/mutations/emission-du-17-decembre-2023</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mp3.choq.ca/mp3/episode/mutations/2023/12/52137-emission-du-17-decembre-2023.mp3"/>
+                <guid>https://www.choq.ca/balados/mutations/emission-du-17-decembre-2023</guid>
                 
             </item>
         </channel>
