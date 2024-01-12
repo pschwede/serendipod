@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 11 Jan 2024 04:22:54 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 12 Jan 2024 04:23:23 +0200</lastBuildDate>
             <item>
-                <title>[NOTRE CARTON DE L’ANNÉE] La Traque : Viktor Bout, le marchand de mort</title>
-                <description>Pour fêter cette fin d’année, nous vous proposons de découvrir le podcast qui a cartonné chez Bababam : la Traque. Chaque week-end de décembre, plongez-vous dans les plus grandes cavales de l&#39;histoire qui ont marqué nos esprits, racontés par Anne Cosmao et Aurélien Gouas. Bonne écoute !
-Dans cette saison de La Traque, zoom sur le &#34;marchand de mort&#34; Viktor Bout...
-Feed: https://feeds.megaphone.fm/BABA7148388036</description>
+                <title>Le billet sciences du jeudi 11 janvier 2024</title>
+                <description>durée : 00:02:10 - Le billet sciences 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20339.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA6593796761.mp3?updated=1703589187"/>
-                <guid></guid>
+                <link>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/825d36e4-83af-49c5-83d8-9e3a577fbb1c/20339-11.01.2024-ITEMA_23610888-2024I36368S0011-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</guid>
                 
             </item><item>
-                <title>Paul Charpentier - Jour du liège (Coups de cœur 2023)</title>
-                <description>
-                        Joyeuses fêtes! Merci d&#39;être à l&#39;écoute. De retour le 14 janvier  ❤️
- 
-waterfront dining - jacuzzi wishes - Indépendant Steve Cobby - Ikigai - DéclasséPrins Emanuel - Year End - Music For Dreams Rare Silk - Storm (Arp Duppy Chip Mix) - Mr. Bongo Teatron -
-                    
-Feed: https://www.choq.ca/emissions/mutations/rss</description>
+                <title>Changer c&#39;est surmonter sa peur de l&#39;inconnu</title>
+                <description>Inconnu et opportunités sont des synonymes
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/742_f357fbbe11b6657660621f6efd64f09f.rss</description>
                 
                 
-                <link>https://www.choq.ca/balados/mutations/emission-du-17-decembre-2023</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mp3.choq.ca/mp3/episode/mutations/2023/12/52137-emission-du-17-decembre-2023.mp3"/>
-                <guid>https://www.choq.ca/balados/mutations/emission-du-17-decembre-2023</guid>
+                <link>https://www.instagram.com/au.rythme.de.lhumain/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/742/274796.mp3"/>
+                <guid>https://www.instagram.com/au.rythme.de.lhumain/</guid>
                 
             </item>
         </channel>
