@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 12 Jan 2024 04:23:28 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 13 Jan 2024 04:22:39 +0200</lastBuildDate>
             <item>
-                <title>Ricardo Quevedo o Tato Cepeda, ¿Quién es peor en el tráfico?</title>
-                <description>&lt;p&gt;En esta temporada navideña vamos a tener de invitados a algunos amigos con los que hemos crecido y contaremos algunas cosas que hicieron de nosotros lo que somos hoy en día, por ejemplo, algunas historias de Navidad que son bastante tristes o las peores historias manejando con el tráfico capitalino. El turno de hoy es para Ricardo Quevedo &lt;/p&gt;&lt;p&gt;See omnystudio.com/listener for privacy information.&lt;/p&gt;
-Feed: https://www.omnycontent.com/d/playlist/1fc614ef-7db7-429f-a252-a989012fd0c6/0698957d-3bf8-4ceb-a451-aeda015e2616/f06440cb-b96a-422c-b6c5-aeda015e2632/podcast.rss</description>
+                <title>Un jardín optimizado para las abejas mediante IA</title>
+                <description>¿Cómo sería un jardín si las abejas pudieran diseñarlo? Pollinator Pathmaker es una herramienta de IA que ayuda a crear jardines perfectos para los insectos.
+Feed: https://rss.dw.com/xml/podcast_enlaces</description>
                 
                 
-                <link>https://omny.fm/shows/sospechosamente-light/ricardo-quevedo-o-tato-cepeda-qui-n-es-peor-en-el</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/1fc614ef-7db7-429f-a252-a989012fd0c6/0698957d-3bf8-4ceb-a451-aeda015e2616/6c861078-c71d-41bf-a20e-b0e4012c977b/audio.mp3?utm_source=Podcast&amp;in_playlist=f06440cb-b96a-422c-b6c5-aeda015e2632"/>
-                <guid>https://omny.fm/shows/sospechosamente-light/ricardo-quevedo-o-tato-cepeda-qui-n-es-peor-en-el</guid>
+                <link>https://www.dw.com/es/un-jardín-optimizado-para-las-abejas-mediante-ia/video-67752997?maca=spa-podcast_enlaces-7583-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/enl/enl20231221_pollinator_AVC_640x360.mp4"/>
+                <guid>https://www.dw.com/es/un-jardín-optimizado-para-las-abejas-mediante-ia/video-67752997?maca=spa-podcast_enlaces-7583-xml-mrss</guid>
                 
             </item><item>
-                <title>Música antigua - &#34;...Que como barbero templo y como bárbaro toco&#34; - 09/01/24</title>
-                <description>&#34;...Que como barbero templo y como bárbaro toco&#34;
-Feed: http://api.rtve.es/api/programas/23353/audios.rss</description>
+                <title>RN Especial: Resumen de Vigilancias Epidemiológicas</title>
+                <description>RN Especial: Resumen de Vigilancias Epidemiológicas
+Feed: https://feeds.feedburner.com/RepasoNoticioso</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/musica-antigua/como-barbero-templo-como-barbaro-toco-09-01-24/7052750/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7052750.mp3"/>
-                <guid>https://www.rtve.es/play/audios/musica-antigua/como-barbero-templo-como-barbaro-toco-09-01-24/7052750/</guid>
+                <link>https://repasonoticioso.com/rn-especial-resumen-de-vigilancias-epidemiologicas/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/2E99/repasonoticioso.com/podlove/file/282/s/webplayer/RN_ESPECIAL_PREVEPIDEMIAS2023.mp3"/>
+                <guid>https://repasonoticioso.com/rn-especial-resumen-de-vigilancias-epidemiologicas/</guid>
                 
             </item>
         </channel>
