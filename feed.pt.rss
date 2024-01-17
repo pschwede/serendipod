@@ -9,38 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 13 Jan 2024 04:22:43 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 17 Jan 2024 04:23:19 +0200</lastBuildDate>
             <item>
-                <title>Progress #509</title>
-                <description>Progress #509
-www.centraldj.com.br/progress/509
-Subscribe for free on iTunes:
-https://itunes.apple.com/br/podcast/progress/id1077982631?mt=2
--- 
-Progress
-By: DJ MTS
-To broadcast Progress on your radio/webradio, click here:
-https://www.centraldj.com.br/programas/?p=progress
-Follow Progress @ X: http://x.com/progressbymts
-Like Progress @ Facebook: http://www.facebook.com/Progressbymts
-Follow Progress @ Instagram: http://www.instagram.com/progressbymts
-Follow DJ MTS @ X: http://x...
-Feed: https://hearthis.at/djmts/podcast/</description>
+                <title>Ladrão de manchetes</title>
+                <description>No aniversário de cinco anos, o Foro de Teresina fala das investigações da PF sobre Mauro Cid, do esquema de rachadinhas envolvendo Michelle Bolsonaro e dos planos golpistas de militares do governo Bolsonaro. O programa também comenta a cassação...
+Feed: https://forodeteresina.libsyn.com/rss</description>
                 
                 
-                <link>https://hearthis.at/djmts/progress509/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/djmts/progress509/listen.mp3?s=NTq"/>
-                <guid>https://hearthis.at/djmts/progress509/</guid>
+                <link>https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/572EEB/traffic.libsyn.com/secure/forodeteresina/foro253mix.mp3?dest-id=707175"/>
+                <guid>https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/</guid>
                 
             </item><item>
-                <title>Emissão Vespertina Qui - janeiro 11, 2024</title>
-                <description>Um programa orientado aos países Lusófonos de África, Brasil e comunidades de língua portuguesa no mundo. Oferece noticias do dia, informação, analises, desporto, artes, entretenimento, saúde, questões em debate em África. Às sextas em especial um convidado explora vários ângulos de um tema.
-Feed: https://www.voaportugues.com/podcast/?count=20&amp;zoneId=3066</description>
+                <title>NORRIS e PIASTRI podem IMPLODIR a McLAREN na F1? | Paddock Sprint</title>
+                <description>&lt;p&gt;CEO da McLaren, Zak Brown acredita que as disputas quentes entre Lando Norris e Oscar Piastri vão acontecer, mas garantiu que sempre serão saudáveis. Será mesmo? É o tema do Paddock Sprint desta sexta-feira (22). Ana Paula Cerveira apresenta, Evelyn Guimarães comenta e Carol Vergilio produz.&lt;/p&gt;
+Feed: https://anchor.fm/s/da13f184/podcast/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/usagm030/https://av.voanews.com/clips/VPO/2024/01/11/20240111-170000-VPO077-program_original.mp3"/>
-                <guid></guid>
+                <link>https://podcasters.spotify.com/pod/show/grande-premio/episodes/NORRIS-e-PIASTRI-podem-IMPLODIR-a-McLAREN-na-F1---Paddock-Sprint-e2dj0ek</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/da13f184/podcast/play/80363412/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-22%2F79a415fc-1f39-eda3-c376-788093b8a1a4.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/grande-premio/episodes/NORRIS-e-PIASTRI-podem-IMPLODIR-a-McLAREN-na-F1---Paddock-Sprint-e2dj0ek</guid>
                 
             </item>
         </channel>
