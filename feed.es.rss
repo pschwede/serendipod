@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 18 Jan 2024 04:22:24 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Jan 2024 04:23:28 +0200</lastBuildDate>
             <item>
-                <title>II Domingo del Tiempo Ordinario (B)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Juan 1, 35-42. Gloria a ti, Señor. En aquel tiempo, estaba Juan el Bautista con dos de sus discípulos, y &amp;#8230;
-Feed: http://feed.quechilero.com/PalabraEspirituYVida</description>
+                <title>Sapiens - La ciencia de nuestro hogar. Con América Valenzuela - 13/01/24</title>
+                <description>La ciencia de nuestro hogar. Con América Valenzuela
+Feed: http://www.rtve.es/api/programas/128073/audios.rss</description>
                 
                 
-                <link>https://diocesisdeescuintla.com/ii-domingo-del-tiempo-ordinario-b-2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/11996/ii-domingo-del-tiempo-ordinario-b-2024.mp3"/>
-                <guid>https://diocesisdeescuintla.com/ii-domingo-del-tiempo-ordinario-b-2024/</guid>
+                <link>https://www.rtve.es/play/audios/sapiens/sapiens-ciencia-nuestro-hogar-america-valenzuela-13-01-24/7054860/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7054860.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sapiens/sapiens-ciencia-nuestro-hogar-america-valenzuela-13-01-24/7054860/</guid>
                 
             </item><item>
-                <title>139: ¿Sabes estas palabras del hogar?</title>
-                <description>En este episodio de podcast aprenderás varias palabras que usamos para objetos cotidianos. Pau y José te llevarán desde la cocina hasta el dormitorio, pasando por los otros espacios del hogar, describiendo todas las cosas que puedes ver en cada sitio.
-Feed: https://www.easyspanish.fm/rss</description>
+                <title>Historia de la música en España</title>
+                <description>Seguimos ofreciendo podcasts con la música existente en diferentes lugares y hoy el turno es para la de España. 
+Feed: https://eiberoamerica.com/feed/platicando.xml</description>
                 
                 
-                <link>https://www.easyspanish.fm/139</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G7F34G/aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/952d0d9a-9ff4-4637-a3f1-3568e0cb3877.mp3"/>
-                <guid>https://www.easyspanish.fm/139</guid>
+                <link>http://eiberoamerica.com/podcast/platicando/0780_HistoriaDeLaMusicaDeEspana.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0780_HistoriaDeLaMusicaDeEspana.mp3"/>
+                <guid>http://eiberoamerica.com/podcast/platicando/0780_HistoriaDeLaMusicaDeEspana.mp3</guid>
                 
             </item>
         </channel>

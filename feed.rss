@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 18 Jan 2024 04:22:12 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Jan 2024 04:23:16 +0200</lastBuildDate>
             <item>
-                <title>Congo Square (Winter Wonder Classic)</title>
-                <description>Congo Square in New Orleans is the heart of where African drumming found its way into American music and the birth of Jazz.
-READ MORE IN THE ATLAS: https://www.atlasobscura.com/places/congo-square
-Feed: https://feeds.simplecast.com/xKJ93w_w</description>
+                <title>Podcast 172: Insights and Predictions into the Iowa Caucus with David Catanese</title>
+                <description>Join Chuck Warren and Sam Stone on this episode of Breaking Battlegrounds as they dive deep into the dynamics of the upcoming political battles with David Catanese, host of the &amp;#8220;Too Close to Call&amp;#8221; podcast. With David&amp;#8217;s expert analysis a
+Feed: https://breakingbattlegrounds.vote/feed/podcast/</description>
                 
                 
-                <link>https://www.stitcher.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/288D49/stitcher.simplecastaudio.com/5c294edc-c147-416a-a4ea-dce7b040acbf/episodes/3589c9a4-7a6a-492d-bcae-b2737df93087/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c294edc-c147-416a-a4ea-dce7b040acbf&amp;awEpisodeId=3589c9a4-7a6a-492d-bcae-b2737df93087&amp;feed=xKJ93w_w"/>
-                <guid>https://www.stitcher.com</guid>
+                <link>https://breakingbattlegrounds.vote/podcast/insights-and-predictions-into-the-iowa-caucus/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://breakingbattlegrounds.vote/podcast-download/8296/insights-and-predictions-into-the-iowa-caucus.mp3"/>
+                <guid>https://breakingbattlegrounds.vote/podcast/insights-and-predictions-into-the-iowa-caucus/</guid>
                 
             </item><item>
-                <title>Gagged &amp; Gooped feat. Bellah</title>
-                <description> This week we&#39;re joined by R&amp;B sensation Bellah, and you know we got into the music chile! Listen to hear all about  THE AI produced album, life as an independent artist, iconic moments since Evil Eye and the FASHUNS!
-Feed: https://feeds.megaphone.fm/WIZD8492890394</description>
+                <title>Analysis: Climate Entrepreneurs in the Middle East</title>
+                <description>This week, Leah Hickert speaks with Will Todman, deputy director and senior fellow with the CSIS Middle East Program, about how entrepreneurs can help regional governments adapt to climate change.
+Feed: https://feeds.megaphone.fm/CSIS1853412217</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/23D3/traffic.megaphone.fm/WIZD5912549907.mp3?updated=1705532552"/>
-                <guid></guid>
+                <link>https://www.csis.org/podcasts/babel-translating-middle-east</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/CSIS4486964170.mp3?updated=1705415894"/>
+                <guid>https://www.csis.org/podcasts/babel-translating-middle-east</guid>
                 
             </item>
         </channel>

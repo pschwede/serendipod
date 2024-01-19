@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 18 Jan 2024 04:22:36 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Jan 2024 04:23:40 +0200</lastBuildDate>
             <item>
-                <title>Gagged &amp; Gooped feat. Bellah</title>
-                <description> This week we&#39;re joined by R&amp;B sensation Bellah, and you know we got into the music chile! Listen to hear all about  THE AI produced album, life as an independent artist, iconic moments since Evil Eye and the FASHUNS!
-Feed: https://feeds.megaphone.fm/WIZD8492890394</description>
+                <title>Revision of the Victims&#39; Rights Directive</title>
+                <description>
+				The European Commission estimates that 15 % of Europeans fall victim to a crime every year. In July 2023, the Commission published its proposal for a revision of the Victims&#39; Rights Directive, the key EU legislation on the protection of the rights of victims of crime. Despite progress in recent years, victims still lack access to information, support and protection...
+Feed: https://www.europarl.europa.eu/rss/podcast/eprs-policy-podcast/or.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/23D3/traffic.megaphone.fm/WIZD5912549907.mp3?updated=1705532552"/>
-                <guid></guid>
+                <link>https://www.europarl.europa.eu/rss/podcast/eprs-policy-podcast/mp3/2024/20240112-revision-of-the-victims-rights-directive.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.europarl.europa.eu/rss/podcast/eprs-policy-podcast/mp3/2024/20240112-revision-of-the-victims-rights-directive.mp3"/>
+                <guid>https://www.europarl.europa.eu/rss/podcast/eprs-policy-podcast/mp3/2024/20240112-revision-of-the-victims-rights-directive.mp3</guid>
                 
             </item><item>
-                <title>Episode 448 - Live Free or Dive Hard</title>
-                <description>Sketch, Darrell, Kuro and Laser free dive into ep…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:112346783/sounds.rss</description>
+                <title>Deeper Lore: 245 (59, 108, &amp; 90)</title>
+                <description>Go deeper into the subject matter of our most recent episode (244: Stolen) with these three recommendations from further back in the Lore catalog:  Episode 59:  Episode 108:  Episode 90:   ———————— Lore Resources:   Episode Music:...
+Feed: https://feeds.libsyn.com/65267/rss</description>
                 
                 
-                <link>https://soundcloud.com/toonamifaithfulpodcast/episode-448-live-free-or-dive-hard</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/AG2EB2/http://feeds.soundcloud.com/stream/1716225768-toonamifaithfulpodcast-episode-448-live-free-or-dive-hard.mp3"/>
-                <guid>https://soundcloud.com/toonamifaithfulpodcast/episode-448-live-free-or-dive-hard</guid>
+                <link>http://www.lorepodcast.com/episodes</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pscrb.fm/rss/p/claritaspod.com/measure/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/traffic.libsyn.com/secure/lorepodcast/Lore-245-deeper.mp3?dest-id=259905"/>
+                <guid>http://www.lorepodcast.com/episodes</guid>
                 
             </item>
         </channel>
