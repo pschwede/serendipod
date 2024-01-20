@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 19 Jan 2024 04:23:28 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 20 Jan 2024 04:22:26 +0200</lastBuildDate>
             <item>
-                <title>Sapiens - La ciencia de nuestro hogar. Con América Valenzuela - 13/01/24</title>
-                <description>La ciencia de nuestro hogar. Con América Valenzuela
-Feed: http://www.rtve.es/api/programas/128073/audios.rss</description>
+                <title>PYM 49. Hazme un nuevo Peskito | Especial Extraterrestres</title>
+                <description>¿Otro especial? Sí, otro especial. Esta vez es un especial de otro planeta: ¡Especial Extraterrestres! Estas son nuestras secciones alienadas: Mildre nos trae un videojuego: 00:12:47 - Galaxy Pass Station. Seidon habla de un cómic: 00:18:35 - X-O Manowar. Alecrombie recomienda una película: 00:27:05 - Nadie te salvará (No One Will Save You) Joy vuelve a las series coreanas: 00:35:13 - Anomalías...
+Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sapiens/sapiens-ciencia-nuestro-hogar-america-valenzuela-13-01-24/7054860/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/7054860.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sapiens/sapiens-ciencia-nuestro-hogar-america-valenzuela-13-01-24/7054860/</guid>
+                <link>https://www.ivoox.com/pym-49-hazme-nuevo-peskito-especial-audios-mp3_rf_121648683_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-49-hazme-nuevo-peskito-especial_mh_121648683_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/pym-49-hazme-nuevo-peskito-especial-audios-mp3_rf_121648683_1.html</guid>
                 
             </item><item>
-                <title>Historia de la música en España</title>
-                <description>Seguimos ofreciendo podcasts con la música existente en diferentes lugares y hoy el turno es para la de España. 
-Feed: https://eiberoamerica.com/feed/platicando.xml</description>
+                <title>Islas de Robinson - Nadie me toma en serio - 15/01/24</title>
+                <description>Nadie me toma en serio
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>http://eiberoamerica.com/podcast/platicando/0780_HistoriaDeLaMusicaDeEspana.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0780_HistoriaDeLaMusicaDeEspana.mp3"/>
-                <guid>http://eiberoamerica.com/podcast/platicando/0780_HistoriaDeLaMusicaDeEspana.mp3</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/nadie-toma-serio-15-01-24/15916074/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15916074.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/nadie-toma-serio-15-01-24/15916074/</guid>
                 
             </item>
         </channel>
