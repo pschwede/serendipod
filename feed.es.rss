@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 20 Jan 2024 04:22:26 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 21 Jan 2024 04:21:52 +0200</lastBuildDate>
             <item>
-                <title>PYM 49. Hazme un nuevo Peskito | Especial Extraterrestres</title>
-                <description>¿Otro especial? Sí, otro especial. Esta vez es un especial de otro planeta: ¡Especial Extraterrestres! Estas son nuestras secciones alienadas: Mildre nos trae un videojuego: 00:12:47 - Galaxy Pass Station. Seidon habla de un cómic: 00:18:35 - X-O Manowar. Alecrombie recomienda una película: 00:27:05 - Nadie te salvará (No One Will Save You) Joy vuelve a las series coreanas: 00:35:13 - Anomalías...
-Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
+                <title>139: ¿Sabes estas palabras del hogar?</title>
+                <description>En este episodio de podcast aprenderás varias palabras que usamos para objetos cotidianos. Pau y José te llevarán desde la cocina hasta el dormitorio, pasando por los otros espacios del hogar, describiendo todas las cosas que puedes ver en cada sitio.
+Feed: https://www.easyspanish.fm/rss</description>
                 
                 
-                <link>https://www.ivoox.com/pym-49-hazme-nuevo-peskito-especial-audios-mp3_rf_121648683_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-49-hazme-nuevo-peskito-especial_mh_121648683_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/pym-49-hazme-nuevo-peskito-especial-audios-mp3_rf_121648683_1.html</guid>
+                <link>https://www.easyspanish.fm/139</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G7F34G/aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/952d0d9a-9ff4-4637-a3f1-3568e0cb3877.mp3"/>
+                <guid>https://www.easyspanish.fm/139</guid>
                 
             </item><item>
-                <title>Islas de Robinson - Nadie me toma en serio - 15/01/24</title>
-                <description>Nadie me toma en serio
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>Las leyes del caos (27-12-23)</title>
+                <description>Escúchalo aquí sin publicidad
+https://www.menteuno.com/audios/46---las-leyes-del-caos-%2827-12-23%29
+Ver en YouTube
+https://www.youtube.com/watch?v=mChjYM7QAik&amp;list=RDCMUC6g3aD7VrqY8oCVzuY1Cf3w&amp;start_radio=1
+Telegram
+https://t.me/MenteUno
+Feed: https://www.ivoox.com/ensenanzas-sobre-un-curso-milagros_fg_f1263434_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/nadie-toma-serio-15-01-24/15916074/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15916074.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/nadie-toma-serio-15-01-24/15916074/</guid>
+                <link>http://www.ivoox.com/leyes-del-caos-27-12-23-audios-mp3_rf_121753320_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/leyes-del-caos-27-12-23_mh_121753320_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/leyes-del-caos-27-12-23-audios-mp3_rf_121753320_1.html</guid>
                 
             </item>
         </channel>
