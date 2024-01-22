@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 21 Jan 2024 04:22:04 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 22 Jan 2024 04:24:15 +0200</lastBuildDate>
             <item>
-                <title>Baseball Card Extravaganza 2024</title>
-                <description>Joe and Mike are back drafting baseball cards to raise money for ALS care. This year, they are partnering with Project Main Street.
-Learn more about your ad choices. Visit megaphone.fm/adchoices
-Feed: https://feeds.megaphone.fm/LBE7746407261</description>
+                <title>Eight Lessons in Podcast Audio Production</title>
+                <description>I overview 8 podcast production tips and techniques from recent blog posts (see list below).    My blog posts discussed in this episode:     --***      --***  book               Other Notes:    If you ever have questions please !  The start date...
+Feed: https://podcastengineering.libsyn.com/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/chrt.fm/track/F6D86A/traffic.megaphone.fm/LBE1303992813.mp3?updated=1705526635"/>
-                <guid></guid>
+                <link>https://podcastengineeringschool.com/eight-lessons-in-podcast-audio-production-pes-248/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/podcastengineering/The_Podcast_Engineering_Show_-_Ep.248_-_Eight_Lessons_in_Podcast_Audio_Production.m4a?dest-id=346557"/>
+                <guid>https://podcastengineeringschool.com/eight-lessons-in-podcast-audio-production-pes-248/</guid>
                 
             </item><item>
-                <title>Garrett Koehn, CRC Brokerage &amp; Gordon Wintrob, Newfront: Brokers using generative AI today (284)</title>
-                <description>This week, we return with Henry Gale as he caught up with Garrett Koehn, President of CRC Brokerage, and Gordon Wintrob, Co-founder and CTO of Newfront. The discussion covers the potential of generative AI for insurance brokers, with real-world examp...
-Feed: https://feed.podbean.com/instechlondon/feed.xml</description>
+                <title>Podcast 173: Exploring Global Dynamics with Congressman Tim Burchett and Shay Khatiri: A Deep Dive into Local and International Affair</title>
+                <description>Welcome back to another episode of Breaking Battlegrounds! This week, Chuck and Sam first extend a warm welcome to Congressman Tim Burchett, diving straight into a discussion about national security and foreign affairs. We are then joined by Shay Khatiri
+Feed: https://breakingbattlegrounds.vote/feed/podcast/</description>
                 
                 
-                <link>https://instechlondon.podbean.com/e/garrett-koehn-crc-brokerage-gordon-wintrob-newfront-brokers-using-generative-ai-today-284/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/72B244/mcdn.podbean.com/mf/web/znjuyd/instech-episode-284-crc-newfront-january-2024.mp3"/>
-                <guid>https://instechlondon.podbean.com/e/garrett-koehn-crc-brokerage-gordon-wintrob-newfront-brokers-using-generative-ai-today-284/</guid>
+                <link>https://breakingbattlegrounds.vote/podcast/tim-burchett-and-shay-khatiri/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://breakingbattlegrounds.vote/podcast-download/8440/tim-burchett-and-shay-khatiri.mp3"/>
+                <guid>https://breakingbattlegrounds.vote/podcast/tim-burchett-and-shay-khatiri/</guid>
                 
             </item>
         </channel>
