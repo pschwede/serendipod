@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 23 Jan 2024 04:23:08 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 24 Jan 2024 04:23:35 +0200</lastBuildDate>
             <item>
-                <title>Votre jardin</title>
-                <description>Votre jardin
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
+                <title>On sème FORT ! - Aménager un massif en &#34;ombre sèche&#34; - Emission du 19 janvier</title>
+                <description>Au programme de cette émission : Gel et pluie rendent difficiles les tâches au jardin. C&#39;est le moment, de ne rien faire et de laisser reposer son sol !Eric nous donnera le programme qui ne change pas pendant l&#39;hiver et que vous retrouverez sur notre b...
+Feed: https://feed.ausha.co/oRdQLT4qD569</description>
                 
                 
-                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/983892b6-5508-40c7-b6c8-f80541783b70/15376-20.01.2024-ITEMA_23621101-2024B20690S0020-21.mp3"/>
-                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
+                <link>https://podcast.ausha.co/monjardinbio-podcast-jardinage-bio/nouvel-episode-du-18-01-17-05</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bVdj6sw3jzZN.mp3?t=1705596796"/>
+                <guid>https://podcast.ausha.co/monjardinbio-podcast-jardinage-bio/nouvel-episode-du-18-01-17-05</guid>
                 
             </item><item>
-                <title>SPECIALE - Noel</title>
-                <description>
-Feed: https://indestar.lepodcast.fr/rss</description>
+                <title>Les Affaires Brassicoles #329 | Brasse ta Bière dans une Brasserie 2023 | Microbrasserie Cardinal / La Ménagerie</title>
+                <description>&lt;p&gt;Nous discutons avec les gagnants de l’équipe  La Ménagerie de leur recette de Canadian Cream Ale (GUS). Nous échangeons sur leurs expériences en tant que brasseurs amateurs et leurs visions, leur amour pour le brassage et la bière, et plus encore. Entrevue avec le maître brasseurs Kevin James...
+Feed: https://anchor.fm/s/463153a8/podcast/rss</description>
                 
                 
-                <link>http://www.indestar.fr</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/indestar/speciale-noel-2/enclosure.0801f1ced11bb34529a045fbf71a9e152712df8e411f8c5620d3c67af3d39b65.mp3?p=f"/>
-                <guid>http://www.indestar.fr</guid>
+                <link>https://podcasters.spotify.com/pod/show/lesaffairesbrassicoles/episodes/Les-Affaires-Brassicoles-329--Brasse-ta-Bire-dans-une-Brasserie-2023--Microbrasserie-Cardinal--La-Mnagerie-e2ep853</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/463153a8/podcast/play/81616483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-22%2Ff87e4729-b690-c740-7977-111fed4d64d1.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/lesaffairesbrassicoles/episodes/Les-Affaires-Brassicoles-329--Brasse-ta-Bire-dans-une-Brasserie-2023--Microbrasserie-Cardinal--La-Mnagerie-e2ep853</guid>
                 
             </item>
         </channel>

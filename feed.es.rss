@@ -9,27 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 23 Jan 2024 04:23:11 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 24 Jan 2024 04:23:41 +0200</lastBuildDate>
             <item>
-                <title>Objetivos de 2024</title>
-                <description>¿Qué nos espera con WordPress en 2024? Los objetivos principales del proyecto se han definido y también e conocen los obstáculos.
-Feed: https://www.wppodcast.es/feed/podcast/</description>
+                <title>Café del sur - Pequeño vals vienés - 21/01/24</title>
+                <description>Pequeño vals vienés
+Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
                 
                 
-                <link>https://www.wppodcast.es/podcast/objetivos-de-2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/236/s/feed/c/podcast/wordpress-podcast-e190.mp3"/>
-                <guid>https://www.wppodcast.es/podcast/objetivos-de-2024/</guid>
+                <link>https://www.rtve.es/play/audios/cafe-del-sur/cafe-del-sur-pequeno-vals-vienes-21-01-24/15924892/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15924892.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cafe-del-sur/cafe-del-sur-pequeno-vals-vienes-21-01-24/15924892/</guid>
                 
             </item><item>
-                <title>AHD 242 - De arroces, italianos y basiliscos</title>
-                <description>&lt;p&gt;Como este texto se escribe siempre bastante antes de que tú lo leas, vamos a decir unas cuantas cosas sobre la actualidad del día en que se publique sin saber qué habrá pasado, a ver si acertamos: &lt;/p&gt;
-&lt;p&gt;«Hay que ver cómo está todo. Nunca han estado así de mal las cosas, la verdad. Esto realmente no tiene solución y va de mal en peor, es sólo cuestión de tiempo que se despeñe todo o se vaya al garete o se cuele por el sumidero...
-Feed: https://www.omnycontent.com/d/playlist/2446592a-b80e-4d28-a4fd-ae4c0140ac11/b4c11f61-828f-4d49-81c5-aea701274943/ea3d254c-e669-4a54-93c9-aea70127495a/podcast.rss</description>
+                <title>Dance Live Sessions #268</title>
+                <description>Ivan Voltes selects his favourite tracks of the moment every week live in the mix.
+Broadcasting LIVE every Thursday at 1pm EDT | 8pm GMT | 9pm CET on Twitch and YouTube.
+Tracklist: 1001.tl/d5hh1v
+@dancelive Official Spotify Playlists: linktr...
+Feed: https://www.ivoox.com/ivan-voltes-presents-dance-live-radio_fg_f1166124_filtro_1.xml</description>
                 
                 
-                <link>https://omny.fm/shows/aqu-hay-dragones/ahd-242-de-arroces-italianos-y-basiliscos</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/2446592a-b80e-4d28-a4fd-ae4c0140ac11/b4c11f61-828f-4d49-81c5-aea701274943/b234fe10-f3b3-487f-b198-b0f300b17137/audio.mp3?utm_source=Podcast&amp;in_playlist=ea3d254c-e669-4a54-93c9-aea70127495a"/>
-                <guid>https://omny.fm/shows/aqu-hay-dragones/ahd-242-de-arroces-italianos-y-basiliscos</guid>
+                <link>https://www.ivoox.com/dance-live-sessions-268-audios-mp3_rf_122521592_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/dance-live-sessions-268_mh_122521592_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/dance-live-sessions-268-audios-mp3_rf_122521592_1.html</guid>
                 
             </item>
         </channel>
