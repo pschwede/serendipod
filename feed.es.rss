@@ -9,29 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 24 Jan 2024 04:23:41 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 25 Jan 2024 04:23:46 +0200</lastBuildDate>
             <item>
-                <title>Café del sur - Pequeño vals vienés - 21/01/24</title>
-                <description>Pequeño vals vienés
-Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
+                <title>El Taxidermista Carl Akeley</title>
+                <description>Carl Akeley, fue pionero en la taxidermia y conservación, revolucionó la técnica al introducir métodos realistas y expresivos. Además, como defensor apasionado de la vida silvestre, su legado perdura en su contribución al diseño de reservas naturales y museos de historia natural. Pero, no siempre fue un apasionado por la vida silvestre... 
+Síguenos y visita nuestro sitio oficial:
+https://www.instagram.com/eldollop
+https://twitter.com/eldollop
+https://www.facebook...
+Feed: https://feeds.megaphone.fm/SONORO4124946493</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cafe-del-sur/cafe-del-sur-pequeno-vals-vienes-21-01-24/15924892/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15924892.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cafe-del-sur/cafe-del-sur-pequeno-vals-vienes-21-01-24/15924892/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/39325/pdst.fm/e/traffic.megaphone.fm/SONORO5908247436.mp3?updated=1705907416"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Dance Live Sessions #268</title>
-                <description>Ivan Voltes selects his favourite tracks of the moment every week live in the mix.
-Broadcasting LIVE every Thursday at 1pm EDT | 8pm GMT | 9pm CET on Twitch and YouTube.
-Tracklist: 1001.tl/d5hh1v
-@dancelive Official Spotify Playlists: linktr...
-Feed: https://www.ivoox.com/ivan-voltes-presents-dance-live-radio_fg_f1166124_filtro_1.xml</description>
+                <title>Frontera - 20/01/24</title>
+                <description>Frontera - 20/01/24
+Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/dance-live-sessions-268-audios-mp3_rf_122521592_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/dance-live-sessions-268_mh_122521592_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/dance-live-sessions-268-audios-mp3_rf_122521592_1.html</guid>
+                <link>https://www.rtve.es/play/audios/frontera/frontera-20-01-24/15924348/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15924348.mp3"/>
+                <guid>https://www.rtve.es/play/audios/frontera/frontera-20-01-24/15924348/</guid>
                 
             </item>
         </channel>

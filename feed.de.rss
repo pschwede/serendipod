@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 24 Jan 2024 04:23:29 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 25 Jan 2024 04:23:35 +0200</lastBuildDate>
             <item>
-                <title>Folge 144: SITRA Insight - Neues aus der Ausbildung 01/24</title>
-                <description>SITRA Insight - Neues aus der Ausbildung 01/24
-Feed: https://podcastabd9e0.podigee.io/feed/mp3</description>
+                <title>Altglas (u.a.) für die Fujifilm GFX100</title>
+                <description>Alte analoge Linsen, sogenanntes „Altglas“, verleihen gerade Portraits einen ganz eigenen Schmelz bzw. Charakter. Und ganz besonders kommt das an den Fujifilm GFX Kameras zur Geltung, da sie mit einem größeren Bildkreis mehr von den „Fehlern“ eines Objektives zeigen — denn genau dadurch entsteht der besondere Look...
+Feed: https://fz5vy7.podcaster.de/kreativkommune.rss</description>
                 
                 
-                <link>https://podcastabd9e0.podigee.io/171-folge-144-sitra-insight-neues-aus-der-ausbildung-0124</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1346584-m-be42c5c2234abcb357f6e32e09e8c65e.mp3?source=feed"/>
-                <guid>https://podcastabd9e0.podigee.io/171-folge-144-sitra-insight-neues-aus-der-ausbildung-0124</guid>
+                <link>https://studio.kreativkommune.org/055-altglas-u-a-fuer-die-fujifilm-gfx100/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fz5vy7.podcaster.de/kreativkommune/media/Podcast_SKK_055.mp3"/>
+                <guid>https://studio.kreativkommune.org/055-altglas-u-a-fuer-die-fujifilm-gfx100/</guid>
                 
             </item><item>
-                <title>Deine Vision ganz groß + Innere Reise.</title>
-                <description>Raus aus dem Hamsterrad
-Feed: https://gluecklichseinisteineentscheidung.podigee.io/feed/mp3</description>
+                <title>Karen Heumanns Wochenenden sind von einer Frage geprägt: &#34;Was will ich essen?&#34;</title>
+                <description>Karen Heumann, Deutschlands bekannteste Werberin, konnte früher 14 Stunden lang schlafen. Im Wochenendpodcast erinnert sie sich an die Wochenenden ihrer Kindheit und schwärmt von ihrer liebsten Zweitheimat.
+Feed: https://feeds.simplecast.com/ILj1jAra</description>
                 
                 
-                <link>https://gluecklichseinisteineentscheidung.podigee.io/126-vision</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1332555-m-a192c99474be06021e9b6ee9be5fb3c2.mp3?source=feed"/>
-                <guid>https://gluecklichseinisteineentscheidung.podigee.io/126-vision</guid>
+                <link>https://www.zeit.de/serie/und-was-machst-du-am-wochenende</link>
+                <enclosure type="audio/mpeg" length="1" url="https://zeitonline.simplecastaudio.com/63610e26-fc5c-4192-8f10-d59559c68f07/episodes/e125b036-f952-41a3-a949-cb1c6415567a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=63610e26-fc5c-4192-8f10-d59559c68f07&amp;awEpisodeId=e125b036-f952-41a3-a949-cb1c6415567a&amp;feed=ILj1jAra"/>
+                <guid>https://www.zeit.de/serie/und-was-machst-du-am-wochenende</guid>
                 
             </item>
         </channel>
