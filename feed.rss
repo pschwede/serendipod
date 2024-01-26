@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 25 Jan 2024 04:23:29 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 26 Jan 2024 04:22:37 +0200</lastBuildDate>
             <item>
-                <title>Supernovae give rise to black holes or neutron stars (ESOcast 269 Light)</title>
-                <description>Astronomers have found a direct link between the explosive deaths of massive stars and the formation of the most compact and enigmatic objects in the Universe — black holes and neutron stars. This video summarises the discovery.
-Feed: https://feeds.feedburner.com/ESOcastSD</description>
+                <title>ModChat 115 - Mig Switch Dumper Revealed, Xbox 360 XL Patches Combined, Portal 64 Taken Down</title>
+                <description>First episode of 2024 so we had to fill it up with plenty of topics to kick off the new year properly! First of all being an upcoming tease for the Evilnat 4.90.2 CFW allowing for decryption of encrypted PS3 ISOs on the console itself. Movian M7 gets...
+Feed: https://ModChat.podbean.com/feed.xml</description>
                 
                 
-                <link>https://www.eso.org/public/videos/eso2401a/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.eso.org/public/archives/videos/medium_podcast/eso2401a.mp4"/>
-                <guid>https://www.eso.org/public/videos/eso2401a/</guid>
+                <link>https://ModChat.podbean.com/e/modchat-115-mig-switch-dumper-revealed-xbox-360-xl-patches-combined-portal-64-taken-down/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/yd4wwj/ModChat_115_-_Mig_Switch_Dumper_Revealed_Xbox_360_XL_Patches_Combined_Portal_64_Taken_Down838e5.mp3"/>
+                <guid>https://ModChat.podbean.com/e/modchat-115-mig-switch-dumper-revealed-xbox-360-xl-patches-combined-portal-64-taken-down/</guid>
                 
             </item><item>
-                <title>156. Do you doubt YOU and your abilities?</title>
-                <description>Embark on a transformative journey with our latest podcast episode as we delve into the intricate world of confidence and self-efficacy. Are you holding yourself back from reaching your true potential? Join us as we explore the origins of self-doubt,...
-Feed: https://reinventyou.libsyn.com/rss</description>
+                <title>Farlost: Fog of War-7</title>
+                <description>When Hara met Nguyen.
+If you like what you hear, please post about the show, tell your friends or support more episodes here.
+Feed: https://servingworlds.com/feed/podcast/free-podcast/</description>
                 
                 
-                <link>https://reinventyou.libsyn.com/156-do-you-doubt-you-and-your-abilities</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/reinventyou/Do_you_doubt_YOU_and_your_abilities_.m4a?dest-id=3204956"/>
-                <guid>https://reinventyou.libsyn.com/156-do-you-doubt-you-and-your-abilities</guid>
+                <link>https://servingworlds.com/podcast/farlost-fog-of-war-7/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://servingworlds.com/podcast-download/7580/farlost-fog-of-war-7.mp3"/>
+                <guid>https://servingworlds.com/podcast/farlost-fog-of-war-7/</guid>
                 
             </item>
         </channel>
