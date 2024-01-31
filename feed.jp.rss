@@ -9,26 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 28 Jan 2024 04:21:04 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 31 Jan 2024 04:21:08 +0200</lastBuildDate>
             <item>
-                <title>117. Nader Shah: The Sword of Persia</title>
-                <description>Nader Shah was not born to rule. He was poor, the son of a shepherd in a semi-nomadic tribe, and had no connection to the throne. But he was physically impressive; he stood over six feet tall, had dark piercing eyes, and a voice so loud that it is said to have caused his enemies to flee. He also innately understood warfare and it was in the military where he started to make a name for himself. Step-by-step, this poor shepherd from Khorasan accumulated power and influence...
-Feed: https://feeds.megaphone.fm/empirepodcast</description>
+                <title>Timesaver Traffic (Afrikaans) @ 05H40</title>
+                <description>Here&#39;s your latest Jacaranda FM Timesaver Traffic report.
+Feed: https://iono.fm/rss/chan/1681</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/GLT8375685790.mp3?updated=1706110907"/>
-                <guid></guid>
+                <link>https://iono.fm/e/1401031</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_155/epi_1401031_medium.m4a?p=rss"/>
+                <guid>https://iono.fm/e/1401031</guid>
                 
             </item><item>
-                <title>Raiiq Ridwan … The Travel Bug</title>
-                <description>Raiiq has traveled to 118 countries   Hey now and Happy New Year to all!  I am your host, Ric Gazarian. I knew Raiiq from EPS and had the pleasure of meeting him at the ETF in Armenia.  I was spurred to learn more about him after a...
-Feed: https://countingcountries.libsyn.com/rss</description>
+                <title>Apple really sucks, Mint&#39;s EDGE ISO, Wayland protocol drama</title>
+                <description>&lt;p&gt;Try the new version of Thunderbird (it’s now my email &amp;amp; calendar client of choice!): https://mzla.link/tb-flatpak&lt;/p&gt;
+&lt;p&gt;???? Support the show here: ????&lt;/p&gt;
+&lt;p&gt;Patreon supporters get the daily Linux &amp;amp; Open Source audio show!&lt;/p&gt;
+&lt;p&gt;https://www.patreon.com/thelinuxexperiment&lt;/p&gt;
+&lt;p&gt;https://www.paypal.com/paypalme/thelinuxexp&lt;/p&gt;
+&lt;p&gt;https://liberapay.com/TheLinuxExperiment/&lt;/p&gt;
+&lt;p&gt;???? Buy TLE Merch: ????&lt;/p&gt;
+&lt;p&gt;https://the-linux-experiment.creator-spring...
+Feed: https://podcast.thelinuxexp.com/@tlenewspodcast/feed.xml</description>
                 
                 
-                <link>https://globalgaz.com/raiiq-ridwan-counting-countries/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/countingcountries/raiiq_Lisbyn_copy.mp3?dest-id=389581"/>
-                <guid>https://globalgaz.com/raiiq-ridwan-counting-countries/</guid>
+                <link>https://podcast.thelinuxexp.com/@tlenewspodcast/episodes/apple-really-sucks-mints-edge-iso-wayland-protocol-drama</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.thelinuxexp.com/audio/@tlenewspodcast/apple-really-sucks-mints-edge-iso-wayland-protocol-drama.mp3?_from=fyyd.de"/>
+                <guid>https://podcast.thelinuxexp.com/@tlenewspodcast/episodes/apple-really-sucks-mints-edge-iso-wayland-protocol-drama</guid>
                 
             </item>
         </channel>

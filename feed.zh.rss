@@ -9,26 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 28 Jan 2024 04:20:58 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 31 Jan 2024 04:21:04 +0200</lastBuildDate>
             <item>
-                <title>Episode 138 - Little Shop of Horrors</title>
-                <description>Actor/writer extraordinaire Richie Pepio returns to Missing Frames to introduce Shawn to the abundant wonders of Frank Oz&#39;s 1986 adaptation of Little Shop of Horrors, starring Rick Moranis, Ellen Greene, Steve Martin, and Levi Stubbs as Audrey II....
-Feed: https://www.spreaker.com/show/3169661/episodes/feed</description>
+                <title>Apple really sucks, Mint&#39;s EDGE ISO, Wayland protocol drama</title>
+                <description>&lt;p&gt;Try the new version of Thunderbird (it’s now my email &amp;amp; calendar client of choice!): https://mzla.link/tb-flatpak&lt;/p&gt;
+&lt;p&gt;???? Support the show here: ????&lt;/p&gt;
+&lt;p&gt;Patreon supporters get the daily Linux &amp;amp; Open Source audio show!&lt;/p&gt;
+&lt;p&gt;https://www.patreon.com/thelinuxexperiment&lt;/p&gt;
+&lt;p&gt;https://www.paypal.com/paypalme/thelinuxexp&lt;/p&gt;
+&lt;p&gt;https://liberapay.com/TheLinuxExperiment/&lt;/p&gt;
+&lt;p&gt;???? Buy TLE Merch: ????&lt;/p&gt;
+&lt;p&gt;https://the-linux-experiment.creator-spring...
+Feed: https://podcast.thelinuxexp.com/@tlenewspodcast/feed.xml</description>
                 
                 
-                <link>https://www.spreaker.com/episode/episode-138-little-shop-of-horrors--58383555</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/3DE48/api.spreaker.com/download/episode/58383555/mf138_little_shop_final_mixdown.mp3"/>
-                <guid>https://www.spreaker.com/episode/episode-138-little-shop-of-horrors--58383555</guid>
+                <link>https://podcast.thelinuxexp.com/@tlenewspodcast/episodes/apple-really-sucks-mints-edge-iso-wayland-protocol-drama</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.thelinuxexp.com/audio/@tlenewspodcast/apple-really-sucks-mints-edge-iso-wayland-protocol-drama.mp3?_from=fyyd.de"/>
+                <guid>https://podcast.thelinuxexp.com/@tlenewspodcast/episodes/apple-really-sucks-mints-edge-iso-wayland-protocol-drama</guid>
                 
             </item><item>
-                <title>Good Morning The General</title>
-                <description>Meg, Hal and Symphony discuss episode 149 of Welcome to Night Vale: The General.
-Feed: http://feeds.nightvalepresents.com/GoodMorningNightVale</description>
+                <title>Geraint Thomas’ Surprise &amp; Racing Begins in Europe | LRCP Weekly Show</title>
+                <description>&lt;p&gt;In the first episode of our new weekly show Patrick &amp;amp; Benji roundup the races of the past week, preview the three upcoming stage races and delve into the latest news in the world of cycling.&lt;/p&gt;&lt;br&gt;&lt;p&gt;This show is sponsored by JOIN Cycling. Lanterne Rouge listeners can access JOIN Cycling with an exclusive risk free 30-day free trial period. Head over to our website for more information: https://lanternerouge...
+Feed: https://feeds.acast.com/public/shows/6565736dd2e37200126fbf93</description>
                 
                 
-                <link>https://play.prx.org/listen?ge=prx_147_3408b54b-f367-4e37-9d90-ffc2a496453d&amp;uf=http%3A%2F%2Ffeeds.nightvalepresents.com%2FGoodMorningNightVale</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pdrl.fm/6d9ed6/dovetail.prxu.org/_/147/3408b54b-f367-4e37-9d90-ffc2a496453d/GoodMorningNightVale_149_TheGeneral_12.21.2023_PP_1.mp3"/>
-                <guid>https://play.prx.org/listen?ge=prx_147_3408b54b-f367-4e37-9d90-ffc2a496453d&amp;uf=http%3A%2F%2Ffeeds.nightvalepresents.com%2FGoodMorningNightVale</guid>
+                <link>https://shows.acast.com/6565736dd2e37200126fbf93/episodes/geraint-thomas-surprise-racing-begins-in-europe-lrcp-weekly-</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6565736dd2e37200126fbf93/e/65b7865a8d236a0017c4900c/media.mp3"/>
+                <guid>https://shows.acast.com/6565736dd2e37200126fbf93/episodes/geraint-thomas-surprise-racing-begins-in-europe-lrcp-weekly-</guid>
                 
             </item>
         </channel>
