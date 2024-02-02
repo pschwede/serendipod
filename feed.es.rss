@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 31 Jan 2024 04:20:56 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 02 Feb 2024 04:21:42 +0200</lastBuildDate>
             <item>
-                <title>141: Describamos nuestros libreros</title>
-                <description>Pau y José hacen un pequeño “tour” por sus libreros y nos comparten qué géneros son sus favoritos, qué libros guardan y con qué otros no se quedan.
-Feed: https://www.easyspanish.fm/rss</description>
+                <title>Jazz en cadena: De Miles a Miles pasando por Ellington</title>
+                <description>Radio Jazznoend os invita en este nuevo programa a un viaje excitante y vertiginoso, un recorrido por buena parte de la historia del jazz, a través de veintiuna grabaciones de temas encadenados, unidos por circunstancias tan diversas como los músicos que intervienen en ellas, los temas registrados, sus compositores o productores...
+Feed: https://www.ivoox.com/podcast-jazznoend-radio_fg_f1136231_filtro_1.xml</description>
                 
                 
-                <link>https://www.easyspanish.fm/141</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G7F34G/aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/4ff3577d-b928-423a-a35c-df216c112326.mp3"/>
-                <guid>https://www.easyspanish.fm/141</guid>
+                <link>http://www.ivoox.com/jazz-cadena-de-miles-a-miles-pasando-audios-mp3_rf_122912372_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/jazz-cadena-de-miles-a-miles-pasando_mh_122912372_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/jazz-cadena-de-miles-a-miles-pasando-audios-mp3_rf_122912372_1.html</guid>
                 
             </item><item>
-                <title>Ricardo Quevedo o Tato Cepeda, ¿Quién es peor en el tráfico?</title>
-                <description>&lt;p&gt;En esta temporada navideña vamos a tener de invitados a algunos amigos con los que hemos crecido y contaremos algunas cosas que hicieron de nosotros lo que somos hoy en día, por ejemplo, algunas historias de Navidad que son bastante tristes o las peores historias manejando con el tráfico capitalino. El turno de hoy es para Ricardo Quevedo &lt;/p&gt;&lt;p&gt;See omnystudio.com/listener for privacy information.&lt;/p&gt;
-Feed: https://www.omnycontent.com/d/playlist/1fc614ef-7db7-429f-a252-a989012fd0c6/0698957d-3bf8-4ceb-a451-aeda015e2616/f06440cb-b96a-422c-b6c5-aeda015e2632/podcast.rss</description>
+                <title>Los sacrificios que hacemos por discos - EP147T03</title>
+                <description>&amp;iquest;Cu&amp;aacute;ntos sacrificios hacemos para poder tener un CD? Bueno esto es parte de lo que los roqueros hacemos y algo que sali&amp;oacute; de los mismos comentarios de nuestros amigos en una publicaci&amp;oacute;n en el Facebook.
+Puede calif&amp;iacute;canos y dejar su rese&amp;ntilde;a ac&amp;aacute;:
+https://ratethispodcast.com/colmilloroquero
+&amp;iquest;D&amp;oacute;nde puedo comprar el Libro de Andr&amp;eacute;s? https://amzn...
+Feed: https://www.ivoox.com/es-roquero_fg_f1890087_filtro_1.xml?promotionalCampaign</description>
                 
                 
-                <link>https://omny.fm/shows/sospechosamente-light/ricardo-quevedo-o-tato-cepeda-qui-n-es-peor-en-el</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/1fc614ef-7db7-429f-a252-a989012fd0c6/0698957d-3bf8-4ceb-a451-aeda015e2616/6c861078-c71d-41bf-a20e-b0e4012c977b/audio.mp3?utm_source=Podcast&amp;in_playlist=f06440cb-b96a-422c-b6c5-aeda015e2632"/>
-                <guid>https://omny.fm/shows/sospechosamente-light/ricardo-quevedo-o-tato-cepeda-qui-n-es-peor-en-el</guid>
+                <link>https://www.ivoox.com/sacrificios-hacemos-discos-ep147t03-audios-mp3_rf_123499379_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sacrificios-hacemos-discos-ep147t03_mf_123499379_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/sacrificios-hacemos-discos-ep147t03-audios-mp3_rf_123499379_1.html</guid>
                 
             </item>
         </channel>

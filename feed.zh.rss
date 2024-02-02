@@ -9,33 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 31 Jan 2024 04:21:04 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 02 Feb 2024 04:21:51 +0200</lastBuildDate>
             <item>
-                <title>Apple really sucks, Mint&#39;s EDGE ISO, Wayland protocol drama</title>
-                <description>&lt;p&gt;Try the new version of Thunderbird (it’s now my email &amp;amp; calendar client of choice!): https://mzla.link/tb-flatpak&lt;/p&gt;
-&lt;p&gt;???? Support the show here: ????&lt;/p&gt;
-&lt;p&gt;Patreon supporters get the daily Linux &amp;amp; Open Source audio show!&lt;/p&gt;
-&lt;p&gt;https://www.patreon.com/thelinuxexperiment&lt;/p&gt;
-&lt;p&gt;https://www.paypal.com/paypalme/thelinuxexp&lt;/p&gt;
-&lt;p&gt;https://liberapay.com/TheLinuxExperiment/&lt;/p&gt;
-&lt;p&gt;???? Buy TLE Merch: ????&lt;/p&gt;
-&lt;p&gt;https://the-linux-experiment.creator-spring...
-Feed: https://podcast.thelinuxexp.com/@tlenewspodcast/feed.xml</description>
+                <title>BEST OF 2023</title>
+                <description>We&#39;re back this week with our long-awaited Best of 2023 episode and there&#39;s a lot for you to wrap your ears around. In a time that many seem all-too-thrilled to declare the death of a genre, there was an increasing number of great albums and songs released in 2023.
+Feed: https://feeds.megaphone.fm/decibelgeek</description>
                 
                 
-                <link>https://podcast.thelinuxexp.com/@tlenewspodcast/episodes/apple-really-sucks-mints-edge-iso-wayland-protocol-drama</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.thelinuxexp.com/audio/@tlenewspodcast/apple-really-sucks-mints-edge-iso-wayland-protocol-drama.mp3?_from=fyyd.de"/>
-                <guid>https://podcast.thelinuxexp.com/@tlenewspodcast/episodes/apple-really-sucks-mints-edge-iso-wayland-protocol-drama</guid>
+                <link>https://www.decibelgeek.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/chrt.fm/track/E74G3E/traffic.megaphone.fm/PAN3304690897.mp3?updated=1706501103"/>
+                <guid>https://www.decibelgeek.com</guid>
                 
             </item><item>
-                <title>Geraint Thomas’ Surprise &amp; Racing Begins in Europe | LRCP Weekly Show</title>
-                <description>&lt;p&gt;In the first episode of our new weekly show Patrick &amp;amp; Benji roundup the races of the past week, preview the three upcoming stage races and delve into the latest news in the world of cycling.&lt;/p&gt;&lt;br&gt;&lt;p&gt;This show is sponsored by JOIN Cycling. Lanterne Rouge listeners can access JOIN Cycling with an exclusive risk free 30-day free trial period. Head over to our website for more information: https://lanternerouge...
-Feed: https://feeds.acast.com/public/shows/6565736dd2e37200126fbf93</description>
+                <title>Inner Journey with Greg Friedman and guest Jeff Witzeman</title>
+                <description>Jeff Witzeman has been an actor, writer, and musician before launching his first film, Cancer Can Be Killed in 2017. He followed his debut film with a number of phenomenol offerings all with the intention of helping people along their paths. His films...
+Feed: https://www.spreaker.com/show/4221459/episodes/feed</description>
                 
                 
-                <link>https://shows.acast.com/6565736dd2e37200126fbf93/episodes/geraint-thomas-surprise-racing-begins-in-europe-lrcp-weekly-</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6565736dd2e37200126fbf93/e/65b7865a8d236a0017c4900c/media.mp3"/>
-                <guid>https://shows.acast.com/6565736dd2e37200126fbf93/episodes/geraint-thomas-surprise-racing-begins-in-europe-lrcp-weekly-</guid>
+                <link>https://www.spreaker.com/episode/inner-journey-with-greg-friedman-and-guest-jeff-witzeman--58491708</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/58491708/jeff_witzeman.mp3"/>
+                <guid>https://www.spreaker.com/episode/inner-journey-with-greg-friedman-and-guest-jeff-witzeman--58491708</guid>
                 
             </item>
         </channel>
