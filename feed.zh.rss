@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 02 Feb 2024 04:21:51 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 04 Feb 2024 04:19:57 +0200</lastBuildDate>
             <item>
-                <title>BEST OF 2023</title>
-                <description>We&#39;re back this week with our long-awaited Best of 2023 episode and there&#39;s a lot for you to wrap your ears around. In a time that many seem all-too-thrilled to declare the death of a genre, there was an increasing number of great albums and songs released in 2023.
-Feed: https://feeds.megaphone.fm/decibelgeek</description>
+                <title>Echoes Podcast: Kevin Keller &amp; Hildegard</title>
+                <description>
+Feed: https://echoes.org/feed/podcast</description>
                 
                 
-                <link>https://www.decibelgeek.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/chrt.fm/track/E74G3E/traffic.megaphone.fm/PAN3304690897.mp3?updated=1706501103"/>
-                <guid>https://www.decibelgeek.com</guid>
+                <link>https://echoes.org/2024/02/01/echoes-podcast-kevin-keller-hildegard/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/echoespodcast/echoes.org/wp-content/uploads/2024/02/EchoesPodcast-Keller2024.m4a"/>
+                <guid>https://echoes.org/2024/02/01/echoes-podcast-kevin-keller-hildegard/</guid>
                 
             </item><item>
-                <title>Inner Journey with Greg Friedman and guest Jeff Witzeman</title>
-                <description>Jeff Witzeman has been an actor, writer, and musician before launching his first film, Cancer Can Be Killed in 2017. He followed his debut film with a number of phenomenol offerings all with the intention of helping people along their paths. His films...
-Feed: https://www.spreaker.com/show/4221459/episodes/feed</description>
+                <title>Night Owl Radio #442 ft. OMNOM and wes pierce</title>
+                <description>ft. OMNOM and wes pierce
+Feed: https://nightowl.podtree.com/feed/podcast/</description>
                 
                 
-                <link>https://www.spreaker.com/episode/inner-journey-with-greg-friedman-and-guest-jeff-witzeman--58491708</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/58491708/jeff_witzeman.mp3"/>
-                <guid>https://www.spreaker.com/episode/inner-journey-with-greg-friedman-and-guest-jeff-witzeman--58491708</guid>
+                <link>https://nightowl.podtree.com/2024/02/night-owl-radio-442-ft-omnom-and-wes-pierce/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/night_owl_radio/media3-nightowl.podtree.com/nightowl/media/podcast/NightOwl_442.mp3"/>
+                <guid>https://nightowl.podtree.com/2024/02/night-owl-radio-442-ft-omnom-and-wes-pierce/</guid>
                 
             </item>
         </channel>

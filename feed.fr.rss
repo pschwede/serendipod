@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 02 Feb 2024 04:21:38 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 04 Feb 2024 04:19:46 +0200</lastBuildDate>
             <item>
-                <title>Les services gratuits offerts au jardinier par la Nature</title>
-                <description>La plupart des jardiniers n’en ont pas conscience, mais la Nature offre de nombreux services gratuits. En en prenant connaissance, on peut mieux en bénéficier.
-Feed: https://radiolegumes.com/feed/podcast/</description>
+                <title>Club Jazzafip du samedi 03 février 2024</title>
+                <description>Club Jazzafip du samedi 03 février 2024
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_12250.xml</description>
                 
                 
-                <link>https://radiolegumes.com/les-services-gratuits-offerts-au-jardinier-par-la-nature/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=les-services-gratuits-offerts-au-jardinier-par-la-nature</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/radoilegumes/content.blubrry.com/radoilegumes/Services_Nature_Balado_Podcats.mp3"/>
-                <guid>https://radiolegumes.com/les-services-gratuits-offerts-au-jardinier-par-la-nature/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=les-services-gratuits-offerts-au-jardinier-par-la-nature</guid>
+                <link>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/club-jazzafip-du-samedi-03-fevrier-2024-4010198</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/7120e7b3-8ac9-4331-b781-4de77ba0b4f5/12250-03.02.2024-ITEMA_23636497-2024Y19087S0034-21.mp3"/>
+                <guid>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/club-jazzafip-du-samedi-03-fevrier-2024-4010198</guid>
                 
             </item><item>
-                <title>Odezenne, Laufey et Rahill à la Maison de la Radio et de la Musique</title>
-                <description>Odezenne, Laufey et Rahill à la Maison de la Radio et de la Musique
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13416.xml</description>
+                <title>[NEWS] Un rapport pour accélérer la transition de notre système alimentaire</title>
+                <description>Les news qui m&#39;ont marqué récemment !A retrouver, l&#39;épisode avec Serge Zaka sur l&#39;agriculture en 2050 : https://smartlink.ausha.co/demain-et-durable-l-ecologie/podcast-quels-sont-les-impacts-du-changement-climatique-sur-l-agriculture
+Feed: https://feed.ausha.co/oR7APIOmX35x</description>
                 
                 
-                <link>https://www.radiofrance.fr/fip/podcasts/live-a-fip/odezenne-laufey-et-rahill-a-la-maison-de-la-radio-et-de-la-musique-2670440</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/db713d6b-3204-431f-8de5-3114bc54ac4a/13416-14.12.2023-ITEMA_23584074-2023Y21958S0348-21.mp3"/>
-                <guid>https://www.radiofrance.fr/fip/podcasts/live-a-fip/odezenne-laufey-et-rahill-a-la-maison-de-la-radio-et-de-la-musique-2670440</guid>
+                <link>https://podcast.ausha.co/demain-et-durable-l-ecologie/news-un-rapport-pour-accelerer-la-transition-de-notre-systeme-alimentaire</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BxgdrckzQkvM.mp3?t=1706477410"/>
+                <guid>https://podcast.ausha.co/demain-et-durable-l-ecologie/news-un-rapport-pour-accelerer-la-transition-de-notre-systeme-alimentaire</guid>
                 
             </item>
         </channel>

@@ -9,29 +9,34 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 02 Feb 2024 04:21:42 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 04 Feb 2024 04:19:50 +0200</lastBuildDate>
             <item>
-                <title>Jazz en cadena: De Miles a Miles pasando por Ellington</title>
-                <description>Radio Jazznoend os invita en este nuevo programa a un viaje excitante y vertiginoso, un recorrido por buena parte de la historia del jazz, a través de veintiuna grabaciones de temas encadenados, unidos por circunstancias tan diversas como los músicos que intervienen en ellas, los temas registrados, sus compositores o productores...
-Feed: https://www.ivoox.com/podcast-jazznoend-radio_fg_f1136231_filtro_1.xml</description>
+                <title>Tarataña - De estrenos y aniversarios - 03/02/24</title>
+                <description>De estrenos y aniversarios
+Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/jazz-cadena-de-miles-a-miles-pasando-audios-mp3_rf_122912372_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/jazz-cadena-de-miles-a-miles-pasando_mh_122912372_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/jazz-cadena-de-miles-a-miles-pasando-audios-mp3_rf_122912372_1.html</guid>
+                <link>https://www.rtve.es/play/audios/taratana/taratana-estrenos-aniversarios-03-02-24/15954359/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15954359.mp3"/>
+                <guid>https://www.rtve.es/play/audios/taratana/taratana-estrenos-aniversarios-03-02-24/15954359/</guid>
                 
             </item><item>
-                <title>Los sacrificios que hacemos por discos - EP147T03</title>
-                <description>&amp;iquest;Cu&amp;aacute;ntos sacrificios hacemos para poder tener un CD? Bueno esto es parte de lo que los roqueros hacemos y algo que sali&amp;oacute; de los mismos comentarios de nuestros amigos en una publicaci&amp;oacute;n en el Facebook.
-Puede calif&amp;iacute;canos y dejar su rese&amp;ntilde;a ac&amp;aacute;:
-https://ratethispodcast.com/colmilloroquero
-&amp;iquest;D&amp;oacute;nde puedo comprar el Libro de Andr&amp;eacute;s? https://amzn...
-Feed: https://www.ivoox.com/es-roquero_fg_f1890087_filtro_1.xml?promotionalCampaign</description>
+                <title>Relaciones especiales. Nuevo grupo online (23-01-24)</title>
+                <description>Extractos de la primera clase del grupo Relaciones especiales, en el que se abordan todas las cuestiones asociadas a las relaciones de pareja desde la perspectiva que enseña Un Curso de Milagros.
+Grupo Relaciones especiales
+https://www.menteuno.com/grupo-ucdm/relaciones-especiales-20
+Escúchalo aquí sin publicidad
+https://www.menteuno.com/audios/66---relaciones-especiales.-nuevo-grupo-online-%2823-01-24%29
+Ver en YouTube
+https://www.youtube.com/watch?v=6IfMKmUINHg
+Telegram
+https://t.me/MenteUno
+Feed: https://www.ivoox.com/ensenanzas-sobre-un-curso-milagros_fg_f1263434_filtro_1.xml</description>
                 
                 
-                <link>https://www.ivoox.com/sacrificios-hacemos-discos-ep147t03-audios-mp3_rf_123499379_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sacrificios-hacemos-discos-ep147t03_mf_123499379_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/sacrificios-hacemos-discos-ep147t03-audios-mp3_rf_123499379_1.html</guid>
+                <link>http://www.ivoox.com/relaciones-especiales-nuevo-grupo-online-23-01-24-audios-mp3_rf_123660044_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/relaciones-especiales-nuevo-grupo-online-23-01-24_mf_123660044_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/relaciones-especiales-nuevo-grupo-online-23-01-24-audios-mp3_rf_123660044_1.html</guid>
                 
             </item>
         </channel>
