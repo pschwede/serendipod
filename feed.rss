@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 04 Feb 2024 04:19:38 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 05 Feb 2024 04:22:03 +0200</lastBuildDate>
             <item>
-                <title>Echoes Podcast: Kevin Keller &amp; Hildegard</title>
-                <description>
-Feed: https://echoes.org/feed/podcast</description>
+                <title>Legendary Ladies of Rock: Janis Joplin, Joan Jett, Pat Benatar, and Patti Smith</title>
+                <description>This week, we&#39;re rounding out Women in Rock month by diving into the rockin&#39; world of Janis Joplin, Joan Jett, Patti Smith, and Pat Benatar and their incredible journeys to stardom. 
+Feed: https://feeds.megaphone.fm/WIZD7180408604</description>
                 
                 
-                <link>https://echoes.org/2024/02/01/echoes-podcast-kevin-keller-hildegard/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/echoespodcast/echoes.org/wp-content/uploads/2024/02/EchoesPodcast-Keller2024.m4a"/>
-                <guid>https://echoes.org/2024/02/01/echoes-podcast-kevin-keller-hildegard/</guid>
+                <link>https://linktr.ee/morethanamuse</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/23D3/traffic.megaphone.fm/WIZD7006866224.mp3?updated=1706379213"/>
+                <guid>https://linktr.ee/morethanamuse</guid>
                 
             </item><item>
-                <title>The Gothic Moose - Episode 550 - All Ukrainian bands or bands supporting Ukraine</title>
-                <description>A fucking terrorist in the Kremlin and his fucking dogs are murdering Ukrainians everyday. Don’t be silent. Do something! All of the bands in this episode have done something for Continue Reading →
-Feed: https://www.djmoose.ca/?feed=podcast&amp;format=djmooseshowm4a</description>
+                <title>The fight over Māori rights</title>
+                <description>Eva Corlett and Margaret Mutu on why there are growing fears after the election of New Zealand’s new conservative government
+Feed: https://www.theguardian.com/australia-news/series/full-story/podcast.xml</description>
                 
                 
-                <link>https://www.djmoose.ca/the-gothic-moose-episode-550/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://djmoose.ca/wp-content/uploads/episodes/TheGothicMoose-Episode550.mp3"/>
-                <guid>https://www.djmoose.ca/the-gothic-moose-episode-550/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://flex.acast.com/audio.guim.co.uk/2024/02/02-20259-FS_MaoriRights_ch_020224_1605.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

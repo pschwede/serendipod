@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 04 Feb 2024 04:19:46 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 05 Feb 2024 04:22:13 +0200</lastBuildDate>
             <item>
-                <title>Club Jazzafip du samedi 03 février 2024</title>
-                <description>Club Jazzafip du samedi 03 février 2024
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_12250.xml</description>
+                <title>JAZZ / Mysterious Forces Mix</title>
+                <description>Dat Dere (original mix) 3:53 Sunship/Ceri Evans Dat Dere 2023Tideland 7:30 Hijaz Tideland 2023Mys...
+Feed: https://arnaudchristiantarabella.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/club-jazzafip-du-samedi-03-fevrier-2024-4010198</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/7120e7b3-8ac9-4331-b781-4de77ba0b4f5/12250-03.02.2024-ITEMA_23636497-2024Y19087S0034-21.mp3"/>
-                <guid>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/club-jazzafip-du-samedi-03-fevrier-2024-4010198</guid>
+                <link>https://www.podomatic.com/podcasts/arnaudchristiantarabella/episodes/2024-02-03T16_01_43-08_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arnaudchristiantarabella.podomatic.com/enclosure/2024-02-03T16_01_43-08_00.mp3?_=1707005200.16917197"/>
+                <guid>https://www.podomatic.com/podcasts/arnaudchristiantarabella/episodes/2024-02-03T16_01_43-08_00</guid>
                 
             </item><item>
-                <title>[NEWS] Un rapport pour accélérer la transition de notre système alimentaire</title>
-                <description>Les news qui m&#39;ont marqué récemment !A retrouver, l&#39;épisode avec Serge Zaka sur l&#39;agriculture en 2050 : https://smartlink.ausha.co/demain-et-durable-l-ecologie/podcast-quels-sont-les-impacts-du-changement-climatique-sur-l-agriculture
-Feed: https://feed.ausha.co/oR7APIOmX35x</description>
+                <title>c&#39;est quoi l&#39;amour ? - Libébulles !</title>
+                <description>Libébulles !
+Feed: http://radioagora-nanterre.fr/ws/saooti/services/rss/channel/1/15/fr_FR</description>
                 
                 
-                <link>https://podcast.ausha.co/demain-et-durable-l-ecologie/news-un-rapport-pour-accelerer-la-transition-de-notre-systeme-alimentaire</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BxgdrckzQkvM.mp3?t=1706477410"/>
-                <guid>https://podcast.ausha.co/demain-et-durable-l-ecologie/news-un-rapport-pour-accelerer-la-transition-de-notre-systeme-alimentaire</guid>
+                <link>https://radioagora-nanterre.fr/broadcast/2671</link>
+                <enclosure type="audio/mpeg" length="1" url="http://radioagora-nanterre.fr/external/podcast-511.mp3?mediaId=511&amp;duration=479000"/>
+                <guid>https://radioagora-nanterre.fr/broadcast/2671</guid>
                 
             </item>
         </channel>

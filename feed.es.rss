@@ -9,34 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 04 Feb 2024 04:19:50 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 05 Feb 2024 04:22:17 +0200</lastBuildDate>
             <item>
-                <title>Tarataña - De estrenos y aniversarios - 03/02/24</title>
-                <description>De estrenos y aniversarios
-Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
+                <title>Noosfera 189. Conspiradores, fantasmas y otros seres | Javier Cavanilles</title>
+                <description>Hablamos mucho sobre conspiraciones, porque son atractivas y nos hacen sentir superiores a los pobres diablos que se las creen, sin embargo, hablamos con poca propiedad. Hay todo un mundo que antropológicamente resulta muy rico entre los...
+Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/taratana/taratana-estrenos-aniversarios-03-02-24/15954359/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15954359.mp3"/>
-                <guid>https://www.rtve.es/play/audios/taratana/taratana-estrenos-aniversarios-03-02-24/15954359/</guid>
+                <link>https://www.spreaker.com/episode/noosfera-189-conspiradores-fantasmas-y-otros-seres-javier-cavanilles--58550730</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/58550730/noosfera_189.mp3"/>
+                <guid>https://www.spreaker.com/episode/noosfera-189-conspiradores-fantasmas-y-otros-seres-javier-cavanilles--58550730</guid>
                 
             </item><item>
-                <title>Relaciones especiales. Nuevo grupo online (23-01-24)</title>
-                <description>Extractos de la primera clase del grupo Relaciones especiales, en el que se abordan todas las cuestiones asociadas a las relaciones de pareja desde la perspectiva que enseña Un Curso de Milagros.
-Grupo Relaciones especiales
-https://www.menteuno.com/grupo-ucdm/relaciones-especiales-20
-Escúchalo aquí sin publicidad
-https://www.menteuno.com/audios/66---relaciones-especiales.-nuevo-grupo-online-%2823-01-24%29
-Ver en YouTube
-https://www.youtube.com/watch?v=6IfMKmUINHg
-Telegram
-https://t.me/MenteUno
-Feed: https://www.ivoox.com/ensenanzas-sobre-un-curso-milagros_fg_f1263434_filtro_1.xml</description>
+                <title>Probando GatherPress</title>
+                <description>La Comunidad WordPress debería tener el control completo de los datos de los eventos, algo que no ocurre con las Meetup.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>http://www.ivoox.com/relaciones-especiales-nuevo-grupo-online-23-01-24-audios-mp3_rf_123660044_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/relaciones-especiales-nuevo-grupo-online-23-01-24_mf_123660044_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/relaciones-especiales-nuevo-grupo-online-23-01-24-audios-mp3_rf_123660044_1.html</guid>
+                <link>https://www.wppodcast.es/podcast/probando-gatherpress/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/237/s/feed/c/podcast/wordpress-podcast-e191.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/probando-gatherpress/</guid>
                 
             </item>
         </channel>
