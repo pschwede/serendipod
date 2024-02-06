@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 05 Feb 2024 04:22:08 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 06 Feb 2024 04:20:00 +0200</lastBuildDate>
             <item>
-                <title>Region 02.02.24</title>
-                <description>- &#34;Ab dem zweiten Werk im Plus&#34;: Reifen-Recycling Pyrum in Perl - Das Gesicht von SR3: Michael Friemel - Uralte Karnevals-Geschichte: &#34;400 Jahre Wellinger Faasend&#34; - Zum 50.Geburtstag der Plastik-Figürchen: Playmobil-Narr erzählt
-Feed: https://sr-mediathek.de/pcast/feeds/SR3_RAN_P/feed.xml</description>
+                <title>14. GEDANKENCAFÉ  - Sport und Spiritualität</title>
+                <description>Viele kennen Routinen und Aberglaube im Sport. Wir machen Dinge, die uns Sicherheit geben und hoffen lassen, dass dadurch alles gut werden wird. 
+Aber was liegt dahinter und wie sieht es mit einer tieferen Verbindung aus? 
+Heute sprechen wir über die Verbindung mit der eigenen Intuition, über Glaube, Meditation und die mit anderen Menschen...
+Feed: https://fbbwht.podcaster.de/goldfunk.rss</description>
                 
                 
-                <link>https://storage01.sr.de/podcast/SR3_RAN_P/SR3_RAN_P_34043_20240202_170519.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://storage01.sr.de/podcast/SR3_RAN_P/SR3_RAN_P_34043_20240202_170519.mp3"/>
-                <guid>https://storage01.sr.de/podcast/SR3_RAN_P/SR3_RAN_P_34043_20240202_170519.mp3</guid>
+                <link>https://fbbwht.podcaster.de/goldfunk/media/Spirifinal.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fbbwht.podcaster.de/goldfunk/media/Spirifinal.mp3"/>
+                <guid>https://fbbwht.podcaster.de/goldfunk/media/Spirifinal.mp3</guid>
                 
             </item><item>
-                <title>FM4 Interview mit Markus Lust re. WWE Scandal</title>
-                <description>Vince McMahon, the 78 year old  founder of World Wrestling Entertainment has resigned from wrestling giant TKO Group and the company it owns and he founded –WWE.  .  A lawsuit has accused him of serious sexual crimes.  A former employee has sued  McMahon  alleging sexual assault, trafficking and emotional abuse. Riem Higazi  spoke with author, creative director and wrestling expert Markus Lust about the WWE scandal and the future of wrestling….
-Sendungshinweis: FM4. OKFM4, 29.01.2024, 17 Uhr
-Feed: https://podcast.orf.at/podcast/fm4/fm4_interviewpodcast/fm4_interviewpodcast.xml</description>
+                <title>Episode 213: Jahresvorschau 2024</title>
+                <description>2024 ist mal wieder prall gefüllt mit Popkultur. Begleitet uns auf unserer Reise durch jede Menge Spiele, Filme und Serien.
+Feed: https://feeds.einfach-podcasten.de/radionukular-mp3</description>
                 
                 
-                <link>https://sound.orf.at/podcast/fm4/fm4-interview-podcast/fm4-interview-mit-markus-lust-re-wwe-scandal</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/fm4/fm4_interviewpodcast/items/di_fm4_interviewpodcast_clk_797eaf8428044e769fe58dbbe622bcee.mp3?etag=3c9c82a7cb1a26015414b8260b4c3f34"/>
-                <guid>https://sound.orf.at/podcast/fm4/fm4-interview-podcast/fm4-interview-mit-markus-lust-re-wwe-scandal</guid>
+                <link>https://www.radionukular.de/episode-213-jahresvorschau-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.radionukular.de/podlove/file/2229/s/feed/c/nukularfeed/radio_nukular_213.mp3"/>
+                <guid>https://www.radionukular.de/episode-213-jahresvorschau-2024/</guid>
                 
             </item>
         </channel>
