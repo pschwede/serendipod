@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 06 Feb 2024 04:20:19 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 07 Feb 2024 04:21:12 +0200</lastBuildDate>
             <item>
-                <title>Celebrating Marriage During National Marriage Week - feat. Arlene Pellicane</title>
-                <description>NATIONAL MARRIAGE WEEK: #podcast about #love, #marriage &amp; #relationships by #relationshipexperts #DrRayandJean offering #relationshipadvice for #couples, we talk about #NationalMarriageWeek with spokesperson #ArlenePellicane
-Feed: https://feeds.libsyn.com/187547/rss</description>
+                <title>Remote Shutter Button for MEMENTO</title>
+                <description>Build a remote shutter button for the Adafruit MEMENTO camera!
+Guide: learn.adafruit.com/memento-shutter 
+Our 3D printed snap fit enclosure houses the button PCB and doubles as a handle so you can take photos without any camera shake.
+This button PCB features an on-board JST PH connector making it easy to connect to the MEMENTO camera board.
+-----------------------------------------
+LIVE CHAT IS HERE! http://adafru.it/discord
+Adafruit on Instagram: https://www.instagram...
+Feed: https://adafruit-podcasts.s3.amazonaws.com/3d_printing/podcast.xml</description>
                 
                 
-                <link>https://couplessynergy.libsyn.com/297-celebrating-marriage-during-national-marriage-week-feat-arlene-pellicane</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/282G89/traffic.libsyn.com/secure/couplessynergy/Celebrating_Marriage_Week.mp3?dest-id=1292966"/>
-                <guid>https://couplessynergy.libsyn.com/297-celebrating-marriage-during-national-marriage-week-feat-arlene-pellicane</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://adafruit-podcasts.s3.amazonaws.com/media/XmMB2Dwa66M_360.mp4"/>
+                <guid></guid>
                 
             </item><item>
-                <title>What’s it like to film a supernatural thriller in darkness at minus 17 degrees? - Highlights - FLORIAN HOFFMEISTER</title>
-                <description>Jodie Foster, Issa Lopez, Kali Reis, Fiona Shaw, True Detective: Night Country, tv, film, cinematography, environment, Indigenous rights, science, faith, spirituality, HBO
-Feed: https://thecreativeprocess.squarespace.com/film-tv?format=rss</description>
+                <title>Indirect questions</title>
+                <description>Catherine and Rob teach you how and when to use indirect questions
+Feed: https://podcasts.files.bbci.co.uk/p02pc9wq.rss</description>
                 
                 
-                <link>https://www.creativeprocess.info/film-tv/florian-hoffmeister-true-detective-night-country-highlights-e3ne2</link>
-                <enclosure type="audio/mpeg" length="1" url="https://static1.squarespace.com/static/5745d9f137013b9d0a627c60/t/6597002a14a8fe731536d9e0/1704392992538/florian-hoffmeister-true-detective-mia-funk-HIGHLIGHTS.mp3"/>
-                <guid>https://www.creativeprocess.info/film-tv/florian-hoffmeister-true-detective-night-country-highlights-e3ne2</guid>
+                <link>http://www.bbc.co.uk/programmes/p0h991kc</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0h98ylw.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0h991kc</guid>
                 
             </item>
         </channel>

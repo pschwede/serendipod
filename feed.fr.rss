@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 06 Feb 2024 04:20:04 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 07 Feb 2024 04:20:59 +0200</lastBuildDate>
             <item>
-                <title>Sur vos Écrans du 3 Février 2024</title>
-                <description>Marc Choquet vous présente l&#39;actualité des films &amp; séries à voir sur vos écrans. Cette semaine: &#34; Mr. et Mrs. Smith &#34; sur Prime Video, la saga &#34; Moi, moche et méchant &#34; disponible sur Netflix ainsi que toutes les actualités du top des séries et films sur vos plateformes !
-Feed: https://aod.nrjaudio.fm/xml/152.xml</description>
+                <title>L&#39;horoscope du mercredi 7 février</title>
+                <description>Sagittaire profitez d&#39;engagements réfléchis aujourd&#39;hui.
+Feed: https://podcasts.tendanceouest.com/rss-podcast-71-horoscope</description>
                 
                 
-                <link>https://www.cheriefm.fr/podcasts/cherie-fm-cinema/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://spodcasts.nrjaudio.fm/podcasts/fr/2/152/1c6984c6-8e28-4d6a-ac19-9445e52a469a.mp3?awCollectionId=152&amp;awEpisodeId=666306"/>
-                <guid>https://www.cheriefm.fr/podcasts/cherie-fm-cinema/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://medias.tendanceouest.com/podcasts/sons/3642-HOROS-240207.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>France 98 : l&#39;intégrale ! </title>
-                <description>L&#39;intégrale de la série des Libéros sur la Coupe du Monde France 1998 !
-Feed: https://feeds.acast.com/public/shows/63a998cd82094f0010bd6874</description>
+                <title>Nicolas Altstaedt, pureté du son et chaleur du timbre</title>
+                <description>Nicolas Altstaedt, pureté du son et chaleur du timbre
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20332.xml</description>
                 
                 
-                <link>https://shows.acast.com/63a998cd82094f0010bd6874/episodes/658defa85fe9460017be0494</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63a998cd82094f0010bd6874/e/658defa85fe9460017be0494/media.mp3"/>
-                <guid>https://shows.acast.com/63a998cd82094f0010bd6874/episodes/658defa85fe9460017be0494</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/stars-du-classique/nicolas-altstaedt-purete-du-son-et-chaleur-du-timbre-2503598</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/f5f09236-d102-42d5-99f5-04cbb9f268d5/20332-06.02.2024-ITEMA_23639276-2023M49077S0262-21.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/stars-du-classique/nicolas-altstaedt-purete-du-son-et-chaleur-du-timbre-2503598</guid>
                 
             </item>
         </channel>
