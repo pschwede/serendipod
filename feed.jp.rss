@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 07 Feb 2024 04:21:12 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 08 Feb 2024 04:21:31 +0200</lastBuildDate>
             <item>
-                <title>Remote Shutter Button for MEMENTO</title>
-                <description>Build a remote shutter button for the Adafruit MEMENTO camera!
-Guide: learn.adafruit.com/memento-shutter 
-Our 3D printed snap fit enclosure houses the button PCB and doubles as a handle so you can take photos without any camera shake.
-This button PCB features an on-board JST PH connector making it easy to connect to the MEMENTO camera board.
------------------------------------------
-LIVE CHAT IS HERE! http://adafru.it/discord
-Adafruit on Instagram: https://www.instagram...
-Feed: https://adafruit-podcasts.s3.amazonaws.com/3d_printing/podcast.xml</description>
+                <title>Day 038 (Exodus 25-27) - Year 6</title>
+                <description>SHOW NOTES: - Head to our Start Page for all you need to begin!- Join the RECAPtains- Check out the TBR Store- Show credits- 7 Miracles in the BibleFROM TODAY’S RECAP: - John 20:12- Video: Tabernacle Tour- Check out the TBR StoreSOCIALS:The Bible Rec...
+Feed: https://feed.podbean.com/thebiblerecap/feed.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://adafruit-podcasts.s3.amazonaws.com/media/XmMB2Dwa66M_360.mp4"/>
-                <guid></guid>
+                <link>https://thebiblerecap.podbean.com/e/day038-year6/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/pmhjsj/TBR_038_-_2_1_24_828_PM7o67w.mp3"/>
+                <guid>https://thebiblerecap.podbean.com/e/day038-year6/</guid>
                 
             </item><item>
-                <title>Indirect questions</title>
-                <description>Catherine and Rob teach you how and when to use indirect questions
-Feed: https://podcasts.files.bbci.co.uk/p02pc9wq.rss</description>
+                <title>Eliot Jacobson: Climate Data, Doomerism, &amp; Deceptive Expectations</title>
+                <description>This is a segment of episode 356 of Last Born In …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:4691639/sounds.rss</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0h991kc</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0h98ylw.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0h991kc</guid>
+                <link>https://soundcloud.com/lastborninthewilderness/eliot-jacobson-climate-data-doomerism-deceptive-expectations</link>
+                <enclosure type="audio/mpeg" length="1" url="http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1735973199-lastborninthewilderness-eliot-jacobson-climate-data-doomerism-deceptive-expectations.mp3"/>
+                <guid>https://soundcloud.com/lastborninthewilderness/eliot-jacobson-climate-data-doomerism-deceptive-expectations</guid>
                 
             </item>
         </channel>

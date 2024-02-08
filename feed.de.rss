@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 07 Feb 2024 04:20:55 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 08 Feb 2024 04:21:04 +0200</lastBuildDate>
             <item>
-                <title>Sonntagsimpuls -81- Vergnügen</title>
-                <description>&lt;p&gt;Die Zeiten sind weiterhin sehr herausfordernd und bringen uns ab und zu auch mal ins Wanken. Deswegen ist es wichtig, den Fokus auch auf das Schöne zu richten, auf das, was uns Vergnügen bereitet. 
-Meine Freundin Annette teilte gestern mit mir eine Übung, die schon ihre Mutter angewandt hat...
-Feed: https://anchor.fm/s/a4754b4/podcast/rss</description>
+                <title>Die Kraft der Vergebung</title>
+                <description>Die Kraft der Vergebung
+Feed: https://www.treffpunkt-leben.org/predigten/podcast_all.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/iris-ludolf/episodes/Sonntagsimpuls--81--Vergngen-e2fckqe</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/a4754b4/podcast/play/82252046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-5%2Fb5b8d5ed-be66-514a-1cf7-b3f9bc86f9ca.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/iris-ludolf/episodes/Sonntagsimpuls--81--Vergngen-e2fckqe</guid>
+                <link>http://www.treffpunkt-leben.org/predigten/download/04-02-2024_Die_Kraft_der_Vergebung.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.treffpunkt-leben.org/predigten/download/04-02-2024_Die_Kraft_der_Vergebung.mp3"/>
+                <guid>http://www.treffpunkt-leben.org/predigten/download/04-02-2024_Die_Kraft_der_Vergebung.mp3</guid>
                 
             </item><item>
-                <title>#234 Cowboy und Indianer, der Sohn als Eisprinzessin - was ist erlaubt und was nicht?</title>
-                <description>In vielen Kita und Kindergärten aber auch Familien wird heiß darüber diskutiert, was zu Fasching erlaubt ist und was nicht. Ist es ok, wenn das Kind als Indianer gehen möchte? Was ist, wenn mein Sohn als Elsa gehen will? Ich habe dazu meine eigene Meinung. Ich denke, Kinder sollten als der und die gehen dürfen, der sie sein wollen. Faschingsparty in der Kita ist keine Politsendung.....
-Feed: https://liebmannkira.podigee.io/feed/mp3</description>
+                <title>Wie wird der Februar, Wetterbauer Uebel?</title>
+                <description>Bleibt es so mild-nieselig, kommt noch einmal ein Schneewinter oder schneit schon der Frühling ins Land? Der 81-jährige Wetterbauer Rolf-Eckart Uebel aus dem Vogtland verrät es uns im Podcast.
+Feed: https://www.mdr.de/sachsenradio/podcast/wetter/audiogalerie-wetterbauer100-podcast.xml</description>
                 
                 
-                <link>https://liebmannkira.podigee.io/234-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1355309-m-bd4f99c11ff1f6684655ab8f2f9b01a5.mp3?source=feed"/>
-                <guid>https://liebmannkira.podigee.io/234-new-episode</guid>
+                <link>https://www.mdr.de/sachsenradio/podcast/wetter/audio-podcast-wetterbauer-uebel-februar-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/8/digas-8f0e5f58-62f4-4d58-a29f-b58b2b5d91e7-0a15de5e5053_8f.mp3"/>
+                <guid>https://www.mdr.de/sachsenradio/podcast/wetter/audio-podcast-wetterbauer-uebel-februar-100.html</guid>
                 
             </item>
         </channel>

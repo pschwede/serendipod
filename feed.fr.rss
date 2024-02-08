@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 07 Feb 2024 04:20:59 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 08 Feb 2024 04:21:17 +0200</lastBuildDate>
             <item>
-                <title>L&#39;horoscope du mercredi 7 février</title>
-                <description>Sagittaire profitez d&#39;engagements réfléchis aujourd&#39;hui.
-Feed: https://podcasts.tendanceouest.com/rss-podcast-71-horoscope</description>
+                <title>No Border #513#</title>
+                <description>Plus d&#39;info sur notre site
+Feed: https://podcast.pulsradio.com/NoBorder/podcast.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://medias.tendanceouest.com/podcasts/sons/3642-HOROS-240207.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/NoBorder/20240204/NoBorder_20240204.mp3"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Nicolas Altstaedt, pureté du son et chaleur du timbre</title>
-                <description>Nicolas Altstaedt, pureté du son et chaleur du timbre
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20332.xml</description>
+                <title>Fellini, l&#39;illusionniste 5/5 : Le dernier voyage (1983-1993)</title>
+                <description>Fellini, l&#39;illusionniste 5/5 : Le dernier voyage (1983-1993)
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14373.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/stars-du-classique/nicolas-altstaedt-purete-du-son-et-chaleur-du-timbre-2503598</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/f5f09236-d102-42d5-99f5-04cbb9f268d5/20332-06.02.2024-ITEMA_23639276-2023M49077S0262-21.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/stars-du-classique/nicolas-altstaedt-purete-du-son-et-chaleur-du-timbre-2503598</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/les-grandes-traversees/grande-traversee-fellini-5-le-dernier-voyage-19831993-6747946</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/99bada20-b26e-4e8b-b7ca-94297e2cc574/14373-15.12.2023-ITEMA_23568224-2023C49904E0189-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-grandes-traversees/grande-traversee-fellini-5-le-dernier-voyage-19831993-6747946</guid>
                 
             </item>
         </channel>
