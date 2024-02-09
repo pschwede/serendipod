@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 08 Feb 2024 04:21:04 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 09 Feb 2024 04:20:25 +0200</lastBuildDate>
             <item>
-                <title>Die Kraft der Vergebung</title>
-                <description>Die Kraft der Vergebung
-Feed: https://www.treffpunkt-leben.org/predigten/podcast_all.xml</description>
+                <title>Prompts - Wie sag ich&#39;s der KI?</title>
+                <description>&lt;p&gt;Wir sprechen mit Regina Schulz über Prompts. Damit sagt man der KI, was sie tun soll. Also geht es um die essentielle&lt;strong&gt; Fähigkeit, meine Eingabebefehle gekonnt zu formulieren. &lt;/strong&gt;Wie kann man die nötigen Skills erlangen und was muss beachtet werden? Tipps aus der Praxis hier im EduFunk.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Unsere Social Media Seite:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Twitter: https://twitter.com/edufunkDACH&lt;/p&gt;
+&lt;p&gt;Facebook: https://www.facebook.com/EduFunkDACH&lt;/p&gt;
+&lt;p&gt;Instagram: https://www...
+Feed: https://anchor.fm/s/d6469d4/podcast/rss</description>
                 
                 
-                <link>http://www.treffpunkt-leben.org/predigten/download/04-02-2024_Die_Kraft_der_Vergebung.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.treffpunkt-leben.org/predigten/download/04-02-2024_Die_Kraft_der_Vergebung.mp3"/>
-                <guid>http://www.treffpunkt-leben.org/predigten/download/04-02-2024_Die_Kraft_der_Vergebung.mp3</guid>
+                <link>https://podcasters.spotify.com/pod/show/edufunk/episodes/Prompts---Wie-sag-ichs-der-KI-e2f8sqn</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/d6469d4/podcast/play/82129175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-2%2F136aa04f-4d7b-77b4-4794-5a75ef68e938.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/edufunk/episodes/Prompts---Wie-sag-ichs-der-KI-e2f8sqn</guid>
                 
             </item><item>
-                <title>Wie wird der Februar, Wetterbauer Uebel?</title>
-                <description>Bleibt es so mild-nieselig, kommt noch einmal ein Schneewinter oder schneit schon der Frühling ins Land? Der 81-jährige Wetterbauer Rolf-Eckart Uebel aus dem Vogtland verrät es uns im Podcast.
-Feed: https://www.mdr.de/sachsenradio/podcast/wetter/audiogalerie-wetterbauer100-podcast.xml</description>
+                <title>Kühe, Schweine, Halbfinale!</title>
+                <description>Auch mit einer Woche zeitlichem Abstand können wir es noch kaum glauben: Unsere Fortuna steht im DfB-Pokal Halbfinale!
+Wir besprechen den Sieg auf St.Pauli dem Anlass entsprechend ausgiebig (Anfang). Den Rückblick auf Paderborn (01:39:30) und die Vorschau auf Elversberg (01:52:55) halten wir relativ knapp.
+Feed: https://aus-dem-exil.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.mdr.de/sachsenradio/podcast/wetter/audio-podcast-wetterbauer-uebel-februar-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/8/digas-8f0e5f58-62f4-4d58-a29f-b58b2b5d91e7-0a15de5e5053_8f.mp3"/>
-                <guid>https://www.mdr.de/sachsenradio/podcast/wetter/audio-podcast-wetterbauer-uebel-februar-100.html</guid>
+                <link>https://aus-dem-exil.podigee.io/158-kuehe-schweine-halbfinale</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1363805-m-a201eef99661b3739fcc60650945b019.mp3?source=feed"/>
+                <guid>https://aus-dem-exil.podigee.io/158-kuehe-schweine-halbfinale</guid>
                 
             </item>
         </channel>

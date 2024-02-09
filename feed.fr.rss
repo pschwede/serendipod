@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 08 Feb 2024 04:21:17 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 09 Feb 2024 04:20:28 +0200</lastBuildDate>
             <item>
-                <title>No Border #513#</title>
-                <description>Plus d&#39;info sur notre site
-Feed: https://podcast.pulsradio.com/NoBorder/podcast.xml</description>
+                <title>L&#39;horoscope du vendredi 9 février</title>
+                <description>Scorpion, des transformations s&#39;annoncent, soyez prêts !
+Feed: https://podcasts.tendanceouest.com/rss-podcast-71-horoscope</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/podcast.pulsradio.com/NoBorder/20240204/NoBorder_20240204.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://medias.tendanceouest.com/podcasts/sons/3646-HOROS-240209.mp3"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Fellini, l&#39;illusionniste 5/5 : Le dernier voyage (1983-1993)</title>
-                <description>Fellini, l&#39;illusionniste 5/5 : Le dernier voyage (1983-1993)
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14373.xml</description>
+                <title>EP39 : Switch Code : Michelle Bench [Melodic Techno]</title>
+                <description>Uncoded Radio Present Switch CodeMix by Michelle Bench Exclusive Mix. Website : https://www.uncoded-radio.comUncoded Radio 24/7 Non-stop Amazing Underground Music© 2024 Uncoded RadioPowered by Switch Entertainment
+Feed: https://feed.ausha.co/XZk2ruK25826</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-grandes-traversees/grande-traversee-fellini-5-le-dernier-voyage-19831993-6747946</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/99bada20-b26e-4e8b-b7ca-94297e2cc574/14373-15.12.2023-ITEMA_23568224-2023C49904E0189-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-grandes-traversees/grande-traversee-fellini-5-le-dernier-voyage-19831993-6747946</guid>
+                <link>https://podcast.ausha.co/uncoded-session-by-uncoded-radio/ep39-switch-code-michelle-bench-melodic-techno</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/7zpYvSQQeJ2M.mp3?t=1707077009"/>
+                <guid>https://podcast.ausha.co/uncoded-session-by-uncoded-radio/ep39-switch-code-michelle-bench-melodic-techno</guid>
                 
             </item>
         </channel>
