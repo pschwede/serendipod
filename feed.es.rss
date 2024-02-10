@@ -9,27 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 09 Feb 2024 04:20:32 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 10 Feb 2024 04:21:58 +0200</lastBuildDate>
             <item>
-                <title>PYM 49. Hazme un nuevo Peskito | Especial Extraterrestres</title>
-                <description>&amp;iquest;Otro especial? S&amp;iacute;, otro especial. Esta vez es un especial de otro planeta: &amp;iexcl;Especial Extraterrestres!
-Estas son nuestras secciones alienadas:
-Mildre nos trae un videojuego:
-00:12:47 - Galaxy Pass Station. 
-Seidon habla de un c&amp;oacute;mic:
-00:18:35 - X-O Manowar.
-Alecrombie recomienda una pel&amp;iacute;cula:
-00:27:05 - Nadie te salvar&amp;aacute; (No One Will Save You)
-Joy vuelve a las series coreanas:
-00:35:13 - Anomal&amp;iacute;as...
-Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
-                
-                
-                <link>https://www.ivoox.com/pym-49-hazme-nuevo-peskito-especial-audios-mp3_rf_121648683_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-49-hazme-nuevo-peskito-especial_mh_121648683_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/pym-49-hazme-nuevo-peskito-especial-audios-mp3_rf_121648683_1.html</guid>
-                
-            </item><item>
                 <title>Aborteras</title>
                 <description>En el estado de Morelos, a unos cien kilómetros de Ciudad de México, no hay aborto legal.  Las mujeres que pueden viajan a la capital a interrumpir embarazos de manera segura, pero la mayoría no tiene esa posibilidad. Un grupo de mujeres conocido como las divulvadoras apoya a las morelenses para que se realicen abortos seguros desde su casa...
 Feed: https://feeds.simplecast.com/bDacRxP4</description>
@@ -38,6 +19,16 @@ Feed: https://feeds.simplecast.com/bDacRxP4</description>
                 <link>https://asicomosuena.mx/asi-como-suena</link>
                 <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/2b3ff73a-9968-4604-8ea9-bf738f02d0e3/episodes/6b01214c-2b22-4fc6-85f9-c1fea501ab9f/audio/f87c452c-46a0-4330-a852-3191ed44a907/default_tc.mp3?aid=rss_feed&amp;feed=bDacRxP4"/>
                 <guid>https://asicomosuena.mx/asi-como-suena</guid>
+                
+            </item><item>
+                <title>A golpe de bit -  El futuro de las energías renovables - 09/02/24</title>
+                <description>El futuro de las energías renovables
+Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
+                
+                
+                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-energias-renovables/15963342/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15963342.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-energias-renovables/15963342/</guid>
                 
             </item>
         </channel>
