@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 11 Feb 2024 04:20:48 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 12 Feb 2024 04:21:11 +0200</lastBuildDate>
             <item>
-                <title>Redécouverte de la voix de Paulette : courage et résilience </title>
-                <description>Au-delà de la SLA
-Feed: https://feeds.acast.com/public/shows/5ff6d31c17e792372794adc0</description>
+                <title>[GRAND FORMAT] Charles III et Camilla, les amants terribles de Buckingham</title>
+                <description>Chaque lundi, découvrez nos saisons de &#34;A la folie, pas du tout&#34; version grand format ! Vous les avez adorés pour le meilleur... et pour le pire : Johnny Depp et Amber Heard, Marilyn Monroe et JFK ou encore Beyoncé et Jay-Z. Replongez-vous dans les folles histoires de ces couples qui ont marqué des générations et découvrez l&#39;envers du décor de la belle histoire.
+Découvrez les secrets méconnus d’un couple qui fait l’actualité : le couple royal Charles III et Camilla...
+Feed: https://feeds.megaphone.fm/BABA7112846821</description>
                 
                 
-                <link>https://shows.acast.com/restez-dans-le-flow/episodes/redecouverte-de-la-voix-de-paulette-courage-et-resilience</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5ff6d31c17e792372794adc0/e/658ae5545876d50017ab59c6/media.mp3"/>
-                <guid>https://shows.acast.com/restez-dans-le-flow/episodes/redecouverte-de-la-voix-de-paulette-courage-et-resilience</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA4784936241.mp3?updated=1706607518"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Pakistan : des élections sur fond de crise économique, sécuritaire et diplomatique</title>
-                <description>Pakistan : des élections sur fond de crise économique, sécuritaire et diplomatique
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13305.xml</description>
+                <title>Republik Kalakuta</title>
+                <description>
+Feed: https://www.rts.ch/couleur3/programmes/republik-kalakuta/podcast/?flux=rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/pakistan-des-elections-sur-fond-de-crise-economique-securitaire-et-diplomatique-4428846</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/6a9dd7c6-18f4-4f19-ab59-65a0d70ed842/13305-09.02.2024-ITEMA_23643000-2024C3305S0040-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/pakistan-des-elections-sur-fond-de-crise-economique-securitaire-et-diplomatique-4428846</guid>
+                <link>https://www.rts.ch/audio-podcast/2024/audio/republik-kalakuta-28398920.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/14677926/c1193450-dbd6-32b9-9044-0c76cc2a7b30.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2024/audio/republik-kalakuta-28398920.html</guid>
                 
             </item>
         </channel>

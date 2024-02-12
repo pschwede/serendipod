@@ -9,33 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 11 Feb 2024 04:20:51 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 12 Feb 2024 04:21:16 +0200</lastBuildDate>
             <item>
-                <title>Jazz en cadena: De Miles a Miles pasando por Ellington</title>
-                <description>Radio Jazznoend os invita en este nuevo programa a un viaje excitante y vertiginoso, un recorrido por buena parte de la historia del jazz, a través de veintiuna grabaciones de temas encadenados, unidos por circunstancias tan diversas como los músicos que intervienen en ellas, los temas registrados, sus compositores o productores...
-Feed: https://www.ivoox.com/podcast-jazznoend-radio_fg_f1136231_filtro_1.xml</description>
+                <title>Sicut luna perfecta - Sexta semana del Tempus Per Annum y un homenaje - 11/02/24</title>
+                <description>Sexta semana del Tempus Per Annum y un homenaje
+Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/jazz-cadena-de-miles-a-miles-pasando-audios-mp3_rf_122912372_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/jazz-cadena-de-miles-a-miles-pasando_mh_122912372_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/jazz-cadena-de-miles-a-miles-pasando-audios-mp3_rf_122912372_1.html</guid>
+                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/sexta-semana-del-tempus-per-annum-homenaje-11-02-24/15962302/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15962302.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/sexta-semana-del-tempus-per-annum-homenaje-11-02-24/15962302/</guid>
                 
             </item><item>
-                <title>Zorras y tractores [Jueves Digital 85]</title>
-                <description>&lt;p&gt;Jueves.Digital, noticias y debate de actualidad: https://jueves.digital/&lt;/p&gt;
-&lt;p&gt;#directo #noticias #actualidad&lt;/p&gt;
-&lt;p&gt;Secciones:&lt;/p&gt;
-&lt;p&gt;- Tema de la semana&lt;/p&gt;
-&lt;p&gt;- El chungo de la semana&lt;/p&gt;
-&lt;p&gt;- Cosas que hemos aprendido&lt;/p&gt;
-&lt;p&gt;- Cosas que hemos visto (cine / TV / streaming)&lt;/p&gt;
-&lt;p&gt;Invítanos a un café: https://ko-fi...
-Feed: https://anchor.fm/s/db171c/podcast/rss</description>
+                <title>Meditación para deportistas. Domina tu mente, domina el juego</title>
+                <description>Hoy te comparto esta meditación para deportistas. Tanto si realizas un deporte profesionalmente como si es tu hobby esta meditación te va a ayudar a superar los obstáculos mentales que vienen de la mano de practicar un deporte: pérdida de motivación, ansiedad o estrés de enfrentarte a un evento importante... ¡Esta meditación para deportistas te ayudará a dominar tu mente para que seas capaz de dominar el juego!
+Feed: https://feeds.megaphone.fm/METACON9908872634</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/juevesdigital/episodes/Zorras-y-tractores-Jueves-Digital-85-e2fhhm4</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/db171c/podcast/play/82412676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-8%2F366756981-44100-2-65b7bff517615.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/juevesdigital/episodes/Zorras-y-tractores-Jueves-Digital-85-e2fhhm4</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/45EC4A/op3.dev/e/traffic.megaphone.fm/METACON9100138499.mp3?updated=1707245249"/>
+                <guid></guid>
                 
             </item>
         </channel>
