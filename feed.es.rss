@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 12 Feb 2024 04:21:16 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 13 Feb 2024 04:20:15 +0200</lastBuildDate>
             <item>
-                <title>Sicut luna perfecta - Sexta semana del Tempus Per Annum y un homenaje - 11/02/24</title>
-                <description>Sexta semana del Tempus Per Annum y un homenaje
-Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
+                <title>VI Domingo del Tiempo Ordinario (B)</title>
+                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Marcos 1, 40-45. Gloria a ti, Señor. En aquel tiempo, se le acercó a Jesús un leproso para suplicarle de &amp;#8230;
+Feed: http://feed.quechilero.com/PalabraEspirituYVida</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/sexta-semana-del-tempus-per-annum-homenaje-11-02-24/15962302/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15962302.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/sexta-semana-del-tempus-per-annum-homenaje-11-02-24/15962302/</guid>
+                <link>https://diocesisdeescuintla.com/vi-domingo-del-tiempo-ordinario-b-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/12070/vi-domingo-del-tiempo-ordinario-b-2024.mp3"/>
+                <guid>https://diocesisdeescuintla.com/vi-domingo-del-tiempo-ordinario-b-2024/</guid>
                 
             </item><item>
-                <title>Meditación para deportistas. Domina tu mente, domina el juego</title>
-                <description>Hoy te comparto esta meditación para deportistas. Tanto si realizas un deporte profesionalmente como si es tu hobby esta meditación te va a ayudar a superar los obstáculos mentales que vienen de la mano de practicar un deporte: pérdida de motivación, ansiedad o estrés de enfrentarte a un evento importante... ¡Esta meditación para deportistas te ayudará a dominar tu mente para que seas capaz de dominar el juego!
-Feed: https://feeds.megaphone.fm/METACON9908872634</description>
+                <title>Long Play 12/02/2024</title>
+                <description>&lt;p&gt;&lt;/p&gt;
+Feed: https://feeds.feedburner.com/RipolletRadioLongPlay</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/45EC4A/op3.dev/e/traffic.megaphone.fm/METACON9100138499.mp3?updated=1707245249"/>
-                <guid></guid>
+                <link>https://ripolletradio.cat/2024/02/12/long-play-12-02-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/longplay/audios.ripolletradio.cat/2324/longplay/240212longplay.mp3"/>
+                <guid>https://ripolletradio.cat/2024/02/12/long-play-12-02-2024/</guid>
                 
             </item>
         </channel>
