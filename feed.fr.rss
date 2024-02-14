@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 13 Feb 2024 04:20:12 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 14 Feb 2024 04:21:16 +0200</lastBuildDate>
             <item>
-                <title>L&#39;outil qui fait gagner du temps et de l&#39;argent _ L&#39;EXPRESSO _ EP 11 _ RADIOBICHON</title>
-                <description>Anthony, notre expert en outillage, revient sur l&#39;un de ses derniers tests de la pause café : la fraiseuse à bois LF 724 S de la marque METABO. 
- 
-▷ S P O N S O R S D U J O U R 
- 
-Cette émission vous est proposée par La Taloche ...
-Feed: https://feeds.audiomeans.fr/feed/f8fc4dc7-11a6-48c5-8e8c-4dd2ac13ad8c.xml</description>
+                <title>Au milieu des ruines</title>
+                <description>&lt;p&gt;Si on te dit &#34;ruines&#34;, qu&#39;est-ce que ça t’évoque ?&lt;/p&gt;&lt;p&gt;Il n&#39;aura pas fallu plus à Julie &amp;amp; Mag que de se retrouver au milieu des ruines de la dernière exposition du Musée des Beaux-Arts de Lyon pour être inspirées ! &lt;/p&gt;&lt;p&gt;Pour en savoir plus, rdv dans une nouvelle émission d&#39;ESSENTIEL academy. &lt;/p&gt;
+Feed: https://feeds.captivate.fm/essentiel-radio-essentiel-academy/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/09693f7a-1c73-4604-824f-20360d24a1c4.mp3?_=1707205361"/>
-                <guid></guid>
+                <link>https://essentielradio.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/75405b6a-f8d7-4612-84cb-d6d8b428ac42/Julie-Mag-Les-ruines-pod.mp3"/>
+                <guid>https://essentielradio.com/</guid>
                 
             </item><item>
-                <title>Rage against the Machine</title>
-                <description>&lt;p&gt;Premier album du combo californien, auteur d&amp;#39;une véritable déflagration sonore au début des années 90. Ce mélange de rock, de hip-hop et de contestation politique est rentré dans la légende grâce au titre &amp;quot;Killing in the Name&amp;quot;.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Xavier Boscher est un musicien, guitariste, compositeur, peintre, auteur et podcaster français, il a enregistré plus de 500 titres sur plus de 50 albums. Il est également le fondateur de la plateforme pour musiciens Orfeo&amp;#39;lab...
-Feed: https://anchor.fm/s/cbd8cb6c/podcast/rss</description>
+                <title>Bonus : Lille 2024</title>
+                <description>Du 23 au 30 mai, l&#39;événement Lille 2024 (https://lille2024.beer/) réunira à Lille (59) des brasseuses et brasseurs de l&#39;Europe entière, à l&#39;occasion du 6e Forum des Brasseurs Européens et du 39e Congrès EBC. Rencontre avec Mathieu Schneider, directeur...
+Feed: https://feed.ausha.co/2B60pSpE9VOy</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/1jour1album/episodes/Rage-against-the-Machine-e2fde9l</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/cbd8cb6c/podcast/play/82278133/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-5%2F413bff19-7e7a-b5f1-8b6b-d959f94a8e5b.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/1jour1album/episodes/Rage-against-the-Machine-e2fde9l</guid>
+                <link>https://podcast.ausha.co/podcapsuleur/nouvel-episode-du-09-02-09-52</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bP8LhXEg5kWb.mp3?t=1707469016"/>
+                <guid>https://podcast.ausha.co/podcapsuleur/nouvel-episode-du-09-02-09-52</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 13 Feb 2024 04:20:15 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 14 Feb 2024 04:21:19 +0200</lastBuildDate>
             <item>
-                <title>VI Domingo del Tiempo Ordinario (B)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Marcos 1, 40-45. Gloria a ti, Señor. En aquel tiempo, se le acercó a Jesús un leproso para suplicarle de &amp;#8230;
-Feed: http://feed.quechilero.com/PalabraEspirituYVida</description>
+                <title>A golpe de bit - Día Mundial de la Radio - 13/02/24</title>
+                <description>Día Mundial de la Radio
+Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
                 
                 
-                <link>https://diocesisdeescuintla.com/vi-domingo-del-tiempo-ordinario-b-2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/12070/vi-domingo-del-tiempo-ordinario-b-2024.mp3"/>
-                <guid>https://diocesisdeescuintla.com/vi-domingo-del-tiempo-ordinario-b-2024/</guid>
+                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/dia-mundial-radio/15968482/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15968482.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/dia-mundial-radio/15968482/</guid>
                 
             </item><item>
-                <title>Long Play 12/02/2024</title>
-                <description>&lt;p&gt;&lt;/p&gt;
-Feed: https://feeds.feedburner.com/RipolletRadioLongPlay</description>
+                <title>Repaso Noticioso: jueves, 8 de febrero de 2024</title>
+                <description>Repaso Noticioso: jueves, 8 de febrero de 2024
+Feed: https://feeds.feedburner.com/RepasoNoticioso</description>
                 
                 
-                <link>https://ripolletradio.cat/2024/02/12/long-play-12-02-2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/longplay/audios.ripolletradio.cat/2324/longplay/240212longplay.mp3"/>
-                <guid>https://ripolletradio.cat/2024/02/12/long-play-12-02-2024/</guid>
+                <link>https://repasonoticioso.com/jueves-8-de-febrero-de-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://repasonoticioso.com/podlove/file/328/s/webplayer/RN_8febrero2024.mp3"/>
+                <guid>https://repasonoticioso.com/jueves-8-de-febrero-de-2024/</guid>
                 
             </item>
         </channel>
