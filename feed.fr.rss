@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 Feb 2024 04:21:16 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Feb 2024 04:21:28 +0200</lastBuildDate>
             <item>
-                <title>Au milieu des ruines</title>
-                <description>&lt;p&gt;Si on te dit &#34;ruines&#34;, qu&#39;est-ce que ça t’évoque ?&lt;/p&gt;&lt;p&gt;Il n&#39;aura pas fallu plus à Julie &amp;amp; Mag que de se retrouver au milieu des ruines de la dernière exposition du Musée des Beaux-Arts de Lyon pour être inspirées ! &lt;/p&gt;&lt;p&gt;Pour en savoir plus, rdv dans une nouvelle émission d&#39;ESSENTIEL academy. &lt;/p&gt;
-Feed: https://feeds.captivate.fm/essentiel-radio-essentiel-academy/</description>
+                <title>William Klein (1926-2022), l’image dans tous ses états</title>
+                <description>William Klein (1926-2022), l’image dans tous ses états
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10471.xml</description>
                 
                 
-                <link>https://essentielradio.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/75405b6a-f8d7-4612-84cb-d6d8b428ac42/Julie-Mag-Les-ruines-pod.mp3"/>
-                <guid>https://essentielradio.com/</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/toute-une-vie/william-klein-1926-2022-l-image-dans-tous-ses-etats-5727626</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/debcf48f-8664-48a3-bd54-4b7286de6888/10471-10.02.2024-ITEMA_23643987-2024C3330E0002-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/toute-une-vie/william-klein-1926-2022-l-image-dans-tous-ses-etats-5727626</guid>
                 
             </item><item>
-                <title>Bonus : Lille 2024</title>
-                <description>Du 23 au 30 mai, l&#39;événement Lille 2024 (https://lille2024.beer/) réunira à Lille (59) des brasseuses et brasseurs de l&#39;Europe entière, à l&#39;occasion du 6e Forum des Brasseurs Européens et du 39e Congrès EBC. Rencontre avec Mathieu Schneider, directeur...
-Feed: https://feed.ausha.co/2B60pSpE9VOy</description>
+                <title>Épisode 91 - Théo et les combattants dans les enluminures</title>
+                <description>Au XIIIème siècle, comment étaient représentés le…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:147058082/sounds.rss</description>
                 
                 
-                <link>https://podcast.ausha.co/podcapsuleur/nouvel-episode-du-09-02-09-52</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bP8LhXEg5kWb.mp3?t=1707469016"/>
-                <guid>https://podcast.ausha.co/podcapsuleur/nouvel-episode-du-09-02-09-52</guid>
+                <link>https://soundcloud.com/fannycomo/ep-91-theo-combattants</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1738690626-fannycomo-ep-91-theo-combattants.mp3"/>
+                <guid>https://soundcloud.com/fannycomo/ep-91-theo-combattants</guid>
                 
             </item>
         </channel>

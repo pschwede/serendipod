@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 Feb 2024 04:21:19 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Feb 2024 04:21:31 +0200</lastBuildDate>
             <item>
-                <title>A golpe de bit - Día Mundial de la Radio - 13/02/24</title>
-                <description>Día Mundial de la Radio
-Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
+                <title>Islas de Robinson - Ensueños a la luz de la luna - 12/02/24</title>
+                <description>Ensueños a la luz de la luna
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/dia-mundial-radio/15968482/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15968482.mp3"/>
-                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/dia-mundial-radio/15968482/</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/ensuenos-luz-luna-12-02-24/15965994/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15965994.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/ensuenos-luz-luna-12-02-24/15965994/</guid>
                 
             </item><item>
-                <title>Repaso Noticioso: jueves, 8 de febrero de 2024</title>
-                <description>Repaso Noticioso: jueves, 8 de febrero de 2024
-Feed: https://feeds.feedburner.com/RepasoNoticioso</description>
+                <title>English Listening - Super Bowl</title>
+                <description>Practice your English listening as I talk about the Super Bowl.
+Feed: https://feeds.megaphone.fm/SONORO7201496122</description>
                 
                 
-                <link>https://repasonoticioso.com/jueves-8-de-febrero-de-2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://repasonoticioso.com/podlove/file/328/s/webplayer/RN_8febrero2024.mp3"/>
-                <guid>https://repasonoticioso.com/jueves-8-de-febrero-de-2024/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/SONORO1381758740.mp3?updated=1706205241"/>
+                <guid></guid>
                 
             </item>
         </channel>

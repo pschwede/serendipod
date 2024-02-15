@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 Feb 2024 04:21:08 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Feb 2024 04:21:20 +0200</lastBuildDate>
             <item>
-                <title>Green Day - Basket Case</title>
-                <description>Billie Joe Armstrong of Green Day tells the story behind the song &#34;Basket Case.&#34;
-Feed: http://feed.songexploder.net/SongExploder</description>
+                <title>Radhi Devlukia-Shetty: Food Tips You Haven’t Heard Before + Understanding Ayurveda</title>
+                <description>Ayurveda has been around for over 3,000 years. It’s a deeply rooted, traditional system of Indian medicine that’s still a favored form of healthcare in large parts of the Eastern world.  It incorporates every single thing that you possibly...
+Feed: https://darinolien.libsyn.com/rss</description>
                 
                 
-                <link>https://songexploder.net/green-day</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/0af0c559-ce0d-472e-b406-1f029ca8b157/SongExploder267_GreenDay_1.mp3"/>
-                <guid>https://songexploder.net/green-day</guid>
+                <link>https://darinolien.libsyn.com/radhi-devlukia-shetty-food-tips-you-havent-heard-before-understanding-ayurveda</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/darinolien/Darin_Olien_-_Radhi_Devlukia_.mp3?dest-id=1834631"/>
+                <guid>https://darinolien.libsyn.com/radhi-devlukia-shetty-food-tips-you-havent-heard-before-understanding-ayurveda</guid>
                 
             </item><item>
-                <title>Inner Journey with Greg Friedman and guest Jeff Witzeman</title>
-                <description>Jeff Witzeman has been an actor, writer, and musician before launching his first film, Cancer Can Be Killed in 2017. He followed his debut film with a number of phenomenol offerings all with the intention of helping people along their paths. His films...
-Feed: https://www.spreaker.com/show/4221459/episodes/feed</description>
+                <title>Jeffrey Lacker on Governance at the Federal Reserve</title>
+                <description>Jeffrey Lacker is a former president of the Federal Reserve Bank of Richmond, where he served as its head from 2004 to 2017. Jeffrey is now a senior affiliated scholar at the Mercatus Center and is also a returning guest to the podcast. He rejoins...
+Feed: https://macromusings.libsyn.com/rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/inner-journey-with-greg-friedman-and-guest-jeff-witzeman--58491708</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/58491708/jeff_witzeman.mp3"/>
-                <guid>https://www.spreaker.com/episode/inner-journey-with-greg-friedman-and-guest-jeff-witzeman--58491708</guid>
+                <link>https://macromusings.libsyn.com/jeffrey-lacker-on-governance-at-the-federal-reserve</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/macromusings/MM-425-Jeff_Lacker-final.mp3?dest-id=865793"/>
+                <guid>https://macromusings.libsyn.com/jeffrey-lacker-on-governance-at-the-federal-reserve</guid>
                 
             </item>
         </channel>

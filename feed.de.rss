@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 Feb 2024 04:21:12 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Feb 2024 04:21:24 +0200</lastBuildDate>
             <item>
-                <title>ICH BIN, DER ICH BIN! I E2</title>
-                <description>&lt;p&gt;ICH BIN, DER ICH BIN! I E2&lt;/p&gt;
-
-Feed: https://anchor.fm/s/962c6f0/podcast/rss</description>
+                <title>Die Liste - S3 E5</title>
+                <description>Folge 54
+Feed: https://1d03z9a.podcaster.de/lonegunmenshow.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/vers-fuer-vers/episodes/ICH-BIN--DER-ICH-BIN--I-E2-e2fgbbj</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/962c6f0/podcast/play/82373427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-7%2F366643778-44100-2-d0f32f462cb2a.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/vers-fuer-vers/episodes/ICH-BIN--DER-ICH-BIN--I-E2-e2fgbbj</guid>
+                <link>http://1d03z9a.podcaster.de/download/LGMS_Folge_054.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://1d03z9a.podcaster.de/lonegunmenshow/media/LGMS_Folge_054.mp3"/>
+                <guid>http://1d03z9a.podcaster.de/download/LGMS_Folge_054.mp3</guid>
                 
             </item><item>
-                <title>#91 Frakturen bei wurzelkanalbehandelten Zähnen - Welche Therapiestrategien nutzen wir? - Teil 3</title>
-                <description>&lt;p&gt;In dieser Folge beantworten wir eine Hörerfrage zum Thema Zahninfraktionen und Zahnfrakturen. Da dieses Thema sehr bedeutsam ist haben wir 3 Teile daraus gemacht...
-Feed: https://anchor.fm/s/1c72b05c/podcast/rss</description>
+                <title>Belastendes und Unterstützendes Führungsverhalten</title>
+                <description>Der Start eines Mitarbeiters in einem Team ist oft von einer intrinsischen Motivation geprägt - die Begeisterung, neue Aufgaben anzugehen und zum Erfolg des Teams beizutragen, ist hoch.
+Feed: https://bgmpodcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/intradental/episodes/91-Frakturen-bei-wurzelkanalbehandelten-Zhnen---Welche-Therapiestrategien-nutzen-wir----Teil-3-e2fkool</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1c72b05c/podcast/play/82518229/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-11%2F8cbf798f-2d0f-bec9-2590-5da0b6bb4ef3.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/intradental/episodes/91-Frakturen-bei-wurzelkanalbehandelten-Zhnen---Welche-Therapiestrategien-nutzen-wir----Teil-3-e2fkool</guid>
+                <link>https://www.bgmpodcast.de/fuehrungsverhalten</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1358691-m-bfbff450ea7ad812ffd5c9e5f235bcad.mp3?source=feed"/>
+                <guid>https://www.bgmpodcast.de/fuehrungsverhalten</guid>
                 
             </item>
         </channel>
