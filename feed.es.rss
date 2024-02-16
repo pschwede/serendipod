@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 15 Feb 2024 04:21:31 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 16 Feb 2024 04:20:10 +0200</lastBuildDate>
             <item>
-                <title>Islas de Robinson - Ensueños a la luz de la luna - 12/02/24</title>
-                <description>Ensueños a la luz de la luna
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>Sons da Lusofonia 51 years after Amilcar Cabral</title>
+                <description>51 years after Amilcar Cabral dead
+Feed: https://feeds.simplecast.com/tYytQWte</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/ensuenos-luz-luna-12-02-24/15965994/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15965994.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/ensuenos-luz-luna-12-02-24/15965994/</guid>
+                <link>https://sons-da-lusofonia-lusophone-music.simplecast.com/episodes/sons-da-lusofonia-51-years-after-amilcar-cabral-8nngi_fz</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/56ae5372-bc7f-4285-94dc-f7e7044d0e0b/episodes/1f02cce2-71c2-4fc9-8f55-3711ef6c1f4e/audio/23060b24-f938-417e-924c-b52421bb438a/default_tc.mp3?aid=rss_feed&amp;feed=tYytQWte"/>
+                <guid>https://sons-da-lusofonia-lusophone-music.simplecast.com/episodes/sons-da-lusofonia-51-years-after-amilcar-cabral-8nngi_fz</guid>
                 
             </item><item>
-                <title>English Listening - Super Bowl</title>
-                <description>Practice your English listening as I talk about the Super Bowl.
-Feed: https://feeds.megaphone.fm/SONORO7201496122</description>
+                <title>Mundo pequeño 11/02/2024 23:05</title>
+                <description>La música para los más jóvenes tendrá un horario destacado los sábados por la noche con &amp;#8220;Mundo Pequeño&amp;#8221; y llevarán la voz inconfundible de Gloria Santoro.
+Feed: https://www.ivoox.com/mundo-pequeno_fg_f1251946_filtro_1.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/SONORO1381758740.mp3?updated=1706205241"/>
-                <guid></guid>
+                <link>https://www.ivoox.com/mundo-pequeno-11-02-2024-23-05-audios-mp3_rf_124092658_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/mundo-pequeno-11-02-2024-23-05_mh_124092658_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/mundo-pequeno-11-02-2024-23-05-audios-mp3_rf_124092658_1.html</guid>
                 
             </item>
         </channel>

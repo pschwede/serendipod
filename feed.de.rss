@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 15 Feb 2024 04:21:24 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 16 Feb 2024 04:20:04 +0200</lastBuildDate>
             <item>
-                <title>Die Liste - S3 E5</title>
-                <description>Folge 54
-Feed: https://1d03z9a.podcaster.de/lonegunmenshow.rss</description>
+                <title>Mailbag - Post an die Tennisproleten</title>
+                <description>In dieser Wochen gehen Tobi und Daniel auf einige der vielen Zuschriften ein, die die Tennisproleten erreicht haben. So gibt es u.a. einen kleinen Rückgriff auf die Australian Open und eine Einschätzung zur TV-Situation um den Davis Cup.
+Aber auch das Thema Rune/Becker fällt natürlich nicht hinten runter...
+Feed: https://1tpdhtb.podcaster.de/tennisproleten.rss</description>
                 
                 
-                <link>http://1d03z9a.podcaster.de/download/LGMS_Folge_054.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://1d03z9a.podcaster.de/lonegunmenshow/media/LGMS_Folge_054.mp3"/>
-                <guid>http://1d03z9a.podcaster.de/download/LGMS_Folge_054.mp3</guid>
+                <link>https://1tpdhtb.podcaster.de/tennisproleten/media/tennisproleten_folge_257.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://1tpdhtb.podcaster.de/tennisproleten/media/tennisproleten_folge_257.mp3"/>
+                <guid>https://1tpdhtb.podcaster.de/tennisproleten/media/tennisproleten_folge_257.mp3</guid>
                 
             </item><item>
-                <title>Belastendes und Unterstützendes Führungsverhalten</title>
-                <description>Der Start eines Mitarbeiters in einem Team ist oft von einer intrinsischen Motivation geprägt - die Begeisterung, neue Aufgaben anzugehen und zum Erfolg des Teams beizutragen, ist hoch.
-Feed: https://bgmpodcast.podigee.io/feed/mp3</description>
+                <title>Krafttraining zuhause effektiv?</title>
+                <description>Krafttraining zuhause vs. im Studio
+Feed: https://mareike-spaleck.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.bgmpodcast.de/fuehrungsverhalten</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1358691-m-bfbff450ea7ad812ffd5c9e5f235bcad.mp3?source=feed"/>
-                <guid>https://www.bgmpodcast.de/fuehrungsverhalten</guid>
+                <link>https://mareike-spaleck.podigee.io/132-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1367918-m-3872a18774eddedd52b84d5ceddf8cc8.mp3?source=feed"/>
+                <guid>https://mareike-spaleck.podigee.io/132-neue-episode</guid>
                 
             </item>
         </channel>
