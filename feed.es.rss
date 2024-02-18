@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 16 Feb 2024 04:20:10 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 18 Feb 2024 04:20:13 +0200</lastBuildDate>
             <item>
+                <title>Underground Garage: Little Steven y el Día de San Valentín más negro</title>
+                <description>
+Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
+                
+                
+                <link>https://www.rockfm.fm/audios/underground-garage-little-steven-dia-san-valentin-mas-negro-20240215_2468800</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rockfm-cdnmed.rockfm.fm/resources/mp3/6/0/1707738394206.mp3"/>
+                <guid>https://www.rockfm.fm/audios/underground-garage-little-steven-dia-san-valentin-mas-negro-20240215_2468800</guid>
+                
+            </item><item>
                 <title>Sons da Lusofonia 51 years after Amilcar Cabral</title>
                 <description>51 years after Amilcar Cabral dead
 Feed: https://feeds.simplecast.com/tYytQWte</description>
@@ -19,16 +29,6 @@ Feed: https://feeds.simplecast.com/tYytQWte</description>
                 <link>https://sons-da-lusofonia-lusophone-music.simplecast.com/episodes/sons-da-lusofonia-51-years-after-amilcar-cabral-8nngi_fz</link>
                 <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/56ae5372-bc7f-4285-94dc-f7e7044d0e0b/episodes/1f02cce2-71c2-4fc9-8f55-3711ef6c1f4e/audio/23060b24-f938-417e-924c-b52421bb438a/default_tc.mp3?aid=rss_feed&amp;feed=tYytQWte"/>
                 <guid>https://sons-da-lusofonia-lusophone-music.simplecast.com/episodes/sons-da-lusofonia-51-years-after-amilcar-cabral-8nngi_fz</guid>
-                
-            </item><item>
-                <title>Mundo pequeño 11/02/2024 23:05</title>
-                <description>La música para los más jóvenes tendrá un horario destacado los sábados por la noche con &amp;#8220;Mundo Pequeño&amp;#8221; y llevarán la voz inconfundible de Gloria Santoro.
-Feed: https://www.ivoox.com/mundo-pequeno_fg_f1251946_filtro_1.xml</description>
-                
-                
-                <link>https://www.ivoox.com/mundo-pequeno-11-02-2024-23-05-audios-mp3_rf_124092658_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/mundo-pequeno-11-02-2024-23-05_mh_124092658_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/mundo-pequeno-11-02-2024-23-05-audios-mp3_rf_124092658_1.html</guid>
                 
             </item>
         </channel>

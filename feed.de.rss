@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 16 Feb 2024 04:20:04 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 18 Feb 2024 04:20:07 +0200</lastBuildDate>
             <item>
-                <title>Mailbag - Post an die Tennisproleten</title>
-                <description>In dieser Wochen gehen Tobi und Daniel auf einige der vielen Zuschriften ein, die die Tennisproleten erreicht haben. So gibt es u.a. einen kleinen Rückgriff auf die Australian Open und eine Einschätzung zur TV-Situation um den Davis Cup.
-Aber auch das Thema Rune/Becker fällt natürlich nicht hinten runter...
-Feed: https://1tpdhtb.podcaster.de/tennisproleten.rss</description>
+                <title>KI-Bubble oder NVIDA bald auf 1.000$?</title>
+                <description>Kleiner Verfall am Terminmarkt
+Feed: https://hotbets.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://1tpdhtb.podcaster.de/tennisproleten/media/tennisproleten_folge_257.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://1tpdhtb.podcaster.de/tennisproleten/media/tennisproleten_folge_257.mp3"/>
-                <guid>https://1tpdhtb.podcaster.de/tennisproleten/media/tennisproleten_folge_257.mp3</guid>
+                <link>https://hotbets.podigee.io/612-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1373161-m-6517db7f7c05c44787f74cc18bf9ddc0.mp3?source=feed"/>
+                <guid>https://hotbets.podigee.io/612-new-episode</guid>
                 
             </item><item>
-                <title>Krafttraining zuhause effektiv?</title>
-                <description>Krafttraining zuhause vs. im Studio
-Feed: https://mareike-spaleck.podigee.io/feed/mp3</description>
+                <title>#15 Escort Business</title>
+                <description>Herzlich willkommen zu unserem Podcast, wo wir euch die ungeschminkte Realität des Unternehmertums servieren! Diese Woche nehmen wir euch mit hinter die Kulissen der Erstellung einer Escort-Webseite - einem unserer wildesten und kompromissbereitesten...
+Feed: https://online-marketing-werk.libsyn.com/rss</description>
                 
                 
-                <link>https://mareike-spaleck.podigee.io/132-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1367918-m-3872a18774eddedd52b84d5ceddf8cc8.mp3?source=feed"/>
-                <guid>https://mareike-spaleck.podigee.io/132-neue-episode</guid>
+                <link>https://online-marketing-werk.libsyn.com/15-escort-business</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/online-marketing-werk/video-output-33C710BF-E0B5-43BB-81F3-D9D901393253.mp3?dest-id=2094674"/>
+                <guid>https://online-marketing-werk.libsyn.com/15-escort-business</guid>
                 
             </item>
         </channel>
