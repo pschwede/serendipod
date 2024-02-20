@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 19 Feb 2024 04:21:19 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 20 Feb 2024 04:22:28 +0200</lastBuildDate>
             <item>
-                <title>Popcast (Deluxe): Usher, Beyoncé and Ye Lead a Busy Week in Pop</title>
-                <description>Recapping the Super Bowl halftime show, two new singles from Beyoncé, Ye’s “Vultures 1” album and more.
-Feed: https://feeds.simplecast.com/W1rB_kgL</description>
+                <title>Onyx The Fortuitous Director, Andrew Bowser</title>
+                <description>&lt;p&gt;Today we have the Director of Onyx the Fortuitous, Andrew Bowser. Onyx the Fortuitous is a blast of a movie, now streaming on Screambox and one of the things I liked most about it is 1, it had really awesome practical creature effects from Adam KreatureKid Doughterty, but two, it was such a unique vision of a movie that was cast straight from Andrew&#39;s skull...
+Feed: https://feeds.captivate.fm/the-nick-taylor-horror/</description>
                 
                 
-                <link>https://www.nytimes.com/column/popcast-pop-music-podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/9257fd86-22fe-4866-89a9-12c73a57a552/episodes/d0ed1bc9-e293-4878-8ba5-6a2d24a4cc63/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=9257fd86-22fe-4866-89a9-12c73a57a552&amp;awEpisodeId=d0ed1bc9-e293-4878-8ba5-6a2d24a4cc63&amp;feed=W1rB_kgL"/>
-                <guid>https://www.nytimes.com/column/popcast-pop-music-podcast</guid>
+                <link>https://nicktaylor.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/b4d37309-a44c-457b-9c79-c9939bb81607/NTHS-Onyx-the-Fortuitous.mp3"/>
+                <guid>https://nicktaylor.com/</guid>
                 
             </item><item>
-                <title>Speed of Sound 0234</title>
-                <description>Andrew Martin presents the Speed of Sound Radio Show.
-Feed: https://rss.syndicloud.net/</description>
+                <title>2024 Franz Edelman Award finalist: McDonald&#39;s China</title>
+                <description>Welcome back to Resoundingly Human, the podcast brought to you by INFORMS, the leading association for professionals and students who apply science, math, technology, and analytics to make smarter decisions for a better world.  I’m your host...
+Feed: https://informs.libsyn.com/rss</description>
                 
                 
-                <link>https://www.mixcloud.com/djandrewmartin/speed-of-sound-radio-show-0234</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.syndicloud.net/media/Speed_of_Sound_0234.mp3"/>
-                <guid>https://www.mixcloud.com/djandrewmartin/speed-of-sound-radio-show-0234</guid>
+                <link>https://informs.libsyn.com/2024-franz-edelman-award-finalist-mcdonalds-china</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/informs/Feb2024_Edelman_McDonalds_China.mp3?dest-id=732069"/>
+                <guid>https://informs.libsyn.com/2024-franz-edelman-award-finalist-mcdonalds-china</guid>
                 
             </item>
         </channel>

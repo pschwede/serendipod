@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 19 Feb 2024 04:20:54 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 20 Feb 2024 04:22:12 +0200</lastBuildDate>
             <item>
-                <title>(Almost) Smooth Jazz Weekend w/Tina E.</title>
-                <description>Indie Jazz &amp; More!
-Feed: https://feeds.acast.com/public/shows/63bef68065ae3d0011aa5ff4</description>
+                <title>Ear Hustle Extra: A Sneak Peek at &#34;Cellies, with Commentary&#34;</title>
+                <description>Nigel and Earlonne look back at their first episode.
+Feed: http://feeds.earhustlesq.com/earhustlesq</description>
                 
                 
-                <link>https://shows.acast.com/63bef68065ae3d0011aa5ff4/episodes/65ce5214ba642d00170030ec</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63bef68065ae3d0011aa5ff4/e/65ce5214ba642d00170030ec/media.mp3"/>
-                <guid>https://shows.acast.com/63bef68065ae3d0011aa5ff4/episodes/65ce5214ba642d00170030ec</guid>
+                <link>https://play.prx.org/listen?ge=prx_59_334b0121-4acc-48eb-9aef-7b20290f3d68&amp;uf=http%3A%2F%2Ffeeds.earhustlesq.com%2Fearhustlesq</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/59/334b0121-4acc-48eb-9aef-7b20290f3d68/241304_EH_PLUS_CELLIES_TEASER_FINAL_16.mp3"/>
+                <guid>https://play.prx.org/listen?ge=prx_59_334b0121-4acc-48eb-9aef-7b20290f3d68&amp;uf=http%3A%2F%2Ffeeds.earhustlesq.com%2Fearhustlesq</guid>
                 
             </item><item>
-                <title>RAY OF LIGHT</title>
-                <description>This week: Jen talks about how (and why) this is the closing/final episode of “No Fun” and why there was no penultimate episode last week…being radicalized for Madonna but not seeing her concert, honest truths about 2023 revisiting old thought patterns, and finally the podcast ended as it began - with a passion for needing to do it! 
-Sign up for a 7-day free trial of Patreon and get full length, ad-free episodes for $1.99 per month: 
-https://tinyurl...
-Feed: https://rss.art19.com/no-fun-with-jen-kirkman</description>
+                <title>Susan Steiner, Author and Human Design Coach</title>
+                <description>&lt;p&gt;Welcome back, friends, to our podcast, unlocking your world of creativity. &lt;/p&gt;&lt;p&gt;In our globetrotting adventures, today we&#39;re in Zurich, Switzerland, chatting with the multi-talented Susan Steiner. &lt;/p&gt;&lt;p&gt;Susan&#39;s Website &lt;/p&gt;&lt;p&gt;Susan&#39;s Facebook page &lt;/p&gt;&lt;p&gt;She&#39;s not just an author but also a human design aficionado, executive coach, grandmother, and more. Our conversation dives into the intriguing intersection of her diverse roles and her unique approach to creativity...
+Feed: https://feeds.captivate.fm/markstinson/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/cec96ef9-a7ae-4363-bef0-c57170e7207f.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://markstinson.captivate.fm/episode/susan-steiner-author-and-human-design-coach</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/9FFEA5/podcasts.captivate.fm/media/dd08c25a-ce23-4fb7-a9a4-5ed2ab54d721/Woc-304-Susan-S-final-mixdown.mp3"/>
+                <guid>https://markstinson.captivate.fm/episode/susan-steiner-author-and-human-design-coach</guid>
                 
             </item>
         </channel>
