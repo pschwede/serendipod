@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 20 Feb 2024 04:22:22 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 22 Feb 2024 04:20:01 +0200</lastBuildDate>
             <item>
-                <title>2024-02-17 Flafri</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>Documentos RNE - &#34;Luis Rosales, el poeta de la nieve encendida&#34; - 16/02/24</title>
+                <description>&#34;Luis Rosales, el poeta de la nieve encendida&#34;
+Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2024-02-17Flafri.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/documentos-rne/luis-rosales-poeta-nieve-encendida-16-02-24/15974153/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15974153.mp3"/>
+                <guid>https://www.rtve.es/play/audios/documentos-rne/luis-rosales-poeta-nieve-encendida-16-02-24/15974153/</guid>
                 
             </item><item>
-                <title>¿Lo sabía?</title>
-                <description>wS MP3 Abril de 2024 - 06
-Feed: https://apps.jw.org/E_sFFZRQVNZNT?rln=S&amp;rmn=w&amp;rfm=mp3</description>
+                <title>Sons da Lusofonia 51 years after Amilcar Cabral</title>
+                <description>51 years after Amilcar Cabral dead
+Feed: https://feeds.simplecast.com/tYytQWte</description>
                 
                 
-                <link>https://d34ji3l0qn3w2t.cloudfront.net/534d039a-4969-4348-b563-16a27184f8d0/2/w_S_202404_06.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://d34ji3l0qn3w2t.cloudfront.net/534d039a-4969-4348-b563-16a27184f8d0/2/w_S_202404_06.mp3"/>
-                <guid>https://d34ji3l0qn3w2t.cloudfront.net/534d039a-4969-4348-b563-16a27184f8d0/2/w_S_202404_06.mp3</guid>
+                <link>https://sons-da-lusofonia-lusophone-music.simplecast.com/episodes/sons-da-lusofonia-51-years-after-amilcar-cabral-8nngi_fz</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/56ae5372-bc7f-4285-94dc-f7e7044d0e0b/episodes/1f02cce2-71c2-4fc9-8f55-3711ef6c1f4e/audio/23060b24-f938-417e-924c-b52421bb438a/default_tc.mp3?aid=rss_feed&amp;feed=tYytQWte"/>
+                <guid>https://sons-da-lusofonia-lusophone-music.simplecast.com/episodes/sons-da-lusofonia-51-years-after-amilcar-cabral-8nngi_fz</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 20 Feb 2024 04:22:15 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 22 Feb 2024 04:19:52 +0200</lastBuildDate>
             <item>
-                <title>6 Anzeichen, dass aus deinem Date nicht mehr wird</title>
-                <description>Wann du dir nicht zu viele Hoffnungen machen solltest
-Feed: https://couchgefluester.podigee.io/feed/mp3</description>
+                <title>Die heilsame Gelassenheit der Mission erleben / Pastor Christoph Otterbach</title>
+                <description>
+Predigt vom 18.02.2024
+Pastor Christoph Otterbach
+  
+Bibeltext: Johannes 20, 21 
+Link zur Predigt: https://1aj5r4k.podcaster.de/predigt/media/20240218.mp3
+
+Feed: https://1aj5r4k.podcaster.de/predigt.rss</description>
                 
                 
-                <link>https://couchgefluester.podigee.io/225-anzeichen-dass-aus-deinem-date-nicht-mehr-wird</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1374709-m-ce5164e1a0600e56b5390fb126ebaf4c.mp3?source=feed"/>
-                <guid>https://couchgefluester.podigee.io/225-anzeichen-dass-aus-deinem-date-nicht-mehr-wird</guid>
+                <link>https://1aj5r4k.podcaster.de/predigt/media/20240218.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://1aj5r4k.podcaster.de/predigt/media/20240218.mp3"/>
+                <guid>https://1aj5r4k.podcaster.de/predigt/media/20240218.mp3</guid>
                 
             </item><item>
-                <title>Verträge, AGBs, SLAs – IT-Berufe-Podcast #184</title>
-                <description>Um alles rund um Verträge als Vorbereitung auf die AP1 geht es in der einhundertvierundachzigsten Episode des IT-Berufe-Podcasts. Inhalt Für die AP1 ist es sinnvoll, einige grundsätzliche Vertragsarten zu kennen und unterscheiden zu können.
-Feed: https://it-berufe-podcast.de//feed/podcast</description>
+                <title>Max Strohe: Koch mich!</title>
+                <description>Hühner dieser Welt, fürchtet euch! Sternekoch Max Strohe und Krömer treffen heute mit Bombenstimmung aufeinander. Diesmal werden Trüffel gehobelt, ohne Rücksicht auf Verluste. Denn aus Hackepeter wird (pardon!) Kacke später. Und lecker ist kein Schimpfwort. Diese Folge ist wie eine Tour mit dem E-Roller auf der Route 66: Es geht um Luxus-Allergien, evangelisches Kochen, Krömers Lieblingsbuchstaben und Pfeifen auf zwei Fingern...
+Feed: https://rss.art19.com/kurt-kromer-feelings</description>
                 
                 
-                <link>https://it-berufe-podcast.de/vertraege-agbs-slas-it-berufe-podcast-184/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://s3.eu-central-1.amazonaws.com/fiae/Podcast/IT-Berufe-Podcast_184_-_Vertraege_AGBs_SLAs.mp3"/>
-                <guid>https://it-berufe-podcast.de/vertraege-agbs-slas-it-berufe-podcast-184/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/9EE2G/rss.art19.com/episodes/279347c1-f077-4c61-955f-34400903af5b.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item>
         </channel>

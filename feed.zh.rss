@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 20 Feb 2024 04:22:28 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 22 Feb 2024 04:20:19 +0200</lastBuildDate>
             <item>
-                <title>Onyx The Fortuitous Director, Andrew Bowser</title>
-                <description>&lt;p&gt;Today we have the Director of Onyx the Fortuitous, Andrew Bowser. Onyx the Fortuitous is a blast of a movie, now streaming on Screambox and one of the things I liked most about it is 1, it had really awesome practical creature effects from Adam KreatureKid Doughterty, but two, it was such a unique vision of a movie that was cast straight from Andrew&#39;s skull...
-Feed: https://feeds.captivate.fm/the-nick-taylor-horror/</description>
+                <title>Amb. David Satterfield: Humanitarian Aid in Gaza</title>
+                <description>This week on Babel, Jon Alterman speaks with Amb. David Satterfield about the crisis in Gaza, the challenges of getting aid to civilians, and the role of humanitarian assistance in ending the conflict. 
+Feed: https://feeds.megaphone.fm/CSIS1853412217</description>
                 
                 
-                <link>https://nicktaylor.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/b4d37309-a44c-457b-9c79-c9939bb81607/NTHS-Onyx-the-Fortuitous.mp3"/>
-                <guid>https://nicktaylor.com/</guid>
+                <link>https://www.csis.org/podcasts/babel-translating-middle-east</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/CSIS6889211020.mp3?updated=1708464278"/>
+                <guid>https://www.csis.org/podcasts/babel-translating-middle-east</guid>
                 
             </item><item>
-                <title>2024 Franz Edelman Award finalist: McDonald&#39;s China</title>
-                <description>Welcome back to Resoundingly Human, the podcast brought to you by INFORMS, the leading association for professionals and students who apply science, math, technology, and analytics to make smarter decisions for a better world.  I’m your host...
-Feed: https://informs.libsyn.com/rss</description>
+                <title>Episode 140: A History of Earth&#39;s Climate</title>
+                <description>A journey through the history of Earth&#39;s changing climate, in which we explore how Earth&#39;s climate has fluctuated over the past billion years. After reviewing the various temperature proxies used to estimate past climactic conditions, we discuss the ...
+Feed: https://www.thescienceofeverything.net/feed.xml</description>
                 
                 
-                <link>https://informs.libsyn.com/2024-franz-edelman-award-finalist-mcdonalds-china</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/informs/Feb2024_Edelman_McDonalds_China.mp3?dest-id=732069"/>
-                <guid>https://informs.libsyn.com/2024-franz-edelman-award-finalist-mcdonalds-china</guid>
+                <link>https://www.thescienceofeverything.net/e/episode-140-a-history-of-earths-climate/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/dknnve/Episode_140_-_History_of_Earth_s_Climateblf3u.mp3"/>
+                <guid>https://www.thescienceofeverything.net/e/episode-140-a-history-of-earths-climate/</guid>
                 
             </item>
         </channel>
