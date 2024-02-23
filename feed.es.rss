@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 22 Feb 2024 04:20:01 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 23 Feb 2024 04:19:47 +0200</lastBuildDate>
             <item>
-                <title>Documentos RNE - &#34;Luis Rosales, el poeta de la nieve encendida&#34; - 16/02/24</title>
-                <description>&#34;Luis Rosales, el poeta de la nieve encendida&#34;
-Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
+                <title>194- Old Time Country Shots (10 Febrero 2024)</title>
+                <description>Muy buenas amigos, seguimos viajando al pasado de la m&amp;uacute;sica country en mi m&amp;aacute;quina del tiempo, con la entrega n&amp;ordm; 194 de Old Time Country Shots.
+Espero que disfrut&amp;eacute;is con estos sonidos a&amp;ntilde;ejos, os dejo los enlaces al podcast y poder escucharlo cuando mejor os venga.
+Muchas gracias a todos.....
+Feed: https://www.ivoox.com/podcast-old-time-country-shots_fg_f1151964_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/documentos-rne/luis-rosales-poeta-nieve-encendida-16-02-24/15974153/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15974153.mp3"/>
-                <guid>https://www.rtve.es/play/audios/documentos-rne/luis-rosales-poeta-nieve-encendida-16-02-24/15974153/</guid>
+                <link>https://www.ivoox.com/194-old-time-country-shots-10-febrero-2024-audios-mp3_rf_123977821_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/194-old-time-country-shots-10-febrero-2024_mh_123977821_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/194-old-time-country-shots-10-febrero-2024-audios-mp3_rf_123977821_1.html</guid>
                 
             </item><item>
-                <title>Sons da Lusofonia 51 years after Amilcar Cabral</title>
-                <description>51 years after Amilcar Cabral dead
-Feed: https://feeds.simplecast.com/tYytQWte</description>
+                <title>Sapiens - Educa tu cerebro. Con David Bueno - 17/02/24</title>
+                <description>Educa tu cerebro. Con David Bueno
+Feed: http://www.rtve.es/api/programas/128073/audios.rss</description>
                 
                 
-                <link>https://sons-da-lusofonia-lusophone-music.simplecast.com/episodes/sons-da-lusofonia-51-years-after-amilcar-cabral-8nngi_fz</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/56ae5372-bc7f-4285-94dc-f7e7044d0e0b/episodes/1f02cce2-71c2-4fc9-8f55-3711ef6c1f4e/audio/23060b24-f938-417e-924c-b52421bb438a/default_tc.mp3?aid=rss_feed&amp;feed=tYytQWte"/>
-                <guid>https://sons-da-lusofonia-lusophone-music.simplecast.com/episodes/sons-da-lusofonia-51-years-after-amilcar-cabral-8nngi_fz</guid>
+                <link>https://www.rtve.es/play/audios/sapiens/educa-tu-cerebro-david-bueno-17-02-24/15974393/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15974393.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sapiens/educa-tu-cerebro-david-bueno-17-02-24/15974393/</guid>
                 
             </item>
         </channel>

@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 22 Feb 2024 04:19:52 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 23 Feb 2024 04:19:41 +0200</lastBuildDate>
             <item>
-                <title>Die heilsame Gelassenheit der Mission erleben / Pastor Christoph Otterbach</title>
-                <description>
-Predigt vom 18.02.2024
-Pastor Christoph Otterbach
-  
-Bibeltext: Johannes 20, 21 
-Link zur Predigt: https://1aj5r4k.podcaster.de/predigt/media/20240218.mp3
-
-Feed: https://1aj5r4k.podcaster.de/predigt.rss</description>
+                <title>Sailormoon hat mich weit gebracht</title>
+                <description>Erste Ausgabe - Annelie und Philipp diskutieren Nürnberger Haltestellen, Astroquasch, Einmachen und zweite Teile.
+Feed: https://wurstius-kaeslin.de/feed/mp3/</description>
                 
                 
-                <link>https://1aj5r4k.podcaster.de/predigt/media/20240218.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://1aj5r4k.podcaster.de/predigt/media/20240218.mp3"/>
-                <guid>https://1aj5r4k.podcaster.de/predigt/media/20240218.mp3</guid>
+                <link>https://www.wurstius-kaeslin.de/2024/02/17/sailormoon-hat-mich-weit-gebracht/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wurstius-kaeslin.de/podlove/file/2/s/feed/c/mp3/001.mp3"/>
+                <guid>https://www.wurstius-kaeslin.de/2024/02/17/sailormoon-hat-mich-weit-gebracht/</guid>
                 
             </item><item>
-                <title>Max Strohe: Koch mich!</title>
-                <description>Hühner dieser Welt, fürchtet euch! Sternekoch Max Strohe und Krömer treffen heute mit Bombenstimmung aufeinander. Diesmal werden Trüffel gehobelt, ohne Rücksicht auf Verluste. Denn aus Hackepeter wird (pardon!) Kacke später. Und lecker ist kein Schimpfwort. Diese Folge ist wie eine Tour mit dem E-Roller auf der Route 66: Es geht um Luxus-Allergien, evangelisches Kochen, Krömers Lieblingsbuchstaben und Pfeifen auf zwei Fingern...
-Feed: https://rss.art19.com/kurt-kromer-feelings</description>
+                <title>Bratwurst-Ranking</title>
+                <description>Sie gehört zu den nicht mehr wegzudenkenden Klassikern der Fußballstadien - die Bratwurst. Doch wo schmeckt sie eigentlich am besten? Unsere Reporter Leon, Nico, Marci und Maci wollten´s genauer wissen und haben sich auf die Suche nach Bayerns leckerster Stadionwurst gemacht.
+Feed: https://rabbitradio.de/feed/mp3/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/9EE2G/rss.art19.com/episodes/279347c1-f077-4c61-955f-34400903af5b.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://rabbitradio.de/highlights/bratwurst-ranking/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rabbitradio.de/podlove/file/221/s/feed/c/mp3/240125_Bratwurst_FINALMP.mp3"/>
+                <guid>https://rabbitradio.de/highlights/bratwurst-ranking/</guid>
                 
             </item>
         </channel>
