@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 23 Feb 2024 04:19:41 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 25 Feb 2024 04:21:29 +0200</lastBuildDate>
             <item>
-                <title>Sailormoon hat mich weit gebracht</title>
-                <description>Erste Ausgabe - Annelie und Philipp diskutieren Nürnberger Haltestellen, Astroquasch, Einmachen und zweite Teile.
-Feed: https://wurstius-kaeslin.de/feed/mp3/</description>
+                <title>148 - Alles über Boris</title>
+                <description>und die Zeitansage
+Feed: https://belebu.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.wurstius-kaeslin.de/2024/02/17/sailormoon-hat-mich-weit-gebracht/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wurstius-kaeslin.de/podlove/file/2/s/feed/c/mp3/001.mp3"/>
-                <guid>https://www.wurstius-kaeslin.de/2024/02/17/sailormoon-hat-mich-weit-gebracht/</guid>
+                <link>https://belebu.podigee.io/148-boris</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1380271-m-a066f558e3d8746572505eb145a57067.mp3?source=feed"/>
+                <guid>https://belebu.podigee.io/148-boris</guid>
                 
             </item><item>
-                <title>Bratwurst-Ranking</title>
-                <description>Sie gehört zu den nicht mehr wegzudenkenden Klassikern der Fußballstadien - die Bratwurst. Doch wo schmeckt sie eigentlich am besten? Unsere Reporter Leon, Nico, Marci und Maci wollten´s genauer wissen und haben sich auf die Suche nach Bayerns leckerster Stadionwurst gemacht.
-Feed: https://rabbitradio.de/feed/mp3/</description>
+                <title>Marquez oder Bagnaia - wer holt sich den Titel? | Saisonvorschau</title>
+                <description>Willkommen zur Moto GP Saison 2024!
+Es geht langsam in die heiße Phase. Die Tests sind abgeschlossen und wir sind kurz vor dem ersten Rennen.
+Selbes gilt für uns: Die Vorbereitungen für unsere neuen Moto GP Serie sind erfolgreich gewesen und wir können euch die erste Folge präsentieren.
+Dabei besprechen wir die aktuelle Lage rund um die Moto GP und gehen kurz die Hersteller, Teams, Fahrer und Rennstrecken durch...
+Feed: https://meinsportpodcast.de/motorsport/motorrad/feed/</description>
                 
                 
-                <link>https://rabbitradio.de/highlights/bratwurst-ranking/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rabbitradio.de/podlove/file/221/s/feed/c/mp3/240125_Bratwurst_FINALMP.mp3"/>
-                <guid>https://rabbitradio.de/highlights/bratwurst-ranking/</guid>
+                <link>https://meinsportpodcast.de/hotlap-der-schnellste-motogp-podcast/marquez-oder-bagnaia-wer-holt-sich-den-titel-saisonvorschau</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/241432/marquez-oder-bagnaia-wer-holt-sich-den-titel-saisonvorschau.mp3?awCollectionId=10381&amp;awEpisodeId=241432"/>
+                <guid>https://meinsportpodcast.de/hotlap-der-schnellste-motogp-podcast/marquez-oder-bagnaia-wer-holt-sich-den-titel-saisonvorschau</guid>
                 
             </item>
         </channel>
