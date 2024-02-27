@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 26 Feb 2024 04:21:57 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 27 Feb 2024 04:21:11 +0200</lastBuildDate>
             <item>
-                <title>254: Linux Laptops, Fedora, DreamWorks Open Source, LXQt Desktop &amp; more Linux news</title>
-                <description>February seems to be a really big month for desktop environment news because KDE Plasma is almost upon us with the release next week. GNOME has announced the beta release of GNOME 46. LXQt has dropped some big news that LXQt 2.0 is on its way.
-Feed: https://tuxdigital.com/feed/thisweekinlinux-mp3</description>
+                <title>Parasitic fountain of youth</title>
+                <description>TWiP discusses a tapeworm that causes extreme lifespan extension in infected ant workers, and a candidate antibody drug for prevention of malaria. Hosts: , , , and  Subscribe (free): , , ,  Links for this...
+Feed: https://twip.libsyn.com/rss</description>
                 
                 
-                <link>https://tuxdigital.com/podcasts/this-week-in-linux/twil-254/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/aphid.fireside.fm/d/1437767933/2389be04-5c79-485e-b1ca-3a5b2cebb006/e285f654-4d84-43ad-a945-7155499f8983.mp3"/>
-                <guid>https://tuxdigital.com/podcasts/this-week-in-linux/twil-254/</guid>
+                <link>https://www.microbe.tv/twip/twip-228/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/twip/TWiP228.mp3?dest-id=25540"/>
+                <guid>https://www.microbe.tv/twip/twip-228/</guid>
                 
             </item><item>
-                <title>A Black History Month RECAP - Authentically Black: Celebrating Black History Month</title>
-                <description>&lt;p&gt;In this special Black History Month episode, we&#39;re diving into a collection of our social media reads and other content that highlights the achievements, contributions, and stories of remarkable individuals throughout history.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Black History Spotlights and Impactful People in Black History...
-Feed: https://feeds.podetize.com/rss/iQt3pQP1nr</description>
+                <title>The Islamophobia Network and the Israel-Palestine Discourse w/ Sahar Aziz and Mitchell Plitnick</title>
+                <description>
+On this edition of Parallax Views, ReThinking Foreign Policy&#39;s Mitchell Plitnick and Sahar Aziz of the Center for Security, Race, and Rights join the show to discuss their recent report Presumptively Antisemitic: Islamophobic Tropes in the Palestine...
+Feed: https://parallaxviews.podbean.com/feed.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.podetize.com/ep/aEg1GpS8g/media/32BdMyd7e.mp3"/>
-                <guid></guid>
+                <link>https://parallaxviews.podbean.com/e/azizplitnick/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/c5z3vb/ParallaxViewsSaharaAzizMitchellPlitnick.mp3"/>
+                <guid>https://parallaxviews.podbean.com/e/azizplitnick/</guid>
                 
             </item>
         </channel>
