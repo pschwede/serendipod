@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 27 Feb 2024 04:21:04 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 29 Feb 2024 04:20:36 +0200</lastBuildDate>
             <item>
-                <title>2024-02-17 Flafri</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title># 553 Recordando a Maria Rivas</title>
+                <description>  Hola Que Tal? María Rivas nació el 26 de enero de 1960 en la parroquia Candelaria, de Caracas, y se crió en la urbanización La Florida, de la misma capital. Estudió primaria en un colegio con un nombre premonitorio en eso que quizá ella luego se conv...
+Feed: https://feeds.feedburner.com/MsicaA4Manos</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2024-02-17Flafri.mp3"/>
-                <guid></guid>
+                <link>https://www.musica4manos.com/553-recordando-a-maria-rivas/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.musica4manos.com/musica4manos.com/mp3/553RecordandoaMariaRivasEne24.mp3"/>
+                <guid>https://www.musica4manos.com/553-recordando-a-maria-rivas/</guid>
                 
             </item><item>
-                <title>Se  patrasearon los polleros - Capítulo 212</title>
-                <description>Destapamos la olla llena de menudencias. Hoy hacemos la anticampaña contra Poño Malloso. ¿Sí saben qué es? Checho se estrena, debido a su baneo en el asadero, como un DJ gastronómico, mezclando ramen con chicharrón. Paulo nos cuenta una de esas...
-Feed: https://www.spreaker.com/show/4081707/episodes/feed</description>
+                <title>A golpe de bit - Tecnología &#39;Eye-tracking&#39; - 28/02/24</title>
+                <description>Tecnología &#39;Eye-tracking&#39;
+Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/se-patrasearon-los-polleros-capitulo-212--58791433</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/58791433/los_impopulares_cap_2.mp3"/>
-                <guid>https://www.spreaker.com/episode/se-patrasearon-los-polleros-capitulo-212--58791433</guid>
+                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/tecnologia-eye-tracking/15989674/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15989674.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/tecnologia-eye-tracking/15989674/</guid>
                 
             </item>
         </channel>

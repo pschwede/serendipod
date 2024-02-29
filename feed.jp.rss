@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 27 Feb 2024 04:21:15 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 29 Feb 2024 04:20:48 +0200</lastBuildDate>
             <item>
-                <title>Parasitic fountain of youth</title>
-                <description>TWiP discusses a tapeworm that causes extreme lifespan extension in infected ant workers, and a candidate antibody drug for prevention of malaria. Hosts: , , , and  Subscribe (free): , , ,  Links for this...
-Feed: https://twip.libsyn.com/rss</description>
+                <title>Special Guest Bernie WIlliams</title>
+                <description>&lt;p&gt;Host Mike Guidone and Chris Caputo welcome former New York Yankees centerfielder &lt;strong&gt;Bernie Williams&lt;/strong&gt; to the program...
+Feed: https://feeds.captivate.fm/sports-talk-new-york/</description>
                 
                 
-                <link>https://www.microbe.tv/twip/twip-228/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/twip/TWiP228.mp3?dest-id=25540"/>
-                <guid>https://www.microbe.tv/twip/twip-228/</guid>
+                <link>https://sportstalkny.com/episode/yankees-bernie-williams</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/0c40bf0a-4d4d-45b7-9cda-88ab4152ead8/20240225-sportstalkny-guidone-converted.mp3"/>
+                <guid>https://sportstalkny.com/episode/yankees-bernie-williams</guid>
                 
             </item><item>
-                <title>How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw (author of The Leader’s Journey)</title>
-                <description>&lt;p&gt;&lt;strong&gt;Donna Lichaw&lt;/strong&gt; is an internationally sought-after executive coach, keynote speaker, and best-selling author. She helps visionary founders, CEOs, and executive teams level up their leadership and scale their impact while staying true to their mission, purpose, and themselves. Donna works with leaders at companies like Google, Disney, Twitter, Microsoft, Mailchimp, and Adobe, as well as a plethora of mission-driven startups and nonprofits...
-Feed: https://api.substack.com/feed/podcast/10845.rss</description>
+                <title>The Islamophobia Network and the Israel-Palestine Discourse w/ Sahar Aziz and Mitchell Plitnick</title>
+                <description>
+On this edition of Parallax Views, ReThinking Foreign Policy&#39;s Mitchell Plitnick and Sahar Aziz of the Center for Security, Race, and Rights join the show to discuss their recent report Presumptively Antisemitic: Islamophobic Tropes in the Palestine...
+Feed: https://parallaxviews.podbean.com/feed.xml</description>
                 
                 
-                <link>https://www.lennysnewsletter.com/p/how-to-discover-your-superpowers</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/2A87B1/api.substack.com/feed/podcast/141481574/c891aa4cab37a338f0321674a099117c.mp3"/>
-                <guid>https://www.lennysnewsletter.com/p/how-to-discover-your-superpowers</guid>
+                <link>https://parallaxviews.podbean.com/e/azizplitnick/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/c5z3vb/ParallaxViewsSaharaAzizMitchellPlitnick.mp3"/>
+                <guid>https://parallaxviews.podbean.com/e/azizplitnick/</guid>
                 
             </item>
         </channel>
