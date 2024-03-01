@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 29 Feb 2024 04:20:32 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 01 Mar 2024 04:22:05 +0200</lastBuildDate>
             <item>
-                <title>Scènes de livres #2 : Un Animal sauvage, de Joël Dicker</title>
-                <description>&lt;p&gt;longez dans vos fictions préférées avec le podcast Scènes de livres ! Dans ce deuxième épisode, retrouvez Un Animal sauvage de Joël Dicker. Un thriller psychologique haletant,&amp;nbsp; dans lequel la vie d’un couple bien sous tous rapports va basculer.&amp;nbsp;&lt;br/&gt;&lt;br/&gt;Dans ce nouveau roman, l’auteur nous embarque à Cologny, banlieue chic de Genève où vivent les Braun. Sophie est avocate. Arpad, banquier...
-Feed: https://feeds.360.audion.fm/EXKpQ_GdQ1PlZ0dD1pQaF</description>
+                <title>À cause de Mandela 4/4 : La beauté dans l’horreur : l’artiste William Kentridge</title>
+                <description>À cause de Mandela 4/4 : La beauté dans l’horreur : l’artiste William Kentridge
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10177.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/672d0681-3a16-4498-9443-92e1b2fe1478.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/la-beaute-dans-l-horreur-l-artiste-william-kentridge-3675429</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c57430a6-5799-4867-b0d3-e02590cab747/10177-26.02.2024-ITEMA_23659887-2024C26362E0020-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/la-beaute-dans-l-horreur-l-artiste-william-kentridge-3675429</guid>
                 
             </item><item>
-                <title>Les Univers de GemGenève #6  antic jewel : Elli Abramov Morelle Davidson &amp; Steve Neckman</title>
-                <description>In the cosmos of the world jewelry, subjects are as numerous and diverse as the galaxies that gravitate together in the jewellery planetary system that GemGenève has built. GemGenève, which has become a cultural event, offers to theirs exhibitors and v...
-Feed: https://feed.ausha.co/oaNrdC0xxe8j</description>
+                <title>Magie Scolaire (Kaorin #218)</title>
+                <description>Écoles de magie, et autres spécialités peu orthodoxes !
+Feed: https://kaorin.fr/podcast_kaorin.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/il-etait-une-fois-le-bijou/les-univers-de-gemgeneve-6-antic-jewel-elli-abramov-morelle-davidson-steve-neckman</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/b35KgfGDO1Xm.mp3?t=1707498488"/>
-                <guid>https://podcast.ausha.co/il-etait-une-fois-le-bijou/les-univers-de-gemgeneve-6-antic-jewel-elli-abramov-morelle-davidson-steve-neckman</guid>
+                <link>https://kaorin.fr/podcast/kaorin-218/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/kaorin.fr/dl/Kaorin218.mp3"/>
+                <guid>https://kaorin.fr/podcast/kaorin-218/</guid>
                 
             </item>
         </channel>
