@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 01 Mar 2024 04:22:05 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 02 Mar 2024 04:20:31 +0200</lastBuildDate>
             <item>
-                <title>À cause de Mandela 4/4 : La beauté dans l’horreur : l’artiste William Kentridge</title>
-                <description>À cause de Mandela 4/4 : La beauté dans l’horreur : l’artiste William Kentridge
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10177.xml</description>
+                <title>Les termes du débat européen 8/8 : Portugal, &#34;Émigration&#34; </title>
+                <description>Les termes du débat européen 8/8 : Portugal, &#34;Émigration&#34; 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10175.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/la-beaute-dans-l-horreur-l-artiste-william-kentridge-3675429</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c57430a6-5799-4867-b0d3-e02590cab747/10177-26.02.2024-ITEMA_23659887-2024C26362E0020-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/la-beaute-dans-l-horreur-l-artiste-william-kentridge-3675429</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/portugal-emigration-3874476</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/ec8902b8-a930-49b7-85ac-7c33bc421764/10175-01.03.2024-ITEMA_23664458-2024C36267S0061-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/portugal-emigration-3874476</guid>
                 
             </item><item>
-                <title>Magie Scolaire (Kaorin #218)</title>
-                <description>Écoles de magie, et autres spécialités peu orthodoxes !
-Feed: https://kaorin.fr/podcast_kaorin.xml</description>
+                <title>BAGNOLARDS • Épisode 76 avec Maud Larquier</title>
+                <description>&lt;p&gt;Elle s’est chargée du stylisme de shootings avec des voitures mythiques, comme la Ferrari F40 ou l’Alpine A110. La styliste et actrice Maud Larquier est l’invitée de cet épisode de Bagnolards. Elle confie ce que la voiture symbolise pour elle, raconte ses premiers souvenirs de voyage par la route, livre ses tenues favorite pour un trajet. Maud Larquier évoque également les voitures qui la font rêver, ainsi que la scène qu’elle aimerait tourner dans un habitacle...
+Feed: https://feeds.acast.com/public/shows/5ef29235f24d2960f46fb962</description>
                 
                 
-                <link>https://kaorin.fr/podcast/kaorin-218/</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/kaorin.fr/dl/Kaorin218.mp3"/>
-                <guid>https://kaorin.fr/podcast/kaorin-218/</guid>
+                <link>https://shows.acast.com/bagnolards/episodes/bagnolards-maud-larquier</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5ef29235f24d2960f46fb962/e/65dbb8be3f1c1b0016a630c9/media.mp3"/>
+                <guid>https://shows.acast.com/bagnolards/episodes/bagnolards-maud-larquier</guid>
                 
             </item>
         </channel>

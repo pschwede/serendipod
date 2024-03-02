@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 01 Mar 2024 04:22:21 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 02 Mar 2024 04:20:42 +0200</lastBuildDate>
             <item>
-                <title>Horse Race Journalism Is Good, Actually</title>
-                <description>Giddy up, voters.
-Feed: https://feeds.megaphone.fm/slatelexiconvalley</description>
+                <title>In Conversation with Jean-David Gerber (The Urban Lives of Property Series III)</title>
+                <description>Property, Planning and Institutional Power: A view from Switzerland
+Feed: https://urbanpolitical.podigee.io/feed/mp3</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/28D492/traffic.megaphone.fm/SLT8514743768.mp3?updated=1708972557"/>
-                <guid></guid>
+                <link>https://urbanpolitical.podigee.io/74-urban_lives_property_gerber</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1366764-m-ddaece119792d58d22f0fece8ce9b1fc.mp3?source=feed"/>
+                <guid>https://urbanpolitical.podigee.io/74-urban_lives_property_gerber</guid>
                 
             </item><item>
-                <title>123. Please Don&#39;t Destroy: SNL’s Three Sad Virgins</title>
-                <description>Mike welcomes Ben Marshall, John Higgins, and Martin Herlihy, aka Please Don’t Destroy, known for their wildly popular shorts on SNL. Mike is determined to get Martin to talk more than he did on Pete Holmes’s podcast. The group shares what they like and dislike about each other, and break down what it’s like to be both sketch writers and filmmakers on SNL. Plus, what it’s like to work with Bad Bunny in a Shrek costume and get roasted by Taylor Swift.
-Please Consider Donating To: https://www...
-Feed: https://feeds.simplecast.com/MTW0B2El</description>
+                <title>BONUS! Monarch: Legacy of Monsters (2023-2024) Review</title>
+                <description>Drew and Joe sit down to discuss their viewing of the Apple TV+ show, Legacy of Monsters (2023-2024). Patreon:  Discord:  *** Episodes:   &#34;Aftermath&#34;  Directed by: Matt Shakman Written by: Chris Black Original release date: November 17, 2023...
+Feed: https://godzillapodcast.libsyn.com/rss</description>
                 
                 
-                <link>https://www.birbigs.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/afp-222748-injected.calisto.simplecastaudio.com/32ea5a12-6e17-42a1-8b7f-3cd5287077bd/episodes/82576908-8b51-487a-bc41-9644e9fe8955/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=32ea5a12-6e17-42a1-8b7f-3cd5287077bd&amp;awEpisodeId=82576908-8b51-487a-bc41-9644e9fe8955&amp;feed=MTW0B2El"/>
-                <guid>https://www.birbigs.com/</guid>
+                <link>https://godzillapodcast.libsyn.com/bonus-monarch-legacy-of-monsters-2023-2024-review</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/godzillapodcast/Monarch.mp3?dest-id=326955"/>
+                <guid>https://godzillapodcast.libsyn.com/bonus-monarch-legacy-of-monsters-2023-2024-review</guid>
                 
             </item>
         </channel>
