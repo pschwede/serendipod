@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 02 Mar 2024 04:20:31 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 03 Mar 2024 04:21:21 +0200</lastBuildDate>
             <item>
-                <title>Les termes du débat européen 8/8 : Portugal, &#34;Émigration&#34; </title>
-                <description>Les termes du débat européen 8/8 : Portugal, &#34;Émigration&#34; 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10175.xml</description>
+                <title>EP 111 COMMENT DÉVELOPPER SA RÉSILIENCE FACE AU BURN-OUT</title>
+                <description>Comment développer sa résilience face au burn-out
+Feed: https://lecafedesburnies.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/portugal-emigration-3874476</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/ec8902b8-a930-49b7-85ac-7c33bc421764/10175-01.03.2024-ITEMA_23664458-2024C36267S0061-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/portugal-emigration-3874476</guid>
+                <link>https://lecafedesburnies.podigee.io/113-comment-developper-sa-resilience-face-au-burn-out</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1360872-m-d765aa8201f318152c03337a564bc900.mp3?source=feed"/>
+                <guid>https://lecafedesburnies.podigee.io/113-comment-developper-sa-resilience-face-au-burn-out</guid>
                 
             </item><item>
-                <title>BAGNOLARDS • Épisode 76 avec Maud Larquier</title>
-                <description>&lt;p&gt;Elle s’est chargée du stylisme de shootings avec des voitures mythiques, comme la Ferrari F40 ou l’Alpine A110. La styliste et actrice Maud Larquier est l’invitée de cet épisode de Bagnolards. Elle confie ce que la voiture symbolise pour elle, raconte ses premiers souvenirs de voyage par la route, livre ses tenues favorite pour un trajet. Maud Larquier évoque également les voitures qui la font rêver, ainsi que la scène qu’elle aimerait tourner dans un habitacle...
-Feed: https://feeds.acast.com/public/shows/5ef29235f24d2960f46fb962</description>
+                <title>Episode 70. De la daronne et de l&#39;abri</title>
+                <description>Bonjour tout le monde !
+Léger retard pour cet épisode (vous saviez que février avait moins de jours, vous ?) et petit souci pour l&#39;une de nos chroniqueuses qui n&#39;a pas pu participer à l&#39;enregistrement...
+Feed: https://desmotsetdebats.lepodcast.fr/rss</description>
                 
                 
-                <link>https://shows.acast.com/bagnolards/episodes/bagnolards-maud-larquier</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5ef29235f24d2960f46fb962/e/65dbb8be3f1c1b0016a630c9/media.mp3"/>
-                <guid>https://shows.acast.com/bagnolards/episodes/bagnolards-maud-larquier</guid>
+                <link>https://desmotsetdebats.lepodcast.fr/episode-70-de-la-daronne-et-de-labri</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/desmotsetdebats/episode-70-de-la-daronne-et-de-labri/enclosure.133a5bfe4b11e4c9a01aa1ab31f13face7626f40c97a316b7630d877c9a61e37.mp3?p=f"/>
+                <guid>https://desmotsetdebats.lepodcast.fr/episode-70-de-la-daronne-et-de-labri</guid>
                 
             </item>
         </channel>
