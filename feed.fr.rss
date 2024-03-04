@@ -9,27 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 03 Mar 2024 04:21:21 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 04 Mar 2024 04:50:42 +0200</lastBuildDate>
             <item>
-                <title>EP 111 COMMENT DÉVELOPPER SA RÉSILIENCE FACE AU BURN-OUT</title>
-                <description>Comment développer sa résilience face au burn-out
-Feed: https://lecafedesburnies.podigee.io/feed/mp3</description>
+                <title>Voyages, Bières et Amitié : L&#39;histoire Pétillante d&#39;O&#39;Clock - Rencontre avec : O&#39;Clock Brewing</title>
+                <description>Sébastien, fondateur de la brasserie O&#39;Clock Brewing m&#39;accorde une heure d&#39;échange pour parler de sa brasserie
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/346_53617277be768d2ff9b3863b96ed2122.rss</description>
                 
                 
-                <link>https://lecafedesburnies.podigee.io/113-comment-developper-sa-resilience-face-au-burn-out</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1360872-m-d765aa8201f318152c03337a564bc900.mp3?source=feed"/>
-                <guid>https://lecafedesburnies.podigee.io/113-comment-developper-sa-resilience-face-au-burn-out</guid>
+                <link>https://www.podcastics.com/podcast/episode/voyages-bieres-et-amitie-lhistoire-petillante-doclock-rencontre-avec-oclock-brewing-283655/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/346/283655.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/voyages-bieres-et-amitie-lhistoire-petillante-doclock-rencontre-avec-oclock-brewing-283655/</guid>
                 
             </item><item>
-                <title>Episode 70. De la daronne et de l&#39;abri</title>
-                <description>Bonjour tout le monde !
-Léger retard pour cet épisode (vous saviez que février avait moins de jours, vous ?) et petit souci pour l&#39;une de nos chroniqueuses qui n&#39;a pas pu participer à l&#39;enregistrement...
-Feed: https://desmotsetdebats.lepodcast.fr/rss</description>
+                <title>#102 - Julie Chazarenc-Bourbon [Up &amp; Co] - Comment réussir son arrivée en terre bretonne et accélérer son développement ?</title>
+                <description>Aujourd’hui, Gaël reçoit Julie Chazarenc-Bourbon, 47 ans, maman de 2 jeunes enfants et cheffe d’entreprises. Entreprises avec un S.
+ 
+Quand on rencontre un entrepreneur, on se demande toujours d’où lui vient cet attrait pour l’entrepreneuriat.
+ 
+Pour J...
+Feed: https://feeds.audiomeans.fr/feed/af6f5238-da44-454d-b172-593d65d5b044.xml</description>
                 
                 
-                <link>https://desmotsetdebats.lepodcast.fr/episode-70-de-la-daronne-et-de-labri</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/desmotsetdebats/episode-70-de-la-daronne-et-de-labri/enclosure.133a5bfe4b11e4c9a01aa1ab31f13face7626f40c97a316b7630d877c9a61e37.mp3?p=f"/>
-                <guid>https://desmotsetdebats.lepodcast.fr/episode-70-de-la-daronne-et-de-labri</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/55150391-6ff9-47b2-8a0f-7711378ae154.mp3?_=1701091138"/>
+                <guid></guid>
                 
             </item>
         </channel>
