@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 04 Mar 2024 04:50:45 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 05 Mar 2024 04:22:11 +0200</lastBuildDate>
             <item>
-                <title>Entre probetas - Darwin y Wallace; amigos o no tanto… - 27/02/24</title>
-                <description>Darwin y Wallace; amigos o no tanto…
-Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
-                
-                
-                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-darwin-wallace-amigos-no-tanto-27-02-24/15983477/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/15983477.mp3"/>
-                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-darwin-wallace-amigos-no-tanto-27-02-24/15983477/</guid>
-                
-            </item><item>
-                <title>Burque y el diógenes emocional</title>
-                <description>&lt;p&gt;Escucha la séptima temporada de Buenismo Bien en exclusiva en Podimo.&amp;nbsp;&lt;/p&gt;
-Feed: https://fapi-top.prisasd.com/podcast/playser/buenismo_bien/itunestfp/podcast.xml</description>
+                <title>English Listening - Immigration</title>
+                <description>Practice your English listening as I talk about immigration.
+Feed: https://feeds.megaphone.fm/SONORO7201496122</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/BUENISMO_BIEN_SER_PODCAST_1082_P/media/playser/audio/20242/29/1709206830103_86426.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/SONORO4209855317.mp3?updated=1707240997"/>
                 <guid></guid>
+                
+            </item><item>
+                <title>Prepertenecer: La eterna Permanencia en lo divino</title>
+                <description>No puede haber orden si antes no hay pertenencia.
+Por eso es tan importante pertenecer y sentirnos parte de un grupo por eso el ninguneo y la exclusi&amp;oacute;n tienden a impactarnos mucho mas que cualquier otro proceso vital...
+Feed: https://www.ivoox.com/podcast-nodo-estelar-aneto_fg_f11026236_filtro_1.xml</description>
+                
+                
+                <link>https://www.ivoox.com/prepertenecer-la-eterna-permanencia-lo-divino-audios-mp3_rf_125077762_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/prepertenecer-la-eterna-permanencia-lo-divino_mf_125077762_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/prepertenecer-la-eterna-permanencia-lo-divino-audios-mp3_rf_125077762_1.html</guid>
                 
             </item>
         </channel>
