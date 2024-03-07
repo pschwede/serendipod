@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 05 Mar 2024 04:22:11 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 07 Mar 2024 04:19:35 +0200</lastBuildDate>
             <item>
-                <title>English Listening - Immigration</title>
-                <description>Practice your English listening as I talk about immigration.
-Feed: https://feeds.megaphone.fm/SONORO7201496122</description>
+                <title>Los conciertos de Radio 3 - Atzur - 07/03/24</title>
+                <description>Atzur
+Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/SONORO4209855317.mp3?updated=1707240997"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/atzur-07-03-24/16002695/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16002695.mp3"/>
+                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/atzur-07-03-24/16002695/</guid>
                 
             </item><item>
-                <title>Prepertenecer: La eterna Permanencia en lo divino</title>
-                <description>No puede haber orden si antes no hay pertenencia.
-Por eso es tan importante pertenecer y sentirnos parte de un grupo por eso el ninguneo y la exclusi&amp;oacute;n tienden a impactarnos mucho mas que cualquier otro proceso vital...
-Feed: https://www.ivoox.com/podcast-nodo-estelar-aneto_fg_f11026236_filtro_1.xml</description>
+                <title>Mañana empiezo a tener pelazo | Mañana empiezo 8x06</title>
+                <description>&lt;p&gt;Si nos proponemos cuidar nuestro cabello nos podemos encontrar con información confusa y muchas veces contradictoria...
+Feed: https://www.omnycontent.com/d/playlist/2446592a-b80e-4d28-a4fd-ae4c0140ac11/9d313449-5b99-4855-81a4-aea700ee3a1b/5589b437-096d-42ae-999e-aea700ee3a33/podcast.rss</description>
                 
                 
-                <link>https://www.ivoox.com/prepertenecer-la-eterna-permanencia-lo-divino-audios-mp3_rf_125077762_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/prepertenecer-la-eterna-permanencia-lo-divino_mf_125077762_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/prepertenecer-la-eterna-permanencia-lo-divino-audios-mp3_rf_125077762_1.html</guid>
+                <link>https://omny.fm/shows/ma-ana-empiezo/ma-ana-empiezo-a-tener-pelazo-ma-ana-empiezo-8x06</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/2446592a-b80e-4d28-a4fd-ae4c0140ac11/9d313449-5b99-4855-81a4-aea700ee3a1b/2dbbd236-e254-4fae-ae9b-b11100f0b2bb/audio.mp3?utm_source=Podcast&amp;in_playlist=5589b437-096d-42ae-999e-aea700ee3a33"/>
+                <guid>https://omny.fm/shows/ma-ana-empiezo/ma-ana-empiezo-a-tener-pelazo-ma-ana-empiezo-8x06</guid>
                 
             </item>
         </channel>

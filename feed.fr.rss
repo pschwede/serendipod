@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 05 Mar 2024 04:22:08 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 07 Mar 2024 04:19:32 +0200</lastBuildDate>
             <item>
-                <title>Pastoral Mécanique 04.03.2024 – Une heure dans le vent du sud</title>
-                <description>L’émission d’aujourd’hui est baignée dans les sons d’armées de guitares électriques et acoustiques : celles du rock sudiste incarné par des gangs de chevelus comme Lynyrd Skynyrd, the Allman Brothers Band ou Blackberry Smoke
+                <title>VOIX DE GARAGE  N° 736  Mercredi 6 Mars 2024</title>
+                <description>VOIX DE GARAGE N° 736 Mercredi 6 Mars 2024 désormais dès 19H30 sur RADIO CAMPUS GRENOBLE 90,8 et en direct et replay sur : http://www.campusgrenoble.org/ Les Chroniques de VOIX DE GARAGE se lisent ici une à deux fois par sem
 Feed: https://campusgrenoble.org/?feed=podcast</description>
                 
                 
-                <link>https://campusgrenoble.org/podcast/pastoral-mecanique-04-03-2024-une-heure-dans-le-vent-du-sud/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://campusgrenoble.org/wp/wp-content/uploads/2024/03/240304PastoMeca.mp3"/>
-                <guid>https://campusgrenoble.org/podcast/pastoral-mecanique-04-03-2024-une-heure-dans-le-vent-du-sud/</guid>
+                <link>https://campusgrenoble.org/podcast/voix-de-garage-n-736-mercredi-6-mars-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://campusgrenoble.org/wp/wp-content/uploads/2024/03/20240306VoixDeGarage736.mp3"/>
+                <guid>https://campusgrenoble.org/podcast/voix-de-garage-n-736-mercredi-6-mars-2024/</guid>
                 
             </item><item>
-                <title>3 Histoires Flippantes</title>
-                <description>&lt;p&gt;Le mois dernier, j&#39;ai rencontré un patient de l&#39;hospice nommé &#34;Monsieur. M&#34;, âgé de 91 ans et souffrant d&#39;une insuffisance cardiaque. Malheureusement, sa femme était décédée deux ans auparavant, le laissant seul pour affronter sa maladie. Outre sa santé déclinante, M. M. avait pour compagnon un petit chien jovial nommé &#34;Pepper&#34;, qui avait 16 ans (l&#39;équivalent de 112 ans en âge de chien). Cependant, il y a quelques semaines, Pepper a dû être emmené pour être soigné par la fille de Monsieur. M...
-Feed: https://feeds.360.audion.fm/bEo2jn91D_RKmmJ27myYW</description>
+                <title>Le Naira s’effondre, le Nigeria à la peine // RDC: la sous-traitance pour renforcer le secteur minier</title>
+                <description>Le Naira est confronté à une crise sans précédent, avec une inquiétante chute de sa valeur. La monnaie de la plus grande économie d&#39;Afrique se déprécie de jour en jour, contraignant les populations à se tourner vers le marché noir. // L’ARSP, ce mécanisme en RDC pour promouvoir les activités des petites et moyennes entreprises et protéger les opérateurs économiques nationaux du le secteur minier.
+Feed: https://rss.dw.com/xml/podcast_fra_wirtschaft</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/84ad00c0-4307-4d24-8c83-682b58519983.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://www.dw.com/fr/le-naira-s-effondre-le-nigeria-à-la-peine-rdc-la-sous-traitance-pour-renforcer-le-secteur-minier/audio-68147740?maca=fra-podcast_fra_wirtschaft-6027-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/6027_podcast_fra_wirtschaft/45BD9F64_2-podcast-6027-68147740.mp3"/>
+                <guid>https://www.dw.com/fr/le-naira-s-effondre-le-nigeria-à-la-peine-rdc-la-sous-traitance-pour-renforcer-le-secteur-minier/audio-68147740?maca=fra-podcast_fra_wirtschaft-6027-xml-mrss</guid>
                 
             </item>
         </channel>

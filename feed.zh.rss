@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 05 Mar 2024 04:22:18 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 07 Mar 2024 04:19:42 +0200</lastBuildDate>
             <item>
-                <title>Places You&#39;ve Been</title>
-                <description>Do you have to leave the airport or get out of the car to claim you’ve been somewhere? (And are you under oath?)...
-Feed: https://feeds.theincomparable.com/robot</description>
+                <title>Making MDM Fun: An Interview with Andreea Judele</title>
+                <description>&lt;p&gt;In her current role as Global Master Data Quality Manager, Andreea Judele focuses on defining pragmatic data quality strategies, establishing foundational pillars for data governance, and implementing thoughtful data literacy programs within Henkel&amp;#39;s Adhesives division. Let&amp;#39;s take a deep dive into this program so that we can learn how one could best introduce data literacy and MDM within their own organizations.
+&lt;/p&gt;
+
+Feed: https://anchor.fm/s/5afa3048/podcast/rss</description>
                 
                 
-                <link>https://www.theincomparable.com/robot/282/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.theincomparable.com/podcast/robot282-beenplaces.mp3"/>
-                <guid>https://www.theincomparable.com/robot/282/</guid>
+                <link>https://podcasters.spotify.com/pod/show/lightsondata/episodes/Making-MDM-Fun-An-Interview-with-Andreea-Judele-e2g702o</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/5afa3048/podcast/play/83115544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-24%2F368572562-44100-2-d3b09deb47ece.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/lightsondata/episodes/Making-MDM-Fun-An-Interview-with-Andreea-Judele-e2g702o</guid>
                 
             </item><item>
-                <title>The Anime Nostalgia Podcast - ep 128: 50 Years of Black Jack with Clarissa</title>
-                <description>&amp;nbsp; Subscribers! Be sure to go to the blog to read the description easier &amp;amp; check out links for this episode! This episode is sponsored in part by&amp;nbsp;Tokyo Treat! To get $5 your first box of delicious snacks &amp;amp; treats delivered from Japan straight to your door, AND to help support my little podcast,&amp;nbsp;use code &#34;NOSTALGIA&#34; at my link here! Over the winter, Japan celebrated the 50th anniversary of one of Osamu Tezuka&#39;s most beloved characters: Black Jack! And since it&#39;s one of my...
-Feed: https://feeds.feedburner.com/AnimeNostalgiaPodcast</description>
+                <title>Bonus: Let&#39;s Get Fizzy</title>
+                <description>&lt;p&gt;Today we at CFNC ask the question: what&amp;#39;s fizzin&amp;#39; on campus? According to Apple&amp;#39;s App Store, &amp;quot;Fizz is a private discussion and news feed for your school with a full suite of features such as direct messages, polls, and images.&amp;quot; Let&amp;#39;s see what UNH has to say...
+Feed: https://anchor.fm/s/6a3303c8/podcast/rss</description>
                 
                 
-                <link>http://animenostalgia.blogspot.com/2024/02/the-anime-nostalgia-podcast-ep-128-50.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/the-anime-nostalgia-podcast-ep-128-50-years-of-black-jack-with-clarissa/The%20Anime%20Nostalgia%20Podcast%20Ep%20128%2050%20Years%20of%20Black%20Jack%20with%20Clarissa.mp3"/>
-                <guid>http://animenostalgia.blogspot.com/2024/02/the-anime-nostalgia-podcast-ep-128-50.html</guid>
+                <link>https://podcasters.spotify.com/pod/show/cfnc/episodes/Bonus-Lets-Get-Fizzy-e2gci4m</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/6a3303c8/podcast/play/83297878/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F6a3303c8%2F83297878%2F69055f85ba5d846c7a307dba12f278c2.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/cfnc/episodes/Bonus-Lets-Get-Fizzy-e2gci4m</guid>
                 
             </item>
         </channel>
