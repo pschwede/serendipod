@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 10 Mar 2024 04:22:09 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 11 Mar 2024 04:22:20 +0200</lastBuildDate>
             <item>
-                <title>Sicut luna perfecta - Preparando la Semana Santa - 08/03/24</title>
-                <description>Preparando la Semana Santa
-Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
+                <title>Repaso Noticioso: jueves, 7 de marzo de 2024</title>
+                <description>Repaso Noticioso: jueves, 7 de marzo de 2024
+Feed: https://feeds.feedburner.com/RepasoNoticioso</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/preparando-semana-santa-08-03-24/16007004/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16007004.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/preparando-semana-santa-08-03-24/16007004/</guid>
+                <link>https://repasonoticioso.com/jueves-7-de-marzo-de-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://repasonoticioso.com/podlove/file/364/s/webplayer/RN_7marzo2024.mp3"/>
+                <guid>https://repasonoticioso.com/jueves-7-de-marzo-de-2024/</guid>
                 
             </item><item>
-                <title>IV Domingo de Cuaresma (B)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Juan 3, 14-21. Gloria a ti, Señor. En aquel tiempo, Jesús dijo a Nicodemo: “Así &amp;#8230;
-Feed: http://feed.quechilero.com/PodcastCatedralDeEscuintla</description>
+                <title>construcción colaborativa</title>
+                <description>Del consumi-gratis a la construcci&amp;oacute;n colaborativa
+El anarquismo solo triunfar&amp;aacute; acompa&amp;ntilde;ado del respeto la colaboraci&amp;oacute;n y la compasi&amp;oacute;n voluntaria.**
+Empezaremos a ser una sociedad avanzada cuando los impuestos sean voluntarios...
+Feed: https://www.ivoox.com/podcast-nodo-estelar-aneto_fg_f11026236_filtro_1.xml</description>
                 
                 
-                <link>https://catedraldeescuintla.com/iv-domingo-de-cuaresma-b-2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://catedraldeescuintla.com/podcast-download/7983/iv-domingo-de-cuaresma-b-2024.mp3"/>
-                <guid>https://catedraldeescuintla.com/iv-domingo-de-cuaresma-b-2024/</guid>
+                <link>https://www.ivoox.com/construccion-colaborativa-audios-mp3_rf_125592039_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/construccion-colaborativa_mh_125592039_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/construccion-colaborativa-audios-mp3_rf_125592039_1.html</guid>
                 
             </item>
         </channel>
