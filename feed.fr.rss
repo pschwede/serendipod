@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 11 Mar 2024 04:22:16 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Mar 2024 04:23:35 +0200</lastBuildDate>
             <item>
-                <title>Grandes &amp; inspirantes</title>
-                <description>&lt;p&gt;EA003 podcast&lt;/p&gt;
-Feed: https://feeds.captivate.fm/essentiel-radio-essentiel-academy/</description>
+                <title>S03E28 Le Palétuvier et sa mangrove</title>
+                <description>Découvrir tout l&#39;univers Baleine sous Gravillon (https://baleinesousgravillon.com/liens-2), et Mécaniques du Vivant (https://www.radiofrance.fr/franceculture/podcasts/mecaniques-du-vivant) sur France Culture :
+https://baleinesousgravillon.com/liens-2 (...
+Feed: https://feed.ausha.co/ygMWxC00Q5WA</description>
                 
                 
-                <link>https://essentielradio.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/6b831831-bda4-4d5d-9a12-75a6c107809c/EA-Grandes-et-Inspirantes-pod.mp3"/>
-                <guid>https://essentielradio.com/</guid>
+                <link>https://podcast.ausha.co/nomen/s03e28-le-paletuvier-et-sa-mangrove</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bV1e8tdDl4wV.mp3?t=1692875027"/>
+                <guid>https://podcast.ausha.co/nomen/s03e28-le-paletuvier-et-sa-mangrove</guid>
                 
             </item><item>
-                <title>Ghetto érudit : 03/09/2024 19:00</title>
-                <description>704-308413
-Feed: http://podcast.cism893.ca/radioshows/704/feed_itunes.xml</description>
+                <title>DJ LBR Sunday Morning Japan3</title>
+                <description>Just wake up and discover sweet, chiil and relax music from the japan
+Feed: https://dj-lbr.backdoorpodcasts.com/index.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/308413.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/308413.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/308413.mp3</guid>
+                <link>https://podcast.ausha.co/dj-lbr-the-official-podcast/dj-lbr-sunday-morning-japan3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/3P01RhJlqWR6.mp3?t=1709802025"/>
+                <guid>https://podcast.ausha.co/dj-lbr-the-official-podcast/dj-lbr-sunday-morning-japan3</guid>
                 
             </item>
         </channel>
