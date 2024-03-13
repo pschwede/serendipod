@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 12 Mar 2024 04:23:28 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 13 Mar 2024 04:20:22 +0200</lastBuildDate>
             <item>
-                <title>SEO on the Beach | Podcast with Michael A Merlino</title>
-                <description>&lt;p&gt;In this episode, I talk with Michael A Merlino and Brock Misner about SEO on the Beach. Sadly I won&amp;#39;t be attending this year, but there is a lot to look forward to if you are going!
-&lt;/p&gt;
-
-Feed: https://anchor.fm/s/1ccc07d8/podcast/rss</description>
+                <title>p2-accidentalCISO, building trust in new places, securing SaaS products</title>
+                <description>  Full Youtube VOD:         Questions and topics:    Let’s talk about Mindful Business Podcast    What’s the topics you cover?      Topic #1: discuss your experiences when you were a new leader.     What worked? What...
+Feed: https://brakeingsecurity.com/rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/craigcampbellseo/episodes/SEO-on-the-Beach--Podcast-with-Michael-A-Merlino-e2fp8ro</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1ccc07d8/podcast/play/82665784/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367438431-44100-2-b86bb64e9d7fb.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/craigcampbellseo/episodes/SEO-on-the-Beach--Podcast-with-Michael-A-Merlino-e2fp8ro</guid>
+                <link>http://brakeingsecurity.com/p2-accidentalciso-building-trust-in-new-places</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/brakeingsecurity/AccidentalCISO-p2.mp3?dest-id=177487"/>
+                <guid>http://brakeingsecurity.com/p2-accidentalciso-building-trust-in-new-places</guid>
                 
             </item><item>
-                <title>A much larger duck, effectively a submarine</title>
-                <description>We recorded this gem a while back but because Joram we are only publishing it now. So if any of our jokes feel dated, it’s because of that. Clearly. We are always very topical and on point with our humour.
-Feed: https://plantsandpipettes.com/feed/mp3/</description>
+                <title>209: Why Did Jesus Have to Die?</title>
+                <description>Have you ever articulated it?
+The post 209: Why Did Jesus Have to Die? appeared first on The Pantry Podcast.
+Feed: https://thepantrypodcast.com/feed/podcast/</description>
                 
                 
-                <link>https://www.plantsandpipettes.com/ppp145/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.plantsandpipettes.com/podlove/file/354/s/feed/c/mp3/PPP145.mp3"/>
-                <guid>https://www.plantsandpipettes.com/ppp145/</guid>
+                <link>https://thepantrypodcast.com/podcast/209-why-did-jesus-have-to-die/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=209-why-did-jesus-have-to-die</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/43231D/thepantrypodcast.com/podcast-download/5335/209-why-did-jesus-have-to-die.mp3"/>
+                <guid>https://thepantrypodcast.com/podcast/209-why-did-jesus-have-to-die/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=209-why-did-jesus-have-to-die</guid>
                 
             </item>
         </channel>
