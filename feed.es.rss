@@ -9,26 +9,35 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 13 Mar 2024 04:20:35 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 14 Mar 2024 04:20:30 +0200</lastBuildDate>
             <item>
-                <title>Peligrosamente juntos - Session Americana - 10/03/24</title>
-                <description>Session Americana
-Feed: http://api.rtve.es/api/programas/2066/audios.rss</description>
+                <title>05x02 - De vocales y virales va la cosa - InSet Radio Show</title>
+                <description>En esta edición de InSet Radio Show encontramos remixes inéditos hasta la fecha y además hablamos los 30 segundo de éxitos de las canciones en las redes sociales que las convierten virales y el desconocimiento de los otros 3 minutos de canción.
+¿Estás preparado para una nueva edición de InSet Radio Show?
+Feed: https://www.ivoox.com/inset-radioshow_fg_f1104712_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/peligrosamente-juntos/session-americana-10-03-24/16007453/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16007453.mp3"/>
-                <guid>https://www.rtve.es/play/audios/peligrosamente-juntos/session-americana-10-03-24/16007453/</guid>
+                <link>http://www.ivoox.com/05x02-de-vocales-virales-va-la-audios-mp3_rf_125373354_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/05x02-de-vocales-virales-va-la_mh_125373354_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/05x02-de-vocales-virales-va-la-audios-mp3_rf_125373354_1.html</guid>
                 
             </item><item>
-                <title>Sateli 3 - Especial: Afro-Soul, Funk y un montón de instrumentales... - 12/03/24</title>
-                <description>Especial: Afro-Soul, Funk y un montón de instrumentales...
-Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
+                <title>Dance Live Sessions #275</title>
+                <description>Ivan Voltes selects his favourite tracks of the moment every week live in the mix.
+Broadcasting LIVE every Thursday at 1pm EDT | 8pm GMT | 9pm CET on Twitch and YouTube.
+Tracklist: https://1001.tl/d5hh1v
+@dancelivetv Official Spotify Playlists: https://linktr.ee/dancelive
+David Penn, OFFAIAH - Satisfied (Extended Mix)
+Rossweisse &amp;amp; DJ Dan - Baila El Hause
+Twolate, NIINE - Balcon (Extended Mix)
+HoneyLuv, Roland Clark - This Is My Life (Bontan Mix)
+Simonte - Carinito (DJ S.K...
+Feed: https://www.ivoox.com/ivan-voltes-presents-dance-live-radio_fg_f1166124_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sateli-3/especial-afro-soul-funk-monton-instrumentales-12-03-24/16010599/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16010599.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sateli-3/especial-afro-soul-funk-monton-instrumentales-12-03-24/16010599/</guid>
+                <link>https://www.ivoox.com/dance-live-sessions-275-audios-mp3_rf_125223580_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/dance-live-sessions-275_mh_125223580_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/dance-live-sessions-275-audios-mp3_rf_125223580_1.html</guid>
                 
             </item>
         </channel>
