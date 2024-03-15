@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 14 Mar 2024 04:20:27 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 15 Mar 2024 04:21:25 +0200</lastBuildDate>
             <item>
-                <title>Episode 70. De la daronne et de l&#39;abri</title>
-                <description>Bonjour tout le monde !
-Léger retard pour cet épisode (vous saviez que février avait moins de jours, vous ?) et petit souci pour l&#39;une de nos chroniqueuses qui n&#39;a pas pu participer à l&#39;enregistrement...
-Feed: https://desmotsetdebats.lepodcast.fr/rss</description>
+                <title>Cabaret 42e rue : Les Académies d&#39;opéras se mettent à la comédie musicale</title>
+                <description>Cabaret 42e rue : Les Académies d&#39;opéras se mettent à la comédie musicale
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11392.xml</description>
                 
                 
-                <link>https://desmotsetdebats.lepodcast.fr/episode-70-de-la-daronne-et-de-labri</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/desmotsetdebats/episode-70-de-la-daronne-et-de-labri/enclosure.133a5bfe4b11e4c9a01aa1ab31f13face7626f40c97a316b7630d877c9a61e37.mp3?p=f"/>
-                <guid>https://desmotsetdebats.lepodcast.fr/episode-70-de-la-daronne-et-de-labri</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/cabaret-42e-rue-les-academies-d-operas-se-mettent-a-la-comedie-musicale-6560623</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/76628569-2091-4137-82d4-d87f68c90c8d/11392-10.03.2024-ITEMA_23673213-2024M13793S0070-21.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/cabaret-42e-rue-les-academies-d-operas-se-mettent-a-la-comedie-musicale-6560623</guid>
                 
             </item><item>
-                <title>Richard Cottingham, le tueur de Times Square</title>
-                <description>À travers les labyrinthes urbains de New York, surgit un sinistre chasseur, Richard Cottingham. Ses actes sanglants dévoilent un mystère déconcertant, plongeant la ville dans une angoisse constante, chaque crime dévoilant de nouveaux secrets.&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hébergé par Acast. Visitez acast.com/privacy pour plus d&#39;informations.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/209bfc59-351f-591c-b786-36f65f0adad9</description>
+                <title>Réussir sa Stratégie SEO sans être geek | Samy Thuillier | Ep 96</title>
+                <description>Si, comme moi, vous avez longtemps détesté le SEO, eh bien bonne nouvelle : Samy Thuillier (https://samythuillier.com/) va vous faire aimer cette discipline longtemps perçue comme complexe et réservée aux initiés.J&#39;ai rencontré Samy il y a une quinzain...
+Feed: https://feed.ausha.co/blnJrf635QNe</description>
                 
                 
-                <link>https://shows.acast.com/le-coin-du-crime/episodes/65eda04fb071920017f4987f</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/le-coin-du-crime/e/65eda04fb071920017f4987f/media.mp3"/>
-                <guid>https://shows.acast.com/le-coin-du-crime/episodes/65eda04fb071920017f4987f</guid>
+                <link>https://podcast.ausha.co/decodeur-de-la-communication/reussir-sa-strategie-seo-sans-etre-geek-samy-thuillier</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bjwndHQv00YR.mp3?t=1710185242"/>
+                <guid>https://podcast.ausha.co/decodeur-de-la-communication/reussir-sa-strategie-seo-sans-etre-geek-samy-thuillier</guid>
                 
             </item>
         </channel>
