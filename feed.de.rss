@@ -9,26 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 15 Mar 2024 04:21:22 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 17 Mar 2024 04:20:25 +0200</lastBuildDate>
             <item>
-                <title>#102 Mag.a Potzmann, wie überwinden wir traditionelle Rollen in der „weiblichen“ Pflegebranche?</title>
-                <description>Entdecken Sie in dieser Folge des &#34;Mutmacher zum …
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:974293990/sounds.rss</description>
+                <title>Innerer Frieden</title>
+                <description>Du möchtest in dir ruhen und alles um dich herum soll sich stimmig anfühlen? Ich helfe mit entsprechender Musik nach.
+Diese Musikstücke hast Du in der Folge gehört:
+Keb‘ Mo‘ - &#34;Just like you&#34; //
+Debbie Wiseman - &#34;Evacuation&#34; //
+Nick Drake - &#34;Northern Skies&#34; //
+Johann Johannson - &#34;A pile of Dust&#34; //
+Jackson Browne - &#34;Everywhere you go&#34; //
+Das Hörbuch &#34;Erich Kästner - Fabian&#34; vom BR findest du hier: https://www.ardaudiothek...
+Feed: https://www.ndr.de/kultur/podcast4944.xml</description>
                 
                 
-                <link>https://soundcloud.com/b7arbeitundleben/102-maga-potzmann-wie-uberwinden-wir-traditionelle-rollen-in-der-weiblichen-pflegebranche</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1765627047-b7arbeitundleben-102-maga-potzmann-wie-uberwinden-wir-traditionelle-rollen-in-der-weiblichen-pflegebranche.mp3"/>
-                <guid>https://soundcloud.com/b7arbeitundleben/102-maga-potzmann-wie-uberwinden-wir-traditionelle-rollen-in-der-weiblichen-pflegebranche</guid>
+                <link>https://www.ndr.de/kultur/Innerer-Frieden,audio1593538.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4944/AU-20240314-1652-2900.mp3"/>
+                <guid>https://www.ndr.de/kultur/Innerer-Frieden,audio1593538.html</guid>
                 
             </item><item>
-                <title>Wie man effektiv etwas für Klimaschutz tun kann</title>
-                <description>Autor Gabriel Baunach spricht über sein Konzept des ökologischen Handabdrucks
-Feed: https://editionzukunft.podigee.io/feed/mp3</description>
+                <title>Die Welt auf der Kippe: Heinz Bude spricht über die Boomer</title>
+                <description>Kai Spanke im Gespräch mit dem Autor
+Feed: https://fazbuecherpodcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://derstandard.at/story/3000000210712</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1395934-m-1c9ed4738035da96686031a9a2ad8987.mp3?source=feed"/>
-                <guid>https://derstandard.at/story/3000000210712</guid>
+                <link>https://fazbuecherpodcast.podigee.io/252-bude</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1380031-m-3d2d4834dc513e6b748e9f5bd9b969fa.mp3?source=feed"/>
+                <guid>https://fazbuecherpodcast.podigee.io/252-bude</guid>
                 
             </item>
         </channel>
