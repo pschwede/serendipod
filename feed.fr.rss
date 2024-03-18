@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 Mar 2024 04:20:29 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 18 Mar 2024 04:20:34 +0200</lastBuildDate>
             <item>
-                <title>George Blaha, la voix qui a traversé l&#39;Histoire des Pistons | Episode 78</title>
-                <description>&lt;p&gt;Dans cet épisode qui sera un peu plus sonore que d&amp;#39;habitude, on s&amp;#39;intéresse à George Blaha, play-by-play voice des Detroit Pistons à la radio et à la télévision depuis 1976.&lt;/p&gt;
-&lt;p&gt;Si vous regardez un match des Pistons sur le NBA League Pass ou même simplement les résumés des matchs de Detroit, vous avez donc entendu la voix de George Blaha...
-Feed: https://anchor.fm/s/a7697ec/podcast/rss</description>
+                <title>Ex0220 Ouvrir la pomme</title>
+                <description>La documentation et les liens de cette émission sont sur http://cpu.pm/0220 . Cette release fait partie de la série “Paranoid android”. Dans cette release : Un store en monopole absolu, un procès épique, l&#39;Europe et sa pomme et Apple en fait une marmelade. Nous recevons Jérôme Alves, Senior iOS Software Engineer. Chapitres : Bonjour à toi, Enfant du Futur Immédiat : La pomme de la…
+Feed: https://feeds.feedburner.com/Cpu-Programmes</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/pistonsfr/episodes/George-Blaha--la-voix-qui-a-travers-lHistoire-des-Pistons--Episode-78-e2gba8q</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/a7697ec/podcast/play/83257050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-27%2F96970348-154f-25cf-c0ed-461ed4f5998c.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/pistonsfr/episodes/George-Blaha--la-voix-qui-a-travers-lHistoire-des-Pistons--Episode-78-e2gba8q</guid>
+                <link>https://cpu.dascritch.net/post/2024/03/07/Ex0220-Ouvrir-la-pomme</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cpu.dascritch.net/public/Sonores/Emissions/podcast/0220-CPU%2807-03-24%29.mp3"/>
+                <guid>https://cpu.dascritch.net/post/2024/03/07/Ex0220-Ouvrir-la-pomme</guid>
                 
             </item><item>
-                <title>[Extrait] Dans le prochain épisode du cycle « Nous faire justice »</title>
-                <description>&lt;p&gt;Dans le prochain épisode du cycle de rencontres&amp;nbsp;&lt;strong&gt;« Nous faire justice »&lt;/strong&gt;, Victoire Tuaillon recevra la militante et chercheuse en urbanisme Franziska Meinherz, la chercheuse en économie écologiste Julia Steinberg et Brice Laniyan, juriste chez Notre Affaire à Tous.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Un épisode à retrouver sur toutes les plateformes d&#39;écoute et sur le site de binge.audio dès le jeudi 21 mars 2024.&lt;/p&gt;&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hébergé par Acast. Visitez acast...
-Feed: https://feeds.acast.com/public/shows/aa928f4a-8155-4b36-b190-4dfd32da8a84</description>
+                <title>S8E23 - « Son petit oiseau à 5 mètres de moi !»</title>
+                <description>Madmoizelle donne un micro à 4 imbéciles
+Feed: https://feeds.acast.com/public/shows/402cd0aa-d4d7-475b-85af-bf46fc7ec4e7</description>
                 
                 
-                <link>https://www.binge.audio/podcast/les-couilles-sur-la-table</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/les-couilles-sur-la-table/e/65f1c1ec97e38a00164292c1/media.mp3"/>
-                <guid>https://www.binge.audio/podcast/les-couilles-sur-la-table</guid>
+                <link>https://shows.acast.com/laisse-moi-kiffer/episodes/s8e23-son-petit-oiseau-a-5-metres-de-moi</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/laisse-moi-kiffer/e/65f2b78eeef3f00017275c25/media.mp3"/>
+                <guid>https://shows.acast.com/laisse-moi-kiffer/episodes/s8e23-son-petit-oiseau-a-5-metres-de-moi</guid>
                 
             </item>
         </channel>

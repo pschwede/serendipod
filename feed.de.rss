@@ -9,33 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 Mar 2024 04:20:25 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 18 Mar 2024 04:20:31 +0200</lastBuildDate>
             <item>
-                <title>Innerer Frieden</title>
-                <description>Du möchtest in dir ruhen und alles um dich herum soll sich stimmig anfühlen? Ich helfe mit entsprechender Musik nach.
-Diese Musikstücke hast Du in der Folge gehört:
-Keb‘ Mo‘ - &#34;Just like you&#34; //
-Debbie Wiseman - &#34;Evacuation&#34; //
-Nick Drake - &#34;Northern Skies&#34; //
-Johann Johannson - &#34;A pile of Dust&#34; //
-Jackson Browne - &#34;Everywhere you go&#34; //
-Das Hörbuch &#34;Erich Kästner - Fabian&#34; vom BR findest du hier: https://www.ardaudiothek...
-Feed: https://www.ndr.de/kultur/podcast4944.xml</description>
+                <title>#199 - Dein idealer Arbeitstag - eine Fantasiereise zum Aufdecken tieferliegender Wünsche</title>
+                <description>In dieser Podcastfolge führe ich dich zu deinem idealen Arbeitstag. 
+In einer meditativen Fantasiereise nehme ich dich mit zu einer wunderschönen Arbeitsatmosphäre und Umgebung. Durch die ruhige Meditation führe ich dich zu deinen tieferliegenden Bedürfnissen. Lässt du dich drauf ein? Ich würde mich freuen.
+Feed: https://montagsgerneaufstehen.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.ndr.de/kultur/Innerer-Frieden,audio1593538.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4944/AU-20240314-1652-2900.mp3"/>
-                <guid>https://www.ndr.de/kultur/Innerer-Frieden,audio1593538.html</guid>
+                <link>https://montagsgerneaufstehen.podigee.io/200-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1399205-m-015a0710d59e575d738d81c0b3ad5313.mp3?source=feed"/>
+                <guid>https://montagsgerneaufstehen.podigee.io/200-new-episode</guid>
                 
             </item><item>
-                <title>Die Welt auf der Kippe: Heinz Bude spricht über die Boomer</title>
-                <description>Kai Spanke im Gespräch mit dem Autor
-Feed: https://fazbuecherpodcast.podigee.io/feed/mp3</description>
+                <title>Overkill Berlin bringt adidas 20th Anniversary Pack, Trophy Room Air Jordan 1 Low, uvm.! | OH, NEWS! #168</title>
+                <description>Die wichtigsten Sneaker &amp; Streetwear &amp; Fashion &amp; Lifestyle News und Releases der aktuellen Woche, alle First Looks, Leaks und Gerüchte, und ein Rückblick auf die Highlights der letzten 7 Tage - das bietet OH, NEWS!, der wöchentliche News-Podcast von OH! SNEAKER MEDIA, der Medienplattform für Sneaker, Streetwear, Fashion &amp; Lifestyle Content!
+Mehr Infos auf: https://linktr.ee/ohschuhenpodcast
+Feed: https://ohschuhen.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://fazbuecherpodcast.podigee.io/252-bude</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1380031-m-3d2d4834dc513e6b748e9f5bd9b969fa.mp3?source=feed"/>
-                <guid>https://fazbuecherpodcast.podigee.io/252-bude</guid>
+                <link>https://ohschuhen.podigee.io/322-oh-schuhen-oh-news-sneaker-news-podcast-168</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1404462-m-fc7f6c23ea9fe8a18c8e1e8c0bd5298e.mp3?source=feed"/>
+                <guid>https://ohschuhen.podigee.io/322-oh-schuhen-oh-news-sneaker-news-podcast-168</guid>
                 
             </item>
         </channel>
