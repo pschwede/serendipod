@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 18 Mar 2024 04:20:34 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 19 Mar 2024 04:21:07 +0200</lastBuildDate>
             <item>
-                <title>Ex0220 Ouvrir la pomme</title>
-                <description>La documentation et les liens de cette émission sont sur http://cpu.pm/0220 . Cette release fait partie de la série “Paranoid android”. Dans cette release : Un store en monopole absolu, un procès épique, l&#39;Europe et sa pomme et Apple en fait une marmelade. Nous recevons Jérôme Alves, Senior iOS Software Engineer. Chapitres : Bonjour à toi, Enfant du Futur Immédiat : La pomme de la…
-Feed: https://feeds.feedburner.com/Cpu-Programmes</description>
+                <title>S03E29 Les Bovidés = bovins + caprins + ovins + antilopes ...</title>
+                <description>Découvrir tout l&#39;univers Baleine sous Gravillon (https://baleinesousgravillon.com/liens-2), et Mécaniques du Vivant (https://www.radiofrance.fr/franceculture/podcasts/mecaniques-du-vivant) sur France Culture :
+https://baleinesousgravillon.com/liens-2 (...
+Feed: https://feed.ausha.co/ygMWxC00Q5WA</description>
                 
                 
-                <link>https://cpu.dascritch.net/post/2024/03/07/Ex0220-Ouvrir-la-pomme</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cpu.dascritch.net/public/Sonores/Emissions/podcast/0220-CPU%2807-03-24%29.mp3"/>
-                <guid>https://cpu.dascritch.net/post/2024/03/07/Ex0220-Ouvrir-la-pomme</guid>
+                <link>https://podcast.ausha.co/nomen/s03e29-les-bovides-bovins-caprins-ovins-antilopes</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/ykKZjsqZD9md.mp3?t=1692877072"/>
+                <guid>https://podcast.ausha.co/nomen/s03e29-les-bovides-bovins-caprins-ovins-antilopes</guid>
                 
             </item><item>
-                <title>S8E23 - « Son petit oiseau à 5 mètres de moi !»</title>
-                <description>Madmoizelle donne un micro à 4 imbéciles
-Feed: https://feeds.acast.com/public/shows/402cd0aa-d4d7-475b-85af-bf46fc7ec4e7</description>
+                <title>Norouz, un printemps politique 1/4 : Iran : Fête, Vie, Liberté ?</title>
+                <description>Norouz, un printemps politique 1/4 : Iran : Fête, Vie, Liberté ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11701.xml</description>
                 
                 
-                <link>https://shows.acast.com/laisse-moi-kiffer/episodes/s8e23-son-petit-oiseau-a-5-metres-de-moi</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/laisse-moi-kiffer/e/65f2b78eeef3f00017275c25/media.mp3"/>
-                <guid>https://shows.acast.com/laisse-moi-kiffer/episodes/s8e23-son-petit-oiseau-a-5-metres-de-moi</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/iran-fete-vie-liberte-8675900</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/feb72dc9-1011-4d93-943d-a191eb5b8e75/11701-18.03.2024-ITEMA_23681502-2024C16756S0078-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/iran-fete-vie-liberte-8675900</guid>
                 
             </item>
         </channel>
