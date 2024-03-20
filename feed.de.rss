@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 19 Mar 2024 04:21:04 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 20 Mar 2024 04:22:22 +0200</lastBuildDate>
             <item>
-                <title>#solo | 15.03.2024</title>
-                <description>Aktuelles Solo &#34;ZERO&#34; live oder letztes Solo &#34;STAND UF!&#34; auf Video schauen? Machst du hier: http://www.joelvonmutzenbecher.ch​ Tach och! Berlin-Mutzi meldet sich aus dem Hotelzimmer mit grässlicher Currywurst im Magen und spannenden News aus seinem...
-Feed: https://feelgoodpodcast.libsyn.com/rss</description>
+                <title>Aftertalk nach LEGO Masters Allstars Folge 4 (Finale) mit Kandidaten und Jury</title>
+                <description>Finale! LEGO Masters Allstars 2024 geht in die vierte und letzte Runde und wir reden darüber mit einigen der Kandidaten und dem Brickmaster Rene. Hier klicken zu dem Video bei YouTube.
+Feed: https://feeds.feedburner.com/Videos-Klemmbausteinlyrik</description>
                 
                 
-                <link>https://feelgoodpodcast.libsyn.com/solo-15032024</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/8F7DD3/traffic.libsyn.com/secure/feelgoodpodcast/Solo_240315.mp3?dest-id=1609340"/>
-                <guid>https://feelgoodpodcast.libsyn.com/solo-15032024</guid>
+                <link>https://klemmbausteinlyrik.de/2024/02/17/aftertalk-nach-lego-masters-allstars-folge-4-finale-mit-kandidaten-und-jury/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://klemmbausteinlyrik.de/wp-content/uploads/2024/02/lego-LM2024-4.mp3"/>
+                <guid>https://klemmbausteinlyrik.de/2024/02/17/aftertalk-nach-lego-masters-allstars-folge-4-finale-mit-kandidaten-und-jury/</guid>
                 
             </item><item>
-                <title>Gemeinde Sardes - Lebendig tot</title>
-                <description>Title: Church of Sardis
- - Living dead - Predigt von Roland Kui am 10.03.2024 im Christlichen Zentrum Villingen-Schwenningen.
-
-Feed: https://czvs.podcaster.de/czvs.rss</description>
+                <title>Fünf Dinge, die man über den Himmel wissen sollte</title>
+                <description>Wenn es um den Himmel geht, wissen wir oft gar nicht, worüber wir konkret sprechen. Dieser Artikel durchforstet die Bibel nach Anhaltspunkten.
+Feed: https://www.evangelium21.net/podcast.rss</description>
                 
                 
-                <link>https://czvs.podcaster.de/czvs/media/uploads_converted_49cef_00___Gemeinde_Sardes___Lebendig_tot___Roland_Kui___10_enhanced.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://czvs.podcaster.de/czvs/media/uploads_converted_49cef_00___Gemeinde_Sardes___Lebendig_tot___Roland_Kui___10_enhanced.mp3"/>
-                <guid>https://czvs.podcaster.de/czvs/media/uploads_converted_49cef_00___Gemeinde_Sardes___Lebendig_tot___Roland_Kui___10_enhanced.mp3</guid>
+                <link>https://www.evangelium21.net/media/4195/fuenf-dinge-die-man-ueber-den-himmel-wissen-sollte</link>
+                <enclosure type="audio/mpeg" length="1" url="http://evangelium21.net/downloads/audio/Podcasts/Artikel/2024-03-04_Fuenf_dinge_ueber_den_Himmel.mp3"/>
+                <guid>https://www.evangelium21.net/media/4195/fuenf-dinge-die-man-ueber-den-himmel-wissen-sollte</guid>
                 
             </item>
         </channel>

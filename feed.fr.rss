@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 19 Mar 2024 04:21:07 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 20 Mar 2024 04:22:25 +0200</lastBuildDate>
             <item>
-                <title>S03E29 Les Bovidés = bovins + caprins + ovins + antilopes ...</title>
-                <description>Découvrir tout l&#39;univers Baleine sous Gravillon (https://baleinesousgravillon.com/liens-2), et Mécaniques du Vivant (https://www.radiofrance.fr/franceculture/podcasts/mecaniques-du-vivant) sur France Culture :
-https://baleinesousgravillon.com/liens-2 (...
-Feed: https://feed.ausha.co/ygMWxC00Q5WA</description>
+                <title>BONUS - Lusaint ; son titre exclusif pour le podcast</title>
+                <description>Ecoutez Le Grand Studio RTL du 16 mars 2024 avec Éric Jean-Jean.
+Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/nomen/s03e29-les-bovides-bovins-caprins-ovins-antilopes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/ykKZjsqZD9md.mp3?t=1692877072"/>
-                <guid>https://podcast.ausha.co/nomen/s03e29-les-bovides-bovins-caprins-ovins-antilopes</guid>
+                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/e927bc0d-f237-4ad0-b9b5-71a72652279b.mp3?_=1710422582"/>
+                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
                 
             </item><item>
-                <title>Norouz, un printemps politique 1/4 : Iran : Fête, Vie, Liberté ?</title>
-                <description>Norouz, un printemps politique 1/4 : Iran : Fête, Vie, Liberté ?
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11701.xml</description>
+                <title>DLP 62 : Perdre du poids sans régimes : 5 limites (gênantes) du déficit calorique</title>
+                <description>Inscrivez-vous tout de suite à ma newsbetter : https://charlyskitchen.substack.com/????Le déficit calorique vaut-il le coup pour tout le monde, tout le temps, dans tous les contextes? ????J&#39;échange en off à de nombreux pros de santé : &#34;oui, y&#39;a la mécaniqu...
+Feed: https://feed.ausha.co/BNOJQCA91d0q</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/iran-fete-vie-liberte-8675900</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/feb72dc9-1011-4d93-943d-a191eb5b8e75/11701-18.03.2024-ITEMA_23681502-2024C16756S0078-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/iran-fete-vie-liberte-8675900</guid>
+                <link>https://podcast.ausha.co/podcast-nutrition-dans-la-poire/dlp-62-perdre-du-poids-sans-regimes-5-limites-genantes-du-deficit-calorique</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BDmQpUGLdDQ7.mp3?t=1709449377"/>
+                <guid>https://podcast.ausha.co/podcast-nutrition-dans-la-poire/dlp-62-perdre-du-poids-sans-regimes-5-limites-genantes-du-deficit-calorique</guid>
                 
             </item>
         </channel>
