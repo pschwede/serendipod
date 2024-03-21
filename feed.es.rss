@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 20 Mar 2024 04:22:29 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 21 Mar 2024 04:21:59 +0200</lastBuildDate>
             <item>
-                <title>Planeta vivo - Se secan las fuentes - 06/03/24</title>
-                <description>Se secan las fuentes
-Feed: http://api.rtve.es/api/programas/8893/audios.rss</description>
+                <title>Los conciertos de Radio 3 - Arizona Baby - 21/03/24</title>
+                <description>Arizona Baby
+Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-se-secan-fuentes-06-03-24/16001456/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16001456.mp3"/>
-                <guid>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-se-secan-fuentes-06-03-24/16001456/</guid>
+                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/arizona-baby-21-03-24/16025029/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16025029.mp3"/>
+                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/arizona-baby-21-03-24/16025029/</guid>
                 
             </item><item>
-                <title>Sicut luna perfecta - Quinto Domingo de Cuaresma - 17/03/24</title>
-                <description>Quinto Domingo de Cuaresma
-Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
+                <title>CdNx086 &amp;#8211; Nantuckianos por Nueva Inglaterra (parte 2)</title>
+                <description>Compra un caf&amp;eacute; para ayudar a los nantuckianos. https://ko-fi.com/nachobacter1980 Quer&amp;iacute;amos visitar los lugares en los que basa Lovecraft su mundo literario. Tambi&amp;eacute;n ten&amp;iacute;amos morri&amp;ntilde;a y quer&amp;iacute;amos ver la isla de Nantucket real. Pues dicho y hecho. En este programa analizamos la obra de Lovecraft y dos nantuckiamos contamos nuestra experiencia por las carreteras de Nueva Inglaterra...
+Feed: https://feeds.feedburner.com/CronicasDeNantucket</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/quinto-domingo-cuaresma-17-03-24/16019081/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16019081.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/quinto-domingo-cuaresma-17-03-24/16019081/</guid>
+                <link>https://www.ivoox.com/cdnx086-8211-nantuckianos-nueva-inglaterra-parte-2-audios-mp3_rf_123718806_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cdnx086-8211-nantuckianos-nueva-inglaterra-parte-2_mh_123718806_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/cdnx086-8211-nantuckianos-nueva-inglaterra-parte-2-audios-mp3_rf_123718806_1.html</guid>
                 
             </item>
         </channel>

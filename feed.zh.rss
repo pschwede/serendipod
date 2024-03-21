@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 20 Mar 2024 04:22:35 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 21 Mar 2024 04:22:06 +0200</lastBuildDate>
             <item>
-                <title>The Toymaker Part Three</title>
-                <description>Head over to the Micro Terrors Podcast to find parts One and Two of this series.
-Feed: https://feeds.megaphone.fm/kidstories</description>
+                <title>Together in the Garden of Love</title>
+                <description>IT’S APPARENT why the Song of Solomon is not often preached in church.
+Feed: https://www.gilberthouse.org/gilberthouse.xml</description>
                 
                 
-                <link>https://www.kidstoriespodcast.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://s.gum.fm/s-6448411f6848e073837de0e1/traffic.megaphone.fm/CDL5415959511.mp3?updated=1710342161"/>
-                <guid>https://www.kidstoriespodcast.com/</guid>
+                <link>https://www.gilberthouse.org/2024/03/gilbert-house-fellowship-407-song-of-solomon-6-8-proverbs-1/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/58989984/download.mp3"/>
+                <guid>https://www.gilberthouse.org/2024/03/gilbert-house-fellowship-407-song-of-solomon-6-8-proverbs-1/</guid>
                 
             </item><item>
-                <title>MMO #113 – The Babushka Vote</title>
-                <description>Holy Red Cow, MMO #113 popped off! Putin won his election thanks to babushka&amp;#8217;s and guns pointed at babushkas. Europe want&amp;#8217;s to start standardizing it&amp;#8217;s military equipment and airbus is first in line. We&amp;#8217;ll see how the US Military 
-Feed: https://namillennial.com/feed/podcast/</description>
+                <title>EP 419 Scary Tales of Horror - True Paranormal Crime Story</title>
+                <description>
+Feed: https://www.spreaker.com/show/6003273/episodes/feed</description>
                 
                 
-                <link>https://namillennial.com/podcast/113/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://namillennial.com/podcast-download/2004/113.mp3"/>
-                <guid>https://namillennial.com/podcast/113/</guid>
+                <link>https://www.spreaker.com/episode/ep-419-scary-tales-of-horror-true-paranormal-crime-story--59024690</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/59024690/ep_419_scary_tales_of_horror_true_paranormal_crime_story.mp3"/>
+                <guid>https://www.spreaker.com/episode/ep-419-scary-tales-of-horror-true-paranormal-crime-story--59024690</guid>
                 
             </item>
         </channel>
