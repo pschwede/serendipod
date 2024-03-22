@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 21 Mar 2024 04:21:59 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 22 Mar 2024 04:20:15 +0200</lastBuildDate>
             <item>
-                <title>Los conciertos de Radio 3 - Arizona Baby - 21/03/24</title>
-                <description>Arizona Baby
-Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
+                <title>PRIMER PLANO con BAJA CALIFORNIA</title>
+                <description>Esta semana celebramos el lanzamiento de Electricidad, el flamante nuevo disco de los asturianos Baja California, un disco sonoramente contundente, un rock muy de disfrutar en concierto. Nos acercamos al grupo y vemos un poquito de su historia y de qu&amp;eacute; pasos han dado hasta llegar hasta aqu&amp;iacute;
+Feed: https://www.ivoox.com/primer-plano_fg_f1237454_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/arizona-baby-21-03-24/16025029/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16025029.mp3"/>
-                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/arizona-baby-21-03-24/16025029/</guid>
+                <link>https://www.ivoox.com/primer-plano-baja-california-audios-mp3_rf_126009295_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-baja-california_mf_126009295_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/primer-plano-baja-california-audios-mp3_rf_126009295_1.html</guid>
                 
             </item><item>
-                <title>CdNx086 &amp;#8211; Nantuckianos por Nueva Inglaterra (parte 2)</title>
-                <description>Compra un caf&amp;eacute; para ayudar a los nantuckianos. https://ko-fi.com/nachobacter1980 Quer&amp;iacute;amos visitar los lugares en los que basa Lovecraft su mundo literario. Tambi&amp;eacute;n ten&amp;iacute;amos morri&amp;ntilde;a y quer&amp;iacute;amos ver la isla de Nantucket real. Pues dicho y hecho. En este programa analizamos la obra de Lovecraft y dos nantuckiamos contamos nuestra experiencia por las carreteras de Nueva Inglaterra...
-Feed: https://feeds.feedburner.com/CronicasDeNantucket</description>
+                <title>Música y Letra: Martha Argerich II - Chopin</title>
+                <description>Andrés Amorós continúa con su ciclo dedicado a la pianista argentina con ascendencia judía y catalana.
+Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
                 
                 
-                <link>https://www.ivoox.com/cdnx086-8211-nantuckianos-nueva-inglaterra-parte-2-audios-mp3_rf_123718806_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cdnx086-8211-nantuckianos-nueva-inglaterra-parte-2_mh_123718806_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/cdnx086-8211-nantuckianos-nueva-inglaterra-parte-2-audios-mp3_rf_123718806_1.html</guid>
+                <link>https://esradio.libertaddigital.com/fonoteca/2024-03-16/musica-y-letra-martha-argerich-ii-chopin-p1696233-7106966.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/59016889/download.mp3?aw_0_1st.collectionid=musica-y-letra&amp;aw_0_1st.subcat=67"/>
+                <guid>https://esradio.libertaddigital.com/fonoteca/2024-03-16/musica-y-letra-martha-argerich-ii-chopin-p1696233-7106966.html</guid>
                 
             </item>
         </channel>
