@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 24 Mar 2024 04:22:43 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 25 Mar 2024 04:22:44 +0200</lastBuildDate>
             <item>
-                <title>Domingo de Ramos (B)</title>
-                <description>Palabra, Espíritu y Vida. Suscríbete al canal de Youtube de la Diócesis de Escuintla Lectura del santo Evangelio según san Marcos 14, 1-15, 47. Gloria a &amp;#8230;
-Feed: http://feed.quechilero.com/PodcastCatedralDeEscuintla</description>
+                <title>La influencia del mal (13-02-24)</title>
+                <description>Todo comenzó con una idea de la que el Hijo de Dios se olvidó de reír. Este audio invita a cuestionarse cómo pudo eso ocurrir y de quién podría haber procedido dicha idea, cuyos efectos se pueden experimentar aún hoy en el mundo.
+Escúchalo aquí sin publicidad
+https://www.menteuno.com/audios/85---la-influencia-del-mal-%2814-02-24%29
+Ver en YouTube
+https://www.youtube.com/watch?v=gz5N6ZasAnc
+Telegram
+https://t.me/MenteUno
+Feed: https://www.ivoox.com/ensenanzas-sobre-un-curso-milagros_fg_f1263434_filtro_1.xml</description>
                 
                 
-                <link>https://catedraldeescuintla.com/domingo-de-ramos-b-2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://catedraldeescuintla.com/podcast-download/7994/domingo-de-ramos-b-2024.mp3"/>
-                <guid>https://catedraldeescuintla.com/domingo-de-ramos-b-2024/</guid>
+                <link>http://www.ivoox.com/influencia-del-mal-13-02-24-audios-mp3_rf_124468649_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/influencia-del-mal-13-02-24_mh_124468649_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/influencia-del-mal-13-02-24-audios-mp3_rf_124468649_1.html</guid>
                 
             </item><item>
-                <title>Cinefagia FM · Episodio 303 · 23-03-2024 · LLAVES Y MUPPETS</title>
-                <description>Tu programa de cine en Radio Kras: Actualidad cin&amp;eacute;faga, los estrenos, la taquilla, las noticias y nuestras recomendaciones, tambi&amp;eacute;n seri&amp;eacute;filas. Cl&amp;aacute;sicos No Tan Populares (LA LLAVE M&amp;Aacute;GICA &amp;middot; 1995); Cara B (FRANK OZ) y nuestra BSO con temas de pel&amp;iacute;cula de la banda inglesa de synthwave &#34;GUNSHIP&#34;.
-Feed: https://www.ivoox.com/cinefagia-fm_fg_f1127454_filtro_1.xml</description>
+                <title>GlotPress soporta ficheros PHP</title>
+                <description>La nueva versión del software de traducciones ya soporta los ficheros de traducciones en PHP que se integrarán en WordPress 6.5.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>https://www.ivoox.com/cinefagia-fm-episodio-303-23-03-2024-audios-mp3_rf_126360352_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cinefagia-fm-episodio-303-23-03-2024_mf_126360352_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/cinefagia-fm-episodio-303-23-03-2024-audios-mp3_rf_126360352_1.html</guid>
+                <link>https://www.wppodcast.es/podcast/glotpress-soporta-ficheros-php/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/245/s/feed/c/podcast/wordpress-podcast-e198.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/glotpress-soporta-ficheros-php/</guid>
                 
             </item>
         </channel>

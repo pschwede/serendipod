@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 24 Mar 2024 04:22:40 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 25 Mar 2024 04:22:41 +0200</lastBuildDate>
             <item>
-                <title>L&#39;INTÉGRALE - Pythagore : le mathématicien aux 1.000 visages</title>
-                <description>Vous avez certainement entendu son nom pour la première fois en cours de géométrie pour son théorème. Et pourtant, le mathématicien Pythagore a été le maître fondateur d&#39;une des premières sociétés secrètes dont l&#39;histoire a gardé la trace... 
-Chaque semaine dan...
-Feed: https://feeds.audiomeans.fr/feed/971b31f2-42d6-4d41-95ee-1c0554528483.xml</description>
+                <title>Brigitte Fontaine, en vers et contre tout</title>
+                <description>Brigitte Fontaine, en vers et contre tout
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15537.xml</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/entrez-dans-l-histoire</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/3ca26252-9cc9-4214-93d2-14d624dfbbc6.mp3?_=1711030684"/>
-                <guid>https://www.rtl.fr/programmes/entrez-dans-l-histoire</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/poesie-et-ainsi-de-suite/brigitte-fontaine-en-vers-et-contre-tout-6123194</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/60473609-a9ad-42f2-99f0-accc5f8a2a1f/15537-23.03.2024-ITEMA_23687391-2024C23850S0083-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/poesie-et-ainsi-de-suite/brigitte-fontaine-en-vers-et-contre-tout-6123194</guid>
                 
             </item><item>
-                <title>Khaled, Rachid Taha &amp; Faudel &#34;1, 2, 3 Soleils&#34; (1998) : quand le raï entre à Bercy par la grande porte</title>
-                <description>En septembre 1998, alors que la France est encore plongée dans l’euphorie de sa victoire en Coupe du monde de Football, trois maîtres de la musique raï préparent un concert unique. Khaled, Rachid Taha et Faudel se retrouvent le 26 septembre dans un Ber...
-Feed: https://feed.ausha.co/yEr7RHAY6qr6</description>
+                <title>-DISCUSSION- Petit partage autour de la réinvention du futur de « Fréquence Pop Culture »</title>
+                <description>Episode où je vous parle de ma vision future de « Fréquence Pop Culture »
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/1562_0fea13d0c38a6e2187ab788875727fcf.rss</description>
                 
                 
-                <link>https://podcast.ausha.co/radiok7/khaled-rachid-taha-faudel-1-2-3-soleils-1998</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/audio.ausha.co/bWxOphm4Z2Vq.mp3?t=1708462056"/>
-                <guid>https://podcast.ausha.co/radiok7/khaled-rachid-taha-faudel-1-2-3-soleils-1998</guid>
+                <link>https://www.podcastics.com/podcast/episode/discussion-petit-partage-autour-de-la-reinvention-du-futur-de-frequence-pop-culture-282895/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/1562/282895.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/discussion-petit-partage-autour-de-la-reinvention-du-futur-de-frequence-pop-culture-282895/</guid>
                 
             </item>
         </channel>
