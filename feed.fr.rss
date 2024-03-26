@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 25 Mar 2024 04:22:41 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 26 Mar 2024 04:21:28 +0200</lastBuildDate>
             <item>
-                <title>Brigitte Fontaine, en vers et contre tout</title>
-                <description>Brigitte Fontaine, en vers et contre tout
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15537.xml</description>
+                <title>Podcasthon 2024 : L&#39;association Apis Bruoc Sella (FR)</title>
+                <description>Midoricast is a podcast produced and realized by the non-profit organization &#34;The Podcast Factory Org&#34; which shares success stories around the environment, ecological transition, and ecology.
+The podcast offers episodes in 3 languages...
+Feed: https://www.vodio.fr/rssmedias.php?valeur=309</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/poesie-et-ainsi-de-suite/brigitte-fontaine-en-vers-et-contre-tout-6123194</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/60473609-a9ad-42f2-99f0-accc5f8a2a1f/15537-23.03.2024-ITEMA_23687391-2024C23850S0083-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/poesie-et-ainsi-de-suite/brigitte-fontaine-en-vers-et-contre-tout-6123194</guid>
+                <link>https://www.vodio.fr/vodiotheque/i/17154/podcasthon-2024-l-association-apis-bruoc-sella-fr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=44f9c684-96ef-5eb8-8278-75eb5980e838/dts.podtrac.com/redirect.mp3/www.vodio.fr/emissions/_thepodcastfactory30Z5/podcasthon-midori-final.mp3"/>
+                <guid>https://www.vodio.fr/vodiotheque/i/17154/podcasthon-2024-l-association-apis-bruoc-sella-fr/</guid>
                 
             </item><item>
-                <title>-DISCUSSION- Petit partage autour de la réinvention du futur de « Fréquence Pop Culture »</title>
-                <description>Episode où je vous parle de ma vision future de « Fréquence Pop Culture »
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/1562_0fea13d0c38a6e2187ab788875727fcf.rss</description>
+                <title>Retour en Irlande !</title>
+                <description>Retour en Irlande !
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14497.xml</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/discussion-petit-partage-autour-de-la-reinvention-du-futur-de-frequence-pop-culture-282895/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/1562/282895.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/discussion-petit-partage-autour-de-la-reinvention-du-futur-de-frequence-pop-culture-282895/</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/allegretto/retour-en-irlande-4059310</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/bacdfce7-ee8c-4eab-9bec-cb9826a26c74/14497-25.03.2024-ITEMA_23688820-2024M26220S0085-21.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/allegretto/retour-en-irlande-4059310</guid>
                 
             </item>
         </channel>

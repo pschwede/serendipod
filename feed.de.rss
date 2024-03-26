@@ -9,29 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 25 Mar 2024 04:22:38 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 26 Mar 2024 04:21:24 +0200</lastBuildDate>
             <item>
-                <title>145: Das Projekt Wanderobjektiv</title>
-                <description>&lt;p&gt;Vom April 2022 bis März 2023 schickte ich eines meiner Objektive auf eine besondere Reise. Eine Reise OHNE mich!&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;Das TTArtisan 35mm 1.4 für Fuji X-Mount sollte hierbei durch die Hände 12 verschiedener Fotografinnen und Fotografen wandern, die jeweils einen Monat damit fotografieren durften/konnten, was und wo sie wollten. &lt;/p&gt;
-&lt;p&gt;Anschließend bat ich jeweils um 10 ausgewählten Fotos und ggf. einige Zeilen zur Erfahrung...
-Feed: https://anchor.fm/s/404ab2f4/podcast/rss</description>
+                <title>Jenseits der Stille – Eine stille Welt voller Musik</title>
+                <description>Welche Rolle spielt Musik in einem Film über gehörlose Menschen?
+Dieser Frage geht die neue Folge Score Snacks auf den Grund. “Jenseits der Stille” spielt mit ebendieser Stille aber auch besonders eindringlichen Klängen. Euch hat ein Instrument im Score besonders fasziniert. Und Malte ist begeistert, wie in diesem Soundtrack die Musik wirklich greifbar wird...
+Feed: https://www.swr.de/~podcast/swr2/musik-jazz-und-pop/podcast-score-snacks-100.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/momentedeinergeschichte/episodes/145-Das-Projekt-Wanderobjektiv-e2h988k</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/404ab2f4/podcast/play/84238036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-19%2F6adebc0f-0d64-6f83-8eba-bf1d6a78fe9e.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/momentedeinergeschichte/episodes/145-Das-Projekt-Wanderobjektiv-e2h988k</guid>
+                <link>https://www.swr.de/swr2/musik-jazz-und-pop/jenseits-der-stille-eine-stille-welt-voller-musik-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/swr2/musik-jazz-und-pop/score-snacks-die-musik-deiner-lieblingsfilme/2022623.m.mp3"/>
+                <guid>https://www.swr.de/swr2/musik-jazz-und-pop/jenseits-der-stille-eine-stille-welt-voller-musik-100.html</guid>
                 
             </item><item>
-                <title>#Gerhard Struber</title>
-                <description>Mit der jüngsten Startelf, die es jemals in der Champions League gab, sorgte Gerhard Struber mit RB Salzburg in dieser Saison für ein ganz besonderes Ausrufezeichen. Seit dem vergangenen Sommer ist der Ex-Profi von Wacker Innsbruck Trainer in Salzburg. Zuvor hatte er 2,5 Jahre Red Bull New York trainiert, war erfolgreich beim FC Barnsley in England gewesen, genauso wie beim Wolfsberger AC und dem FC Liefering...
-Feed: https://meinsportpodcast.de/fussball/leadertalk-fussballtrainer-im-gespraech-2/feed/</description>
+                <title>#167 Ein Plädoyer für Home Trails + GEWINNSPIEL!</title>
+                <description>Ich liebe Home Trails! Es ist wunderbar, einfach vor der eigenen Haustüre loszulaufen und die Nachbarschaft auch immer wieder (neu) zu entdecken. In dieser Folge dreht sich alles darum, was an Home Trails besonders schön ist. Und on top kannst du noc...
+Feed: https://feed.podbean.com/luckytrails/feed.xml</description>
                 
                 
-                <link>https://meinsportpodcast.de/leadertalk-fussballtrainer-im-gespraech-2/gerhard-struber</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/241810/gerhard-struber.mp3?awCollectionId=99990099&amp;awEpisodeId=241810"/>
-                <guid>https://meinsportpodcast.de/leadertalk-fussballtrainer-im-gespraech-2/gerhard-struber</guid>
+                <link>https://luckytrails.podbean.com/e/167-ein-pladoyer-fur-home-trails-gewinnspiel/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/s8vjrh/Folge167final.mp3"/>
+                <guid>https://luckytrails.podbean.com/e/167-ein-pladoyer-fur-home-trails-gewinnspiel/</guid>
                 
             </item>
         </channel>
