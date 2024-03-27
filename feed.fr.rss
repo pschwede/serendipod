@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 26 Mar 2024 04:21:28 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 27 Mar 2024 04:22:36 +0200</lastBuildDate>
             <item>
-                <title>Podcasthon 2024 : L&#39;association Apis Bruoc Sella (FR)</title>
-                <description>Midoricast is a podcast produced and realized by the non-profit organization &#34;The Podcast Factory Org&#34; which shares success stories around the environment, ecological transition, and ecology.
-The podcast offers episodes in 3 languages...
-Feed: https://www.vodio.fr/rssmedias.php?valeur=309</description>
+                <title>Quizz - Dr Who In The Cinema&#39;s Multiverse</title>
+                <description>Quizz - Dr Who In The Cinema&#39;s Multiverse by La T…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:430045779/sounds.rss</description>
                 
                 
-                <link>https://www.vodio.fr/vodiotheque/i/17154/podcasthon-2024-l-association-apis-bruoc-sella-fr/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=44f9c684-96ef-5eb8-8278-75eb5980e838/dts.podtrac.com/redirect.mp3/www.vodio.fr/emissions/_thepodcastfactory30Z5/podcasthon-midori-final.mp3"/>
-                <guid>https://www.vodio.fr/vodiotheque/i/17154/podcasthon-2024-l-association-apis-bruoc-sella-fr/</guid>
+                <link>https://soundcloud.com/la-troisieme-rangee/quizz-dr-who-in-the-cinemas-multiverse</link>
+                <enclosure type="audio/mpeg" length="1" url="http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1760253864-la-troisieme-rangee-quizz-dr-who-in-the-cinemas-multiverse.mp3"/>
+                <guid>https://soundcloud.com/la-troisieme-rangee/quizz-dr-who-in-the-cinemas-multiverse</guid>
                 
             </item><item>
-                <title>Retour en Irlande !</title>
-                <description>Retour en Irlande !
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14497.xml</description>
+                <title>Marc Dutroux, l&#39;ogre belge</title>
+                <description>&lt;p&gt;En juin 1995, deux fillettes, Julie Lejeune et Melissa Russo, disparaissent sans laisser de trace alors qu’elles sont sorties se promener près de chez elle.&lt;/p&gt;&lt;p&gt;Pour les parents, pas de doute possible, les petites ont été kidnappées, mais personne ne veut les croire. Personne ne le sait encore, mais cela marque le début de la longue et sordide affaire Dutroux, celle qui a bien failli faire exploser la Belgique...
+Feed: https://feeds.acast.com/public/shows/209bfc59-351f-591c-b786-36f65f0adad9</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/allegretto/retour-en-irlande-4059310</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/bacdfce7-ee8c-4eab-9bec-cb9826a26c74/14497-25.03.2024-ITEMA_23688820-2024M26220S0085-21.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/allegretto/retour-en-irlande-4059310</guid>
+                <link>https://shows.acast.com/le-coin-du-crime/episodes/660171ef5d82c70016d920ed</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/le-coin-du-crime/e/660171ef5d82c70016d920ed/media.mp3"/>
+                <guid>https://shows.acast.com/le-coin-du-crime/episodes/660171ef5d82c70016d920ed</guid>
                 
             </item>
         </channel>

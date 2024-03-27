@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 26 Mar 2024 04:21:31 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 27 Mar 2024 04:22:40 +0200</lastBuildDate>
             <item>
-                <title>Sons da Lusofonia special Baiana System</title>
-                <description>A full episod about Baiana System project. The democratic crowd and their revolutionary lyrics caried by baiana guitar
-Feed: https://feeds.simplecast.com/tYytQWte</description>
+                <title>Disciplina o talento, ¿qué le hace más falta al futbol mexicano?</title>
+                <description>La Selección Mexicana tendrá un receso de dos meses después de la caída contra Estados Unidos. El combinado que dirige Jaime Lozano regresará a la actividad el próximo 31 de mayo con el partido contra Bolivia.
+Feed: https://feeds.megaphone.fm/ESP7136457638</description>
                 
                 
-                <link>https://sons-da-lusofonia-lusophone-music.simplecast.com/episodes/sons-da-lusofonia-special-baiana-system-49mNTlgG</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/56ae5372-bc7f-4285-94dc-f7e7044d0e0b/episodes/c61d7aa9-075a-47f9-b699-bfd8aee2a295/audio/9e45c5b6-0392-4e03-91a4-8bb4cc46dca2/default_tc.mp3?aid=rss_feed&amp;feed=tYytQWte"/>
-                <guid>https://sons-da-lusofonia-lusophone-music.simplecast.com/episodes/sons-da-lusofonia-special-baiana-system-49mNTlgG</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP9077718016.mp3?updated=1711487924"/>
+                <guid></guid>
                 
             </item><item>
-                <title>161 - The Lost Weekend con Gerardo Alemán</title>
-                <description>Hola Gerardo aquí en otro episodio de Simplemente Yo; La selección de esta semana es The Lost Weekend, es una película de 1945 dirigida por Billy Wilder. Se basó en la novela de 1944 de Charles R. Jackson sobre un escritor alcohólico.
-Plot: La vida d...
-Feed: https://filmicnotionpod.com/feed.xml</description>
+                <title>Islas de Robinson - La tristeza como don - 25/03/24</title>
+                <description>La tristeza como don
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>https://filmicnotionpod.com/e/161-the-lost-weekend-con-gerardo-aleman/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/db7w2c/161_-_FN_-_The_Lost_Weekend7b4cp.mp3"/>
-                <guid>https://filmicnotionpod.com/e/161-the-lost-weekend-con-gerardo-aleman/</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/tristeza-como-don-25-03-24/16030561/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16030561.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/tristeza-como-don-25-03-24/16030561/</guid>
                 
             </item>
         </channel>

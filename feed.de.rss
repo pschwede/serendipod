@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 26 Mar 2024 04:21:24 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 27 Mar 2024 04:22:33 +0200</lastBuildDate>
             <item>
-                <title>Jenseits der Stille – Eine stille Welt voller Musik</title>
-                <description>Welche Rolle spielt Musik in einem Film über gehörlose Menschen?
-Dieser Frage geht die neue Folge Score Snacks auf den Grund. “Jenseits der Stille” spielt mit ebendieser Stille aber auch besonders eindringlichen Klängen. Euch hat ein Instrument im Score besonders fasziniert. Und Malte ist begeistert, wie in diesem Soundtrack die Musik wirklich greifbar wird...
-Feed: https://www.swr.de/~podcast/swr2/musik-jazz-und-pop/podcast-score-snacks-100.xml</description>
+                <title>Kohleausstieg - Schicht im Schacht - und dann?</title>
+                <description> Gerlach, Alexandra www.deutschlandfunkkultur.de, Zeitfragen 
+Feed: https://www.deutschlandfunkkultur.de/zeitfragen-magazin-114.xml</description>
                 
                 
-                <link>https://www.swr.de/swr2/musik-jazz-und-pop/jenseits-der-stille-eine-stille-welt-voller-musik-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/swr2/musik-jazz-und-pop/score-snacks-die-musik-deiner-lieblingsfilme/2022623.m.mp3"/>
-                <guid>https://www.swr.de/swr2/musik-jazz-und-pop/jenseits-der-stille-eine-stille-welt-voller-musik-100.html</guid>
+                <link>https://www.deutschlandfunkkultur.de/kohleausstieg-schicht-im-schacht-und-dann-dlf-kultur-5a9c95f8-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/03/26/kohleausstieg_schicht_im_schacht_und_dann_drk_20240326_1920_5a9c95f8.mp3?refId=zeitfragen-magazin-114"/>
+                <guid>https://www.deutschlandfunkkultur.de/kohleausstieg-schicht-im-schacht-und-dann-dlf-kultur-5a9c95f8-100.html</guid>
                 
             </item><item>
-                <title>#167 Ein Plädoyer für Home Trails + GEWINNSPIEL!</title>
-                <description>Ich liebe Home Trails! Es ist wunderbar, einfach vor der eigenen Haustüre loszulaufen und die Nachbarschaft auch immer wieder (neu) zu entdecken. In dieser Folge dreht sich alles darum, was an Home Trails besonders schön ist. Und on top kannst du noc...
-Feed: https://feed.podbean.com/luckytrails/feed.xml</description>
+                <title>Katholikentag 2024 - Die Erfurter Friedensgebete</title>
+                <description>Gespräch mit Gisela und Dr. Klaus Zeh
+Feed: https://bistum-erfurt.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://luckytrails.podbean.com/e/167-ein-pladoyer-fur-home-trails-gewinnspiel/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/s8vjrh/Folge167final.mp3"/>
-                <guid>https://luckytrails.podbean.com/e/167-ein-pladoyer-fur-home-trails-gewinnspiel/</guid>
+                <link>https://bistum-erfurt.podigee.io/162-katholikentag-friedensgebete</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1392034-m-758c047ace37bd2c8e45801e68396fde.mp3?source=feed"/>
+                <guid>https://bistum-erfurt.podigee.io/162-katholikentag-friedensgebete</guid>
                 
             </item>
         </channel>
