@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 27 Mar 2024 04:22:36 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 28 Mar 2024 04:20:26 +0200</lastBuildDate>
             <item>
+                <title>223 - Pas de goût nise</title>
+                <description>The Cull / Transformers / Beneath the trees where nobody sees / Calvin &amp; Hobbes / Paper Girls
+Feed: https://soute.vaisseauhypersensas.fr/flux/comicsoutcast.xml</description>
+                
+                
+                <link>http://vaisseauhypersensas.fr/comicsoutcast/10/222/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/soute.vaisseauhypersensas.fr/comicsoutcast/CO223.mp3"/>
+                <guid>http://vaisseauhypersensas.fr/comicsoutcast/10/222/</guid>
+                
+            </item><item>
                 <title>Quizz - Dr Who In The Cinema&#39;s Multiverse</title>
                 <description>Quizz - Dr Who In The Cinema&#39;s Multiverse by La T…
 Feed: https://feeds.soundcloud.com/users/soundcloud:users:430045779/sounds.rss</description>
@@ -19,16 +29,6 @@ Feed: https://feeds.soundcloud.com/users/soundcloud:users:430045779/sounds.rss</
                 <link>https://soundcloud.com/la-troisieme-rangee/quizz-dr-who-in-the-cinemas-multiverse</link>
                 <enclosure type="audio/mpeg" length="1" url="http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1760253864-la-troisieme-rangee-quizz-dr-who-in-the-cinemas-multiverse.mp3"/>
                 <guid>https://soundcloud.com/la-troisieme-rangee/quizz-dr-who-in-the-cinemas-multiverse</guid>
-                
-            </item><item>
-                <title>Marc Dutroux, l&#39;ogre belge</title>
-                <description>&lt;p&gt;En juin 1995, deux fillettes, Julie Lejeune et Melissa Russo, disparaissent sans laisser de trace alors qu’elles sont sorties se promener près de chez elle.&lt;/p&gt;&lt;p&gt;Pour les parents, pas de doute possible, les petites ont été kidnappées, mais personne ne veut les croire. Personne ne le sait encore, mais cela marque le début de la longue et sordide affaire Dutroux, celle qui a bien failli faire exploser la Belgique...
-Feed: https://feeds.acast.com/public/shows/209bfc59-351f-591c-b786-36f65f0adad9</description>
-                
-                
-                <link>https://shows.acast.com/le-coin-du-crime/episodes/660171ef5d82c70016d920ed</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/le-coin-du-crime/e/660171ef5d82c70016d920ed/media.mp3"/>
-                <guid>https://shows.acast.com/le-coin-du-crime/episodes/660171ef5d82c70016d920ed</guid>
                 
             </item>
         </channel>
