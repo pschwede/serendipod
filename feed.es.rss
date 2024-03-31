@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 29 Mar 2024 04:21:50 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 31 Mar 2024 04:23:12 +0200</lastBuildDate>
             <item>
-                <title>Subterranea 13x12 Aton Karmamoi French</title>
-                <description>Subterranea Tríos Podcast Production presenta un nuevo programa repleto de buena música. Y entonces quedaron tres, otra vez, Juan Francisco Díaz, Ricardo Hernández y David Pintos. 
-El trío calavera de moda nos hablará de los nuevos trabajos de Aton Five, OMNI, French TV, Karmamoi, Squeaky Feet y Neal Morse.
-Dale a play y disfruta.
-Edición: Jordi Via
-www.subterranea.eu
-Libros de Subterranea Libros Magazine para América y España en: www.davidpintos.com
-Feed: https://www.ivoox.com/feed_fg_f117710_filtro_1.xml</description>
+                <title>2024-03-16 Flafri</title>
+                <description>
+Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
                 
                 
-                <link>http://www.ivoox.com/subterranea-13x12-aton-karmamoi-french-audios-mp3_rf_126594409_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/subterranea-13x12-aton-karmamoi-french_mf_126594409_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/subterranea-13x12-aton-karmamoi-french-audios-mp3_rf_126594409_1.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.comunicacionestian.com/programas_radio/Flamen/2024-03-16Flafri.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Música y Letra: Martha Argerich III - Ravel</title>
-                <description>Andrés Amorós continúa con su ciclo dedicado a esta gran pianista.
-Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
+                <title>El viaje espiritual de comenzar tu negocio (1ª Parte) | META Charlas con Nora Navarro </title>
+                <description>Hoy tenemos con nosotras a Nora Navarro, hipnoterapeuta, activadora y creadora del podcast El Coraje de ser tú. Nora ayuda a mujeres a compartir sus voces y lanzar sus proyectos para que así reconozcan la grandeza dentro de ellas y se atrevan a hacer aquello por lo que nacieron.
+Feed: https://feeds.megaphone.fm/METACON9908872634</description>
                 
                 
-                <link>https://esradio.libertaddigital.com/fonoteca/2024-03-23/musica-y-letra-martha-argerich-iii-ravel-p1696233-7106992.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/59016971/download.mp3?aw_0_1st.collectionid=musica-y-letra&amp;aw_0_1st.subcat=67"/>
-                <guid>https://esradio.libertaddigital.com/fonoteca/2024-03-23/musica-y-letra-martha-argerich-iii-ravel-p1696233-7106992.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/45EC4A/op3.dev/e/traffic.megaphone.fm/METACON8006729413.mp3?updated=1711542372"/>
+                <guid></guid>
                 
             </item>
         </channel>
