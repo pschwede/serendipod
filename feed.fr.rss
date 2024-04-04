@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 03 Apr 2024 04:22:04 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 04 Apr 2024 04:23:04 +0200</lastBuildDate>
             <item>
-                <title>Ghetto érudit : 03/30/2024 19:00</title>
-                <description>704-309873
-Feed: http://podcast.cism893.ca/radioshows/704/feed_itunes.xml</description>
+                <title>Avant regalita muchachita</title>
+                <description>Avec Kalindi, Camille, Alix et Louise
+Feed: https://feeds.acast.com/public/shows/4-quarts-dheure</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/309873.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/309873.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/309873.mp3</guid>
+                <link>https://shows.acast.com/4-quarts-dheure/episodes/avant-regalita-muchachita</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/632090bb4d259900133e31a5/e/660ae0c005ba13001654833e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=9dKIhftvBy8YoQzsqMHY2w-lmyMQHzBN-tax_cbxd8Y"/>
+                <guid>https://shows.acast.com/4-quarts-dheure/episodes/avant-regalita-muchachita</guid>
                 
             </item><item>
-                <title>Venin Carmin</title>
-                <description>&lt;p&gt;Une rencontre avec Lula Borgia, l&amp;#39;âme de &lt;strong&gt;Venin Carmin&lt;/strong&gt;. Elle nous entraine dans son univers gothique. Elle a su mêler influences 80s darkwave et pop. Une musique sombre et joyeuse à la fois. Dans cet épisode, nous avons parlé notamment de Depeche Mode, de Pierre et le Loup, de Tim Burton, de More Women On Stage... Le 2ème album de Venin Carmin, Toxic Legends, est sorti en octobre dernier...
-Feed: https://anchor.fm/s/52e4ffc8/podcast/rss</description>
+                <title>Handicap invisible au travail avec Petite Mu - Podcasthon 2024</title>
+                <description>Pour ce Pödcasthon 2024, on parle de la sensibilisation au handicap invisible en entreprise et de l’initiative de deux femmes pour donner la parole aux personnes invisibilisées sur les réseaux sociaux.Visite les autres podcasts : Podcasthon - podcastho...
+Feed: https://feed.ausha.co/bjqK3cgqzMRx</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/le-volume-sur-11/episodes/Venin-Carmin-e2hgj8v</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/52e4ffc8/podcast/play/84478687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-24%2F7edee0b3-3978-5c3c-2ae0-2b8569124ed2.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/le-volume-sur-11/episodes/Venin-Carmin-e2hgj8v</guid>
+                <link>https://podcast.ausha.co/phantasia-podcast/podcasthon-24-handicap-invisible-au-travail-avec-petite-mu</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/audio.ausha.co/B1vzGUA3lOYm.mp3?t=1711460396"/>
+                <guid>https://podcast.ausha.co/phantasia-podcast/podcasthon-24-handicap-invisible-au-travail-avec-petite-mu</guid>
                 
             </item>
         </channel>

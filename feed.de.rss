@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 03 Apr 2024 04:21:59 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 04 Apr 2024 04:23:00 +0200</lastBuildDate>
             <item>
-                <title>Spezialfolge aka Nwankwo Kanu</title>
-                <description>Ein Jahr nach dem Ende von DoppelSechs haben sich…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:326495526/sounds.rss</description>
+                <title>6 Buchtipps für deinen Frühjahrs-Lesestart</title>
+                <description>Karla und Günter sind heute besonders ambitioniert und haben euch gleich 6 frische Buchtipps mitgebracht, mit denen du die ersten Sonnenstrahlen direkt als Leselicht nutzen kannst - und falls du dir lieber bei einem Spaziergang vorlesen lassen möchtest, hat Günter auch einen Hörbuch-Tipp dabei.
+Die Bücher der heutigen Folge:
+Dana Grigorcea, „Das Gewicht eines Vogels beim Fliegen“ (Penguin)...
+Feed: https://rss.art19.com/long-story-short</description>
                 
                 
-                <link>https://soundcloud.com/doppelsechs/spezialfolge-aka-nwankwo-kanu</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1788964072-doppelsechs-spezialfolge-aka-nwankwo-kanu.mp3"/>
-                <guid>https://soundcloud.com/doppelsechs/spezialfolge-aka-nwankwo-kanu</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/8c5d0356-ce4e-46be-bd18-3832a8e16397.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item><item>
-                <title>E143 - Eng, enger, DEL2</title>
-                <description>In dieser Episode vom 27. März 2024 sprechen wir über die Viertelfinals der DEL2, die Playdown-Runden und natürlich schauen wir auf die anstehenden Viertelfinal-Serien. Noch im Rennen um die Meisterschaft sind die Kassel Huskies, der ESV Kaufbeuren, die Eispiraten Crimmitschau und der EV Regensburg. Wie die Serien ausgehen, habt ihr zuerst bei uns gehört. ;-)
-      
-Feed: https://letscast.fm/podcasts/connecktion-de-eishockey-podcast-e08a2f22/feed</description>
+                <title>Monkey Man</title>
+                <description>Filmkritik
+Feed: https://kyadrx.podcaster.de/filmischesallerlei.rss</description>
                 
                 
-                <link>https://www.connecktion.de</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/e08a2f22/episode/5c54601c.mp3?t=1711574801"/>
-                <guid>https://www.connecktion.de</guid>
+                <link>https://kyadrx.podcaster.de/filmischesallerlei/media/Monkey_Man.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://kyadrx.podcaster.de/filmischesallerlei/media/Monkey_Man.mp3"/>
+                <guid>https://kyadrx.podcaster.de/filmischesallerlei/media/Monkey_Man.mp3</guid>
                 
             </item>
         </channel>
