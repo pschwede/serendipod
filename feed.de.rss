@@ -9,28 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 04 Apr 2024 04:23:00 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 05 Apr 2024 04:24:36 +0200</lastBuildDate>
             <item>
-                <title>6 Buchtipps für deinen Frühjahrs-Lesestart</title>
-                <description>Karla und Günter sind heute besonders ambitioniert und haben euch gleich 6 frische Buchtipps mitgebracht, mit denen du die ersten Sonnenstrahlen direkt als Leselicht nutzen kannst - und falls du dir lieber bei einem Spaziergang vorlesen lassen möchtest, hat Günter auch einen Hörbuch-Tipp dabei.
-Die Bücher der heutigen Folge:
-Dana Grigorcea, „Das Gewicht eines Vogels beim Fliegen“ (Penguin)...
-Feed: https://rss.art19.com/long-story-short</description>
+                <title>Zauberer UNLOCKED</title>
+                <description>Wir waren auf dem 37C3 und wurden fotografiert.
+Feed: https://auszauberer.de/feed/mp3/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/8c5d0356-ce4e-46be-bd18-3832a8e16397.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://auszauberer.de/podcast/daz096-zauberer-unlocked/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://auszauberer.de/podlove/file/1782/s/feed/c/mp3/DaZ-095.mp3"/>
+                <guid>https://auszauberer.de/podcast/daz096-zauberer-unlocked/</guid>
                 
             </item><item>
-                <title>Monkey Man</title>
-                <description>Filmkritik
-Feed: https://kyadrx.podcaster.de/filmischesallerlei.rss</description>
+                <title>Die Bernhardt Methode: Das trügerische Gedächtnis und wie du es nutzen kannst!</title>
+                <description>
+&lt;p&gt;Eine weitere Folge zur Bernhardt Methode, die ich seit Jahren anwende. 
+Dieses Mal wollte ich einen neuen Aspekt der Denkweise enthüllen, wer bei Menschen mit Ängsten oder Zwängen oft eine Rolle spielt und wie du damit umgehen kannst. 
+Ich bin Psychologin und Kooperationspartnerin vom Institut für moderne Psychotherapie. Alle Infos findest du hier: 
+https://institut-moderne-psychotherapie.de/therapeuten/&lt;/p&gt;
+&lt;p&gt;Und natürlich auch bei mir auf der Seiter: 
+www.marie-karehnke...
+Feed: https://itsnotaboutmoney.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://kyadrx.podcaster.de/filmischesallerlei/media/Monkey_Man.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://kyadrx.podcaster.de/filmischesallerlei/media/Monkey_Man.mp3"/>
-                <guid>https://kyadrx.podcaster.de/filmischesallerlei/media/Monkey_Man.mp3</guid>
+                <link>https://itsnotaboutmoney.podigee.io/141-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1412527-m-9c70cd5c3d0f75b6a6f27e88140d64da.mp3?source=feed"/>
+                <guid>https://itsnotaboutmoney.podigee.io/141-new-episode</guid>
                 
             </item>
         </channel>

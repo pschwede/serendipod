@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 04 Apr 2024 04:23:10 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 05 Apr 2024 04:24:43 +0200</lastBuildDate>
             <item>
-                <title>180 grados - The Drums, LA Priest, Noise Box y Carla - 03/04/24</title>
-                <description>The Drums, LA Priest, Noise Box y Carla
-Feed: http://api.rtve.es/api/programas/22270/audios.rss</description>
+                <title>Gestionando audios y vídeos en local con AntennaPod</title>
+                <description>Gestionando audios y vídeos en local con AntennaPod
+Feed: https://feeds.feedburner.com/uGeek</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/180-grados/180-grados-drums-priest-noise-box-carla-03-04-24/16043020/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16043020.mp3"/>
-                <guid>https://www.rtve.es/play/audios/180-grados/180-grados-drums-priest-noise-box-carla-03-04-24/16043020/</guid>
+                <link>https://ugeek.github.io/post/2024-03-19-gestionando-audios-y-videos-en-local-con-antennapod.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/106db04/podcast/play/84234002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2024-2-19%2F371429713-44100-1-4da1d63e7492b.mp3"/>
+                <guid>https://ugeek.github.io/post/2024-03-19-gestionando-audios-y-videos-en-local-con-antennapod.html</guid>
                 
             </item><item>
-                <title>Los conciertos de Radio 3 - Cometa - 04/04/24</title>
-                <description>Cometa
-Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
+                <title>Sateli 3 - Las &#34;DJ-Kicks Sessions&#34; con Daddy G (Massive Attack) - 04/04/24</title>
+                <description>Las &#34;DJ-Kicks Sessions&#34; con Daddy G (Massive Attack)
+Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/cometa-04-04-24/16044200/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16044200.mp3"/>
-                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/cometa-04-04-24/16044200/</guid>
+                <link>https://www.rtve.es/play/audios/sateli-3/dj-kicks-sessions-daddy-massive-attack-04-04-24/16044374/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16044374.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sateli-3/dj-kicks-sessions-daddy-massive-attack-04-04-24/16044374/</guid>
                 
             </item>
         </channel>
