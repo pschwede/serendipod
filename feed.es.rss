@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 05 Apr 2024 04:24:43 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 06 Apr 2024 04:21:53 +0200</lastBuildDate>
             <item>
-                <title>Gestionando audios y vídeos en local con AntennaPod</title>
-                <description>Gestionando audios y vídeos en local con AntennaPod
-Feed: https://feeds.feedburner.com/uGeek</description>
+                <title>Entre probetas - La divulgación matemática con humor, pero sin risas... - 02/04/24</title>
+                <description>La divulgación matemática con humor, pero sin risas...
+Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
                 
                 
-                <link>https://ugeek.github.io/post/2024-03-19-gestionando-audios-y-videos-en-local-con-antennapod.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/106db04/podcast/play/84234002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2024-2-19%2F371429713-44100-1-4da1d63e7492b.mp3"/>
-                <guid>https://ugeek.github.io/post/2024-03-19-gestionando-audios-y-videos-en-local-con-antennapod.html</guid>
+                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-divulgacion-matematica-humor-pero-sin-risas-02-04-24/16039525/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16039525.mp3"/>
+                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-divulgacion-matematica-humor-pero-sin-risas-02-04-24/16039525/</guid>
                 
             </item><item>
-                <title>Sateli 3 - Las &#34;DJ-Kicks Sessions&#34; con Daddy G (Massive Attack) - 04/04/24</title>
-                <description>Las &#34;DJ-Kicks Sessions&#34; con Daddy G (Massive Attack)
-Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
+                <title>Cinefagia FM · Episodio 303 · 23-03-2024 · LLAVES Y MUPPETS</title>
+                <description>Tu programa de cine en Radio Kras: Actualidad cin&amp;eacute;faga, los estrenos, la taquilla, las noticias y nuestras recomendaciones, tambi&amp;eacute;n seri&amp;eacute;filas. Cl&amp;aacute;sicos No Tan Populares (LA LLAVE M&amp;Aacute;GICA &amp;middot; 1995); Cara B (FRANK OZ) y nuestra BSO con temas de pel&amp;iacute;cula de la banda inglesa de synthwave &#34;GUNSHIP&#34;.
+Feed: https://www.ivoox.com/cinefagia-fm_fg_f1127454_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sateli-3/dj-kicks-sessions-daddy-massive-attack-04-04-24/16044374/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16044374.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sateli-3/dj-kicks-sessions-daddy-massive-attack-04-04-24/16044374/</guid>
+                <link>https://www.ivoox.com/cinefagia-fm-episodio-303-23-03-2024-audios-mp3_rf_126360352_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cinefagia-fm-episodio-303-23-03-2024_mf_126360352_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/cinefagia-fm-episodio-303-23-03-2024-audios-mp3_rf_126360352_1.html</guid>
                 
             </item>
         </channel>

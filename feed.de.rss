@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 05 Apr 2024 04:24:36 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 06 Apr 2024 04:21:45 +0200</lastBuildDate>
             <item>
-                <title>Zauberer UNLOCKED</title>
-                <description>Wir waren auf dem 37C3 und wurden fotografiert.
-Feed: https://auszauberer.de/feed/mp3/</description>
+                <title>Die drei ??? und der verschollene Pilot (163)</title>
+                <description>Folge 62: Volle Bruchlandung
+Feed: https://die-zentrale.podigee.io/feed/aac</description>
                 
                 
-                <link>https://auszauberer.de/podcast/daz096-zauberer-unlocked/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://auszauberer.de/podlove/file/1782/s/feed/c/mp3/DaZ-095.mp3"/>
-                <guid>https://auszauberer.de/podcast/daz096-zauberer-unlocked/</guid>
+                <link>https://die-zentrale.podigee.io/210-verschollene-pilot</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1396649-m-d9f2211cc84895558b5ddffc8a889372.m4a?source=feed"/>
+                <guid>https://die-zentrale.podigee.io/210-verschollene-pilot</guid>
                 
             </item><item>
-                <title>Die Bernhardt Methode: Das trügerische Gedächtnis und wie du es nutzen kannst!</title>
-                <description>
-&lt;p&gt;Eine weitere Folge zur Bernhardt Methode, die ich seit Jahren anwende. 
-Dieses Mal wollte ich einen neuen Aspekt der Denkweise enthüllen, wer bei Menschen mit Ängsten oder Zwängen oft eine Rolle spielt und wie du damit umgehen kannst. 
-Ich bin Psychologin und Kooperationspartnerin vom Institut für moderne Psychotherapie. Alle Infos findest du hier: 
-https://institut-moderne-psychotherapie.de/therapeuten/&lt;/p&gt;
-&lt;p&gt;Und natürlich auch bei mir auf der Seiter: 
-www.marie-karehnke...
-Feed: https://itsnotaboutmoney.podigee.io/feed/mp3</description>
+                <title>Wenn die gemeinsame Sprache fehlt - Robert I. zu Gast</title>
+                <description>Robert I., Übersetzter und Dolmetscher im Interview. 90 Prozent aller gehörlosen Kinder haben hörende Eltern. Die Kinder lernen die Gebärdensprache meist erst durch andere gehörlose Kinder in der Schule. Und wiederum 90-95 % aller Kinder, die gehörlose Eltern haben, können hören...
+Feed: https://birgitschuermann.podcaster.de/Rhetorik.rss</description>
                 
                 
-                <link>https://itsnotaboutmoney.podigee.io/141-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1412527-m-9c70cd5c3d0f75b6a6f27e88140d64da.mp3?source=feed"/>
-                <guid>https://itsnotaboutmoney.podigee.io/141-new-episode</guid>
+                <link>https://www.birgit-schuermann.com/podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://birgitschuermann.podcaster.de/Rhetorik/media/Podcast_124_-_03-04-24-_19-15.m4a"/>
+                <guid>https://www.birgit-schuermann.com/podcast</guid>
                 
             </item>
         </channel>

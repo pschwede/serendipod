@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 05 Apr 2024 04:24:51 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 06 Apr 2024 04:22:00 +0200</lastBuildDate>
             <item>
-                <title>Season 5, Ep 3 - Dwarf Bard (w/ Taran Killam)</title>
-                <description>MC G.P. is a boisterous dwarf making rhythmic beats...
-Feed: https://rss.art19.com/hello-from-magic-tavern</description>
+                <title>Chronology 439</title>
+                <description>
+The four hundred thirty-ninth episode of the «Chronology» podcast
+Tracklist:
+1) Gadi Mitrani — Reality (Album Mix)
+2) Vincent Marlice, VRuno — Agua Soda (Paul Hazendonk Remix)
+3) Kiko, Rodriguez Jr...
+Feed: https://www.eugenebalul.com/podcast/chronology.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/rss.art19.com/episodes/07eb00fb-0694-4eb1-b72c-55085132c421.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://eugenebalul.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1778610912-eugenebalul-chronology-439.m4a"/>
+                <guid>https://eugenebalul.com</guid>
                 
             </item><item>
-                <title>Episode 188:  Jinxed! with the hosts of Fish Jelly</title>
-                <description>Betteheads will want to hear us give the Divine Miss M her due for surviving one of the biggest disasters of the eighties, Jinxed! Bil had the pleasure of sitting down with the hosts of the Fish Jelly podcast, Joseph Robinson and Nicholas Bell, to get their reactions to finally seeing the film directed by the [&amp;#8230;]
-Feed: https://feeds.feedburner.com/wordpress/gGicO</description>
+                <title>We&#39;re In Our Social Commentary Bag: Diddy, Illuminati, Tumelo, South Korean 4B Feminist Movement </title>
+                <description>&lt;p&gt;From crime, to the illuminati, join your favourite online sisters as they deep dive into current trending topics such as the viral Tumelo interview clip and the 4B feminist movement. &lt;/p&gt;&lt;br&gt;&lt;p&gt;???? ORDER our book here: https://linktr.ee/tomysisters&lt;/p&gt;&lt;br&gt;&lt;p&gt;???? Sign up to the mailing list: https://www.tomysisters.com&lt;/p&gt;&lt;br&gt;&lt;p&gt;???? For affordable and accessible online therapy: https://www.betterhelp.com/tomysisters&lt;/p&gt;&lt;br&gt;&lt;p&gt;???? Send your dilemma to dilemmas@tomysisters...
+Feed: https://feeds.acast.com/public/shows/6488beb624d31e0011fb380e</description>
                 
                 
-                <link>https://badgaymovies.wordpress.com/2024/03/22/jinxed/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://badgaymovies.files.wordpress.com/2024/03/episode-188-jinxed.mp3"/>
-                <guid>https://badgaymovies.wordpress.com/2024/03/22/jinxed/</guid>
+                <link>https://shows.acast.com/to-my-sisters-1/episodes/were-in-our-social-commentary-bag-diddy-illuminati-tumelo-so</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6488beb624d31e0011fb380e/e/660da3b0088d510015358fe1/media.mp3"/>
+                <guid>https://shows.acast.com/to-my-sisters-1/episodes/were-in-our-social-commentary-bag-diddy-illuminati-tumelo-so</guid>
                 
             </item>
         </channel>
