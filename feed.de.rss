@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 06 Apr 2024 04:21:45 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 07 Apr 2024 04:22:35 +0200</lastBuildDate>
             <item>
-                <title>Die drei ??? und der verschollene Pilot (163)</title>
-                <description>Folge 62: Volle Bruchlandung
-Feed: https://die-zentrale.podigee.io/feed/aac</description>
+                <title>Cannabis ist legal</title>
+                <description>Die Liste seiner Erfolge ist lang, die seiner Opfer unversch&amp;#228;mt l&amp;#228;nger. Florian Schroeder zeichnet sich durch eine erfreuliche Respektlosigkeit aus. Mit Freude z&amp;#252;ckt er sein Verbalskalpell und nimmt das tagespolitische Geschehen auseinander.
+
+Feed: https://www.radioeins.de/programm/sendungen/der_schoene_morgen/einfach_schroeder/archiv.xml/feed=podcast.xml</description>
                 
                 
-                <link>https://die-zentrale.podigee.io/210-verschollene-pilot</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1396649-m-d9f2211cc84895558b5ddffc8a889372.m4a?source=feed"/>
-                <guid>https://die-zentrale.podigee.io/210-verschollene-pilot</guid>
+                <link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/einfach_schroeder/cannabis-ist-legal.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rbbmediapmdp-a.akamaihd.net/content/8b/82/8b82bc22-f606-45d6-96d3-878ce9abb378/8919ab2b-b977-4e82-bc20-987119acf7ac_0355f0df-70e7-4d68-949d-176e026197da.mp3"/>
+                <guid>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/einfach_schroeder/cannabis-ist-legal.html</guid>
                 
             </item><item>
-                <title>Wenn die gemeinsame Sprache fehlt - Robert I. zu Gast</title>
-                <description>Robert I., Übersetzter und Dolmetscher im Interview. 90 Prozent aller gehörlosen Kinder haben hörende Eltern. Die Kinder lernen die Gebärdensprache meist erst durch andere gehörlose Kinder in der Schule. Und wiederum 90-95 % aller Kinder, die gehörlose Eltern haben, können hören...
-Feed: https://birgitschuermann.podcaster.de/Rhetorik.rss</description>
+                <title>Zurückgespult: Was ist der &#34;Club 27&#34;?</title>
+                <description>Triggerwarnung: In dem Beitrag über den Klub 27 geht es um Tod, Suizid und Drogenmissbrauch. &lt;br /&gt;
+&lt;br /&gt;
+Am 05. April 1994 starb Kurt Cobain, Frontsänger der Grunge-Rock Band Nirvana, im Alter von 27 Jahren. Cobains Tod war ein Schock für viele Fans, denn er und seine Musik haben geradezu eine neue Ära in der Popkultur geschaffen. Und sein Tod öffnete unerwartet eine neue Tür: zu einem Club, zu dem eigentlich keiner dazugehören will. &lt;br /&gt;
+
+Feed: https://www.koelncampus.com/podcast/koelncampus.xml</description>
                 
                 
-                <link>https://www.birgit-schuermann.com/podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://birgitschuermann.podcaster.de/Rhetorik/media/Podcast_124_-_03-04-24-_19-15.m4a"/>
-                <guid>https://www.birgit-schuermann.com/podcast</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.koelncampus.com/getfile/podcast/18322.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

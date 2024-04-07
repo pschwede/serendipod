@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 06 Apr 2024 04:21:53 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 07 Apr 2024 04:22:43 +0200</lastBuildDate>
             <item>
-                <title>Entre probetas - La divulgación matemática con humor, pero sin risas... - 02/04/24</title>
-                <description>La divulgación matemática con humor, pero sin risas...
-Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
+                <title>II Domingo de Pascua (B)</title>
+                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Juan 20, 1-9. Gloria a ti, Señor. Al anochecer del día de la resurrección, estando cerradas las puertas de la casa &amp;#8230;
+Feed: http://feed.quechilero.com/PalabraEspirituYVida</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-divulgacion-matematica-humor-pero-sin-risas-02-04-24/16039525/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16039525.mp3"/>
-                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-divulgacion-matematica-humor-pero-sin-risas-02-04-24/16039525/</guid>
+                <link>https://diocesisdeescuintla.com/ii-domingo-de-pascua-b-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/12658/ii-domingo-de-pascua-b-2024.mp3"/>
+                <guid>https://diocesisdeescuintla.com/ii-domingo-de-pascua-b-2024/</guid>
                 
             </item><item>
-                <title>Cinefagia FM · Episodio 303 · 23-03-2024 · LLAVES Y MUPPETS</title>
-                <description>Tu programa de cine en Radio Kras: Actualidad cin&amp;eacute;faga, los estrenos, la taquilla, las noticias y nuestras recomendaciones, tambi&amp;eacute;n seri&amp;eacute;filas. Cl&amp;aacute;sicos No Tan Populares (LA LLAVE M&amp;Aacute;GICA &amp;middot; 1995); Cara B (FRANK OZ) y nuestra BSO con temas de pel&amp;iacute;cula de la banda inglesa de synthwave &#34;GUNSHIP&#34;.
-Feed: https://www.ivoox.com/cinefagia-fm_fg_f1127454_filtro_1.xml</description>
+                <title>Atmósfera - Trax Sunday + Festival Sun&amp;Snow/Sesión Mala Ika - 31/03/24</title>
+                <description>Atmósfera - Trax Sunday + Festival Sun&amp;Snow/Sesión Mala Ika - 31/03/24
+Feed: http://api.rtve.es/api/programas/1891/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/cinefagia-fm-episodio-303-23-03-2024-audios-mp3_rf_126360352_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cinefagia-fm-episodio-303-23-03-2024_mf_126360352_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/cinefagia-fm-episodio-303-23-03-2024-audios-mp3_rf_126360352_1.html</guid>
+                <link>https://www.rtve.es/play/audios/atmosfera/trax-sunday-festival-sun-snow-sesion-mala-ika-31-03-24/16036233/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16036233.mp3"/>
+                <guid>https://www.rtve.es/play/audios/atmosfera/trax-sunday-festival-sun-snow-sesion-mala-ika-31-03-24/16036233/</guid>
                 
             </item>
         </channel>
