@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 07 Apr 2024 04:22:43 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 08 Apr 2024 04:23:02 +0200</lastBuildDate>
             <item>
-                <title>II Domingo de Pascua (B)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Juan 20, 1-9. Gloria a ti, Señor. Al anochecer del día de la resurrección, estando cerradas las puertas de la casa &amp;#8230;
-Feed: http://feed.quechilero.com/PalabraEspirituYVida</description>
+                <title>Mensaje Especial de Pascua: Todos están invitados, Ps. Jeff Duncan</title>
+                <description>
+Feed: https://arboldevida.podbean.com/feed.xml</description>
                 
                 
-                <link>https://diocesisdeescuintla.com/ii-domingo-de-pascua-b-2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/12658/ii-domingo-de-pascua-b-2024.mp3"/>
-                <guid>https://diocesisdeescuintla.com/ii-domingo-de-pascua-b-2024/</guid>
+                <link>https://arboldevida.podbean.com/e/mensaje-especial-de-pascua-todos-estan-invitados-ps-jeff-duncan/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/bdtjgz/12-Todos_Esta_n_Invitados_Ps_Jeff_Duncan_31-03-249gqux.mp3"/>
+                <guid>https://arboldevida.podbean.com/e/mensaje-especial-de-pascua-todos-estan-invitados-ps-jeff-duncan/</guid>
                 
             </item><item>
-                <title>Atmósfera - Trax Sunday + Festival Sun&amp;Snow/Sesión Mala Ika - 31/03/24</title>
-                <description>Atmósfera - Trax Sunday + Festival Sun&amp;Snow/Sesión Mala Ika - 31/03/24
-Feed: http://api.rtve.es/api/programas/1891/audios.rss</description>
+                <title>Melodías pizarras - Hammonds, armónicas y tablas de lavar - 06/04/24</title>
+                <description>Hammonds, armónicas y tablas de lavar
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/atmosfera/trax-sunday-festival-sun-snow-sesion-mala-ika-31-03-24/16036233/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16036233.mp3"/>
-                <guid>https://www.rtve.es/play/audios/atmosfera/trax-sunday-festival-sun-snow-sesion-mala-ika-31-03-24/16036233/</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/hammonds-armonicas-tablas-lavar-06-04-24/16048111/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16048111.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/hammonds-armonicas-tablas-lavar-06-04-24/16048111/</guid>
                 
             </item>
         </channel>
