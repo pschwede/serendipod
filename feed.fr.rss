@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 08 Apr 2024 04:22:59 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 10 Apr 2024 04:20:34 +0200</lastBuildDate>
             <item>
-                <title>Beata Umubyeyi Mairesse, écrire pour culbuter le malheur</title>
-                <description>Beata Umubyeyi Mairesse, écrire pour culbuter le malheur
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15537.xml</description>
+                <title>Mazda MX30 R-EV, l&#39;électrique au coeur rotatif</title>
+                <description>J’ai essayé à sa sortie la Mazda MX30 tout électrique et je n’en étais pas ressorti fan pour une raison majeure : Une autonomie tellement cour...
+Feed: https://feeds.audiomeans.fr/feed/679ac5ec-0596-43ca-8a86-851321bd469f.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/poesie-et-ainsi-de-suite/beata-umubyeyi-mairesse-ecrire-pour-culbuter-le-malheur-7580980</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/2261a9e5-ab35-4c95-835e-5c766f08c403/15537-06.04.2024-ITEMA_23702154-2024C23850E0001-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/poesie-et-ainsi-de-suite/beata-umubyeyi-mairesse-ecrire-pour-culbuter-le-malheur-7580980</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/54a5f966-35bd-473f-8ea0-d995eb54cdd3.mp3?_=1711895956"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Replanter la forêt au Bénin : Python de Seba, Singe vervet ... et proverbes africains ! (Daniel Chabi-Boni, Planète Urgence)</title>
-                <description>“N’entre pas dans la forêt qui veut !” Il y a près de 3000 forêts sacrées au Bénin. Ces forêts ont longtemps joué un rôle très important dans la conservation du Vivant, comme nous le raconte notre invité Daniel Chabi-Boni
-Mais avec la pression démogra...
-Feed: https://feed.ausha.co/oR3M1sX0ZX48</description>
+                <title>Ces chansons qui font les fêtes du dimanche 07 avril 2024</title>
+                <description>Ces chansons qui font les fêtes du dimanche 07 avril 2024
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11454.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/combats/replanter-la-foret-au-benin-python-de-seba-singe-vervet-et-proverbes-africains-daniel-chabi-boni-planete-urgence</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bjKNrF29Ol8d.mp3?t=1698850430"/>
-                <guid>https://podcast.ausha.co/combats/replanter-la-foret-au-benin-python-de-seba-singe-vervet-et-proverbes-africains-daniel-chabi-boni-planete-urgence</guid>
+                <link>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/9c9eef5a-27c7-4eaf-bd9b-9c08b6bf3913/11454-07.04.2024-ITEMA_23702712-2024I24148S0098-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu</guid>
                 
             </item>
         </channel>

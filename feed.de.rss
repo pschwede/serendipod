@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 08 Apr 2024 04:22:55 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 10 Apr 2024 04:20:31 +0200</lastBuildDate>
             <item>
-                <title>Diesseits von Eden Ganze Sendung (07.04.2024)</title>
-                <description>1. Warum ist der weiße Sonntag weiß? 2. &#34;Papst der Enttäuschungen&#34;.  3. Kunst gegen Elend. Das Butterfly-Art-Project. 4. Mit der Klampfe in die Spiritualität. 5. Würde-Projekt. 6. Unsinn und Sinn. Moderation: Wolfgang Meyer
-Feed: https://www1.wdr.de/mediathek/audio/wdr5/wdr5-diesseits-von-eden/diesseitsvoneden106.podcast</description>
+                <title>Bochum: Warum muss Thomas Letsch gehen?</title>
+                <description>Vom Bayernbesieger bis zur Trainerentlassung in sechs Spielen. Ist es richtig, Thomas Letsch zu entlassen? Wir sprechen mit Philipp Rentsch über den Downfall des VfL, mögliche Nachfolger und böse Erinnerungen an 2010.
+Feed: https://schlusskonferenz.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www1.wdr.de/mediathek/audio/wdr5/wdr5-diesseits-von-eden-ganze-sendung/audio-diesseits-von-eden-ganze-sendung--1054.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/309/3098585/wdr5diesseitsvonedenganzesendung_2024-04-07_diesseitsvonedenganzesendung07042024_wdr5.mp3"/>
-                <guid>https://www1.wdr.de/mediathek/audio/wdr5/wdr5-diesseits-von-eden-ganze-sendung/audio-diesseits-von-eden-ganze-sendung--1054.html</guid>
+                <link>https://schlusskonferenz.podigee.io/435-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1428787-m-d5f91bf37ff90149635b2df6d8711204.mp3?source=feed"/>
+                <guid>https://schlusskonferenz.podigee.io/435-neue-episode</guid>
                 
             </item><item>
-                <title>#109: PFAs: Wie du den Dreck los wirst  </title>
-                <description>Autoimmun-Probleme? Entzündungs- oder Hormon-Troubles? Das (und leider vieles andere) kann an den heimtückischen PFAs liegen, „perfluorierten Alkylsubstanzen“. Das Zeug ist überall, in Lebensmitteln, Trinkwasser, Kleidung, Möbeln. Was du tun kannst,...
-Feed: https://www.spreaker.com/show/5457021/episodes/feed</description>
+                <title>Kundenanforderungen und Strategien zum Management unstrukturierter Daten</title>
+                <description>Im Tech-Podcast bei Cloudian nachgefragt: Speicher- und Datenmanagement-Herausforderungen im Zeichen von KI und der hybriden Cloud
+Feed: https://wildcard.podcaster.de/storage-consortium-podcast.rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/109-pfas-wie-du-den-dreck-los-wirst--59205012</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/1A56A6/api.spreaker.com/download/episode/59205012/biohacking_f109_pfas_240327.mp3"/>
-                <guid>https://www.spreaker.com/episode/109-pfas-wie-du-den-dreck-los-wirst--59205012</guid>
+                <link>https://storageconsortium.de/content/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wildcard.podcaster.de/storage-consortium-podcast/media/Cloudian_Strategie_-_05-03-24-_12-38.mp3"/>
+                <guid>https://storageconsortium.de/content/</guid>
                 
             </item>
         </channel>
