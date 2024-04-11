@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 10 Apr 2024 04:20:34 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 11 Apr 2024 04:20:41 +0200</lastBuildDate>
             <item>
-                <title>Mazda MX30 R-EV, l&#39;électrique au coeur rotatif</title>
-                <description>J’ai essayé à sa sortie la Mazda MX30 tout électrique et je n’en étais pas ressorti fan pour une raison majeure : Une autonomie tellement cour...
-Feed: https://feeds.audiomeans.fr/feed/679ac5ec-0596-43ca-8a86-851321bd469f.xml</description>
+                <title>Épisode 138 : La délicieuse histoire du chocolat</title>
+                <description>Méprisé par Christophe Colomb, le cacao est rapporté du Mexique par Hernán Cortés en 1520. Nectar divin pour les Aztèques, les conquistadors associés à des dieux se voient offrir du xocoatl. Ainsi débute une longue histoire entre le chocolat et l&#39;élite...
+Feed: https://feed.ausha.co/BndDLTK0e1JG</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/54a5f966-35bd-473f-8ea0-d995eb54cdd3.mp3?_=1711895956"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/encre-d-histoires/episode-138-la-delicieuse-histoire-du-chocolat</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.soundcast.io/v1/stitch/ausha.mp3?tags=EE364382&amp;apiKey=c1a94b3301c64853868548ac73233ca1&amp;podcastUrl=https%3A%2F%2Faudio.ausha.co%2Fb3naliPJRvPw.mp3%3Ft%3D1712158309"/>
+                <guid>https://podcast.ausha.co/encre-d-histoires/episode-138-la-delicieuse-histoire-du-chocolat</guid>
                 
             </item><item>
-                <title>Ces chansons qui font les fêtes du dimanche 07 avril 2024</title>
-                <description>Ces chansons qui font les fêtes du dimanche 07 avril 2024
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11454.xml</description>
+                <title>N&#39;anticipez pas ce qui n&#39;existe pas</title>
+                <description>&lt;p&gt;&#34;Si j&#39;ai peur d&#39;une chose, elle m&#39;arrive. Ce qui m&#39;effraie tombe sur moi.&#34; Job 3/25&lt;/p&gt;
+Feed: https://feeds.captivate.fm/essentiel-bible-tresor-quotidien/</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/9c9eef5a-27c7-4eaf-bd9b-9c08b6bf3913/11454-07.04.2024-ITEMA_23702712-2024I24148S0098-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu</guid>
+                <link>https://essentielbible.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/a397b7d1-4146-44a8-ad69-37eaf3bcb3d0/pod-1104-Tr-sor-quotidien-N-anticipez-pas-ce-qui-n-existe-pas.mp3"/>
+                <guid>https://essentielbible.com/</guid>
                 
             </item>
         </channel>
