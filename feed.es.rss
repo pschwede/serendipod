@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 11 Apr 2024 04:20:44 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 13 Apr 2024 04:19:04 +0200</lastBuildDate>
             <item>
-                <title>II Domingo de Pascua (B)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Juan 20, 1-9. Gloria a ti, Señor. Al anochecer del día de la resurrección, estando cerradas las puertas de la casa &amp;#8230;
-Feed: http://feed.quechilero.com/PalabraEspirituYVida</description>
+                <title>Aquí estoy - Los alemanes recurren a la pericia latina para el botox</title>
+                <description>Héctor Flores es un médico estético salvadoreño en Berlín que destaca por su enfoque en medicina estética no invasiva, ofreciendo tratamientos como botox con resultados naturales. Como latinoamericano aporta una perspectiva única en un campo altamente valorado en Alemania.
+Feed: https://rss.dw.com/xml/podcast_aqui_estoy</description>
                 
                 
-                <link>https://diocesisdeescuintla.com/ii-domingo-de-pascua-b-2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/12658/ii-domingo-de-pascua-b-2024.mp3"/>
-                <guid>https://diocesisdeescuintla.com/ii-domingo-de-pascua-b-2024/</guid>
+                <link>https://www.dw.com/es/aquí-estoy-los-alemanes-recurren-a-la-pericia-latina-para-el-botox/video-68778524?maca=spa-podcast_aqui_estoy-17479-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/ae/ae20240410_Gesamt_AVC_640x360.mp4"/>
+                <guid>https://www.dw.com/es/aquí-estoy-los-alemanes-recurren-a-la-pericia-latina-para-el-botox/video-68778524?maca=spa-podcast_aqui_estoy-17479-xml-mrss</guid>
                 
             </item><item>
-                <title>Tarataña - Sarmiento Folk, Pinatar Folk, Xàbia Folk... - 07/04/24</title>
-                <description>Sarmiento Folk, Pinatar Folk, Xàbia Folk...
-Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
+                <title>#247 Pase con Aah!</title>
+                <description>Este 19 de mayo, ¡Elige votar!
+Registro voto accesible: https://votoaccesible.jce.gob.do |
+Registro voto en casa: https://votoencasa.jce.gob.do
+#EleccionesRD2024 #VotaRD2024
+SI  TIENES PREGUNTAS MANDA A: LASLENGUASCALVAS@GMAIL.COM O POR MENSAJE...
+Feed: https://www.spreaker.com/show/3137911/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/taratana/sarmiento-folk-pinatar-folk-xabia-folk-07-04-24/16048576/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16048576.mp3"/>
-                <guid>https://www.rtve.es/play/audios/taratana/sarmiento-folk-pinatar-folk-xabia-folk-07-04-24/16048576/</guid>
+                <link>https://www.spreaker.com/episode/247-pase-con-aah--59336550</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/59336550/247_pase_con_aah_v2.mp3"/>
+                <guid>https://www.spreaker.com/episode/247-pase-con-aah--59336550</guid>
                 
             </item>
         </channel>

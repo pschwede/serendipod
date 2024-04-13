@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 11 Apr 2024 04:20:37 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 13 Apr 2024 04:18:57 +0200</lastBuildDate>
             <item>
-                <title>...eine kurze Podcast-Pause+Update</title>
-                <description>Hallo ihr lieben,&lt;br&gt;hier ein kleines Update zur Podcast-Pause und was sonst noch so passiert ist bei mir. Ich vermisse euch jetzt schon alle schmerzlich ???? Bald gehts aber in aller Frische wie gewohnt weiter❤️ &lt;br&gt;Bis dahin wird es sicherlich einige Lebenszeichen in den Instastorys &lt;br&gt;( unter https://www.instagram.com/lostandfoundderpodcast/ ) geben...
-Feed: https://letscast.fm/podcasts/lost-found-der-podcast-9fab3a09/feed</description>
+                <title>Mit dem Velo in den Strassenkampf</title>
+                <description>Das Velo war einst Verkehrsmittel Nummer eins, bis es vom Auto an den Rand der Bedeutungs­losigkeit verdrängt wurde. Nun ist das Velo zurück und ist dabei so politisch wie lange nicht.
+Feed: https://republik-vorgelesen.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.lostandfoundpod.de/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc.podcast-hosting.org/lcdn.letscast.fm/media/podcast/7d38454e/episode/3711b747.mp3?t=1711138007&amp;awCollectionId=lc-80050&amp;awEpisodeId=3711b747"/>
-                <guid>https://www.lostandfoundpod.de/</guid>
+                <link>https://republik-vorgelesen.podigee.io/179-mit-dem-velo-in-den-strassenkampf</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1426939-m-fffba4a5ef6224ee22ebdd51bb78d90c.mp3?source=feed"/>
+                <guid>https://republik-vorgelesen.podigee.io/179-mit-dem-velo-in-den-strassenkampf</guid>
                 
             </item><item>
-                <title>Ep. 081 - Mulholland Drive (2001)</title>
-                <description>Besprechung des Films &#34;Mulholland Drive&#34; aus dem Jahr 2001
-Feed: https://letscast.fm/podcasts/popcorn-zum-mitnehmen-bacfeac4/feed</description>
+                <title>Medienmagazin - Hamburg: MoPo nur noch Wochenblatt | Brandenburg: Regionalität gefördert</title>
+                <description>Umstieg - Hamburger Morgenpost wird Wochenblatt | Seit 5 Jahren in Haft - Stella Assange fordert Freilassung ihres Ehemannes | Sagen &amp; Meinen: Sondereinsatzkommando | Mehr ostdeutsche Perspektiven im Journalismus - &#34;Voices of Brandenburg&#34; | Jahr der Reformen - Was wird aus den Kulturradios? Klein, Isabelle www.deutschlandfunk.de, @mediasres 
+Feed: https://www.deutschlandfunk.de/mediasres-108.xml</description>
                 
                 
-                <link>https://popcorn-zum-mitnehmen.letscast.fm/episode/ep-081-mulholland-drive-2001</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/ccf931bf/episode/d176ecc7.mp3?t=1712247444"/>
-                <guid>https://popcorn-zum-mitnehmen.letscast.fm/episode/ep-081-mulholland-drive-2001</guid>
+                <link>https://www.deutschlandfunk.de/hamburg-mopo-nur-noch-wochenblatt-i-brandenburg-regionalitaet-gefoerdert-dlf-0193b66c-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/04/11/hamburg_mopo_nur_noch_wochenblatt_i_brandenburg_dlf_20240411_1535_0193b66c.mp3?refId=mediasres-108"/>
+                <guid>https://www.deutschlandfunk.de/hamburg-mopo-nur-noch-wochenblatt-i-brandenburg-regionalitaet-gefoerdert-dlf-0193b66c-100.html</guid>
                 
             </item>
         </channel>

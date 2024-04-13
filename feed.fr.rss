@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 11 Apr 2024 04:20:41 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 13 Apr 2024 04:19:00 +0200</lastBuildDate>
             <item>
-                <title>Épisode 138 : La délicieuse histoire du chocolat</title>
-                <description>Méprisé par Christophe Colomb, le cacao est rapporté du Mexique par Hernán Cortés en 1520. Nectar divin pour les Aztèques, les conquistadors associés à des dieux se voient offrir du xocoatl. Ainsi débute une longue histoire entre le chocolat et l&#39;élite...
-Feed: https://feed.ausha.co/BndDLTK0e1JG</description>
+                <title>Sara des neiges et Liberté en rayons</title>
+                <description>
+Feed: https://www.rts.ch/emissions/passe-moi-les-jumelles/podcasts/?format=rss/podcast</description>
                 
                 
-                <link>https://podcast.ausha.co/encre-d-histoires/episode-138-la-delicieuse-histoire-du-chocolat</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.soundcast.io/v1/stitch/ausha.mp3?tags=EE364382&amp;apiKey=c1a94b3301c64853868548ac73233ca1&amp;podcastUrl=https%3A%2F%2Faudio.ausha.co%2Fb3naliPJRvPw.mp3%3Ft%3D1712158309"/>
-                <guid>https://podcast.ausha.co/encre-d-histoires/episode-138-la-delicieuse-histoire-du-chocolat</guid>
+                <link>https://www.rts.ch/emissions/passe-moi-les-jumelles/2024/video/sara-des-neiges-et-liberte-en-rayons-28462729.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/14822120/7c948bdc-f7b5-360a-85ff-a5f0af4596f6.mp4"/>
+                <guid>https://www.rts.ch/emissions/passe-moi-les-jumelles/2024/video/sara-des-neiges-et-liberte-en-rayons-28462729.html</guid>
                 
             </item><item>
-                <title>N&#39;anticipez pas ce qui n&#39;existe pas</title>
-                <description>&lt;p&gt;&#34;Si j&#39;ai peur d&#39;une chose, elle m&#39;arrive. Ce qui m&#39;effraie tombe sur moi.&#34; Job 3/25&lt;/p&gt;
-Feed: https://feeds.captivate.fm/essentiel-bible-tresor-quotidien/</description>
+                <title>On sème FORT ! - Planter les pommes de terre - Emission du 12 avril</title>
+                <description>Au programme de cette émission : Au jardin, semis en place ou à l&#39;abri, et plantations au programme. On vous détaille tout !Nous répondrons à vos questions envoyées par mail à contact@monjardinbio.com (mailto:contact@monjardinbio.com)???? Retrouvez notre...
+Feed: https://feed.ausha.co/oRdQLT4qD569</description>
                 
                 
-                <link>https://essentielbible.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/a397b7d1-4146-44a8-ad69-37eaf3bcb3d0/pod-1104-Tr-sor-quotidien-N-anticipez-pas-ce-qui-n-existe-pas.mp3"/>
-                <guid>https://essentielbible.com/</guid>
+                <link>https://podcast.ausha.co/monjardinbio-podcast-jardinage-bio/on-seme-fort-planter-les-pommes-de-terre-emission-du-12-avril</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/y8zXKHP8zZO0.mp3?t=1712912111"/>
+                <guid>https://podcast.ausha.co/monjardinbio-podcast-jardinage-bio/on-seme-fort-planter-les-pommes-de-terre-emission-du-12-avril</guid>
                 
             </item>
         </channel>
