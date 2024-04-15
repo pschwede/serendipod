@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 13 Apr 2024 04:18:53 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 15 Apr 2024 04:32:11 +0200</lastBuildDate>
             <item>
-                <title>Mind your Manners</title>
-                <description>12.04.24 Pt 2 - Ben has a suggestion for J.K. Rowling’s next book. Philip Sykes from the British School of Excellence joins Gareth and Simphiwe for some etiquette lessons.
-Feed: https://iono.fm/rss/chan/1940</description>
+                <title>Episode 409: The Geometry of Sound</title>
+                <description>Researchers say people perceive sound based on where they are when they hear it. 
+Feed: https://media.azpm.org/master/doc//arizona-science.xml</description>
                 
                 
-                <link>https://iono.fm/e/1431291</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_179/epi_1431291_high.mp3?p=rss"/>
-                <guid>https://iono.fm/e/1431291</guid>
+                <link>https://originals.azpm.org/p/radio-azscience/2024/4/11/219843-the-geometry-of-sound/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G6E739/dts.podtrac.com/redirect.mp3/media.azpm.org/master/audio/2024/4/11/arizona-science/arizonascience-pgm390_2024-04-12-final-web.mp3"/>
+                <guid>https://originals.azpm.org/p/radio-azscience/2024/4/11/219843-the-geometry-of-sound/</guid>
                 
             </item><item>
-                <title>From Diagnosis to Leadership: Trevor Maxwell&#39;s Transformational Cancer Journey</title>
-                <description>Trevor Maxwell is the founder and CEO of Man Up to Cancer, a support community that inspires men to connect and avoid isolation during their cancer journeys. He is also the author of “Open Heart, Warrior Spirit: A Man’s Guide to Living with...
-Feed: https://gooddadproject.libsyn.com/rss</description>
+                <title>The Campaign Moment: It’s 1864 in Arizona</title>
+                <description>Martine Powers chats with Aaron Blake and Yvonne Wingett Sanchez about how an abortion ruling in Arizona is threatening to upend the election, how RFK Jr.’s candidacy helps Trump, and the former president’s first criminal trial beginning next week.
+Feed: https://podcast.posttv.com/itunes/post-reports.xml</description>
                 
                 
-                <link>http://gooddadproject.libsyn.com/from-diagnosis-to-leadership-trevor-maxwells-transformational-cancer-journey</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/gooddadproject/FF151-final.mp3?dest-id=264727"/>
-                <guid>http://gooddadproject.libsyn.com/from-diagnosis-to-leadership-trevor-maxwells-transformational-cancer-journey</guid>
+                <link>https://www.washingtonpost.com/podcasts/post-reports/the-campaign-moment-its-1864-in-arizona/?tid=aud_rsslink&amp;utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/7429E/podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/5bda0d64e4b02752889d6aaf/20240412/661997f29377264cd47d7523/t_1712953423992_name_t_1712953276981_name_PostReports_TCM_24_04_12_Mix_2_output.mp3?awCollectionId=5bda0d64e4b02752889d6aaf&amp;awEpisodeId=661997f29377264cd47d7523"/>
+                <guid>https://www.washingtonpost.com/podcasts/post-reports/the-campaign-moment-its-1864-in-arizona/?tid=aud_rsslink&amp;utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=post-reports</guid>
                 
             </item>
         </channel>

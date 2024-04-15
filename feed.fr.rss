@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 13 Apr 2024 04:19:00 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 15 Apr 2024 04:32:20 +0200</lastBuildDate>
             <item>
-                <title>Sara des neiges et Liberté en rayons</title>
-                <description>
-Feed: https://www.rts.ch/emissions/passe-moi-les-jumelles/podcasts/?format=rss/podcast</description>
+                <title>La salive est-elle un bon désinfectant ?</title>
+                <description>&lt;p&gt;Trois questions scientifiques par semaine !&lt;/p&gt;
+Feed: https://feeds.360.audion.fm/8Kimy_YgBmF8xaOaf3I6z</description>
                 
                 
-                <link>https://www.rts.ch/emissions/passe-moi-les-jumelles/2024/video/sara-des-neiges-et-liberte-en-rayons-28462729.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/14822120/7c948bdc-f7b5-360a-85ff-a5f0af4596f6.mp4"/>
-                <guid>https://www.rts.ch/emissions/passe-moi-les-jumelles/2024/video/sara-des-neiges-et-liberte-en-rayons-28462729.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/a9a97322-b9e8-4595-bbe0-d8be6b5c5fbd.mp3?from=Fyyd"/>
+                <guid></guid>
                 
             </item><item>
-                <title>On sème FORT ! - Planter les pommes de terre - Emission du 12 avril</title>
-                <description>Au programme de cette émission : Au jardin, semis en place ou à l&#39;abri, et plantations au programme. On vous détaille tout !Nous répondrons à vos questions envoyées par mail à contact@monjardinbio.com (mailto:contact@monjardinbio.com)???? Retrouvez notre...
-Feed: https://feed.ausha.co/oRdQLT4qD569</description>
+                <title>Le billet sciences du vendredi 12 avril 2024</title>
+                <description>durée : 00:02:15 - Le billet sciences 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20339.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/monjardinbio-podcast-jardinage-bio/on-seme-fort-planter-les-pommes-de-terre-emission-du-12-avril</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/y8zXKHP8zZO0.mp3?t=1712912111"/>
-                <guid>https://podcast.ausha.co/monjardinbio-podcast-jardinage-bio/on-seme-fort-planter-les-pommes-de-terre-emission-du-12-avril</guid>
+                <link>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/1b756f95-5438-4380-b2cf-835169704be5/20339-12.04.2024-ITEMA_23708464-2024I36368S0103-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</guid>
                 
             </item>
         </channel>

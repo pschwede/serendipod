@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 13 Apr 2024 04:19:14 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 15 Apr 2024 04:32:35 +0200</lastBuildDate>
             <item>
-                <title>Ep. 90: Ross Valory</title>
-                <description>Hosted by Dane Clark, Hugh Syme &amp; Andy Wilson
-Feed: https://feeds.megaphone.fm/musicbuzzz</description>
+                <title>New Music Friday: The best albums out April 12</title>
+                <description>NPR Music&#39;s Sheldon Pearce and WRTI&#39;s Nate Chinen take you through the biggest new releases of the week, including Maggie Rogers, Shabaka Hutchings and more...
+Feed: https://feeds.npr.org/510019/podcast.xml</description>
                 
                 
-                <link>https://www.musicbuzzzpodcast.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/p.podderapp.com/1394819820/chrt.fm/track/E74G3E/traffic.megaphone.fm/PAN9109409818.mp3?updated=1712877788"/>
-                <guid>https://www.musicbuzzzpodcast.com</guid>
+                <link>https://www.npr.org/2024/04/12/1197961125/new-music-friday-april-12-2024</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510019/traffic.megaphone.fm/NPR2858195930.mp3?d=2774&amp;size=88791294&amp;e=1197961125&amp;t=podcast&amp;p=510019"/>
+                <guid>https://www.npr.org/2024/04/12/1197961125/new-music-friday-april-12-2024</guid>
                 
             </item><item>
-                <title>SATURDAY RUB | No Bern, So Bill Does Nuff</title>
-                <description>&lt;p&gt;&lt;strong&gt;SATURDAY RUB | &lt;/strong&gt;This we are Bern-less, so Bill steps up to deliver Nuff; Bill revisits JB&#39;s spot on Dyl &amp;amp; Friends podcast; Damo has the latest news; and we&#39;re joined by Essendon&#39;s Dyson Heppell&lt;/p&gt;&lt;p&gt;See omnystudio.com/listener for privacy information.&lt;/p&gt;
-Feed: https://www.omnycontent.com/d/playlist/566281f8-200e-4c9f-8378-a4870055423b/d39d2ae0-a89b-428c-b6b3-a4df0050160b/afdb9862-4f27-42b1-9ed6-a4df005049c6/podcast.rss</description>
+                <title>U-Tah Tah Arizona</title>
+                <description>Hot off the reports that the NHL is preparing to relocate the Arizona Coyotes to Salt Lake City, Jeff Marek and Elliotte Friedman take you behind the scenes to uncover the series of events that lead to this week&#39;s big news. They also unpack what NHL fans can expect from the future Utah franchise.
+Feed: https://feeds.simplecast.com/fYqFr5h_</description>
                 
                 
-                <link>https://omny.fm/shows/the-rub/saturday-rub-no-bern-so-bill-does-nuff</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/566281f8-200e-4c9f-8378-a4870055423b/d39d2ae0-a89b-428c-b6b3-a4df0050160b/d93267c8-9adc-4961-b75d-b151003b0c4f/audio.mp3?utm_source=Podcast&amp;in_playlist=afdb9862-4f27-42b1-9ed6-a4df005049c6"/>
-                <guid>https://omny.fm/shows/the-rub/saturday-rub-no-bern-so-bill-does-nuff</guid>
+                <link>https://podcast.sportsnet.ca/31-thoughts/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/38G147/injector.simplecastaudio.com/005160cb-deeb-4cff-9d8f-0d8edaeef1e6/episodes/84719dff-c6c5-4db9-8552-5de5633ae187/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=005160cb-deeb-4cff-9d8f-0d8edaeef1e6&amp;awEpisodeId=84719dff-c6c5-4db9-8552-5de5633ae187&amp;feed=fYqFr5h_"/>
+                <guid>https://podcast.sportsnet.ca/31-thoughts/</guid>
                 
             </item>
         </channel>
