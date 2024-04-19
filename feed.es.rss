@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 15 Apr 2024 04:32:24 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Apr 2024 04:21:09 +0200</lastBuildDate>
             <item>
-                <title>Underground Garage: el primer gran concierto del rock</title>
-                <description>
-Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
+                <title>El Eclipse y El Debate Presidencial</title>
+                <description>En este episodio de No Hay Tos hablamos sobre el eclipse solar del 8 de abril y sobre el debate presidencial.
+Para ver la transcripción completa (word for word) de este episodio visítanos en Patreon. - Venos en video en YouTube. - ¡Si el podcast te es útil por favor déjanos un review en Apple Podcasts! - Donate: https://www.paypal...
+Feed: https://feeds.megaphone.fm/SONORO4487924320</description>
                 
                 
-                <link>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-primer-gran-concierto-del-rock-20240227_2482530</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rockfm-cdnmed.rockfm.fm/resources/mp3/8/3/1709025894238.mp3"/>
-                <guid>https://www.rockfm.fm/programas/little-stevens-underground-garage/audios/underground-garage-primer-gran-concierto-del-rock-20240227_2482530</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/SONORO1262513576.mp3?updated=1713027579"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Música antigua - Il combattimento di Tancredi e Clorinda - 09/04/24</title>
-                <description>Il combattimento di Tancredi e Clorinda
-Feed: http://api.rtve.es/api/programas/23353/audios.rss</description>
+                <title># 555 Vamos a Sambar</title>
+                <description>Hola Que Tal? El Carnaval se celebra y festeja en casi todo el Mundo, pero nada ni nadie como en Brasil. Vamos a Sambar. Elis Regina, Abilio Martins, Luis Bonfá, Stan Getz, Jorge Ben, Nara Leao…..y además Flavio Sala,
+Feed: https://feeds.feedburner.com/MsicaA4Manos</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/musica-antigua/il-combattimento-di-tancredi-clorinda-09-04-24/16053179/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16053179.mp3"/>
-                <guid>https://www.rtve.es/play/audios/musica-antigua/il-combattimento-di-tancredi-clorinda-09-04-24/16053179/</guid>
+                <link>https://www.musica4manos.com/555-vamos-a-sambar/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.musica4manos.com/musica4manos.com/mp3/555VamosaSambar.mp3"/>
+                <guid>https://www.musica4manos.com/555-vamos-a-sambar/</guid>
                 
             </item>
         </channel>

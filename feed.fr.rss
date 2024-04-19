@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 15 Apr 2024 04:32:20 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Apr 2024 04:21:06 +0200</lastBuildDate>
             <item>
-                <title>La salive est-elle un bon désinfectant ?</title>
-                <description>&lt;p&gt;Trois questions scientifiques par semaine !&lt;/p&gt;
-Feed: https://feeds.360.audion.fm/8Kimy_YgBmF8xaOaf3I6z</description>
+                <title>Publicitaire, Chanteur ou Comédien : Pourquoi Choisir ? | Richard Gotainer | Ep 98</title>
+                <description>Aujourd&#39;hui, c&#39;est un épisode madeleine de Proust pour moi. Car Richard Gotainer, mon 98e invité, a bercé mon enfance publicitairement et musicalement parlant.En effet, Richard a toujours mené de front une carrière dans la publicité, où il composait de...
+Feed: https://feed.ausha.co/blnJrf635QNe</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/a9a97322-b9e8-4595-bbe0-d8be6b5c5fbd.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/decodeur-de-la-communication/publicitaire-chanteur-ou-comedien-pourquoi-choisir-richard-gotainer</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BDMeNHlv0KPv.mp3?t=1713333021"/>
+                <guid>https://podcast.ausha.co/decodeur-de-la-communication/publicitaire-chanteur-ou-comedien-pourquoi-choisir-richard-gotainer</guid>
                 
             </item><item>
-                <title>Le billet sciences du vendredi 12 avril 2024</title>
-                <description>durée : 00:02:15 - Le billet sciences 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20339.xml</description>
+                <title>Session live à CISM : Session live : Anaïs Constantin</title>
+                <description>736-311162
+Feed: http://podcast.cism893.ca/radioshows/736/feed_itunes.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/1b756f95-5438-4380-b2cf-835169704be5/20339-12.04.2024-ITEMA_23708464-2024I36368S0103-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/311162.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/311162.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/311162.mp3</guid>
                 
             </item>
         </channel>

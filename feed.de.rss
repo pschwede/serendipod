@@ -9,26 +9,34 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 15 Apr 2024 04:32:17 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Apr 2024 04:21:02 +0200</lastBuildDate>
             <item>
-                <title>Hedwig Richter und Bernd Ulrich: &#34;Demokratie und Revolution&#34;</title>
-                <description>Klimawandel und Artensterben schreiten immer sichtbarer voran, w&amp;#228;hrend m&amp;#246;gliche Ma&amp;#223;nahmen gegen die Krise stocken &amp;#8211; sogern sie &amp;#252;berhaupt ergriffen werden. Zu den Ursachen z&amp;#228;hlt, dass Demokratie eher langsam ist und Politiker auf ihre Wiederwahl schielen, weshalb sie vor radikalen Ma&amp;#223;nahmen zur&amp;#252;ckschrecken...
-Feed: https://www.radiodrei.de/podcasts/aktuell/literatur-aktuell.xml/feed=podcast.xml</description>
+                <title>Militärexperte Lange: „Strategiewechsel der Russen – komplette Zerstörung“</title>
+                <description>F.A.Z. Podcast für Deutschland
+Feed: https://podcastfuerdeutschland.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://rbbmediapmdp-a.akamaihd.net/content/c5/e8/c5e8db04-b73e-40ad-833b-c229aa72b80b/1f0cb58c-de13-43f1-9469-1381ac5cde6f_e93e4a75-360f-40e6-9f90-89692fb81ec8.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rbbmediapmdp-a.akamaihd.net/content/c5/e8/c5e8db04-b73e-40ad-833b-c229aa72b80b/1f0cb58c-de13-43f1-9469-1381ac5cde6f_e93e4a75-360f-40e6-9f90-89692fb81ec8.mp3"/>
-                <guid>https://rbbmediapmdp-a.akamaihd.net/content/c5/e8/c5e8db04-b73e-40ad-833b-c229aa72b80b/1f0cb58c-de13-43f1-9469-1381ac5cde6f_e93e4a75-360f-40e6-9f90-89692fb81ec8.mp3</guid>
+                <link>https://podcastfuerdeutschland.podigee.io/1083-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1424166-m-4ea859d58d77ec6b02db89779106128f.mp3?source=feed"/>
+                <guid>https://podcastfuerdeutschland.podigee.io/1083-neue-episode</guid>
                 
             </item><item>
-                <title>15. April 2024</title>
-                <description>
-Feed: https://www.audioteaching.org/podcasts/1.xml</description>
+                <title>LL280 Maintainers chained by supply</title>
+                <description>&lt;strong&gt;Neues aus dem Repo&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Podman 5.0 - Docker kompatible Alternative&lt;/li&gt;
+&lt;li&gt;TornadoVM 1.0(.3) Release erlaubt Java auf der GPU&lt;/li&gt;
+&lt;li&gt;Dangerzone 0.6.0 vereinfacht Codebasis mit PyMuPDF und wechselt Lizenz&lt;/li&gt;
+&lt;li&gt;Penpot 2.0: Grafik-Design im Web&lt;/li&gt;
+&lt;li&gt;AMD FSR 3.1 bringt Vulkan API Support&lt;/li&gt;
+&lt;li&gt;Intel NPU Treiber 1.2 für GPU beschleunigte Workloads&lt;/li&gt;
+&lt;li&gt;ZSTD 1.5...
+Feed: https://rec.theradio.cc/feeds/linuxlounge/mp3/</description>
                 
                 
-                <link>https://www.audioteaching.org/de/devotionals/57/naeher-zu-dir-2024</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.audioteaching.org/api/calendar/nzd/2024-04-15.mp3"/>
-                <guid>https://www.audioteaching.org/de/devotionals/57/naeher-zu-dir-2024</guid>
+                <link>https://rec.theradio.cc/item/ll280-maintainers-chained-by-supply</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rec.theradio.cc/auphonic/20240414_linuxlounge280.mp3"/>
+                <guid>https://rec.theradio.cc/item/ll280-maintainers-chained-by-supply</guid>
                 
             </item>
         </channel>
