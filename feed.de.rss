@@ -9,34 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 19 Apr 2024 04:21:02 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 20 Apr 2024 04:22:36 +0200</lastBuildDate>
             <item>
-                <title>Militärexperte Lange: „Strategiewechsel der Russen – komplette Zerstörung“</title>
-                <description>F.A.Z. Podcast für Deutschland
-Feed: https://podcastfuerdeutschland.podigee.io/feed/mp3</description>
+                <title>Trotz Klima, Krieg und Inflation - Die Lust auf (Fern-)Reisen</title>
+                <description> Adalbert Siniawski www.deutschlandfunk.de, Lebenszeit 
+Feed: https://www.deutschlandfunk.de/lebenszeit-podcast-100.xml</description>
                 
                 
-                <link>https://podcastfuerdeutschland.podigee.io/1083-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1424166-m-4ea859d58d77ec6b02db89779106128f.mp3?source=feed"/>
-                <guid>https://podcastfuerdeutschland.podigee.io/1083-neue-episode</guid>
+                <link>https://www.deutschlandfunk.de/trotz-klima-krieg-und-inflation-die-lust-auf-fern-reisen-dlf-d8c8e3e8-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/04/19/trotz_klima_krieg_und_inflation_die_lust_auf_fern_reisen_dlf_20240419_1008_d8c8e3e8.mp3?refId=lebenszeit-podcast-100"/>
+                <guid>https://www.deutschlandfunk.de/trotz-klima-krieg-und-inflation-die-lust-auf-fern-reisen-dlf-d8c8e3e8-100.html</guid>
                 
             </item><item>
-                <title>LL280 Maintainers chained by supply</title>
-                <description>&lt;strong&gt;Neues aus dem Repo&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Podman 5.0 - Docker kompatible Alternative&lt;/li&gt;
-&lt;li&gt;TornadoVM 1.0(.3) Release erlaubt Java auf der GPU&lt;/li&gt;
-&lt;li&gt;Dangerzone 0.6.0 vereinfacht Codebasis mit PyMuPDF und wechselt Lizenz&lt;/li&gt;
-&lt;li&gt;Penpot 2.0: Grafik-Design im Web&lt;/li&gt;
-&lt;li&gt;AMD FSR 3.1 bringt Vulkan API Support&lt;/li&gt;
-&lt;li&gt;Intel NPU Treiber 1.2 für GPU beschleunigte Workloads&lt;/li&gt;
-&lt;li&gt;ZSTD 1.5...
-Feed: https://rec.theradio.cc/feeds/linuxlounge/mp3/</description>
+                <title>Die Deutsche Carnivore Studie</title>
+                <description>&lt;p&gt;Herzlichen Dank an unsere WERBEPARTNER:&lt;/p&gt;&lt;p&gt;www.carnivoro.eu: Supplemente rund um die Carnivore Ernährung&lt;/p&gt;&lt;p&gt;Mit dem Gutscheincode CARNITARIER erhältst du 10 % Rabatt auf deinen ersten Einkauf! &lt;/p&gt;&lt;p&gt;Affiliate Link: www.carnivoro.eu/carnitarierin&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;www.kaufnekuh.de: Fleisch aus artgerechter Haltung mit fairen Preisen für Landwirte&lt;/p&gt;&lt;p&gt;Mit dem Gutscheincode CARNITARIER erhältst du 10 € Ermäßigung auf deinen Einkauf ab 50 €.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Folge 139: Dr...
+Feed: https://feeds.simplecast.com/pZ_Ke7gv</description>
                 
                 
-                <link>https://rec.theradio.cc/item/ll280-maintainers-chained-by-supply</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rec.theradio.cc/auphonic/20240414_linuxlounge280.mp3"/>
-                <guid>https://rec.theradio.cc/item/ll280-maintainers-chained-by-supply</guid>
+                <link>https://carnitarier.de/fleischzeitpodcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/E6B16A/cdn.simplecast.com/audio/68507c16-c4df-4403-a9cd-6f474de070e5/episodes/1e1aec5a-e48b-48a4-90a2-d4e2c37ddfc6/audio/11e8b3a9-e434-42fa-b3f0-2fa5c303d978/default_tc.mp3?aid=rss_feed&amp;feed=pZ_Ke7gv"/>
+                <guid>https://carnitarier.de/fleischzeitpodcast</guid>
                 
             </item>
         </channel>
