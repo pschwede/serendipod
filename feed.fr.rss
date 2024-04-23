@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 21 Apr 2024 04:24:32 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 23 Apr 2024 04:22:19 +0200</lastBuildDate>
             <item>
-                <title>Les différentes formes de cultures biologiques</title>
-                <description>En plus de 100 ans, la culture biologique a pris différentes formes. Toutes ont un intérêt pour le jardinier qui se préoccupe de son environnement et de sa santé.
-Feed: https://radiolegumes.com/feed/podcast/</description>
+                <title>Affaire Véronique Lardé : &#34;le fantôme d&#39;une empoisonneuse&#34;, raconté par l&#39;avocat Loïc Bussy</title>
+                <description>Le 25 octobre 2016, Véronique Lardé ne se présente pas au deuxième jour de son procès à Saint-Omer (Pas-de-Calais). La Cour apprend que l&#39;accusée s&#39;est donné la mort dans la nuit et ne sera jamais jugée.
+Passée la stupéfaction, viennent les questions et la frustra...
+Feed: https://feeds.audiomeans.fr/feed/ff5d679f-7715-44f3-840a-08858189e727.xml</description>
                 
                 
-                <link>https://radiolegumes.com/les-differentes-formes-de-cultures-biologiques/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=les-differentes-formes-de-cultures-biologiques</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/radoilegumes/content.blubrry.com/radoilegumes/Culture_biologiques_Podcast_Balado.mp3"/>
-                <guid>https://radiolegumes.com/les-differentes-formes-de-cultures-biologiques/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=les-differentes-formes-de-cultures-biologiques</guid>
+                <link>https://www.rtl.fr/programmes/les-voix-du-crime</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/e52b7279-dff2-4ba6-842a-2e767d06c9a2.mp3?_=1713278284"/>
+                <guid>https://www.rtl.fr/programmes/les-voix-du-crime</guid>
                 
             </item><item>
-                <title>&#34;Au Moulin Rouge&#34; d&#39;Henri de Toulouse-Lautrec (1892-1895)</title>
-                <description>&#34;Au Moulin Rouge&#34; d&#39;Henri de Toulouse-Lautrec (1892-1895)
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13090.xml</description>
+                <title>La fin n&#39;est qu&#39;un début (Kaorin #222)</title>
+                <description>Pour ces héros, la mort n&#39;est qu&#39;un commencement !
+Feed: https://kaorin.fr/podcast_kaorin.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-regardeurs/au-moulin-rouge-1892-1895-par-henri-de-toulouse-lautrec-2037060</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/6cb8b420-ab3b-4948-8443-184a508d5595/13090-14.04.2024-ITEMA_23709969-2024C21360E0014-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-regardeurs/au-moulin-rouge-1892-1895-par-henri-de-toulouse-lautrec-2037060</guid>
+                <link>https://kaorin.fr/podcast/kaorin-222/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/kaorin.fr/dl/Kaorin222.mp3"/>
+                <guid>https://kaorin.fr/podcast/kaorin-222/</guid>
                 
             </item>
         </channel>
