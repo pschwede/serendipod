@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 23 Apr 2024 04:22:14 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 24 Apr 2024 04:21:09 +0200</lastBuildDate>
             <item>
-                <title>Tiere - Kniesaurus</title>
-                <description>Die versteinerten Überreste unseres Tieres lagen mindestens 228 Millionen Jahre unentdeckt in der Erde. Bis sie im Jahr 1991 von einer Forschergruppe in Argentinien ausgegraben wurden. Ja, das Tier, das wir suchen, ist bzw. war ein Dinosaurier. Und zwar nicht irgendeiner. Sondern einer der ältesten bekannten Dinosaurier überhaupt. Und? Weißt du’s schon? Was suchen wir? Ich sag’ es dir!
-Infos zu den Werbepartnern:
-https://weisstdusschon...
-Feed: https://weisstdusschon.podigee.io/feed/mp3</description>
+                <title>Tödliches Schweigen - Die Journalistin Sabine Wachs im Gespräch</title>
+                <description>Im April 1994 begann in Ruanda ein Völkermord. Extremistische Hutu töteten in kurzer Zeit über 800.000 Menschen, meist Tutsi. Die Welt sah tatenlos zu. Dabei gab es schon vor dem Genozid Hinweise darauf, dass die Gewalt eskalieren könnte. Im Gespräch mit Johannes Döbbelt erzählt die Journalistin Sabine Wachs, welche Rolle Deutschland und Frankreich dabei spielten...
+Feed: https://www1.wdr.de/mediathek/audio/wdr/ard-radiofeature/radiofeature-110.podcast</description>
                 
                 
-                <link>https://weisstdusschon.de</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1431335-m-554a1400b6c388dbbd38c747c1e6a485.mp3?source=feed"/>
-                <guid>https://weisstdusschon.de</guid>
+                <link>https://www1.wdr.de/mediathek/audio/wdr/ard-radiofeature/audio-toedliches-schweigen---die-journalistin-sabine-wachs-im-gespraech-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/309/3096442/ardradiofeature_2024-04-07_toedlichesschweigendiejournalistinsabinewachsimgespraech_ard.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/wdr/ard-radiofeature/audio-toedliches-schweigen---die-journalistin-sabine-wachs-im-gespraech-100.html</guid>
                 
             </item><item>
-                <title>The Tortured Wallet Department</title>
-                <description>Der Winter nähert sich langsam seinem Ende, die ersten Frühlingsboten kündigen sich an... höchste Zeit für eine neue Folge der Brüllaffencouch. Wir sind aus unserem Winterschlaf erwacht und haben Euch viele Themen mitgebracht. Viel Spaße.
-Feed: https://www.bruellaffencouch.de/feed/m4a/</description>
+                <title>Kann Optimismus das Klima retten?</title>
+                <description>Können wir mit Optimismus das Klima retten? Influencerinnen und Influencer verbreiten gute Nachrichten und glauben, dass sie Menschen damit besser erreichen, als mit Panik und Angst.
+&gt;&gt; …
+Feed: https://feedpress.me/detektorfm_mission-energiewende</description>
                 
                 
-                <link>https://www.bruellaffencouch.de/2024/03/02/folge-390-the-tortured-wallet-department/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.bruellaffencouch.de/podlove/file/9047/s/feed/c/m4a/bac390.m4a"/>
-                <guid>https://www.bruellaffencouch.de/2024/03/02/folge-390-the-tortured-wallet-department/</guid>
+                <link>https://feedpress.me/link/19550/16661920/mission-energiewende-klima-optimismus</link>
+                <enclosure type="audio/mpeg" length="1" url="https://flex2.acast.com/s/mission-energiewende-detektorfm/u/detektor.fm/wp-content/uploads/2024/04/me-klima-optimismus.70733.mp3"/>
+                <guid>https://feedpress.me/link/19550/16661920/mission-energiewende-klima-optimismus</guid>
                 
             </item>
         </channel>

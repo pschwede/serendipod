@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 23 Apr 2024 04:22:39 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 24 Apr 2024 04:21:28 +0200</lastBuildDate>
             <item>
-                <title>Bob Richert POI mixdown 01</title>
-                <description>
-Feed: https://pointofinquiry.libsyn.com/rss</description>
+                <title>Feeding the world and the Green Revolution</title>
+                <description>Turning points in arable farming
+Feed: https://podcasts.files.bbci.co.uk/p004kln9.rss</description>
                 
                 
-                <link>https://pointofinquiry.libsyn.com/bob-richert-poi-mixdown-01</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/pointofinquiry/Bob_Richert_POI_mixdown_01.mp3?dest-id=14601"/>
-                <guid>https://pointofinquiry.libsyn.com/bob-richert-poi-mixdown-01</guid>
+                <link>http://www.bbc.co.uk/programmes/w3ct5n07</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0hq9nr9.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/w3ct5n07</guid>
                 
             </item><item>
-                <title>Lay it on thick</title>
-                <description>An expression about exaggerating or praising someone too much.
-Feed: https://podcasts.files.bbci.co.uk/p02pc9zn.rss</description>
+                <title>PALISADE 45: Where They Are Pt. 3</title>
+                <description>As Palisade eases into its new orbit, the people below face a new marker of evening. Yes, the dual moons of Chimera’s Lantern and Travertine remain above them. But now night brings a new absence: Gone are Gift-3 and Seneschal, Altar and Moonlock,...
+Feed: https://friendsatthetable.libsyn.com/rss</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0hr27q5</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0hr26lj.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0hr27q5</guid>
+                <link>http://friendsatthetable.net/palisade-45-where-they-are-pt-3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/friendsatthetable/FatT438PS45.mp3?dest-id=550849"/>
+                <guid>http://friendsatthetable.net/palisade-45-where-they-are-pt-3</guid>
                 
             </item>
         </channel>

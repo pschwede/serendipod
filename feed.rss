@@ -9,27 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 23 Apr 2024 04:22:09 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 24 Apr 2024 04:21:05 +0200</lastBuildDate>
             <item>
-                <title>Columbia U Protests + the Kent State Massacre, Project Censored&#39;s State of the Free Press 2024, Forever Chemicals, &amp; Remembering Daniel Ellsberg w/ Mickey Huff</title>
-                <description>
-On this edition of Parallax Views, Project Censored&#39;s Mickey Huff joins us to discuss Project Censored&#39;s State of the Free Press 2024, the media watchdog group&#39;s annual round-up of the most censored news stories in the United States. However, rather...
-Feed: https://parallaxviews.podbean.com/feed.xml</description>
+                <title>260: LXQt Desktop, Nouveau Lead Joins NVIDIA, AlmaLinux making waves, New Linux Tablet &amp; more Linux news</title>
+                <description>We have some very interesting news this week, we’ve got a brand new major release of the LXQt desktop environment, there’s a strange but potentially good twist in the ongoing saga of Nvidia and open source drivers,
+Feed: https://tuxdigital.com/feed/thisweekinlinux-mp3</description>
                 
                 
-                <link>https://parallaxviews.podbean.com/e/mhuff2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/t2wvcsvswgt3cdf7/ParallaxViewsMickeyHuff2024.mp3"/>
-                <guid>https://parallaxviews.podbean.com/e/mhuff2024/</guid>
+                <link>https://tuxdigital.com/podcasts/this-week-in-linux/twil-260/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/aphid.fireside.fm/d/1437767933/2389be04-5c79-485e-b1ca-3a5b2cebb006/aa848458-f48e-48f5-8a66-ba5aaafce1f1.mp3"/>
+                <guid>https://tuxdigital.com/podcasts/this-week-in-linux/twil-260/</guid>
                 
             </item><item>
-                <title>Radio War Nerd EP 439 — The Battle of Kursk, Pt. 2: Prokhorovka and Nazi Retreat (feat. Annibale)</title>
-                <description>Co-hosts John Dolan &amp; Mark Ames
-Feed: http://exiledonline.com/45wn84klrz/feed.xml</description>
+                <title>Election-year fundraising with Shanna Kirby of Classy</title>
+                <description>
+Shanna Birky is the Vice President, Customer Experience at Classy, &#34;a giving platform that enables nonprofits to connect supporters with the causes they care about.&#34; Classy is presenting a webinar on election-year fundraising on May 1, 2024.
+ 
+Shann...
+Feed: https://feed.podbean.com/nextinnonprofits/feed.xml</description>
                 
                 
-                <link>http://exiledonline.com/45wn84klrz/?name=rwn_ep_439_041824_v21.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://exiledonline.com/45wn84klrz/media/rwn_ep_439_041824_v21.mp3"/>
-                <guid>http://exiledonline.com/45wn84klrz/?name=rwn_ep_439_041824_v21.mp3</guid>
+                <link>https://nextinnonprofits.podbean.com/e/election-year-fundraising-with-shanna-kirby-of-classy/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/zaiqxqaynbduefqk/ElectionYearFundraising2024.mp3"/>
+                <guid>https://nextinnonprofits.podbean.com/e/election-year-fundraising-with-shanna-kirby-of-classy/</guid>
                 
             </item>
         </channel>
