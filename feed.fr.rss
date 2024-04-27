@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 26 Apr 2024 04:21:10 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 27 Apr 2024 04:20:33 +0200</lastBuildDate>
             <item>
-                <title>Parcours naturels dans le Perche</title>
-                <description>Parcours naturels dans le Perche
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10006.xml</description>
+                <title>COLD CASE - 9. Matthieu Haulbert, &#34;le disparu de la route Napoléon&#34;</title>
+                <description>On les appelle des &#34;cold case&#34;, des &#34;affaires classées&#34;. Depuis 2022, un pôle spécialisé à Nanterre dans les Hauts-de-Seine a la main sur ces dossiers criminels non-élucidées.
+Cette cellule inédite a un but : résoudre ces affaires de meurtres ou de disparitions po...
+Feed: https://feeds.audiomeans.fr/feed/ff5d679f-7715-44f3-840a-08858189e727.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-21-avril-2024-6552862</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c653a6ac-3012-4b15-84c0-37c2ce8e9357/10006-21.04.2024-ITEMA_23717000-2024F5147S0112-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-21-avril-2024-6552862</guid>
+                <link>https://www.rtl.fr/programmes/les-voix-du-crime</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/d4eba517-fbb5-4277-8fa8-2fd551c1c4a9.mp3?_=1704471781"/>
+                <guid>https://www.rtl.fr/programmes/les-voix-du-crime</guid>
                 
             </item><item>
-                <title>TALMUDIQUES, émission du dimanche 21 avril 2024</title>
-                <description>TALMUDIQUES, émission du dimanche 21 avril 2024
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13094.xml</description>
+                <title>[Extrait] Dans le prochain épisode des Couilles sur la table</title>
+                <description>&lt;p&gt;Dans le prochain épisode des Couilles sur la table, Victoire Tuaillon recevra Lorraine de Foucher et Henri Seckel, deux journalistes du Monde qui ont suivi l’affaire Salim Berrada, surnommé «&amp;nbsp;le violeur de Tinder&amp;nbsp;».&lt;/p&gt;&lt;br&gt;&lt;p&gt;Un épisode à retrouver sur toutes les plateformes de podcast et sur le site binge.audio dès le jeudi 2 mai 2024.&lt;/p&gt;&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hébergé par Acast. Visitez acast.com/privacy pour plus d&#39;informations.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/aa928f4a-8155-4b36-b190-4dfd32da8a84</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/talmudiques-emission-du-dimanche-21-avril-2024-7075589</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/2e0527ae-fd4e-4eb9-8c2e-75a315ebaade/13094-21.04.2024-ITEMA_23717084-2024C21364E0016-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/talmudiques-emission-du-dimanche-21-avril-2024-7075589</guid>
+                <link>https://www.binge.audio/podcast/les-couilles-sur-la-table</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/les-couilles-sur-la-table/e/662900c933dbf40012baee16/media.mp3"/>
+                <guid>https://www.binge.audio/podcast/les-couilles-sur-la-table</guid>
                 
             </item>
         </channel>
