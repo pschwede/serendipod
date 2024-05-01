@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 27 Apr 2024 04:20:38 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 May 2024 04:21:44 +0200</lastBuildDate>
             <item>
-                <title>Radioyentes 364 enigmas economía y estrellas</title>
-                <description>Como todas las semanas, aquí estamos una vez más dispuestos a recomendaros diversos espacios que hemos descubierto estos días, todo ello en un repaso que comienza hablando de Enigmas Mortales que es un espacio en el que encontramos los relatos de misterio, crímenes y asesinatos más terribles, oscuros y desconocidos, con conspiraciones, fenómenos paranormales, leyendas urbanas y mucho más. Todo ello narrado con un estilo ágil, dinámico y envolvente, que nos hace sentir parte de la historia...
-Feed: https://www.ivoox.com/podcast-radioyentes_fg_f1463235_filtro_1.xml</description>
+                <title>Pero qué invento es esto! - Los Satélites y los bulos del Sputnik</title>
+                <description>Los Satélites y los bulos del Sputnik
+Feed: https://www.rtve.es/api/programas/133133/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/radioyentes-364-enigmas-economia-estrellas-audios-mp3_rf_125653803_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-364-enigmas-economia-estrellas_mf_125653803_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/radioyentes-364-enigmas-economia-estrellas-audios-mp3_rf_125653803_1.html</guid>
+                <link>https://www.rtve.es/play/audios/pero-que-invento-es-esto/satelites-bulos-del-sputnik/16076587/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16076587.mp3"/>
+                <guid>https://www.rtve.es/play/audios/pero-que-invento-es-esto/satelites-bulos-del-sputnik/16076587/</guid>
                 
             </item><item>
-                <title>Ars canendi - La voz del oyente - 21/04/24</title>
-                <description>La voz del oyente
-Feed: http://api.rtve.es/api/programas/1888/audios.rss</description>
+                <title>WordPress 6.6 busca líderes</title>
+                <description>Faltan menos de 3 meses para la llegada de WordPress 6.6 y el equipo líder todavía no está finalizado, y tampoco están claras las funcionalidades que incorporará.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/ars-canendi/ars-canendi-voz-del-oyente-21-04-24/16070365/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16070365.mp3"/>
-                <guid>https://www.rtve.es/play/audios/ars-canendi/ars-canendi-voz-del-oyente-21-04-24/16070365/</guid>
+                <link>https://www.wppodcast.es/podcast/wordpress-6-6-busca-lideres/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/251/s/feed/c/podcast/wordpress-podcast-e204.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/wordpress-6-6-busca-lideres/</guid>
                 
             </item>
         </channel>
