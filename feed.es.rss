@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 01 May 2024 04:21:44 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 02 May 2024 04:22:00 +0200</lastBuildDate>
             <item>
-                <title>Pero qué invento es esto! - Los Satélites y los bulos del Sputnik</title>
-                <description>Los Satélites y los bulos del Sputnik
-Feed: https://www.rtve.es/api/programas/133133/audios.rss</description>
+                <title>Serie Emociones - Parte 2 Alivio en la ansiedad, Ps.Santiago Moya</title>
+                <description>
+Feed: https://arboldevida.podbean.com/feed.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/pero-que-invento-es-esto/satelites-bulos-del-sputnik/16076587/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16076587.mp3"/>
-                <guid>https://www.rtve.es/play/audios/pero-que-invento-es-esto/satelites-bulos-del-sputnik/16076587/</guid>
+                <link>https://arboldevida.podbean.com/e/serie-emociones-parte-2-alivio-en-la-ansiedad-pssantiago-moya/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/82sui6qsfusqpwgs/15-Emociones_Encontrando_Alivio_en_la_Ansiedad_Pt_2_Ps_Santiago_Moya_21-04-249v4lo.mp3"/>
+                <guid>https://arboldevida.podbean.com/e/serie-emociones-parte-2-alivio-en-la-ansiedad-pssantiago-moya/</guid>
                 
             </item><item>
-                <title>WordPress 6.6 busca líderes</title>
-                <description>Faltan menos de 3 meses para la llegada de WordPress 6.6 y el equipo líder todavía no está finalizado, y tampoco están claras las funcionalidades que incorporará.
-Feed: https://www.wppodcast.es/feed/podcast/</description>
+                <title>MASI y el apoyo a los CONCURSANTES de OPERACIÓN TRIUNFO</title>
+                <description>&lt;p&gt;Buenismo Bien es un programa que se puede ver y escuchar en EXCLUSIVA en Podimo. 30 días gratis para probar la app aquí: https://go.podimo.com/es/buenismo &lt;br&gt;&lt;/p&gt;
+Feed: https://fapi-top.prisasd.com/podcast/playser/buenismo_bien/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.wppodcast.es/podcast/wordpress-6-6-busca-lideres/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/251/s/feed/c/podcast/wordpress-podcast-e204.mp3"/>
-                <guid>https://www.wppodcast.es/podcast/wordpress-6-6-busca-lideres/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/BUENISMO_BIEN_SER_PODCAST_1082_P/media/playser/audio/20244/12/1712918837715_47720.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
