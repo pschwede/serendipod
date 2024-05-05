@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 04 May 2024 04:23:26 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 May 2024 04:23:05 +0200</lastBuildDate>
             <item>
-                <title>Podcast FDC 112 – 50 años de ‘It’s Alive’</title>
-                <description>Una retrospectiva a la obra de Larry Cohen. A 50 años de su estreno, It’s Alive resulta siendo hoy más relevante que en los 70s. El terror a la paternidad continúa formando parte de nuestra realidad y esta película lo retrata de una forma muy particula...
-Feed: https://fueradelcine.com/feed/podcast/</description>
+                <title>Dance Live Sessions #279</title>
+                <description>Ivan Voltes selects his favourite tracks of the moment every week live in the mix.
+Broadcasting LIVE every Thursday at 1pm EDT | 8pm GMT | 9pm CET on Twitch and YouTube.
+Tracklist: 1001.tl/d5hh1v
+@dancelive Official Spotify Playlists: linktr.ee/dancelive
+If you are a radio station interested in airing the show please contact here: dancelive.es@gmail.com
+Feed: https://www.ivoox.com/ivan-voltes-presents-dance-live-radio_fg_f1166124_filtro_1.xml</description>
                 
                 
-                <link>https://fueradelcine.com/podcast-fdc-112-50-anos-de-its-alive/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/fueradelcine/www.fueradelcine.com/podcasts/ep-112-fdc-2024-04-30.mp3"/>
-                <guid>https://fueradelcine.com/podcast-fdc-112-50-anos-de-its-alive/</guid>
+                <link>https://www.ivoox.com/dance-live-sessions-279-audios-mp3_rf_127456850_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/dance-live-sessions-279_mf_127456850_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/dance-live-sessions-279-audios-mp3_rf_127456850_1.html</guid>
                 
             </item><item>
-                <title>SD Contra 31: Anuario yihadista 2023; terrorismo en España e Italia; actualidad Centro Memorial Víctimas del Terrorismo</title>
-                <description>Carlos Igualada, director del Observatorio Internacional de Estudios sobre Terrorismo (OIET), visita los micr&amp;oacute;fonos de #SierraDelta Contra #sdcontra31 para dar a conocer la informaci&amp;oacute;n m&amp;aacute;s relevante del &#34;Anuario del terrorismo yihadista 2023&#34;. Adem&amp;aacute;s, este experto analiza la tendencias y din&amp;aacute;micas del terrorismo en la actualidad, as&amp;iacute; como su previsible evoluci&amp;oacute;n en el futuro...
-Feed: https://www.ivoox.com/sierra-delta_fg_f1507669_filtro_1.xml</description>
+                <title>Turbo 3 - Sesión 100% cañonazos - 02/05/24</title>
+                <description>Sesión 100% cañonazos
+Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/sd-contra-31-anuario-yihadista-2023-terrorismo-en-audios-mp3_rf_128395303_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sd-contra-31-anuario-yihadista-2023-terrorismo-en_mf_128395303_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/sd-contra-31-anuario-yihadista-2023-terrorismo-en-audios-mp3_rf_128395303_1.html</guid>
+                <link>https://www.rtve.es/play/audios/turbo-3/sesion-100-canonazos-02-05-24/16086773/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16086773.mp3"/>
+                <guid>https://www.rtve.es/play/audios/turbo-3/sesion-100-canonazos-02-05-24/16086773/</guid>
                 
             </item>
         </channel>
