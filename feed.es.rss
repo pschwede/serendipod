@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 05 May 2024 04:23:05 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 07 May 2024 04:23:04 +0200</lastBuildDate>
             <item>
-                <title>Dance Live Sessions #279</title>
-                <description>Ivan Voltes selects his favourite tracks of the moment every week live in the mix.
-Broadcasting LIVE every Thursday at 1pm EDT | 8pm GMT | 9pm CET on Twitch and YouTube.
-Tracklist: 1001.tl/d5hh1v
-@dancelive Official Spotify Playlists: linktr.ee/dancelive
-If you are a radio station interested in airing the show please contact here: dancelive.es@gmail.com
-Feed: https://www.ivoox.com/ivan-voltes-presents-dance-live-radio_fg_f1166124_filtro_1.xml</description>
+                <title>No es un día cualquiera- Especial NEUDC 2000+1: Emociones musicales con Rozalén, Sole Giménez y Miguel Ríos</title>
+                <description>Especial NEUDC 2000+1: Emociones musicales con Rozalén, Sole Giménez y Miguel Ríos
+Feed: http://api.rtve.es/api/programas/2054/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/dance-live-sessions-279-audios-mp3_rf_127456850_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/dance-live-sessions-279_mf_127456850_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/dance-live-sessions-279-audios-mp3_rf_127456850_1.html</guid>
+                <link>https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-especial-neudc-20001-emociones-musicales-rozalen-sole-gimenez-miguel-rios/16089572/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16089572.mp3"/>
+                <guid>https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-especial-neudc-20001-emociones-musicales-rozalen-sole-gimenez-miguel-rios/16089572/</guid>
                 
             </item><item>
-                <title>Turbo 3 - Sesión 100% cañonazos - 02/05/24</title>
-                <description>Sesión 100% cañonazos
-Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
+                <title>VI Domingo de Pascua (B)</title>
+                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Juan 15, 9-17. Gloria a ti, Señor. En aquel tiempo, Jesús dijo a sus discípulos: “Como &amp;#8230;
+Feed: http://feed.quechilero.com/PodcastCatedralDeEscuintla</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/turbo-3/sesion-100-canonazos-02-05-24/16086773/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16086773.mp3"/>
-                <guid>https://www.rtve.es/play/audios/turbo-3/sesion-100-canonazos-02-05-24/16086773/</guid>
+                <link>https://catedraldeescuintla.com/vi-domingo-de-pascua-b-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://catedraldeescuintla.com/podcast-download/8023/vi-domingo-de-pascua-b-2024.mp3"/>
+                <guid>https://catedraldeescuintla.com/vi-domingo-de-pascua-b-2024/</guid>
                 
             </item>
         </channel>

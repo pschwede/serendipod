@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 05 May 2024 04:23:16 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 07 May 2024 04:23:14 +0200</lastBuildDate>
             <item>
-                <title>D-Day: The German Side (Episode 1)</title>
-                <description>May 1944, it is clear to Ernst Rommel that the Allied counter attack is just a few weeks away. The answer is simple - defend the Atlantic Wall.
-But Nazi infighting and ludicrous top-down decision making has led to chaos on the Western Front...
-Feed: https://feeds.megaphone.fm/GLT8434431415</description>
+                <title>Picture Perfect</title>
+                <description>A picture is worth a thousand words. Unless it leaves you speechless. 
+Feed: https://feeds.spookedpodcast.org</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/A27C8C/traffic.megaphone.fm/GLT2747979685.mp3?updated=1714570563"/>
-                <guid></guid>
+                <link>https://play.prx.org/listen?ge=prx_409_eea0ec30-8cef-49a6-a43d-1902cbabb7c5&amp;uf=https%3A%2F%2Ffeeds.spookedpodcast.org</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdrl.fm/d6a36b/dovetail.prxu.org/_/409/eea0ec30-8cef-49a6-a43d-1902cbabb7c5/SP8_Picture_Perfect_Master_v1__-16.1_lufs_.mp3"/>
+                <guid>https://play.prx.org/listen?ge=prx_409_eea0ec30-8cef-49a6-a43d-1902cbabb7c5&amp;uf=https%3A%2F%2Ffeeds.spookedpodcast.org</guid>
                 
             </item><item>
-                <title>S9 Ep17: Sharlene Hector, Grace / Alice in Standing at the Sky&#39;s Edge</title>
-                <description>&lt;p&gt;Sharlene Hector is playing Grace / Alice in Standing at the Sky&amp;apos;s Edge at the Gillian Lyne Theatre. &lt;br/&gt;&lt;br/&gt;Originally written as a love letter to Sheffield, Standing at the Sky&amp;apos;s Edge has transferred to the West End following triumphant runs at the National Theatre and  Crucible Theatre in Sheffield. The show is directed by Robert Hastie, featuring songs by Richard Hawley and book by Chris Bush.&lt;br/&gt;&lt;br/&gt;Sharlene previously worked in music before transitioning into theatre...
-Feed: https://feeds.buzzsprout.com/561565.rss</description>
+                <title>Understanding the Changes in Your Female Brain After 40 with Dr. Lisa Mosconi</title>
+                <description>Neuroscientist Lisa Moscone discusses the evolutionary reasons behind menopausal brain transformations, emphasizing resilience and complexity. This episode covers brain function shifts, the grandmother hypothesis, and the impact of hormone therapy on...
+Feed: https://drmindypelz.libsyn.com/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/561565/14993982-s9-ep17-sharlene-hector-grace-alice-in-standing-at-the-sky-s-edge.mp3"/>
-                <guid></guid>
+                <link>https://drmindypelz.com/ep234</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/386D7B/traffic.libsyn.com/secure/drmindypelz/234-Resetter-Mosconi-final.mp3?dest-id=1820567"/>
+                <guid>https://drmindypelz.com/ep234</guid>
                 
             </item>
         </channel>
