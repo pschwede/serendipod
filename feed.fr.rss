@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 07 May 2024 04:23:01 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 08 May 2024 04:19:34 +0200</lastBuildDate>
             <item>
-                <title>#103 - François Veillon [VF PROD] - L&#39;histoire d&#39;un virage professionnel audacieux</title>
-                <description>Avez-vous déjà rêvé de changer de vie et de suivre votre passion ?
- 
-Et de vous lancer dans une aventure entrepreneuriale qui vous ressemble vraiment ? 
- 
-Mon invité du jour l&#39;a fait !
- 
-
-Feed: https://feeds.audiomeans.fr/feed/af6f5238-da44-454d-b172-593d65d5b044.xml</description>
+                <title>Autant en emporte l&#39;histoire</title>
+                <description>Autant en emporte l&#39;histoire
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14435.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/dde47a00-4a11-449b-8dc5-8027f7fdb0d1.mp3?_=1712860104"/>
-                <guid></guid>
+                <link>http://www.franceinter.fr/emission-autant-en-emporte-l-histoire</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/79efb3bd-1913-4b4f-9a50-8ac25d578c07/14435-04.05.2024-ITEMA_23730877-2024F23811S0126-22.mp3"/>
+                <guid>http://www.franceinter.fr/emission-autant-en-emporte-l-histoire</guid>
                 
             </item><item>
-                <title>#111 - Philippe Dintrans, l&#39;âme du meneur - Batailler pour avancer</title>
-                <description>Bigourdan pur jus, Philippe est d&#39;abord un enfant très timide. Bon élève, c&#39;est à 10 ans, sous l&#39;impulsion de son grand père qu&#39;il découvre le rugby du coté de Tarbes : le coup de foudre est immédiat !Doté de grandes capacités physiques, combatif et me...
-Feed: https://feed.ausha.co/yv1mvfdd4lr2</description>
+                <title>Guillaume Kasbarian</title>
+                <description>Guillaume Kasbarian
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16170.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/la-cravate/philippe-dintrans</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BDDlJT0LK3jm.mp3?t=1714603128"/>
-                <guid>https://podcast.ausha.co/la-cravate/philippe-dintrans</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/questions-politiques/questions-politiques-du-dimanche-05-mai-2024-4082415</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/b24f8f0d-d68e-4b53-9c72-2d6e73a47980/16170-05.05.2024-ITEMA_23731464-2024F26106S0126-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/questions-politiques/questions-politiques-du-dimanche-05-mai-2024-4082415</guid>
                 
             </item>
         </channel>
