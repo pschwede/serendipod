@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 08 May 2024 04:19:54 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 09 May 2024 04:25:29 +0200</lastBuildDate>
             <item>
-                <title>Death Race: Inferno</title>
-                <description>&lt;p&gt;Ford Vs Kalahari&lt;/p&gt;
-&lt;p&gt;Convict Luke Goss hits a speed bump on his road to freedom after Death Race 3 relocates the masked driver and his pit crew to a perilous African penitentiary...
-Feed: https://anchor.fm/s/58e6b86c/podcast/rss</description>
+                <title>Louis, Can of Cola</title>
+                <description>An interview with a can of cola. 
+Feed: http://feeds.everythingisalive.com/everythingisalive</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/nowplayingpodcast/episodes/Death-Race-Inferno-e2jcc55</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/58e6b86c/podcast/play/86437477/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-7%2Fe3509a03-a59e-c5bb-335f-1f4a82c63220.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/nowplayingpodcast/episodes/Death-Race-Inferno-e2jcc55</guid>
+                <link>https://play.prx.org/listen?ge=prx_143_823a2fcb-ffe5-4e9e-a931-8c99bb8dc785&amp;uf=http%3A%2F%2Ffeeds.everythingisalive.com%2Feverythingisalive</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/143/823a2fcb-ffe5-4e9e-a931-8c99bb8dc785/47a24816-3ed8-414d-8657-bcbf2c194a47.mp3"/>
+                <guid>https://play.prx.org/listen?ge=prx_143_823a2fcb-ffe5-4e9e-a931-8c99bb8dc785&amp;uf=http%3A%2F%2Ffeeds.everythingisalive.com%2Feverythingisalive</guid>
                 
             </item><item>
-                <title>2024 Podcast 001</title>
-                <description>Set Recorded at Orange Blossom April 2024 Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use p
-Feed: https://djdeibys.com/feed/podcast/</description>
+                <title>Environmental Crisis, Philosophy &amp; the Search for Meaning - ROBERT PIPPIN - Highlights</title>
+                <description>Robert Pippin, Heidegger, Hegel, philosophy, climate change, education, social media, misinformation, art, truth, German idealism, moral philosophy, technology, environmental responsibility, nature, metaphysics, ethics, film, literature
+Feed: https://thecreativeprocess.squarespace.com/interviews-podcast?format=rss</description>
                 
                 
-                <link>https://djdeibys.com/podcast/2024-podcast-001/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://djdeibys.com/podcast-download/2740/2024-podcast-001.m4a"/>
-                <guid>https://djdeibys.com/podcast/2024-podcast-001/</guid>
+                <link>https://www.creativeprocess.info/interviews-podcast/robert-pippin-wnmrz</link>
+                <enclosure type="audio/mpeg" length="1" url="https://static1.squarespace.com/static/5745d9f137013b9d0a627c60/t/663b4d107009567ea8bd2a59/1715162075866/robert-pippin-the-creative-process-podcast-HIGHLIGHTS-ENV-SOC.mp3"/>
+                <guid>https://www.creativeprocess.info/interviews-podcast/robert-pippin-wnmrz</guid>
                 
             </item>
         </channel>

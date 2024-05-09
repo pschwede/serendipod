@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 08 May 2024 04:19:34 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 09 May 2024 04:25:14 +0200</lastBuildDate>
             <item>
-                <title>Autant en emporte l&#39;histoire</title>
-                <description>Autant en emporte l&#39;histoire
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14435.xml</description>
+                <title>#74- EPISODE SPECIAL FESTIVAL VIVRE LIVRE À FIGEAC - LES MÉTIERS DU LIVRE</title>
+                <description>Dans cet épisode spécial, vous découvrirez le festival du livre de Figeac et de ses métiers:  Vivre Livre ! L&#39;occasion de découvrir  celles et ceux qui font la richesse du monde du livre, et d&#39;approfondir la réflexion des débats autour de la crise écol...
+Feed: https://feed.ausha.co/bzLRPFr086JQ</description>
                 
                 
-                <link>http://www.franceinter.fr/emission-autant-en-emporte-l-histoire</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/79efb3bd-1913-4b4f-9a50-8ac25d578c07/14435-04.05.2024-ITEMA_23730877-2024F23811S0126-22.mp3"/>
-                <guid>http://www.franceinter.fr/emission-autant-en-emporte-l-histoire</guid>
+                <link>https://podcast.ausha.co/sur-le-metier/74-episode-special-festival-vivre-livre-a-figeac-les-metiers-du-livre</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BMEaeCxEp9J7.mp3?t=1714549829"/>
+                <guid>https://podcast.ausha.co/sur-le-metier/74-episode-special-festival-vivre-livre-a-figeac-les-metiers-du-livre</guid>
                 
             </item><item>
-                <title>Guillaume Kasbarian</title>
-                <description>Guillaume Kasbarian
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16170.xml</description>
+                <title>Épisode 94 - Andréa et Catherine de Bourgogne</title>
+                <description>Découvrez dans cet épisode Catherine de Bourgogne…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:147058082/sounds.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/questions-politiques/questions-politiques-du-dimanche-05-mai-2024-4082415</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/b24f8f0d-d68e-4b53-9c72-2d6e73a47980/16170-05.05.2024-ITEMA_23731464-2024F26106S0126-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/questions-politiques/questions-politiques-du-dimanche-05-mai-2024-4082415</guid>
+                <link>https://soundcloud.com/fannycomo/episode-94-andrea-et-catherine-de-bourgogne</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1816026141-fannycomo-episode-94-andrea-et-catherine-de-bourgogne.mp3"/>
+                <guid>https://soundcloud.com/fannycomo/episode-94-andrea-et-catherine-de-bourgogne</guid>
                 
             </item>
         </channel>
