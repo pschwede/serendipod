@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 09 May 2024 04:25:18 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 10 May 2024 04:21:45 +0200</lastBuildDate>
             <item>
-                <title>Turbo 3 - Dorian | Royel Otis | Ruto Neón | Steve Albini - 08/05/24</title>
-                <description>Dorian | Royel Otis | Ruto Neón | Steve Albini
-Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
+                <title>La musica de tus sueños live de tiktok 21 marzo 2024</title>
+                <description>Audio del live de tiktok de la M&amp;uacute;sica de tus sue&amp;ntilde;os de 21 marzo 2024
+Feed: https://www.ivoox.com/jmsalasmusic_fg_f1126262_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/turbo-3/dorian-royel-otis-ruto-neon-steve-albini-08-05-24/16095079/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16095079.mp3"/>
-                <guid>https://www.rtve.es/play/audios/turbo-3/dorian-royel-otis-ruto-neon-steve-albini-08-05-24/16095079/</guid>
+                <link>https://www.ivoox.com/musica-tus-suenos-live-tiktok-audios-mp3_rf_127028875_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/musica-tus-suenos-live-tiktok_mf_127028875_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/musica-tus-suenos-live-tiktok-audios-mp3_rf_127028875_1.html</guid>
                 
             </item><item>
-                <title>Atmósfera - 05/05/24</title>
-                <description>null
-Feed: http://api.rtve.es/api/programas/1891/audios.rss</description>
+                <title>Intenciones de oración del Papa Francisco – Mayo 2024 [Video]</title>
+                <description>La Santa Sede ha dado a conocer las intenciones de oración del Papa Francisco para el mes de Mayo 2024. Intención de oración: Por la formación de religiosos, religiosas y &amp;#8230;
+Feed: http://feed.quechilero.com/IntencionesDeOracionDelPapa</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/atmosfera/05-05-24/16089403/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16089403.mp3"/>
-                <guid>https://www.rtve.es/play/audios/atmosfera/05-05-24/16089403/</guid>
+                <link>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-mayo-2024-video/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/11970/intenciones-de-oracion-del-papa-francisco-mayo-2024-video.mp3"/>
+                <guid>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-mayo-2024-video/</guid>
                 
             </item>
         </channel>

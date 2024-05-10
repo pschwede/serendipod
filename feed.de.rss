@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 09 May 2024 04:25:10 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 10 May 2024 04:21:39 +0200</lastBuildDate>
             <item>
-                <title>H043 Idylle</title>
-                <description>In dieser Folge führen Elisabeth und Lothar ein Gespräch über das Konzept der Idylle in der Musik.
-Feed: https://www.sprechkontakt.at/feed/mp3</description>
+                <title>Steam House Radio Show No 43 | Steam House Progressive Mix</title>
+                <description>take A ride ... till U steam
+Feed: https://104prsb.podcaster.de/CatsOnBricks.rss</description>
                 
                 
-                <link>https://www.sprechkontakt.at/archives/70181</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.sprechkontakt.at/podlove/file/1215/s/feed/c/mp3/h043.mp3"/>
-                <guid>https://www.sprechkontakt.at/archives/70181</guid>
+                <link>https://104prsb.podcaster.de/catsonbricks/steam-house-radio-show-no-43-steam-house-progressive-mix/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://104prsb.podcaster.de/CatsOnBricks/media/Steam_House_Radio_Show_No_43.mp3"/>
+                <guid>https://104prsb.podcaster.de/catsonbricks/steam-house-radio-show-no-43-steam-house-progressive-mix/</guid>
                 
             </item><item>
-                <title>Gegen das Vergessen und Verdrängen </title>
-                <description>Mehr zu Café Schindler
-
-Feed: https://audioboom.com/channels/5034208.rss</description>
+                <title>336. Gefangen in der Eifersuchtsfalle?</title>
+                <description>So überwindest du das quälende Gefühl der Eifersucht
+Feed: https://beyondbreakup.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://audioboom.com/posts/8491746</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audioboom.com/posts/8491746.mp3?modified=1713339380&amp;sid=5034208&amp;source=rss"/>
-                <guid>https://audioboom.com/posts/8491746</guid>
+                <link>https://beyondbreakup.podigee.io/337-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1439643-m-8bfe3533f4d0734f87ac4d9824f282f6.mp3?source=feed"/>
+                <guid>https://beyondbreakup.podigee.io/337-new-episode</guid>
                 
             </item>
         </channel>
