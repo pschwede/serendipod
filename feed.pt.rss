@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 11 May 2024 04:22:27 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 12 May 2024 04:22:50 +0200</lastBuildDate>
             <item>
-                <title>MENTIRAM SOBRE SUA IDENTIDADE - Podcast Copiando Jesus #75</title>
-                <description>
-Feed: https://feeds.transistor.fm/podcast-jesuscopy</description>
+                <title>Dublagem e humor com Renan Alonso e Ênio Vivona (Fala Fala Dub Dub Podcast)</title>
+                <description>&lt;p&gt;Alura é a maior escola online de tecnologia do país. Clique aqui e ganhe 15% de desconto na sua matrícula:
+https://alura.tv/ostreselementos
+Renan Alonso e Ênio Vivona, os dubladores de &amp;#39;Rick and Morty&amp;#39;, são os convidados desta semana. Renan Alonso, diretor musical e dublador de personagens icônicos, compartilhará suas experiências dirigindo mais de 160 produções, comentando sobre o processo criativo por trás das vozes que marcaram gerações...
+Feed: https://anchor.fm/s/e692ad4c/podcast/rss</description>
                 
                 
-                <link>https://share.transistor.fm/s/8fb572de</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/E449E2/dts.podtrac.com/redirect.mp3/media.transistor.fm/8fb572de/c729c40b.mp3"/>
-                <guid>https://share.transistor.fm/s/8fb572de</guid>
+                <link>https://podcasters.spotify.com/pod/show/ostreselementos/episodes/Dublagem-e-humor-com-Renan-Alonso-e-nio-Vivona-Fala-Fala-Dub-Dub-Podcast-e2jhche</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO9848591256.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/ostreselementos/episodes/Dublagem-e-humor-com-Renan-Alonso-e-nio-Vivona-Fala-Fala-Dub-Dub-Podcast-e2jhche</guid>
                 
             </item><item>
-                <title>#140 De Open Source a Desenvolvedor: Explorando Bun vs. Node.js com Ciro Spaciari</title>
-                <description>&lt;p&gt;Neste programa apresentamos conversamos com o Ciro Spaciari sobre o runtime Bun destacando sua contribuição ao código fonte de Bun e como isso levou a um convite para trabalhar na equipe do Bun...
-Feed: https://www.omnycontent.com/d/playlist/f7f86f6a-2fbd-4ac7-ab53-b01900e5d187/06aad3f7-5237-465a-af7b-b03c0125d480/6e1f8df8-745a-4def-a379-b03c0125d4a5/podcast.rss</description>
+                <title>Será que Linux é tudo igual? O que faz cada distro ser única? - Diocast</title>
+                <description>&lt;p&gt;Neste episódio do Diocast vamos discutir será que &amp;quot;Linux é tudo igual?&amp;quot;. Afinal, embora as distros compartilhem muitos componentes comuns, distinguem-se por uma variedade de fatores que atendem a diferentes necessidades e preferências dos usuários. Uma distro derivada é criada a partir de uma distribuição existente, mantendo a base fundamental, mas modificando e adicionando elementos para servir a um propósito específico ou a uma comunidade particular...
+Feed: https://anchor.fm/s/4c177cd4/podcast/rss</description>
                 
                 
-                <link>https://omny.fm/shows/cafe-de-bug/140-de-open-source-a-desenvolvedor-explorando-bun</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/B4F78G/prfx.byspotify.com/e/traffic.omny.fm/d/clips/f7f86f6a-2fbd-4ac7-ab53-b01900e5d187/06aad3f7-5237-465a-af7b-b03c0125d480/61ff7940-ec1d-4f6a-90e5-b16800a333d3/audio.mp3?utm_source=Podcast&amp;in_playlist=6e1f8df8-745a-4def-a379-b03c0125d4a5"/>
-                <guid>https://omny.fm/shows/cafe-de-bug/140-de-open-source-a-desenvolvedor-explorando-bun</guid>
+                <link>https://podcasters.spotify.com/pod/show/diolinux/episodes/Ser-que-Linux--tudo-igual--O-que-faz-cada-distro-ser-nica----Diocast-e2jff9e</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/4c177cd4/podcast/play/86538990/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-9%2F377112430-44100-2-726c384ad5917.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/diolinux/episodes/Ser-que-Linux--tudo-igual--O-que-faz-cada-distro-ser-nica----Diocast-e2jff9e</guid>
                 
             </item>
         </channel>
