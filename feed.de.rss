@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 14 May 2024 04:21:39 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 16 May 2024 04:18:43 +0200</lastBuildDate>
             <item>
-                <title>Urban Pop: The Who II</title>
-                <description>Eine Rockoper? Der Gitarrist von The Who Pete Townshend hatte hörbar andere Ambitionen als die meisten anderen Rockmusiker. Er schrieb bereits 1969 ein Werk, dass die Rockmusikwelt verändern sollte – Tommy, die musikalisch erzählte Geschichte eines traumatisierten Jungen, der mit Hilfe des Flippers (Pinball) seine Schwäche überwindet, der ein Guru für die Jugend wird, eine Symbolfigur für Selbstbestimmung, der schließlich auch dies überwindet und zur wahren Freiheit findet...
-Feed: https://www.ndr.de/nachrichten/info/podcast4976.xml</description>
+                <title>Über Podcast</title>
+                <description>Der „Über Podcast“ widmet sich einmal im Monat der Liebe zu Podcasts. Wie hörenswert sind die neuesten Erscheinungen auf dem Markt?
+&gt;&gt; Artikel zum Nachlesen: https…
+Feed: https://detektor.fm/feeds/der-podcastpodcast</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/Urban-Pop-The-Who-II,audio1612266.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4976/AU-20240411-1150-2600.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/Urban-Pop-The-Who-II,audio1612266.html</guid>
+                <link>https://feedpress.me/link/23671/16635968/podcastpodcast-ueber-podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://flex2.acast.com/s/der-podcastpodcast-taglich-ein-podcast-tipp/u/detektor.fm/wp-content/uploads/2024/03/podcastpodcastueberpodcast.107274.mp3"/>
+                <guid>https://feedpress.me/link/23671/16635968/podcastpodcast-ueber-podcast</guid>
                 
             </item><item>
-                <title>#19 Büroumzug und peinliche Stories</title>
-                <description>In dieser Folge nehmen wir euch mit hinter die Kulissen unseres Büroumzugs. Erfahrt, wie sich nicht nur unser Arbeitsplatz, sondern auch unsere Motivation verändert hat. Außerdem teilen wir unsere peinlichsten Geschichten und beantworten uns...
-Feed: https://online-marketing-werk.libsyn.com/rss</description>
+                <title>Episode 76: Wir sagen Adieu!</title>
+                <description>Das hier ist eine ganz besondere Umbruch-Folge, denn es ist die letzte diese Podcasts. Grund genug für uns auf die letzten fünf Jahre zurückzublicken: Was waren die Trends? Über was haben wir uns aufgeregt? Und wie zum Henker hieß eigentlich nochmal der Hund von Elon Musk?
+Feed: https://feeds.br.de/umbruch-der-tech-podcast-von-br24/feed.xml</description>
                 
                 
-                <link>https://online-marketing-werk.libsyn.com/19-broumzug-und-peinliche-stories</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/online-marketing-werk/video-output-84A597CD-6421-4B08-A2CB-9710A245C0D0.mp3?dest-id=2094674"/>
-                <guid>https://online-marketing-werk.libsyn.com/19-broumzug-und-peinliche-stories</guid>
+                <link>https://www.br.de/mediathek/podcast/umbruch-der-tech-podcast-von-br24/episode-76-wir-sagen-adieu/2091628</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2091628/c/feed/episode-76-wir-sagen-adieu.mp3"/>
+                <guid>https://www.br.de/mediathek/podcast/umbruch-der-tech-podcast-von-br24/episode-76-wir-sagen-adieu/2091628</guid>
                 
             </item>
         </channel>
