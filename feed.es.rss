@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 16 May 2024 04:18:52 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 17 May 2024 04:22:37 +0200</lastBuildDate>
             <item>
-                <title>El Francotirarock y frases de cine que le traumatizaron de pequeño</title>
-                <description>Álex Clavero hace un viaje personal por esas citas cinematográficas que le dejaron huella de pequeño
-Feed: https://www.rockfm.fm/api/es/programas/el-francotirarock/audios/rss.xml</description>
+                <title>Strange World</title>
+                <description>Hola Gerardo aquí en otro episodio de Simplemente Yo; La selección de esta semana es Strange World, es una película de ciencia ficción animada del 2022 producida por Walt Disney Animation Studios y distribuida por Walt Disney Studios Motion Pictures....
+Feed: https://filmicnotionpod.com/feed.xml</description>
                 
                 
-                <link>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/audios/francotirarock-frases-cine-que-traumatizaron-pequeno-20240515_2552114</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rockfm-cdnmed.rockfm.fm/resources/mp3/1/4/1715756378141.mp3"/>
-                <guid>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/audios/francotirarock-frases-cine-que-traumatizaron-pequeno-20240515_2552114</guid>
+                <link>https://filmicnotionpod.com/e/169-strange-world-con-gerardo-aleman/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/8abscb/169_-_FN_-_Strange_World7dc0q.mp3"/>
+                <guid>https://filmicnotionpod.com/e/169-strange-world-con-gerardo-aleman/</guid>
                 
             </item><item>
-                <title>Anti reseña REBEL MOON</title>
-                <description>No existe pel&amp;iacute;cula mas criticada en los ultimos tiempos, si creyeron que el se&amp;ntilde;or Zack Snyder no podr&amp;iacute;a superarse a si mismo, pues estren&amp;oacute; Rebel Moon 2, trataremos de ser objetivos.
-Feed: https://www.ivoox.com/te-frikis_fg_f1137004_filtro_1.xml</description>
+                <title>Subterranea 13x15 Big Big Train, Hackett y el G3</title>
+                <description>Subterranea logra conseguir las crónicas pérdidas en Moscú con un nuevo P3 – (G3), el conformado por Ricardo Hernández (Steve Hackett), David Pintos (John Mitchell) y Carles Pinós (Eric Johnson)
+El trío de subterráneos nos hablará de los más recientes trabajos de Big Big Train, Semiramis, Ellesmere, Gepetto, Magick Brother And Mystic Sister y Steve Hackett.
+No te lo pierdas.
+Edición: Jordi Via
+www.subterranea.eu
+www.davidpintos.com
+Feed: https://www.ivoox.com/feed_fg_f117710_filtro_1.xml</description>
                 
                 
-                <link>https://www.ivoox.com/anti-resena-rebel-moon-audios-mp3_rf_128465271_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/anti-resena-rebel-moon_mf_128465271_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/anti-resena-rebel-moon-audios-mp3_rf_128465271_1.html</guid>
+                <link>http://www.ivoox.com/subterranea-13x15-big-big-train-hackett-el-audios-mp3_rf_129005903_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/subterranea-13x15-big-big-train-hackett-el_mf_129005903_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/subterranea-13x15-big-big-train-hackett-el-audios-mp3_rf_129005903_1.html</guid>
                 
             </item>
         </channel>

@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 16 May 2024 04:18:59 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 17 May 2024 04:22:41 +0200</lastBuildDate>
             <item>
-                <title>099: Podcast Não Tem Cheiro</title>
-                <description>A OpenAI fez um evento curto, o Google fez um evento longo, e nós explicamos como eles impactarão os nossos trabalhos.
-Feed: https://gigahertz.fm/podcasts/adtrabalho/feed.rss</description>
+                <title>#177 - Nelson Bomilcar e a Simplicidade da Igreja</title>
+                <description>&lt;p&gt;Nelson Bomilcar tem uma bela trajetória musical, mas além disto, confira neste podcast o belo testemunho da vida dele e da simplicidade da Igreja também. É hora de parar de confundir adoração com música. E realmente entender a força da música e do Evangelho na transformação da vida das pessoas.&lt;br/&gt;&lt;br/&gt;O &lt;b&gt;TEOmídia Cast&lt;/b&gt; é um podcast que também pode ser assistido no serviço de streaming TEOmídia...
+Feed: https://feeds.buzzsprout.com/636142.rss</description>
                 
                 
-                <link>https://gigahertz.fm/podcasts/adtrabalho/99</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.gigahertz.fm/ADTrabalho/ADTrabalho-99.mp3"/>
-                <guid>https://gigahertz.fm/podcasts/adtrabalho/99</guid>
+                <link>https://www.teomidia.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/636142/15027003-177-nelson-bomilcar-e-a-simplicidade-da-igreja.mp3"/>
+                <guid>https://www.teomidia.com</guid>
                 
             </item><item>
-                <title>074 - Entrevista - Miss. Cheila Lourenço promotora de missões e interpretes de libras</title>
-                <description>&lt;p&gt;Quarta Missionária!
-Hoje estamos ouvindo o testemunho impactante da missionária Cheila Lourenço Butkevicius, que é promotora de Missões e intérprete de Libras voluntária da JMN e na Cristolândia SP.
-Acesse o programa pelo link que aparece no perfil da @rede3.16!
-#missoesnacionais #missoesmundiais #quartamissionaria&lt;/p&gt;
-
-Feed: https://anchor.fm/s/be1f15a8/podcast/rss</description>
+                <title>TECNOPOLÍTICA #212 - Net Mundial e a Governança da Internet</title>
+                <description>Neste episódio do Tecnopolítica, Sergio Amadeu e …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:555955248/sounds.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/quarta-missionaria/episodes/074---Entrevista---Miss--Cheila-Loureno-promotora-de-misses-e-interpretes-de-libras-e2iqrjq</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/be1f15a8/podcast/play/85863482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-24%2F375438651-44100-2-fb174cc80c69c.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/quarta-missionaria/episodes/074---Entrevista---Miss--Cheila-Loureno-promotora-de-misses-e-interpretes-de-libras-e2iqrjq</guid>
+                <link>https://soundcloud.com/podcasttecnopolitica/tecnopolitica-212-net-mundial-e-a-governanca-da-internet</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1818451023-podcasttecnopolitica-tecnopolitica-212-net-mundial-e-a-governanca-da-internet.mp3"/>
+                <guid>https://soundcloud.com/podcasttecnopolitica/tecnopolitica-212-net-mundial-e-a-governanca-da-internet</guid>
                 
             </item>
         </channel>
