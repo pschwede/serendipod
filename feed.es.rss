@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 17 May 2024 04:22:37 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 19 May 2024 04:23:15 +0200</lastBuildDate>
             <item>
-                <title>Strange World</title>
-                <description>Hola Gerardo aquí en otro episodio de Simplemente Yo; La selección de esta semana es Strange World, es una película de ciencia ficción animada del 2022 producida por Walt Disney Animation Studios y distribuida por Walt Disney Studios Motion Pictures....
-Feed: https://filmicnotionpod.com/feed.xml</description>
+                <title>Intenciones de oración del Papa Francisco – Mayo 2024 [Video]</title>
+                <description>La Santa Sede ha dado a conocer las intenciones de oración del Papa Francisco para el mes de Mayo 2024. Intención de oración: Por la formación de religiosos, religiosas y &amp;#8230;
+Feed: http://feed.quechilero.com/IntencionesDeOracionDelPapa</description>
                 
                 
-                <link>https://filmicnotionpod.com/e/169-strange-world-con-gerardo-aleman/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/8abscb/169_-_FN_-_Strange_World7dc0q.mp3"/>
-                <guid>https://filmicnotionpod.com/e/169-strange-world-con-gerardo-aleman/</guid>
+                <link>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-mayo-2024-video/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/11970/intenciones-de-oracion-del-papa-francisco-mayo-2024-video.mp3"/>
+                <guid>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-mayo-2024-video/</guid>
                 
             </item><item>
-                <title>Subterranea 13x15 Big Big Train, Hackett y el G3</title>
-                <description>Subterranea logra conseguir las crónicas pérdidas en Moscú con un nuevo P3 – (G3), el conformado por Ricardo Hernández (Steve Hackett), David Pintos (John Mitchell) y Carles Pinós (Eric Johnson)
-El trío de subterráneos nos hablará de los más recientes trabajos de Big Big Train, Semiramis, Ellesmere, Gepetto, Magick Brother And Mystic Sister y Steve Hackett.
-No te lo pierdas.
-Edición: Jordi Via
-www.subterranea.eu
-www.davidpintos.com
-Feed: https://www.ivoox.com/feed_fg_f117710_filtro_1.xml</description>
+                <title>Sicut Luna Perfecta - 18/05/24</title>
+                <description>null
+Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/subterranea-13x15-big-big-train-hackett-el-audios-mp3_rf_129005903_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/subterranea-13x15-big-big-train-hackett-el_mf_129005903_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/subterranea-13x15-big-big-train-hackett-el-audios-mp3_rf_129005903_1.html</guid>
+                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/18-05-24/16109020/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16109020.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/18-05-24/16109020/</guid>
                 
             </item>
         </channel>
