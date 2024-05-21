@@ -9,26 +9,37 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 20 May 2024 04:23:21 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 21 May 2024 04:22:34 +0200</lastBuildDate>
             <item>
-                <title>Turbo 3 - Vetusta Morla | Nada Surf | Verona | Casino Montreal - 16/05/24</title>
-                <description>Turbo 3 - Vetusta Morla | Nada Surf | Verona | Casino Montreal - 16/05/24
-Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
-                
-                
-                <link>https://www.rtve.es/play/audios/turbo-3/vetusta-morla-nada-surf-verona-casino-montreal-16-05-24/16106928/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16106928.mp3"/>
-                <guid>https://www.rtve.es/play/audios/turbo-3/vetusta-morla-nada-surf-verona-casino-montreal-16-05-24/16106928/</guid>
-                
-            </item><item>
-                <title>Revelación del Calendario NFL 2024: ¿Cuáles son los partidos más atractivos?</title>
-                <description>Gran cartelera de Monday Night Football para esta temporada. ¿Cuáles son los duelos más esperados? Jared Goff recibe un jugoso contrato ¿los Lions volverán a ser contendientes? ¿Decepciona la elección de los Giants para Hard Knocks? Y más...
-Feed: https://feeds.megaphone.fm/ESP9291374621</description>
+                <title>E235: La Batalla por los Huérfanos de Arizona</title>
+                <description>La Batalla por los Huérfanos de Arizona ocurrió cuando ciudadanos estadounidenses se opusieron a la adopción de niños huérfanos de Nueva York por familias mexicanas en Arizona, debido a prejuicios raciales y culturales. 
+Síguenos y visita nuestro sitio oficial:
+https://www.instagram.com/eldollop
+https://twitter.com/eldollop
+https://www.facebook.com/eldolloppodcast
+http://eldollop.com
+Feed: https://feeds.megaphone.fm/SONORO4124946493</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP1170121482.mp3?updated=1715880654"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/39325/pdst.fm/e/traffic.megaphone.fm/SONORO5602724874.mp3?updated=1716085779"/>
                 <guid></guid>
+                
+            </item><item>
+                <title>#253 NO TE AGACHES EN NY</title>
+                <description>#253- NO TE AGACHES EN NYC- FT @CHRISTIANALVAREZRD @LAURAGISSELLE 
+ÓYETE EL NOTICIÓNNNN!!!!!
+L de LUNES, L de LENGUAS! TENEMOS NOTICIÓNNNN
+Se respondieron los correos: 
+???? NUEVA YORK LA CIUDAD DE LOS CUERNOS.
+????NAVEGANDO EN DUDAS.
+????NUNCA PROTAGONISTA....
+Feed: https://www.spreaker.com/show/3137911/episodes/feed</description>
+                
+                
+                <link>https://www.spreaker.com/episode/253-no-te-agaches-en-ny--60092212</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/60092212/253_no_te_agaches_en_ny_audio.mp3"/>
+                <guid>https://www.spreaker.com/episode/253-no-te-agaches-en-ny--60092212</guid>
                 
             </item>
         </channel>
