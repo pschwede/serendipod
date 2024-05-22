@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 21 May 2024 04:22:19 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 May 2024 04:23:33 +0200</lastBuildDate>
             <item>
-                <title>Living with climate change</title>
-                <description>We go to El Salvador to look at projects tackling the effects of rising temperatures.
-Feed: https://podcasts.files.bbci.co.uk/p04grdbc.rss</description>
-                
-                
-                <link>http://www.bbc.co.uk/programmes/p0hyp4q7</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0hyp472.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0hyp4q7</guid>
-                
-            </item><item>
                 <title>RCR Episode 271: TOMLINSON@BBNA</title>
                 <description>Panelists: Paul Hagstrom (hosting), Quinn Dunki, and Carrington Vanston Topic: 1971 1971 brought us Computer Space, the Intel 4004, the Kenbak-1, and Email. Topic/Feedback links: Retro Computing News: Vintage Computer(-related) commercials: Retro Compu...
 Feed: https://rcrpodcast.com/feed/podcast/</description>
@@ -29,6 +19,16 @@ Feed: https://rcrpodcast.com/feed/podcast/</description>
                 <link>https://rcrpodcast.com/2024/04/11/rcr-episode-271-tomlinsonbbna/</link>
                 <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/eb149a7a-044d-4f7f-b989-286a0b7cd29b/rcr271.mp3"/>
                 <guid>https://rcrpodcast.com/2024/04/11/rcr-episode-271-tomlinsonbbna/</guid>
+                
+            </item><item>
+                <title>The Four Tendencies Framework and How We Respond To Expectation with Gretchen Rubin</title>
+                <description>This week bestselling author Gretchen Rubin joins us as she delves into her Four Tendencies personality framework. Discover how understanding your response to expectations can enhance your habits, relationships, and overall well-being. We dive into the four different tendencies, and explore the characteristics of each one. Once you have a sense of your tendency and your child’s, you can more easily strategize how to meet those expectations, and better connect...
+Feed: https://rss.art19.com/raising-good-humans</description>
+                
+                
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://mgln.ai/e/369/chrt.fm/track/54CBFC/pscrb.fm/rss/p/arttrk.com/p/DM22A/claritaspod.com/measure/pdst.fm/e/rss.art19.com/episodes/cb560eaf-6211-4141-9674-c890b796c0f0.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item>
         </channel>

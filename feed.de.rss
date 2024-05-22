@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 21 May 2024 04:22:24 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 May 2024 04:23:38 +0200</lastBuildDate>
             <item>
-                <title>#210 - ILYA</title>
-                <description>London, Espresso, Abkürzungen, Sprachliches Ranwanzen
-Feed: https://letscast.fm/podcasts/sprezzatura-stilfragen-popkultur-gestern-und-heute-e5fcbfed/feed</description>
+                <title>263: Eisbaden und Mindfulness</title>
+                <description>Breathwork-Coach Maarten Hemmen im Interview
+Feed: https://einfach-machen-podcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://sprezzatura.letscast.fm/episode/210-ilya</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/196626/https://lcdn.letscast.fm/media/podcast/41731ca8/episode/46d33824.mp3?t=1715748206"/>
-                <guid>https://sprezzatura.letscast.fm/episode/210-ilya</guid>
+                <link>https://www.wemheuer.de/blog/263-mindfullness</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1469259-m-8059855e050fc9c6d34be97da1afb951.mp3?source=feed"/>
+                <guid>https://www.wemheuer.de/blog/263-mindfullness</guid>
                 
             </item><item>
-                <title>Teil 3 zu Christian Streich: Taktik-Analyse mit Max-Jacob Ost (Rasenfunk) – Die Ära Christian Streich</title>
-                <description>Ep. 275 - Sonderfolge - Christian Streich-Abschied, Teil 3
-Feed: http://spodcast-freiburg.de/feed/mp3/</description>
+                <title>Alvaro Soler</title>
+                <description>Alvaro Soler im Podcast bei Barbara Schöneberger
+Feed: https://proxyfeed.svmaudio.com/aa/waffelneinerfrau-barbara</description>
                 
                 
-                <link>http://spodcast-freiburg.de/2024/05/15/christian-streich-taktikfolge/</link>
-                <enclosure type="audio/mpeg" length="1" url="http://spodcast-freiburg.de/podlove/file/1649/s/feed/c/mp3//2024/05/spfr-275.mp3"/>
-                <guid>http://spodcast-freiburg.de/2024/05/15/christian-streich-taktikfolge/</guid>
+                <link>https://waffelneinerfrau.podigee.io/288-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://waffelneinerfrau-barbara.cdn.svmaudio.com/1470644-m-a3aa57bd174f803d00d3201349f51a96.mp3?source=feed-svmmdwef"/>
+                <guid>https://waffelneinerfrau.podigee.io/288-new-episode</guid>
                 
             </item>
         </channel>
