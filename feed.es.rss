@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 May 2024 04:23:48 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 23 May 2024 04:22:19 +0200</lastBuildDate>
             <item>
-                <title>Mutación: Creepshow</title>
-                <description>Creepshow, no te pedí un banquete. La antología de terror creada por los mejores raritos de los ochentas adoptó varios formatos desde 1982 hasta el presente. Los efectos prácticos de Savini, la dirección de Romero y las historias originales de King d...
-Feed: https://www.martesataca.com.ar/category/medianocheenmaine/feed/</description>
+                <title>Islas de Robinson - 20/05/24</title>
+                <description>null
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>https://www.martesataca.com.ar/medianocheenmaine/mutacion-creepshow/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.martesataca.com.ar/wp-content/uploads/2024/04/medianocheenmaine_e47.mp3"/>
-                <guid>https://www.martesataca.com.ar/medianocheenmaine/mutacion-creepshow/</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/20-05-24/16110174/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16110174.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/20-05-24/16110174/</guid>
                 
             </item><item>
-                <title>Tara­ta­­ña - 19/05/24</title>
-                <description>null
-Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
+                <title>Entre probetas - Bacteriófagos como próximos antibacterianos - 21/05/24</title>
+                <description>Bacteriófagos como próximos antibacterianos
+Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/taratana/19-05-24/16109362/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16109362.mp3"/>
-                <guid>https://www.rtve.es/play/audios/taratana/19-05-24/16109362/</guid>
+                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-bacteriofagos-como-proximos-antibacterianos-21-05-24/16112446/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16112446.mp3"/>
+                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-bacteriofagos-como-proximos-antibacterianos-21-05-24/16112446/</guid>
                 
             </item>
         </channel>

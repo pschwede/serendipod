@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 May 2024 04:23:38 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 23 May 2024 04:22:08 +0200</lastBuildDate>
             <item>
-                <title>263: Eisbaden und Mindfulness</title>
-                <description>Breathwork-Coach Maarten Hemmen im Interview
-Feed: https://einfach-machen-podcast.podigee.io/feed/mp3</description>
+                <title>#268 | AI-Kampf OpenAI vs. Google, Apple-Ausblick, US-AI-Regulierung vs. China und EU, Meta</title>
+                <description>» Die Themen der Folge 268:
+---
+(00:02:30) OpenAI…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:566615571/sounds.rss</description>
                 
                 
-                <link>https://www.wemheuer.de/blog/263-mindfullness</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1469259-m-8059855e050fc9c6d34be97da1afb951.mp3?source=feed"/>
-                <guid>https://www.wemheuer.de/blog/263-mindfullness</guid>
+                <link>https://soundcloud.com/zurueckzurzukunft/268-ai-kampf-openai-vs-google-apple-ausblick-us-ai-regulierung-vs-china-und-eu-meta</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1826122632-zurueckzurzukunft-268-ai-kampf-openai-vs-google-apple-ausblick-us-ai-regulierung-vs-china-und-eu-meta.mp3"/>
+                <guid>https://soundcloud.com/zurueckzurzukunft/268-ai-kampf-openai-vs-google-apple-ausblick-us-ai-regulierung-vs-china-und-eu-meta</guid>
                 
             </item><item>
-                <title>Alvaro Soler</title>
-                <description>Alvaro Soler im Podcast bei Barbara Schöneberger
-Feed: https://proxyfeed.svmaudio.com/aa/waffelneinerfrau-barbara</description>
+                <title>Verdeckte Recherche: Pädokriminelle im Kinderchat</title>
+                <description>Unterwegs auf der dunklen Seite von Kinderchats: Eine Journalistin entlarvt im Selbstversuch Pädokriminelle im Netz. Was tut die Polizei gegen sogenanntes Cybergrooming? Wie können sich Kinder und Jugendliche schützen?
+Feed: https://www.mdr.de/nachrichten/podcast/spurdertaeter/spurdertaeter-104-podcast.xml</description>
                 
                 
-                <link>https://waffelneinerfrau.podigee.io/288-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://waffelneinerfrau-barbara.cdn.svmaudio.com/1470644-m-a3aa57bd174f803d00d3201349f51a96.mp3?source=feed-svmmdwef"/>
-                <guid>https://waffelneinerfrau.podigee.io/288-new-episode</guid>
+                <link>https://www.mdr.de/nachrichten/podcast/spurdertaeter/audio-cybergrooming-selbstversuch100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/6/FCMS-6feae649-7d09-4faf-a1f2-12e5bc395fac-0a15de5e5053_6f.mp3"/>
+                <guid>https://www.mdr.de/nachrichten/podcast/spurdertaeter/audio-cybergrooming-selbstversuch100.html</guid>
                 
             </item>
         </channel>

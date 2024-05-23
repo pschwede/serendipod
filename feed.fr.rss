@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 May 2024 04:23:43 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 23 May 2024 04:22:13 +0200</lastBuildDate>
             <item>
-                <title>Serenity</title>
-                <description>New Dimension Ep - Serenity
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:1657103/sounds.rss</description>
+                <title>Une autre histoire — Deuil, dépression</title>
+                <description>Kalindi Ramphul nous parle du deuil de son père et de la dépression qui a suivi son décès.
+Feed: https://feeds.acast.com/public/shows/606887bc31d3d15b89d568fe</description>
                 
                 
-                <link>https://soundcloud.com/lanichemusic/serenity</link>
-                <enclosure type="audio/mpeg" length="1" url="https://itunes.apple.com/fr/podcast/olivier-charles-podcast/id1017166511?l=en/http://feeds.soundcloud.com/stream/1817600619-lanichemusic-serenity.mp3"/>
-                <guid>https://soundcloud.com/lanichemusic/serenity</guid>
+                <link>https://placedessciences.fr/blog/2023/12/19/une-autre-histoire-deuil-depression-podcast-sante-mentale-maux-bleus/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/606887bc31d3d15b89d568fe/e/66377e3eb7ee620013cf86ce/media.mp3"/>
+                <guid>https://placedessciences.fr/blog/2023/12/19/une-autre-histoire-deuil-depression-podcast-sante-mentale-maux-bleus/</guid>
                 
             </item><item>
-                <title>S13E36 - Les bas tout seuls d&#39;Orbie + Les Fusibles de Cyril Doisneau</title>
-                <description>&lt;p&gt;Rencontres en rattrapage cette semaine : Raymond Poirier rencontre Orbie pour Le tiroir des bas tout seuls (Les 400 coups) et Cyril Doisneau, pour Les Fusibles (Dupuis).&amp;nbsp;&lt;/p&gt;
-Feed: https://baladoquebec.ca/lavieenbd/rss</description>
+                <title>Tibet : gouverner en exil, avec Penpa Tsering</title>
+                <description>Tibet : gouverner en exil, avec Penpa Tsering
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13305.xml</description>
                 
                 
-                <link>https://baladoquebec.ca/la-vie-en-bd/s13e36-orbie-et-le-tiroir-des-bas-tout-seuls-cyril-doisneau-et-les-fusi</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/https://baladoquebec.ca/media/la-vie-en-bd/s13e36-orbie-et-le-tiroir-des-bas-tout-seuls-cyril-doisneau-et-les-fusi.mp3"/>
-                <guid>https://baladoquebec.ca/la-vie-en-bd/s13e36-orbie-et-le-tiroir-des-bas-tout-seuls-cyril-doisneau-et-les-fusi</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/tibet-gouverner-en-exil-avec-penpa-tsering-8793209</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/eb3a32a7-dc60-4577-a59a-db73cdba9b2e/13305-22.05.2024-ITEMA_23749293-2024C3305S0143-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/tibet-gouverner-en-exil-avec-penpa-tsering-8793209</guid>
                 
             </item>
         </channel>
