@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 23 May 2024 04:22:19 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 24 May 2024 04:23:39 +0200</lastBuildDate>
             <item>
-                <title>Islas de Robinson - 20/05/24</title>
-                <description>null
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>Frontera - 18/05/24</title>
+                <description>Frontera - 18/05/24
+Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/20-05-24/16110174/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16110174.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/20-05-24/16110174/</guid>
+                <link>https://www.rtve.es/play/audios/frontera/18-05-24/16108657/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16108657.mp3"/>
+                <guid>https://www.rtve.es/play/audios/frontera/18-05-24/16108657/</guid>
                 
             </item><item>
-                <title>Entre probetas - Bacteriófagos como próximos antibacterianos - 21/05/24</title>
-                <description>Bacteriófagos como próximos antibacterianos
-Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
+                <title>SDU610 SUPERASIS Presents SONIDOS DEL UNIVERSO RADIOSHOW NEW YORK 22.05.24</title>
+                <description>La Fiesta RAVE en la Radio! BASS HOUSE MUSIC POWER- PEAK TIME FUTURE DANCE MIX FROM NYC UNDERGROUND-
+PODCAST SDU610- SUPERASIS INDAHOUSE PRESENTA: SONIDOS DEL UNIVERSO TECHNO RADIOSHOW -RADIO NEW YORK CLUB- desde EL CENTRO DE MANHATTAN, NUEVA YORK, PARA UNIKA.FM MADRID - BROADCAST 21.05.24- BASS HOUSE-FUTURE DANCE EN LOS MEJORES NIGHTCLUBS DE NUEVA YORK- 
+TRACKLISTING:
+1.- JOHN SUMMIT &amp;amp; SUB FOCUS- GO BACK (FT. JULIA CHURCH)
+2.- FLIGHT FACILITIES- TROUBLE (CHLO&amp;Eacute; CAILLET REMIX)
+3...
+Feed: https://www.ivoox.com/podcast-podcast-sonidos-del-universo_fg_f133305_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-bacteriofagos-como-proximos-antibacterianos-21-05-24/16112446/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16112446.mp3"/>
-                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-bacteriofagos-como-proximos-antibacterianos-21-05-24/16112446/</guid>
+                <link>https://www.ivoox.com/sdu610-superasis-presents-sonidos-del-universo-radioshow-new-audios-mp3_rf_129296109_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sdu610-superasis-presents-sonidos-del-universo-radioshow-new_mf_129296109_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/sdu610-superasis-presents-sonidos-del-universo-radioshow-new-audios-mp3_rf_129296109_1.html</guid>
                 
             </item>
         </channel>

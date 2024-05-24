@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 23 May 2024 04:22:13 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 24 May 2024 04:23:35 +0200</lastBuildDate>
             <item>
-                <title>Une autre histoire — Deuil, dépression</title>
-                <description>Kalindi Ramphul nous parle du deuil de son père et de la dépression qui a suivi son décès.
-Feed: https://feeds.acast.com/public/shows/606887bc31d3d15b89d568fe</description>
+                <title>Les Landes, deux étangs résistants, du noir au vert</title>
+                <description>Les Landes, deux étangs résistants, du noir au vert
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10006.xml</description>
                 
                 
-                <link>https://placedessciences.fr/blog/2023/12/19/une-autre-histoire-deuil-depression-podcast-sante-mentale-maux-bleus/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/606887bc31d3d15b89d568fe/e/66377e3eb7ee620013cf86ce/media.mp3"/>
-                <guid>https://placedessciences.fr/blog/2023/12/19/une-autre-histoire-deuil-depression-podcast-sante-mentale-maux-bleus/</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-19-mai-2024-3500100</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/3508210c-45bc-4524-b906-8b2c3b4447fd/10006-19.05.2024-ITEMA_23745951-2024F5147S0140-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-19-mai-2024-3500100</guid>
                 
             </item><item>
-                <title>Tibet : gouverner en exil, avec Penpa Tsering</title>
-                <description>Tibet : gouverner en exil, avec Penpa Tsering
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13305.xml</description>
+                <title>Le festival de Cannes au Gondwana</title>
+                <description>
+Au Gondwana, c’est tous les jours le festival de Cannes…
+
+Feed: https://www.rfi.fr/fr/podcasts/chronique-mamane/podcast</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/tibet-gouverner-en-exil-avec-penpa-tsering-8793209</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/eb3a32a7-dc60-4577-a59a-db73cdba9b2e/13305-22.05.2024-ITEMA_23749293-2024C3305S0143-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/tibet-gouverner-en-exil-avec-penpa-tsering-8793209</guid>
+                <link>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20240522-le-festival-de-cannes-au-gondwana</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB2894-RFI-FR-20090915%7CChronique%20de%20Mamane&amp;l3=WBMZ405377-RFI-FR-20240522%7CLe%20festival%20de%20Cannes%20au%20Gondwana&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202405%2FMAMANE_22-05-24.mp3"/>
+                <guid>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20240522-le-festival-de-cannes-au-gondwana</guid>
                 
             </item>
         </channel>
