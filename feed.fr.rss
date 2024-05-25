@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 May 2024 04:23:35 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 25 May 2024 04:22:13 +0200</lastBuildDate>
             <item>
-                <title>Les Landes, deux étangs résistants, du noir au vert</title>
-                <description>Les Landes, deux étangs résistants, du noir au vert
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10006.xml</description>
+                <title>Solénoïde - Grande Boucle 52 - 20.05.2024</title>
+                <description>Emission du 20.05.2024 avec  Wave Arising, Offshore Drills, Laurent Pernice, Slawowycz et Julien Ash, Nova Materia, Grosso Gadgetto...
+Feed: http://www.solenopole.org/solenopodcast.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-19-mai-2024-3500100</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/3508210c-45bc-4524-b906-8b2c3b4447fd/10006-19.05.2024-ITEMA_23745951-2024F5147S0140-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-19-mai-2024-3500100</guid>
+                <link>https://solenopole.blogspot.com/2024/05/emission-solenoide-grande-boucle-52.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.solenopole.org/mp3_160/Solenoide_Grande_Boucle_52.mp3"/>
+                <guid>https://solenopole.blogspot.com/2024/05/emission-solenoide-grande-boucle-52.html</guid>
                 
             </item><item>
-                <title>Le festival de Cannes au Gondwana</title>
-                <description>
-Au Gondwana, c’est tous les jours le festival de Cannes…
-
-Feed: https://www.rfi.fr/fr/podcasts/chronique-mamane/podcast</description>
+                <title>L&#39;Alter Ego : 05/20/2024 16:00</title>
+                <description>649-313317
+Feed: http://podcast.cism893.ca/radioshows/649/feed_itunes.xml</description>
                 
                 
-                <link>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20240522-le-festival-de-cannes-au-gondwana</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB2894-RFI-FR-20090915%7CChronique%20de%20Mamane&amp;l3=WBMZ405377-RFI-FR-20240522%7CLe%20festival%20de%20Cannes%20au%20Gondwana&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202405%2FMAMANE_22-05-24.mp3"/>
-                <guid>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20240522-le-festival-de-cannes-au-gondwana</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/313317.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/313317.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/313317.mp3</guid>
                 
             </item>
         </channel>
