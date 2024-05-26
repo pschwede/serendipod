@@ -9,36 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 25 May 2024 04:22:17 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 26 May 2024 04:24:54 +0200</lastBuildDate>
             <item>
-                <title>SDU610 SUPERASIS Presents SONIDOS DEL UNIVERSO RADIOSHOW NEW YORK 22.05.24</title>
-                <description>La Fiesta RAVE en la Radio! BASS HOUSE MUSIC POWER- PEAK TIME FUTURE DANCE MIX FROM NYC UNDERGROUND-
-PODCAST SDU610- SUPERASIS INDAHOUSE PRESENTA: SONIDOS DEL UNIVERSO TECHNO RADIOSHOW -RADIO NEW YORK CLUB- desde EL CENTRO DE MANHATTAN, NUEVA YORK, PARA UNIKA.FM MADRID - BROADCAST 21.05.24- BASS HOUSE-FUTURE DANCE EN LOS MEJORES NIGHTCLUBS DE NUEVA YORK- 
-TRACKLISTING:
-1.- JOHN SUMMIT &amp;amp; SUB FOCUS- GO BACK (FT. JULIA CHURCH)
-2.- FLIGHT FACILITIES- TROUBLE (CHLO&amp;Eacute; CAILLET REMIX)
-3...
-Feed: https://www.ivoox.com/podcast-podcast-sonidos-del-universo_fg_f133305_filtro_1.xml</description>
+                <title>Ars canendi - 19/05/24</title>
+                <description>null
+Feed: http://api.rtve.es/api/programas/1888/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/sdu610-superasis-presents-sonidos-del-universo-radioshow-new-audios-mp3_rf_129296109_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sdu610-superasis-presents-sonidos-del-universo-radioshow-new_mf_129296109_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/sdu610-superasis-presents-sonidos-del-universo-radioshow-new-audios-mp3_rf_129296109_1.html</guid>
+                <link>https://www.rtve.es/play/audios/ars-canendi/19-05-24/16110158/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16110158.mp3"/>
+                <guid>https://www.rtve.es/play/audios/ars-canendi/19-05-24/16110158/</guid>
                 
             </item><item>
-                <title>E235: La Batalla por los Huérfanos de Arizona</title>
-                <description>La Batalla por los Huérfanos de Arizona ocurrió cuando ciudadanos estadounidenses se opusieron a la adopción de niños huérfanos de Nueva York por familias mexicanas en Arizona, debido a prejuicios raciales y culturales. 
-Síguenos y visita nuestro sitio oficial:
-https://www.instagram.com/eldollop
-https://twitter.com/eldollop
-https://www.facebook.com/eldolloppodcast
-http://eldollop.com
-Feed: https://feeds.megaphone.fm/SONORO4124946493</description>
+                <title>Cinco pistas - Otra historia del rock - 2012-2014. Damas y Señores - 23/05/24</title>
+                <description>Otra historia del rock - 2012-2014. Damas y Señores
+Feed: https://www.rtve.es/api/programas/131888/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/39325/pdst.fm/e/traffic.megaphone.fm/SONORO5602724874.mp3?updated=1716085779"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/cinco-pistas/cinco-pistas-otra-historia-del-rock-2012-2014-damas-senores-23-05-24/16115853/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16115853.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cinco-pistas/cinco-pistas-otra-historia-del-rock-2012-2014-damas-senores-23-05-24/16115853/</guid>
                 
             </item>
         </channel>
