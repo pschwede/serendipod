@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 26 May 2024 04:25:00 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 27 May 2024 04:23:57 +0200</lastBuildDate>
             <item>
-                <title>Antler Family</title>
-                <description>Tom Flynn &amp; Mia Dean of Antler Family join the show to talk about their debut, past bands, and what&#39;s coming up
-Feed: https://feeds.megaphone.fm/performanceanxiety</description>
+                <title>Fine Food - 23 May 24_CAROLINE LAMB</title>
+                <description>Head chef of The Red Room by Chefs Warehouse at Belmond Mount Nelson Hotel
+Feed: https://iono.fm/rss/chan/5697</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/p.podderapp.com/1394819820/chrt.fm/track/E74G3E/traffic.megaphone.fm/PAN7222529368.mp3?updated=1716055183"/>
-                <guid></guid>
+                <link>https://iono.fm/e/1443175</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_234/epi_1443175_medium.m4a?p=rss"/>
+                <guid>https://iono.fm/e/1443175</guid>
                 
             </item><item>
-                <title>Ed Zwick Q&amp;A - Hits Flops and Other Illusions</title>
-                <description>Host Jeff Goldsmith chats with writer-director-producer Ed Zwick about his memoir: Hits, Flops, and Other Illusions. Download my podcast here Copyright © Unlikely Films, Inc. 2024. All rights reserved. For more great content check out Backstory Magazine @ Backstory.net
-Feed: https://feeds.feedburner.com/TheQaWithJeffGoldsmith</description>
+                <title>Helping Savers Spend</title>
+                <description>We tend to think of spending as a problem that needs to be solved, however YNAB encourages spending as a thing to be enjoyed, as long as that spending is in accordance with priorities and people understand the tradeoffs they are making when they...
+Feed: https://youneedabudget.libsyn.com/rss</description>
                 
                 
-                <link>http://www.theqandapodcast.com/2024/05/ed-zwick-q-hits-flops-and-other.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/theqandawjeffgoldsmith/EdZwickQandAHitsFlopsandOtherIllusions.mp3"/>
-                <guid>http://www.theqandapodcast.com/2024/05/ed-zwick-q-hits-flops-and-other.html</guid>
+                <link>http://youneedabudget.libsyn.com/680-helping-savers-spend</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/youneedabudget/680_Helping_Savers_Spend.mp3?dest-id=79439"/>
+                <guid>http://youneedabudget.libsyn.com/680-helping-savers-spend</guid>
                 
             </item>
         </channel>
