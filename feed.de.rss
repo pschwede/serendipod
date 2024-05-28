@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 27 May 2024 04:23:41 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 May 2024 04:24:43 +0200</lastBuildDate>
             <item>
-                <title>Interview mit Alex Voigt - Wird Teslas Robotaxi-Plan komplett unterschätzt? Die Revolution des autonomen Fahrens</title>
-                <description>Der deutschsprachige Tesla News Podcast
-Feed: https://1czw3xb.podcaster.de/teslawelt.rss</description>
+                <title>Anni Rosenlund ODER Herz mit Loch</title>
+                <description>Der fast 10-jährige Pilou und die 81-jährige Anni Rosenlund treffen sich eines Tages im Park vor Annis Altenheim und der Klinik für angeborene Herzfehler. Pilou hat seit seiner Geburt ein kleines Loch im Herz, das nun geflickt werden soll. Anni musste ins Altenheim, weil sie verrückterweise für verrückt erklärt wurde...
+Feed: https://feeds.br.de/geschichten-fuer-kinder/feed.xml</description>
                 
                 
-                <link>https://1czw3xb.podcaster.de/teslawelt/media/Tesla_Welt_-_Folge_359.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://1czw3xb.podcaster.de/teslawelt/media/Tesla_Welt_-_Folge_359.mp3"/>
-                <guid>https://1czw3xb.podcaster.de/teslawelt/media/Tesla_Welt_-_Folge_359.mp3</guid>
+                <link>https://www.br.de/mediathek/podcast/geschichten-fuer-kinder/anni-rosenlund-oder-herz-mit-loch-1/2093810</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2093810/c/feed/anni-rosenlund-oder-herz-mit-loch-1.mp3"/>
+                <guid>https://www.br.de/mediathek/podcast/geschichten-fuer-kinder/anni-rosenlund-oder-herz-mit-loch-1/2093810</guid>
                 
             </item><item>
-                <title>Von Ruanda, der Klimakrise und schlechter Finanzpolitik</title>
-                <description>Podcast #250
-Feed: https://podcaste97de5.podigee.io/feed/aac</description>
+                <title>Fehler im Einsatz?</title>
+                <description>Machen wir keine!
+Feed: https://brand-punkt-on-air.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://podcaste97de5.podigee.io/261-von-ruanda-der-klimakrise-und-schlechter-finanzpolitik</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1315904-m-8ff27807cb01684beab0dc5556941db4.m4a?source=feed"/>
-                <guid>https://podcaste97de5.podigee.io/261-von-ruanda-der-klimakrise-und-schlechter-finanzpolitik</guid>
+                <link>https://brand-punkt.de/283-fehler-im-einsatz-machen-wir-keine/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1476138-m-6c42f9672962b55f494ed381623b8ed9.mp3?source=feed"/>
+                <guid>https://brand-punkt.de/283-fehler-im-einsatz-machen-wir-keine/</guid>
                 
             </item>
         </channel>
