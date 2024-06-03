@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 31 May 2024 04:24:39 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 03 Jun 2024 04:25:19 +0200</lastBuildDate>
             <item>
-                <title>Le boycottage olympique, un vieux débat entre sport et politique</title>
-                <description>De Berlin en 1936 à Montréal en 1976, les Jeux olympiques ont été le théâtre de revendications politiques menant à des boycottages. L&#39;historien Jean Lévesque recense les principaux boycottages des Jeux.
-Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
+                <title>INCONTOURNABLE - L&#39;affaire Françoise Chabé : le mystère du foulard bleu</title>
+                <description>Françoise Chabé, 24 ans, est retrouvée étranglée chez elle en février 2005. Les enquêteurs suspectent rapidement le mari, Ludovic Chabé, qui est mis en examen. D&#39;abord condamné à 12 ans de réclusion criminelle, il sera finalement acquitté en appel.
+Feed: https://feeds.audiomeans.fr/feed/de5ba943-e720-4988-a518-40404f231ff3.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/235b9a14-d372-4005-9635-a7f101dcd9b1/2024-05-24_05_00_00_aujourdhuilhistoirebalado_0000.mp3"/>
-                <guid></guid>
+                <link>https://www.rtl.fr/programmes/l-heure-du-crime</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/ef49e919-67bb-4500-8329-632187cd502a.mp3?_=1715275990"/>
+                <guid>https://www.rtl.fr/programmes/l-heure-du-crime</guid>
                 
             </item><item>
-                <title>METABO : NOUVEAUTÉS 2024  -  LA MATINALE _ EP 17 _ BICHONTV</title>
-                <description>???? Dans cet épisode, Laurent Jacquet et l&#39;équipe METABO discutent des nouveautés et dernières innovations que la marque sortira en 2024. 
- 
- 
-▷ S P O N S O R S D U J O U R 
- 
-Cette émission vous est proposée par La Tal...
-Feed: https://feeds.audiomeans.fr/feed/f8fc4dc7-11a6-48c5-8e8c-4dd2ac13ad8c.xml</description>
+                <title>Ghetto érudit : 06/01/2024 19:00</title>
+                <description>704-314127
+Feed: http://podcast.cism893.ca/radioshows/704/feed_itunes.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/bf786f72-620d-459b-b908-e19dd805fea9.mp3?_=1716466149"/>
-                <guid></guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/314127.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/314127.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/314127.mp3</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 31 May 2024 04:24:43 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 03 Jun 2024 04:25:24 +0200</lastBuildDate>
             <item>
-                <title>La última reina goda</title>
-                <description>&lt;p&gt;Nos adentramos en la Edad Media para conocer a Egilo, reina goda esposa del rey Rodrigo. Lo hacemos junto al periodista y escritor David Yagüe&lt;br&gt;&lt;/p&gt;
-Feed: https://fapi-top.prisasd.com/podcast/playser/ser_historia/itunestfp/podcast.xml</description>
+                <title>Viajar por España [Jueves Digital 97]</title>
+                <description>&lt;p&gt;Jueves.Digital, noticias y debate de actualidad: https://jueves.digital/&lt;/p&gt;
+&lt;p&gt;#directo #noticias #actualidad&lt;/p&gt;
+&lt;p&gt;Secciones:&lt;/p&gt;
+&lt;p&gt;- Tema de la semana&lt;/p&gt;
+&lt;p&gt;- El chungo de la semana&lt;/p&gt;
+&lt;p&gt;- Cosas que hemos aprendido&lt;/p&gt;
+&lt;p&gt;- Cosas que hemos visto (cine / TV / streaming)&lt;/p&gt;
+&lt;p&gt;Invítanos a un café: https://ko-fi...
+Feed: https://anchor.fm/s/db171c/podcast/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/SER_HISTORIA_SER_PODCAST_355_P/media/playser/audio/20245/27/4011107.mp3"/>
-                <guid></guid>
+                <link>https://podcasters.spotify.com/pod/show/juevesdigital/episodes/Viajar-por-Espaa-Jueves-Digital-97-e2ka0kj</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/db171c/podcast/play/87408723/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-30%2F379245963-44100-2-c0db0d6a987e4.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/juevesdigital/episodes/Viajar-por-Espaa-Jueves-Digital-97-e2ka0kj</guid>
                 
             </item><item>
-                <title>Las mañanas de RNE con Íñigo Alfonso - Qué pasará con la ley de amnistía tras su aprobación en el Congreso</title>
-                <description>Qué pasará con la ley de amnistía tras su aprobación
-Feed: http://api2.rtve.es/api/programas/119312/audios.rss</description>
+                <title>Tangos y tangueros nuevos, Parte 2</title>
+                <description>El programa de hoy es un regreso al futuro. Un regreso, porque en cada una de estas piezas advertimos las raíces profundas del tango; y un avance hacia el futuro, porque los intérpretes son músicos contemporáneos que están empujando al tango hacia adelante y hacia arriba, donde siempre debe estar como uno de los géneros más excelsos de la música universal...
+Feed: https://feeds.feedburner.com/TangoSensei</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-con-inigo-alfonso/mananas-rne-inigo-alfonso-pasara-ley-amnistia-tras-su-aprobacion-congreso/16125977/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16125977.mp3"/>
-                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-con-inigo-alfonso/mananas-rne-inigo-alfonso-pasara-ley-amnistia-tras-su-aprobacion-congreso/16125977/</guid>
+                <link>http://www.ivoox.com/tangos-tangueros-nuevos-parte-2-audios-mp3_rf_129382369_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/tangos-tangueros-nuevos-parte-2_mf_129382369_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/tangos-tangueros-nuevos-parte-2-audios-mp3_rf_129382369_1.html</guid>
                 
             </item>
         </channel>
