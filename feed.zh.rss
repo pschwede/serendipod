@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 03 Jun 2024 04:25:33 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 07 Jun 2024 04:24:18 +0200</lastBuildDate>
             <item>
-                <title>Building Workflows</title>
-                <description>&lt;p&gt;Hey there, ADHD-ers! In the latest installment of The ADHD Podcast, Pete and Nikki are tackling the world of workflows. You know, those magical sequences of steps that take you from start to finish on any given task or project. And let&#39;s be real, who couldn&#39;t use a little more structure in their life?&lt;/p&gt;&lt;p&gt;The dynamic duo is all about ditching the stuffy term &#34;routine&#34; in favor of the more flexible &#34;workflow.&#34; Because let&#39;s face it, rigidity and ADHD don&#39;t exactly go hand in hand...
-Feed: https://feeds.transistor.fm/adhd_public</description>
+                <title>Sounds In The Dark - 5.29.24</title>
+                <description>Tonight&#39;s edition features new tunes from Loscil, Brian Eno, John Hayes + Robot Koch, Chihei Hatakeyama, Taylor Deupree, and three tunes with jet engines in them.
+Feed: https://data.bff.fm/shows/sounds-in-the-dark.rss</description>
                 
                 
-                <link>https://share.transistor.fm/s/a7e2942c</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/D282E7/op3.dev/e/media.transistor.fm/a7e2942c/6166f571.mp3"/>
-                <guid>https://share.transistor.fm/s/a7e2942c</guid>
+                <link>https://bff.fm/broadcasts/42282</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/977371/a.bff.fm/audio/sounds-in-the-dark/1716951027mMrVwaGd-Sounds_5_29_24.mp3"/>
+                <guid>https://bff.fm/broadcasts/42282</guid>
                 
             </item><item>
-                <title>How to Successfully Position or Reposition Your Brand with Ulli Appelbaum | Ep. 282 (Rebroadcast)</title>
-                <description>Today&#39;s show is all about brand positioning. Learn how to think about developing it, how to make yourself unique, and how to make yourself stand out in your market. Our guest Ulli Appelbaum is an award-winning marketing and brand strategy consultant...
-Feed: http://brandsonbrandsonbrands.libsyn.com/rss</description>
+                <title>S9 Bonus: Omry Hay, env0</title>
+                <description>Manage your IAC like a champ.
+Feed: https://feeds.redcircle.com/ac5e79a4-0405-49a3-af2c-02c37f0b3879</description>
                 
                 
-                <link>https://www.brandsonbrands.com/hotlinks</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/157GE/dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/brandsonbrandsonbrands/1715265685841_Episode_245_Building_a_Brand_Identity_with_Ulli_Appelbaum.mp3?dest-id=1245077"/>
-                <guid>https://www.brandsonbrands.com/hotlinks</guid>
+                <link>https://codestory.co/podcast/bonus-omry-hay-env0/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/dts.podtrac.com/redirect.mp3/chrt.fm/track/591D5/pscrb.fm/rss/p/audio4.redcircle.com/episodes/0f5b6eb0-192f-45d4-9444-7f2cd33a96a5/stream.mp3"/>
+                <guid>https://codestory.co/podcast/bonus-omry-hay-env0/</guid>
                 
             </item>
         </channel>
