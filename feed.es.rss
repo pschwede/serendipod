@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 07 Jun 2024 04:24:10 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Jun 2024 04:24:47 +0200</lastBuildDate>
             <item>
-                <title>Haciendo globoflexia de necar -  Capítulo 222</title>
-                <description>¿Dónde está la voz de Cata? Dicen que donde dejó el culito. Cata nos cuenta cuando Checho fue el invitado a animar una fiesta infantil en su casa. ¿Qué pasó? ¿Por qué había niños con chucha? Disfruten esta bicha olorosa. 
-Feed: https://www.spreaker.com/show/4081707/episodes/feed</description>
+                <title>Antonio Molina nos visita en Platicando</title>
+                <description>Antonio Molina De Oses ? (Huelin, Málaga, 9 de marzo de 1928-Madrid, 18 de marzo de 1992) fue un cantante español de copla y flamenco, progenitor de la familia Molina. Con una voz aguda y un estilo inimitable, gozó de gran popularidad al frente de numerosos espectáculos teatrales, y protagonizó varias películas en las que su habilidad vocal era el principal reclamo...
+Feed: https://eiberoamerica.com/feed/platicando.xml</description>
                 
                 
-                <link>https://www.spreaker.com/episode/haciendo-globoflexia-de-necar-capitulo-222--60064593</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/60064593/los_impopulares_cap_222.mp3"/>
-                <guid>https://www.spreaker.com/episode/haciendo-globoflexia-de-necar-capitulo-222--60064593</guid>
+                <link>http://eiberoamerica.com/podcast/platicando/0800_AntonioMolina.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0800_AntonioMolina.mp3"/>
+                <guid>http://eiberoamerica.com/podcast/platicando/0800_AntonioMolina.mp3</guid>
                 
             </item><item>
-                <title>RADIOTEATRO: “CARMILLA” 4 a PARTE. - Episodio exclusivo para mecenas</title>
-                <description>Agradece a este podcast tantas horas de entretenimiento y disfruta de episodios exclusivos como éste. ¡Apóyale en iVoox! Obra original de Joseph Sheridan Le Fanu, realizada por la plataforma Radio Arte y dirigida por Juan José Moscoso. Actores: Maria Luisa Roselló, Ester Cruz, Baltasar Silvestre, Francisco Rocamora, Nuria Casanova, Olga Corral y cuadro de voces de Radio Arte.
-&lt;br&gt;Escucha este episodio completo y accede a todo el contenido exclusivo de Luces en la oscuridad...
-Feed: https://www.ivoox.com/podcast-luces-oscuridad_fg_f1251_filtro_1.xml</description>
+                <title>Pero qué invento es esto! - Los inventos de Leonardo y el enigma de la Sábana Santa</title>
+                <description>Los inventos de Leonardo y el enigma de la Sábana Santa
+Feed: https://www.rtve.es/api/programas/133133/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/radioteatro-carmilla-4-a-parte-audios-mp3_rf_129983635_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioteatro-carmilla-4-a-parte_mf_129983635_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/radioteatro-carmilla-4-a-parte-audios-mp3_rf_129983635_1.html</guid>
+                <link>https://www.rtve.es/play/audios/pero-que-invento-es-esto/inventos-leonardo-enigma-sabana-santa/16137690/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16137690.mp3"/>
+                <guid>https://www.rtve.es/play/audios/pero-que-invento-es-esto/inventos-leonardo-enigma-sabana-santa/16137690/</guid>
                 
             </item>
         </channel>
