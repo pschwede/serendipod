@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Jun 2024 04:24:47 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 14 Jun 2024 04:23:30 +0200</lastBuildDate>
             <item>
-                <title>Antonio Molina nos visita en Platicando</title>
-                <description>Antonio Molina De Oses ? (Huelin, Málaga, 9 de marzo de 1928-Madrid, 18 de marzo de 1992) fue un cantante español de copla y flamenco, progenitor de la familia Molina. Con una voz aguda y un estilo inimitable, gozó de gran popularidad al frente de numerosos espectáculos teatrales, y protagonizó varias películas en las que su habilidad vocal era el principal reclamo...
-Feed: https://eiberoamerica.com/feed/platicando.xml</description>
+                <title>Café del Sur - 09/06/24</title>
+                <description>null
+Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
                 
                 
-                <link>http://eiberoamerica.com/podcast/platicando/0800_AntonioMolina.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0800_AntonioMolina.mp3"/>
-                <guid>http://eiberoamerica.com/podcast/platicando/0800_AntonioMolina.mp3</guid>
+                <link>https://www.rtve.es/play/audios/cafe-del-sur/09-06-24/16139536/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16139536.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cafe-del-sur/09-06-24/16139536/</guid>
                 
             </item><item>
-                <title>Pero qué invento es esto! - Los inventos de Leonardo y el enigma de la Sábana Santa</title>
-                <description>Los inventos de Leonardo y el enigma de la Sábana Santa
-Feed: https://www.rtve.es/api/programas/133133/audios.rss</description>
+                <title>10.000 lugares para viajar con Ángela Gonzalo - Granada, Gorbeia, Alemania, Noruega y el Transiberiano - 08/06/24</title>
+                <description>Granada, Gorbeia, Alemania, Noruega y el Transiberiano
+Feed: http://www.rtve.es/api/programas/131510/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/pero-que-invento-es-esto/inventos-leonardo-enigma-sabana-santa/16137690/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16137690.mp3"/>
-                <guid>https://www.rtve.es/play/audios/pero-que-invento-es-esto/inventos-leonardo-enigma-sabana-santa/16137690/</guid>
+                <link>https://www.rtve.es/play/audios/10000-lugares-para-viajar-con-angela-gonzalo/granada-gorbeia-alemania-noruega-transiberiano/16138489/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16138489.mp3"/>
+                <guid>https://www.rtve.es/play/audios/10000-lugares-para-viajar-con-angela-gonzalo/granada-gorbeia-alemania-noruega-transiberiano/16138489/</guid>
                 
             </item>
         </channel>

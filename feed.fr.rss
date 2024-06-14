@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Jun 2024 04:24:41 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 14 Jun 2024 04:23:27 +0200</lastBuildDate>
             <item>
-                <title>Qu’est-ce que le &#34;binge eating&#34;, ce trouble de l&#39;alimentation dangereux pour la santé ? </title>
-                <description>Découvrez &#34;Maintenant Vous Savez&#34;, la verticale de &#34;Maintenant Vous Savez - Santé&#34; qui vous donne les clés essentielles pour savoir vraiment ce qui se cache derrière un mot, un concept, une actualité. Chaque semaine, nous vous proposons de découvrir un épisode lié à la santé mentale ou encore au bien-être au travail, mais sous un angle sociétal. Bonne écoute !
-Le Binge-eating, qu&#39;on traduirait en français par de l&#39;hyperphagie boulimique est un trouble du comportement alimentaire...
-Feed: https://feeds.megaphone.fm/BABA4013440017</description>
+                <title>Votre jardin</title>
+                <description>Votre jardin
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA3409147428.mp3?updated=1718022256"/>
-                <guid></guid>
+                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/7e354138-89f3-4bec-93b2-9f0a712fd2a4/15376-08.06.2024-ITEMA_23767074-2024B20690S0160-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
                 
             </item><item>
-                <title>Jeunesse cosmique : Jeunesse Cosmique - Mercredi le 05 Juin 2024</title>
-                <description>678-314409
-Feed: http://podcast.cism893.ca/radioshows/678/feed_itunes.xml</description>
+                <title>Une renaissance anglaise</title>
+                <description>Une renaissance anglaise
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14497.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/314409.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/314409.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/314409.mp3</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/allegretto/une-renaissance-anglaise-2116109</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/10b04f94-104a-4db4-b5d1-b86355ceedde/14497-13.06.2024-ITEMA_23772143-2024M26220S0165-21.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/allegretto/une-renaissance-anglaise-2116109</guid>
                 
             </item>
         </channel>
