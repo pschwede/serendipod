@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 18 Jun 2024 04:23:37 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 20 Jun 2024 04:22:30 +0200</lastBuildDate>
             <item>
-                <title>The bakers</title>
-                <description>The art and business of bread making with bakers from Nigeria, Canada &amp; Lebanon
-Feed: https://podcasts.files.bbci.co.uk/p028z2z0.rss</description>
-                
-                
-                <link>http://www.bbc.co.uk/programmes/w3ct5xmv</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0j3qc44.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w3ct5xmv</guid>
-                
-            </item><item>
-                <title>The Acolyte Assessment: Episode 3</title>
-                <description>Alex and Pete didn&#39;t start the fire, but somebody did...
-See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.
-Feed: https://rss.art19.com/star-wars-minute</description>
+                <title>#543 - Lzzy Hale (Halestorm)</title>
+                <description>Powerhouse personality and vocalist Lzzy Hale is back on the podcast! We are here to celebrate Halestorms’s co-headlining North American Tour with I Prevail running from July 9th all the way to August 17th...
+Feed: https://feeds.megaphone.fm/metalsuckspodcast</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/73313172-29b6-4663-8079-20fe7ac903aa.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/chtbl.com/track/43774/traffic.megaphone.fm/SONY3430074306.mp3?updated=1718555819"/>
                 <guid></guid>
+                
+            </item><item>
+                <title>Pain Points and Pitfalls</title>
+                <description>In our Innards section: Linux Pain Points: Why doesn’t Linux Just Work?   And finally, the feedback and a couple of suggestions
+Feed: https://mintcast.org/category/mp3/feed/</description>
+                
+                
+                <link>https://mintcast.org/439-5-pain-points-and-pitfalls/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/mintCast439.5/ep439.5.mp3"/>
+                <guid>https://mintcast.org/439-5-pain-points-and-pitfalls/</guid>
                 
             </item>
         </channel>

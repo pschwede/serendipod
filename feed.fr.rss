@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 18 Jun 2024 04:23:26 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 20 Jun 2024 04:22:19 +0200</lastBuildDate>
             <item>
-                <title>Squadron en série The Acolyte 1x01 &amp;02</title>
-                <description>Pour découvrir cette nouvelle série Star Wars, Faye s&#39;associe une nouvelle fois avec l&#39;équipe de Geek Squadron pour vous proposer une série d&#39;émissions exceptionnelle. Celles-ci se dérouleront une semaine sur notre chaîne Twitch et nos flux et la semai...
-Feed: https://feed.ausha.co/o9GOF8kqq85b</description>
+                <title>Dream Scenario</title>
+                <description>Pour ce cent-quatrième épisode, on parle du film Dream Scenario dans lequel Nicolas Cage s&#39;introduit dans les rêves de la population mondiale, un jour comme un autre pour nous. Bonne écoute ! Retrouvez-nous également sur Twitter (@CitizenCagePod) et Instagram (citizencagepodcast).&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hébergé par Acast. Visitez acast.com/privacy pour plus d&#39;informations.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/64cbad5290eee700113cb35f</description>
                 
                 
-                <link>https://podcast.ausha.co/geek-en-serie/squadron-en-serie-the-acolyte-1x01-02</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bVAYSw45KwWy.mp3?t=1718313515"/>
-                <guid>https://podcast.ausha.co/geek-en-serie/squadron-en-serie-the-acolyte-1x01-02</guid>
+                <link>https://shows.acast.com/citizencage-1/episodes/dream-scenario</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/64cbad5290eee700113cb35f/e/666aa76638d6e40012d6c3be/media.mp3"/>
+                <guid>https://shows.acast.com/citizencage-1/episodes/dream-scenario</guid>
                 
             </item><item>
-                <title>Nina Métayer  - Épisode Intégral | L&#39;histoire de la meilleure pâtissière du monde</title>
-                <description>Nina Métayer  - Épisode Intégral | L&#39;histoire de la meilleure pâtissière du monde
-Feed: https://feeds.acast.com/public/shows/633c24cdb8e4730011a3807c</description>
+                <title>Sommet sur l’Ukraine : comment construire la paix en temps de guerre ?</title>
+                <description>Sommet sur l’Ukraine : comment construire la paix en temps de guerre ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13305.xml</description>
                 
                 
-                <link>https://businessofbouffe.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/633c24cdb8e4730011a3807c/e/666238976944b0001274d8c1/media.mp3"/>
-                <guid>https://businessofbouffe.com/</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/sommet-sur-l-ukraine-comment-construire-la-paix-en-temps-de-guerre-1306626</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/bc424b10-7470-4c29-b999-a415f3ffb5b7/13305-19.06.2024-ITEMA_23778351-2024C3305S0171-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/sommet-sur-l-ukraine-comment-construire-la-paix-en-temps-de-guerre-1306626</guid>
                 
             </item>
         </channel>
