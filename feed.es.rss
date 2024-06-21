@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 20 Jun 2024 04:22:22 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 21 Jun 2024 04:23:52 +0200</lastBuildDate>
             <item>
-                <title>PRIMER PLANO con FEHR RIVAS</title>
-                <description>El artista mexicano Fehr Rivas nos visita esta semana para hablarnos de su carrera y de su llegada a Espa&amp;ntilde;a. No te pierdas este agradable coloquio y c&amp;oacute;mo el talento de Fehr se despliega por cada canci&amp;oacute;n con gran agilidad. Estar&amp;aacute; en concierto el 19 de septiembre en Espa&amp;ntilde;a, por cierto
-Feed: https://www.ivoox.com/primer-plano_fg_f1237454_filtro_1.xml</description>
+                <title>Viñetas y bocadillos - Raúl Deamo &amp; Jan, &#39;Días Moscosos&#39; - 17/06/24</title>
+                <description>Raúl Deamo &amp; Jan, &#39;Días Moscosos&#39;
+Feed: http://api.rtve.es/api/programas/1946/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/primer-plano-fehr-rivas-audios-mp3_rf_130386902_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-fehr-rivas_mf_130386902_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/primer-plano-fehr-rivas-audios-mp3_rf_130386902_1.html</guid>
+                <link>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-raul-deamo-jan-dias-moscosos-17-06-24/16150372/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16150372.mp3"/>
+                <guid>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-raul-deamo-jan-dias-moscosos-17-06-24/16150372/</guid>
                 
             </item><item>
-                <title>Sonidos y Sonados 2024-06-13</title>
-                <description>Recordando tiempos pasados. Hoy un Sonidos y Sonados en el que os pongo algunas canciones que un sedrvidor escuchaba en mis tiempos mozos. A los oyentes de mi generación seguro que les suenan. Un programa solo con gente de fuera y muchas canciones de los años 70. Hoy, la música de Status Quo, Titanic, Bachman-Turner [&amp;#8230;]
-Feed: https://feeds.feedburner.com/sonidosysonados</description>
+                <title>El desembarco de Normandía - 80 años</title>
+                <description>En 2024 se conmemora uno de los aniversarios más importantes de la Segunda Guerra Mundial. Se cumplen 80 años del desembarco militar más grande que haya existido: el Desembarco de Normandía o “Día D”. El que algunos llaman el “día más...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link>https://www.sonidosysonados.com/2024/06/13/sonidos-y-sonados-2024-08-13/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/SonidosySonados20240613Oldgood.mp3"/>
-                <guid>https://www.sonidosysonados.com/2024/06/13/sonidos-y-sonados-2024-08-13/</guid>
+                <link>http://sites.libsyn.com/136379/el-desembarco-de-normanda-80-aos</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/El_desembarco_de_Normanda_-_80_aos.mp3?dest-id=844493"/>
+                <guid>http://sites.libsyn.com/136379/el-desembarco-de-normanda-80-aos</guid>
                 
             </item>
         </channel>

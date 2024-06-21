@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 20 Jun 2024 04:22:30 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 21 Jun 2024 04:23:59 +0200</lastBuildDate>
             <item>
-                <title>#543 - Lzzy Hale (Halestorm)</title>
-                <description>Powerhouse personality and vocalist Lzzy Hale is back on the podcast! We are here to celebrate Halestorms’s co-headlining North American Tour with I Prevail running from July 9th all the way to August 17th...
-Feed: https://feeds.megaphone.fm/metalsuckspodcast</description>
+                <title>Club Edition 24_06 | Stefano Noferini</title>
+                <description>Stefano Noferini
+Feed: https://app.syndicast.co.uk/show/rss/club-edition</description>
+                
+                
+                <link>https://app.syndicast.co.uk/site/show/club-edition-podcast#club-edition-24-06-stefano-noferini</link>
+                <enclosure type="audio/mpeg" length="1" url="https://app.syndicast.co.uk/download/itunes/uploads/audios/cl/club-edition-24-06-stefano-noferini-1.mp3"/>
+                <guid>https://app.syndicast.co.uk/site/show/club-edition-podcast#club-edition-24-06-stefano-noferini</guid>
+                
+            </item><item>
+                <title>Billy Idol guitarist Billy Morrison - THE FULL 34 MIN CONVO</title>
+                <description>We talk to Billy Idol rhythm guitarist Billy Morrison about #aliens, #MTV, #Fargo #GOT #BabyReindeer, playing #Wembley &amp; #MSG, radio show with #Ozzy, his art work, #heroin, #Metallica Lars Ulrich, #Supermoto &amp; Kansas City #Chiefs, #neardeath stories, #superpowers, #autobiographies and more in this 34 minute #podcast! 
+Learn more about your ad choices. Visit megaphone.fm/adchoices
+Feed: https://feeds.megaphone.fm/SBP7674732150</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/chtbl.com/track/43774/traffic.megaphone.fm/SONY3430074306.mp3?updated=1718555819"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/FGADCC/traffic.megaphone.fm/SBP1885915137.mp3?updated=1718924587"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Pain Points and Pitfalls</title>
-                <description>In our Innards section: Linux Pain Points: Why doesn’t Linux Just Work?   And finally, the feedback and a couple of suggestions
-Feed: https://mintcast.org/category/mp3/feed/</description>
-                
-                
-                <link>https://mintcast.org/439-5-pain-points-and-pitfalls/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/mintCast439.5/ep439.5.mp3"/>
-                <guid>https://mintcast.org/439-5-pain-points-and-pitfalls/</guid>
                 
             </item>
         </channel>
