@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 21 Jun 2024 04:23:52 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 22 Jun 2024 04:22:19 +0200</lastBuildDate>
             <item>
-                <title>Viñetas y bocadillos - Raúl Deamo &amp; Jan, &#39;Días Moscosos&#39; - 17/06/24</title>
-                <description>Raúl Deamo &amp; Jan, &#39;Días Moscosos&#39;
-Feed: http://api.rtve.es/api/programas/1946/audios.rss</description>
+                <title>Las Mañanas de RNE - CEAR Canarias: &#34;Cuando humanizamos la realidad migratoria es cuando podemos empatizar&#34;</title>
+                <description>&#34;Cuando humanizamos la realidad migratoria podemos empatizar&#34;
+Feed: http://api2.rtve.es/api/programas/119312/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-raul-deamo-jan-dias-moscosos-17-06-24/16150372/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16150372.mp3"/>
-                <guid>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-raul-deamo-jan-dias-moscosos-17-06-24/16150372/</guid>
+                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-con-inigo-alfonso/mananas-rne-cear-canarias-cuando-humanizamos-realidad-migratoria-cuando-podemos-empatizar/16156769/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16156769.mp3"/>
+                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-con-inigo-alfonso/mananas-rne-cear-canarias-cuando-humanizamos-realidad-migratoria-cuando-podemos-empatizar/16156769/</guid>
                 
             </item><item>
-                <title>El desembarco de Normandía - 80 años</title>
-                <description>En 2024 se conmemora uno de los aniversarios más importantes de la Segunda Guerra Mundial. Se cumplen 80 años del desembarco militar más grande que haya existido: el Desembarco de Normandía o “Día D”. El que algunos llaman el “día más...
-Feed: https://dianauribefm.libsyn.com/rss</description>
+                <title>Noosfera 204. Materia oscura y un universo en tinieblas | Viviana Gammaldi</title>
+                <description>¿Qué es la materia oscura? La materia ordinaria es, apenas, el 5% de lo que existe en el universo, la materia oscura es, en cambio, el 27%, eso significa que hay 5 veces y media más materia oscura que materia bariónica, la de toda la vida, y, sin...
+Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
                 
                 
-                <link>http://sites.libsyn.com/136379/el-desembarco-de-normanda-80-aos</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/El_desembarco_de_Normanda_-_80_aos.mp3?dest-id=844493"/>
-                <guid>http://sites.libsyn.com/136379/el-desembarco-de-normanda-80-aos</guid>
+                <link>https://www.spreaker.com/episode/noosfera-204-materia-oscura-y-un-universo-en-tinieblas-viviana-gammaldi--60455795</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/60455795/noosfera_202.mp3"/>
+                <guid>https://www.spreaker.com/episode/noosfera-204-materia-oscura-y-un-universo-en-tinieblas-viviana-gammaldi--60455795</guid>
                 
             </item>
         </channel>
