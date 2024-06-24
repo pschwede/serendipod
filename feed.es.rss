@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 22 Jun 2024 04:22:19 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 24 Jun 2024 04:23:32 +0200</lastBuildDate>
             <item>
-                <title>Las Mañanas de RNE - CEAR Canarias: &#34;Cuando humanizamos la realidad migratoria es cuando podemos empatizar&#34;</title>
-                <description>&#34;Cuando humanizamos la realidad migratoria podemos empatizar&#34;
-Feed: http://api2.rtve.es/api/programas/119312/audios.rss</description>
+                <title>Planeta vivo - Altri - 19/06/24</title>
+                <description>Altri
+Feed: http://api.rtve.es/api/programas/8893/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-con-inigo-alfonso/mananas-rne-cear-canarias-cuando-humanizamos-realidad-migratoria-cuando-podemos-empatizar/16156769/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16156769.mp3"/>
-                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-con-inigo-alfonso/mananas-rne-cear-canarias-cuando-humanizamos-realidad-migratoria-cuando-podemos-empatizar/16156769/</guid>
+                <link>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-altri-19-06-24/16156696/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16156696.mp3"/>
+                <guid>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-altri-19-06-24/16156696/</guid>
                 
             </item><item>
-                <title>Noosfera 204. Materia oscura y un universo en tinieblas | Viviana Gammaldi</title>
-                <description>¿Qué es la materia oscura? La materia ordinaria es, apenas, el 5% de lo que existe en el universo, la materia oscura es, en cambio, el 27%, eso significa que hay 5 veces y media más materia oscura que materia bariónica, la de toda la vida, y, sin...
-Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
+                <title>El Colegio Invisible 4x237: Saqueadores de tumbas: misterios bajo tierra</title>
+                <description>Aseguran los arqueólogos, eso sí, en voz baja, que muchos de los grandes descubrimientos que se han producido en el pasado, han sido gracias a la intervención desafortunada de los ladrones de tumbas. Por este motivo, entrevistamos en Egipto a nuestro a...
+Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
                 
                 
-                <link>https://www.spreaker.com/episode/noosfera-204-materia-oscura-y-un-universo-en-tinieblas-viviana-gammaldi--60455795</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/60455795/noosfera_202.mp3"/>
-                <guid>https://www.spreaker.com/episode/noosfera-204-materia-oscura-y-un-universo-en-tinieblas-viviana-gammaldi--60455795</guid>
+                <link>https://www.ondacero.es/programas/colegio-invisible/podcast/colegio-invisible-4x237-saqueadores-tumbas-misterios-tierra_20240621667504e9901ca9000181f04b.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.ondacero.es/mp_audios4//2024/06/21/CA929B3A-723E-43B0-8AC9-D02A9B00884C/CA929B3A-723E-43B0-8AC9-D02A9B00884C.mp3"/>
+                <guid>https://www.ondacero.es/programas/colegio-invisible/podcast/colegio-invisible-4x237-saqueadores-tumbas-misterios-tierra_20240621667504e9901ca9000181f04b.html</guid>
                 
             </item>
         </channel>
