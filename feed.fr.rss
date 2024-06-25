@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 24 Jun 2024 04:23:29 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 25 Jun 2024 04:22:57 +0200</lastBuildDate>
             <item>
-                <title>Ghetto érudit : 06/22/2024 19:00</title>
-                <description>704-315461
-Feed: http://podcast.cism893.ca/radioshows/704/feed_itunes.xml</description>
+                <title>CHR24037 - Des Chinois Sur La Lune</title>
+                <description>Des Chinois sur la Lune avant 2030...
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:161771999/sounds.rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/315461.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/315461.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/315461.mp3</guid>
+                <link>https://soundcloud.com/albireo78/chr24037-des-chinois-sur-la-lune</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1854309471-albireo78-chr24037-des-chinois-sur-la-lune.mp3"/>
+                <guid>https://soundcloud.com/albireo78/chr24037-des-chinois-sur-la-lune</guid>
                 
             </item><item>
-                <title>Elkin Polo El Show : 06/22/2024 13:00</title>
-                <description>709-315444
-Feed: http://podcast.cism893.ca/radioshows/709/feed_itunes.xml</description>
+                <title>Fête romande des Yodleurs 2024, en direct de Rarogne (sous cantine sur la place de l&#39;école)</title>
+                <description>Production et présentation: Jean-Marc Richard Conseiller musical: Marc Charrière Réalisation: Géraldine Ulrich Ingénieurs du son: Renaud Millet-Lacombe &amp; Fabrice Junod Accueil: Alexia Pharizat Attachée de production: Dyane Dufault FORMATIONS: - Yo Do Min…
+Feed: https://www.rts.ch/la-1ere/programmes/le-kiosque-a-musiques/podcast/?flux=rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/315444.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/315444.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/315444.mp3</guid>
+                <link>https://www.rts.ch/audio-podcast/2024/audio/fete-romande-des-yodleurs-2024-en-direct-de-rarogne-sous-cantine-sur-la-place-de-l-ecole-28547033.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/14959316/fbf08225-4116-314f-8a15-472f6e062eb3.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2024/audio/fete-romande-des-yodleurs-2024-en-direct-de-rarogne-sous-cantine-sur-la-place-de-l-ecole-28547033.html</guid>
                 
             </item>
         </channel>
