@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 25 Jun 2024 04:23:01 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 26 Jun 2024 04:24:54 +0200</lastBuildDate>
             <item>
-                <title>PRIMER PLANo con CARO VEGA y CARLETTI PORTA</title>
-                <description>Esta semana el programa te presenta a dos invitados. En primer lugar conversamos con la colombiana Carolina Vega. Aprovechamos que la hemos tenido aqu&amp;iacute; en Madrid para que la conozcas y sintonices con su m&amp;uacute;sica. En la segunda parte, conversamos con Carletti Porta. El cantante espa&amp;ntilde;ol nos cuenta de sus nuevos proyectos y de todo lo que est&amp;aacute; por venir.
-Feed: https://www.ivoox.com/primer-plano_fg_f1237454_filtro_1.xml</description>
+                <title>Cinco pistas - Mad Cool 2024 - 25/06/24</title>
+                <description>Mad Cool 2024
+Feed: https://www.rtve.es/api/programas/131888/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/primer-plano-caro-vega-carletti-porta-audios-mp3_rf_130704206_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-caro-vega-carletti-porta_mf_130704206_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/primer-plano-caro-vega-carletti-porta-audios-mp3_rf_130704206_1.html</guid>
+                <link>https://www.rtve.es/play/audios/cinco-pistas/cinco-pistas-mad-cool-2024-25-06-24/16161559/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16161559.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cinco-pistas/cinco-pistas-mad-cool-2024-25-06-24/16161559/</guid>
                 
             </item><item>
-                <title>Manual para damas sobre el protocol y el asesinato</title>
-                <description>En este episodio Any nos cuenta sobre una novela con tintes distintos y de época histórica. Vas a descubrir a una protagonista que poco a poco todo se le va complicando sin saber lo que está a punto de descubrir.
-Feed: https://feeds.simplecast.com/Ls3L1Ojk</description>
+                <title>Gente despierta - Mario Obrero - El poeta Ernst Toller</title>
+                <description>Mario Obrero - El poeta Ernst Toller
+Feed: http://www.rtve.es/api/programas/68092/audios.rss</description>
                 
                 
-                <link>https://mentesliterales.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/0cc4690d-0899-463d-9bd6-b02c19a11833/episodes/b61c8d62-b1d3-4fc7-9050-f2ce5439de15/audio/2271a301-c383-4642-bfb5-de0ecf9ca697/default_tc.mp3?aid=rss_feed&amp;feed=Ls3L1Ojk"/>
-                <guid>https://mentesliterales.com</guid>
+                <link>https://www.rtve.es/play/audios/gente-despierta/gente-despierta-mario-obrero-poeta-ernst-toller/16162525/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16162525.mp3"/>
+                <guid>https://www.rtve.es/play/audios/gente-despierta/gente-despierta-mario-obrero-poeta-ernst-toller/16162525/</guid>
                 
             </item>
         </channel>
