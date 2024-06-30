@@ -9,26 +9,37 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 26 Jun 2024 04:24:54 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 30 Jun 2024 04:22:34 +0200</lastBuildDate>
             <item>
-                <title>Cinco pistas - Mad Cool 2024 - 25/06/24</title>
-                <description>Mad Cool 2024
-Feed: https://www.rtve.es/api/programas/131888/audios.rss</description>
+                <title>Star 80 del 29 de junio de 2024 (edición 481 en Can10fm)</title>
+                <description>Bizz Nizz - Dont Miss The Party Line
+Max Him - No Escape 
+Pet Shop Boys  - Heart
+Savage - I&#39;m Loosing You 
+Images - Corps &amp;agrave; Corps
+Brando - Rainy Day
+Baby&amp;acute;s Gang - Happy Song
+Paul Rein - Lady O
+Fun Fun - Happy Station 
+Radiorama - Chance To Desire
+Sarah Dean - Hollywood
+Dale B...
+Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cinco-pistas/cinco-pistas-mad-cool-2024-25-06-24/16161559/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16161559.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cinco-pistas/cinco-pistas-mad-cool-2024-25-06-24/16161559/</guid>
+                <link>https://www.ivoox.com/star-80-del-29-junio-2024-audios-mp3_rf_131000704_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-29-junio-2024_mf_131000704_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/star-80-del-29-junio-2024-audios-mp3_rf_131000704_1.html</guid>
                 
             </item><item>
-                <title>Gente despierta - Mario Obrero - El poeta Ernst Toller</title>
-                <description>Mario Obrero - El poeta Ernst Toller
-Feed: http://www.rtve.es/api/programas/68092/audios.rss</description>
+                <title>Los conciertos de Radio 3 - Boston Babies - 28/06/24</title>
+                <description>Boston Babies
+Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/gente-despierta/gente-despierta-mario-obrero-poeta-ernst-toller/16162525/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16162525.mp3"/>
-                <guid>https://www.rtve.es/play/audios/gente-despierta/gente-despierta-mario-obrero-poeta-ernst-toller/16162525/</guid>
+                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/boston-babies-28-06-24/16165238/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16165238.mp3"/>
+                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/boston-babies-28-06-24/16165238/</guid>
                 
             </item>
         </channel>
