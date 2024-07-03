@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 01 Jul 2024 04:23:23 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 03 Jul 2024 04:23:04 +0200</lastBuildDate>
             <item>
-                <title>„KI ist ein leeres Tool.“</title>
-                <description>Statistik mit beschränkter Haftung: Was ist eine Künstliche Intelligenz und wie lässt sie sich rechtlich fassen? Der Technologieanwalt Jens Matthes im Gespräch.
-(00:00:00) Intro
-(00:01:25) Beg…
-Feed: https://feedpress.me/detektorfm_das-brandeins-magazin-zum-hoeren</description>
+                <title>Weniger Zahlungen mit Bargeld</title>
+                <description>In Deutschland kann längst nicht überall bargeldlos gezahlt werden – obwohl Zahlungen mit Debitkarte oder mit dem Handy immer beliebter werden. Im vergangenen Jahr wurden zwar immer noch 51 Prozent der Zahlungen mit Bargeld abgewickelt. Das waren aber sieben Prozentpunkte weniger als 2021, so eine Studie der Bundesbank.
+Feed: https://www1.wdr.de/mediathek/audio/wdr2/das-thema/das-thema-104.podcast</description>
                 
                 
-                <link>https://feedpress.me/link/19551/16727855/brand-eins-podcast-jens-matthes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://flex2.acast.com/s/das-brand-eins-magazin-zum-horen-detektorfm/u/detektor.fm/wp-content/uploads/2024/06/brandeinsjensmatthes.54154000123.mp3"/>
-                <guid>https://feedpress.me/link/19551/16727855/brand-eins-podcast-jens-matthes</guid>
+                <link>https://www1.wdr.de/mediathek/audio/wdr2/das-thema/audio-weniger-zahlungen-mit-bargeld-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/314/3141217/3141217_58081989.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/wdr2/das-thema/audio-weniger-zahlungen-mit-bargeld-100.html</guid>
                 
             </item><item>
-                <title>#Folge 0227 - Die Kunst der Selbstführung</title>
-                <description>4 konkrete Schritte
-Feed: https://stressfreiefuehrung.podcaster.de/stressfreiefuehrung.rss</description>
+                <title>E322 - Yeah, Hanni wurde nicht eingeäschert aber vielleicht rammt Nanni jetzt einen Eisberg</title>
+                <description>Vision Pro in Deutschland - Happy Funlad - PSVR 2 PC Adapter
+Feed: https://www.vrpodcast.de/feeds/main/mp3/</description>
                 
                 
-                <link>https://stressfreiefuehrung.podcaster.de/stressfreiefuehrung/media/0227_-_Die_Kunst_der_Selbstfuhrung.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stressfreiefuehrung.podcaster.de/stressfreiefuehrung/media/0227_-_Die_Kunst_der_Selbstfuhrung.mp3"/>
-                <guid>https://stressfreiefuehrung.podcaster.de/stressfreiefuehrung/media/0227_-_Die_Kunst_der_Selbstfuhrung.mp3</guid>
+                <link>https://www.vrpodcast.de/332-e322-yeah-hanni-wurde-nicht-eingeaschert-aber-vielleicht-rammt-nanni-jetzt-einen-eisberg</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1504687-m-7b2a32aefe836c2469bce2f25bcca125.mp3?source=feed-main"/>
+                <guid>https://www.vrpodcast.de/332-e322-yeah-hanni-wurde-nicht-eingeaschert-aber-vielleicht-rammt-nanni-jetzt-einen-eisberg</guid>
                 
             </item>
         </channel>
