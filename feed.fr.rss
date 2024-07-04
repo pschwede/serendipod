@@ -9,33 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 03 Jul 2024 04:23:07 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 04 Jul 2024 04:23:12 +0200</lastBuildDate>
             <item>
-                <title>Votre jardin</title>
-                <description>Votre jardin
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
+                <title>[BEST OF] Comprendre l&#39;élevage intensif en France - Brigitte Gothière co-fondatrice L214</title>
+                <description>Quelle est la véritable situation de l&#39;élevage intensif en France ? Retour avec Brigitte, fondatrice de L214
+Feed: https://feed.ausha.co/oR7APIOmX35x</description>
                 
                 
-                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c7db1194-7f1d-42bd-b1fa-621bb90cd544/15376-22.06.2024-ITEMA_23781991-2024B20690S0174-21.mp3"/>
-                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
+                <link>https://podcast.ausha.co/demain-et-durable-l-ecologie/best-of-comprendre-l-elevage-intensif-en-france-brigitte-gothiere-co-fondatrice-l214</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BxgdrcKPvjVK.mp3?t=1719262745"/>
+                <guid>https://podcast.ausha.co/demain-et-durable-l-ecologie/best-of-comprendre-l-elevage-intensif-en-france-brigitte-gothiere-co-fondatrice-l214</guid>
                 
             </item><item>
-                <title>Invité spécial : Compote</title>
-                <description>Gordon Deppe - Something Not Quite Right - Ready Records
-Meo - Cikuana - Music For Dreams 
- 
-***Compote***
-Osvaldo Montes - The Highway - Polydor
-Vangelis - Rachel’s Song - Warner Music
-101 North - Night Voices - Valley Vue Records
-Jean...
-Feed: https://www.choq.ca/emissions/mutations/rss</description>
+                <title>Épisode 1 - Les debuts d&#39;une nouvelle ère !</title>
+                <description>&lt;p&gt;Les Libéros vous proposent une nouvelle série de 10 épisodes dans laquelle sont célébrés les 20 ans d’une génération en or, celle des Invincibles d’Arsenal, champions invaincus d’Angleterre à l’issu de la saison 2003/2004 !&lt;/p&gt;&lt;br&gt;&lt;p&gt;Pourtant, rien ne présagé un tel exploit à l’arrivée d’un coach inconnu chez les Gunners. Nous profitons de la discussion de cet épisode pour comprendre comment Arsène Wenger a réussi à imposer son style !&lt;/p&gt;&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0...
+Feed: https://feeds.acast.com/public/shows/63a998cd82094f0010bd6874</description>
                 
                 
-                <link>https://www.choq.ca/balados/mutations/emission-du-23-juin-2024</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mp3.choq.ca//mp3/episode/mutations/2024/06/53273-emission-du-23-juin-2024.mp3"/>
-                <guid>https://www.choq.ca/balados/mutations/emission-du-23-juin-2024</guid>
+                <link>https://shows.acast.com/63a998cd82094f0010bd6874/episodes/663db39c1f998c00124fcb52</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63a998cd82094f0010bd6874/e/663db39c1f998c00124fcb52/media.mp3"/>
+                <guid>https://shows.acast.com/63a998cd82094f0010bd6874/episodes/663db39c1f998c00124fcb52</guid>
                 
             </item>
         </channel>
