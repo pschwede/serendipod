@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 04 Jul 2024 04:23:17 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 05 Jul 2024 04:25:39 +0200</lastBuildDate>
             <item>
-                <title>Lo del Pajaporte no es nuevo #Opinión</title>
-                <description>&lt;p&gt;Lo del “Pajaporte” en España causa risa por lo ridículo que suena, pero no es algo nuevo. Ya acá en Estados Unidos se han implantado leyes estatales similares.&lt;/p&gt;
-&lt;p&gt;Me pueden contactar en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta.me/contacto.html&lt;/p&gt;
-&lt;p&gt;Todos los medios donde publico contenido los encuentras en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta.me/&lt;/p&gt;
-
-Feed: https://comopiensodigo.com/@comopiensodigo/feed.xml</description>
+                <title>&#34;Nada&#34; como el poeta Horacio Sanguinetti</title>
+                <description>Una fina pluma con que cuenta el Tango en su larga historia, autor de muchos temas de éxito, retrataba aquella realidad con detallada precisión, sus letras alcanzaron pronto la resonancia del éxito. En la década de oro del cuarenta, pudo regalarnos lo más selecto de su elevada inspiración enfocada al amor con el vigor sutil que pregonaban sus versos. Un poeta de los grandes, prolífico y abarcador porque supo deleitarnos con su talento...
+Feed: https://feeds.feedburner.com/TangoSensei</description>
                 
                 
-                <link>https://comopiensodigo.com/@comopiensodigo/episodes/lo-del-pajaporte-no-es-nuevo-opinion</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=fca9a628-07fc-5904-864a-41644b4c3dc8/comopiensodigo.com/audio/@comopiensodigo/lo-del-pajaporte-no-es-nuevo-opinion.mp3?_from=fyyd.de"/>
-                <guid>https://comopiensodigo.com/@comopiensodigo/episodes/lo-del-pajaporte-no-es-nuevo-opinion</guid>
+                <link>http://www.ivoox.com/nada-como-poeta-horacio-sanguinetti-audios-mp3_rf_130897025_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/nada-como-poeta-horacio-sanguinetti_mf_130897025_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/nada-como-poeta-horacio-sanguinetti-audios-mp3_rf_130897025_1.html</guid>
                 
             </item><item>
-                <title>Café del sur - Cerdeña y el mar - 30/06/24</title>
-                <description>Cerdeña y el mar
-Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
+                <title>Académico UAI por comisiones de las AFP: “Las utilidades no son adecuadas, en promedio ganan un 33% al año”</title>
+                <description>En una nueva edición de Mesa Central, Iván Valenzuela conversó con Salvador Valdés, Senior Fellow de la Escuela de Negocios de la Universidad Adolfo Ibáñez y doctor en Economía del MIT, sobre las comisiones de las AFP.
+Feed: https://mdstrm.com/feeds/13-radios/entrevista-de-mesa-central</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cafe-del-sur/cerdena-mar-30-06-24/16168214/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16168214.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cafe-del-sur/cerdena-mar-30-06-24/16168214/</guid>
+                <link>https://mdstrm.com/audio/6686939449326a0bf622922c.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mdstrm.com/audio/6686939449326a0bf622922c.mp3"/>
+                <guid>https://mdstrm.com/audio/6686939449326a0bf622922c.mp3</guid>
                 
             </item>
         </channel>
