@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 05 Jul 2024 04:25:49 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 06 Jul 2024 04:23:40 +0200</lastBuildDate>
             <item>
-                <title>Vermicomposting -- It&#39;s Different From Regular Composting</title>
-                <description>An overview of vermicomposting -- worm composting. It provides very similar benefits to the garden as composting, but can be done indoors and stay active year-round, even in colder areas.
-Feed: https://empressofdirt.net/briefing/full.rss</description>
+                <title>OAuth 2.0 from Protecting APIs to Supporting Authorization &amp; Authentication - Aaron Parecki - ASW #289</title>
+                <description>OAuth 2.0 is more than just a single spec and it&#39;s used to protect more than just APIs. We talk about challenges in maintaining a spec over a decade of changing technologies and new threat models. Not only can OAuth be challenging to secure by...
+Feed: https://aswaudio.libsyn.com/rss</description>
                 
                 
-                <link>https://empressofdirt.net/podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/cultivatingstartups/EOD418_-_Vermicomposting_-_Its_Different_from_Regular_Composting.mp3"/>
-                <guid>https://empressofdirt.net/podcast</guid>
+                <link>http://aswaudio.libsyn.com/oauth-20-from-protecting-apis-to-supporting-authorization-authentication-aaron-parecki-asw-289</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_289_31a58f26-b323-40f5-8137-babcb7feedad.mp3?dest-id=626765"/>
+                <guid>http://aswaudio.libsyn.com/oauth-20-from-protecting-apis-to-supporting-authorization-authentication-aaron-parecki-asw-289</guid>
                 
             </item><item>
-                <title>DeepVibes Radio (18 Dec 2020)</title>
-                <description>[The HussyCast, Love Note House Music, Ohm Made Recordings, Subcommittee Recordings, Triosas, Underground Kollektiv]
-Sometimes naughty, but always nice, Beat Hussy radiates love from the Pacific Northwest to the world with playful, sexy blends of eclectic underground music.
-Beat Hussy can be heard fortnightly on UndergroundKollektiv.co.uk, Sundays at 0300 GMT and on The HussyCast.
-Please support the labels and artists who make the music that makes these mixes possible...
-Feed: https://hearthis.at/beathussy/podcast/</description>
+                <title>Ep. 781 - A Quiet Place: Day One</title>
+                <description>David, Devindra, and Jeff soar high with The Blue Angels, dig into the mystery of Fancy Dance, and head into combat with Battlebots. Then they raise their voices for their review of A Quiet Place: Day One...
+Feed: https://audioboom.com/channels/4997224.rss</description>
                 
                 
-                <link>https://hearthis.at/beathussy/dvr-18-dec-2020/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/beathussy/dvr-18-dec-2020/listen.mp3?s=tMZ"/>
-                <guid>https://hearthis.at/beathussy/dvr-18-dec-2020/</guid>
+                <link>https://audioboom.com/posts/8533165</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/pdst.fm/e/clrtpod.com/m/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8533165.mp3?modified=1719861355&amp;sid=4997224&amp;source=rss"/>
+                <guid>https://audioboom.com/posts/8533165</guid>
                 
             </item>
         </channel>

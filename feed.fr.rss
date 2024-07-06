@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 05 Jul 2024 04:25:33 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 06 Jul 2024 04:23:29 +0200</lastBuildDate>
             <item>
-                <title>Pandémies, riposte mondiale</title>
-                <description>Alors qu’un accord mondial sur les pandémies est toujours en négociation et qu’une nouvelle épidémie d’ampleur semble inéluctable, quelles leçons tirer de la crise Covid ?
-Feed: https://www.rts.ch/emissions/geopolitis/podcasts/?format=rss/podcast</description>
+                <title>La révolution impressionniste</title>
+                <description>&lt;p&gt;La fin de cette émission risque de vous laisser une très forte... impression !&lt;/p&gt;&lt;p&gt;Pour les 150 ans de l&#39;Impressionnisme, retrouvez Julie et Mag dans une édition inédite d&#39;ESSENTIEL academy !&lt;/p&gt;
+Feed: https://feeds.captivate.fm/essentiel-radio-essentiel-academy/</description>
                 
                 
-                <link>https://www.rts.ch/emissions/geopolitis/2024/video/pandemies-riposte-mondiale-28538996.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/14973884/5e359ed4-4cba-394b-b2af-5e6b4daca650.mp4"/>
-                <guid>https://www.rts.ch/emissions/geopolitis/2024/video/pandemies-riposte-mondiale-28538996.html</guid>
+                <link>https://essentielradio.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/dc8904bb-e32a-4618-a7ca-d3e542e1648b/Julie-Mag-R-volution-impressioniste-pod.mp3"/>
+                <guid>https://essentielradio.com/</guid>
                 
             </item><item>
-                <title>Prince Ali - Ne Me Remercie Pas : Du Disney plein les oreilles</title>
-                <description>???? Ne Me Remercie Pas - Épisode Spécial : La Parade Époustouflante de &#34;Prince Ali&#34; d&#39;Aladdin
-Préparez-vous à être émerveillés par la grandeur et le faste de &#34;Ne Me Remercie Pas&#34; ! Nicolas Descamps et Corine Yernaux vous invitent à plonger dans l&#39;extravagance et la magie de &#34;Prince Ali&#34;, la chanson vibrante et dynamique du film Aladdin.
-Dans cet épisode exclusif, explorez la magnificence et la joie de cette chanson iconique...
-Feed: https://dlrp-nmrp.lepodcast.fr/rss</description>
+                <title>Miscellanées d&#39;été </title>
+                <description>Miscellanées d&#39;été 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14503.xml</description>
                 
                 
-                <link>https://dlrp.fr/prince-ali-aladdin-disney-chanson-film-cinema-musique/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/dlrp-nmrp/prince-ali-ne-me-remercie-pas-du-disney-plein-les-oreilles/enclosure.a5413217893b3c06bc305169dc76809422b4b146c4d19529d7d5415e7a711ab5.mp3?p=f"/>
-                <guid>https://dlrp.fr/prince-ali-aladdin-disney-chanson-film-cinema-musique/</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/portraits-de-famille/miscellanees-d-ete-5770472</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/454c9c15-b2d8-4c95-ac24-1f326835e0a9/14503-29.06.2024-ITEMA_23789506-2024M23831E0012-21.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/portraits-de-famille/miscellanees-d-ete-5770472</guid>
                 
             </item>
         </channel>
