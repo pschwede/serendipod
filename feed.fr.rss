@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 06 Jul 2024 04:23:29 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 08 Jul 2024 04:24:51 +0200</lastBuildDate>
             <item>
-                <title>La révolution impressionniste</title>
-                <description>&lt;p&gt;La fin de cette émission risque de vous laisser une très forte... impression !&lt;/p&gt;&lt;p&gt;Pour les 150 ans de l&#39;Impressionnisme, retrouvez Julie et Mag dans une édition inédite d&#39;ESSENTIEL academy !&lt;/p&gt;
-Feed: https://feeds.captivate.fm/essentiel-radio-essentiel-academy/</description>
+                <title>Débat Joe Biden et Donald Trump : l’heure de vérité ?</title>
+                <description>Débat Joe Biden et Donald Trump : l’heure de vérité ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13305.xml</description>
                 
                 
-                <link>https://essentielradio.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/dc8904bb-e32a-4618-a7ca-d3e542e1648b/Julie-Mag-R-volution-impressioniste-pod.mp3"/>
-                <guid>https://essentielradio.com/</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/debat-joe-biden-et-donald-trump-l-heure-de-verite-7623939</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/0d5a79a7-132b-4d54-a1da-408f33d08a19/13305-28.06.2024-ITEMA_23788450-2024C3305S0180-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/debat-joe-biden-et-donald-trump-l-heure-de-verite-7623939</guid>
                 
             </item><item>
-                <title>Miscellanées d&#39;été </title>
-                <description>Miscellanées d&#39;été 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14503.xml</description>
+                <title>Le billet sciences du vendredi 05 juillet 2024</title>
+                <description>durée : 00:02:24 - Le billet sciences 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20339.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/portraits-de-famille/miscellanees-d-ete-5770472</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/454c9c15-b2d8-4c95-ac24-1f326835e0a9/14503-29.06.2024-ITEMA_23789506-2024M23831E0012-21.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/portraits-de-famille/miscellanees-d-ete-5770472</guid>
+                <link>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/0ee3f75c-704a-48c9-a202-cfb474f9ef91/20339-05.07.2024-ITEMA_23795406-2024I36368S0187-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</guid>
                 
             </item>
         </channel>
