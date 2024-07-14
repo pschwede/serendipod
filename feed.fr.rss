@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 08 Jul 2024 04:24:51 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 14 Jul 2024 04:26:35 +0200</lastBuildDate>
             <item>
-                <title>Débat Joe Biden et Donald Trump : l’heure de vérité ?</title>
-                <description>Débat Joe Biden et Donald Trump : l’heure de vérité ?
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13305.xml</description>
+                <title>Faire du bien à votre cerveau en vacances (Rediffusion)</title>
+                <description>Mon cher cerveau, le podcast de Ludovic Savariello qui fournit la notice d&#39;utilisation de cette fabuleuse machine en vous emmenant à la découverte de vous-même et de vos pouvoirs cachés. De façon simple et efficace, chaque podcast aborde une problémati...
+Feed: https://feed.ausha.co/Kw2g0I8j6e0w</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/debat-joe-biden-et-donald-trump-l-heure-de-verite-7623939</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/0d5a79a7-132b-4d54-a1da-408f33d08a19/13305-28.06.2024-ITEMA_23788450-2024C3305S0180-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/debat-joe-biden-et-donald-trump-l-heure-de-verite-7623939</guid>
+                <link>https://podcast.ausha.co/mon-cher-cerveau-le-podcast-qui-fournit-la-notice-d-utilisation/faire-du-bien-a-votre-cerveau-en-vacances-rediffusion</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/M3nKaIR0AKd3.mp3?t=1719835916"/>
+                <guid>https://podcast.ausha.co/mon-cher-cerveau-le-podcast-qui-fournit-la-notice-d-utilisation/faire-du-bien-a-votre-cerveau-en-vacances-rediffusion</guid>
                 
             </item><item>
-                <title>Le billet sciences du vendredi 05 juillet 2024</title>
-                <description>durée : 00:02:24 - Le billet sciences 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20339.xml</description>
+                <title>INÉDIT - Entrez dans Rouen !</title>
+                <description>Cet été, Lorànt Deutsch est de retour pour vous raconter l&#39;histoire de grandes villes de France !
+Quand on pense à Rouen, on pense bien-sûr à sa cathédrale, ses vieilles rues, ses vieilles tours... Oui, car Rouen est une des rares villes de Normandie qui a su gard...
+Feed: https://feeds.audiomeans.fr/feed/971b31f2-42d6-4d41-95ee-1c0554528483.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/0ee3f75c-704a-48c9-a202-cfb474f9ef91/20339-05.07.2024-ITEMA_23795406-2024I36368S0187-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</guid>
+                <link>https://www.rtl.fr/programmes/entrez-dans-l-histoire</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/149164ed-f2c4-4fb1-be52-7f0b99b498fa.mp3?_=1719403685"/>
+                <guid>https://www.rtl.fr/programmes/entrez-dans-l-histoire</guid>
                 
             </item>
         </channel>
