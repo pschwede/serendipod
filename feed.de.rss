@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 14 Jul 2024 04:26:30 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 16 Jul 2024 04:23:44 +0200</lastBuildDate>
             <item>
-                <title>#621 Machen Kleider Leute?</title>
-                <description>Der nackte Tiger
-Feed: https://anwaltspruefung.podigee.io/feed/mp3</description>
+                <title>Die kurze Sommerfolge aus dem Stadtrat</title>
+                <description>Die Koffer sind gepackt, aus dem Stadtrat in den Sommer - eine kurze Folge mit Neuem zu Oper und Wohnungspolitik
+
+Feed: https://kxsqvm.podcaster.de/gruenfunk-duesseldorf.rss</description>
                 
                 
-                <link>https://anwaltspruefung.podigee.io/621-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1525697-m-a287416e7da771249082f2cdf4491ae7.mp3?source=feed"/>
-                <guid>https://anwaltspruefung.podigee.io/621-new-episode</guid>
+                <link>https://kxsqvm.podcaster.de/gruenfunk-duesseldorf/media/GFD061.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://kxsqvm.podcaster.de/gruenfunk-duesseldorf/media/GFD061.mp3"/>
+                <guid>https://kxsqvm.podcaster.de/gruenfunk-duesseldorf/media/GFD061.mp3</guid>
                 
             </item><item>
-                <title>Nerdy Talk #135: Wholesome</title>
-                <description>Nähtipps und Gourmetrezepte
-Feed: https://geekeriki-der-nerdy-talk.podigee.io/feed/aac</description>
+                <title>146 Halotherapie in der Salzsauna</title>
+                <description>Heute sprechen wir über : das ist eine bestimmte Form der Inhalationstherapie mit Salz. Es gibt Saunen oder aber auch einfach Räume, so genannte Salzgrotte, in denen Haltherapie angewendet werden kann. Im Fürthermare in Fürth, wo Ingvar arbeitet,...
+Feed: https://abenteuerwellness.libsyn.com/rss</description>
                 
                 
-                <link>https://geekeriki-der-nerdy-talk.podigee.io/154-folge-135</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1510559-m-5cc3e3a9891738dd9571273d0bbd18f2.m4a?source=feed"/>
-                <guid>https://geekeriki-der-nerdy-talk.podigee.io/154-folge-135</guid>
+                <link>https://abenteuerwellness.libsyn.com/146-halotherapie-in-der-salzsauna</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/2633E1/traffic.libsyn.com/secure/abenteuerwellness/146_Halotherpaie_in_der_Salzsauna.mp3?dest-id=1555520"/>
+                <guid>https://abenteuerwellness.libsyn.com/146-halotherapie-in-der-salzsauna</guid>
                 
             </item>
         </channel>

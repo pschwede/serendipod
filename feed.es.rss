@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 14 Jul 2024 04:26:40 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 16 Jul 2024 04:23:51 +0200</lastBuildDate>
             <item>
-                <title>???? JUDAS PRIEST nunca volverá a ser lo mismo ???? Revelaciones de KK DOWNING descartan una reunión????</title>
-                <description>&lt;p&gt;En este episodio de Trascendencia Podcast, repasamos el drama que envolvió a Judas Priest y su ex guitarrista, KK Downing. En una reciente entrevista KK Downing expresó su deseo de volver a la banda sólo si el cheque es lo suficiente gordo, descartando una posible reunión. &lt;/p&gt;
-&lt;p&gt;Este episodio ya puede ser visto en nuestro canal de Youtube.
-&lt;/p&gt;
---- 
-Send in a voice message: https://podcasters.spotify.com/pod/show/trascendenciave/message
-Feed: https://anchor.fm/s/e54208d4/podcast/rss</description>
+                <title>Música y Letra: Vladimir Horowitz I - El descubrimiento de un extraordinario pianista</title>
+                <description>Andrés Amorós inicia un ciclo dedicado al pianista ruso nacionalizado estadounidense, un tanto desconocido para el propio Andrés. 
+Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/trascendenciave/episodes/JUDAS-PRIEST-nunca-volver-a-ser-lo-mismo--Revelaciones-de-KK-DOWNING-descartan-una-reunin-e2k7vfb</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/e54208d4/podcast/play/87341995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-29%2F379093435-44100-2-15ad940ed96d7.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/trascendenciave/episodes/JUDAS-PRIEST-nunca-volver-a-ser-lo-mismo--Revelaciones-de-KK-DOWNING-descartan-una-reunin-e2k7vfb</guid>
+                <link>https://esradio.libertaddigital.com/fonoteca/2024-07-06/musica-y-letra-vladimir-horowitz-i-el-descubrimiento-de-un-extraordinario-pianista-p1696233-7134428.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/60297774/download.mp3?aw_0_1st.collectionid=musica-y-letra&amp;aw_0_1st.subcat=67"/>
+                <guid>https://esradio.libertaddigital.com/fonoteca/2024-07-06/musica-y-letra-vladimir-horowitz-i-el-descubrimiento-de-un-extraordinario-pianista-p1696233-7134428.html</guid>
                 
             </item><item>
-                <title>Mundo pequeño 13/07/2024 23:05</title>
-                <description>La música para los más jóvenes tendrá un horario destacado los sábados por la noche con &amp;#8220;Mundo Pequeño&amp;#8221; y llevarán la voz inconfundible de Gloria Santoro.
-Feed: https://www.ivoox.com/mundo-pequeno_fg_f1251946_filtro_1.xml</description>
+                <title>Islas de Robinson - Hierba - 15/07/24</title>
+                <description>Hierba
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/mundo-pequeno-13-07-2024-23-05-audios-mp3_rf_131596789_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/mundo-pequeno-13-07-2024-23-05_mf_131596789_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/mundo-pequeno-13-07-2024-23-05-audios-mp3_rf_131596789_1.html</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/hierba-15-07-24/16186100/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16186100.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/hierba-15-07-24/16186100/</guid>
                 
             </item>
         </channel>

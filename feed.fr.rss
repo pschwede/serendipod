@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 14 Jul 2024 04:26:35 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 16 Jul 2024 04:23:48 +0200</lastBuildDate>
             <item>
-                <title>Faire du bien à votre cerveau en vacances (Rediffusion)</title>
-                <description>Mon cher cerveau, le podcast de Ludovic Savariello qui fournit la notice d&#39;utilisation de cette fabuleuse machine en vous emmenant à la découverte de vous-même et de vos pouvoirs cachés. De façon simple et efficace, chaque podcast aborde une problémati...
-Feed: https://feed.ausha.co/Kw2g0I8j6e0w</description>
+                <title>[Best Episode] Le marketing de l&#39;affiliation - Episode 96</title>
+                <description>Rediffusion de l&#39;un des épisode les plus écoutés du Podcast du Marketing : le marketing de l&#39;affiliationEst-ce que vous vous êtes déjà dit : « il ne faut pas que je mette tous mes œufs dans le même panier ? ». Vous vous l’êtes sûrement déjà dit dans vo...
+Feed: https://feed.ausha.co/b59E1Ual12P1</description>
                 
                 
-                <link>https://podcast.ausha.co/mon-cher-cerveau-le-podcast-qui-fournit-la-notice-d-utilisation/faire-du-bien-a-votre-cerveau-en-vacances-rediffusion</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/M3nKaIR0AKd3.mp3?t=1719835916"/>
-                <guid>https://podcast.ausha.co/mon-cher-cerveau-le-podcast-qui-fournit-la-notice-d-utilisation/faire-du-bien-a-votre-cerveau-en-vacances-rediffusion</guid>
+                <link>https://lepodcastdumarketing.com/le-marketing-de-l-affiliation-96/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/ye609tGlP2Em.mp3?t=1721031884"/>
+                <guid>https://lepodcastdumarketing.com/le-marketing-de-l-affiliation-96/</guid>
                 
             </item><item>
-                <title>INÉDIT - Entrez dans Rouen !</title>
-                <description>Cet été, Lorànt Deutsch est de retour pour vous raconter l&#39;histoire de grandes villes de France !
-Quand on pense à Rouen, on pense bien-sûr à sa cathédrale, ses vieilles rues, ses vieilles tours... Oui, car Rouen est une des rares villes de Normandie qui a su gard...
-Feed: https://feeds.audiomeans.fr/feed/971b31f2-42d6-4d41-95ee-1c0554528483.xml</description>
+                <title>Solénoïde - Mission 210 - 08.07.2024</title>
+                <description>Emission du 01.07.2024 avec Corey Fuller (12k), Saba Alizadeh (Karlrecords), Tanya Tagaq (Six Shooter)
+Feed: http://www.solenopole.org/solenopodcast.xml</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/entrez-dans-l-histoire</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/149164ed-f2c4-4fb1-be52-7f0b99b498fa.mp3?_=1719403685"/>
-                <guid>https://www.rtl.fr/programmes/entrez-dans-l-histoire</guid>
+                <link>https://solenopole.blogspot.com/2019/04/emission-solenoide-mission-210.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.solenopole.org/mp3_160/Solenoide_Mission_210.mp3"/>
+                <guid>https://solenopole.blogspot.com/2019/04/emission-solenoide-mission-210.html</guid>
                 
             </item>
         </channel>
