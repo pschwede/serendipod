@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 16 Jul 2024 04:23:44 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 17 Jul 2024 04:23:15 +0200</lastBuildDate>
             <item>
-                <title>Die kurze Sommerfolge aus dem Stadtrat</title>
-                <description>Die Koffer sind gepackt, aus dem Stadtrat in den Sommer - eine kurze Folge mit Neuem zu Oper und Wohnungspolitik
-
-Feed: https://kxsqvm.podcaster.de/gruenfunk-duesseldorf.rss</description>
+                <title>Mana Entzug #90 | Wie DU besser in Magic wirst | Mit GAST Robin (Gamerii/Radio Ravnica)</title>
+                <description>Robin und ich erklären euch, wie man besser im Spiel Magic: The Gathering wird
+Feed: https://letscast.fm/podcasts/mana-entzug-c17c5047/feed</description>
                 
                 
-                <link>https://kxsqvm.podcaster.de/gruenfunk-duesseldorf/media/GFD061.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://kxsqvm.podcaster.de/gruenfunk-duesseldorf/media/GFD061.mp3"/>
-                <guid>https://kxsqvm.podcaster.de/gruenfunk-duesseldorf/media/GFD061.mp3</guid>
+                <link>https://manaentzug.letscast.fm/episode/mana-entzug-90-wie-du-besser-in-magic-wirst-mit-gast-robin-gamerii-radio-ravnica</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e/lcdn.letscast.fm/media/podcast/6e224031/episode/da229ffb.mp3?t=1720507961"/>
+                <guid>https://manaentzug.letscast.fm/episode/mana-entzug-90-wie-du-besser-in-magic-wirst-mit-gast-robin-gamerii-radio-ravnica</guid>
                 
             </item><item>
-                <title>146 Halotherapie in der Salzsauna</title>
-                <description>Heute sprechen wir über : das ist eine bestimmte Form der Inhalationstherapie mit Salz. Es gibt Saunen oder aber auch einfach Räume, so genannte Salzgrotte, in denen Haltherapie angewendet werden kann. Im Fürthermare in Fürth, wo Ingvar arbeitet,...
-Feed: https://abenteuerwellness.libsyn.com/rss</description>
+                <title>Podcast-Aufnahme unterwegs: Elgato Neo überzeugt im Test</title>
+                <description>Willkommen zu einer neuen Episode von &#34;Mrs. Mobile&#34;! Ich bin Heike, eure Gastgeberin von mobilepodcast.de, und heute stelle ich euch ein aufregendes neues Setup für Mobile Podcasting und Videoproduktion vor. Wir testen das Elgato Neo Mikrofon, das speziell für mobile Anwendungen entwickelt wurde. Ich erzähle euch von meinen Erfahrungen mit diesem Mikrofon, das ich sowohl mit meinem MacBook als auch meinem iPhone 15 verwende...
+Feed: https://anchor.fm/s/9a1938/podcast/rss</description>
                 
                 
-                <link>https://abenteuerwellness.libsyn.com/146-halotherapie-in-der-salzsauna</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/2633E1/traffic.libsyn.com/secure/abenteuerwellness/146_Halotherpaie_in_der_Salzsauna.mp3?dest-id=1555520"/>
-                <guid>https://abenteuerwellness.libsyn.com/146-halotherapie-in-der-salzsauna</guid>
+                <link>https://podcasters.spotify.com/pod/show/mobilepodcast/episodes/Podcast-Aufnahme-unterwegs-Elgato-Neo-berzeugt-im-Test-e2lqtpb</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/9a1938/podcast/play/89011435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-9%2F382809778-44100-2-7c8301dd46fd3.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/mobilepodcast/episodes/Podcast-Aufnahme-unterwegs-Elgato-Neo-berzeugt-im-Test-e2lqtpb</guid>
                 
             </item>
         </channel>

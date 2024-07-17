@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 16 Jul 2024 04:23:51 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 17 Jul 2024 04:23:22 +0200</lastBuildDate>
             <item>
-                <title>Música y Letra: Vladimir Horowitz I - El descubrimiento de un extraordinario pianista</title>
-                <description>Andrés Amorós inicia un ciclo dedicado al pianista ruso nacionalizado estadounidense, un tanto desconocido para el propio Andrés. 
-Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
+                <title>Podcast FDC 118: No Soy Un Serial Killer – Capítulo 4</title>
+                <description>Continuamos con la narración de No Soy Un Serial Killer y entramos al cuarto capítulo. Conocemos algunas de las cosas que fascinan a John y cómo las aprecia, mientras nos dan más detalles sobre la última víctima en el pueblo.
+Feed: https://fueradelcine.com/feed/podcast/</description>
                 
                 
-                <link>https://esradio.libertaddigital.com/fonoteca/2024-07-06/musica-y-letra-vladimir-horowitz-i-el-descubrimiento-de-un-extraordinario-pianista-p1696233-7134428.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/60297774/download.mp3?aw_0_1st.collectionid=musica-y-letra&amp;aw_0_1st.subcat=67"/>
-                <guid>https://esradio.libertaddigital.com/fonoteca/2024-07-06/musica-y-letra-vladimir-horowitz-i-el-descubrimiento-de-un-extraordinario-pianista-p1696233-7134428.html</guid>
+                <link>https://fueradelcine.com/podcast-fdc-118-no-soy-un-serial-killer-capitulo-4/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-118-fdc-2024-07-07.mp3"/>
+                <guid>https://fueradelcine.com/podcast-fdc-118-no-soy-un-serial-killer-capitulo-4/</guid>
                 
             </item><item>
-                <title>Islas de Robinson - Hierba - 15/07/24</title>
-                <description>Hierba
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title># 561 Tributo a Burt Bacharach</title>
+                <description>Hola Que Tal? Burt Freeman Bacharach (Kansas City, Misuri; 12 de mayo de 1928) es un compositor, productor y cantante estadounidense. Cientos de sus canciones, muchas de ellas en colaboración con el letrista Hal David,
+Feed: https://feeds.feedburner.com/MsicaA4Manos</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/hierba-15-07-24/16186100/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16186100.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/hierba-15-07-24/16186100/</guid>
+                <link>https://www.musica4manos.com/561-tributo-a-burt-bacharach/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.musica4manos.com/musica4manos.com/mp3/561TributoBurt.mp3"/>
+                <guid>https://www.musica4manos.com/561-tributo-a-burt-bacharach/</guid>
                 
             </item>
         </channel>
