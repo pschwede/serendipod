@@ -9,26 +9,36 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 17 Jul 2024 04:23:22 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 18 Jul 2024 04:24:17 +0200</lastBuildDate>
             <item>
-                <title>Podcast FDC 118: No Soy Un Serial Killer – Capítulo 4</title>
-                <description>Continuamos con la narración de No Soy Un Serial Killer y entramos al cuarto capítulo. Conocemos algunas de las cosas que fascinan a John y cómo las aprecia, mientras nos dan más detalles sobre la última víctima en el pueblo.
-Feed: https://fueradelcine.com/feed/podcast/</description>
+                <title>Melodías pizarras - Ritmo y blues - 13/07/24</title>
+                <description>Ritmo y blues
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://fueradelcine.com/podcast-fdc-118-no-soy-un-serial-killer-capitulo-4/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-118-fdc-2024-07-07.mp3"/>
-                <guid>https://fueradelcine.com/podcast-fdc-118-no-soy-un-serial-killer-capitulo-4/</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/ritmo-blues/16184914/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16184914.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/ritmo-blues/16184914/</guid>
                 
             </item><item>
-                <title># 561 Tributo a Burt Bacharach</title>
-                <description>Hola Que Tal? Burt Freeman Bacharach (Kansas City, Misuri; 12 de mayo de 1928) es un compositor, productor y cantante estadounidense. Cientos de sus canciones, muchas de ellas en colaboración con el letrista Hal David,
-Feed: https://feeds.feedburner.com/MsicaA4Manos</description>
+                <title>Algo Tranki (Parte 1 y 2) - Andrés Brenes podcaster y autor del libro &#34;Heavy Metal: 15 Mitos del Rock&#34;</title>
+                <description>Hoy en Algo Tranki les traemos a Andr&amp;eacute;s Brenes  autor del Libro 15 Mitos Del Rock, para que nos cuenten un poco sobre sus inicios, proyectos, etc... en el mundo del rock.
+Algo Tranki
+Felices de hacer contenido para su entretenimiento
+Facebook:
+https://www.facebook.com/people/Algo-tranki/100085354045068
+Instagram: 
+https://www.instagram.com/algo_tranki._
+Tik Tok: 
+https://www.tiktok.com/@algo_tranki6
+&amp;iquest;D&amp;oacute;nde puedo comprar el Libro de Andr&amp;eacute;s?
+https://amzn...
+Feed: https://www.ivoox.com/es-roquero_fg_f1890087_filtro_1.xml?promotionalCampaign</description>
                 
                 
-                <link>https://www.musica4manos.com/561-tributo-a-burt-bacharach/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.musica4manos.com/musica4manos.com/mp3/561TributoBurt.mp3"/>
-                <guid>https://www.musica4manos.com/561-tributo-a-burt-bacharach/</guid>
+                <link>https://www.ivoox.com/algo-tranki-parte-1-2-andres-audios-mp3_rf_131615308_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/algo-tranki-parte-1-2-andres_mf_131615308_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/algo-tranki-parte-1-2-andres-audios-mp3_rf_131615308_1.html</guid>
                 
             </item>
         </channel>

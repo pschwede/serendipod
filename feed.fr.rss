@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 17 Jul 2024 04:23:19 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 18 Jul 2024 04:24:14 +0200</lastBuildDate>
             <item>
-                <title>Turbo tannant : 07/12/2024 20:00</title>
-                <description>685-316722
-Feed: http://podcast.cism893.ca/radioshows/685/feed_itunes.xml</description>
+                <title>Solénoïde - Mission 210 - 08.07.2024</title>
+                <description>Emission du 01.07.2024 avec Corey Fuller (12k), Saba Alizadeh (Karlrecords), Tanya Tagaq (Six Shooter)
+Feed: http://www.solenopole.org/solenopodcast.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/316722.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/316722.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/316722.mp3</guid>
+                <link>https://solenopole.blogspot.com/2019/04/emission-solenoide-mission-210.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.solenopole.org/mp3_160/Solenoide_Mission_210.mp3"/>
+                <guid>https://solenopole.blogspot.com/2019/04/emission-solenoide-mission-210.html</guid>
                 
             </item><item>
-                <title>Les criquets crinqués : 07/15/2024 21:00</title>
-                <description>653-316897
-Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
+                <title>Chantal Cécillon la victime effacée</title>
+                <description>Chantal Cécillon la victime effacée
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13940.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/316897.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/316897.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/316897.mp3</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-02-octobre-2023-5719034</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/272b5505-0252-4965-a9dd-430caf94bef1/13940-17.07.2024-ITEMA_23804160-2023F22805S0275-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-02-octobre-2023-5719034</guid>
                 
             </item>
         </channel>
