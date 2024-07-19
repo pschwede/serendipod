@@ -9,36 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 18 Jul 2024 04:24:17 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Jul 2024 04:25:55 +0200</lastBuildDate>
             <item>
-                <title>Melodías pizarras - Ritmo y blues - 13/07/24</title>
-                <description>Ritmo y blues
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
+                <title>Documentos RNE - Matilde Landa. La mártir laica - 12/07/24</title>
+                <description>Matilde Landa. La mártir laica
+Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/ritmo-blues/16184914/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16184914.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/ritmo-blues/16184914/</guid>
+                <link>https://www.rtve.es/play/audios/documentos-rne/matilde-landa-martir-laica-12-07-24/16184489/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16184489.mp3"/>
+                <guid>https://www.rtve.es/play/audios/documentos-rne/matilde-landa-martir-laica-12-07-24/16184489/</guid>
                 
             </item><item>
-                <title>Algo Tranki (Parte 1 y 2) - Andrés Brenes podcaster y autor del libro &#34;Heavy Metal: 15 Mitos del Rock&#34;</title>
-                <description>Hoy en Algo Tranki les traemos a Andr&amp;eacute;s Brenes  autor del Libro 15 Mitos Del Rock, para que nos cuenten un poco sobre sus inicios, proyectos, etc... en el mundo del rock.
-Algo Tranki
-Felices de hacer contenido para su entretenimiento
-Facebook:
-https://www.facebook.com/people/Algo-tranki/100085354045068
-Instagram: 
-https://www.instagram.com/algo_tranki._
-Tik Tok: 
-https://www.tiktok.com/@algo_tranki6
-&amp;iquest;D&amp;oacute;nde puedo comprar el Libro de Andr&amp;eacute;s?
-https://amzn...
-Feed: https://www.ivoox.com/es-roquero_fg_f1890087_filtro_1.xml?promotionalCampaign</description>
+                <title>Planeta vivo - No repitamos Aznalcóllar - 03/07/24</title>
+                <description>No repitamos Aznalcóllar
+Feed: http://api.rtve.es/api/programas/8893/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/algo-tranki-parte-1-2-andres-audios-mp3_rf_131615308_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/algo-tranki-parte-1-2-andres_mf_131615308_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/algo-tranki-parte-1-2-andres-audios-mp3_rf_131615308_1.html</guid>
+                <link>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-no-repitamos-aznalcollar-03-07-24/16171392/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16171392.mp3"/>
+                <guid>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-no-repitamos-aznalcollar-03-07-24/16171392/</guid>
                 
             </item>
         </channel>

@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 18 Jul 2024 04:24:11 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Jul 2024 04:25:49 +0200</lastBuildDate>
             <item>
-                <title>#158 EinOhrHase</title>
-                <description>In der letzten Folge vor der Sommerpause reden wir u.a. über den Van Gogh der Politik und das Haarvolumen von Justus. Wie gehts eigentlich Til Schweiger? Egal, ab zum Pool!
-      
-Feed: https://letscast.fm/podcasts/callboys-c59dc05a/feed</description>
+                <title>Podcast-Tipp: Omas Tasche und das Hitler-Attentat</title>
+                <description>War Oma am Hitler-Attentat vom 20. Juli 1944 beteiligt? Der Autor Thies Marsen ist zunächst sehr skeptisch, als ihm seine Großmutter eröffnet: Sie habe die Aktentasche besorgt, in der Graf von Stauffenbergs Bombe platziert war. Dann taucht er in die Familiengeschichte ein. Was er herausfindet, lässt ihn bis heute nicht los (BR 2024)
+Feed: https://www.swr.de/~podcast/swrkultur/wissen/archivradio/archivradio-podcast-104.xml</description>
+                
+                
+                <link>https://www.swr.de/swrkultur/wissen/archivradio/podcast-tipp-omas-tasche-und-das-hitler-attentat-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/swrkultur/wissen/archivradio/archivradio/podcast-tipp-omas-tasche-und-das-hitler-attentat.m.mp3"/>
+                <guid>https://www.swr.de/swrkultur/wissen/archivradio/podcast-tipp-omas-tasche-und-das-hitler-attentat-100.html</guid>
+                
+            </item><item>
+                <title>FPL38: Intermezzo - Fotografie in sozialen Medien</title>
+                <description>In dieser Intermezzo-Folge geht es um die Bedeutung sozialer Medien für Fotografen und um aktuelle Forschungsergebnisse dazu. Es wird beleuchtet, wie Profis und Amateure ihre Fotos online teilen und welche Gründe dahinterstehen.Literatur: Barasch, A., Diehl, K., &amp;amp; Zauberman, G. (2014). When happiness shared is happiness halved: How taking photos to share with others affects experiences and memories. ACR North American Advances. Batinic, B., &amp;amp; Appel, M. (2008). Medienpsycholo...
+Feed: https://feeds.buzzsprout.com/2040084.rss</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc.podcast-hosting.org/lcdn.letscast.fm/media/podcast/329aad86/episode/9f82fa27.mp3?t=1721216608&amp;awCollectionId=lc-80039&amp;awEpisodeId=9f82fa27"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/2040084/15223842-fpl38-intermezzo-fotografie-in-sozialen-medien.mp3"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Episode 331: Oberarm Gottes</title>
-                <description>Ein Podcast-Testspiel zum Saisonauftakt
-Feed: https://nurderfcm.podigee.io/feed/mp3</description>
-                
-                
-                <link>https://nurderfcm.podigee.io/331-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1536656-m-7c06c0caf21c11736adadd5400db214e.mp3?source=feed"/>
-                <guid>https://nurderfcm.podigee.io/331-neue-episode</guid>
                 
             </item>
         </channel>

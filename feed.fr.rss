@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 18 Jul 2024 04:24:14 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Jul 2024 04:25:52 +0200</lastBuildDate>
             <item>
-                <title>Solénoïde - Mission 210 - 08.07.2024</title>
-                <description>Emission du 01.07.2024 avec Corey Fuller (12k), Saba Alizadeh (Karlrecords), Tanya Tagaq (Six Shooter)
-Feed: http://www.solenopole.org/solenopodcast.xml</description>
+                <title>Prochainement dans Home(icides) : L’affaire Cyril Berger, meurtre dans les quartiers chics de Paris</title>
+                <description>Caroline Nogueras vous retrouve la semaine prochaine pour une nouvelle saison de Home(icides) : l’affaire Cyril Berger, un meurtre dans les quartiers chics parisiens. Dans chaque famille, il y a des rôles qui se mettent en place. Et, même quand vous grandissez, même quand vous changez, c’est dur de s’en défaire. Quand Odile de Moro Giafferri est retrouvée morte dans son appartement, les enquêteurs sont convaincus qu’il s’agit d’un membre de sa famille...
+Feed: https://feeds.megaphone.fm/BABA3636667739</description>
                 
                 
-                <link>https://solenopole.blogspot.com/2019/04/emission-solenoide-mission-210.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.solenopole.org/mp3_160/Solenoide_Mission_210.mp3"/>
-                <guid>https://solenopole.blogspot.com/2019/04/emission-solenoide-mission-210.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA6429150142.mp3?updated=1720182124"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Chantal Cécillon la victime effacée</title>
-                <description>Chantal Cécillon la victime effacée
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13940.xml</description>
+                <title>Gabon : la filière bois pour diversifier l’économie // Des ponts de pierre financés par des communautés à la base au Mali</title>
+                <description>La filière bois pour remplacer l&#39;économie pétrolière au Gabon, dont la surface forestière s’étend sur plus de trois quart de l&#39;étendue du territoire. Le pays veut porter sa filière vers une réelle mutation lui assurant un devenir créateur de richesse. // Construire des ponts en pierre, certaines populations au Mali s&#39;offrent désormais des infrastructures durables sans attendre l&#39;Etat.
+Feed: https://rss.dw.com/xml/podcast_fra_wirtschaft</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-02-octobre-2023-5719034</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/272b5505-0252-4965-a9dd-430caf94bef1/13940-17.07.2024-ITEMA_23804160-2023F22805S0275-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-lundi-02-octobre-2023-5719034</guid>
+                <link>https://www.dw.com/fr/gabon-la-filière-bois-pour-diversifier-l-économie-des-ponts-de-pierre-financés-par-des-communautés-à-la-base-au-mali/audio-69636830?maca=fra-podcast_fra_wirtschaft-6027-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/6027_podcast_fra_wirtschaft/E970D4FC_2-podcast-6027-69636830.mp3"/>
+                <guid>https://www.dw.com/fr/gabon-la-filière-bois-pour-diversifier-l-économie-des-ponts-de-pierre-financés-par-des-communautés-à-la-base-au-mali/audio-69636830?maca=fra-podcast_fra_wirtschaft-6027-xml-mrss</guid>
                 
             </item>
         </channel>
