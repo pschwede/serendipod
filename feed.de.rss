@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 19 Jul 2024 04:25:49 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 20 Jul 2024 04:25:24 +0200</lastBuildDate>
             <item>
-                <title>Podcast-Tipp: Omas Tasche und das Hitler-Attentat</title>
-                <description>War Oma am Hitler-Attentat vom 20. Juli 1944 beteiligt? Der Autor Thies Marsen ist zunächst sehr skeptisch, als ihm seine Großmutter eröffnet: Sie habe die Aktentasche besorgt, in der Graf von Stauffenbergs Bombe platziert war. Dann taucht er in die Familiengeschichte ein. Was er herausfindet, lässt ihn bis heute nicht los (BR 2024)
-Feed: https://www.swr.de/~podcast/swrkultur/wissen/archivradio/archivradio-podcast-104.xml</description>
+                <title>Was ist eine Supratendenz?</title>
+                <description>Alles, was Sie schon immer über den singenden Busch wissen wollten.
+Feed: https://www.sprechkabine.de/feed/podcast</description>
                 
                 
-                <link>https://www.swr.de/swrkultur/wissen/archivradio/podcast-tipp-omas-tasche-und-das-hitler-attentat-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/swrkultur/wissen/archivradio/archivradio/podcast-tipp-omas-tasche-und-das-hitler-attentat.m.mp3"/>
-                <guid>https://www.swr.de/swrkultur/wissen/archivradio/podcast-tipp-omas-tasche-und-das-hitler-attentat-100.html</guid>
+                <link>https://sprechkabine.de/s08e04</link>
+                <enclosure type="audio/mpeg" length="1" url="http://media.bitsundso.de/dsk/sprechkabine-s08e04-sCLs5n1x.m4a"/>
+                <guid>https://sprechkabine.de/s08e04</guid>
                 
             </item><item>
-                <title>FPL38: Intermezzo - Fotografie in sozialen Medien</title>
-                <description>In dieser Intermezzo-Folge geht es um die Bedeutung sozialer Medien für Fotografen und um aktuelle Forschungsergebnisse dazu. Es wird beleuchtet, wie Profis und Amateure ihre Fotos online teilen und welche Gründe dahinterstehen.Literatur: Barasch, A., Diehl, K., &amp;amp; Zauberman, G. (2014). When happiness shared is happiness halved: How taking photos to share with others affects experiences and memories. ACR North American Advances. Batinic, B., &amp;amp; Appel, M. (2008). Medienpsycholo...
-Feed: https://feeds.buzzsprout.com/2040084.rss</description>
+                <title>337 Friday the 13th: The Final Chapter (1984)</title>
+                <description>What? A dead fuck?
+Feed: https://cdn.julephosting.de/podcasts/433-devils-demons-der-horrorfilm-podcast/feed.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/2040084/15223842-fpl38-intermezzo-fotografie-in-sozialen-medien.mp3"/>
-                <guid></guid>
+                <link>https://podriders.de/podcast/devils-demons-der-horrorfilm-podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ads.julephosting.de/podcasts/433-devils-demons-der-horrorfilm-podcast/175304-new-episode.mp3?v=1&amp;awCollectionId=julep_7fba12&amp;awEpisodeId=175304"/>
+                <guid>https://podriders.de/podcast/devils-demons-der-horrorfilm-podcast</guid>
                 
             </item>
         </channel>
