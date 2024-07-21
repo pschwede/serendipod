@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 20 Jul 2024 04:25:24 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 21 Jul 2024 04:22:59 +0200</lastBuildDate>
             <item>
-                <title>Was ist eine Supratendenz?</title>
-                <description>Alles, was Sie schon immer über den singenden Busch wissen wollten.
-Feed: https://www.sprechkabine.de/feed/podcast</description>
+                <title>Systemische Therapie</title>
+                <description>Heute spreche ich mit der Psychologin Kathrin Hering über Systemische Therapie. Los geht´s!
+Feed: https://psychcast.de/feed/mp3/</description>
                 
                 
-                <link>https://sprechkabine.de/s08e04</link>
-                <enclosure type="audio/mpeg" length="1" url="http://media.bitsundso.de/dsk/sprechkabine-s08e04-sCLs5n1x.m4a"/>
-                <guid>https://sprechkabine.de/s08e04</guid>
+                <link>https://psychcast.de/systemische-therapie/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://psychcast.de/podlove/file/672/s/feed/c/mp3/PC147_SystemischeTherapie.mp3"/>
+                <guid>https://psychcast.de/systemische-therapie/</guid>
                 
             </item><item>
-                <title>337 Friday the 13th: The Final Chapter (1984)</title>
-                <description>What? A dead fuck?
-Feed: https://cdn.julephosting.de/podcasts/433-devils-demons-der-horrorfilm-podcast/feed.rss</description>
+                <title>Hyper, Hyper, Hochzeitscrasher</title>
+                <description>Endlich unter der Haube - Herzlichen Glückwunsch, Podcast-Emily! Jan und Florian waren dabei. Wurden sie als Pärchen gehalten oder haben sie einfach nur Verwirrung gestiftet? Ob das mal eine gute Idee war, die beiden Chaoten einzuladen... Hör&#39; rein!
+
+Feed: https://anchor.fm/s/23f15d9c/podcast/rss</description>
                 
                 
-                <link>https://podriders.de/podcast/devils-demons-der-horrorfilm-podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ads.julephosting.de/podcasts/433-devils-demons-der-horrorfilm-podcast/175304-new-episode.mp3?v=1&amp;awCollectionId=julep_7fba12&amp;awEpisodeId=175304"/>
-                <guid>https://podriders.de/podcast/devils-demons-der-horrorfilm-podcast</guid>
+                <link>https://podcasters.spotify.com/pod/show/sprichwortlichquark/episodes/Hyper--Hyper--Hochzeitscrasher-e2lv0c6</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/23f15d9c/podcast/play/89145158/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-12%2F94d32663-c63e-9cd7-ca10-0b6255db0ceb.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/sprichwortlichquark/episodes/Hyper--Hyper--Hochzeitscrasher-e2lv0c6</guid>
                 
             </item>
         </channel>

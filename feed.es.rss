@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 20 Jul 2024 04:25:32 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 21 Jul 2024 04:23:06 +0200</lastBuildDate>
             <item>
-                <title>SSF Jazz al estilo CD Mexico 1ª parte 1º septiembre 2023</title>
-                <description>Hoy te compartimos una selecci&amp;oacute;n de piezas musicales que impactaron el jazz en Ciudad de M&amp;eacute;xico.
-Feed: https://www.ivoox.com/podcast-sonido-sin-fronteras_fg_f1155767_filtro_1.xml</description>
+                <title>Viñetas y bocadillos - L&#39;Avi &amp; Angelinux, &#34;Paseo por el jardín de Roundhay&#34; - 15/07/24</title>
+                <description>L&#39;Avi &amp; Angelinux, &#34;Paseo por el jardín de Roundhay&#34;
+Feed: http://api.rtve.es/api/programas/1946/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/ssf-jazz-al-estilo-cd-mexico-1-parte-audios-mp3_rf_131848589_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/ssf-jazz-al-estilo-cd-mexico-1-parte_mf_131848589_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/ssf-jazz-al-estilo-cd-mexico-1-parte-audios-mp3_rf_131848589_1.html</guid>
+                <link>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-lavi-angelinux-paseo-jardin-roundhay-15-07-24/16186684/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16186684.mp3"/>
+                <guid>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-lavi-angelinux-paseo-jardin-roundhay-15-07-24/16186684/</guid>
                 
             </item><item>
-                <title>10.000 lugares para viajar con Ángela Gonzalo - El turismo mundial va viento en popa - 13/07/24</title>
-                <description>El turismo mundial va viento en popa
-Feed: http://www.rtve.es/api/programas/131510/audios.rss</description>
+                <title>Nadie Sabe Nada | Los mejores momentos de la temporada 11 de Nadie sabe nada</title>
+                <description>¿Hemos recopilador los mejores momentos del ‘Nadie Sabe Nada’? Nos ha costado porque cualquier episodio ya es todo un mejor momento pero no queríamos dejaros huérfanos de humor este verano y que la espera hasta nuestro regreso sea más llevadero.&lt;br&gt;&amp;nbsp;&lt;br&gt;‘Nadie Sabe Nada’ con Andreu Buenafuente y Berto Romero regresan en septiembre de 2024 los sábados a las 12:00h...
+Feed: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/10000-lugares-para-viajar-con-angela-gonzalo/angela-gonzalo-turismo-mundial-va-viento-popa/16184530/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16184530.mp3"/>
-                <guid>https://www.rtve.es/play/audios/10000-lugares-para-viajar-con-angela-gonzalo/angela-gonzalo-turismo-mundial-va-viento-popa/16184530/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20247/19/4079515.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

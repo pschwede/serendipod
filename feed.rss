@@ -9,40 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 20 Jul 2024 04:25:20 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 21 Jul 2024 04:22:56 +0200</lastBuildDate>
             <item>
-                <title>VERTICAL Blues N Roots - Salty Dog (July 2024)</title>
-                <description>
-Salty Dog&#39;s VERTICAL Podcast, July 2024
-We&#39;re standing straight and tall tone hounds... real vertical! Ha! Some fabulous cuts on the VERTICAL show, I ain&#39;t lyin&#39;...
-Feed: https://www.salty.com.au/feeds/saltyblues.xml</description>
+                <title>68: Quarterly Watercooler</title>
+                <description>https://tuxdigital.com/podcasts/sudo-show/sudo-68/ 
+
+Feed: https://sudo.show/rss</description>
                 
                 
-                <link>https://www.salty.com.au</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.salty.com.au/podcast/Blues-n-Roots-Salty-Dog-July24-Vertical320.mp3"/>
-                <guid>https://www.salty.com.au</guid>
+                <link>https://sudo.show/68</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/f84fed1f-7827-41bf-92fa-5917ca1b716d/7898f390-28ce-4e46-9225-6942b3e412de.mp3"/>
+                <guid>https://sudo.show/68</guid>
                 
             </item><item>
-                <title>Scott Lee of NEMHF/1126 Records</title>
-                <description>WIN TICKETS TO NEW ENGLAND METAL AND HARDCORE FEST:
-https://bit.ly/46a8Em9
-Support independent underground music journalism by supporting Lambgoat for just $5/month (perks included):
-https://lambgoat.com/account/register/
-Video version:
-http://www.lambgoat.com/podcast/
-FOR MORE ON NEW ENGLAND METAL AND HARDCORE FEST:
-https://www.instagram.com/nemhfofficial/
-https://www.facebook.com/metalandhardcorefest
-https://x.com/nemhfofficial
-https://metalandhardcorefest.com/
-FOLLOW LURK:
-https://www...
-Feed: https://feeds.megaphone.fm/lambgoat</description>
+                <title>On the mathematical frontline: Modelling behaviour</title>
+                <description>How we behave can have far greater impacts than just on our own daily lives.  For example who we interact with and whether we get vaccinated affects how diseases spread through the community.  So if we are going to use maths to try to understand such a challenge facing society, we need to make sure we include human behaviour in our mathematical models...
+Feed: https://feed.podbean.com/plusmathsorg/feed.xml</description>
                 
                 
-                <link>http://www.lambgoat.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/D33D55/traffic.megaphone.fm/FPMN6082869862.mp3?updated=1721323877"/>
-                <guid>http://www.lambgoat.com/</guid>
+                <link>https://plusmathsorg.podbean.com/e/on-the-mathematical-frontline-modelling-behaviour/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/2cu44yapvcjj4rx6/final2_mixdown.mp3"/>
+                <guid>https://plusmathsorg.podbean.com/e/on-the-mathematical-frontline-modelling-behaviour/</guid>
                 
             </item>
         </channel>
