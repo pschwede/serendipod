@@ -9,27 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 21 Jul 2024 04:22:56 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 22 Jul 2024 04:24:55 +0200</lastBuildDate>
             <item>
-                <title>68: Quarterly Watercooler</title>
-                <description>https://tuxdigital.com/podcasts/sudo-show/sudo-68/ 
-
-Feed: https://sudo.show/rss</description>
+                <title>Unconventional</title>
+                <description>This week, The Washington Post&#39;s Libby Casey, Rhonda Colvin and James Hohmann report from the Republican National Convention in Milwaukee, where Trump officially became the 2024 Republican presidential nominee just days after the shooting at his rally in Butler, Pa.
+The crew discusses Trump&#39;s nomination speech, the momentum his campaign seems to have gained, and what might happen next in the presidential campaign. And Trump&#39;s legal cases in Florida and New York are still delayed...
+Feed: http://podcast.posttv.com/itunes-58861635e4b039a652877de6.xml</description>
                 
                 
-                <link>https://sudo.show/68</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/f84fed1f-7827-41bf-92fa-5917ca1b716d/7898f390-28ce-4e46-9225-6942b3e412de.mp3"/>
-                <guid>https://sudo.show/68</guid>
+                <link>https://www.washingtonpost.com/podcasts/can-he-do-that/unconventional/?tid=aud_rsslink&amp;utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=can-he-do-that</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/7429E/podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/58861635e4b039a652877de6/20240719/6699e468e0d8655bfdc80ef1/t_1721368326094_name_t_1721367755672_name_20240718_Sidebar_Ep18_V2_output.mp3?awCollectionId=58861635e4b039a652877de6&amp;awEpisodeId=6699e468e0d8655bfdc80ef1"/>
+                <guid>https://www.washingtonpost.com/podcasts/can-he-do-that/unconventional/?tid=aud_rsslink&amp;utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=can-he-do-that</guid>
                 
             </item><item>
-                <title>On the mathematical frontline: Modelling behaviour</title>
-                <description>How we behave can have far greater impacts than just on our own daily lives.  For example who we interact with and whether we get vaccinated affects how diseases spread through the community.  So if we are going to use maths to try to understand such a challenge facing society, we need to make sure we include human behaviour in our mathematical models...
-Feed: https://feed.podbean.com/plusmathsorg/feed.xml</description>
+                <title>Observability &amp; Engineering Management, with Charity Majors</title>
+                <description>Charity Majors is the co-founder and CTO of honeycomb.io. She pioneered the concept of modern Observability, drawing on her years of experience building and managing massive distributed systems at Parse (acquired by Facebook), then subsequently at...
+Feed: https://feeds.libsyn.com/419861/rss</description>
                 
                 
-                <link>https://plusmathsorg.podbean.com/e/on-the-mathematical-frontline-modelling-behaviour/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/2cu44yapvcjj4rx6/final2_mixdown.mp3"/>
-                <guid>https://plusmathsorg.podbean.com/e/on-the-mathematical-frontline-modelling-behaviour/</guid>
+                <link>http://sites.libsyn.com/419861/observability-engineering-management-with-charity-majors</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/e780d51f-f115-44a6-8252-aed9216bb521/KPod230.mp3?dest-id=3486674"/>
+                <guid>http://sites.libsyn.com/419861/observability-engineering-management-with-charity-majors</guid>
                 
             </item>
         </channel>

@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 21 Jul 2024 04:22:59 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 22 Jul 2024 04:25:00 +0200</lastBuildDate>
             <item>
-                <title>Systemische Therapie</title>
-                <description>Heute spreche ich mit der Psychologin Kathrin Hering über Systemische Therapie. Los geht´s!
-Feed: https://psychcast.de/feed/mp3/</description>
+                <title># 179 Wie kann Körpflege nachhaltiger werden?</title>
+                <description>Oder: Warum keine Dusche auch keine Lösung ist
+Feed: https://utopia.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://psychcast.de/systemische-therapie/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://psychcast.de/podlove/file/672/s/feed/c/mp3/PC147_SystemischeTherapie.mp3"/>
-                <guid>https://psychcast.de/systemische-therapie/</guid>
+                <link>https://utopia.podigee.io/187-nachhaltige-koerperpflege</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1522271-m-5e097129e8a60dcbcead82a27a81280a.mp3?source=feed"/>
+                <guid>https://utopia.podigee.io/187-nachhaltige-koerperpflege</guid>
                 
             </item><item>
-                <title>Hyper, Hyper, Hochzeitscrasher</title>
-                <description>Endlich unter der Haube - Herzlichen Glückwunsch, Podcast-Emily! Jan und Florian waren dabei. Wurden sie als Pärchen gehalten oder haben sie einfach nur Verwirrung gestiftet? Ob das mal eine gute Idee war, die beiden Chaoten einzuladen... Hör&#39; rein!
-
-Feed: https://anchor.fm/s/23f15d9c/podcast/rss</description>
+                <title>mit Anton Piech und Tobias Moers</title>
+                <description>Über die Herausforderung einen wirklich emotionsgeladenen Elektrosportwagen zu bauen.
+Feed: https://alte-schule.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/sprichwortlichquark/episodes/Hyper--Hyper--Hochzeitscrasher-e2lv0c6</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/23f15d9c/podcast/play/89145158/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-12%2F94d32663-c63e-9cd7-ca10-0b6255db0ceb.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/sprichwortlichquark/episodes/Hyper--Hyper--Hochzeitscrasher-e2lv0c6</guid>
+                <link>https://alte-schule.podigee.io/260-piech-moers</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1535772-m-9a1407ad50376598bb34dbf67383b0c8.mp3?source=feed"/>
+                <guid>https://alte-schule.podigee.io/260-piech-moers</guid>
                 
             </item>
         </channel>

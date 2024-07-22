@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 21 Jul 2024 04:23:06 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 22 Jul 2024 04:25:10 +0200</lastBuildDate>
             <item>
-                <title>Viñetas y bocadillos - L&#39;Avi &amp; Angelinux, &#34;Paseo por el jardín de Roundhay&#34; - 15/07/24</title>
-                <description>L&#39;Avi &amp; Angelinux, &#34;Paseo por el jardín de Roundhay&#34;
-Feed: http://api.rtve.es/api/programas/1946/audios.rss</description>
+                <title>Rincón Sportinguista 560 #PodcastSportinguista</title>
+                <description>Programa con @JaviMelero77 @AlejandroJamart @TinvsPilvs y Mon donde analizamos el empate a cero contra el Espanyol a domicilio que nos deja fuera del playoff. Adem&amp;aacute;s, hacemos resumen de la temporada.
+Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-lavi-angelinux-paseo-jardin-roundhay-15-07-24/16186684/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16186684.mp3"/>
-                <guid>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-lavi-angelinux-paseo-jardin-roundhay-15-07-24/16186684/</guid>
+                <link>https://www.ivoox.com/rincon-sportinguista-560-podcastsportinguista-audios-mp3_rf_130446278_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-560-podcastsportinguista_mf_130446278_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/rincon-sportinguista-560-podcastsportinguista-audios-mp3_rf_130446278_1.html</guid>
                 
             </item><item>
-                <title>Nadie Sabe Nada | Los mejores momentos de la temporada 11 de Nadie sabe nada</title>
-                <description>¿Hemos recopilador los mejores momentos del ‘Nadie Sabe Nada’? Nos ha costado porque cualquier episodio ya es todo un mejor momento pero no queríamos dejaros huérfanos de humor este verano y que la espera hasta nuestro regreso sea más llevadero.&lt;br&gt;&amp;nbsp;&lt;br&gt;‘Nadie Sabe Nada’ con Andreu Buenafuente y Berto Romero regresan en septiembre de 2024 los sábados a las 12:00h...
-Feed: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml</description>
+                <title>Frontera 13/07/24</title>
+                <description>Frontera 13/07/24
+Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20247/19/4079515.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/frontera/13-07-24/16184754/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16184754.mp3"/>
+                <guid>https://www.rtve.es/play/audios/frontera/13-07-24/16184754/</guid>
                 
             </item>
         </channel>
