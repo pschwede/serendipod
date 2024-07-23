@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 22 Jul 2024 04:25:05 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 23 Jul 2024 04:23:43 +0200</lastBuildDate>
             <item>
-                <title>Aux origines du Parti Républicain, progressiste et anti-esclavage</title>
-                <description>&lt;p&gt;Avec ses casquettes MAGA, sa délégation texane habillée en cow-boys aux couleurs du drapeau américain et ses vedettes de la musique country, la Convention nationale républicaine aura lieu à Milwaukee (Wisconsin) du 15 au 18 juillet 2024. Trump devrait être investi sur un programme dont on pense qu&#39;il sera d&#39;inspiration à la fois réactionnaire, autoritaire et libertarienne.&lt;br/&gt;&lt;br/&gt;Pourtant, le Parti républicain a une histoire très différente de ses courants actuels...
-Feed: https://feeds.360.audion.fm/6DEDYNDVuyDDA-xbBAq8y</description>
+                <title>
+			Outer Wilds</title>
+                <description>Bah on est dans de beaux draps ! On vient d&#39;avoir le permis V (Vaisseaux d&#39;exploration de catégorie moins de 300 Kilos), et v&#39;la pas que 22 minutes après, on se la joue jour de la marmotte. Et comme on est sympas, on vous a...
+Feed: https://pragmastick.fr/podcast.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/70f9cbe2-471f-4c55-add4-48cac5df5e21.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://dts.podtrac.com/redirect.mp3/pragmastick.fr/podcast/S05E07_-_Outer_Wilds.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pragmastick.fr/podcast/S05E07_-_Outer_Wilds.mp3"/>
+                <guid>https://dts.podtrac.com/redirect.mp3/pragmastick.fr/podcast/S05E07_-_Outer_Wilds.mp3</guid>
                 
             </item><item>
-                <title>(Rediff)  [1/2] Gustave Eiffel, l’ingénieur qui a révolutionné le fer </title>
-                <description> 
- Le monde entier connait sa tour mais l’homme, beaucoup moins. 
- Gustave Eiffel a été un entrepreneur génial qui a toujours su s’entourer des meilleurs pour faire prospérer son nom et son entreprise. Dans un double-récit Virginie Girod...
-Feed: https://feeds.audiomeans.fr/feed/80a39a48-f044-436e-ad5b-63d3154efa91.xml</description>
+                <title>Une interview captivante avec Virginie Correlli</title>
+                <description>Son conseil &#34;Suivez vos rêves ils connaissent le chemin&#34;
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/5537_92aca5d7e08aadfcb9e7b57de25d8430.rss</description>
                 
                 
-                <link>https://podcasts.audiomeans.fr/au-coeur-de-l-histoire-des-recits-pour-decouvrir-et-apprendre-l-histoire-63d3154efa91/-rediff-1-2]-gustave-eiffel-l-ingenieur-qui-a-revolutionne-le-fer--e12c6de88e97</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/8ae7de3c-2e39-405a-a606-e12c6de88e97.mp3?_=1721312888"/>
-                <guid>https://podcasts.audiomeans.fr/au-coeur-de-l-histoire-des-recits-pour-decouvrir-et-apprendre-l-histoire-63d3154efa91/-rediff-1-2]-gustave-eiffel-l-ingenieur-qui-a-revolutionne-le-fer--e12c6de88e97</guid>
+                <link>https://www.podcastics.com/podcast/episode/une-interview-captivante-avec-virginie-correlli-306725/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/5537/306725.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/une-interview-captivante-avec-virginie-correlli-306725/</guid>
                 
             </item>
         </channel>

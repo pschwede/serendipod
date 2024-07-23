@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 22 Jul 2024 04:25:10 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 23 Jul 2024 04:23:47 +0200</lastBuildDate>
             <item>
-                <title>Rincón Sportinguista 560 #PodcastSportinguista</title>
-                <description>Programa con @JaviMelero77 @AlejandroJamart @TinvsPilvs y Mon donde analizamos el empate a cero contra el Espanyol a domicilio que nos deja fuera del playoff. Adem&amp;aacute;s, hacemos resumen de la temporada.
-Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
+                <title>Hoy empieza todo 2 - Festival Aqueteleo en Arnedo - 22/07/2024</title>
+                <description>Festival Aqueteleo en Arnedo
+Feed: http://api.rtve.es/api/programas/59011/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/rincon-sportinguista-560-podcastsportinguista-audios-mp3_rf_130446278_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-560-podcastsportinguista_mf_130446278_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/rincon-sportinguista-560-podcastsportinguista-audios-mp3_rf_130446278_1.html</guid>
+                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-2/hoy-empieza-todo-2-festival-aqueteleo-arnedo-22-07-2024/16194077/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16194077.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-2/hoy-empieza-todo-2-festival-aqueteleo-arnedo-22-07-2024/16194077/</guid>
                 
             </item><item>
-                <title>Frontera 13/07/24</title>
-                <description>Frontera 13/07/24
-Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
+                <title>EL 20 de Julio de 1810</title>
+                <description>Para este 20 de julio les traemos una versión remasterizada de uno de nuestros capítulos más especiales y que originalmente publicamos en el año 2020. Aquí les contamos porqué el 20 de julio es la fiesta nacional de Colombia. Más allá de todo...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/frontera/13-07-24/16184754/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16184754.mp3"/>
-                <guid>https://www.rtve.es/play/audios/frontera/13-07-24/16184754/</guid>
+                <link>http://sites.libsyn.com/136379/el-20-de-julio-de-1810</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/20_de_Julio.mp3?dest-id=844493"/>
+                <guid>http://sites.libsyn.com/136379/el-20-de-julio-de-1810</guid>
                 
             </item>
         </channel>

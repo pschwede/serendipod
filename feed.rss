@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 22 Jul 2024 04:24:55 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 23 Jul 2024 04:23:36 +0200</lastBuildDate>
             <item>
-                <title>Unconventional</title>
-                <description>This week, The Washington Post&#39;s Libby Casey, Rhonda Colvin and James Hohmann report from the Republican National Convention in Milwaukee, where Trump officially became the 2024 Republican presidential nominee just days after the shooting at his rally in Butler, Pa.
-The crew discusses Trump&#39;s nomination speech, the momentum his campaign seems to have gained, and what might happen next in the presidential campaign. And Trump&#39;s legal cases in Florida and New York are still delayed...
-Feed: http://podcast.posttv.com/itunes-58861635e4b039a652877de6.xml</description>
+                <title>Ex-MI6 &amp; CIA Leaders on US Assassination Attempt, Should Europe Worry?</title>
+                <description>Guest host and correspondent Christina Ruffini speaks with One Decision&#39;s resident spymaster&#39;s—Ex-MI6 Chief Sir Richard Dearlove and former CIA Director Leon Panetta to get their take on this week&#39;s shocking assassination attempt against former President Donald Trump and Europe’s anxiety over Trump choosing Ohio United States Senator JD Vance as his vice president, particularly in light of Vance&#39;s isolationist views and the potential impact on Ukraine&#39;s ability to win the war...
+Feed: https://feeds.megaphone.fm/NSR7393370733</description>
                 
                 
-                <link>https://www.washingtonpost.com/podcasts/can-he-do-that/unconventional/?tid=aud_rsslink&amp;utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=can-he-do-that</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/7429E/podtrac.com/pts/redirect.mp3/podcast.washpostpodcasts.com/washpost-production/58861635e4b039a652877de6/20240719/6699e468e0d8655bfdc80ef1/t_1721368326094_name_t_1721367755672_name_20240718_Sidebar_Ep18_V2_output.mp3?awCollectionId=58861635e4b039a652877de6&amp;awEpisodeId=6699e468e0d8655bfdc80ef1"/>
-                <guid>https://www.washingtonpost.com/podcasts/can-he-do-that/unconventional/?tid=aud_rsslink&amp;utm_source=podcasts&amp;utm_medium=referral&amp;utm_campaign=can-he-do-that</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/6EB82C/traffic.megaphone.fm/NILOR8261325132.mp3?updated=1721273569"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Observability &amp; Engineering Management, with Charity Majors</title>
-                <description>Charity Majors is the co-founder and CTO of honeycomb.io. She pioneered the concept of modern Observability, drawing on her years of experience building and managing massive distributed systems at Parse (acquired by Facebook), then subsequently at...
-Feed: https://feeds.libsyn.com/419861/rss</description>
+                <title>Talking to ... Sergei Medvedev</title>
+                <description>The &amp;#187;Special Operation&amp;#171;, the Underground Man and WWIII
+Feed: https://martinburckhardt.substack.com/feed</description>
                 
                 
-                <link>http://sites.libsyn.com/419861/observability-engineering-management-with-charity-majors</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/e780d51f-f115-44a6-8252-aed9216bb521/KPod230.mp3?dest-id=3486674"/>
-                <guid>http://sites.libsyn.com/419861/observability-engineering-management-with-charity-majors</guid>
+                <link>https://martinburckhardt.substack.com/p/talking-to-sergei-medvedev</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.substack.com/feed/podcast/146779730/20ab08c73d05599509b24454d3f4c4d6.mp3"/>
+                <guid>https://martinburckhardt.substack.com/p/talking-to-sergei-medvedev</guid>
                 
             </item>
         </channel>
