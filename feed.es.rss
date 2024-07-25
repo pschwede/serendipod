@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 23 Jul 2024 04:23:47 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 25 Jul 2024 04:26:59 +0200</lastBuildDate>
             <item>
-                <title>Hoy empieza todo 2 - Festival Aqueteleo en Arnedo - 22/07/2024</title>
-                <description>Festival Aqueteleo en Arnedo
-Feed: http://api.rtve.es/api/programas/59011/audios.rss</description>
+                <title>Polémica en el arranqe de Paris 2024 entre Argetina y Marruecos </title>
+                <description>Álvaro Morales, Ricardo Ferretti, Jorge Pietrasanta, Miguel Briseño y Mario Carillo debaten en la mesa más poderosa del futbol mexicano. 
+Feed: https://feeds.megaphone.fm/ESP7136457638</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-2/hoy-empieza-todo-2-festival-aqueteleo-arnedo-22-07-2024/16194077/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16194077.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-2/hoy-empieza-todo-2-festival-aqueteleo-arnedo-22-07-2024/16194077/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2448179177.mp3?updated=1721850286"/>
+                <guid></guid>
                 
             </item><item>
-                <title>EL 20 de Julio de 1810</title>
-                <description>Para este 20 de julio les traemos una versión remasterizada de uno de nuestros capítulos más especiales y que originalmente publicamos en el año 2020. Aquí les contamos porqué el 20 de julio es la fiesta nacional de Colombia. Más allá de todo...
-Feed: https://dianauribefm.libsyn.com/rss</description>
+                <title>XVI Domingo del Tiempo Ordinario (B)</title>
+                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Marcos 6, 30-34. Gloria a ti, Señor. En aquel tiempo, los apóstoles volvieron a reunirse &amp;#8230;
+Feed: http://feed.quechilero.com/PodcastCatedralDeEscuintla</description>
                 
                 
-                <link>http://sites.libsyn.com/136379/el-20-de-julio-de-1810</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/20_de_Julio.mp3?dest-id=844493"/>
-                <guid>http://sites.libsyn.com/136379/el-20-de-julio-de-1810</guid>
+                <link>https://catedraldeescuintla.com/xvi-domingo-del-tiempo-ordinario-b-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=d4a7cbf0-0244-5cca-b5f7-502b9b5a3298/catedraldeescuintla.com/podcast-download/8084/xvi-domingo-del-tiempo-ordinario-b-2024.mp3"/>
+                <guid>https://catedraldeescuintla.com/xvi-domingo-del-tiempo-ordinario-b-2024/</guid>
                 
             </item>
         </channel>

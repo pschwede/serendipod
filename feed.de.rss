@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 23 Jul 2024 04:23:40 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 25 Jul 2024 04:26:51 +0200</lastBuildDate>
             <item>
-                <title>Was ist ein gut erzogener Hund?</title>
-                <description>Interview mit Tanja Elias
-Feed: https://dercanis-podcast.podigee.io/feed/mp3</description>
+                <title>Nachrischde uff platt 24.07.24</title>
+                <description> &lt;br&gt; 
+Feed: https://sr-mediathek.de/pcast/feeds/SR3_NUP_P/feed.xml</description>
                 
                 
-                <link>https://dercanis-podcast.podigee.io/95-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1538699-m-d5aad16152280ad78bd66b5299b8e4bd.mp3?source=feed"/>
-                <guid>https://dercanis-podcast.podigee.io/95-new-episode</guid>
+                <link>https://storage01.sr.de/podcast/SR3_NUP_P/SR3_NUP_P_36236_20240724_083651.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://storage01.sr.de/podcast/SR3_NUP_P/SR3_NUP_P_36236_20240724_083651.mp3"/>
+                <guid>https://storage01.sr.de/podcast/SR3_NUP_P/SR3_NUP_P_36236_20240724_083651.mp3</guid>
                 
             </item><item>
-                <title>KI-Implementierung: „Die Akzeptanz wird steigen, sobald die Skepsis abnimmt“</title>
-                <description>heise meets … Anette Zimmermann, Vice President Analyst im Team Emerging Tech und Trends bei Gartner
-Feed: https://heise-meets.podigee.io/feed/mp3</description>
+                <title>Tour de France - Ex-Radprofi Marcel Kittel: &#34;Pogacar ist eine Klasse besser&#34;</title>
+                <description>Tadej Pogacar gewinnt zum dritten Mal die Tour de France – mit deutlichem Vorsprung. Für Ex-Radprofi Marcel Kittel liegt das auch am starken Team. Aber auch mögliche Dopingmethoden spielten zuletzt eine Rolle. Das deutsche Team hingegen enttäuscht. Marcel Kittel im Gespräch mit Christian von Stülpnagel www.deutschlandfunk.de, Sportgespräch 
+Feed: https://www.deutschlandfunk.de/sportgespraech-102.xml</description>
                 
                 
-                <link>https://heise-meets.podigee.io/131-ki-implementierung-die-akzeptanz-wird-steigen-sobald-die-skepsis-abnimmt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1527029-m-13b1cf779224fef781cb691683ee403d.mp3?source=feed"/>
-                <guid>https://heise-meets.podigee.io/131-ki-implementierung-die-akzeptanz-wird-steigen-sobald-die-skepsis-abnimmt</guid>
+                <link>https://www.deutschlandfunk.de/radsport-tour-de-france-marcel-kittel-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/07/21/tour_de_france_2024_marcel_kittel_pogacar_ist_einfach_eine_dlf_20240721_2330_2ed1fd05.mp3?refId=sportgespraech-102"/>
+                <guid>https://www.deutschlandfunk.de/radsport-tour-de-france-marcel-kittel-100.html</guid>
                 
             </item>
         </channel>
