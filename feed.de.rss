@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 25 Jul 2024 04:26:51 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 26 Jul 2024 04:23:59 +0200</lastBuildDate>
             <item>
-                <title>Nachrischde uff platt 24.07.24</title>
-                <description> &lt;br&gt; 
-Feed: https://sr-mediathek.de/pcast/feeds/SR3_NUP_P/feed.xml</description>
+                <title>Gottes Versorgung und das Mt 6,33-Experiment (Andi Jansson)</title>
+                <description>&lt;p&gt;Predigt im Rahmen des GreifBar+ Gottesdienstes zu 2. Mose 16,2-3.11-18 und Matthäus 6,33, am 14. Juli 2024.&lt;/p&gt;
+
+Feed: https://greifbar.podbean.com/feed.xml</description>
                 
                 
-                <link>https://storage01.sr.de/podcast/SR3_NUP_P/SR3_NUP_P_36236_20240724_083651.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://storage01.sr.de/podcast/SR3_NUP_P/SR3_NUP_P_36236_20240724_083651.mp3"/>
-                <guid>https://storage01.sr.de/podcast/SR3_NUP_P/SR3_NUP_P_36236_20240724_083651.mp3</guid>
+                <link>https://greifbar.podbean.com/e/gottes-versorgung-und-das-mt-633-experiment-andi-jansson/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/pmqxxp3r9p37i378/2024-07-14_Jansson_GOttes-Versorgung-und_das_Mt_6_33_Exp_Ex_16_.mp3"/>
+                <guid>https://greifbar.podbean.com/e/gottes-versorgung-und-das-mt-633-experiment-andi-jansson/</guid>
                 
             </item><item>
-                <title>Tour de France - Ex-Radprofi Marcel Kittel: &#34;Pogacar ist eine Klasse besser&#34;</title>
-                <description>Tadej Pogacar gewinnt zum dritten Mal die Tour de France – mit deutlichem Vorsprung. Für Ex-Radprofi Marcel Kittel liegt das auch am starken Team. Aber auch mögliche Dopingmethoden spielten zuletzt eine Rolle. Das deutsche Team hingegen enttäuscht. Marcel Kittel im Gespräch mit Christian von Stülpnagel www.deutschlandfunk.de, Sportgespräch 
-Feed: https://www.deutschlandfunk.de/sportgespraech-102.xml</description>
+                <title>Sextortion: Zwischen Scham und Schande</title>
+                <description>Das miese Spiel mit Nacktbildern
+Feed: https://mind-the-tech.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/radsport-tour-de-france-marcel-kittel-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/07/21/tour_de_france_2024_marcel_kittel_pogacar_ist_einfach_eine_dlf_20240721_2330_2ed1fd05.mp3?refId=sportgespraech-102"/>
-                <guid>https://www.deutschlandfunk.de/radsport-tour-de-france-marcel-kittel-100.html</guid>
+                <link>https://mind-the-tech.podigee.io/87-sextortion-zwischen-scham-und-schande</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1541252-m-1f836dd8ba3b31e301dd2950276dc57c.mp3?source=feed"/>
+                <guid>https://mind-the-tech.podigee.io/87-sextortion-zwischen-scham-und-schande</guid>
                 
             </item>
         </channel>

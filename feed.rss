@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 25 Jul 2024 04:26:47 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 26 Jul 2024 04:23:55 +0200</lastBuildDate>
             <item>
-                <title>NASters of the Universe</title>
-                <description>In our Innards section: It’s all about the NAS   And finally, the feedback and a couple of suggestions
-Feed: https://mintcast.org/category/mp3/feed/</description>
+                <title>María-Victoria Mateos, MD, PhD - Updates in Multiple Myeloma From Madrid: Data Surrounding BCMA-Directed Agents and Their Clinical Relevance</title>
+                <description>María-Victoria Mateos, MD, PhD - Updates in Multiple Myeloma From Madrid: Data Surrounding BCMA-Directed Agents and Their Clinical Relevance
+Feed: https://c.peervoice.com/podcast/xml/internal_medicine_audio.xml</description>
                 
                 
-                <link>https://mintcast.org/441-5-nasters-of-the-universe/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/mintCast441.5/ep441.5.mp3"/>
-                <guid>https://mintcast.org/441-5-nasters-of-the-universe/</guid>
+                <link>https://peervoice.com/HEG860</link>
+                <enclosure type="audio/mpeg" length="1" url="https://peervoice.com/140201769HEG.mp3?ProjectNumber=140201769&amp;Promocode=861&amp;AudienceID=PV"/>
+                <guid>https://peervoice.com/HEG860</guid>
                 
             </item><item>
-                <title>Leo’s Dreamy Day on Earth</title>
-                <description>Narrated by Thomas. Leo ventures to Earth for one day and revels in the wonder of performing a lost Greek play in a theatre.
-Feed: https://feeds.megaphone.fm/SGP8517078272</description>
+                <title>#530: Evidence-based Strategies for Learning &amp; Skill Acquisition – Scott Young</title>
+                <description>The concept of “learning how to learn” focuses on meta-learning, which involves improving one’s own learning strategies. Instead of just absorbing information, meta-learners refine the skills that make learning itself more effective.  Cognitive...
+Feed: https://sigmanutrition.libsyn.com/rss/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/chrt.fm/track/89G531/traffic.megaphone.fm/SGP6433479975.mp3?updated=1721227611"/>
-                <guid></guid>
+                <link>https://sigmanutrition.com/episode530/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/sigmanutrition/530_Scott_Young_PUBLIC.mp3?dest-id=192888"/>
+                <guid>https://sigmanutrition.com/episode530/</guid>
                 
             </item>
         </channel>
