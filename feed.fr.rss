@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 26 Jul 2024 04:24:05 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 27 Jul 2024 04:24:02 +0200</lastBuildDate>
             <item>
-                <title>Backstage S2 (4/4) : Dans le rêve américain de C2C</title>
-                <description>Jeune bookeuse ambitieuse, Virginie Dubois rêve d…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:29669516/sounds.rss</description>
+                <title>Le cours de math : 07/24/2024 20:00</title>
+                <description>1226-317451
+Feed: http://podcast.cism893.ca/radioshows/1226/feed_itunes.xml</description>
                 
                 
-                <link>https://soundcloud.com/arte-radio-1/le-reve-americain-de-c2c</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1879617369-arte-radio-1-le-reve-americain-de-c2c.mp3"/>
-                <guid>https://soundcloud.com/arte-radio-1/le-reve-americain-de-c2c</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/317451.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/317451.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/317451.mp3</guid>
                 
             </item><item>
-                <title>Axwell x Ingrosso vs Teddy Swims vs Ozcan vs Coastr - Lose Control More Than You know (Sylva mashup)</title>
-                <description>Website: www.sylvadj.comInstagram: www.instagram.com/sylva.officialFacebook: www.facebook.com/Syl...
-Feed: https://feedpress.me/da-sylva0</description>
+                <title>Fan de funk Radio show du 19-07-2024 (Spécial Cover)</title>
+                <description>**Fan de funk Radio show du 19-07-2024**
+Retrouvez le groupe des amis de l&#39;émission Fan de funk sur FACEBOOK - [Cliquez-ici pour être membre de la page](https://www.facebook.com/groups/lesamisdefandefunk)
+Retrouvez Fan de funk sur Twiter - [Cliquez-ici pour être membre de la page](https://twitter.com/fandefunk)
+Retrouvez les mix et le live sur [fandefunk.com](https://www.fandefunk.com) - Cliquez-ici + Playlists, actus, événements.
+Feed: https://hearthis.at/fandefunk/podcast/rss/</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/dasylva/episodes/2024-07-03T02_16_09-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dasylva.podomatic.com/enclosure/2024-07-03T02_16_09-07_00.mp3?_=1719998172.17086847"/>
-                <guid>https://www.podomatic.com/podcasts/dasylva/episodes/2024-07-03T02_16_09-07_00</guid>
+                <link>https://hearthis.at/fandefunk/fandefunk-semaine-30-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/fandefunk/fandefunk-semaine-30-2024/listen.mp3?s=jGR"/>
+                <guid>https://hearthis.at/fandefunk/fandefunk-semaine-30-2024/</guid>
                 
             </item>
         </channel>
