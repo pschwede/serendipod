@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 27 Jul 2024 04:24:02 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 28 Jul 2024 04:22:33 +0200</lastBuildDate>
             <item>
-                <title>Le cours de math : 07/24/2024 20:00</title>
-                <description>1226-317451
-Feed: http://podcast.cism893.ca/radioshows/1226/feed_itunes.xml</description>
+                <title>À la poursuite des astéroïdes</title>
+                <description>À la poursuite des astéroïdes
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10212.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/317451.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/317451.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/317451.mp3</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/le-temps-d-un-bivouac/le-temps-d-un-bivouac-du-vendredi-26-juillet-2024-5913983</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/abf9127c-5b54-4a90-b05a-abba9066ac91/10212-26.07.2024-ITEMA_23813036-2024F20970S0208-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-temps-d-un-bivouac/le-temps-d-un-bivouac-du-vendredi-26-juillet-2024-5913983</guid>
                 
             </item><item>
-                <title>Fan de funk Radio show du 19-07-2024 (Spécial Cover)</title>
-                <description>**Fan de funk Radio show du 19-07-2024**
-Retrouvez le groupe des amis de l&#39;émission Fan de funk sur FACEBOOK - [Cliquez-ici pour être membre de la page](https://www.facebook.com/groups/lesamisdefandefunk)
-Retrouvez Fan de funk sur Twiter - [Cliquez-ici pour être membre de la page](https://twitter.com/fandefunk)
-Retrouvez les mix et le live sur [fandefunk.com](https://www.fandefunk.com) - Cliquez-ici + Playlists, actus, événements.
-Feed: https://hearthis.at/fandefunk/podcast/rss/</description>
+                <title>Episode 174 - Le coaching en bullshit quantique</title>
+                <description>???? Dans ce 174ème épisode de “La Systémique du Bonheur”, Dans cet épisode, nous aimerions t’aider à faire le ménage et à clarifier la question des différentes approches de coaching.Depuis quelques années, nous assistons à une effervescence de divers ty...
+Feed: https://feed.ausha.co/y09WEHYw6VWK</description>
                 
                 
-                <link>https://hearthis.at/fandefunk/fandefunk-semaine-30-2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/fandefunk/fandefunk-semaine-30-2024/listen.mp3?s=jGR"/>
-                <guid>https://hearthis.at/fandefunk/fandefunk-semaine-30-2024/</guid>
+                <link>https://podcast.ausha.co/la-systemique-bonheur/episode-174-le-coaching-en-bullshit-quantique</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/brZz3fq1AX3g.mp3?t=1721452032"/>
+                <guid>https://podcast.ausha.co/la-systemique-bonheur/episode-174-le-coaching-en-bullshit-quantique</guid>
                 
             </item>
         </channel>
