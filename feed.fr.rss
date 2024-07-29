@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 28 Jul 2024 04:22:33 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 29 Jul 2024 04:24:15 +0200</lastBuildDate>
             <item>
-                <title>À la poursuite des astéroïdes</title>
-                <description>À la poursuite des astéroïdes
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10212.xml</description>
+                <title>First Mike Radio Show 29.06.2024</title>
+                <description>First Mike Radio Show 29.06.2024
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14478.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/le-temps-d-un-bivouac/le-temps-d-un-bivouac-du-vendredi-26-juillet-2024-5913983</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/abf9127c-5b54-4a90-b05a-abba9066ac91/10212-26.07.2024-ITEMA_23813036-2024F20970S0208-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-temps-d-un-bivouac/le-temps-d-un-bivouac-du-vendredi-26-juillet-2024-5913983</guid>
+                <link>http://www.radiofrance.fr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/151d09de-9c6d-4af3-8a3a-c1c62754f999/14478-29.06.2024-ITEMA_23789517-2024J23962S0181-21.mp3"/>
+                <guid>http://www.radiofrance.fr/</guid>
                 
             </item><item>
-                <title>Episode 174 - Le coaching en bullshit quantique</title>
-                <description>???? Dans ce 174ème épisode de “La Systémique du Bonheur”, Dans cet épisode, nous aimerions t’aider à faire le ménage et à clarifier la question des différentes approches de coaching.Depuis quelques années, nous assistons à une effervescence de divers ty...
-Feed: https://feed.ausha.co/y09WEHYw6VWK</description>
+                <title>La Galaxy Ring de Samsung prête pour les JO de Paris 2024 ?</title>
+                <description>La Galaxy Ring de Samsung prête pour les JO de Paris 2024 ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_18998.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/la-systemique-bonheur/episode-174-le-coaching-en-bullshit-quantique</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/brZz3fq1AX3g.mp3?t=1721452032"/>
-                <guid>https://podcast.ausha.co/la-systemique-bonheur/episode-174-le-coaching-en-bullshit-quantique</guid>
+                <link>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/la-galaxy-ring-de-samsung-prete-pour-les-jo-de-paris-2024-1166223</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/b12e08a0-b9e5-4f61-8c10-5dfb6263ec9b/18998-30.06.2024-ITEMA_23790037-2024I12633S0182-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/la-galaxy-ring-de-samsung-prete-pour-les-jo-de-paris-2024-1166223</guid>
                 
             </item>
         </channel>
