@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 29 Jul 2024 04:24:19 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 30 Jul 2024 04:24:08 +0200</lastBuildDate>
             <item>
-                <title>Angélica María en Platicando</title>
-                <description>Angélica María Hartman Ortiz (Nueva Orleans, Luisiana, 27 de septiembre de 1944), conocida como la Novia de México es una actriz y cantante estadounidensemexicana. 
-Como intérprete, se especializó en los géneros de rock and roll, pop y balada romántica.?
- 
-Feed: https://eiberoamerica.com/feed/platicando.xml</description>
+                <title>Incubos y sucubos</title>
+                <description>Los &amp;iacute;ncubos y s&amp;uacute;cubos son demonios que seg&amp;uacute;n la tradici&amp;oacute;n antigua tentaban en lis sue&amp;ntilde;os y se alimentaban de los fluidos sexuales para vivir. Veamos todo lo qu ese peude saber sobre estos seres.
+https://linktr.ee/sol_ahimsa
+Feed: https://www.ivoox.com/de/depodcast-sol-ahimsa_fg_f1407362_filtro_1.xml</description>
                 
                 
-                <link>http://eiberoamerica.com/podcast/platicando/0807_AngelicaMaria.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0807_AngelicaMaria.mp3"/>
-                <guid>http://eiberoamerica.com/podcast/platicando/0807_AngelicaMaria.mp3</guid>
+                <link>https://www.ivoox.com/incubos-sucubos-audios-mp3_rf_131639482_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/incubos-sucubos_mf_131639482_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/incubos-sucubos-audios-mp3_rf_131639482_1.html</guid>
                 
             </item><item>
-                <title>Islas de Robinson - Carretera nocturna - 22/07/24</title>
-                <description>Carretera nocturna
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>Domingo, 4 de agosto</title>
+                <description>Jn 6, 24-35
+Feed: https://rezandovoy.org/podcast</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/carretera-nocturna-22-07-24/16193730/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16193730.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/carretera-nocturna-22-07-24/16193730/</guid>
+                <link>https://rezandovoy.org/reproductor/2024-08-04</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rezando.es/public/rezandovoy/oraciones/5421/o.mp3"/>
+                <guid>https://rezandovoy.org/reproductor/2024-08-04</guid>
                 
             </item>
         </channel>
