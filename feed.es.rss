@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 30 Jul 2024 04:24:08 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 31 Jul 2024 04:19:29 +0200</lastBuildDate>
             <item>
                 <title>Incubos y sucubos</title>
                 <description>Los &amp;iacute;ncubos y s&amp;uacute;cubos son demonios que seg&amp;uacute;n la tradici&amp;oacute;n antigua tentaban en lis sue&amp;ntilde;os y se alimentaban de los fluidos sexuales para vivir. Veamos todo lo qu ese peude saber sobre estos seres.
@@ -22,14 +22,15 @@ Feed: https://www.ivoox.com/de/depodcast-sol-ahimsa_fg_f1407362_filtro_1.xml</de
                 <guid>https://www.ivoox.com/incubos-sucubos-audios-mp3_rf_131639482_1.html</guid>
                 
             </item><item>
-                <title>Domingo, 4 de agosto</title>
-                <description>Jn 6, 24-35
-Feed: https://rezandovoy.org/podcast</description>
+                <title>El Crimen del Lago</title>
+                <description>En el episodio de esta semana, recordamos algunos pasajes de nuestra juventud en la escuela cuando teníamos exámenes y como utilizábamos elementos prohibidos.
+
+Feed: https://feeds.simplecast.com/Ls3L1Ojk</description>
                 
                 
-                <link>https://rezandovoy.org/reproductor/2024-08-04</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rezando.es/public/rezandovoy/oraciones/5421/o.mp3"/>
-                <guid>https://rezandovoy.org/reproductor/2024-08-04</guid>
+                <link>https://mentesliterales.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/0cc4690d-0899-463d-9bd6-b02c19a11833/episodes/67ace513-2df8-4b15-9189-ced74fa0aed8/audio/6084a3fa-0ea2-4596-bcd2-130e3a5acd67/default_tc.mp3?aid=rss_feed&amp;feed=Ls3L1Ojk"/>
+                <guid>https://mentesliterales.com</guid>
                 
             </item>
         </channel>
