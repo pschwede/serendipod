@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 31 Jul 2024 04:19:22 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 01 Aug 2024 04:24:14 +0200</lastBuildDate>
             <item>
-                <title>Bodenbildung bei PayPal, Kurssturz bei Hugo Boss, Chancen bei Douglas</title>
-                <description>Trade der Woche: Optionsschein auf Paypal
-Feed: https://hotbets.podigee.io/feed/mp3</description>
+                <title>#225 - Live in der Sauna</title>
+                <description>&lt;p&gt;Nach langer Abstinenz standen wir endlich wieder auf einer Bühne! In unserem zweiten Wohnzimmer, dem Kölner Gloria, gab es ein großes Bett, diverse Ferienlager und einen Saunabesuch. Falls ihr uns auch auf Tour besuchen möchtet, könnt ihr das hier tun:&lt;/p&gt;&lt;br&gt;&lt;p&gt;05.08.2024 Oldenburg // Einfach Kultur Festival&lt;/p&gt;&lt;p&gt;15.08.2024 Braunschweig // Zirkus Brunswick&lt;/p&gt;&lt;p&gt;05.10.2024 Leipzig // Kupfersaal&lt;/p&gt;&lt;p&gt;06.10.2024 Dresden // Schlachthof&lt;/p&gt;&lt;p&gt;08.10.2024 Hamburg // St. Pauli Theater&lt;/p&gt;&lt;p&gt;19...
+Feed: https://feeds.acast.com/public/shows/64ef111045b5ac00119063d7</description>
                 
                 
-                <link>https://hotbets.podigee.io/664-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1547592-m-4ea55acf883ab9cfd620b16bd6c383d3.mp3?source=feed"/>
-                <guid>https://hotbets.podigee.io/664-new-episode</guid>
+                <link>https://shows.acast.com/64ef111045b5ac00119063d7/episodes/307</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/64ef111045b5ac00119063d7/e/669e458de213d3c97e8387e7/media.mp3"/>
+                <guid>https://shows.acast.com/64ef111045b5ac00119063d7/episodes/307</guid>
                 
             </item><item>
-                <title>#380 - COR - Chillen ohne Reue</title>
-                <description>???? B2B Shooting Kurs (0-Euro-Angebot)
-https://fot…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:298022335/sounds.rss</description>
+                <title>Die Mumien von Riesa</title>
+                <description>
+Feed: https://www.mdrjump.de/service/podcast/podcast-sagen-und-mythen-mitteldeutschland-100-podcast.xml</description>
                 
                 
-                <link>https://soundcloud.com/user-35674727/380-cor-chillen-ohne-reue</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1880424675-user-35674727-380-cor-chillen-ohne-reue.mp3"/>
-                <guid>https://soundcloud.com/user-35674727/380-cor-chillen-ohne-reue</guid>
+                <link>https://www.mdrjump.de/podcasts/sagen-und-mythen-aus-mitteldeutschland/die-mumien-von-riesa-102.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/8/digas-8b6cba9e-d28b-416a-960d-b6e850ad3d07-0a15de5e5053_8b.mp3"/>
+                <guid>https://www.mdrjump.de/podcasts/sagen-und-mythen-aus-mitteldeutschland/die-mumien-von-riesa-102.html</guid>
                 
             </item>
         </channel>
