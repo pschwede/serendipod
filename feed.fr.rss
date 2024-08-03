@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 02 Aug 2024 04:25:21 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 03 Aug 2024 04:23:39 +0200</lastBuildDate>
             <item>
-                <title>Viva Brazil</title>
-                <description>Viva Brazil
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_12250.xml</description>
+                <title>Voyage géographique au Danemark</title>
+                <description>Voyage géographique au Danemark
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_21467.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/viva-brazil-5578507</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/cecc53a4-6e0a-4809-aa67-9685f2b4684d/12250-01.08.2024-ITEMA_23816595-2024Y19087S0025-21.mp3"/>
-                <guid>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/viva-brazil-5578507</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/geographie-a-la-carte/voyage-geographique-au-danemark-1532287</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/708dc469-855a-4cd2-b01b-247317d4782f/21467-27.06.2024-ITEMA_23787015-2024C29635S0179-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/geographie-a-la-carte/voyage-geographique-au-danemark-1532287</guid>
                 
             </item><item>
-                <title>Vivons heureux avant la fin de l’été</title>
-                <description>Pour cet épisode allégé spécial pause estivale, D…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:29669516/sounds.rss</description>
+                <title>#76 [EXTRAIT] Les ingrédients pour rester à la pointe de la technologie : l’exemple du Covid-19</title>
+                <description>&lt;p&gt;Frédéric Vacher nous partage son expertise et ses expériences sur la manière dont Dassault Systèmes a su rester à la pointe de l&amp;#39;innovation face à la pandémie de Covid-19. &lt;/p&gt;
+&lt;p&gt;Découvrez les stratégies, les outils et les approches qui ont permis à cette entreprise historique de naviguer à travers les défis sans précédent imposés par la pandémie, tout en continuant à innover et à soutenir ses clients à travers le monde.&lt;/p&gt;
+
+Feed: https://anchor.fm/s/2881b424/podcast/rss</description>
                 
                 
-                <link>https://soundcloud.com/arte-radio-1/vivons-heureux-ete</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1881532899-arte-radio-1-vivons-heureux-ete.mp3"/>
-                <guid>https://soundcloud.com/arte-radio-1/vivons-heureux-ete</guid>
+                <link>https://podcasters.spotify.com/pod/show/innovationleaders/episodes/76-EXTRAIT-Les-ingrdients-pour-rester--la-pointe-de-la-technologie--lexemple-du-Covid-19-e2meb5h</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/2881b424/podcast/play/89647729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F95dd48fa-95a5-4108-9e31-66fe35a7ab8e.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/innovationleaders/episodes/76-EXTRAIT-Les-ingrdients-pour-rester--la-pointe-de-la-technologie--lexemple-du-Covid-19-e2meb5h</guid>
                 
             </item>
         </channel>

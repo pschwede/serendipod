@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 02 Aug 2024 04:25:31 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 03 Aug 2024 04:23:54 +0200</lastBuildDate>
             <item>
-                <title>Ep. 411 - Alexis Gay</title>
-                <description>New York-based stand-up comedian, viral video comedian and former tech employee.
-Feed: https://feeds.acast.com/public/shows/e524e6f9-e52d-4fde-83a6-236625eaafaa</description>
+                <title>Richard III&#39;s Mother: Cecily</title>
+                <description>&lt;p&gt;Cecily Neville was the matriarch of the House of York, the mother of two kings of England and an ancestor of every monarch since Henry VIII. Born in the year of Agincourt and at the centre of the Wars of the Roses; Cecily lived through some of the most tumultuous events in medieval English history.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Matt Lewis is joined by Annie Garthwaite to celebrate this often overlooked woman, her dangerous rivals and maybe a little bit of Richard III...
+Feed: https://feeds.acast.com/public/shows/11c1773b-6d50-4dbb-b543-483046bdc241</description>
                 
                 
-                <link>https://shows.acast.com/mytimecapsule/episodes/ep-411-alexis-gay</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/mytimecapsule/e/66a3aa7470177ec18472b142/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=_X7I5rQC63nrcJYZ2aiQFEKBl_iqQbDQVP8jHdmMwew"/>
-                <guid>https://shows.acast.com/mytimecapsule/episodes/ep-411-alexis-gay</guid>
+                <link>https://shows.acast.com/gone-medieval/episodes/richard-iiis-mother-cecily</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/gone-medieval/e/66aa1a97ec85576657d27d0b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=YcCQHTYgY7aMXza_pJW4Wb7OF09c8OTgWDJhtHBquro"/>
+                <guid>https://shows.acast.com/gone-medieval/episodes/richard-iiis-mother-cecily</guid>
                 
             </item><item>
-                <title>#488 - Best Mall Food Court Item</title>
-                <description>Feeling hungry?
-Feed: https://feeds.simplecast.com/OVap9of7</description>
+                <title>Exoplanets, slingshotting spacecrafts and the moon landing </title>
+                <description>Are there more planets than grains of sand on earth? Does food go mouldy in space? And have we started training astronauts to visit Mars? 
+Dr Karl and special guest Katherine Bennell-Pegg answer these questions and more on triple j Mornings with Lucy Smith.
+Feed: https://www.abc.net.au/triplej/programs/dr-karl/feed/10987644/podcast.xml</description>
                 
                 
-                <link>https://maximumfun.org/podcasts/we-got-this-with-mark-and-hal/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://afp-9384.calisto.simplecastaudio.com/817a4e8b-1172-4129-97ea-02e258c4d8ee/episodes/1494d301-4c3d-4b45-8adf-3a258a3acc84/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=817a4e8b-1172-4129-97ea-02e258c4d8ee&amp;awEpisodeId=1494d301-4c3d-4b45-8adf-3a258a3acc84&amp;feed=OVap9of7"/>
-                <guid>https://maximumfun.org/podcasts/we-got-this-with-mark-and-hal/</guid>
+                <link>https://www.abc.net.au/triplej/programs/dr-karl-podcast/sciencetriplej-20240801/104171196</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediacore-live-production.akamaized.net/audio/02/0h/Z/pt.mp3"/>
+                <guid>https://www.abc.net.au/triplej/programs/dr-karl-podcast/sciencetriplej-20240801/104171196</guid>
                 
             </item>
         </channel>
