@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 03 Aug 2024 04:23:39 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 04 Aug 2024 04:26:37 +0200</lastBuildDate>
             <item>
-                <title>Voyage géographique au Danemark</title>
-                <description>Voyage géographique au Danemark
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_21467.xml</description>
+                <title>Mozart, one piano show - Esperluette en mode Festival #OFF24</title>
+                <description>Je termine ces chroniques festivalières avec un spectacle musical.Et pas n’importe quelle musique, celle de Wolfgang Amadeus Mozart magnifiquement interprétée au piano par François Moschetta.Mais Mozart, One piano show, comme son nom l’indique, n’est p...
+Feed: https://feed.ausha.co/oLnR0FgRq0nr</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/geographie-a-la-carte/voyage-geographique-au-danemark-1532287</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/708dc469-855a-4cd2-b01b-247317d4782f/21467-27.06.2024-ITEMA_23787015-2024C29635S0179-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/geographie-a-la-carte/voyage-geographique-au-danemark-1532287</guid>
+                <link>https://podcast.ausha.co/esperluette/mozart-one-piano-show-esperluette-en-mode-festival-off24</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/audio.ausha.co/Bqr86SqY4kW8.mp3?t=1721402616"/>
+                <guid>https://podcast.ausha.co/esperluette/mozart-one-piano-show-esperluette-en-mode-festival-off24</guid>
                 
             </item><item>
-                <title>#76 [EXTRAIT] Les ingrédients pour rester à la pointe de la technologie : l’exemple du Covid-19</title>
-                <description>&lt;p&gt;Frédéric Vacher nous partage son expertise et ses expériences sur la manière dont Dassault Systèmes a su rester à la pointe de l&amp;#39;innovation face à la pandémie de Covid-19. &lt;/p&gt;
-&lt;p&gt;Découvrez les stratégies, les outils et les approches qui ont permis à cette entreprise historique de naviguer à travers les défis sans précédent imposés par la pandémie, tout en continuant à innover et à soutenir ses clients à travers le monde.&lt;/p&gt;
-
-Feed: https://anchor.fm/s/2881b424/podcast/rss</description>
+                <title>C’est une chanson qui nous ressemble. &#34;Les Champs-Élysées&#34; ou Paris en français dans le texte</title>
+                <description>C’est une chanson qui nous ressemble. &#34;Les Champs-Élysées&#34; ou Paris en français dans le texte
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11454.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/innovationleaders/episodes/76-EXTRAIT-Les-ingrdients-pour-rester--la-pointe-de-la-technologie--lexemple-du-Covid-19-e2meb5h</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/2881b424/podcast/play/89647729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F95dd48fa-95a5-4108-9e31-66fe35a7ab8e.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/innovationleaders/episodes/76-EXTRAIT-Les-ingrdients-pour-rester--la-pointe-de-la-technologie--lexemple-du-Covid-19-e2meb5h</guid>
+                <link>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu/c-est-une-chanson-qui-nous-ressemble-les-champs-elysees-ou-paris-en-francais-dans-le-texte-3572225</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/1c97f240-c813-46bd-909a-3e988fd7b3b9/11454-25.07.2024-ITEMA_23812091-2024I24148S0207-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu/c-est-une-chanson-qui-nous-ressemble-les-champs-elysees-ou-paris-en-francais-dans-le-texte-3572225</guid>
                 
             </item>
         </channel>
