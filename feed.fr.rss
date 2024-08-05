@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 04 Aug 2024 04:26:37 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 05 Aug 2024 04:24:37 +0200</lastBuildDate>
             <item>
-                <title>Mozart, one piano show - Esperluette en mode Festival #OFF24</title>
-                <description>Je termine ces chroniques festivalières avec un spectacle musical.Et pas n’importe quelle musique, celle de Wolfgang Amadeus Mozart magnifiquement interprétée au piano par François Moschetta.Mais Mozart, One piano show, comme son nom l’indique, n’est p...
-Feed: https://feed.ausha.co/oLnR0FgRq0nr</description>
+                <title>Vivons heureux avant la fin de l’été</title>
+                <description>Pour cet épisode allégé spécial pause estivale, D…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:29669516/sounds.rss</description>
                 
                 
-                <link>https://podcast.ausha.co/esperluette/mozart-one-piano-show-esperluette-en-mode-festival-off24</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/audio.ausha.co/Bqr86SqY4kW8.mp3?t=1721402616"/>
-                <guid>https://podcast.ausha.co/esperluette/mozart-one-piano-show-esperluette-en-mode-festival-off24</guid>
+                <link>https://soundcloud.com/arte-radio-1/vivons-heureux-ete</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1881532899-arte-radio-1-vivons-heureux-ete.mp3"/>
+                <guid>https://soundcloud.com/arte-radio-1/vivons-heureux-ete</guid>
                 
             </item><item>
-                <title>C’est une chanson qui nous ressemble. &#34;Les Champs-Élysées&#34; ou Paris en français dans le texte</title>
-                <description>C’est une chanson qui nous ressemble. &#34;Les Champs-Élysées&#34; ou Paris en français dans le texte
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11454.xml</description>
+                <title>Le départ des jeunes athlètes guadeloupéens vers l&#39;Hexagone</title>
+                <description>
+Aux JO de Paris, les deux champions médaillés qui ont allumé la vasque olympique sont nés en Guadeloupe, et ils y ont fait leurs armes. Teddy Riner et Marie-José Pérec ont dû quitter leur île et rejoindre l&#39;Hexagone, parfois à peine adolescents, pour ac…
+Feed: https://www.rfi.fr/fr/podcasts/reportage-france/podcast</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu/c-est-une-chanson-qui-nous-ressemble-les-champs-elysees-ou-paris-en-francais-dans-le-texte-3572225</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/1c97f240-c813-46bd-909a-3e988fd7b3b9/11454-25.07.2024-ITEMA_23812091-2024I24148S0207-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu/c-est-une-chanson-qui-nous-ressemble-les-champs-elysees-ou-paris-en-francais-dans-le-texte-3572225</guid>
+                <link>https://www.rfi.fr/fr/podcasts/reportage-france/20240804-le-d%C3%A9part-des-jeunes-athl%C3%A8tes-guadeloup%C3%A9ens-vers-l-hexagone</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB10194-RFI-FR-20091012%7CReportage%20France&amp;l3=WBMZ432437-RFI-FR-20240804%7CLe%20d%C3%A9part%20des%20jeunes%20athl%C3%A8tes%20guadeloup%C3%A9ens%20vers%20l%27Hexagone&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202408%2FREP_FRA_lu_05-08-24_JO_Le_depart_des_jeunes_athletes_guadeloupeens_8_2_2024-14.mp3"/>
+                <guid>https://www.rfi.fr/fr/podcasts/reportage-france/20240804-le-d%C3%A9part-des-jeunes-athl%C3%A8tes-guadeloup%C3%A9ens-vers-l-hexagone</guid>
                 
             </item>
         </channel>

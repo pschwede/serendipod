@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 04 Aug 2024 04:26:57 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 05 Aug 2024 04:24:52 +0200</lastBuildDate>
             <item>
-                <title>24-31 Curious Covers</title>
-                <description>The folk music community has encouraged rearrangements of songs and tunes beyond the folk music r...
-Feed: https://singout.podomatic.com/rss2.xml</description>
+                <title>Podcast Extra! “X”</title>
+                <description>Discussing the 2022 film “X,” and other topics
+Feed: https://feedpress.me/BrosWatchPllToo</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/singout/episodes/2024-07-31T07_00_00-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://singout.podomatic.com/enclosure/2024-07-31T07_00_00-07_00.mp3?_=1722434449.17114119"/>
-                <guid>https://www.podomatic.com/podcasts/singout/episodes/2024-07-31T07_00_00-07_00</guid>
+                <link>https://feedpress.me/link/12640/16749785/podcast-extra-x</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/12640/16749786/pll_X.mp3"/>
+                <guid>https://feedpress.me/link/12640/16749785/podcast-extra-x</guid>
                 
             </item><item>
-                <title>The Picks and Shovels Businesses Quietly Driving the AI Build Out</title>
-                <description>&lt;p&gt;Explore the unsung heroes behind the AI revolution: the businesses providing essential infrastructure for AI’s rapid growth. Learn about the increasing role of data centers, innovative cooling solutions, and the crucial components powering AI’s expansion. Discover why Wall Street’s view on AI may not capture the whole picture, as these “picks and shovels” companies play a vital role in shaping the future of AI technology...
-Feed: https://anchor.fm/s/f7cac464/podcast/rss</description>
+                <title>Experts Warn: Project 2025 Could Rewrite the Rules of Public Education</title>
+                <description>Project 2025 would fundamentally change public education, experts sayThe Hill, By Lexi Lonas, on July 12, 2024
+https://thehill.com/homenews/education/4766919-project-2025-trump-campaign-biden-heritage-foundation-public-education/ 
+Project 2025...
+Feed: https://www.spreaker.com/show/3254964/episodes/feed</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/nathaniel-whittemore/episodes/The-Picks-and-Shovels-Businesses-Quietly-Driving-the-AI-Build-Out-e2mnhnh</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/f7cac464/podcast/play/89949361/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-1%2F384173056-44100-2-3c37e63e54081.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/nathaniel-whittemore/episodes/The-Picks-and-Shovels-Businesses-Quietly-Driving-the-AI-Build-Out-e2mnhnh</guid>
+                <link>https://www.spreaker.com/episode/experts-warn-project-2025-could-rewrite-the-rules-of-public-education--60825926</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/60825926/23_30_4.mp3"/>
+                <guid>https://www.spreaker.com/episode/experts-warn-project-2025-could-rewrite-the-rules-of-public-education--60825926</guid>
                 
             </item>
         </channel>

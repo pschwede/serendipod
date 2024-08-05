@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 04 Aug 2024 04:26:42 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 05 Aug 2024 04:24:40 +0200</lastBuildDate>
             <item>
-                <title>La rosa de los vientos 04/08/2024</title>
-                <description>Escucha el programa completo de &#39;La rosa de los vientos&#39;, Bruno Cardeñosa y Silvia Casasola.  Historia, misterio, investigación y relatos las madrugadas del sábado y del domingo en Onda Cero. 
-Feed: https://www.ondacero.es/rss/podcast/8502/podcast.xml</description>
+                <title>Trópico utópico - Maria Bethânia XVII - 02/08/24</title>
+                <description>Maria Bethânia XVII
+Feed: http://api.rtve.es/api/programas/2096/audios.rss</description>
                 
                 
-                <link>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/la-rosa-de-los-vientos-04082024_2024080466aef0804d4175000193c6b3.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.ondacero.es/mp_audios4//2024/08/04/C1C593B7-47EC-48E2-AF2E-6BAA0E4F7FAF/C1C593B7-47EC-48E2-AF2E-6BAA0E4F7FAF.mp3"/>
-                <guid>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/la-rosa-de-los-vientos-04082024_2024080466aef0804d4175000193c6b3.html</guid>
+                <link>https://www.rtve.es/play/audios/tropico-utopico/maria-bethania-xvii-02-08-24/16207351/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16207351.mp3"/>
+                <guid>https://www.rtve.es/play/audios/tropico-utopico/maria-bethania-xvii-02-08-24/16207351/</guid>
                 
             </item><item>
-                <title>HistoCast 299 - Teutoburgo</title>
-                <description>dfsdf                                                                                                                                                                                                                                                                                                                     dsfd
-Feed: https://www.ivoox.com/podcast-histocast_fg_f132047_filtro_1.xml</description>
+                <title>#581: Arte de pájaros, poemas de Pablo Neruda musicalizados por Ángel Parra</title>
+                <description>&lt;p&gt;En esta oportunidad escucharemos y comentaremos el disco &amp;quot;Arte de pájaro&amp;quot;, publicado por Demon bajo el número de serie LPD-031; este álbum recoge la musicalización que hizo Ángel Parra de algunos de los poemas pertenecientes al libro “Arte de Pájaros” de Pablo Neruda, que había sido publicado el mismo año por la Sociedad de Amigos del Arte Contemporáneo, en una edición limitada fuera del comercio, la cual incluía ilustraciones únicas hechas por dos pintores amigos de Neruda: Julio...
+Feed: https://anchor.fm/s/26d7ff48/podcast/rss</description>
                 
                 
-                <link>https://www.ivoox.com/histocast-299-teutoburgo-audios-mp3_rf_130984664_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/histocast-299-teutoburgo_mf_130984664_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/histocast-299-teutoburgo-audios-mp3_rf_130984664_1.html</guid>
+                <link>https://podcasters.spotify.com/pod/show/libreriaradio/episodes/581-Arte-de-pjaros--poemas-de-Pablo-Neruda-musicalizados-por-ngel-Parra-e2lg296</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO9394294285.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/libreriaradio/episodes/581-Arte-de-pjaros--poemas-de-Pablo-Neruda-musicalizados-por-ngel-Parra-e2lg296</guid>
                 
             </item>
         </channel>
