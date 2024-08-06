@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 05 Aug 2024 04:24:32 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 06 Aug 2024 04:25:20 +0200</lastBuildDate>
             <item>
-                <title>#313 deep dive: Alle eure Fragen zu K.I., beantwortet</title>
-                <description>Meine Hörer:innen haben mir ihre Probleme, Fragen und Anwendungen zu ChatGPT &amp; Co geschickt. Ich habe sie mit dem KI-Experten Malcolm Werchota durchgesprochen. Ein deep dive in die Welt der KI-Sprachmodelle.
-Feed: http://feeds.feedburner.com/erklaermir</description>
+                <title>Nach dem Trainingslager - Das ist der Stand der Dinge bei Borussia Mönchengladbach</title>
+                <description>Borussia Mönchengladbach: Podcast - Trainingslager-Fazit und eine mögliche Startelf
+Feed: https://cdn.julephosting.de/podcasts/87-fohlenfutter-der-borussia-monchengladbach-podcast-der-rp/feed.rss</description>
                 
                 
-                <link>https://erklaermir.simplecast.com/episodes/deep-dive-alle-eure-fragen-zu-ki-beantwortet-Id79u6ky</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/91899G/injector.simplecastaudio.com/8991e97a-2827-4ade-a709-e50208868f3f/episodes/686283a1-942e-4a50-b732-3df8271ae333/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=8991e97a-2827-4ade-a709-e50208868f3f&amp;awEpisodeId=686283a1-942e-4a50-b732-3df8271ae333&amp;feed=kzb4brMs"/>
-                <guid>https://erklaermir.simplecast.com/episodes/deep-dive-alle-eure-fragen-zu-ki-beantwortet-Id79u6ky</guid>
+                <link>https://rp-online.de/podcasts/fohlenfutter/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ads.julephosting.de/podcasts/87-fohlenfutter-der-borussia-monchengladbach-podcast-der-rp/178582-halbzeit-fuer-borussia-im-trainingslager-und-ein-zwischenfazit-nach-dem-naechsten-sieg-2.mp3?v=1&amp;awCollectionId=julephosting_6152ccc134d81&amp;awEpisodeId=178582"/>
+                <guid>https://rp-online.de/podcasts/fohlenfutter/</guid>
                 
             </item><item>
-                <title>Nothing Phone (2a) Plus: Wie wird Xiaomi darauf antworten?</title>
-                <description>Nothing bringt ein neues Smartphone auf den Markt und liefert damit einen Nachfolger zu ihrem beliebtesten Smartphone bisher. Doch lohnt sich hier wirklich schon das Upgrade? In Indien gibt es neue realme Smartphones, welche eventuell bald auch in Deutschland erscheinen. Außerdem schauen wir uns die neuesten Leaks zum iPhone 16 an,  welches bald erscheint.
-Nothing phone(2a) Plus ► https://www.china-gadgets.de/nothing-phone-2a-plus-smartphone/
-realme 13 Pro+ 5G ► https://buy.realme...
-Feed: https://www.china-gadgets.de/podcast/feed/</description>
+                <title>Arztbesuch</title>
+                <description>Der Witz des Tages vom 06.08.2024 mit dem Titel &#39;Arztbesuch&#39; als Video.
+Feed: https://www.witzschmiede.de/videofeed</description>
                 
                 
-                <link>https://www.china-gadgets.de/podcast/nothing-phone-2a-plus-xiaomi-podcast/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/E6E864/https://www.china-gadgets.de/app/uploads/2024/08/TG_118_Audio.mp3"/>
-                <guid>https://www.china-gadgets.de/podcast/nothing-phone-2a-plus-xiaomi-podcast/</guid>
+                <link>https://www.witzschmiede.de/videos/5312.mp4</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.witzschmiede.de/videos/5312.mp4"/>
+                <guid>https://www.witzschmiede.de/videos/5312.mp4</guid>
                 
             </item>
         </channel>

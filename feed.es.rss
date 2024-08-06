@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 05 Aug 2024 04:24:40 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 06 Aug 2024 04:25:28 +0200</lastBuildDate>
             <item>
-                <title>Trópico utópico - Maria Bethânia XVII - 02/08/24</title>
-                <description>Maria Bethânia XVII
-Feed: http://api.rtve.es/api/programas/2096/audios.rss</description>
+                <title>Gago, el responsable del fracaso de Chivas</title>
+                <description>Guadalajara perdió los dos juegos del torneo en tandas de penales.
+Feed: https://feeds.megaphone.fm/ESP8797132003</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/tropico-utopico/maria-bethania-xvii-02-08-24/16207351/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16207351.mp3"/>
-                <guid>https://www.rtve.es/play/audios/tropico-utopico/maria-bethania-xvii-02-08-24/16207351/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2112740361.mp3?updated=1722905780"/>
+                <guid></guid>
                 
             </item><item>
-                <title>#581: Arte de pájaros, poemas de Pablo Neruda musicalizados por Ángel Parra</title>
-                <description>&lt;p&gt;En esta oportunidad escucharemos y comentaremos el disco &amp;quot;Arte de pájaro&amp;quot;, publicado por Demon bajo el número de serie LPD-031; este álbum recoge la musicalización que hizo Ángel Parra de algunos de los poemas pertenecientes al libro “Arte de Pájaros” de Pablo Neruda, que había sido publicado el mismo año por la Sociedad de Amigos del Arte Contemporáneo, en una edición limitada fuera del comercio, la cual incluía ilustraciones únicas hechas por dos pintores amigos de Neruda: Julio...
-Feed: https://anchor.fm/s/26d7ff48/podcast/rss</description>
+                <title>Radioyentes 379 quiebras, hackeos y podcasts infantiles</title>
+                <description>Comenzamos nuestra edición número 379 con Podium Podcast porque allí estrenabas recientemente La Quiebra, una ficción sonora apocalíptica protagonizada por Marta Etura, Ane Gabarain y Fernando Albizu, ambientada en el País Vasco, que plantea las consecuencias de un fallo técnico del sistema bancario a nivel mundial. 
+Agradecimientos para:
+José Antonio Laboreo de Radio Villegas
+Sintonía: de Junior Menezes
+Feed: https://www.ivoox.com/podcast-radioyentes_fg_f1463235_filtro_1.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/libreriaradio/episodes/581-Arte-de-pjaros--poemas-de-Pablo-Neruda-musicalizados-por-ngel-Parra-e2lg296</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO9394294285.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/libreriaradio/episodes/581-Arte-de-pjaros--poemas-de-Pablo-Neruda-musicalizados-por-ngel-Parra-e2lg296</guid>
+                <link>http://www.ivoox.com/radioyentes-379-quiebras-hackeos-podcasts-infantiles-audios-mp3_rf_131290798_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-379-quiebras-hackeos-podcasts-infantiles_mf_131290798_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/radioyentes-379-quiebras-hackeos-podcasts-infantiles-audios-mp3_rf_131290798_1.html</guid>
                 
             </item>
         </channel>

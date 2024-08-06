@@ -9,27 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 05 Aug 2024 04:24:37 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 06 Aug 2024 04:25:24 +0200</lastBuildDate>
             <item>
-                <title>Vivons heureux avant la fin de l’été</title>
-                <description>Pour cet épisode allégé spécial pause estivale, D…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:29669516/sounds.rss</description>
+                <title>La liberté du Gondwanais Lambda</title>
+                <description>
+En très démocratique république, le Gondwanais Lambda tient plus que tout à sa liberté.
+Rediffusion du 9 avril 2024.
+
+Feed: https://www.rfi.fr/fr/podcasts/chronique-mamane/podcast</description>
                 
                 
-                <link>https://soundcloud.com/arte-radio-1/vivons-heureux-ete</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1881532899-arte-radio-1-vivons-heureux-ete.mp3"/>
-                <guid>https://soundcloud.com/arte-radio-1/vivons-heureux-ete</guid>
+                <link>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20240805-la-libert%C3%A9-du-gondwanais-lambda</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB2894-RFI-FR-20090915%7CChronique%20de%20Mamane&amp;l3=WBMZ432533-RFI-FR-20240805%7CLa%20libert%C3%A9%20du%20Gondwanais%20Lambda&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202408%2FCHRONIQUE_MAMANE_05-08-24.mp3"/>
+                <guid>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20240805-la-libert%C3%A9-du-gondwanais-lambda</guid>
                 
             </item><item>
-                <title>Le départ des jeunes athlètes guadeloupéens vers l&#39;Hexagone</title>
-                <description>
-Aux JO de Paris, les deux champions médaillés qui ont allumé la vasque olympique sont nés en Guadeloupe, et ils y ont fait leurs armes. Teddy Riner et Marie-José Pérec ont dû quitter leur île et rejoindre l&#39;Hexagone, parfois à peine adolescents, pour ac…
-Feed: https://www.rfi.fr/fr/podcasts/reportage-france/podcast</description>
+                <title>La Galaxy Ring de Samsung prête pour les JO de Paris 2024 ?</title>
+                <description>La Galaxy Ring de Samsung prête pour les JO de Paris 2024 ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_18998.xml</description>
                 
                 
-                <link>https://www.rfi.fr/fr/podcasts/reportage-france/20240804-le-d%C3%A9part-des-jeunes-athl%C3%A8tes-guadeloup%C3%A9ens-vers-l-hexagone</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB10194-RFI-FR-20091012%7CReportage%20France&amp;l3=WBMZ432437-RFI-FR-20240804%7CLe%20d%C3%A9part%20des%20jeunes%20athl%C3%A8tes%20guadeloup%C3%A9ens%20vers%20l%27Hexagone&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202408%2FREP_FRA_lu_05-08-24_JO_Le_depart_des_jeunes_athletes_guadeloupeens_8_2_2024-14.mp3"/>
-                <guid>https://www.rfi.fr/fr/podcasts/reportage-france/20240804-le-d%C3%A9part-des-jeunes-athl%C3%A8tes-guadeloup%C3%A9ens-vers-l-hexagone</guid>
+                <link>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/la-galaxy-ring-de-samsung-prete-pour-les-jo-de-paris-2024-1166223</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/b12e08a0-b9e5-4f61-8c10-5dfb6263ec9b/18998-30.06.2024-ITEMA_23790037-2024I12633S0182-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/la-galaxy-ring-de-samsung-prete-pour-les-jo-de-paris-2024-1166223</guid>
                 
             </item>
         </channel>
