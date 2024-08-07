@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 06 Aug 2024 04:25:28 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 07 Aug 2024 04:25:33 +0200</lastBuildDate>
             <item>
-                <title>Gago, el responsable del fracaso de Chivas</title>
-                <description>Guadalajara perdió los dos juegos del torneo en tandas de penales.
-Feed: https://feeds.megaphone.fm/ESP8797132003</description>
+                <title>Islas de Robinson - El tiempo revelador - 05/08/24</title>
+                <description>El tiempo revelador
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2112740361.mp3?updated=1722905780"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/tiempo-revelador-05-08-24/16208690/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16208690.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/tiempo-revelador-05-08-24/16208690/</guid>
                 
             </item><item>
-                <title>Radioyentes 379 quiebras, hackeos y podcasts infantiles</title>
-                <description>Comenzamos nuestra edición número 379 con Podium Podcast porque allí estrenabas recientemente La Quiebra, una ficción sonora apocalíptica protagonizada por Marta Etura, Ane Gabarain y Fernando Albizu, ambientada en el País Vasco, que plantea las consecuencias de un fallo técnico del sistema bancario a nivel mundial. 
-Agradecimientos para:
-José Antonio Laboreo de Radio Villegas
-Sintonía: de Junior Menezes
-Feed: https://www.ivoox.com/podcast-radioyentes_fg_f1463235_filtro_1.xml</description>
+                <title>Cinco pistas - Lakefest Uk 2024 - 06/08/24</title>
+                <description>Lakefest Uk 2024
+Feed: https://www.rtve.es/api/programas/131888/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/radioyentes-379-quiebras-hackeos-podcasts-infantiles-audios-mp3_rf_131290798_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-379-quiebras-hackeos-podcasts-infantiles_mf_131290798_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/radioyentes-379-quiebras-hackeos-podcasts-infantiles-audios-mp3_rf_131290798_1.html</guid>
+                <link>https://www.rtve.es/play/audios/cinco-pistas/cinco-pistas-lakefest-uk-2024-06-08-24/16210096/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16210096.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cinco-pistas/cinco-pistas-lakefest-uk-2024-06-08-24/16210096/</guid>
                 
             </item>
         </channel>
