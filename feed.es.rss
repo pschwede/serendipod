@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 07 Aug 2024 04:25:33 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 08 Aug 2024 04:26:39 +0200</lastBuildDate>
             <item>
-                <title>Islas de Robinson - El tiempo revelador - 05/08/24</title>
-                <description>El tiempo revelador
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>Episodio 116: Música de gasolineras y canciones del verano</title>
+                <description>Hola hola gente people, bienvenidas y bienhallados al Bar Bedel, vuestro Bar de confianza, vuestro Bar en formato podcast. Disculpad el retraso en la publicación de este episodio, pero el podcaster propone y Adam Curry dispone. Poco a poco nos vamos poniendo al día. Paciencia. Ya llegó el verano, ya llegó la fruta, y el que no se agache ... a pasar calorcito :-) pero siempre escuchando podcast...
+Feed: https://feeds.feedburner.com/BarBedel</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/tiempo-revelador-05-08-24/16208690/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16208690.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/tiempo-revelador-05-08-24/16208690/</guid>
+                <link>http://www.ivoox.com/episodio-116-musica-gasolineras-canciones-del-audios-mp3_rf_132471237_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/episodio-116-musica-gasolineras-canciones-del_mf_132471237_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/episodio-116-musica-gasolineras-canciones-del-audios-mp3_rf_132471237_1.html</guid>
                 
             </item><item>
-                <title>Cinco pistas - Lakefest Uk 2024 - 06/08/24</title>
-                <description>Lakefest Uk 2024
-Feed: https://www.rtve.es/api/programas/131888/audios.rss</description>
+                <title>Necaxa será la mayor sorpresa en 16os. de Final de Leagues Cup</title>
+                <description>Superar a los chinos, la correcta mentalidad de Osmar Olvera en clavados
+Feed: https://feeds.megaphone.fm/ESP8797132003</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cinco-pistas/cinco-pistas-lakefest-uk-2024-06-08-24/16210096/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16210096.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cinco-pistas/cinco-pistas-lakefest-uk-2024-06-08-24/16210096/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP7481549990.mp3?updated=1723084342"/>
+                <guid></guid>
                 
             </item>
         </channel>
