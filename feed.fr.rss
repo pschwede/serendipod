@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 08 Aug 2024 04:26:34 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 09 Aug 2024 04:24:48 +0200</lastBuildDate>
             <item>
-                <title>Comme un chien</title>
-                <description>Jonas Schneiter est entouré pour cette émission de Gabriel Bender, Marie Fourquet, Suzette Sandoz et de lʹhumoriste Thomas Wiesel. En deuxième partie d&#39;émission, les beaux parleurs accueillent le politologue et philosophe Nicolas Tavaglione.
-Feed: https://www.rts.ch/la-1ere/programmes/les-beaux-parleurs/podcast/?flux=rss</description>
+                <title>Les criquets crinqués : 08/05/2024 21:00</title>
+                <description>653-318177
+Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
                 
                 
-                <link>https://www.rts.ch/audio-podcast/2024/audio/comme-un-chien-28547686.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/14960848/d265a975-ae9f-32b6-a775-eacb146818fe.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2024/audio/comme-un-chien-28547686.html</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/318177.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/318177.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/318177.mp3</guid>
                 
             </item><item>
-                <title>Le compromis politique est-il entravé par une culture du chef ? </title>
-                <description>Le compromis politique est-il entravé par une culture du chef ? 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10175.xml</description>
+                <title>Épisode 97 - Adrien et la danse au Moyen Âge (au Château de Blandy)</title>
+                <description>Adrien Belgrano est l&#39;invité de l&#39;épisode 97 de P…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:147058082/sounds.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat-d-ete/le-compromis-politique-est-il-entrave-par-une-culture-du-chef-2945775</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/b49b22d9-1590-4908-916f-98416c77464a/10175-07.08.2024-ITEMA_23820827-2024C36267S0220-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat-d-ete/le-compromis-politique-est-il-entrave-par-une-culture-du-chef-2945775</guid>
+                <link>https://soundcloud.com/fannycomo/ep-97-adrien-danse</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1887271563-fannycomo-ep-97-adrien-danse.mp3"/>
+                <guid>https://soundcloud.com/fannycomo/ep-97-adrien-danse</guid>
                 
             </item>
         </channel>
