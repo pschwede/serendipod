@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 09 Aug 2024 04:24:45 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 10 Aug 2024 04:25:50 +0200</lastBuildDate>
             <item>
-                <title>Filmtipp: &#34;Was will der Lama mit dem Gewehr?&#34;</title>
-                <description>Regisseur Pawo Choyning Dorji erzählt in seiner Komödie von einem Land im Umbruch und der ständigen Suche nach Glück.
-Feed: http://www.ndr.de/podcast/podcast3028.xml</description>
+                <title>Episode 86 - Das war&#39;s!</title>
+                <description>What&#39;s the Story - der Fotografie-Podcast! Wir sprechen über die Geschichten hinter den Bildern
+Feed: https://wts-whatsthestory.podigee.io/feed/aac</description>
                 
                 
-                <link>https://www.ndr.de/kultur/Filmtipp-Was-will-der-Lama-mit-dem-Gewehr,audio1686324.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast3028/AU-20240801-1317-0400.mp3"/>
-                <guid>https://www.ndr.de/kultur/Filmtipp-Was-will-der-Lama-mit-dem-Gewehr,audio1686324.html</guid>
+                <link>https://wts-whatsthestory.podigee.io/88-episode-86-das-wars</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1556492-m-dccb0f67d72572720772db4f76f87f82.m4a?source=feed"/>
+                <guid>https://wts-whatsthestory.podigee.io/88-episode-86-das-wars</guid>
                 
             </item><item>
-                <title>#212 Steht eine Marktkorrektur bevor? | extraETF Talk</title>
-                <description>Ausblick auf das 2. Börsenhalbjahr 2024
-Feed: https://extraetf.podigee.io/feed/mp3</description>
+                <title>#142 - SHARKULA (2016)</title>
+                <description>Zu Gast: Jörn + Benni (Haialarm-Podcast)
+Feed: https://www.trashtaucher.de/feed/mp3</description>
                 
                 
-                <link>https://extraetf.com/de/podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1556334-m-34e631bc50c3e2704cfe537168edce11.mp3?source=feed"/>
-                <guid>https://extraetf.com/de/podcast</guid>
+                <link>https://www.trashtaucher.de/episode/142-sharkula-2016</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/G5E8A9/https://lcdn.letscast.fm/media/podcast/9184576b/episode/21599a4f.mp3?t=1722115884"/>
+                <guid>https://www.trashtaucher.de/episode/142-sharkula-2016</guid>
                 
             </item>
         </channel>
