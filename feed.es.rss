@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 10 Aug 2024 04:25:59 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 11 Aug 2024 04:24:19 +0200</lastBuildDate>
             <item>
-                <title>Popcasting459</title>
-                <description>the residents · jailhouse rock  ::  n.o.i.a. · summertime blues  ::  vicious pink · great balls of fire  ::  a.c...
-Feed: https://feeds.feedburner.com/Popcasting</description>
+                <title>Especialistas Secundarios | 7052 minutos de felicidad aceptable. Un oyente ha hecho cálculos de la temporada del Todo por la Radio</title>
+                <description>&lt;p&gt;Fin de temporada y lo celebramos sometiendo el programa a la terapia que supone el Defensor del Oyente. En general, pocas quejas para no hacernos daño en el último día&lt;br&gt;&lt;/p&gt;
+Feed: https://fapi-top.prisasd.com/podcast/playser/la_ventana_todo_por_la_radio/itunestfp/podcast.xml</description>
                 
                 
-                <link>http://www.ivoox.com/popcasting459-audios-mp3_rf_132264928_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting459_mf_132264928_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/popcasting459-audios-mp3_rf_132264928_1.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/LA_VENTANA_TODO_POR_LA_RADIO_SER_PODCAST_399_P/media/playser/audio/20247/11/4070191.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Cuando todo lo que haces te parece una mierda</title>
-                <description>Youtube, Twitch, Tik-Tok, Instagram, Ivoox, Spotify, Bandcamp, etc, etc, etc. Multit&amp;uacute;d de plataformas donde alojar los contenidos de cualquier creador, ya sean de v&amp;iacute;deo, de m&amp;uacute;sica, de podcasting, de fotograf&amp;iacute;a, de pintura, de escritura o de lo que se tercie...
-Feed: https://www.ivoox.com/feed_fg_f11759098_filtro_1.xml</description>
+                <title>Melodías pizarras - Ritmo y blues - 13/07/24</title>
+                <description>Ritmo y blues
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/cuando-todo-lo-haces-te-parece-una-audios-mp3_rf_132544999_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cuando-todo-lo-haces-te-parece-una_mf_132544999_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/cuando-todo-lo-haces-te-parece-una-audios-mp3_rf_132544999_1.html</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/ritmo-blues/16184914/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16184914.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/ritmo-blues/16184914/</guid>
                 
             </item>
         </channel>

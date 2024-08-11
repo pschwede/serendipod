@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 10 Aug 2024 04:25:50 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 11 Aug 2024 04:24:12 +0200</lastBuildDate>
             <item>
-                <title>Episode 86 - Das war&#39;s!</title>
-                <description>What&#39;s the Story - der Fotografie-Podcast! Wir sprechen über die Geschichten hinter den Bildern
-Feed: https://wts-whatsthestory.podigee.io/feed/aac</description>
+                <title>Digitales Weiterleben, harte Blätter und Aggressivität durch Hitze</title>
+                <description>Bei den Profis sprechen wir &amp;#252;ber  Chancen und Risiken bei digitalem Weiterleben nach dem Tod, reibhausgasemissionen in der Milchviehhaltung, eine US-Studie zu Krebsf&amp;#228;llen bei Millennials und  die auswirkungen anhaltender Hitzeauf K&amp;#246;rper und Psyche. Au&amp;#223;erdem stellt uns Mark Benecke eine Studie vor, die untersucht, welchen Einfluss Lichtverschmutzung auf Stra&amp;#223;enb&amp;#228;ume hat.
+Feed: https://www.radioeins.de/archiv/podcast/die_profis.feed.podcast.xml</description>
                 
                 
-                <link>https://wts-whatsthestory.podigee.io/88-episode-86-das-wars</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1556492-m-dccb0f67d72572720772db4f76f87f82.m4a?source=feed"/>
-                <guid>https://wts-whatsthestory.podigee.io/88-episode-86-das-wars</guid>
+                <link>https://rbbmediapmdp-a.akamaihd.net/content/f3/14/f3142ca1-abee-4785-a839-c90d5376eee4/4c4ba0b5-a506-40dc-a326-e31666f971ef_abdb83eb-c7e8-41fa-90b6-b75b1e7c4515_256k.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rbbmediapmdp-a.akamaihd.net/content/f3/14/f3142ca1-abee-4785-a839-c90d5376eee4/4c4ba0b5-a506-40dc-a326-e31666f971ef_abdb83eb-c7e8-41fa-90b6-b75b1e7c4515_256k.mp3"/>
+                <guid>https://rbbmediapmdp-a.akamaihd.net/content/f3/14/f3142ca1-abee-4785-a839-c90d5376eee4/4c4ba0b5-a506-40dc-a326-e31666f971ef_abdb83eb-c7e8-41fa-90b6-b75b1e7c4515_256k.mp3</guid>
                 
             </item><item>
-                <title>#142 - SHARKULA (2016)</title>
-                <description>Zu Gast: Jörn + Benni (Haialarm-Podcast)
-Feed: https://www.trashtaucher.de/feed/mp3</description>
+                <title>Begegnung mit Gott</title>
+                <description>Datum: 04.08.2024
+Name des Predigers: Alfred Schaar
+Friedenskirche Esslingen
+Feed: https://emk-esslingen.de/feed/mp3/</description>
                 
                 
-                <link>https://www.trashtaucher.de/episode/142-sharkula-2016</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/G5E8A9/https://lcdn.letscast.fm/media/podcast/9184576b/episode/21599a4f.mp3?t=1722115884"/>
-                <guid>https://www.trashtaucher.de/episode/142-sharkula-2016</guid>
+                <link>https://emk-esslingen.de/emk-es232-begegnung-mit-gott/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://emk-esslingen.de/podlove/file/456/s/feed/c/mp3/ep232.mp3"/>
+                <guid>https://emk-esslingen.de/emk-es232-begegnung-mit-gott/</guid>
                 
             </item>
         </channel>

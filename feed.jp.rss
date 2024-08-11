@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 10 Aug 2024 04:26:14 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 11 Aug 2024 04:24:29 +0200</lastBuildDate>
             <item>
-                <title>Introducing Singular Sensation: The Podcast</title>
-                <description>Join us for an extraordinary deep dive inside the most transformative decade on Broadway through gripping behind-the-scenes accounts of shows such as Sunset Boulevard, Rent, Angels in America, Chicago, The Lion King, and The Producers - shows that changed the history of the American theater...
-Feed: https://feeds.megaphone.fm/theensemblist</description>
+                <title>How Comedian Fred Stoller Became A Disney Icon</title>
+                <description>The following video contains content about the sensitive topic of suicide. Discretion is advised. If you or someone you know is struggling or in a crisis, help is available. Call or text 988, or chat 988lifeline.org. 
+This week we welcome comedian Fred Stoller to the Pod! Fred is most known for his numerous roles on ‘Everybody Loves Raymond’, ‘The Nanny’, ‘Ned’s Declassified School Survival Guide’, and many MANY more! However, our favorite role of his is Dexter on ‘Wizards of Waverly Place’...
+Feed: https://rss.art19.com/wizards-of-waverly-pod</description>
                 
                 
-                <link>http://bpn.fm/singularsensation</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/2G242/traffic.megaphone.fm/BPNET9785424003.mp3?updated=1718287639"/>
-                <guid>http://bpn.fm/singularsensation</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://mgln.ai/e/1201/verifi.podscribe.com/rss/p/prfx.byspotify.com/e/chrt.fm/track/1DF6CE/rss.art19.com/episodes/2b679e84-ed6d-457a-bbfa-2df5c5d8a915.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Can diet and exercise ever replace statins?</title>
-                <description>Plus, sunburn remedies and how snus might enhance sporting performance
-Feed: https://podcasts.files.bbci.co.uk/b019dl1b.rss</description>
+                <title>“Who in the world are the elders?”</title>
+                <description>The post “Who in the world are the elders?” appeared first on Key Life.
+
+Feed: https://feedpress.me/keylife</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/m0021qhx</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0jgn3yn.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/m0021qhx</guid>
+                <link>https://feedpress.me/link/8775/16766733/who-in-the-world-are-the-elders</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/8775/16766734/KeyLife080924.mp3"/>
+                <guid>https://feedpress.me/link/8775/16766733/who-in-the-world-are-the-elders</guid>
                 
             </item>
         </channel>
