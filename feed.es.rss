@@ -9,26 +9,37 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 11 Aug 2024 04:24:19 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 12 Aug 2024 04:24:44 +0200</lastBuildDate>
             <item>
-                <title>Especialistas Secundarios | 7052 minutos de felicidad aceptable. Un oyente ha hecho cálculos de la temporada del Todo por la Radio</title>
-                <description>&lt;p&gt;Fin de temporada y lo celebramos sometiendo el programa a la terapia que supone el Defensor del Oyente. En general, pocas quejas para no hacernos daño en el último día&lt;br&gt;&lt;/p&gt;
-Feed: https://fapi-top.prisasd.com/podcast/playser/la_ventana_todo_por_la_radio/itunestfp/podcast.xml</description>
+                <title>Orgullosos de Yeison y Mari, el escudo nacional y Ministro admite pérdida de control territorial</title>
+                <description>&lt;p&gt;Escuche el programa de este viernes 9 de agosto. La Luciérnaga, un espacio de humor y opinión de Caracol Radio que desde hace 31 años acompaña a sus oyentes en su regreso casa.&lt;br&gt;&lt;/p&gt;
+Feed: http://fapi-top.prisasd.com/podcast/caracol/la_luciernaga/itunestfp/podcast.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/LA_VENTANA_TODO_POR_LA_RADIO_SER_PODCAST_399_P/media/playser/audio/20247/11/4070191.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-co.mc.tritondigital.com/LA_LUCIERNAGA_CARACOL_RADIO_409_P/media/mcv/caracol/multimedia/20240809/4099463_235058_audio_128.mp3"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Melodías pizarras - Ritmo y blues - 13/07/24</title>
-                <description>Ritmo y blues
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
+                <title>Los beneficios de la música en formato fisico - E157T04</title>
+                <description>En este episodio hablo de 11 de los beneficios que se tienen al tener la m&amp;uacute;sica en formato f&amp;iacute;sico.
+- Calidad del sonido 
+- Propiedad f&amp;iacute;sica
+- Experiencia de escucha
+- Valor coleccionable 
+- Contenido exclusivo 
+- Arte gr&amp;aacute;fico e informaci&amp;oacute;n
+- Nostalgia, 
+- Acceso sin internet 
+- Apoyo al artista
+- Mejora decoraci&amp;oacute;n del espacio
+- Interacci&amp;oacute;n social en la compra...
+Feed: https://www.ivoox.com/es-roquero_fg_f1890087_filtro_1.xml?promotionalCampaign</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/ritmo-blues/16184914/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16184914.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/ritmo-blues/16184914/</guid>
+                <link>https://www.ivoox.com/beneficios-musica-formato-fisico-audios-mp3_rf_132532270_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/beneficios-musica-formato-fisico_mf_132532270_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/beneficios-musica-formato-fisico-audios-mp3_rf_132532270_1.html</guid>
                 
             </item>
         </channel>

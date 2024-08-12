@@ -9,35 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 11 Aug 2024 04:24:09 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 12 Aug 2024 04:24:34 +0200</lastBuildDate>
             <item>
-                <title> Julian Eltinge In Hollywood!</title>
-                <description>with Andrew L. Erdman author of Beautiful: The Story of Julian Eltinge, America&#39;s Greatest Female Impersonator.
-Feed: https://feeds.megaphone.fm/broadwaynation</description>
+                <title>Why have Ukrainian forces entered Russia?</title>
+                <description>Does Ukraine’s cross-border offensive mark a new chapter in the conflict?
+Feed: https://podcasts.files.bbci.co.uk/p0bqztzm.rss</description>
                 
                 
-                <link>https://www.broadway-nation.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/chrt.fm/track/2G242/traffic.megaphone.fm/BPNET1091321929.mp3?updated=1721423571"/>
-                <guid>https://www.broadway-nation.com/</guid>
+                <link>http://www.bbc.co.uk/programmes/p0jhl8k2</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0jhl78n.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0jhl8k2</guid>
                 
             </item><item>
-                <title>38. Little Mon, Big City</title>
-                <description>Boidelrat is missing! Can Irene&#39;s Necromon find her in the sprawling streets of Necropolis?
-Content Notes: Harsh/Loud Sounds (22:55-23:05, 37:15-37:25, 48:45-48:55, 51:00-51:10, 55:25-55:35, 1:02:10-1:02:20)
-Character List: docs.google.com/document/d/1prXt7cuxgVwQlBpuauA8iFLAGHWFoW_TIof5RyBxCb0
- 
-Listen to Makeshift Stories: makeshiftstories.com
-Play a Familiar Problem: darringtonpress.com/a-familiar-problem
- 
-Follow Quest Friends! Online:
-Website: questfriendspodcast.com 
-Patreon: patreon...
-Feed: https://feed.podbean.com/questfriends/feed.xml</description>
+                <title>By The Matrix, Prime Is That You?!?!?</title>
+                <description>&lt;p&gt;In Episode 433 of All Things Transformers Steve/Megatron and TFG1Mike are back and they talk about Studio Series 86-31 Optimus Prime, Hasbro&#39;s SDCC plans, and more as The 40th Anniversary of TRANSFORMERS rolls on...
+Feed: https://media.rss.com/all-things-transformers/feed.xml</description>
                 
                 
-                <link>https://questfriends.podbean.com/e/38-little-mon-big-city/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/zfjp7t32n2hq8weg/38_Little_Mon_Big_City9pc8y.mp3"/>
-                <guid>https://questfriends.podbean.com/e/38-little-mon-big-city/</guid>
+                <link>https://rss.com/podcasts/all-things-transformers/1580327</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.rss.com/all-things-transformers/2024_07_23_22_19_59_0111f639-d6ab-46dd-af58-4bce798f8724.mp3"/>
+                <guid>https://rss.com/podcasts/all-things-transformers/1580327</guid>
                 
             </item>
         </channel>
