@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 12 Aug 2024 04:24:37 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 13 Aug 2024 04:24:16 +0200</lastBuildDate>
             <item>
-                <title>„Manchmal hören wir etwas, was Sie nicht sehen können“</title>
-                <description>Im Gespräch mit der Autorin Anne Richter
-Feed: https://sichtbar-der-podcast.podigee.io/feed/mp3</description>
+                <title>Im Aufzug mit Aladin El-Mafaalani</title>
+                <description>&lt;p&gt;Diese Fahrt mit dem Soziologen und Bildungsforscher Aladin El-Mafaalani ist vollgepackt mit inspirierenden Worten und klugen Gedanken: Wir sprechen darüber, warum wir gerade jetzt wegen des Rechtspopulismus nicht resignieren sollten und ob man die AfD entzaubern kann. Vor allem wollte ich mit ihm aber über Inklusion im Bildungssystem sprechen. Ich möchte natürlich wissen, warum nichts vorangeht und wie wir über die Logik von „Ich bin dafür nicht ausgebildet“ herauskommen...
+Feed: https://feeds.acast.com/public/shows/64119fda0bdefc0011daa833</description>
                 
                 
-                <link>https://www.hoermal-audio.org/sichtbar-der-podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1530923-m-8f03221793f628ae38b035554b73fae8.mp3?source=feed"/>
-                <guid>https://www.hoermal-audio.org/sichtbar-der-podcast</guid>
+                <link>https://shows.acast.com/im-aufzug/episodes/66a0e12213170e0e4b5851f0</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/64119fda0bdefc0011daa833/e/66a0e12213170e0e4b5851f0/media.mp3"/>
+                <guid>https://shows.acast.com/im-aufzug/episodes/66a0e12213170e0e4b5851f0</guid>
                 
             </item><item>
-                <title>HB#280 Auftakt-Pleite gegen Paderborn - Fiél zu tun für Hertha</title>
-                <description>Hertha BSC hatte sich für den Saisonauftakt gegen den SC Paderborn viel vorgenommen, aber nur wenig gezeigt. Die ernüchternde 1:2-Heimniederlage zeigte mehr Probleme als Lösungen - und bedeutet viel Arbeit für Trainer Cristian Fiél. Aber war wirklich alles schlecht?Wir wünschen euch ganz viel Spaß mit der neuen Folge! Bitte abonniert uns auf allen Kanälen und gebt überall eine Bewertung ab, wo ihr es noch nicht getan habt. Das Beste für uns ist aber immer die persönliche Weiterempfehlung...
-Feed: https://meinsportpodcast.de/fussball/hertha-base-podcast/feed/</description>
+                <title>Mehrere Bugs in Intel-Prozessoren | Bit-Rauschen 2024/16</title>
+                <description>Mit Christian Hirsch und Christof Windeck
+Feed: https://bit-rauschen.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://meinsportpodcast.de/fussball/hb280-auftaktpleite-gegen-paderborn-fiel-zu-tun-fuer-hertha/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/246481/hb280-auftaktpleite-gegen-paderborn-fiel-zu-tun-fuer-hertha.mp3?awCollectionId=50001&amp;awEpisodeId=246481"/>
-                <guid>https://meinsportpodcast.de/fussball/hb280-auftaktpleite-gegen-paderborn-fiel-zu-tun-fuer-hertha/</guid>
+                <link>https://bit-rauschen.podigee.io/95-mehrere-bugs-in-intel-prozessoren-bit-rauschen-202416</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1547709-m-ba1b5c29410155ad779a601800f23f66.mp3?source=feed"/>
+                <guid>https://bit-rauschen.podigee.io/95-mehrere-bugs-in-intel-prozessoren-bit-rauschen-202416</guid>
                 
             </item>
         </channel>
