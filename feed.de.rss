@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 Aug 2024 04:24:28 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Aug 2024 04:24:14 +0200</lastBuildDate>
             <item>
-                <title>PP 183: Urlaub in den Ferien</title>
-                <description>Praktisch Pädagogisch Folge 183
-Feed: https://prakpaed.podigee.io/feed/mp3</description>
+                <title>Der Thomas ist tot</title>
+                <description>Die Klebezettel vom 28.07.2024
+Feed: https://feeds.feedburner.com/wochennotizen</description>
                 
                 
-                <link>https://prakpaed.podigee.io/219-prakpaed183</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1508291-m-19a6af240174d993812a7cd171b92270.mp3?source=feed"/>
-                <guid>https://prakpaed.podigee.io/219-prakpaed183</guid>
+                <link>https://wochennotiz.de/olympia-paris-2024-430/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wochennotiz.de/podlove/file/1081/s/feed/c/mp3/20240728_430_Wochennotiz.mp3"/>
+                <guid>https://wochennotiz.de/olympia-paris-2024-430/</guid>
                 
             </item><item>
-                <title>#71 – Die Beerdigungs-Crasherin</title>
-                <description>Als Noela Rukundo 2004 aus Burundi nach Australien flieht, lernt sie kurze Zeit später ihren zukünftigen Mann Balenga kennen und beginnt mit ihm ein neues Leben in einem Vorort von Melbourne. Zusammen mit ihm und ihren acht Kindern könnte sie nicht glücklicher sein. Bis Noela im Januar 2015 die traurige Nachricht bekommt, dass ihre Stiefmutter in Burundi gestorben ist...
-Feed: https://weird-crimes.podigee.io/feed/mp3</description>
+                <title>Söders Döner</title>
+                <description>Die Liste seiner Erfolge ist lang, die seiner Opfer unversch&amp;#228;mt l&amp;#228;nger. Florian Schroeder zeichnet sich durch eine erfreuliche Respektlosigkeit aus. Mit Freude z&amp;#252;ckt er sein Verbalskalpell und nimmt das tagespolitische Geschehen auseinander.
+
+Feed: https://www.radioeins.de/programm/sendungen/der_schoene_morgen/einfach_schroeder/archiv.xml/feed=podcast.xml</description>
                 
                 
-                <link>https://weird-crimes.podigee.io/75-71-die-beerdigungs-crasherin</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1536342-m-63cdcb65e5607be5875e70ce7fe31fb5.mp3?source=feed"/>
-                <guid>https://weird-crimes.podigee.io/75-71-die-beerdigungs-crasherin</guid>
+                <link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/einfach_schroeder/soeders-doener.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rbbmediapmdp-a.akamaihd.net/content/80/e7/80e7cdfa-7a47-476c-965c-c60b9411cbc5/2eafd4c2-012e-4ff3-9fb3-9ee96f2bba7e_ed06f6c0-5f05-4366-b5e8-9eb1b89d6a65_256k.mp3"/>
+                <guid>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/einfach_schroeder/soeders-doener.html</guid>
                 
             </item>
         </channel>

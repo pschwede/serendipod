@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 Aug 2024 04:24:48 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Aug 2024 04:24:36 +0200</lastBuildDate>
             <item>
-                <title>Honduras, 15 Years After the Coup: An Interview With Ousted President Manuel Zelaya</title>
-                <description>Fifteen years after the 2009 Honduran coup, Zelaya sits down for an exclusive interview with Deconstructed.
-Feed: https://feeds.acast.com/public/shows/1d1223a2-9d05-473b-9e79-c2b65b71d676</description>
+                <title>DeepVibes Radio (18 Dec 2020)</title>
+                <description>[The HussyCast, Love Note House Music, Ohm Made Recordings, Subcommittee Recordings, Triosas, Underground Kollektiv]
+Sometimes naughty, but always nice, Beat Hussy radiates love from the Pacific Northwest to the world with playful, sexy blends of eclectic underground music.
+Beat Hussy can be heard fortnightly on UndergroundKollektiv.co.uk, Sundays at 0300 GMT and on The HussyCast.
+Please support the labels and artists who make the music that makes these mixes possible...
+Feed: https://hearthis.at/beathussy/podcast/</description>
                 
                 
-                <link>https://theintercept.com/2024/07/26/deconstructed-honduras-coup-manuel-zelaya-interview/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/deconstructed/e/66a2853c8f24d109f224cd11/media.mp3"/>
-                <guid>https://theintercept.com/2024/07/26/deconstructed-honduras-coup-manuel-zelaya-interview/</guid>
+                <link>https://hearthis.at/beathussy/dvr-18-dec-2020/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/beathussy/dvr-18-dec-2020/listen.mp3?s=tMZ"/>
+                <guid>https://hearthis.at/beathussy/dvr-18-dec-2020/</guid>
                 
             </item><item>
-                <title>CERN at 70: how the Higgs hunt elevated particle physics to Hollywood status</title>
-                <description>Peering behind the comms curtain at the world&#39;s most famous particle physics lab
-Feed: https://physicsworld.com/podcast</description>
+                <title>The Olympic Muffins, Tadpole Water, and Tasting 5-Hour Energy Barbecue Sauce</title>
+                <description>This week, Juliet and Jacoby close out the Olympics by covering multiple food stories from the Summer Games, share their thoughts on an Auntie Anne’s candle, and discuss fridgescaping. For this week’s Taste Test, they try 5-Hour Energy barbecue sauce. Finally, they share their Personal Food News and react to some Listener Food News.
+Do you have Personal Food News? We want to hear from you! Leave us a voicemail at 646-783-9138 or email ListenerFoodNews@Gmail...
+Feed: https://feeds.megaphone.fm/house-of-carbs</description>
                 
                 
-                <link>https://physicsworld.com/a/cern-at-70-how-the-higgs-hunt-elevated-particle-physics-to-hollywood-status/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/physics_world_science_podcast/content.blubrry.com/physics_world_science_podcast/PWStories-2024-08-13-CERN_at_70_reflections.mp3"/>
-                <guid>https://physicsworld.com/a/cern-at-70-how-the-higgs-hunt-elevated-particle-physics-to-hollywood-status/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/GLT1924122015.mp3?updated=1723133095"/>
+                <guid></guid>
                 
             </item>
         </channel>

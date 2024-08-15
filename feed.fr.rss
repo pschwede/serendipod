@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 Aug 2024 04:24:34 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Aug 2024 04:24:21 +0200</lastBuildDate>
             <item>
-                <title>Phrases with ‘take’</title>
-                <description>Ben looks at
-Feed: https://feeds.acast.com/public/shows/66068fb853b2df001661a220</description>
+                <title>Nouvelles écritures théâtrales, avec Claire Tipy, dramaturge</title>
+                <description>Nouvelles écritures théâtrales, avec Claire Tipy, dramaturge
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10075.xml</description>
                 
                 
-                <link>https://shows.acast.com/parler-anglais/episodes/phrases-with-take</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/66068fb853b2df001661a220/e/66b7380feda70b6bfd4a3c33/media.mp3"/>
-                <guid>https://shows.acast.com/parler-anglais/episodes/phrases-with-take</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/nouvelles-ecritures-theatrales-avec-claire-tipy-dramaturge-1732294</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/84bfd728-1cdd-44a3-85c6-6bd037314c7c/10075-14.08.2024-ITEMA_23825316-2024C16450S1227-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/nouvelles-ecritures-theatrales-avec-claire-tipy-dramaturge-1732294</guid>
                 
             </item><item>
-                <title>Une guerre permanente</title>
-                <description>
-Au Gondwana, il y a eu une guerre que tout le monde fait semblant de ne pas voir.
-(Rediff du 22-04-2024)
-
-Feed: https://www.rfi.fr/fr/podcasts/chronique-mamane/podcast</description>
+                <title>Mix 25 : Mix 25 - 14 août 2024</title>
+                <description>647-318683
+Feed: http://podcast.cism893.ca/radioshows/647/feed_itunes.xml</description>
                 
                 
-                <link>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20240813-une-guerre-permanente</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB2894-RFI-FR-20090915%7CChronique%20de%20Mamane&amp;l3=WBMZ435383-RFI-FR-20240813%7CUne%20guerre%20permanente&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202408%2FCHRONIQUE_MAMANE_13-08-24.mp3"/>
-                <guid>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20240813-une-guerre-permanente</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/318683.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/318683.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/318683.mp3</guid>
                 
             </item>
         </channel>
