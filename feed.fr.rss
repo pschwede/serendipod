@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 15 Aug 2024 04:24:21 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 16 Aug 2024 04:24:11 +0200</lastBuildDate>
             <item>
-                <title>Nouvelles écritures théâtrales, avec Claire Tipy, dramaturge</title>
-                <description>Nouvelles écritures théâtrales, avec Claire Tipy, dramaturge
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10075.xml</description>
+                <title>(Rediff) ITW - Felix Kersten, le masseur d’Himmler qui a sauvé 350 000 vies </title>
+                <description> 
+ Felix Kersten est un héros méconnu de la Seconde Mondiale. Méconnu et atypique, puisqu’il s’agit d’un... masseur ! Médecin personnel d’Himmler, Kersten a usé de son influence sur le chef des SS pour sauver plusieurs dizaines de milliers de vies. Vir...
+Feed: https://feeds.audiomeans.fr/feed/80a39a48-f044-436e-ad5b-63d3154efa91.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/nouvelles-ecritures-theatrales-avec-claire-tipy-dramaturge-1732294</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/84bfd728-1cdd-44a3-85c6-6bd037314c7c/10075-14.08.2024-ITEMA_23825316-2024C16450S1227-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/nouvelles-ecritures-theatrales-avec-claire-tipy-dramaturge-1732294</guid>
+                <link>https://podcasts.audiomeans.fr/au-coeur-de-l-histoire-des-recits-pour-decouvrir-et-apprendre-l-histoire-63d3154efa91/-rediff-itw-felix-kersten-le-masseur-d-himmler-qui-a-sauve-350-000-vies--c2b68c909065</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/67b6cf29-95da-4957-9f6f-c2b68c909065.mp3?_=1722441365"/>
+                <guid>https://podcasts.audiomeans.fr/au-coeur-de-l-histoire-des-recits-pour-decouvrir-et-apprendre-l-histoire-63d3154efa91/-rediff-itw-felix-kersten-le-masseur-d-himmler-qui-a-sauve-350-000-vies--c2b68c909065</guid>
                 
             </item><item>
-                <title>Mix 25 : Mix 25 - 14 août 2024</title>
-                <description>647-318683
-Feed: http://podcast.cism893.ca/radioshows/647/feed_itunes.xml</description>
+                <title>Actus PPG : Semaine 26 - Nintendo envoi, Elden ring réceptionne et le PSVR2 est expulsé !</title>
+                <description>Description à venir.Tout cela condensé sur deux bonnes heures d&#39;émission et chapitré !Rejoignez toute l&#39;équipe PPG sur le Discord : https://discord.gg/z5avdnNSvSOn vous y attend pour échanger sur les différentes émissions, le jeu vidéo en général, les...
+Feed: https://feed.ausha.co/B4AxxIK3nJYG</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/318683.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/318683.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/318683.mp3</guid>
+                <link>https://podcast.ausha.co/pour-une-poignee-de-gamers/actus-ppg-semaine-26-nintendo-envoi-elden-ring-receptionne-et-le-psvr2-est-expulse</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/odreRuVjqOK6.mp3?t=1719864278"/>
+                <guid>https://podcast.ausha.co/pour-une-poignee-de-gamers/actus-ppg-semaine-26-nintendo-envoi-elden-ring-receptionne-et-le-psvr2-est-expulse</guid>
                 
             </item>
         </channel>
