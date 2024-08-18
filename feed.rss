@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 16 Aug 2024 04:24:01 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 18 Aug 2024 04:25:23 +0200</lastBuildDate>
             <item>
-                <title>Blue Jay Pizza</title>
-                <description>Don’t worry, today’s brand new story is NOT about a pizza that has birds as a topping, but it’s still suitably weird. Written by an 8 year old from New York named Jolee.
-Feed: https://feeds.megaphone.fm/GLT5781983979</description>
+                <title>Wendy Kopp | Teach for America</title>
+                <description>Teach For America founder and CEO Wendy Kopp visits Google for a conversation with former Google vice president Sheryl Sandberg. From her dorm room at Princeton University, twenty-one-year-old college senior Wendy Kopp decided to launch a movement to...
+Feed: https://talksatgoogle.libsyn.com/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/FGADCC/pscrb.fm/rss/p/traffic.megaphone.fm/SBP6276986527.mp3?updated=1723687871"/>
-                <guid></guid>
+                <link>https://www.youtube.com/watch?v=c04RK1vftRk</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/talksatgoogle/Talks_at_Google_-_Wendy_Kopp.mp3?dest-id=765869"/>
+                <guid>https://www.youtube.com/watch?v=c04RK1vftRk</guid>
                 
             </item><item>
-                <title>The vital question Taskrabbit founder Leah Solivan wished she asked investors</title>
-                <description>A pioneer in the gig economy, Leah Solivan joins host Jeff Berman to share scale lessons from founding Taskrabbit. Hear how a need for dog food on a snowy night grew into a global business acquired by IKEA. She also reveals how her experience as an entrepreneur is shaping her next act as an early-stage investor.
-Leah has a new podcast of her own in the works: Breaking Precedent
-Read a transcript of this episode: https://mastersofscale...
-Feed: https://rss.art19.com/masters-of-scale</description>
+                <title>Suzanne Kane - My Perimenopause Stretch </title>
+                <description>Sinéad O&#39;Moore 
+Feed: https://feeds.acast.com/public/shows/621cc9ee3753980012fc8092</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/E341G/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/rss.art19.com/episodes/9d7cb01f-e320-4627-a43d-b0b3fcfbd2fd.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://www.instagram.com/stretchmarkspodcast/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/621cc9ee3753980012fc8092/e/66bb5712a7f4fbb991f2f05c/media.mp3"/>
+                <guid>https://www.instagram.com/stretchmarkspodcast/</guid>
                 
             </item>
         </channel>

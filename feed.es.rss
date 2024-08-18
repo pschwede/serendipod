@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 16 Aug 2024 04:24:16 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 18 Aug 2024 04:25:37 +0200</lastBuildDate>
             <item>
-                <title>Invitado en Sayonara Deluxe &#34;ENCHUFISMO (Lebron James), Desaparición y prostitución del podcasting&#34;</title>
-                <description>1003. Este capítulo especial pertenece al podcast &#39;Sayonara Deluxe&#39; donde tuve el privilegio de participar hace unos días, en el que propuse el debate de la desaparación de algunos programas de la plataforma Podium Podcast....
-Feed: https://feedpress.me/alotroladodelmicrofono</description>
+                <title>Los conciertos de Radio 3 - Versiones verano 3 - 05/07/24</title>
+                <description>Versiones verano 3
+Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/invitado-en-sayonara-deluxe-enchufismo-lebron-james-desaparicion-y-prostitucion-del-podcasting--60740875</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/21386/16748175/1003.mp3"/>
-                <guid>https://www.spreaker.com/episode/invitado-en-sayonara-deluxe-enchufismo-lebron-james-desaparicion-y-prostitucion-del-podcasting--60740875</guid>
+                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/versiones-verano-3-05-07-24/16175058/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16175058.mp3"/>
+                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/versiones-verano-3-05-07-24/16175058/</guid>
                 
             </item><item>
-                <title>Herramientas para automatizar pruebas de carga</title>
-                <description>En este episodio el Señor Performo viene a platicarnos sobre las principales herramientas de automatización de pruebas de carga que se podrán encontrar en el mercado, y sobre todo, las que encontraran mas comúnmente allá afuera en el mundo laboral en...
-Feed: https://www.spreaker.com/show/3254680/episodes/feed</description>
+                <title>Incubos y sucubos</title>
+                <description>Los &amp;iacute;ncubos y s&amp;uacute;cubos son demonios que seg&amp;uacute;n la tradici&amp;oacute;n antigua tentaban en lis sue&amp;ntilde;os y se alimentaban de los fluidos sexuales para vivir. Veamos todo lo qu ese peude saber sobre estos seres.
+https://linktr.ee/sol_ahimsa
+Feed: https://www.ivoox.com/de/depodcast-sol-ahimsa_fg_f1407362_filtro_1.xml</description>
                 
                 
-                <link>https://www.spreaker.com/episode/herramientas-para-automatizar-pruebas-de-carga--60603254</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/60603254/pbe_herramientas_2024.mp3"/>
-                <guid>https://www.spreaker.com/episode/herramientas-para-automatizar-pruebas-de-carga--60603254</guid>
+                <link>https://www.ivoox.com/incubos-sucubos-audios-mp3_rf_131639482_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/incubos-sucubos_mf_131639482_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/incubos-sucubos-audios-mp3_rf_131639482_1.html</guid>
                 
             </item>
         </channel>
