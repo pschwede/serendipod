@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 18 Aug 2024 04:25:50 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 19 Aug 2024 04:24:15 +0200</lastBuildDate>
             <item>
-                <title>Podcast 290 - Want to Get Away</title>
-                <description>The gang discusses two papers that look at modern bird migration patterns. The first paper looks at breading and migration patterns of the American woodcock, and the second paper looks at how migration could function as a motor of island speciation....
-Feed: https://palaeoafterdark.libsyn.com/rss</description>
+                <title>House of Usher</title>
+                <description>Starring Vincent Price, directed by Corman, and written by Richard Matheson, this tale based on Edgar Allan Poe&amp;#039;s classic story of the same name proved so successful that it kicked off a cycle of 8 Poe films with the same team.
+Feed: https://chainsawhorror.com/feed/mp3/</description>
                 
                 
-                <link>https://palaeoafterdark.libsyn.com/podcast-290-want-to-get-away</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/palaeoafterdark/Podcast_290_-_Want_to_Get_Away.mp3?dest-id=133170"/>
-                <guid>https://palaeoafterdark.libsyn.com/podcast-290-want-to-get-away</guid>
+                <link>https://chainsawhorror.com/2024/08/13/house-of-usher/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chainsawhorror.com/podlove/file/689/s/feed/c/mp3/house-of-usher.mp3"/>
+                <guid>https://chainsawhorror.com/2024/08/13/house-of-usher/</guid>
                 
             </item><item>
-                <title>541 | Are you addicted to your screen? with Alex Basche LMFT</title>
-                <description>In episode 541 host Eric Tivers speaks with licensed marriage and family therapist Alex Bache about digital addiction and its impact on ADHD, anxiety disorders, and OCD, particularly in adolescents and young adults. The discussion covers identifying...
-Feed: https://adhdbrainpod.libsyn.com/rss</description>
+                <title>Episode 906</title>
+                <description>CLUBLIFE by Tiësto Episode 906
+Feed: https://feeds.acast.com/public/shows/593eded1acfa040562f3480b</description>
                 
                 
-                <link>http://www.adhdrewired.com/541</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/adhdbrainpod/541_Digital_Wellness_and_Byte-sized_insights_with_Alex_Basche_LMFT.mp3?dest-id=184301"/>
-                <guid>http://www.adhdrewired.com/541</guid>
+                <link>https://shows.acast.com/clublife-by-tiesto/episodes/episode-906</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/593eded1acfa040562f3480b/e/66bc8d46f499877c94acc26c/media.mp3"/>
+                <guid>https://shows.acast.com/clublife-by-tiesto/episodes/episode-906</guid>
                 
             </item>
         </channel>
