@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 19 Aug 2024 04:23:58 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 20 Aug 2024 04:27:29 +0200</lastBuildDate>
             <item>
-                <title>Eine Welt vom 17.08.2024 - komplette Sendung</title>
-                <description> EL Khafif, Susanne www.deutschlandfunk.de, Eine Welt 
-Feed: https://www.deutschlandfunk.de/eine-welt-102.xml</description>
+                <title>do trans-Art_98</title>
+                <description>19.08.2024 - &#34;Fehler sind unabdingbar&#34;
+Feed: https://cba.media/station/radiofabrik/feed</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/eine-welt-vom-17-08-2024-komplette-sendung-dlf-d2aee69f-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/08/17/eine_welt_vom_17082024_komplette_sendung_dlf_20240817_1330_d2aee69f.mp3?refId=eine-welt-102"/>
-                <guid>https://www.deutschlandfunk.de/eine-welt-vom-17-08-2024-komplette-sendung-dlf-d2aee69f-100.html</guid>
+                <link>https://cba.media/673478</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/7/7/0000673477/2024-09-01-sendung-astrid-rieder-dta98-jolles-mp3.mp3"/>
+                <guid>https://cba.media/673478</guid>
                 
             </item><item>
-                <title>Fotobuch-Ecke - Heiko Westphalen - Sehreise Flensburg / Abenteuer Berlin</title>
-                <description>Im Podcast hatte ich die Gelegenheit mit Heiko Westphalen über seine beiden Bildband-Projekte &#34;Sehreise Flensburg&#34; und &#34;Abenteuer Berlin&#34; zu sprechen. Außerdem schildert Heiko die Probleme, die beim Herstellen auftraten und welche Projekte er bereits geplant hat. Hört also einfach gerne rein!
-Feed: https://de9vpm.podcaster.de/fotobuch-ecke.rss</description>
+                <title>Folge 25: Entwarnung und kurze Info zu Altgläsern (mit Fotos)</title>
+                <description>Shownotes:
+Feed: https://fotodepri.de/feed/podcast/fotodepri/mp3/</description>
                 
                 
-                <link>https://fotobuch-ecke.de/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://de9vpm.podcaster.de/fotobuch-ecke/media/FBE054_-_Heiko_Westphalen_Berlin_Flensburg_au.mp3"/>
-                <guid>https://fotobuch-ecke.de/</guid>
+                <link>https://fotodepri.de/podcast/folge-25-entwarnung-und-kurze-info-zu-altglaesern-mit-fotos/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fotodepri.de/podcast-download/299/folge-25-entwarnung-und-kurze-info-zu-altglaesern-mit-fotos.mp3"/>
+                <guid>https://fotodepri.de/podcast/folge-25-entwarnung-und-kurze-info-zu-altglaesern-mit-fotos/</guid>
                 
             </item>
         </channel>
