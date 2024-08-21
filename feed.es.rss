@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 20 Aug 2024 04:27:36 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 Aug 2024 04:25:34 +0200</lastBuildDate>
             <item>
-                <title>Humor para la salud mental  - El Expresso de las 10 - Lu. 19 Agosto 2024</title>
-                <description>https://podcastudg.com/ExpressoDeLas10/2024/Agosto/ElExpresso20240819.mp3
-Feed: https://udgtv.com/podcast/guadalajara/el-expresso-de-las-1000/feed/457</description>
+                <title>Melodías pizarras - Ritmo y blues - 13/07/24</title>
+                <description>Ritmo y blues
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://udgtv.com/podcast/guadalajara/el-expresso-de-las-10/humor-para-la-salud-mental---el-expresso-de-las-10/236040</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/ExpressoDeLas10/2024/Agosto/ElExpresso20240819.mp3"/>
-                <guid>https://udgtv.com/podcast/guadalajara/el-expresso-de-las-10/humor-para-la-salud-mental---el-expresso-de-las-10/236040</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/ritmo-blues/16184914/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16184914.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/ritmo-blues/16184914/</guid>
                 
             </item><item>
-                <title>Incubos y sucubos</title>
-                <description>Los &amp;iacute;ncubos y s&amp;uacute;cubos son demonios que seg&amp;uacute;n la tradici&amp;oacute;n antigua tentaban en lis sue&amp;ntilde;os y se alimentaban de los fluidos sexuales para vivir. Veamos todo lo qu ese peude saber sobre estos seres.
-https://linktr.ee/sol_ahimsa
-Feed: https://www.ivoox.com/de/depodcast-sol-ahimsa_fg_f1407362_filtro_1.xml</description>
+                <title>De película - Un lugar común y Buffalo Kids en &#39;De película&#39; - 17/08/24</title>
+                <description>Un lugar común y Buffalo Kids en &#39;De película&#39;
+Feed: http://api.rtve.es/api/programas/1921/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/incubos-sucubos-audios-mp3_rf_131639482_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/incubos-sucubos_mf_131639482_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/incubos-sucubos-audios-mp3_rf_131639482_1.html</guid>
+                <link>https://www.rtve.es/play/audios/de-pelicula-rne/lugar-comun-buffalo-kids-pelicula-17-08-24/16218856/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16218856.mp3"/>
+                <guid>https://www.rtve.es/play/audios/de-pelicula-rne/lugar-comun-buffalo-kids-pelicula-17-08-24/16218856/</guid>
                 
             </item>
         </channel>

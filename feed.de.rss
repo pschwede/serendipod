@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 20 Aug 2024 04:27:29 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 Aug 2024 04:25:27 +0200</lastBuildDate>
             <item>
-                <title>do trans-Art_98</title>
-                <description>19.08.2024 - &#34;Fehler sind unabdingbar&#34;
-Feed: https://cba.media/station/radiofabrik/feed</description>
+                <title>Immobilienpreise, Zinsen, Inflation: Wie geht‘s weiter?</title>
+                <description>Die Immobilienpreise steigen wieder - ist das die Trendwende? Was passiert jetzt mit Zinsen, Inflation und den wachsenden Firmenpleiten? Wie alles mit allem zusammenhängt, darüber sprechen die ntv-Moderatoren Raimund Brichta und Etienne Bell in der aktuellen Folge.
+Fragen und Anregungen? Schreibt uns: brichtaundbell@ntv.de 
+Unsere allgemeinen Datenschutzrichtlinien finden Sie unter https://datenschutz.ad-alliance.de/podcast...
+Feed: https://proxyfeed.svmaudio.com/aa/brichta-und-bell</description>
                 
                 
-                <link>https://cba.media/673478</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/7/7/0000673477/2024-09-01-sendung-astrid-rieder-dta98-jolles-mp3.mp3"/>
-                <guid>https://cba.media/673478</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://ntv.cdn.svmaudio.com/episodes/b7d5b42c-26df-4683-b67c-a9bc71754514.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Folge 25: Entwarnung und kurze Info zu Altgläsern (mit Fotos)</title>
-                <description>Shownotes:
-Feed: https://fotodepri.de/feed/podcast/fotodepri/mp3/</description>
+                <title>Vollzeit selbstständig mit Nischenthema: Wie Sarah ihren Pferdehuf-Onlinekurs gelauncht hat!</title>
+                <description>So hat Sarah Surmann ihren Pferdehuf-Onlinekurs 5x gelauncht.
+Feed: https://carolinepreusspodcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://fotodepri.de/podcast/folge-25-entwarnung-und-kurze-info-zu-altglaesern-mit-fotos/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fotodepri.de/podcast-download/299/folge-25-entwarnung-und-kurze-info-zu-altglaesern-mit-fotos.mp3"/>
-                <guid>https://fotodepri.de/podcast/folge-25-entwarnung-und-kurze-info-zu-altglaesern-mit-fotos/</guid>
+                <link>https://carolinepreusspodcast.podigee.io/463-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1562796-m-10c28254b2bc277d2e35708a79ae7cd2.mp3?source=feed"/>
+                <guid>https://carolinepreusspodcast.podigee.io/463-new-episode</guid>
                 
             </item>
         </channel>
