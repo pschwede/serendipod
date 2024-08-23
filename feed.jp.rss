@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 22 Aug 2024 04:24:34 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 23 Aug 2024 04:25:30 +0200</lastBuildDate>
             <item>
-                <title>Blasterjaxx present - Maxximize On Air 531</title>
-                <description>It’s time to turn up your sound systems - you’re …
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:98407084/sounds.rss</description>
+                <title>September 2024 Editor-in-Chief Podcast</title>
+                <description>Creator: James P. Rathmell, M.D., M.B.A.  Overview of September issue original studies.
+Feed: https://anesthesiology.libsyn.com/rss</description>
                 
                 
-                <link>https://soundcloud.com/maxximizeonair/blasterjaxx-present-maxximize-on-air-531</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1899925848-maxximizeonair-blasterjaxx-present-maxximize-on-air-531.mp3"/>
-                <guid>https://soundcloud.com/maxximizeonair/blasterjaxx-present-maxximize-on-air-531</guid>
+                <link>http://anesthesiology.pubs.asahq.org/article.aspx?doi=10.1097/ALN.0000000000005182&amp;volume=141&amp;issue=3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/anesthesiology/September_2024_EIC_Podcast.mp3?dest-id=227029"/>
+                <guid>http://anesthesiology.pubs.asahq.org/article.aspx?doi=10.1097/ALN.0000000000005182&amp;volume=141&amp;issue=3</guid>
                 
             </item><item>
-                <title>August 11, 2024: Nathan Sheridan, Guest Speaker</title>
-                <description>AGK, LifePoint Church, Valley Center, Kansas, Wichita, Assembly of God
-Feed: https://lifepoint.podbean.com/feed.xml</description>
+                <title>Immanence, mantras, and... cheetos? w/ Dr. Anthony Metivier</title>
+                <description>Anthony walks us through his amazing journey from working in academia to becoming a thought leader on memory training. It is more than a tale of having learned mnemonic techniques, but rather it recounts personal growth and change.   Walk away...
+Feed: https://becomingasuperhuman.libsyn.com/rss</description>
                 
                 
-                <link>https://lifepoint.podbean.com/e/august-11-2024-nathan-sheridan-guest-speaker/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/b5y2c3/August11.mp3"/>
-                <guid>https://lifepoint.podbean.com/e/august-11-2024-nathan-sheridan-guest-speaker/</guid>
+                <link>https://superhumanacademy.com/podcast/immanence-mantras-and-cheetos-w-anthony-metivier</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/clean/secure/becomingasuperhuman/Ep._302_Immanence_mantras_and..._cheetos_with_Dr._Anthony_Metivier.mp3?dest-id=246682"/>
+                <guid>https://superhumanacademy.com/podcast/immanence-mantras-and-cheetos-w-anthony-metivier</guid>
                 
             </item>
         </channel>

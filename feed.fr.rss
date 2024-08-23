@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 22 Aug 2024 04:24:20 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 23 Aug 2024 04:25:11 +0200</lastBuildDate>
             <item>
-                <title>Médecine et philosophie 3/5 : Avicenne, figure hors norme</title>
-                <description>Médecine et philosophie 3/5 : Avicenne, figure hors norme
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10467.xml</description>
+                <title>Emission du 30/07/2024</title>
+                <description>De nouvelles fleurs… musicales vont éclore cette semaine dans notre émission ! Nous recevons l’ar...
+Feed: https://kitschetnet.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avicenne-figure-hors-norme-6415458</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/3e09c21d-a17b-4b55-8191-c8bc3ac4542f/10467-21.08.2024-ITEMA_23834046-2024C48904S0087-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avicenne-figure-hors-norme-6415458</guid>
+                <link>https://www.podomatic.com/podcasts/kitschetnet/episodes/2024-08-19T15_16_07-07_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://kitschetnet.podomatic.com/enclosure/2024-08-19T15_16_07-07_00.mp3?_=1724105987.17133944"/>
+                <guid>https://www.podomatic.com/podcasts/kitschetnet/episodes/2024-08-19T15_16_07-07_00</guid>
                 
             </item><item>
-                <title>[Extrait] Nicolas Schmit - Les conditions de la réussite</title>
-                <description>Nicolas Schmit, coache et formateur revient dans cet extrait sur les conditions de la réussite au pilotage de la transition écologique lorsque nous sommes élu.Bonne écoute !ME CONTACTER :Par Linkedin : https://www.linkedin.com/in/paevrard  (https://www...
-Feed: https://feed.ausha.co/DPPkwTkj0vk9</description>
+                <title>[REDIFF] ITW-Tondue de Chartres : “À la Libération, il y a une sévérité particulière envers les femmes” </title>
+                <description> 
+ Dès l&#39;Occupation commence l&#39;épuration qui s’abat sur les collaborationnistes et punit les femmes là où elles ont péché avec l’ennemi : en s’attaquant à leur corps. Parmi ces femmes on retrouve la Tondue de Chartres, immortalisée à la Libération...
+Feed: https://feeds.audiomeans.fr/feed/7c44ef0d-1d1c-4230-9da1-b2e4f839108c.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/idees-terre-le-podcast-des-territoires-qui-osent/extrait-nicolas-schmit-xxxxxxxxxxxx-2</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B11Z3IVGZezj.mp3?t=1718965810"/>
-                <guid>https://podcast.ausha.co/idees-terre-le-podcast-des-territoires-qui-osent/extrait-nicolas-schmit-xxxxxxxxxxxx-2</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/c29c25bf-308e-4f69-873f-0c38ca534345.mp3?_=1722505207&amp;ps=7c44ef0d-1d1c-4230-9da1-b2e4f839108c"/>
+                <guid></guid>
                 
             </item>
         </channel>
