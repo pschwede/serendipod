@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 23 Aug 2024 04:25:16 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 25 Aug 2024 04:24:51 +0200</lastBuildDate>
             <item>
-                <title>Historias del Más Acá 181 - Metanfetaminas benditas</title>
-                <description>Aprovecha la promoción exclusiva de NordVPN y Leyendas Legendarias y obtén 4 meses gratis: https://nordvpn...
-Feed: https://feeds.megaphone.fm/SONORO5207250204</description>
+                <title>Como lo oyes - Black Softly - 02/08/24</title>
+                <description>Black Softly
+Feed: http://api.rtve.es/api/programas/22290/audios.rss</description>
+                
+                
+                <link>https://www.rtve.es/play/audios/como-lo-oyes/black-softly-02-08-24/16206878/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16206878.mp3"/>
+                <guid>https://www.rtve.es/play/audios/como-lo-oyes/black-softly-02-08-24/16206878/</guid>
+                
+            </item><item>
+                <title>La actualidad de Venezuela, ¿Cómo vamos con los pasaportes? y La Luciérnaga desde Cúcuta</title>
+                <description>&lt;p&gt;Escuche el programa de este viernes 23 de agosto. La Luciérnaga, un espacio de humor y opinión de Caracol Radio que desde hace 31 años acompaña a sus oyentes en su regreso casa.&lt;br&gt;&lt;/p&gt;
+Feed: http://fapi-top.prisasd.com/podcast/caracol/la_luciernaga/itunestfp/podcast.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/39325/pdst.fm/e/traffic.megaphone.fm/SONORO4411874480.mp3?updated=1724288363"/>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-co.mc.tritondigital.com/LA_LUCIERNAGA_CARACOL_RADIO_409_P/media/mcv/caracol/multimedia/20240823/4112995_235655_audio_128.mp3"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>La clausura de los Juegos Olímpicos</title>
-                <description>Los Juegos Olímpicos de París 2024 terminaron oficialmente este 11 de agosto. Cómo un homenaje al espíritu olímpico hacemosesta nota de actualidad y así despedimos a un evento que nos llena de emoción cada cuatro años. La siguiente parada es...
-Feed: https://dianauribefm.libsyn.com/rss</description>
-                
-                
-                <link>http://sites.libsyn.com/136379/la-clausura-de-los-juegos-olmpicos</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/La_clausura_de_los_Juegos_Olmpicos.mp3?dest-id=844493"/>
-                <guid>http://sites.libsyn.com/136379/la-clausura-de-los-juegos-olmpicos</guid>
                 
             </item>
         </channel>
