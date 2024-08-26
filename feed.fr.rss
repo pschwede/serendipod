@@ -9,27 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 25 Aug 2024 04:24:45 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 26 Aug 2024 04:25:53 +0200</lastBuildDate>
             <item>
-                <title>London café : Émission du 20 août (rediffusion du 13 août)</title>
-                <description>665-319086
-Feed: http://podcast.cism893.ca/radioshows/665/feed_itunes.xml</description>
+                <title>Marie et les œufs en neige | 6/6</title>
+                <description>&lt;p&gt;&lt;strong&gt;Épisode 6. Lady Gla-Gla &lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Marie a finalement choisi d’aller au bout de la procédure. &lt;/strong&gt;C’est parti pour 15 jours d’hormones, une hyper émotivité de folle, le tout en huis clos avec ses parents, Raoul le voisin qui vient tous les matins boire le café et son petit chien à la langue pendante. Intense. À mesure que la ponction se rapproche, Marie commence à sentir quelque chose, là au fond d’elle. Quelque chose de fort...
+Feed: https://feeds.acast.com/public/shows/157bb756-66a0-4d4e-88f9-6f024403eada</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/319086.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/319086.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/319086.mp3</guid>
+                <link>https://www.binge.audio/podcast/le-coeur-sur-la-table/marie-et-les-oeufs-en-neige</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/binge-coeur-sur-table/e/668fab1fa0179c311c30c2df/media.mp3"/>
+                <guid>https://www.binge.audio/podcast/le-coeur-sur-la-table/marie-et-les-oeufs-en-neige</guid>
                 
             </item><item>
-                <title>La livraison collaborative : une solution économique et plus écologique ? Avec Cédric Tumminello</title>
-                <description>Dans ce nouvel épisode de L&#39;Empreinte, Alice Vachet reçoit Cédric Tumminello fondateur d&#39;Yper, la plateforme proposant un service de livraison du dernier kilomètre, grâce à un système collaboratif. Fondée en 2016, la startup permet l’acheminement des achats depuis des enseignes de la grande distribution, et des commerces de proximité.
-Aussi appelée cotransportage, la livraison collaborative est un service de livraison entre particuliers...
-Feed: https://feeds.megaphone.fm/BABA1421902366</description>
+                <title>CQEP - 169 - La course MotoGP d&#39;Autriche 2024 (AUT)</title>
+                <description>Bonjour à toutes et à tous,
+Olivier, Ophélie et François débriefent le Grand Prix d&#39;Autriche au Redbull Ring.
+Un week-end impérial pour l&#39;italien Pecco Bagnaia, suivi de Martin et Bastianini qui ne lâche rien et une grosse erreur en sprint pour l&#39;espagnol Marc Marquez.
+En Moto3, un David Alonso qui s&#39;impose malgré une remontée stratosphérique d&#39;Ortola et en Moto2 Celestino Vietti vient prendre la plus autre marche du podium en présence du GOAT dans les paddocks ce week-end...
+Feed: https://cqeppod.lepodcast.fr/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA5105339870.mp3?updated=1723632752"/>
-                <guid></guid>
+                <link>https://cqeppod.lepodcast.fr/cqep-169-la-course-motogp-dautriche-2024-aut</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/cqeppod/cqep-169-la-course-motogp-dautriche-2024-aut/enclosure.59d55dc84757d63a9c73d063aed75bb4f6c89ed6283517d4afb51bdae4f4d777.mp3?p=f"/>
+                <guid>https://cqeppod.lepodcast.fr/cqep-169-la-course-motogp-dautriche-2024-aut</guid>
                 
             </item>
         </channel>

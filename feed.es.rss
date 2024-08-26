@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 25 Aug 2024 04:24:51 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 26 Aug 2024 04:25:57 +0200</lastBuildDate>
             <item>
-                <title>Como lo oyes - Black Softly - 02/08/24</title>
-                <description>Black Softly
-Feed: http://api.rtve.es/api/programas/22290/audios.rss</description>
+                <title>Entre probetas - Trastornos de la alimentación</title>
+                <description>Trastornos de la alimentación
+Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/como-lo-oyes/black-softly-02-08-24/16206878/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16206878.mp3"/>
-                <guid>https://www.rtve.es/play/audios/como-lo-oyes/black-softly-02-08-24/16206878/</guid>
+                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-trastornos-alimentacion/16202918/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16202918.mp3"/>
+                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-trastornos-alimentacion/16202918/</guid>
                 
             </item><item>
-                <title>La actualidad de Venezuela, ¿Cómo vamos con los pasaportes? y La Luciérnaga desde Cúcuta</title>
-                <description>&lt;p&gt;Escuche el programa de este viernes 23 de agosto. La Luciérnaga, un espacio de humor y opinión de Caracol Radio que desde hace 31 años acompaña a sus oyentes en su regreso casa.&lt;br&gt;&lt;/p&gt;
-Feed: http://fapi-top.prisasd.com/podcast/caracol/la_luciernaga/itunestfp/podcast.xml</description>
+                <title>Podcast FDC 121: No Soy Un Serial Killer – Capítulo 7</title>
+                <description>Continuamos con la narración de No Soy Un Serial Killer y entramos al séptimo capítulo. La obsesión de John por averiguar la identidad del asesino lo lleva a seguir a dos personajes alejándose del pueblo. Finalmente John obtendrá la revelación que tanto quería... solo para darse cuenta que tal vez no era lo que esperaba.
+Feed: https://fueradelcine.com/feed/podcast/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-co.mc.tritondigital.com/LA_LUCIERNAGA_CARACOL_RADIO_409_P/media/mcv/caracol/multimedia/20240823/4112995_235655_audio_128.mp3"/>
-                <guid></guid>
+                <link>https://fueradelcine.com/podcast-fdc-121-no-soy-un-serial-killer-capitulo-7/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-121-fdc-2024-08-23.mp3"/>
+                <guid>https://fueradelcine.com/podcast-fdc-121-no-soy-un-serial-killer-capitulo-7/</guid>
                 
             </item>
         </channel>

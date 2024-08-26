@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 25 Aug 2024 04:24:40 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 26 Aug 2024 04:25:48 +0200</lastBuildDate>
             <item>
-                <title>Volksbefreiungsarmee, Kameramann, Zahlensymbolik</title>
-                <description>&lt;p&gt;Die Themen:&lt;/p&gt;&lt;p&gt;Krieg und Frieden – Wie stark ist Chinas Armee? Diese Episode begleitet einen Beitrag im Ö1 Morgenjournal vom 20. August 2024.+++ Hinter der Linse – die Arbeit als Kameramann in China +++ Qualen mit den Zahlen – Chinas Zahlensymbolik&lt;/p&gt;
-Feed: https://podcast.orf.at/podcast/oe1/oe1_china/oe1_china.xml</description>
+                <title>Folge 112 - Der Mau-Mau-Krieg</title>
+                <description>Am 20. Oktober 1952 rief der Gouverneur der Kronkolonie Kenia, Sir Evelyn Baring, den Ausnahmezustand aus. Hintergrund waren die Aktivitäten der Mau-Mau, die immer wieder Anschläge auf Farmen europäischer Siedler sowie auf Vertreter der afrikanischen Eliten verübte. Diese reagierten ihrerseits mit Vergeltungsaktionen gegen echte und vermeintliche Rebellen...
+Feed: https://damalsundheute.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://sound.orf.at/podcast/oe1/china-verstehen/volksbefreiungsarmee-kameramann-zahlensymbolik</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/oe1/oe1_china/items/di_oe1_china_clk_2142676e0d3841dba6db92576f7459e2.mp3?etag=ccbd00ef2e05529c6e7dde12bf65f3db"/>
-                <guid>https://sound.orf.at/podcast/oe1/china-verstehen/volksbefreiungsarmee-kameramann-zahlensymbolik</guid>
+                <link>https://damalsundheute.podigee.io/113-mau-mau</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1562536-m-212945c1689f666c655658193476ad5b.mp3?source=feed"/>
+                <guid>https://damalsundheute.podigee.io/113-mau-mau</guid>
                 
             </item><item>
-                <title>&#34;Humoristen sind deprimierte Leute&#34; - Ephraim Kishon zum 100. Geburtstag</title>
-                <description> Bei der Kellen, Ralf www.deutschlandfunkkultur.de, Aus den Archiven 
-Feed: https://www.deutschlandfunkkultur.de/podcast-aus-den-archiven-100.xml</description>
+                <title>Ilko-Sascha Kowalczuk über den &#34;Freiheitsschock&#34; der Ostdeutschen nach 1989/90</title>
+                <description>Viele im Osten haben ein Problem mit der &#34;Freiheit&#34;, erklärt der Buchautor und (Ost-)Berliner Historiker Ilko-Sascha Kowalczuk und warnt, die Freiheit, wie sie 89/90 erkämpft wurde, zu verraten. Gespräch mit Stefan Nölke
+Feed: https://www.mdr.de/kultur/podcast/diskurs/diskurs-podcast-100-podcast.xml</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/humoristen-sind-deprimierte-leute-ephraim-kishon-zum-100-geburtstag-dlf-kultur-18acf6e8-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/08/24/humoristen_sind_deprimierte_leute_ephraim_kishon_zum_100_drk_20240824_0505_18acf6e8.mp3?refId=podcast-aus-den-archiven-100"/>
-                <guid>https://www.deutschlandfunkkultur.de/humoristen-sind-deprimierte-leute-ephraim-kishon-zum-100-geburtstag-dlf-kultur-18acf6e8-100.html</guid>
+                <link>https://www.mdr.de/kultur/podcast/diskurs/diskurs-ilko-sascha-kowalczuk-freiheitsschock-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/0/digas-0cf0643e-377e-4fb4-92d8-f8368834141c-0a15de5e5053_0c.mp3"/>
+                <guid>https://www.mdr.de/kultur/podcast/diskurs/diskurs-ilko-sascha-kowalczuk-freiheitsschock-100.html</guid>
                 
             </item>
         </channel>
