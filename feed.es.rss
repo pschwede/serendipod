@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 26 Aug 2024 04:25:57 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 27 Aug 2024 04:27:36 +0200</lastBuildDate>
             <item>
-                <title>Entre probetas - Trastornos de la alimentación</title>
-                <description>Trastornos de la alimentación
-Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
+                <title>Subterranea Rarities 7x12 Jadis y Supertramp - Episodio exclusivo para mecenas</title>
+                <description>Agradece a este podcast tantas horas de entretenimiento y disfruta de episodios exclusivos como éste. ¡Apóyale en iVoox! Subterranea Rarities veraniego y refrescante, con Abel Fuentes y David Pintos.
+Abel Fuentes, autor de «Huellas de Vagabundo», libro de referencia sobre la historia de Supertramp, nos hablará de otras dos exquisitas rarezas de la banda londinense con motivo del ochenta cumpleaños de su fundador, Rick Davies, y de los setenta y cinco años de la formación...
+Feed: https://www.ivoox.com/feed_fg_f117710_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-trastornos-alimentacion/16202918/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16202918.mp3"/>
-                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-trastornos-alimentacion/16202918/</guid>
+                <link>http://www.ivoox.com/subterranea-rarities-7x12-jadis-supertramp-audios-mp3_rf_132715970_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/subterranea-rarities-7x12-jadis-supertramp_mf_132715970_feed_1.mp3?d=1723444126"/>
+                <guid>http://www.ivoox.com/subterranea-rarities-7x12-jadis-supertramp-audios-mp3_rf_132715970_1.html</guid>
                 
             </item><item>
-                <title>Podcast FDC 121: No Soy Un Serial Killer – Capítulo 7</title>
-                <description>Continuamos con la narración de No Soy Un Serial Killer y entramos al séptimo capítulo. La obsesión de John por averiguar la identidad del asesino lo lleva a seguir a dos personajes alejándose del pueblo. Finalmente John obtendrá la revelación que tanto quería... solo para darse cuenta que tal vez no era lo que esperaba.
-Feed: https://fueradelcine.com/feed/podcast/</description>
+                <title>El colegio invisible 27/08/2024</title>
+                <description>Escucha &#39;El Colegio invisible&#39;, el programa de misterio con Lorenzo Fernández Bueno y Laura Falcó en Onda Cero. 
+Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
                 
                 
-                <link>https://fueradelcine.com/podcast-fdc-121-no-soy-un-serial-killer-capitulo-7/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-121-fdc-2024-08-23.mp3"/>
-                <guid>https://fueradelcine.com/podcast-fdc-121-no-soy-un-serial-killer-capitulo-7/</guid>
+                <link>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-27082024_2024082766cd26c61dd440000174c998.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.ondacero.es/mp_audios4//2024/08/27/F6229B67-CD48-4DAC-B696-25199BEDC67E/F6229B67-CD48-4DAC-B696-25199BEDC67E.mp3"/>
+                <guid>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-27082024_2024082766cd26c61dd440000174c998.html</guid>
                 
             </item>
         </channel>

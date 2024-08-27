@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 26 Aug 2024 04:25:48 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 27 Aug 2024 04:27:26 +0200</lastBuildDate>
             <item>
-                <title>Folge 112 - Der Mau-Mau-Krieg</title>
-                <description>Am 20. Oktober 1952 rief der Gouverneur der Kronkolonie Kenia, Sir Evelyn Baring, den Ausnahmezustand aus. Hintergrund waren die Aktivitäten der Mau-Mau, die immer wieder Anschläge auf Farmen europäischer Siedler sowie auf Vertreter der afrikanischen Eliten verübte. Diese reagierten ihrerseits mit Vergeltungsaktionen gegen echte und vermeintliche Rebellen...
-Feed: https://damalsundheute.podigee.io/feed/mp3</description>
+                <title>Monsieur Croc – Der Geiger Guy Braunstein</title>
+                <description>13 Jahre prägte Guy Braunstein als erster Konzertmeister den Klang der Berliner Philharmoniker mit, bevor er 2013 den mutigen Schritt in die Selbständigkeit wagte. Seitdem konzertiert er weltweit als freier Solist und Kammermusiker. Im Gespräch mit Kai Luehrs-Kaiser erzählt der israelische Musiker von seiner Abneigung gegen Ranglisten in der Musik, der Entstehung seines Violinkonzerts „Abbey Road“ und seiner Vorliebe für Crocs.
+      
+Feed: https://letscast.fm/podcasts/notenkoepfe-89f496a5/feed</description>
                 
                 
-                <link>https://damalsundheute.podigee.io/113-mau-mau</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1562536-m-212945c1689f666c655658193476ad5b.mp3?source=feed"/>
-                <guid>https://damalsundheute.podigee.io/113-mau-mau</guid>
+                <link>https://www.rondomagazin.de</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/81730be2/episode/ba6a898e.mp3?t=1724406320"/>
+                <guid>https://www.rondomagazin.de</guid>
                 
             </item><item>
-                <title>Ilko-Sascha Kowalczuk über den &#34;Freiheitsschock&#34; der Ostdeutschen nach 1989/90</title>
-                <description>Viele im Osten haben ein Problem mit der &#34;Freiheit&#34;, erklärt der Buchautor und (Ost-)Berliner Historiker Ilko-Sascha Kowalczuk und warnt, die Freiheit, wie sie 89/90 erkämpft wurde, zu verraten. Gespräch mit Stefan Nölke
-Feed: https://www.mdr.de/kultur/podcast/diskurs/diskurs-podcast-100-podcast.xml</description>
+                <title>25.08.2024-Radio Polonia</title>
+                <description>&lt;p&gt;Ostatnia letnia audycja pod haslem niedziela pelna smaku z telefonami od sluchaczy i muzyka lekka latwa i przyjemna poprowadzona przez Janusza.&lt;/p&gt;
+
+Feed: https://cba.media/station/radio-fro/feed</description>
                 
                 
-                <link>https://www.mdr.de/kultur/podcast/diskurs/diskurs-ilko-sascha-kowalczuk-freiheitsschock-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/0/digas-0cf0643e-377e-4fb4-92d8-f8368834141c-0a15de5e5053_0c.mp3"/>
-                <guid>https://www.mdr.de/kultur/podcast/diskurs/diskurs-ilko-sascha-kowalczuk-freiheitsschock-100.html</guid>
+                <link>https://cba.media/674097</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/9/4/0000673949/2024.08.25-1400.10-1500.00-polonia.mp3"/>
+                <guid>https://cba.media/674097</guid>
                 
             </item>
         </channel>
