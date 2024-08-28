@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 27 Aug 2024 04:27:26 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 28 Aug 2024 04:25:34 +0200</lastBuildDate>
             <item>
-                <title>Monsieur Croc – Der Geiger Guy Braunstein</title>
-                <description>13 Jahre prägte Guy Braunstein als erster Konzertmeister den Klang der Berliner Philharmoniker mit, bevor er 2013 den mutigen Schritt in die Selbständigkeit wagte. Seitdem konzertiert er weltweit als freier Solist und Kammermusiker. Im Gespräch mit Kai Luehrs-Kaiser erzählt der israelische Musiker von seiner Abneigung gegen Ranglisten in der Musik, der Entstehung seines Violinkonzerts „Abbey Road“ und seiner Vorliebe für Crocs.
-      
-Feed: https://letscast.fm/podcasts/notenkoepfe-89f496a5/feed</description>
+                <title>27. August - 17.30 Uhr</title>
+                <description>&lt;p&gt;mit Fanny Sedlnitzky. Dieser Podcast begleitet die Sendung &#34;Radio Steiermark Ferienzeit&#34;, Radio Steiermark, 27.8.2024.&lt;/p&gt;
+Feed: https://podcast.orf.at/podcast/stm/stm_journale/stm_journale.xml</description>
                 
                 
-                <link>https://www.rondomagazin.de</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/81730be2/episode/ba6a898e.mp3?t=1724406320"/>
-                <guid>https://www.rondomagazin.de</guid>
+                <link>https://sound.orf.at/podcast/stm/die-radio-steiermark-journale/27-august---1730-uhr</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/stm/stm_journale/items/di_stm_journale_clk00010089_255775fd87804f91918efe1276ebcdd1.mp3?etag=aef044df317398a4d20e444f071b0cc8"/>
+                <guid>https://sound.orf.at/podcast/stm/die-radio-steiermark-journale/27-august---1730-uhr</guid>
                 
             </item><item>
-                <title>25.08.2024-Radio Polonia</title>
-                <description>&lt;p&gt;Ostatnia letnia audycja pod haslem niedziela pelna smaku z telefonami od sluchaczy i muzyka lekka latwa i przyjemna poprowadzona przez Janusza.&lt;/p&gt;
-
-Feed: https://cba.media/station/radio-fro/feed</description>
+                <title>World Cup-Spezial-Podcast #5 mit Markus Pekoll: Les Gets-Wahnsinn im Rückblick</title>
+                <description>Les Gets gilt mittlerweile als Highlight der Downhill World Cup-Saison. Das war auch in diesem Jahr keine Ausnahme: Wetterkapriolen zum Finale verwandelten die schnelle Strecke in eine kaum fahrbare Rutschbahn. Redakteur und Fotograf Gregor hat sich mit Ex-Racer Markus Pekoll zusammengesetzt, um das unfassbare Rennen Revue passieren zu lassen.
+Feed: https://www.mtb-news.de/feed/mp3/</description>
                 
                 
-                <link>https://cba.media/674097</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/9/4/0000673949/2024.08.25-1400.10-1500.00-polonia.mp3"/>
-                <guid>https://cba.media/674097</guid>
+                <link>https://www.mtb-news.de/news/world-cup-spezial-podcast-4-mit-markus-pekoll-les-gets/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.mtb-news.de/podlove/file/1797/s/feed/c/mp3/MTB143.mp3"/>
+                <guid>https://www.mtb-news.de/news/world-cup-spezial-podcast-4-mit-markus-pekoll-les-gets/</guid>
                 
             </item>
         </channel>
