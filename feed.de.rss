@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 28 Aug 2024 04:25:34 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 29 Aug 2024 04:25:18 +0200</lastBuildDate>
             <item>
-                <title>27. August - 17.30 Uhr</title>
-                <description>&lt;p&gt;mit Fanny Sedlnitzky. Dieser Podcast begleitet die Sendung &#34;Radio Steiermark Ferienzeit&#34;, Radio Steiermark, 27.8.2024.&lt;/p&gt;
-Feed: https://podcast.orf.at/podcast/stm/stm_journale/stm_journale.xml</description>
+                <title>Hochzeitspannen</title>
+                <description>Hochzeitspannen
+Feed: https://uncle-bobcast.com/feed</description>
                 
                 
-                <link>https://sound.orf.at/podcast/stm/die-radio-steiermark-journale/27-august---1730-uhr</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/stm/stm_journale/items/di_stm_journale_clk00010089_255775fd87804f91918efe1276ebcdd1.mp3?etag=aef044df317398a4d20e444f071b0cc8"/>
-                <guid>https://sound.orf.at/podcast/stm/die-radio-steiermark-journale/27-august---1730-uhr</guid>
+                <link>https://uncle-bobcast.com/blog/2024/08/23/hochzeitspannen</link>
+                <enclosure type="audio/mpeg" length="1" url="https://uncle-bobcast.com/podlove/file/649/s/feed/c/ubc/episode-307-hochzeitspannen.mp3"/>
+                <guid>https://uncle-bobcast.com/blog/2024/08/23/hochzeitspannen</guid>
                 
             </item><item>
-                <title>World Cup-Spezial-Podcast #5 mit Markus Pekoll: Les Gets-Wahnsinn im Rückblick</title>
-                <description>Les Gets gilt mittlerweile als Highlight der Downhill World Cup-Saison. Das war auch in diesem Jahr keine Ausnahme: Wetterkapriolen zum Finale verwandelten die schnelle Strecke in eine kaum fahrbare Rutschbahn. Redakteur und Fotograf Gregor hat sich mit Ex-Racer Markus Pekoll zusammengesetzt, um das unfassbare Rennen Revue passieren zu lassen.
-Feed: https://www.mtb-news.de/feed/mp3/</description>
+                <title>Der Zauber von Narnia</title>
+                <description>Ref.: Dr. Norbert Feinendegen
+Feed: http://www.horeb.org/xyz/podcast/kurs0/kurs0.xml</description>
                 
                 
-                <link>https://www.mtb-news.de/news/world-cup-spezial-podcast-4-mit-markus-pekoll-les-gets/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.mtb-news.de/podlove/file/1797/s/feed/c/mp3/MTB143.mp3"/>
-                <guid>https://www.mtb-news.de/news/world-cup-spezial-podcast-4-mit-markus-pekoll-les-gets/</guid>
+                <link>https://www.horeb.org/xyz/podcast/kurs0/20240824kurs0.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.horeb.org/xyz/podcast/kurs0/20240824kurs0.mp3"/>
+                <guid>https://www.horeb.org/xyz/podcast/kurs0/20240824kurs0.mp3</guid>
                 
             </item>
         </channel>
