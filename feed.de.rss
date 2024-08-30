@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 29 Aug 2024 04:25:18 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 30 Aug 2024 04:25:51 +0200</lastBuildDate>
             <item>
-                <title>Hochzeitspannen</title>
-                <description>Hochzeitspannen
-Feed: https://uncle-bobcast.com/feed</description>
+                <title>Können wir nicht mehr streiten? Können wir nicht mehr gönnen? Wohin soll das führen? Komische Fragen an Sebastian Haak.</title>
+                <description>Seit 2019 gibt es keine klassische Mehrheitskoalition im Thüringer Landtag mehr. Rot-Rot-Grün hat sich stattdessen auf das Experiment einer Minderheitskoalition eingelassen, die eine Minderheitsregierung trägt. Für die neue Legislaturperiode hoffen
+Feed: https://www.freie-radios.net/portal/podcast.php?radio=40&amp;rss</description>
                 
                 
-                <link>https://uncle-bobcast.com/blog/2024/08/23/hochzeitspannen</link>
-                <enclosure type="audio/mpeg" length="1" url="https://uncle-bobcast.com/podlove/file/649/s/feed/c/ubc/episode-307-hochzeitspannen.mp3"/>
-                <guid>https://uncle-bobcast.com/blog/2024/08/23/hochzeitspannen</guid>
+                <link>http://www.freie-radios.net/130320</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.freie-radios.net/mp3/20240820-knnenwirnich-130320.mp3"/>
+                <guid>http://www.freie-radios.net/130320</guid>
                 
             </item><item>
-                <title>Der Zauber von Narnia</title>
-                <description>Ref.: Dr. Norbert Feinendegen
-Feed: http://www.horeb.org/xyz/podcast/kurs0/kurs0.xml</description>
+                <title>#172 | filmArche: Filmausbildung einmal anders | Mit Vera Paulmann, Simon Brückner und Josephine Kuthning</title>
+                <description>In unserer heutigen Folge geht es um die alternative Filmausbildung.
+Feed: https://indiefilmtalk-podcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.horeb.org/xyz/podcast/kurs0/20240824kurs0.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.horeb.org/xyz/podcast/kurs0/20240824kurs0.mp3"/>
-                <guid>https://www.horeb.org/xyz/podcast/kurs0/20240824kurs0.mp3</guid>
+                <link>https://indiefilmtalk-podcast.podigee.io/234-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1575995-m-4cd87b2354da5902129bbfe3714553a6.mp3?source=feed"/>
+                <guid>https://indiefilmtalk-podcast.podigee.io/234-neue-episode</guid>
                 
             </item>
         </channel>
