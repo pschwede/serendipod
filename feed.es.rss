@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 30 Aug 2024 04:26:01 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 31 Aug 2024 04:26:20 +0200</lastBuildDate>
             <item>
-                <title>HistoCast 299 - Teutoburgo</title>
-                <description>dfsdf                                                                                                                                                                                                                                                                                                                     dsfd
-Feed: https://www.ivoox.com/podcast-histocast_fg_f132047_filtro_1.xml</description>
+                <title>Peligrosamente juntos - Joe Jackson - 04/08/24</title>
+                <description>Joe Jackson
+Feed: http://api.rtve.es/api/programas/2066/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/histocast-299-teutoburgo-audios-mp3_rf_130984664_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/histocast-299-teutoburgo_mf_130984664_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/histocast-299-teutoburgo-audios-mp3_rf_130984664_1.html</guid>
+                <link>https://www.rtve.es/play/audios/peligrosamente-juntos/joe-jackson-04-08-24/16207883/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16207883.mp3"/>
+                <guid>https://www.rtve.es/play/audios/peligrosamente-juntos/joe-jackson-04-08-24/16207883/</guid>
                 
             </item><item>
-                <title>Especial verano con Joe Lastie I Con el Jazz hemos topado</title>
-                <description>Con Carlos López I Joe Lastie, baterista durante más de tres décadas de la Preservation Hall Jazz Band estuvo el pasado mes de julio de gira por nuestro país. De la mano del cantante y banjoísta Carlos Childe recorrió una serie de salas dejando en ellas presente el ritmo y la esencia de su ciudad natal: Nueva Orleans...
-Feed: https://www.ivoox.com/podcast-podcast-clasica-fm_fg_f1135497_filtro_1.xml</description>
+                <title>Gente despierta - Sagas de vampiros con Mercedes Fisteus</title>
+                <description>Sagas de vampiros con Mercedes Fisteus
+Feed: http://www.rtve.es/api/programas/68092/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/especial-verano-joe-lastie-i-con-el-audios-mp3_rf_132916540_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/especial-verano-joe-lastie-i-con-el_mf_132916540_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/especial-verano-joe-lastie-i-con-el-audios-mp3_rf_132916540_1.html</guid>
+                <link>https://www.rtve.es/play/audios/gente-despierta/gente-despierta-sagas-vampiros-mercedes-fisteus/16228871/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16228871.mp3"/>
+                <guid>https://www.rtve.es/play/audios/gente-despierta/gente-despierta-sagas-vampiros-mercedes-fisteus/16228871/</guid>
                 
             </item>
         </channel>
