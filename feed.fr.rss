@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 31 Aug 2024 04:26:15 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 01 Sep 2024 04:26:18 +0200</lastBuildDate>
             <item>
-                <title>Le Wake-up mix du vendredi 30 août 2024</title>
-                <description>durée : 00:10:57 - Le Wake-up mix 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14243.xml</description>
+                <title>Cold case : le deuil sans fin des familles</title>
+                <description>On les appelle les cold case, des crimes non résolus. Si les progrès des analyses scientifiques permettent d’en résoudre un plus grand nombre en Suisse, cela n’empêche pas certains crimes d’être frappés de prescription au bout de 30 ans, mettant fin aux …
+Feed: https://www.rts.ch/emissions/temps-present/podcasts/?format=rss/podcast</description>
                 
                 
-                <link>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-vendredi-30-aout-2024-3809178</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/98dfb2d7-49ed-4a9d-bce9-5cc29c91a6b8/14243-30.08.2024-ITEMA_23844127-2024J23372S0243-21.mp3"/>
-                <guid>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-vendredi-30-aout-2024-3809178</guid>
+                <link>https://www.rts.ch/emissions/temps-present/2024/video/cold-case-le-deuil-sans-fin-des-familles-28613548.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/15125989/b1e381ec-1039-3f59-b92d-a11ae6566795.mp4"/>
+                <guid>https://www.rts.ch/emissions/temps-present/2024/video/cold-case-le-deuil-sans-fin-des-familles-28613548.html</guid>
                 
             </item><item>
-                <title>CRIMES SOLAIRES - 3. Meurtre de l&#39;île des Pins : en Nouvelle-Calédonie, les mystères du rocher de l&#39;enfer</title>
-                <description>Direction La Nouvelle-Calédonie. Ce coin de France a été, au mois de mai 2002, le théâtre du meurtre mystérieux de l&#39;île des Pins. Une destination magique et surnommée par les Japonais, qui la visitent en masse chaque année, l&#39;île la plus proche du paradis. 
-Cette...
-Feed: https://feeds.audiomeans.fr/feed/ff5d679f-7715-44f3-840a-08858189e727.xml</description>
+                <title> [TRAVEL GUIDE] Maison Glaz sur la presqu’île de Gavres</title>
+                <description>Vous écoutez le premier Travel Guide Podcast !
+ 
+Je déniche, teste et sélectionne rencontres après rencontres, expériences après expériences, les endroits qui me touchent le plus, qui nous proposent un véritable ART DE VIVRE et qui sont dans la fourchette «...
+Feed: https://feeds.audiomeans.fr/feed/02370dad-ef66-4252-9a2b-e3661bd93b5f.xml</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/les-voix-du-crime</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/b4c74a75-b827-4074-9270-169a687e4577.mp3?_=1717409584"/>
-                <guid>https://www.rtl.fr/programmes/les-voix-du-crime</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/4c7ef807-c731-4dfc-8c3f-2df08c54e538.mp3?_=1724770880"/>
+                <guid></guid>
                 
             </item>
         </channel>

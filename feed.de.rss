@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 31 Aug 2024 04:26:09 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 01 Sep 2024 04:26:14 +0200</lastBuildDate>
             <item>
-                <title>Erst Hoffnung, dann Ki(r)mes</title>
-                <description>Die Frauen des FC Bayern München holen den Supercup, die Männer den Auftaktsieg in der Bundesliga.
-Feed: https://miasanrot.podigee.io/feed/mp3</description>
+                <title>ESC 2024 - Finale - Rückblick auf der Förde</title>
+                <description>In dieser Episode blicken Daniela und Christoph endlich zurück auf das Finale des ESC 2024. Dazu begeben sich die beiden auf einen der neuesten Fördedampfer, die gar nicht mehr dampfen. Dazu kommen noch zwei ganz kleine Meldungen zum Junior ESC 2024
+Feed: https://escschnack.de/feed/episoden/</description>
                 
                 
-                <link>https://miasanrot.podigee.io/349-erst-hoffnung-dann-kirmes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1577051-m-1abdbd07d9659d60e0181e3a591d7aca.mp3?source=feed"/>
-                <guid>https://miasanrot.podigee.io/349-erst-hoffnung-dann-kirmes</guid>
+                <link>https://escschnack.de/esc-2024-finale-rueckblick-auf-der-foerde/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://escschnack.de/podlove/file/1422/s/feed/c/episoden/esc-2024-finale-rueckblick-auf-der-foerde.mp3"/>
+                <guid>https://escschnack.de/esc-2024-finale-rueckblick-auf-der-foerde/</guid>
                 
             </item><item>
-                <title>#128 - Der Tunnelknipser</title>
-                <description>&lt;p&gt;Braun gebrannt und kein bisschen gescheiter melden wir uns endlich zurück aus der Sommerpause! Als Urlaubsmitbringsel haben wir Tipps für euch, wie ihr am schnellsten Follower verliert, wie ihr euer Fotobusiness auf dem Dorf richtig in Schwung bringt und wie ihr extrem effizient erfolgreiche Reels und Stories produzieren könnt. Aber seid gewarnt: Die Wahrheit wird euch nicht gefallen. Viel Spaß!
-&lt;/p&gt;
-&lt;p&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Kontrastraum Feedback &amp;amp; Anregungen (google...
-Feed: https://anchor.fm/s/5d666eb4/podcast/rss</description>
+                <title>Wie der Lkw-Verkehr grün werden kann</title>
+                <description>Noch vor 20 Jahren galten elektrische Lkw als Utopie. Doch was einst unmöglich schien, kann heute gelingen. Das beweisen die jüngsten Prototypen - Sattelschlepper mit E-Antrieb, die auch große Lasten bewegen können.
+Feed: https://www.mdr.de/nachrichten/podcast/beste/audiogalerie146-podcast.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/kontrastraum/episodes/128---Der-Tunnelknipser-e2nl246</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/5d666eb4/podcast/play/90916422/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-26%2F864e752c-79b6-9709-85e0-ed3ae45ff7da.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/kontrastraum/episodes/128---Der-Tunnelknipser-e2nl246</guid>
+                <link>https://www.mdr.de/nachrichten/podcast/beste/audio-lkw-elektrischer-antrieb-oeko-verkehr-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/e/digas-ee676744-de4c-4eb4-baf2-9111b1fcfd79-0a15de5e5053_ee.mp3"/>
+                <guid>https://www.mdr.de/nachrichten/podcast/beste/audio-lkw-elektrischer-antrieb-oeko-verkehr-100.html</guid>
                 
             </item>
         </channel>
