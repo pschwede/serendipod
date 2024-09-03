@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 01 Sep 2024 04:26:18 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 03 Sep 2024 04:25:33 +0200</lastBuildDate>
             <item>
-                <title>Cold case : le deuil sans fin des familles</title>
-                <description>On les appelle les cold case, des crimes non résolus. Si les progrès des analyses scientifiques permettent d’en résoudre un plus grand nombre en Suisse, cela n’empêche pas certains crimes d’être frappés de prescription au bout de 30 ans, mettant fin aux …
-Feed: https://www.rts.ch/emissions/temps-present/podcasts/?format=rss/podcast</description>
+                <title>Pourquoi a-t-on besoin de jouer ?</title>
+                <description>Pourquoi a-t-on besoin de jouer ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10467.xml</description>
                 
                 
-                <link>https://www.rts.ch/emissions/temps-present/2024/video/cold-case-le-deuil-sans-fin-des-familles-28613548.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/15125989/b1e381ec-1039-3f59-b92d-a11ae6566795.mp4"/>
-                <guid>https://www.rts.ch/emissions/temps-present/2024/video/cold-case-le-deuil-sans-fin-des-familles-28613548.html</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-a-t-on-besoin-de-jouer-2971456</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/6422d341-fa5f-4a16-ad74-226cee32e7d2/10467-02.09.2024-ITEMA_23846590-2024C45539E0101-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-a-t-on-besoin-de-jouer-2971456</guid>
                 
             </item><item>
-                <title> [TRAVEL GUIDE] Maison Glaz sur la presqu’île de Gavres</title>
-                <description>Vous écoutez le premier Travel Guide Podcast !
- 
-Je déniche, teste et sélectionne rencontres après rencontres, expériences après expériences, les endroits qui me touchent le plus, qui nous proposent un véritable ART DE VIVRE et qui sont dans la fourchette «...
-Feed: https://feeds.audiomeans.fr/feed/02370dad-ef66-4252-9a2b-e3661bd93b5f.xml</description>
+                <title>En direct du livre sur les quais</title>
+                <description>Jonas Schneiter est entouré pour cette émission de Michel Audétat, Stephan Davidshofer, Stéphanie Mérillat et de l&#39;humoriste Benjamin Décosterd. L&#39;équipe débat de la presse romande, de lʹalliance entre Elon Musk et Donald Trump, et du retour du nucléaire…
+Feed: https://www.rts.ch/la-1ere/programmes/les-beaux-parleurs/podcast/?flux=rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/4c7ef807-c731-4dfc-8c3f-2df08c54e538.mp3?_=1724770880"/>
-                <guid></guid>
+                <link>https://www.rts.ch/audio-podcast/2024/audio/en-direct-du-livre-sur-les-quais-28616341.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/15101965/9d32f0d3-0128-372e-baf0-935ec5b70d03.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2024/audio/en-direct-du-livre-sur-les-quais-28616341.html</guid>
                 
             </item>
         </channel>
