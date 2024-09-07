@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 03 Sep 2024 04:25:33 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 07 Sep 2024 04:25:17 +0200</lastBuildDate>
             <item>
-                <title>Pourquoi a-t-on besoin de jouer ?</title>
-                <description>Pourquoi a-t-on besoin de jouer ?
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10467.xml</description>
+                <title>Chemins d&#39;histoire-Réflexions sur l&#39;orientalisme, avec trois historiens-26.07.24</title>
+                <description>Cent quatre-vingt-quinzième numéro de Chemins d&#39;h…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:73343895/sounds.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-a-t-on-besoin-de-jouer-2971456</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/6422d341-fa5f-4a16-ad74-226cee32e7d2/10467-02.09.2024-ITEMA_23846590-2024C45539E0101-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-a-t-on-besoin-de-jouer-2971456</guid>
+                <link>https://soundcloud.com/luc-daireaux/chemins-dhistoire-reflexions-sur-lorientalisme-avec-trois-historiens-260724</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1881584187-luc-daireaux-chemins-dhistoire-reflexions-sur-lorientalisme-avec-trois-historiens-260724.mp3"/>
+                <guid>https://soundcloud.com/luc-daireaux/chemins-dhistoire-reflexions-sur-lorientalisme-avec-trois-historiens-260724</guid>
                 
             </item><item>
-                <title>En direct du livre sur les quais</title>
-                <description>Jonas Schneiter est entouré pour cette émission de Michel Audétat, Stephan Davidshofer, Stéphanie Mérillat et de l&#39;humoriste Benjamin Décosterd. L&#39;équipe débat de la presse romande, de lʹalliance entre Elon Musk et Donald Trump, et du retour du nucléaire…
-Feed: https://www.rts.ch/la-1ere/programmes/les-beaux-parleurs/podcast/?flux=rss</description>
+                <title>S04E01 Idées fausses : Demandez le programme !</title>
+                <description>
+????Le contenu de ces émissions est tiré du livre &#34;En finir avec les idées fausses sur le Vivant&#34; de Marc Mortelmans (Éditions de l&#39;atelier 2024)
+❌C&#39;est peu de dire que le Vivant, les espèces, les lois et les cycles de base des milieux, de l&#39;océan, d...
+Feed: https://feed.ausha.co/oR3M1sX0ZX48</description>
                 
                 
-                <link>https://www.rts.ch/audio-podcast/2024/audio/en-direct-du-livre-sur-les-quais-28616341.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/15101965/9d32f0d3-0128-372e-baf0-935ec5b70d03.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2024/audio/en-direct-du-livre-sur-les-quais-28616341.html</guid>
+                <link>https://podcast.ausha.co/combats/s04e01-idees-fausses-demandez-le-programme</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/odK1kFaM7mgN.mp3?t=1725213640"/>
+                <guid>https://podcast.ausha.co/combats/s04e01-idees-fausses-demandez-le-programme</guid>
                 
             </item>
         </channel>

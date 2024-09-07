@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 03 Sep 2024 04:25:38 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 07 Sep 2024 04:25:20 +0200</lastBuildDate>
             <item>
-                <title>Sapiens - La historia más fascinante del mundo. Con Odile Rodríguez de la Fuente - 20/07/24</title>
-                <description>La historia más fascinante del mundo. Con Odile Rodríguez de la Fuente
-Feed: http://www.rtve.es/api/programas/128073/audios.rss</description>
+                <title>SER Historia | Mesopotamia</title>
+                <description>&lt;p&gt;Hace uso meses tuvimos la viajar por primera vez a Mesopotamia. Es uno de los enclaves más maravillosos del planeta con una historia que nos hace viajar a los orígenes del ser humano. En este último programa de la XV temporada de SER Historia, hablaremos del mundo asirio, persa, la religión de los antiguos sumerios y de un montón de aspectos culturales y arqueológicos sorprendentes del llamado Creciente Fértil&lt;br&gt;&lt;/p&gt;
+Feed: https://fapi-top.prisasd.com/podcast/playser/ser_historia/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sapiens/historia-mas-fascinante-del-mundo-odile-rodriguez-fuente-20-07-24/16192682/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16192682.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sapiens/historia-mas-fascinante-del-mundo-odile-rodriguez-fuente-20-07-24/16192682/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/SER_HISTORIA_SER_PODCAST_355_P/media/playser/audio/20247/18/4077766.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Humor para la salud mental  - El Expresso de las 10 - Lu. 19 Agosto 2024</title>
-                <description>https://podcastudg.com/ExpressoDeLas10/2024/Agosto/ElExpresso20240819.mp3
-Feed: https://udgtv.com/podcast/guadalajara/el-expresso-de-las-1000/feed/457</description>
+                <title>Gabriel García Márquez</title>
+                <description>Gabo y Macondo Buenas, nuestro tercer capítulo de la serie sobre los universos del arte latinoamericano es muy especial para nosotros. Hablamos del genio irrepetible de Gabriel García Márquez y de ese Macondo que nos convirtió en territorio de lo...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link>https://udgtv.com/podcast/guadalajara/el-expresso-de-las-10/humor-para-la-salud-mental---el-expresso-de-las-10/236040</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/ExpressoDeLas10/2024/Agosto/ElExpresso20240819.mp3"/>
-                <guid>https://udgtv.com/podcast/guadalajara/el-expresso-de-las-10/humor-para-la-salud-mental---el-expresso-de-las-10/236040</guid>
+                <link>http://sites.libsyn.com/136379/gabriel-garca-mrquez</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Gabo_y_Macondo.mp3?dest-id=844493"/>
+                <guid>http://sites.libsyn.com/136379/gabriel-garca-mrquez</guid>
                 
             </item>
         </channel>
