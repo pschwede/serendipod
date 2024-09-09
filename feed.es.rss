@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 07 Sep 2024 04:25:20 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 09 Sep 2024 04:25:48 +0200</lastBuildDate>
             <item>
-                <title>SER Historia | Mesopotamia</title>
-                <description>&lt;p&gt;Hace uso meses tuvimos la viajar por primera vez a Mesopotamia. Es uno de los enclaves más maravillosos del planeta con una historia que nos hace viajar a los orígenes del ser humano. En este último programa de la XV temporada de SER Historia, hablaremos del mundo asirio, persa, la religión de los antiguos sumerios y de un montón de aspectos culturales y arqueológicos sorprendentes del llamado Creciente Fértil&lt;br&gt;&lt;/p&gt;
-Feed: https://fapi-top.prisasd.com/podcast/playser/ser_historia/itunestfp/podcast.xml</description>
+                <title>Respuestas de la Ciencia -  ¿Qué es el Efecto Pigmalión? - 03/09/24</title>
+                <description>¿Qué es el Efecto Pigmalión?
+Feed: http://www.rtve.es/api/programas/50191/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/SER_HISTORIA_SER_PODCAST_355_P/media/playser/audio/20247/18/4077766.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-efecto-pigmalion-03-09-24/16234582/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16234582.mp3"/>
+                <guid>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-efecto-pigmalion-03-09-24/16234582/</guid>
                 
             </item><item>
-                <title>Gabriel García Márquez</title>
-                <description>Gabo y Macondo Buenas, nuestro tercer capítulo de la serie sobre los universos del arte latinoamericano es muy especial para nosotros. Hablamos del genio irrepetible de Gabriel García Márquez y de ese Macondo que nos convirtió en territorio de lo...
-Feed: https://dianauribefm.libsyn.com/rss</description>
+                <title>Flor de lys, simbología y ocultismo</title>
+                <description>La flor de lis simboliza el equilibrio entre dos polaridades mediante un p&amp;eacute;talo central elevado, dos que forman uno, reflejando la armon&amp;iacute;a y el equilibrio esenciales que surgen del dominio de las energ&amp;iacute;as polares en la naturaleza y en el propio ser.
+REDES: https://linktr.ee/sol_ahimsa
+Feed: https://www.ivoox.com/de/depodcast-sol-ahimsa_fg_f1407362_filtro_1.xml</description>
                 
                 
-                <link>http://sites.libsyn.com/136379/gabriel-garca-mrquez</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dianauribefm/Gabo_y_Macondo.mp3?dest-id=844493"/>
-                <guid>http://sites.libsyn.com/136379/gabriel-garca-mrquez</guid>
+                <link>https://www.ivoox.com/flor-lys-simbologia-ocultismo-audios-mp3_rf_133535965_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/flor-lys-simbologia-ocultismo_mf_133535965_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/flor-lys-simbologia-ocultismo-audios-mp3_rf_133535965_1.html</guid>
                 
             </item>
         </channel>
