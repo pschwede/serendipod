@@ -9,27 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 09 Sep 2024 04:25:48 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 10 Sep 2024 04:25:45 +0200</lastBuildDate>
             <item>
-                <title>Respuestas de la Ciencia -  ¿Qué es el Efecto Pigmalión? - 03/09/24</title>
-                <description>¿Qué es el Efecto Pigmalión?
-Feed: http://www.rtve.es/api/programas/50191/audios.rss</description>
+                <title>Radioyentes 384 podcast de Amazon, Podimo y YouTube</title>
+                <description>Dedicamos nuestro Radioyentes de hoy a repasar algunos espacios que hemos escuchado en Amazon, Podimo y YouTube, en una edición en la que nos os dejamos audios para su valoración, aunque sí tenéis enlaces a todos ellos en las notas del programa de nuestra web.
+Agradecimientos para:
+José Antonio Laboreo de Radio Villegas
+Sintonía: de Junior Menezes
+Feed: https://www.ivoox.com/podcast-radioyentes_fg_f1463235_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-efecto-pigmalion-03-09-24/16234582/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16234582.mp3"/>
-                <guid>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-efecto-pigmalion-03-09-24/16234582/</guid>
+                <link>http://www.ivoox.com/radioyentes-384-podcast-amazon-podimo-youtube-audios-mp3_rf_131346742_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-384-podcast-amazon-podimo-youtube_mf_131346742_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/radioyentes-384-podcast-amazon-podimo-youtube-audios-mp3_rf_131346742_1.html</guid>
                 
             </item><item>
-                <title>Flor de lys, simbología y ocultismo</title>
-                <description>La flor de lis simboliza el equilibrio entre dos polaridades mediante un p&amp;eacute;talo central elevado, dos que forman uno, reflejando la armon&amp;iacute;a y el equilibrio esenciales que surgen del dominio de las energ&amp;iacute;as polares en la naturaleza y en el propio ser.
-REDES: https://linktr.ee/sol_ahimsa
-Feed: https://www.ivoox.com/de/depodcast-sol-ahimsa_fg_f1407362_filtro_1.xml</description>
+                <title>Especial billy joel live tiktok septiembre 2024</title>
+                <description>Audio del especial de tiktok de Billy Joel. Cuenta jmsalas
+Feed: https://www.ivoox.com/jmsalasmusic_fg_f1126262_filtro_1.xml</description>
                 
                 
-                <link>https://www.ivoox.com/flor-lys-simbologia-ocultismo-audios-mp3_rf_133535965_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/flor-lys-simbologia-ocultismo_mf_133535965_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/flor-lys-simbologia-ocultismo-audios-mp3_rf_133535965_1.html</guid>
+                <link>https://www.ivoox.com/especial-billy-joel-live-tiktok-septiembre-2024-audios-mp3_rf_133535419_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/especial-billy-joel-live-tiktok-septiembre-2024_mf_133535419_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/especial-billy-joel-live-tiktok-septiembre-2024-audios-mp3_rf_133535419_1.html</guid>
                 
             </item>
         </channel>

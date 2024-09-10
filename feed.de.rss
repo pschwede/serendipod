@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 09 Sep 2024 04:25:41 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 10 Sep 2024 04:25:38 +0200</lastBuildDate>
             <item>
-                <title>Nina: der neue Freund mit der Knarre im Bett</title>
-                <description>Nina ist 18, als sie das erste Mal einen Mann trifft, der ihr richtig gut gefällt, groß und muskulös. Aber nicht nur optisch: Darek holt sie mit seinem Humor und Verwöhnprogramm emotional komplett ab. Einziges Problem: Er wohnt 500 Kilometer weit weg. Natürlich fährt Nina ihn besuchen und hilft zum Start des Wochenendes seine Einliegerwohnung in der Kfz-Werkstatt frisch zu machen. Beim Bettenüberziehen fällt ihr plötzlich eine Knarre in die Hand...
-Feed: https://www.swr3.de/~podcast/podcasts/der-gangster-der-junkie-und-die-hure-112.xml</description>
+                <title>Vom Mac weg</title>
+                <description>&lt;p&gt;Wir besuchten Christoph in Braunschweig, staunten über seine wirklich große PDA-Sammlung und unterhielten uns u.a. über seinen abgeschlossenen Umstieg vom Mac zu Linux.&lt;br /&gt;
+Daraus ergab sich ein etwas nerdiger Austausch rund um Tiling-Window-Manager, Komponenten für den Aufbau einer eigenen Desktop-Umgebung mit Sway unter FreeBSDdie Zweckentfremdung eines Content Management Systems (CMS) und ein wenig Hardware...
+Feed: https://www.trommelspeicher.de/podcast.xml</description>
                 
                 
-                <link>https://www.swr3.de/podcasts/nina-der-neue-freund-mit-der-knarre-im-bett-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr3/podcasts-audioreihen/der-gangster-der-junkie-und-die-hure/nina-der-neue-freund-mit-der-knarre-im-bett.m.mp3"/>
-                <guid>https://www.swr3.de/podcasts/nina-der-neue-freund-mit-der-knarre-im-bett-100.html</guid>
+                <link>https://www.trommelspeicher.de/podcast/weg-vom-mac</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.trommelspeicher.de/podcast/weg-vom-mac/062_dd_podcast_lz_20240831.mp3"/>
+                <guid>https://www.trommelspeicher.de/podcast/weg-vom-mac</guid>
                 
             </item><item>
-                <title>05.09.2024: Luegen im Vorstellungsgespraech</title>
-                <description>Ob man in einem Vorstellungsgespraech auf alle Fragen wahrheitsgemaess antworten muss, oder ob es Situationen gibt, in denen man luegen darf, erklaert Rechtsanwalt Arndt Stueckemann in dieser Folge. Den woechentlichen Rechtstipp der Kanzlei am Wall...
-Feed: https://stueckemann.libsyn.com/rss</description>
+                <title>Die Klangküche #216 – Sommerhit 2024</title>
+                <description>Liebe Gäste der Klangküche,  
+&#34;Bauch Beine Po&#34; ist der offizielle Sommerhit dieses Jahres. Das muss natürlich besprochen werden. Außerdem reden wir über den Tod von Fatman Scoop. 
+Sinan, Sebastian &amp; Max
+___
+Premium-Folgen
+Empfehlen möchten wir an dieser Stelle die PREMIUM-Ausgaben unseres Podcasts. Dort nehmen wir Songs unter die Lupe und geben an der einen oder anderen Stelle hilfreiche Tips &amp; Tricks, die euch im Musikbusiness voran bringen könnten...
+Feed: https://anchor.fm/s/684a7c80/podcast/rss</description>
                 
                 
-                <link>https://stueckemann.libsyn.com/05092024-luegen-im-vorstellungsgespraech</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/stueckemann/Luegen_im_Vorstellungsgespraech.mp3?dest-id=23146"/>
-                <guid>https://stueckemann.libsyn.com/05092024-luegen-im-vorstellungsgespraech</guid>
+                <link>https://podcasters.spotify.com/pod/show/dieklangkueche/episodes/Die-Klangkche-216--Sommerhit-2024-e2nvrme</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/684a7c80/podcast/play/91270286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-4%2Fb720ffb4-faa6-1626-db5d-131882118679.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/dieklangkueche/episodes/Die-Klangkche-216--Sommerhit-2024-e2nvrme</guid>
                 
             </item>
         </channel>
