@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 11 Sep 2024 04:27:59 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 12 Sep 2024 04:27:09 +0200</lastBuildDate>
             <item>
-                <title>Quand la beauté nous aide... avec l&#39;autrice Corinne Morel Darleux</title>
-                <description>Quand la beauté nous aide... avec l&#39;autrice Corinne Morel Darleux
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10006.xml</description>
+                <title>Jeunesses africaines en exil  : L’école, l’ultime refuge</title>
+                <description>Jeunesses africaines en exil  : L’école, l’ultime refuge
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10177.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-08-septembre-2024-8115207</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/840674c0-0c51-44a3-828a-f5aa082d5c58/10006-08.09.2024-ITEMA_23853358-2024F5147S0252-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-08-septembre-2024-8115207</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/l-ecole-l-ultime-refuge-9081121</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/cd0e5d64-a6a2-4dcf-9d62-f24da23a0dd5/10177-09.09.2024-ITEMA_23854259-2024C26362E0124-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/l-ecole-l-ultime-refuge-9081121</guid>
                 
             </item><item>
-                <title>Le billet sciences du mardi 10 septembre 2024</title>
-                <description>durée : 00:02:20 - Le billet sciences 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20339.xml</description>
+                <title>131. Bien se disputer : comment transformer les conflits en connexion ?</title>
+                <description>Bienvenue sur « S’ouvrir à l’amour » le podcast qui va t’aider à t’ouvrir à l’amouret à transformer ta vie amoureuse. Tu en as marre de te disputer constamment sur les mêmes sujets avec ton conjoint ?Tu as l&#39;impression que chaque différend vous éloigne...
+Feed: https://feed.ausha.co/bjPkYiPMPlqo</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a207c3ee-feb1-4c85-b7cc-86546082f4e4/20339-10.09.2024-ITEMA_23855545-2024I36368S0254-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</guid>
+                <link>https://podcast.ausha.co/s-ouvrir-a-l-amour/131</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bjagzcWe0aa5.mp3?t=1721233592"/>
+                <guid>https://podcast.ausha.co/s-ouvrir-a-l-amour/131</guid>
                 
             </item>
         </channel>
