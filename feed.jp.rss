@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 13 Sep 2024 04:25:52 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 14 Sep 2024 04:25:44 +0200</lastBuildDate>
             <item>
-                <title>Paul Stuart &#39;In The Groove&#39; - Starpoint Radio - Sunday 8th September 2024</title>
-                <description>Hi all, Here is the podcast of my &#39;In The Groove&#39; show on Starpoint Radio on Sunday 8th&amp;nbsp;Sept...
-Feed: https://paulstuart.podomatic.com/rss2.xml</description>
+                <title>Where Heir You? ft. Katherine Quigley</title>
+                <description>Bill and Dani find a tudor in this fan created escape room from Katherine Quigley
+ 
+Check out the images and write up for this Escape Room below to follow along, or play yourself!
+https://www.consumethismedia.com/heir 
+ 
+For everything Escape This Podcast, head to https://www.consumethismedia.com/escape-this-podcast
+To hang out with us and other fans, join our discord here: https://discord...
+Feed: https://feed.podbean.com/www.escapethispodcast.com/feed.xml</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/paulstuart/episodes/2024-09-09T09_24_51-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://paulstuart.podomatic.com/enclosure/2024-09-09T09_24_51-07_00.mp3?_=1725899102.17155358"/>
-                <guid>https://www.podomatic.com/podcasts/paulstuart/episodes/2024-09-09T09_24_51-07_00</guid>
+                <link>https://www.escapethispodcast.com/e/where-heir-you-ft-katherine-quigley/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/fb3py2869cyhf4ga/Where_Heir_You_-_room6rrne.mp3"/>
+                <guid>https://www.escapethispodcast.com/e/where-heir-you-ft-katherine-quigley/</guid>
                 
             </item><item>
-                <title>week468 Deep Space Podcast</title>
-                <description>Please check playlist and other details at deepspacepodcast.com
-Feed: https://feeds.feedburner.com/deepspacepodcast</description>
+                <title>Keeping kids off smartphones</title>
+                <description>Can you stop a child having a phone if all their friends have one?
+Feed: https://podcasts.files.bbci.co.uk/p02pc9tn.rss</description>
                 
                 
-                <link>https://deepspacepodcast.com/week468/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://deepspacepodcast.com/wp-content/uploads/episodes/week468_-_Deep_Space_Podcast.mp3"/>
-                <guid>https://deepspacepodcast.com/week468/</guid>
+                <link>http://www.bbc.co.uk/programmes/p0jq253x</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0jq236t.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0jq253x</guid>
                 
             </item>
         </channel>

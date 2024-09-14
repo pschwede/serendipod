@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 13 Sep 2024 04:25:27 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 14 Sep 2024 04:25:25 +0200</lastBuildDate>
             <item>
-                <title>Sommerepisode: Lies doch mal das Grün!</title>
-                <description>Hart aber Fairway - Golf Podcast
-Feed: https://hartaberfairway.podigee.io/feed/mp3</description>
+                <title>#070 - Die Concierge ist auf See</title>
+                <description>Merle Struve, Literatur-Übersetzerin im Interview
+Feed: https://letscast.fm/podcasts/brittas-hafen-podcast-794194ba/feed</description>
                 
                 
-                <link>https://hartaberfairway.podigee.io/191-sommerepisode-putten</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1569507-m-cb0bce3cc57533afadf15e32deefb38b.mp3?source=feed"/>
-                <guid>https://hartaberfairway.podigee.io/191-sommerepisode-putten</guid>
+                <link>https://brittas-hafen-podcast.letscast.fm/episode/070-die-concierge-ist-auf-see</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/AF7584/https://lcdn.letscast.fm/media/podcast/7fabe5b1/episode/46b694dd.mp3?t=1724785567"/>
+                <guid>https://brittas-hafen-podcast.letscast.fm/episode/070-die-concierge-ist-auf-see</guid>
                 
             </item><item>
-                <title>sechzger.de Talk 175: Sieg in Memmingen, Aus von Oliver Mueller &amp; vor TSV 1860 - Dynamo Dresden</title>
-                <description>Send us a textDank Länderspielpause gibt es eigentlich nicht viel zu besprechen könnte man meinen - doch Pustekuchen! Deutlich über eine Stunde unterhält sich Jan mit zwei Gästen im sechzger.de Talk Nummer 175. Neben Eindrücken aus Frankreich und Memmingen geht es natürlich auch um die Spiele der Profis. Das sind der Auftritt in Memmingen sowie das bevorstehende Heimspiel gegen die SG Dynamo Dresden.Löwen siegen in Memmingen und ziehen in das Viertelfinale einZu Beginn der Sendung dominiert d...
-Feed: https://feeds.buzzsprout.com/1755918.rss</description>
+                <title>Fazit Olympische Spiele</title>
+                <description>Die Olympischen Spielen sind zwar schon seit einigen Tagen vorbei, aber dennoch wirkt das Turnier immer noch nach. Robin Bulitz (@robuli90) und Sebastian Mühlenhof (@Seppmaster56) ziehen ein Fazit und sprechen vor allem über das Abschneiden der deutschen Teams.
+Dabei standen die Männer erstmals seit 2004 wieder in einem olympischen Finale  und spielten besonders in der Vorrunde begeisternden Offensiv-Handball. Besonders in Erinnerung ist aber das epische Viertelfinale gegen Frankreich geblieben...
+Feed: https://meinsportpodcast.de/handball/anwurf/feed/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1755918/15729321-sechzger-de-talk-175-sieg-in-memmingen-aus-von-oliver-mueller-vor-tsv-1860-dynamo-dresden.mp3"/>
-                <guid></guid>
+                <link>https://meinsportpodcast.de/anwurf/fazit-olympische-spiele</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/246816/fazit-olympische-spiele.mp3?awCollectionId=10005&amp;awEpisodeId=246816"/>
+                <guid>https://meinsportpodcast.de/anwurf/fazit-olympische-spiele</guid>
                 
             </item>
         </channel>

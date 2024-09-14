@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 13 Sep 2024 04:25:47 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 14 Sep 2024 04:25:40 +0200</lastBuildDate>
             <item>
-                <title>The Who What Wear Podcast: New York Fashion Week S/S 25 Report</title>
-                <description>This fall’s New York Fashion Week just finished, so Editor in Chief Kat Collings and Editorial Director Lauren Eggertsen are here to break everything down. They’re covering their favorite shows, their new must-have pieces, and the trends they’re noticing, from flowy boho looks to sheer dressing and naked shoes. Plus, they talk about the week’s biggest shows, including a Ralph Lauren Polo Bar re-creation in the Hamptons and the first-ever fashion show at the Guggenheim museum.
-Feed: https://rss.art19.com/second-life</description>
+                <title>105. Future of Payment &amp; QR Code Technology with Kelvin Li, Head of Platform Tech Business Unit at Ant International Group</title>
+                <description>&lt;p&gt;Discover the technology of QR Code payment by Alipay+ and its journey in becoming a global payment giant! ????&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;FUMO podcast at 24 Fintech, we are excited to have our guest speaker, Kelvin Li, Head of Platform Tech Business Unit at Ant International Group as he shared insights into Alipay+’s role in expanding digital payments both globally and in the Middle East&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Join us as Kelvin delves into how QR code payment technology is driving the future of mobile...
+Feed: https://anchor.fm/s/7b687e20/podcast/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/ec5569c5-7840-4f1d-95e1-894d6468cc36.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://podcasters.spotify.com/pod/show/fintech-and-web3-founders/episodes/105--Future-of-Payment--QR-Code-Technology-with-Kelvin-Li--Head-of-Platform-Tech-Business-Unit-at-Ant-International-Group-e2o95ds</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/7b687e20/podcast/play/91575164/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-11%2F386171486-44100-2-50a91af9202a1.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/fintech-and-web3-founders/episodes/105--Future-of-Payment--QR-Code-Technology-with-Kelvin-Li--Head-of-Platform-Tech-Business-Unit-at-Ant-International-Group-e2o95ds</guid>
                 
             </item><item>
-                <title>Ep 357: OpenAI o1 released: 5 things to know about ChatGPT’s new model</title>
-                <description>Send Everyday AI and Jordan a text messageOpenAI just shocked us all with the release of its o1 model, previously codenamed as Strawberry and Q* We break down what&#39;s new, 5 things you need to know and more! Newsletter: Sign up for our free daily newsletterMore on this Episode: Episode PageJoin the discussion: Ask Jordan and Hanan questions on AIUpcoming Episodes: Check out the upcoming Everyday AI Livestream lineupWebsite: YourEverydayAI.comEmail The Show: info@youreverydayai.comConnect ...
-Feed: https://feeds.buzzsprout.com/2175779.rss</description>
+                <title>HN749: Expand Your Network Labs With Containerlab and Clabernetes</title>
+                <description>On today’s episode, we cover open source Clabernetes, a tool that allows you to run Containerlab on Kubernetes. Containerlab provides a CLI for orchestrating and managing container-based networking l…
+Feed: https://feeds.packetpushers.net/packetpushersfatpipe/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/2175779/15745490-ep-357-openai-o1-released-5-things-to-know-about-chatgpt-s-new-model.mp3"/>
-                <guid></guid>
+                <link>https://packetpushers.net/podcasts/heavy-networking/hn749-expand-your-network-labs-with-containerlab-and-clabernetes/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.packetpushers.net/link/17421/16808261/HN749.mp3"/>
+                <guid>https://packetpushers.net/podcasts/heavy-networking/hn749-expand-your-network-labs-with-containerlab-and-clabernetes/</guid>
                 
             </item>
         </channel>

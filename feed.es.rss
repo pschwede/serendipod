@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 13 Sep 2024 04:25:37 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 14 Sep 2024 04:25:33 +0200</lastBuildDate>
             <item>
-                <title>3 Errores Comunes Vol. 7</title>
-                <description>En este episodio especial de No Hay Tos hablamos sobre tres errores que comúnmente cometen los estudiantes del español.
-- Para tener acceso a episodios ad-free y para ver los show notes de este episodio visítanos en Patreon. 
-- Venos en video en YouTube. 
-- ¡Si el podcast te es útil por favor déjanos un review en Apple Podcasts! 
-- Donate: https://www.paypal...
-Feed: https://feeds.megaphone.fm/SONORO4487924320</description>
+                <title>Documentos RNE - Radio, arte y vanguardia - 13/09/24</title>
+                <description>Radio, arte y vanguardia
+Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/SONORO2055568890.mp3?updated=1725738107"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/documentos-rne/radio-arte-vanguardia-13-09-24/16247885/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16247885.mp3"/>
+                <guid>https://www.rtve.es/play/audios/documentos-rne/radio-arte-vanguardia-13-09-24/16247885/</guid>
                 
             </item><item>
-                <title>Noosfera 211 - RCP para la vida real | José Miguel Robles</title>
-                <description>Los primeros auxilios son una de esas cosas en las que no reparamos hasta que los necesitamos y, cuando los necesitamos, los necesitamos de verdad. Los mitos, mentiras y malentendidos han general tal confusión que todo el mundo tiene una opinión al...
-Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
+                <title>Peligrosamente juntos - The Last - 01/09/24</title>
+                <description>The Last
+Feed: http://api.rtve.es/api/programas/2066/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/noosfera-211-rcp-para-la-vida-real-jose-miguel-robles--61277733</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/61277733/noosfera_211.mp3"/>
-                <guid>https://www.spreaker.com/episode/noosfera-211-rcp-para-la-vida-real-jose-miguel-robles--61277733</guid>
+                <link>https://www.rtve.es/play/audios/peligrosamente-juntos/last-01-09-24/16232560/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16232560.mp3"/>
+                <guid>https://www.rtve.es/play/audios/peligrosamente-juntos/last-01-09-24/16232560/</guid>
                 
             </item>
         </channel>

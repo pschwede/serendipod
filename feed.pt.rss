@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 13 Sep 2024 04:25:42 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 14 Sep 2024 04:25:36 +0200</lastBuildDate>
             <item>
                 <title>Progress #532</title>
                 <description>Progress #532
@@ -33,15 +33,18 @@ Feed: https://hearthis.at/djmts/podcast/</description>
                 <guid>https://hearthis.at/djmts/progress532/</guid>
                 
             </item><item>
-                <title>Você está escolhendo sua Distro Linux do jeito errado?</title>
-                <description>&lt;p&gt;Está em dúvida sobre qual distribuição Linux escolher? Neste episódio do Diocast, vamos desmistificar os termos técnicos e te ajudar a entender os diferentes ciclos de lançamento das distros.&lt;/p&gt;
-&lt;p&gt;Você vai aprender o que significam termos como &amp;#39;bleeding edge&amp;#39;, &amp;#39;LTS&amp;#39;, &amp;#39;rolling release&amp;#39; e &amp;#39;point release&amp;#39;. Vamos comparar as vantagens e desvantagens de cada abordagem, usando como exemplo distribuições populares como Arch Linux e Ubuntu...
-Feed: https://anchor.fm/s/4c177cd4/podcast/rss</description>
+                <title>Vértice #439: Astro Bot, The Crimson Diamond, o Fim de Concord, Switch 2 e mais!</title>
+                <description>Essa semana sorrimos do começo ao fim com Astro Bot, abrimos gavetas e memórias nostálgicas com The Crimson Diamond, comentamos o triste e espetacular fim (temporário?) de Concord, os rumores de que o anúncio do Nintendo Split™ está próximo, jogos que estão vindo ou não para o Xbox e mais!&lt;ul&gt;
+ 	&lt;li&gt;00:09:31: PS5 Pro vindo aí&lt;/li&gt;
+ 	&lt;li&gt;00:18:14: Nintendo Split será anunciado ainda em setembro?&lt;/li&gt;
+ 	&lt;li&gt;00:24:45: Coletâneas de jogos de luta da Capcom serão lançadas para Xbox&lt;/li&gt;
+...
+Feed: https://feeds.feedburner.com/dashpodcast</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/diolinux/episodes/Voc-est-escolhendo-sua-Distro-Linux-do-jeito-errado-e2o1qoe</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/4c177cd4/podcast/play/91334862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-5%2F385874251-44100-2-16f31abc056d4.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/diolinux/episodes/Voc-est-escolhendo-sua-Distro-Linux-do-jeito-errado-e2o1qoe</guid>
+                <link>https://jogabilida.de/2024/09/vertice-439/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/bilid/audio.transistor.fm/m/shows/42739/90cd4cb2cf232d807e6a3045f2ff48e5.mp3"/>
+                <guid>https://jogabilida.de/2024/09/vertice-439/</guid>
                 
             </item>
         </channel>
