@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Sep 2024 04:25:33 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 16 Sep 2024 04:26:33 +0200</lastBuildDate>
             <item>
-                <title>Documentos RNE - Radio, arte y vanguardia - 13/09/24</title>
-                <description>Radio, arte y vanguardia
-Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
+                <title>Rincón Sportinguista 562 #PodcastSportinguista</title>
+                <description>Programa con @JaviMelero77 @AlejandroJamart @TinvsPilvs y Mon donde analizamos la victoria del Sporting contra el Oviedo en El Molin&amp;oacute;n por 3-1.
+Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/documentos-rne/radio-arte-vanguardia-13-09-24/16247885/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16247885.mp3"/>
-                <guid>https://www.rtve.es/play/audios/documentos-rne/radio-arte-vanguardia-13-09-24/16247885/</guid>
+                <link>https://www.ivoox.com/rincon-sportinguista-562-podcastsportinguista-audios-mp3_rf_133634907_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-562-podcastsportinguista_mf_133634907_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/rincon-sportinguista-562-podcastsportinguista-audios-mp3_rf_133634907_1.html</guid>
                 
             </item><item>
-                <title>Peligrosamente juntos - The Last - 01/09/24</title>
-                <description>The Last
-Feed: http://api.rtve.es/api/programas/2066/audios.rss</description>
+                <title>Radioyentes 385 Alf, juegos y olímpicos</title>
+                <description>Comenzamos nuestra edición 385 de Radioyentes comentando que si te apasiona estar al día con las últimas tendencias, memes, noticias virales y todo lo que está causando furor en las redes, ViralTrend  es tu programa.
+Agradecimientos para:
+José Antonio Laboreo de Radio Villegas
+Sintonía: de Junior Menezes
+Feed: https://www.ivoox.com/podcast-radioyentes_fg_f1463235_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/peligrosamente-juntos/last-01-09-24/16232560/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16232560.mp3"/>
-                <guid>https://www.rtve.es/play/audios/peligrosamente-juntos/last-01-09-24/16232560/</guid>
+                <link>http://www.ivoox.com/radioyentes-385-alf-juegos-olimpicos-audios-mp3_rf_133513603_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-385-alf-juegos-olimpicos_mf_133513603_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/radioyentes-385-alf-juegos-olimpicos-audios-mp3_rf_133513603_1.html</guid>
                 
             </item>
         </channel>

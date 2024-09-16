@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Sep 2024 04:25:30 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 16 Sep 2024 04:26:28 +0200</lastBuildDate>
             <item>
-                <title>Mix Franco : Mix franco du 13 septembre 2024</title>
-                <description>785-320516
-Feed: http://podcast.cism893.ca/radioshows/785/feed_itunes.xml</description>
+                <title>Ep 138 : Super Cover Battle 40 Pas de bol, il a tout misé sur la musique</title>
+                <description>Retrouvez mes avis à l&#39;emporte-pièces et le génie créatif absolu de mon comparse dans un épisode inédit de Super Cover Battle (notre meilleur)10 nouvelles reprises, avec une nouvelle règle, et de chouettes moments en perspectives !Les listes et le clas...
+Feed: https://ecoutecapodcast.lepodcast.fr/rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/320516.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/320516.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/320516.mp3</guid>
+                <link>https://podcast.ausha.co/ecoute-ca/scb40</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/VBx7JIpvzlOb.mp3?t=1722110512"/>
+                <guid>https://podcast.ausha.co/ecoute-ca/scb40</guid>
                 
             </item><item>
-                <title>Turbo tannant : Édition du 5 juillet 2024 rediff</title>
-                <description>685-320573
-Feed: http://podcast.cism893.ca/radioshows/685/feed_itunes.xml</description>
+                <title>S04E03 L&#39;Hippocampe, un papa très poule 1/2</title>
+                <description>
+L’Hippocampe ou « cheval marin » est un bon époux. D’abord, quand cette créature des mers trouve sa moitié, c’est pour la vie. C’est aussi le mâle qui porte ses petits (de 5 à 1800 œufs) dans son ventre pendant 2 à 3 semaines. Mais ce n’est pas le seu...
+Feed: https://feed.ausha.co/ygMWxC00Q5WA</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/320573.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/320573.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/320573.mp3</guid>
+                <link>https://podcast.ausha.co/nomen/s04e03-l-hippocampe-a-la-belle-etoile-de-mer</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/brK8Ds3p6X6W.mp3?t=1687626443"/>
+                <guid>https://podcast.ausha.co/nomen/s04e03-l-hippocampe-a-la-belle-etoile-de-mer</guid>
                 
             </item>
         </channel>
