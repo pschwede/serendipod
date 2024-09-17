@@ -9,29 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 16 Sep 2024 04:26:33 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 17 Sep 2024 04:23:18 +0200</lastBuildDate>
             <item>
-                <title>Rincón Sportinguista 562 #PodcastSportinguista</title>
-                <description>Programa con @JaviMelero77 @AlejandroJamart @TinvsPilvs y Mon donde analizamos la victoria del Sporting contra el Oviedo en El Molin&amp;oacute;n por 3-1.
-Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
+                <title>Cosas de freelance de alto valor - Un podcast de freelance para freelance</title>
+                <description>1019. La recomendación de este #LunesPodcastero es &#39;Cosas de freelance de alto valor&#39;, un podcast realizado por Suam Barrantes y Jorge Bosch. 
+En cada episodio cuentan su experiencia como freelance para que conozcas de primera mano lo bueno, lo malo...
+Feed: https://feedpress.me/alotroladodelmicrofono</description>
                 
                 
-                <link>https://www.ivoox.com/rincon-sportinguista-562-podcastsportinguista-audios-mp3_rf_133634907_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-562-podcastsportinguista_mf_133634907_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/rincon-sportinguista-562-podcastsportinguista-audios-mp3_rf_133634907_1.html</guid>
+                <link>https://www.spreaker.com/episode/cosas-de-freelance-de-alto-valor-un-podcast-de-freelance-para-freelance--61356954</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/21386/16809423/1019.mp3"/>
+                <guid>https://www.spreaker.com/episode/cosas-de-freelance-de-alto-valor-un-podcast-de-freelance-para-freelance--61356954</guid>
                 
             </item><item>
-                <title>Radioyentes 385 Alf, juegos y olímpicos</title>
-                <description>Comenzamos nuestra edición 385 de Radioyentes comentando que si te apasiona estar al día con las últimas tendencias, memes, noticias virales y todo lo que está causando furor en las redes, ViralTrend  es tu programa.
-Agradecimientos para:
-José Antonio Laboreo de Radio Villegas
-Sintonía: de Junior Menezes
-Feed: https://www.ivoox.com/podcast-radioyentes_fg_f1463235_filtro_1.xml</description>
+                <title>Planeta vivo - Agricultura y desperdicio de nitrógeno - 11/09/24</title>
+                <description>Agricultura y desperdicio de nitrógeno
+Feed: http://api.rtve.es/api/programas/8893/audios.rss</description>
                 
                 
-                <link>http://www.ivoox.com/radioyentes-385-alf-juegos-olimpicos-audios-mp3_rf_133513603_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-385-alf-juegos-olimpicos_mf_133513603_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/radioyentes-385-alf-juegos-olimpicos-audios-mp3_rf_133513603_1.html</guid>
+                <link>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-agricultura-desperdicio-nitrogeno-11-09-24/16244190/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16244190.mp3"/>
+                <guid>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-agricultura-desperdicio-nitrogeno-11-09-24/16244190/</guid>
                 
             </item>
         </channel>

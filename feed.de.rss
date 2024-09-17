@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 16 Sep 2024 04:26:24 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 17 Sep 2024 04:23:12 +0200</lastBuildDate>
             <item>
-                <title>KI-Botschaften aus dem Jenseits</title>
-                <description>&lt;p&gt;Die Doku &#34;Eternal You&#34; erzählt, was passiert, wenn Verstorbene digital zum Leben erweckt werden. - Eine Eigenproduktion des ORF. In Ö1 gesendet am 12.9.2024.&lt;/p&gt;
-Feed: https://podcast.orf.at/podcast/oe1/oe1_digitalleben/oe1_digitalleben.xml</description>
+                <title>Prof. Dr. Dietrich Grönemeyer über gute Wege gegen Angst und Stress</title>
+                <description>Die Nachrichten sind voll von Kriegen und Krisen, alltägliche Einkäufe werden immer teurer, wir sind getrieben von der Angst Nachrichten sofort bearbeiten zu müssen und immer erreichbar zu sein: Das Leben verlangt uns einiges ab. Viele Menschen entwickeln bei all dem Stress Angst-Störungen...
+Feed: https://podcast.hr.de/hr3_baerbelschaefer/podcast.xml</description>
                 
                 
-                <link>https://sound.orf.at/podcast/oe1/oe1-digitalleben/ki-botschaften-aus-dem-jenseits</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/oe1/oe1_digitalleben/items/di_oe1_digitalleben_clk_793ab85fc73744b3a86ae2634e8a57f1.mp3?etag=622d814d5df3fde3c6a9a66a4918bf4f"/>
-                <guid>https://sound.orf.at/podcast/oe1/oe1-digitalleben/ki-botschaften-aus-dem-jenseits</guid>
+                <link>https://mp3podcasthr-a.akamaihd.net/mp3/podcast/hr3_baerbelschaefer/hr3_baerbelschaefer_20240913_102060334.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mp3podcasthr-a.akamaihd.net/mp3/podcast/hr3_baerbelschaefer/hr3_baerbelschaefer_20240913_102060334.mp3"/>
+                <guid>https://mp3podcasthr-a.akamaihd.net/mp3/podcast/hr3_baerbelschaefer/hr3_baerbelschaefer_20240913_102060334.mp3</guid>
                 
             </item><item>
-                <title>Furious Fragrance</title>
-                <description>In Münster gönnt sich der Adrian Uwe Baier Haschisch-Spieße vom Albaner und in Amerika essen sie Hunde. Seb Fury Fragrance erfindet sich währenddessen neu. Ick freu ma!
-Feed: https://alforno.podigee.io/feed/mp3</description>
+                <title>Nur Bahnhof am Bahnhof</title>
+                <description>Katharina Kemnitzer mit einer wahren Geschichte
+Unsere allgemeinen Datenschutzrichtlinien finden Sie unter https://art19.com/privacy. Die Datenschutzrichtlinien für Kalifornien sind unter https://art19.com/privacy#do-not-sell-my-info abrufbar.
+Feed: https://rss.art19.com/kurz-und-gut</description>
                 
                 
-                <link>https://alforno.podigee.io/244-furious-fragrance</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1598212-m-a3b24017f90d0d02095d86ea8e915500.mp3?source=feed"/>
-                <guid>https://alforno.podigee.io/244-furious-fragrance</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/fc5a762f-7e3a-4b97-9b17-a4e400446773.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item>
         </channel>
