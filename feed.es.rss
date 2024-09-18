@@ -9,27 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 17 Sep 2024 04:23:18 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 18 Sep 2024 04:26:40 +0200</lastBuildDate>
             <item>
-                <title>Cosas de freelance de alto valor - Un podcast de freelance para freelance</title>
-                <description>1019. La recomendación de este #LunesPodcastero es &#39;Cosas de freelance de alto valor&#39;, un podcast realizado por Suam Barrantes y Jorge Bosch. 
-En cada episodio cuentan su experiencia como freelance para que conozcas de primera mano lo bueno, lo malo...
-Feed: https://feedpress.me/alotroladodelmicrofono</description>
+                <title>Episodio 122: Pop Rock Argentino, con Fede @Fede_Cocina</title>
+                <description>Hola hola gente people, bienvenidas y bienhallados al Bar Bedel, vuestro Bar de confianza, vuestro Bar en formato podcast. Las vacaciones son historia. Sí, estamos apurando el verano en España, pero en Argentina acaba el invierno. Y que mejor que traernos a un gran amigo del programa, Fede, que desde Buenos Aires, nos regalará toda su sapiencia en este especial que os ofrecemos sobre música Pop rock de una tierra que para el camarero es tan especial como la Argentina...
+Feed: https://feeds.feedburner.com/BarBedel</description>
                 
                 
-                <link>https://www.spreaker.com/episode/cosas-de-freelance-de-alto-valor-un-podcast-de-freelance-para-freelance--61356954</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/21386/16809423/1019.mp3"/>
-                <guid>https://www.spreaker.com/episode/cosas-de-freelance-de-alto-valor-un-podcast-de-freelance-para-freelance--61356954</guid>
+                <link>http://www.ivoox.com/episodio-122-pop-rock-argentino-fede-afede-cocina-audios-mp3_rf_133799459_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/episodio-122-pop-rock-argentino-fede-afede-cocina_mf_133799459_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/episodio-122-pop-rock-argentino-fede-afede-cocina-audios-mp3_rf_133799459_1.html</guid>
                 
             </item><item>
-                <title>Planeta vivo - Agricultura y desperdicio de nitrógeno - 11/09/24</title>
-                <description>Agricultura y desperdicio de nitrógeno
-Feed: http://api.rtve.es/api/programas/8893/audios.rss</description>
+                <title>302. Estilo indirecto 4</title>
+                <description>&lt;p&gt;Seguimos hablando del estilo indirecto. Teoría y práctica. Escucha, practica y aprende.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Curso de español en formato pódcast. Spanischkurs im Podcast-Format. Podcast: Spanisch für Anfänger&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;B2&lt;/strong&gt; PDF-Dateien &lt;strong&gt;Lektionen301-325&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;https://elopage.com/s/spanisch/spanisch-b2-lektionen-301-325-28a96004&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Niveau B1 &lt;/strong&gt;PDF-Dateien &lt;strong&gt;Lektionen 201-300:&lt;/strong&gt; https://elopage...
+Feed: https://anchor.fm/s/1bb5bc7c/podcast/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-agricultura-desperdicio-nitrogeno-11-09-24/16244190/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16244190.mp3"/>
-                <guid>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-agricultura-desperdicio-nitrogeno-11-09-24/16244190/</guid>
+                <link>https://podcasters.spotify.com/pod/show/maria1769/episodes/302--Estilo-indirecto-4-e2nurgm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1bb5bc7c/podcast/play/91237334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-3%2Fcf2bab5c-785a-c358-0b47-4215d814d833.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/maria1769/episodes/302--Estilo-indirecto-4-e2nurgm</guid>
                 
             </item>
         </channel>

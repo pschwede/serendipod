@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 17 Sep 2024 04:23:25 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 18 Sep 2024 04:26:46 +0200</lastBuildDate>
             <item>
-                <title>Is the car an apex predator?</title>
-                <description>The car is a killer but does that make it top of the food chain?
-Feed: https://podcasts.files.bbci.co.uk/p04d42rc.rss</description>
+                <title>EP320 - News, First Half Recap, Early Holiday Preview</title>
+                <description>EP320 - News, First Half Recap, Early Holiday Preview  0:23 Welcome Back After Hiatus 2:51 Upcoming Events in Retail 7:28 GroceryShop 16:02 Retail Growth Trends 21:28 Concerns for Holiday 2024 30:27 The De Minimis...
+Feed: https://jasshow.libsyn.com/rss</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/w3ct5rhl</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jqdhtn.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w3ct5rhl</guid>
+                <link>https://retailgeek.com/jason-scot-show-episode-320-1h-recap</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/19397/traffic.libsyn.com/secure/jasshow/JAS320.mp3?dest-id=325386"/>
+                <guid>https://retailgeek.com/jason-scot-show-episode-320-1h-recap</guid>
                 
             </item><item>
-                <title>Oil demand not so energetic</title>
-                <description>&lt;p&gt;For years, global oil demand has ticked up, mostly thanks to China&amp;#8217;s voracious consumption. But real estate trouble combined with widespread electric vehicle adoption means China&amp;#8217;s not guzzling oil like it used to. In this episode, the impact on the global oil market. Plus: A dockworker strike could put snags in holiday shopping, flight attendants dislike delays as much as you do and four states will vote on bond measures in November.&lt;/p&gt;
-
-Feed: https://www.marketplace.org/feed/podcast/marketplace</description>
+                <title>DFSP # 448 WebShell Forensics</title>
+                <description>Welcome to this week’s session, where we’ll delve into web shell forensics—an ever-critical topic in incident response investigations and threat-hunting strategies. Today, I’ll provide a breakdown that includes the latest developments,...
+Feed: https://digitalforensicsurvivalpodcast.libsyn.com/rss</description>
                 
                 
-                <link>https://www.marketplace.org/shows/marketplace/oil-demand-not-so-energetic</link>
-                <enclosure type="audio/mpeg" length="1" url="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/09/16/pm_20240916_PM_Podcast_64.mp3"/>
-                <guid>https://www.marketplace.org/shows/marketplace/oil-demand-not-so-energetic</guid>
+                <link>https://digitalforensicsurvivalpodcast.libsyn.com/dfsp-448-webshell-forensics</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/digitalforensicsurvivalpodcast/DFSP_448_WebShell_Forensics.m4a?dest-id=352507"/>
+                <guid>https://digitalforensicsurvivalpodcast.libsyn.com/dfsp-448-webshell-forensics</guid>
                 
             </item>
         </channel>
