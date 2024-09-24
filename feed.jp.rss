@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 20 Sep 2024 04:26:15 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 24 Sep 2024 04:27:16 +0200</lastBuildDate>
             <item>
-                <title>The Battle for the Sans-Culottes Part I</title>
-                <description>The faction menace returns! The Enraged and the Jacobins battle for supremacy, while the Hébertists rise to challenge both! This episode explore The Manifesto of the Enraged, and the emergence of Jacques Hébert as a revolutionary leader...
-Feed: https://feeds.megaphone.fm/ARML5103980842</description>
+                <title>#443 Podcasten fyller 5 år!</title>
+                <description>Hver kalenderuke i 5 år, på datoen i dag, har det kommet podcast-episoder fra Liberaleren Podcast!
+Feed: https://feeds.acast.com/public/shows/1af3d254-4066-5b32-937e-72bab2299f16</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/299CCC/traffic.megaphone.fm/ARML4245584936.mp3?updated=1726580963"/>
-                <guid></guid>
+                <link>https://www.liberaleren.no</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/liberaleren/e/66ee98c9ae7dc3a81d398b59/media.mp3"/>
+                <guid>https://www.liberaleren.no</guid>
                 
             </item><item>
-                <title>Fish Go Deep Radio 2024-18</title>
-                <description>Nephews - Between Your Soul Roger S - Body Heat Megatronic - Been Thinking (Jimpster Remix) Boo Williams - My Place Lex &amp; Locke - Atenas Blues Ralph Session - House Family Crackazat - Can’t Blame a Soul (Mana’s Dub) ZOiD - Fortune Favours The...
-Feed: https://godeep.libsyn.com/rss</description>
+                <title>Thrive - Rising Above Disappointment</title>
+                <description>Welcome to Odessa First Assembly&#39;s Podcast, where each week, we bring you powerful sermons and messages that inspire, encourage, and deepen your connection with God. Join us as we explore the Scriptures together, seeking wisdom and understanding for our daily lives. Follow us on social media @odessafirstag for updates, and if you&#39;d like to support our ministry, visit odessafirst.com/giving. Thank you for tuning in and growing with us on this faith journey!
+Feed: https://OdessaFirstAssembly.podbean.com/feed.xml</description>
                 
                 
-                <link>https://godeep.libsyn.com/fish-go-deep-radio-2024-18</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/godeep/Fish_Go_Deep_Radio_2024-18.mp3?dest-id=15740"/>
-                <guid>https://godeep.libsyn.com/fish-go-deep-radio-2024-18</guid>
+                <link>https://OdessaFirstAssembly.podbean.com/e/thrive-rising-above-disappointment/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/agv726g3agfpagtq/thrive3.mp3"/>
+                <guid>https://OdessaFirstAssembly.podbean.com/e/thrive-rising-above-disappointment/</guid>
                 
             </item>
         </channel>

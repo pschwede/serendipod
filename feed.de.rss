@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 20 Sep 2024 04:25:59 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 24 Sep 2024 04:26:58 +0200</lastBuildDate>
             <item>
-                <title>Umsatz zeigt: Prozesse checken ist clever!</title>
-                <description>Du lässt Geld auf der Straße liegen, wenn du diese 4 Punkte nicht überprüfst.
-Feed: https://lianekautz.podigee.io/feed/mp3</description>
+                <title>Fotobuch-Plauder-Ecke – Josef Śnobl – Hayahisa Tomiyasu</title>
+                <description>Ein neuer Monat, also auch eine neue Folge der Fotobuch-Plauder-Ecke. Diesmal haben wir uns das Thema „Geheimtipp“ gestellt, also Bücher, die man vielleicht nicht unbedingt direkt auf dem Schirm hat, die sich aber lohnen, einmal genauer anzuschauen.
+Feed: https://de9vpm.podcaster.de/fotobuch-ecke.rss</description>
                 
                 
-                <link>https://lianekautz.podigee.io/223-umsatz-zeigt-prozesse-checken-ist-clever</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1597976-m-9a555725d7d84082655274b9f4f736e9.mp3?source=feed"/>
-                <guid>https://lianekautz.podigee.io/223-umsatz-zeigt-prozesse-checken-ist-clever</guid>
+                <link>https://fotobuch-ecke.de/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://de9vpm.podcaster.de/fotobuch-ecke/media/FBPE12_Josef_Snobl_Hayahisa_Tomiyasu.mp3"/>
+                <guid>https://fotobuch-ecke.de/</guid>
                 
             </item><item>
-                <title>Höchste Konzentration live im wikifolio-Interview. DAX vor 19.000, wann muss Axel seine Reverse Bonus Cap-Zertifikate ve</title>
-                <description>Höchste Konzentration live im wikifolio-Interview. DAX vor 19.000, wann muss Axel seine Reverse Bonus Cap-Zertifikate verkaufen?
-Feed: https://wikifolio-auf-boersenradio.podigee.io/feed/mp3</description>
+                <title>Kulturpresseschau</title>
+                <description> Timm, Ulrike www.deutschlandfunkkultur.de, Kulturpresseschau 
+Feed: https://www.deutschlandfunkkultur.de/podcast-kulturpresseschau-100.xml</description>
                 
                 
-                <link>https://wikifolio-auf-boersenradio.podigee.io/259-hochste-konzentration-live-im-wikifolio-interview-dax-vor-19000-wann-muss-axel-seine-reverse-bonus-cap-zertifikate-ve</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1603617-m-f7a7aac795e56c2017af96152e3c9bea.mp3?source=feed"/>
-                <guid>https://wikifolio-auf-boersenradio.podigee.io/259-hochste-konzentration-live-im-wikifolio-interview-dax-vor-19000-wann-muss-axel-seine-reverse-bonus-cap-zertifikate-ve</guid>
+                <link>https://www.deutschlandfunkkultur.de/kulturpresseschau-dlf-kultur-4572fb87-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/09/23/kulturpresseschau_drk_20240923_2350_4572fb87.mp3?refId=podcast-kulturpresseschau-100"/>
+                <guid>https://www.deutschlandfunkkultur.de/kulturpresseschau-dlf-kultur-4572fb87-100.html</guid>
                 
             </item>
         </channel>

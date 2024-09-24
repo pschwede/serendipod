@@ -9,30 +9,36 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 20 Sep 2024 04:26:06 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 24 Sep 2024 04:27:05 +0200</lastBuildDate>
             <item>
-                <title>Rincón Sportinguista 563 #PodcastSportinguista</title>
-                <description>Programa con @JaviMelero77 y @AlejandroJamart donde analizamos la derrota del Sporting por 1-0 en Santander a domicilio.
-Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
+                <title>Entre probetas - La psicología tras el estrés - 17/09/24</title>
+                <description>La psicología tras el estrés
+Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/rincon-sportinguista-563-podcastsportinguista-audios-mp3_rf_133870944_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-563-podcastsportinguista_mf_133870944_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/rincon-sportinguista-563-podcastsportinguista-audios-mp3_rf_133870944_1.html</guid>
+                <link>https://www.rtve.es/play/audios/entre-probetas/psicologia-tras-estres/16250169/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16250169.mp3"/>
+                <guid>https://www.rtve.es/play/audios/entre-probetas/psicologia-tras-estres/16250169/</guid>
                 
             </item><item>
-                <title>La Reforma Judicial</title>
-                <description>En este episodio de No Hay Tos hablamos sobre la Reforma al Poder Judicial de México.
-Para tener acceso a episodios ad-free y para ver la transcripción completa (word for word) de este episodio visítanos en Patreon. 
-- Venos en video en YouTube. 
-- ¡Si el podcast te es útil por favor déjanos un review en Apple Podcasts! 
-- Donate: https://www.paypal...
-Feed: https://feeds.megaphone.fm/SONORO4487924320</description>
+                <title>PYM 51. Freskito y Medio. El retorno.</title>
+                <description>Se va el verano pero llega un cl&amp;aacute;sico: &amp;iexcl;el Freskito y Medio tard&amp;iacute;o!
+Recuperamos el formato Freskito, en el que os traemos dos mini-recomendaciones cada uno.
+Estas son nuestras secciones freskitas:
+00:09:59 - Mini-Recomendaciones
+Ojo, alerones: Os dejamos el listado de las recomendaciones:
+-Seidon:
+   Light &amp;amp; Magic
+-Malcolm:
+   Arkham Horror. El juego de cartas. + Adaptaciones de Lovecraft de Gou Tanabe.
+-Mildre:
+   La maldici&amp;oacute;n del tranv&amp;iacute;a 015. (P...
+Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/SONORO9618687559.mp3?updated=1726358719"/>
-                <guid></guid>
+                <link>https://www.ivoox.com/pym-51-freskito-medio-el-retorno-audios-mp3_rf_133826358_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-51-freskito-medio-el-retorno_mf_133826358_feed_1.mp3?d=1726426098"/>
+                <guid>https://www.ivoox.com/pym-51-freskito-medio-el-retorno-audios-mp3_rf_133826358_1.html</guid>
                 
             </item>
         </channel>
