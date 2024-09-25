@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 24 Sep 2024 04:27:16 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 25 Sep 2024 04:27:20 +0200</lastBuildDate>
             <item>
-                <title>#443 Podcasten fyller 5 år!</title>
-                <description>Hver kalenderuke i 5 år, på datoen i dag, har det kommet podcast-episoder fra Liberaleren Podcast!
-Feed: https://feeds.acast.com/public/shows/1af3d254-4066-5b32-937e-72bab2299f16</description>
+                <title>Marx&#39;s Madness: Robbie Marx Joins to Discuss Fantasy Basketball</title>
+                <description>Baseline NBA Podcast: Fantasy Basketball with Robbie Marxx
+Join us for an exciting episode as we dive into the world of fantasy basketball with the renowned host ofhttps://bleav.com/shows/bleav-in-fantasy-basketball/, Robbie Marxx. In this special...
+Feed: https://www.spreaker.com/show/3677698/episodes/feed</description>
                 
                 
-                <link>https://www.liberaleren.no</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/liberaleren/e/66ee98c9ae7dc3a81d398b59/media.mp3"/>
-                <guid>https://www.liberaleren.no</guid>
+                <link>https://www.spreaker.com/episode/marx-s-madness-robbie-marx-joins-to-discuss-fantasy-basketball--61898657</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/61898657/the_baseline_9_15_24.mp3"/>
+                <guid>https://www.spreaker.com/episode/marx-s-madness-robbie-marx-joins-to-discuss-fantasy-basketball--61898657</guid>
                 
             </item><item>
-                <title>Thrive - Rising Above Disappointment</title>
-                <description>Welcome to Odessa First Assembly&#39;s Podcast, where each week, we bring you powerful sermons and messages that inspire, encourage, and deepen your connection with God. Join us as we explore the Scriptures together, seeking wisdom and understanding for our daily lives. Follow us on social media @odessafirstag for updates, and if you&#39;d like to support our ministry, visit odessafirst.com/giving. Thank you for tuning in and growing with us on this faith journey!
-Feed: https://OdessaFirstAssembly.podbean.com/feed.xml</description>
+                <title>Will Google’s Monopoly Be Broken Up? w/ Rob Larson</title>
+                <description>Paris Marx is joined by Rob Larson to discuss the recent ruling that Google is a monopolist, what consequences it might face, and what lessons we can learn from the Microsoft antitrust case in the early 2000s.Rob Larson is the author of Mastering the Universe: The Obscene Wealth of the Ruling Class, What They Do with Their Money, and Why You Should Hate Them Even More and Professor of Economics at Tacoma Community College.Tech Won’t Save Us offers a critical perspective on tech, its worldview...
+Feed: https://feeds.buzzsprout.com/1004689.rss</description>
                 
                 
-                <link>https://OdessaFirstAssembly.podbean.com/e/thrive-rising-above-disappointment/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/agv726g3agfpagtq/thrive3.mp3"/>
-                <guid>https://OdessaFirstAssembly.podbean.com/e/thrive-rising-above-disappointment/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/18859/https://pscrb.fm/rss/p/www.buzzsprout.com/1004689/15768867-will-google-s-monopoly-be-broken-up-w-rob-larson.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

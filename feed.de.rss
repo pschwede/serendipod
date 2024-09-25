@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 24 Sep 2024 04:26:58 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 25 Sep 2024 04:27:03 +0200</lastBuildDate>
             <item>
-                <title>Fotobuch-Plauder-Ecke – Josef Śnobl – Hayahisa Tomiyasu</title>
-                <description>Ein neuer Monat, also auch eine neue Folge der Fotobuch-Plauder-Ecke. Diesmal haben wir uns das Thema „Geheimtipp“ gestellt, also Bücher, die man vielleicht nicht unbedingt direkt auf dem Schirm hat, die sich aber lohnen, einmal genauer anzuschauen.
-Feed: https://de9vpm.podcaster.de/fotobuch-ecke.rss</description>
+                <title>Folge 240: Diefflen, Herxheim, Morlautern</title>
+                <description>Die letzten Wochen waren für die Schängel erfolgreich, aber durch die hohe Anzahl der Pflichtspiele auch durchaus anstrengend. Mit Michael Stahl sprechen wir über die Siege in den letzten Partien, aber auch über die Belastungen, die hinter der Mannschaft
+Feed: https://www.61meter.de/feed/podcast/</description>
                 
                 
-                <link>https://fotobuch-ecke.de/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://de9vpm.podcaster.de/fotobuch-ecke/media/FBPE12_Josef_Snobl_Hayahisa_Tomiyasu.mp3"/>
-                <guid>https://fotobuch-ecke.de/</guid>
+                <link>https://www.61meter.de/podcast/folge-240-diefflen-herxheim-morlautern/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.61meter.de/podcast-download/2261/folge-240-diefflen-herxheim-morlautern.mp3"/>
+                <guid>https://www.61meter.de/podcast/folge-240-diefflen-herxheim-morlautern/</guid>
                 
             </item><item>
-                <title>Kulturpresseschau</title>
-                <description> Timm, Ulrike www.deutschlandfunkkultur.de, Kulturpresseschau 
-Feed: https://www.deutschlandfunkkultur.de/podcast-kulturpresseschau-100.xml</description>
+                <title>Psalm 95</title>
+                <description>
+Feed: https://www.icf-nuernberg.de/podcast/show/icf_nbg_de/feed/audio/mpeg</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/kulturpresseschau-dlf-kultur-4572fb87-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/09/23/kulturpresseschau_drk_20240923_2350_4572fb87.mp3?refId=podcast-kulturpresseschau-100"/>
-                <guid>https://www.deutschlandfunkkultur.de/kulturpresseschau-dlf-kultur-4572fb87-100.html</guid>
+                <link>https://www.icf-nuernberg.de/podcasts/psalm-95/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.icfn.de/2024_sommer/20240901_psalm95.mp3"/>
+                <guid>https://www.icf-nuernberg.de/podcasts/psalm-95/</guid>
                 
             </item>
         </channel>

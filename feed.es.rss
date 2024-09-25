@@ -9,36 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 24 Sep 2024 04:27:05 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 25 Sep 2024 04:27:10 +0200</lastBuildDate>
             <item>
-                <title>Entre probetas - La psicología tras el estrés - 17/09/24</title>
-                <description>La psicología tras el estrés
-Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
+                <title>Sábado, 28 de septiembre</title>
+                <description>Lc 9, 43-45
+Feed: https://rezandovoy.org/podcast</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/entre-probetas/psicologia-tras-estres/16250169/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16250169.mp3"/>
-                <guid>https://www.rtve.es/play/audios/entre-probetas/psicologia-tras-estres/16250169/</guid>
+                <link>https://rezandovoy.org/reproductor/2024-09-28</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rezando.es/public/rezandovoy/oraciones/5475/o.mp3"/>
+                <guid>https://rezandovoy.org/reproductor/2024-09-28</guid>
                 
             </item><item>
-                <title>PYM 51. Freskito y Medio. El retorno.</title>
-                <description>Se va el verano pero llega un cl&amp;aacute;sico: &amp;iexcl;el Freskito y Medio tard&amp;iacute;o!
-Recuperamos el formato Freskito, en el que os traemos dos mini-recomendaciones cada uno.
-Estas son nuestras secciones freskitas:
-00:09:59 - Mini-Recomendaciones
-Ojo, alerones: Os dejamos el listado de las recomendaciones:
--Seidon:
-   Light &amp;amp; Magic
--Malcolm:
-   Arkham Horror. El juego de cartas. + Adaptaciones de Lovecraft de Gou Tanabe.
--Mildre:
-   La maldici&amp;oacute;n del tranv&amp;iacute;a 015. (P...
-Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
+                <title>Serie: Viento y fuego. Pt. 1, La persona del Espíritu Santo</title>
+                <description>
+Feed: https://arboldevida.podbean.com/feed.xml</description>
                 
                 
-                <link>https://www.ivoox.com/pym-51-freskito-medio-el-retorno-audios-mp3_rf_133826358_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-51-freskito-medio-el-retorno_mf_133826358_feed_1.mp3?d=1726426098"/>
-                <guid>https://www.ivoox.com/pym-51-freskito-medio-el-retorno-audios-mp3_rf_133826358_1.html</guid>
+                <link>https://arboldevida.podbean.com/e/serie-viento-y-fuego-pt-1-la-persona-del-espiritu-santo/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/z5uimj2m9zkm33rn/37-Viento_y_Fuego_La_Persona_del_Espiritu_Santo_Ps_Jeff_Duncan_15-09-24_1_b6khd.mp3"/>
+                <guid>https://arboldevida.podbean.com/e/serie-viento-y-fuego-pt-1-la-persona-del-espiritu-santo/</guid>
                 
             </item>
         </channel>
