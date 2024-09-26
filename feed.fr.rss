@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 25 Sep 2024 04:27:07 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 26 Sep 2024 04:27:08 +0200</lastBuildDate>
             <item>
-                <title>Tous hétéros au boulot ? le livre (Teaser) — STREAM #16</title>
-                <description>Vie pro / vie perso : être non hétéro au taf
-Feed: https://feeds.acast.com/public/shows/5c74448857223e944f75f7b6</description>
+                <title>[REDIFFUSION] EP4 - le reportage : Faut-il plus de moyens ou changer l&#39;école ?</title>
+                <description>Groupes de niveaux, standardisation des évaluations, classe préparatoire pour les élèves ayant échoué l’examen du brevet des collèges… Gabriel Attal, ancien ministre de l’éducation nationale et de la jeunesse, désormais premier ministre annonçait en dé...
+Feed: https://feed.ausha.co/BqmVUKpdXNDB</description>
                 
                 
-                <link>https://metadechoc.fr/emission/stream/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5c74448857223e944f75f7b6/e/66e3471cb3f093eecce0452f/media.mp3"/>
-                <guid>https://metadechoc.fr/emission/stream/</guid>
+                <link>https://podcast.ausha.co/penser-les-luttes/rediffusion-ep4-le-reportage-faut-il-plus-de-moyens-ou-changer-l-ecole</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bPq4JSVmLxqB.mp3?t=1720000741"/>
+                <guid>https://podcast.ausha.co/penser-les-luttes/rediffusion-ep4-le-reportage-faut-il-plus-de-moyens-ou-changer-l-ecole</guid>
                 
             </item><item>
-                <title>ALPINE A110S Orange pressée</title>
-                <description>La conclusion de cet essai ? voiture top, ultra polyvalente, et au final pas si cher surtout car elle arrive à échapper au malus délirant de ses concurrentes ? L’idéal ? Lui rajouter un 6 cylindres, mais alors, elle perdrait sans doute de son ...
-Feed: https://feeds.audiomeans.fr/feed/679ac5ec-0596-43ca-8a86-851321bd469f.xml</description>
+                <title>L&#39;actu  : Des industries culturelles qui font leur tournant écologique et la révolution</title>
+                <description>L&#39;actu  : Des industries culturelles qui font leur tournant écologique et la révolution
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10212.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/4e38f2d5-2ccb-4dec-b65c-68624a08fd85.mp3?_=1722921372"/>
-                <guid></guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-l-actu-du-mercredi-25-septembre-2024-4237205</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/6f46897e-c542-4bdb-b823-d6996f595a70/10212-25.09.2024-ITEMA_23871986-2024F10732S1269-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-l-actu-du-mercredi-25-septembre-2024-4237205</guid>
                 
             </item>
         </channel>

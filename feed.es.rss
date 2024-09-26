@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 25 Sep 2024 04:27:10 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 26 Sep 2024 04:27:11 +0200</lastBuildDate>
             <item>
-                <title>Sábado, 28 de septiembre</title>
-                <description>Lc 9, 43-45
-Feed: https://rezandovoy.org/podcast</description>
+                <title>Islas de Robinson - Alegría de nivel máximo - 23/09/24</title>
+                <description>Alegría de nivel máximo
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>https://rezandovoy.org/reproductor/2024-09-28</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rezando.es/public/rezandovoy/oraciones/5475/o.mp3"/>
-                <guid>https://rezandovoy.org/reproductor/2024-09-28</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/alegria-nivel-maximo-23-09-24/16258599/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16258599.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/alegria-nivel-maximo-23-09-24/16258599/</guid>
                 
             </item><item>
-                <title>Serie: Viento y fuego. Pt. 1, La persona del Espíritu Santo</title>
-                <description>
-Feed: https://arboldevida.podbean.com/feed.xml</description>
+                <title>Star 80 del 21 de septiembre de 2024 (edición 487 en Can10fm)</title>
+                <description>Peter Schilling - The Different Story (World Of Lust And Crime)
+Mauro - Buona Sera (Ciao,Ciao)
+Silent Circle - Oh, Don&#39;t Lose Your Heart Tonight
+Trans X - Living On Video
+E.G...
+Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
                 
                 
-                <link>https://arboldevida.podbean.com/e/serie-viento-y-fuego-pt-1-la-persona-del-espiritu-santo/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/z5uimj2m9zkm33rn/37-Viento_y_Fuego_La_Persona_del_Espiritu_Santo_Ps_Jeff_Duncan_15-09-24_1_b6khd.mp3"/>
-                <guid>https://arboldevida.podbean.com/e/serie-viento-y-fuego-pt-1-la-persona-del-espiritu-santo/</guid>
+                <link>https://www.ivoox.com/star-80-del-21-septiembre-2024-audios-mp3_rf_134025331_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-21-septiembre-2024_mf_134025331_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/star-80-del-21-septiembre-2024-audios-mp3_rf_134025331_1.html</guid>
                 
             </item>
         </channel>

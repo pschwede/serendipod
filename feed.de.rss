@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 25 Sep 2024 04:27:03 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 26 Sep 2024 04:27:04 +0200</lastBuildDate>
             <item>
-                <title>Folge 240: Diefflen, Herxheim, Morlautern</title>
-                <description>Die letzten Wochen waren für die Schängel erfolgreich, aber durch die hohe Anzahl der Pflichtspiele auch durchaus anstrengend. Mit Michael Stahl sprechen wir über die Siege in den letzten Partien, aber auch über die Belastungen, die hinter der Mannschaft
-Feed: https://www.61meter.de/feed/podcast/</description>
+                <title>016 Tolkien Thing 2024 Recap</title>
+                <description>Gut geplant ist halb erledigt. 
+Feed: https://www.tec-palantir.de/feed/mp3</description>
                 
                 
-                <link>https://www.61meter.de/podcast/folge-240-diefflen-herxheim-morlautern/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.61meter.de/podcast-download/2261/folge-240-diefflen-herxheim-morlautern.mp3"/>
-                <guid>https://www.61meter.de/podcast/folge-240-diefflen-herxheim-morlautern/</guid>
+                <link>https://www.tec-palantir.de/episode/016-tolkien-thing-2024-recap</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/44cb0bef/episode/5c726de7.mp3?t=1725545124"/>
+                <guid>https://www.tec-palantir.de/episode/016-tolkien-thing-2024-recap</guid>
                 
             </item><item>
-                <title>Psalm 95</title>
+                <title>Unser Herz für Gottes Gegenwart</title>
                 <description>
 Feed: https://www.icf-nuernberg.de/podcast/show/icf_nbg_de/feed/audio/mpeg</description>
                 
                 
-                <link>https://www.icf-nuernberg.de/podcasts/psalm-95/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.icfn.de/2024_sommer/20240901_psalm95.mp3"/>
-                <guid>https://www.icf-nuernberg.de/podcasts/psalm-95/</guid>
+                <link>https://www.icf-nuernberg.de/podcasts/unser-herz-fuer-gottes-gegenwart/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.icfn.de/2024_sundaycelebration/20240915_herzfuergegenwart.mp3"/>
+                <guid>https://www.icf-nuernberg.de/podcasts/unser-herz-fuer-gottes-gegenwart/</guid>
                 
             </item>
         </channel>
