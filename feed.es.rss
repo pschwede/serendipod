@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 26 Sep 2024 04:27:11 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 28 Sep 2024 04:26:06 +0200</lastBuildDate>
             <item>
-                <title>Islas de Robinson - Alegría de nivel máximo - 23/09/24</title>
-                <description>Alegría de nivel máximo
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>Crónica internacional - Oriente Próximo: la escalada de la tensión sigue en aumento</title>
+                <description>Oriente Próximo: la escalada de la tensión sigue en aumento
+Feed: https://www.rtve.es/api/programas/130031/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/alegria-nivel-maximo-23-09-24/16258599/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16258599.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/alegria-nivel-maximo-23-09-24/16258599/</guid>
+                <link>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-oriente-proximo-escalada-tension-sigue-aumento/16255965/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16255965.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-oriente-proximo-escalada-tension-sigue-aumento/16255965/</guid>
                 
             </item><item>
-                <title>Star 80 del 21 de septiembre de 2024 (edición 487 en Can10fm)</title>
-                <description>Peter Schilling - The Different Story (World Of Lust And Crime)
-Mauro - Buona Sera (Ciao,Ciao)
-Silent Circle - Oh, Don&#39;t Lose Your Heart Tonight
-Trans X - Living On Video
-E.G...
-Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
+                <title>Intenciones de oración del Papa Francisco – Octubre 2024 [Video]</title>
+                <description>La Santa Sede ha dado a conocer las intenciones de oración del Papa Francisco para el mes de Octubre 2024. Intención de oración: Por una misión compartida Oremos para que &amp;#8230;
+Feed: http://feed.quechilero.com/IntencionesDeOracionDelPapa</description>
                 
                 
-                <link>https://www.ivoox.com/star-80-del-21-septiembre-2024-audios-mp3_rf_134025331_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-21-septiembre-2024_mf_134025331_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/star-80-del-21-septiembre-2024-audios-mp3_rf_134025331_1.html</guid>
+                <link>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-octubre-2024-video/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=d4a7cbf0-0244-5cca-b5f7-502b9b5a3298/diocesisdeescuintla.com/podcast-download/11975/intenciones-de-oracion-del-papa-francisco-octubre-2024-video.mp3"/>
+                <guid>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-octubre-2024-video/</guid>
                 
             </item>
         </channel>

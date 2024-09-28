@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 26 Sep 2024 04:27:04 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 28 Sep 2024 04:25:56 +0200</lastBuildDate>
             <item>
-                <title>016 Tolkien Thing 2024 Recap</title>
-                <description>Gut geplant ist halb erledigt. 
-Feed: https://www.tec-palantir.de/feed/mp3</description>
+                <title>Fotobuch-Plauder-Ecke – Josef Śnobl – Hayahisa Tomiyasu</title>
+                <description>Ein neuer Monat, also auch eine neue Folge der Fotobuch-Plauder-Ecke. Diesmal haben wir uns das Thema „Geheimtipp“ gestellt, also Bücher, die man vielleicht nicht unbedingt direkt auf dem Schirm hat, die sich aber lohnen, einmal genauer anzuschauen.
+Feed: https://de9vpm.podcaster.de/fotobuch-ecke.rss</description>
                 
                 
-                <link>https://www.tec-palantir.de/episode/016-tolkien-thing-2024-recap</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/44cb0bef/episode/5c726de7.mp3?t=1725545124"/>
-                <guid>https://www.tec-palantir.de/episode/016-tolkien-thing-2024-recap</guid>
+                <link>https://fotobuch-ecke.de/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://de9vpm.podcaster.de/fotobuch-ecke/media/FBPE12_Josef_Snobl_Hayahisa_Tomiyasu.mp3"/>
+                <guid>https://fotobuch-ecke.de/</guid>
                 
             </item><item>
-                <title>Unser Herz für Gottes Gegenwart</title>
-                <description>
-Feed: https://www.icf-nuernberg.de/podcast/show/icf_nbg_de/feed/audio/mpeg</description>
+                <title>POP News – 4. Quartal 2024</title>
+                <description>Shownotes POP News – 4. Quartal 2024 Bete folgendes Gebet um Jesus Christus bewusst zum Herrn Deines Lebens zu machen:Herr Jesus, ich glaube, dass Du Gottes Sohn bist. Ich glaube, dass Du auch für meine Sünden und Fehler am Kreuz gestorben bist. Darum bi
+Feed: https://cclm.de/feed/podcast/</description>
                 
                 
-                <link>https://www.icf-nuernberg.de/podcasts/unser-herz-fuer-gottes-gegenwart/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.icfn.de/2024_sundaycelebration/20240915_herzfuergegenwart.mp3"/>
-                <guid>https://www.icf-nuernberg.de/podcasts/unser-herz-fuer-gottes-gegenwart/</guid>
+                <link>https://cclm.de/podcast/pop-news-4-quartal-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cclm.de/podcast-download/12318/pop-news-4-quartal-2024.mp3"/>
+                <guid>https://cclm.de/podcast/pop-news-4-quartal-2024/</guid>
                 
             </item>
         </channel>
