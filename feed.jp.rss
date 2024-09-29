@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 28 Sep 2024 04:26:20 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Sep 2024 04:26:18 +0200</lastBuildDate>
             <item>
-                <title>GNI – Gay Naturists International</title>
-                <description>Discussing how Gay Naturists International or GNI started, what is their purpose, and what they do for naturism.
-Feed: https://www.naturistlivingshow.com/feed/podcast</description>
+                <title>29/09/2024 03:01 GMT</title>
+                <description>The latest five minute news bulletin from BBC World Service.
+Feed: https://podcast.voice.api.bbci.co.uk/rss/audio/p002vsmz?api_key=Wbek5zSqxz0Hk1blo5IBqbd9SCWIfNbT</description>
                 
                 
-                <link>https://www.naturistlivingshow.com/2024/09/gni-gay-naturists-international.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/naturist/dts.podtrac.com/redirect.mp3/www.bareoaks.ca/podcast/159-GNI.mp3"/>
-                <guid>https://www.naturistlivingshow.com/2024/09/gni-gay-naturists-international.html</guid>
+                <link>http://www.bbc.co.uk/programmes/w172zgf964gs8h3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/w1mskspxhnwvjk5.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/w172zgf964gs8h3</guid>
                 
             </item><item>
-                <title>Listen Now - The Magical Making of Disney&#39;s Aladdin on Broadway</title>
-                <description>Few musicals have captured the hearts of audiences quite like Disney&#39;s ALADDIN. But did you know the beloved stage adaptation of the classic animation almost never came to be? This podcast pulls back the curtain on the untold story of ALADDIN&#39;s journey from conception to Broadway triumph.
-Join 11-time Emmy Award winning entertainment journalist for NY1 and NY1OnStage host Frank DiLella on an in-depth exploration that begins with the initial spark of a stage adaptation...
-Feed: https://feeds.megaphone.fm/theensemblist</description>
+                <title>Chapin Cutler</title>
+                <description>As the cofounder of Boston Light and Sound, Chapin Cutler has built movie theaters from the ground up and transformed unlikely spaces into pop-up cinemas. He’s been responsible for 70mm showings of new films by Christopher Nolan and Quentin...
+Feed: http://maltinonmovies.libsyn.com/rss</description>
                 
                 
-                <link>http://bpn.fm/aladdin</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/2G242/traffic.megaphone.fm/BPNET3212514759.mp3?updated=1726850265"/>
-                <guid>http://bpn.fm/aladdin</guid>
+                <link>https://sites.libsyn.com/84296/chapin-cutler</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/maltinonmovies/mom412_chapincutler.mp3?dest-id=399849"/>
+                <guid>https://sites.libsyn.com/84296/chapin-cutler</guid>
                 
             </item>
         </channel>

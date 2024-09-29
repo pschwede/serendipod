@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 28 Sep 2024 04:26:01 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Sep 2024 04:25:53 +0200</lastBuildDate>
             <item>
-                <title>Schizophrénie : 09/08/2024 20:00</title>
-                <description>713-320225
-Feed: http://podcast.cism893.ca/radioshows/713/feed_itunes.xml</description>
+                <title>Pierre Michon (3/3)</title>
+                <description>Pierrot le ouf
+Feed: https://www.arteradio.com/xml_sound_serie?seriename=%22BOOKMAKERS%22</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/320225.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/320225.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/320225.mp3</guid>
+                <link>https://www.arteradio.com/son/61689639/pierre_michon_3_3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arte.proxycast.org/m/media/226026218795.mp3?c=Serie&amp;p=1627&amp;l3=61689639&amp;l4=pierre_michon_3_3-20240917-98&amp;media_url=https%3A%2F%2Fcdn.arteradio.com%2Fpermanent%2Farteradio%2Fsites%2Fdefault%2Ffiles%2Fsons%2F17bookmakers_pierre_michon_3_hq_fr.mp3"/>
+                <guid>https://www.arteradio.com/son/61689639/pierre_michon_3_3</guid>
                 
             </item><item>
-                <title>Dessin animé, une histoire 4/4 : &#34;Je pompe donc je suis.&#34; Les Shadoks, vent d&#39;audace sur l&#39;ORTF </title>
-                <description>Dessin animé, une histoire 4/4 : &#34;Je pompe donc je suis.&#34; Les Shadoks, vent d&#39;audace sur l&#39;ORTF 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10076.xml</description>
+                <title>Président-Fondateur sous influence</title>
+                <description>
+Président-Fondateur est fatigué qu’on dise que c’est son entourage qui le manipule… 
+
+Feed: https://www.rfi.fr/fr/podcasts/chronique-mamane/podcast</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/je-pompe-donc-je-suis-les-shadoks-vent-d-audace-sur-l-ortf-1561602</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/f3bf3845-2ed6-4130-bbcd-7431d94fccd9/10076-28.09.2024-ITEMA_23875208-2023C36128S0299-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/je-pompe-donc-je-suis-les-shadoks-vent-d-audace-sur-l-ortf-1561602</guid>
+                <link>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20240926-pr%C3%A9sident-fondateur-sous-influence</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB2894-RFI-FR-20090915%7CChronique%20de%20Mamane&amp;l3=WBMZ449026-RFI-FR-20240926%7CPr%C3%A9sident-Fondateur%20sous%20influence&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202409%2FCHR_MAMANE_26-09-24.mp3"/>
+                <guid>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20240926-pr%C3%A9sident-fondateur-sous-influence</guid>
                 
             </item>
         </channel>
