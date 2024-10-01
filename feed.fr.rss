@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 29 Sep 2024 04:25:53 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 01 Oct 2024 04:27:40 +0200</lastBuildDate>
             <item>
-                <title>Pierre Michon (3/3)</title>
-                <description>Pierrot le ouf
-Feed: https://www.arteradio.com/xml_sound_serie?seriename=%22BOOKMAKERS%22</description>
+                <title>L&#39;INTÉGRALE - Stéphane dans #LeDriveRTL2 (30/09/24)</title>
+                <description>Stéphane était de passage dans #LeDriveRTL2 ce lundi 30 septembre 2024. Elle a parlé avec Eric Jean-Jean de son nouvel album &#34;La prison des amoureuses malheureuses&#34; et a joué deux titres en direct dans les studios de la station Pop-Rock dont son nouveau single &#34;Ma ...
+Feed: https://feeds.audiomeans.fr/feed/e88d096f-03b3-41ed-b4c7-ecb6daf30382.xml</description>
                 
                 
-                <link>https://www.arteradio.com/son/61689639/pierre_michon_3_3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arte.proxycast.org/m/media/226026218795.mp3?c=Serie&amp;p=1627&amp;l3=61689639&amp;l4=pierre_michon_3_3-20240917-98&amp;media_url=https%3A%2F%2Fcdn.arteradio.com%2Fpermanent%2Farteradio%2Fsites%2Fdefault%2Ffiles%2Fsons%2F17bookmakers_pierre_michon_3_hq_fr.mp3"/>
-                <guid>https://www.arteradio.com/son/61689639/pierre_michon_3_3</guid>
+                <link>https://www.rtl2.fr/programmes/le-drive-rtl2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/e0d532fa-2439-4a8b-b4c5-91f39f7197e2.mp3?_=1727720292"/>
+                <guid>https://www.rtl2.fr/programmes/le-drive-rtl2</guid>
                 
             </item><item>
-                <title>Président-Fondateur sous influence</title>
+                <title>Le télétravail, considéré comme un acquis en France depuis le Covid, pourrait reculer</title>
                 <description>
-Président-Fondateur est fatigué qu’on dise que c’est son entourage qui le manipule… 
-
-Feed: https://www.rfi.fr/fr/podcasts/chronique-mamane/podcast</description>
+Depuis quelques années, le télétravail est bien installé dans les entreprises françaises. C’est même devenu un prérequis pour certains employés. Mais ces derniers temps, plusieurs sociétés font machine arrière et tentent de mieux réglementer ce nouveau …
+Feed: https://www.rfi.fr/fr/podcasts/reportage-france/podcast</description>
                 
                 
-                <link>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20240926-pr%C3%A9sident-fondateur-sous-influence</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB2894-RFI-FR-20090915%7CChronique%20de%20Mamane&amp;l3=WBMZ449026-RFI-FR-20240926%7CPr%C3%A9sident-Fondateur%20sous%20influence&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202409%2FCHR_MAMANE_26-09-24.mp3"/>
-                <guid>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20240926-pr%C3%A9sident-fondateur-sous-influence</guid>
+                <link>https://www.rfi.fr/fr/podcasts/reportage-france/20240929-le-t%C3%A9l%C3%A9travail-consid%C3%A9r%C3%A9-comme-un-acquis-en-france-depuis-le-covid-pourrait-reculer</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB10194-RFI-FR-20091012%7CReportage%20France&amp;l3=WBMZ450194-RFI-FR-20240929%7CLe%20t%C3%A9l%C3%A9travail%2C%20consid%C3%A9r%C3%A9%20comme%20un%20acquis%20en%20France%20depuis%20le%20Covid%2C%20pourrait%20reculer&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202409%2FREP_FRA_lu_30-09-24_Recul_ou_regulation_du_teletravail.mp3"/>
+                <guid>https://www.rfi.fr/fr/podcasts/reportage-france/20240929-le-t%C3%A9l%C3%A9travail-consid%C3%A9r%C3%A9-comme-un-acquis-en-france-depuis-le-covid-pourrait-reculer</guid>
                 
             </item>
         </channel>

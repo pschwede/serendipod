@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 29 Sep 2024 04:26:03 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 01 Oct 2024 04:27:54 +0200</lastBuildDate>
             <item>
-                <title>Nicholas Sparks, Nigel Barker &amp; The BRAT Diet?</title>
-                <description>TICKETS ARE OFFICIALLY ON SALE FOR OUR FALL TOUR! GET &#39;EM AT WHOWEEKLY.US/LIVE...
-Feed: https://feeds.megaphone.fm/who-weekly</description>
+                <title>Ep. #199 - The Doom Guy Book with John Romero</title>
+                <description>This is a huge one! We are very proud and happy to welcome the one and only John Romero - the co-creator of Doom! In this episode of our podcast he is talking about his long-awaited autobiography &#39;Doom Guy: Life in First Person&#39;. Tune in for gaming&#39;s original rock star!
+The interview section starts at minute 31:17
+Enjoy!
+    
+Feed: https://feeds.feedburner.com/sceneworldpodcast</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/chtbl.com/track/42D75/traffic.megaphone.fm/CAD5031696301.mp3?updated=1727407195"/>
-                <guid></guid>
+                <link>https://sceneworld.org/blog/2024/09/24/ep.-199-the-doom-guy-book-with-john-romero/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sceneworld.org/assets/downloads/podcast/scene_world_podcast_episode199_september_2024.mp3"/>
+                <guid>https://sceneworld.org/blog/2024/09/24/ep.-199-the-doom-guy-book-with-john-romero/</guid>
                 
             </item><item>
-                <title>Will Budget 2025 be like a Toy Show giveaway?</title>
-                <description>And is there departmental discontent ahead of the October 1st announcement?
-Feed: https://feeds.acast.com/public/shows/6155db9059a3fa00137f30a9</description>
+                <title>Assembling Code</title>
+                <description>Programming, as a practice and study, has been steadily evolving for the past 70 or so years. Over the languages have become more sophisticated and user friendly. New tools have been developed that make programming easier and better. But what was that...
+Feed: https://adventofcomputing.libsyn.com/rss</description>
                 
                 
-                <link>https://shows.acast.com/inside-politics-2/episodes/will-budget-2025-be-like-a-toy-show-giveaway</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6155db9059a3fa00137f30a9/e/66f6d7ac224b00387dee18c9/media.mp3"/>
-                <guid>https://shows.acast.com/inside-politics-2/episodes/will-budget-2025-be-like-a-toy-show-giveaway</guid>
+                <link>https://adventofcomputing.libsyn.com/episode-140-assembling-code</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/adventofcomputing/ep140_assembly.mp3?dest-id=1206722"/>
+                <guid>https://adventofcomputing.libsyn.com/episode-140-assembling-code</guid>
                 
             </item>
         </channel>
