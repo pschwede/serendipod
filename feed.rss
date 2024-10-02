@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 01 Oct 2024 04:27:29 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 02 Oct 2024 04:26:52 +0200</lastBuildDate>
             <item>
-                <title>Tested (Ep 2): Questions of a Physical Nature</title>
-                <description>We go back almost 100 years, to the beginning of women&#39;s inclusion in elite sports. It turns out that men had an odd variety of concerns about women athletes. Some doubted these athletes were even women at all. And their skepticism resulted in the first policies requiring sex testing. Tested is a six-part series, you can binge all the episodes now in the Embedded podcast and the CBC feed.&lt;br/&gt;&lt;br/&gt;Learn more about sponsor message choices: podcastchoices.com/adchoices&lt;br/&gt;&lt;br/&gt;NPR Privacy Policy
-Feed: https://feeds.npr.org/510307/podcast.xml</description>
+                <title>Listen Now - The Magical Making of Disney&#39;s Aladdin on Broadway</title>
+                <description>Few musicals have captured the hearts of audiences quite like Disney&#39;s ALADDIN. But did you know the beloved stage adaptation of the classic animation almost never came to be? This podcast pulls back the curtain on the untold story of ALADDIN&#39;s journey from conception to Broadway triumph.
+Join 11-time Emmy Award winning entertainment journalist for NY1 and NY1OnStage host Frank DiLella on an in-depth exploration that begins with the initial spark of a stage adaptation...
+Feed: https://feeds.megaphone.fm/theensemblist</description>
                 
                 
-                <link>https://www.npr.org/2026/01/01/1256998294/tested-questions-of-a-physical-nature</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510307/traffic.megaphone.fm/NPR2243610217.mp3?d=2066&amp;size=33056897&amp;e=1256998294&amp;t=podcast&amp;p=510307"/>
-                <guid>https://www.npr.org/2026/01/01/1256998294/tested-questions-of-a-physical-nature</guid>
+                <link>http://bpn.fm/aladdin</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/2G242/traffic.megaphone.fm/BPNET3212514759.mp3?updated=1726850265"/>
+                <guid>http://bpn.fm/aladdin</guid>
                 
             </item><item>
-                <title>169: I’m Going to Have to Start Selling Some Organs</title>
-                <description>Jamon Bull welcomes back MJCast co-founder Q, along with frequent show guest Shawn Shackelford, MJ Radio’s Jason Garcia, and YouTuber Hannah Savage for a big fan chat around news and Continue Reading →
-Feed: https://www.themjcast.com/category/themjcast/feed/</description>
+                <title>gnuWorldOrder_583</title>
+                <description>
+**iceauth** , **ico** , **igt-gpu-tools** , **imake** , **intel-vaapi-driver**
+, **libFS** , **libICE** , **libSM** , **libX11** , **libXScrnSaver** ,
+**libXau** , **libXaw** , **libXaw3d** , **libXaw3dXft** from the **x**
+software set of Slackware Linux.
+ shasum -a256=585e380bb2340b234d123c67cd5b02513102bf8caa654084d1c4f13ea7d35eab
+Feed: https://gnuworldorder.info/ogg.xml</description>
                 
                 
-                <link>https://www.themjcast.com/169-im-going-to-have-to-start-selling-some-organs/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/themjcast/content.blubrry.com/themjcast/169.mp3"/>
-                <guid>https://www.themjcast.com/169-im-going-to-have-to-start-selling-some-organs/</guid>
+                <link>http://gnuworldorder.info//audiophile/gnuWorldOrder_583_ogg.ogg</link>
+                <enclosure type="audio/mpeg" length="1" url="http://gnuworldorder.info//audiophile/gnuWorldOrder_583_ogg.ogg"/>
+                <guid>http://gnuworldorder.info//audiophile/gnuWorldOrder_583_ogg.ogg</guid>
                 
             </item>
         </channel>

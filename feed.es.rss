@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 01 Oct 2024 04:27:45 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 02 Oct 2024 04:27:08 +0200</lastBuildDate>
             <item>
-                <title>Sonidos y Sonados 2024-09-26</title>
-                <description>Buscando en el baúl de los recuerdos 29. Emitidos el 18 de agosto de 2011. 1001  discos que hay que escuchar antes de morir, volumen 4 Como diría Karina “buscando en el baúl de los recuerdos, uh uh uh”.&amp;#160; Hemos rebuscado en ese baúl y entre los 1001 discos que hay que escuchar antes de [&amp;#8230;]
-Feed: https://feeds.feedburner.com/sonidosysonados</description>
+                <title>Gente despierta - Sagas de vampiros con Mercedes Fisteus</title>
+                <description>Sagas de vampiros con Mercedes Fisteus
+Feed: http://www.rtve.es/api/programas/68092/audios.rss</description>
                 
                 
-                <link>https://www.sonidosysonados.com/2024/09/27/sonidos-y-sonados-2024-08-26/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.digitaloceanspaces.com/SonidosySonados20110818Tut.mp3"/>
-                <guid>https://www.sonidosysonados.com/2024/09/27/sonidos-y-sonados-2024-08-26/</guid>
+                <link>https://www.rtve.es/play/audios/gente-despierta/gente-despierta-sagas-vampiros-mercedes-fisteus/16228871/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16228871.mp3"/>
+                <guid>https://www.rtve.es/play/audios/gente-despierta/gente-despierta-sagas-vampiros-mercedes-fisteus/16228871/</guid>
                 
             </item><item>
-                <title>Fluir en las transiciones</title>
-                <description>Todos nos hemos tenido el encuentro de un cambio el paso de un estado A hacia uno B, no es lo mismo pasar de una casa a otra (ya sea en un mismo pa&amp;iacute;s o no&amp;hellip;) que pasar de un estado de soltero a casado&amp;hellip; y no es lo mismo sentir que la situaci&amp;oacute;n fluye a trav&amp;eacute;s nuestro a que nos la impongan&amp;hellip;
-Para poder acceder a nuevos situaciones necesitamos abrirnos a una nueva capacidad ...
-Feed: https://www.ivoox.com/podcast-nodo-estelar-aneto_fg_f11026236_filtro_1.xml</description>
+                <title>Melodías pizarras - Tren, tren, tren - 28/09/24</title>
+                <description>Tren, tren, tren
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/fluir-transiciones-audios-mp3_rf_132694886_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/fluir-transiciones_mf_132694886_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/fluir-transiciones-audios-mp3_rf_132694886_1.html</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/tren-tren-tren-28-09-24/16266246/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16266246.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/tren-tren-tren-28-09-24/16266246/</guid>
                 
             </item>
         </channel>

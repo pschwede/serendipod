@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 01 Oct 2024 04:27:40 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 02 Oct 2024 04:27:03 +0200</lastBuildDate>
             <item>
-                <title>L&#39;INTÉGRALE - Stéphane dans #LeDriveRTL2 (30/09/24)</title>
-                <description>Stéphane était de passage dans #LeDriveRTL2 ce lundi 30 septembre 2024. Elle a parlé avec Eric Jean-Jean de son nouvel album &#34;La prison des amoureuses malheureuses&#34; et a joué deux titres en direct dans les studios de la station Pop-Rock dont son nouveau single &#34;Ma ...
-Feed: https://feeds.audiomeans.fr/feed/e88d096f-03b3-41ed-b4c7-ecb6daf30382.xml</description>
+                <title>{RÉFLEXION} - Incendies liés aux batteries</title>
+                <description>Thierry Weber nous raconte qu&#39;en Suisse, les ince…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:248510865/sounds.rss</description>
                 
                 
-                <link>https://www.rtl2.fr/programmes/le-drive-rtl2</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/e0d532fa-2439-4a8b-b4c5-91f39f7197e2.mp3?_=1727720292"/>
-                <guid>https://www.rtl2.fr/programmes/le-drive-rtl2</guid>
+                <link>https://soundcloud.com/moncarnet/reflexion-incendies-lies-aux-batteries</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1927236710-moncarnet-reflexion-incendies-lies-aux-batteries.mp3"/>
+                <guid>https://soundcloud.com/moncarnet/reflexion-incendies-lies-aux-batteries</guid>
                 
             </item><item>
-                <title>Le télétravail, considéré comme un acquis en France depuis le Covid, pourrait reculer</title>
-                <description>
-Depuis quelques années, le télétravail est bien installé dans les entreprises françaises. C’est même devenu un prérequis pour certains employés. Mais ces derniers temps, plusieurs sociétés font machine arrière et tentent de mieux réglementer ce nouveau …
-Feed: https://www.rfi.fr/fr/podcasts/reportage-france/podcast</description>
+                <title>Club Jazzafip du mardi 01 octobre 2024</title>
+                <description>Club Jazzafip du mardi 01 octobre 2024
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_12250.xml</description>
                 
                 
-                <link>https://www.rfi.fr/fr/podcasts/reportage-france/20240929-le-t%C3%A9l%C3%A9travail-consid%C3%A9r%C3%A9-comme-un-acquis-en-france-depuis-le-covid-pourrait-reculer</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB10194-RFI-FR-20091012%7CReportage%20France&amp;l3=WBMZ450194-RFI-FR-20240929%7CLe%20t%C3%A9l%C3%A9travail%2C%20consid%C3%A9r%C3%A9%20comme%20un%20acquis%20en%20France%20depuis%20le%20Covid%2C%20pourrait%20reculer&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202409%2FREP_FRA_lu_30-09-24_Recul_ou_regulation_du_teletravail.mp3"/>
-                <guid>https://www.rfi.fr/fr/podcasts/reportage-france/20240929-le-t%C3%A9l%C3%A9travail-consid%C3%A9r%C3%A9-comme-un-acquis-en-france-depuis-le-covid-pourrait-reculer</guid>
+                <link>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/club-jazzafip-du-mardi-01-octobre-2024-2319571</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/622886aa-ff1f-4370-b19b-61590793a99b/12250-01.10.2024-ITEMA_23878385-2024Y19087S0275-21.mp3"/>
+                <guid>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/club-jazzafip-du-mardi-01-octobre-2024-2319571</guid>
                 
             </item>
         </channel>
