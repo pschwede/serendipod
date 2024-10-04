@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 02 Oct 2024 04:27:03 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 04 Oct 2024 04:26:43 +0200</lastBuildDate>
             <item>
-                <title>{RÉFLEXION} - Incendies liés aux batteries</title>
-                <description>Thierry Weber nous raconte qu&#39;en Suisse, les ince…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:248510865/sounds.rss</description>
+                <title>Le cours de math : 10/02/2024 20:00</title>
+                <description>1226-321803
+Feed: http://podcast.cism893.ca/radioshows/1226/feed_itunes.xml</description>
                 
                 
-                <link>https://soundcloud.com/moncarnet/reflexion-incendies-lies-aux-batteries</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1927236710-moncarnet-reflexion-incendies-lies-aux-batteries.mp3"/>
-                <guid>https://soundcloud.com/moncarnet/reflexion-incendies-lies-aux-batteries</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/321803.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/321803.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/321803.mp3</guid>
                 
             </item><item>
-                <title>Club Jazzafip du mardi 01 octobre 2024</title>
-                <description>Club Jazzafip du mardi 01 octobre 2024
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_12250.xml</description>
+                <title>#17 - Nicolas Conraux, le chef étoilé raconte son « cosmo shift » et celui de la Butte à Plouider</title>
+                <description>Pour moi le chef étoilé Nicolas Conraux fait partie de celles et ceux qui ouvrent la voie des nouveaux codes du luxe dans la gastron...
+Feed: https://feeds.audiomeans.fr/feed/02370dad-ef66-4252-9a2b-e3661bd93b5f.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/club-jazzafip-du-mardi-01-octobre-2024-2319571</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/622886aa-ff1f-4370-b19b-61590793a99b/12250-01.10.2024-ITEMA_23878385-2024Y19087S0275-21.mp3"/>
-                <guid>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/club-jazzafip-du-mardi-01-octobre-2024-2319571</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/62c71212-d0c1-4f26-88c4-d0802fb00f32.mp3?_=1727701420"/>
+                <guid></guid>
                 
             </item>
         </channel>

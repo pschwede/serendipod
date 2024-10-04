@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 02 Oct 2024 04:27:22 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 04 Oct 2024 04:26:55 +0200</lastBuildDate>
             <item>
-                <title>Sales Episode #19 with Richard Blank. The Six Figure Entrepreneur Podcast presented by Mayowa Ajisafe.</title>
-                <description>Sales Episode #19 with Richard Blank. The Six Figure Entrepreneur Podcast presented by Mayowa Ajisafe.
-Feed: https://feeds.redcircle.com/772c4b3f-3ad6-4a26-8837-40ed78859e78</description>
+                <title>Demography and deathcare in a changing East Asia</title>
+                <description>&lt;p&gt;As East Asian countries like Japan, China and South Korea experience rapid population ageing due to declining fertility rates and increasing life expectancy, the demographic shift in the land of the living is having a parallel impact on what happens after life. Deathcare -- which encompasses post-death services, products, policy, and governance -- is changing too...
+Feed: https://media.rss.com/ear-to-asia/feed.xml</description>
                 
                 
-                <link>https://redcircle.com/shows/772c4b3f-3ad6-4a26-8837-40ed78859e78/episodes/2313ac4a-ce12-4f93-a51b-22156a52a036</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio3.redcircle.com/episodes/2313ac4a-ce12-4f93-a51b-22156a52a036/stream.mp3"/>
-                <guid>https://redcircle.com/shows/772c4b3f-3ad6-4a26-8837-40ed78859e78/episodes/2313ac4a-ce12-4f93-a51b-22156a52a036</guid>
+                <link>https://rss.com/podcasts/ear-to-asia/1669982</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.rss.com/ear-to-asia/2024_09_24_11_25_35_670e6da2-7e1a-4e7e-a556-40582672576b.mp3"/>
+                <guid>https://rss.com/podcasts/ear-to-asia/1669982</guid>
                 
             </item><item>
-                <title>169: I’m Going to Have to Start Selling Some Organs</title>
-                <description>Jamon Bull welcomes back MJCast co-founder Q, along with frequent show guest Shawn Shackelford, MJ Radio’s Jason Garcia, and YouTuber Hannah Savage for a big fan chat around news and Continue Reading →
-Feed: https://www.themjcast.com/category/themjcast/feed/</description>
+                <title>gnuWorldOrder_583</title>
+                <description>
+**iceauth** , **ico** , **igt-gpu-tools** , **imake** , **intel-vaapi-driver**
+, **libFS** , **libICE** , **libSM** , **libX11** , **libXScrnSaver** ,
+**libXau** , **libXaw** , **libXaw3d** , **libXaw3dXft** from the **x**
+software set of Slackware Linux.
+ shasum -a256=585e380bb2340b234d123c67cd5b02513102bf8caa654084d1c4f13ea7d35eab
+Feed: https://gnuworldorder.info/ogg.xml</description>
                 
                 
-                <link>https://www.themjcast.com/169-im-going-to-have-to-start-selling-some-organs/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/themjcast/content.blubrry.com/themjcast/169.mp3"/>
-                <guid>https://www.themjcast.com/169-im-going-to-have-to-start-selling-some-organs/</guid>
+                <link>http://gnuworldorder.info//audiophile/gnuWorldOrder_583_ogg.ogg</link>
+                <enclosure type="audio/mpeg" length="1" url="http://gnuworldorder.info//audiophile/gnuWorldOrder_583_ogg.ogg"/>
+                <guid>http://gnuworldorder.info//audiophile/gnuWorldOrder_583_ogg.ogg</guid>
                 
             </item>
         </channel>

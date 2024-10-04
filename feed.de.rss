@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 02 Oct 2024 04:26:57 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 04 Oct 2024 04:26:39 +0200</lastBuildDate>
             <item>
-                <title>188 - Die Liga der außergewöhnlichen Gentlemen</title>
-                <description>Queen Victorias Avengers
-Feed: https://letscast.fm/podcasts/filme-mit-bart-ad94f4c0/feed</description>
+                <title>Hongkong: Das Ende der Freiheit?</title>
+                <description>Hongkong vor fünf Jahren: Über eine Millionen Menschen haben auf den Straßen demonstriert – gegen eine engere Anbindung der Sonderverwaltungszone an die Volksrepublik China. Die Demonstrationen sind eskaliert, es gab Verletzte und viele Festnahmen. Nun – fünf Jahre später – ist es dort seltsam still geworden...
+Feed: https://www.swr.de/~podcast/weltspiegel-thema/weltspiegel-podcast-102.xml</description>
                 
                 
-                <link>https://filmemitbart.letscast.fm/episode/188-die-liga-der-aussergewoehnlichen-gentlemen</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/68f6cdad/episode/fc41f875.mp3?t=1727445055"/>
-                <guid>https://filmemitbart.letscast.fm/episode/188-die-liga-der-aussergewoehnlichen-gentlemen</guid>
+                <link>https://www.swr.de/weltspiegel-thema/hongkong-das-ende-der-freiheit-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/weltspiegel-thema/2121555.m.mp3"/>
+                <guid>https://www.swr.de/weltspiegel-thema/hongkong-das-ende-der-freiheit-100.html</guid>
                 
             </item><item>
-                <title>Let`s GO Teil 2</title>
-                <description>(Sprecher: Pastorin Irmi Tomaschek) Am Beispiel von Apostel Paulus im Philipperbrief sehen wir, dass Paulus ergriffen war von Jesus. Das gab Paulus die Sicherheit, dass er mit Jesus alles tun kann, die Vergangenheit hinter sich zu lassen und mit Jesus eine großartige Zukunft erlebt. Wir nehmen uns Paulus als Vorbild für unser eigenes Leben.Support the show
-Feed: https://feeds.buzzsprout.com/270842.rss</description>
+                <title>Seht uns am 18.10. LIVE beim BR Podcastfestival!</title>
+                <description>Hallöle aus der Staffelpause! Falls ihr uns schon vor Start der neuen Podcaststaffel hören wollt, habt ihr am 18.10. die Möglichkeit. Da treten wir nämlich LIVE beim BR Podcastfestival in Nürnberg auf! Wir können schonmal so viel verraten: es wird spannend, es wird um queere Verbrechen gehen... Infos und Tickets gibt&#39;s auf www.podcastfestival.de - wir freuen uns auf euch!
+Feed: https://feeds.br.de/willkommen-im-club-der-queere-podcast-von-puls/feed.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/270842/episodes/15834102-let-s-go-teil-2.mp3"/>
-                <guid></guid>
+                <link>https://www.br.de/mediathek/podcast/willkommen-im-club-der-queere-podcast-von-puls/seht-uns-am-18-10-live-beim-br-podcastfestival/2098206</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2098206/c/feed/seht-uns-am-18-10-live-beim-br-podcastfestival.mp3"/>
+                <guid>https://www.br.de/mediathek/podcast/willkommen-im-club-der-queere-podcast-von-puls/seht-uns-am-18-10-live-beim-br-podcastfestival/2098206</guid>
                 
             </item>
         </channel>

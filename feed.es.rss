@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 02 Oct 2024 04:27:08 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 04 Oct 2024 04:26:46 +0200</lastBuildDate>
             <item>
+                <title>#181 Andrés Neuman y la poesía de una paternidad</title>
+                <description>En Aprender de Grandes me encanta conversar con g…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:138398620/sounds.rss</description>
+                
+                
+                <link>https://soundcloud.com/aprenderdegrandes/181-andres-neuman-y-la-poesia-de-una-paternidad</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1924773161-aprenderdegrandes-181-andres-neuman-y-la-poesia-de-una-paternidad.mp3"/>
+                <guid>https://soundcloud.com/aprenderdegrandes/181-andres-neuman-y-la-poesia-de-una-paternidad</guid>
+                
+            </item><item>
                 <title>Gente despierta - Sagas de vampiros con Mercedes Fisteus</title>
                 <description>Sagas de vampiros con Mercedes Fisteus
 Feed: http://www.rtve.es/api/programas/68092/audios.rss</description>
@@ -19,16 +29,6 @@ Feed: http://www.rtve.es/api/programas/68092/audios.rss</description>
                 <link>https://www.rtve.es/play/audios/gente-despierta/gente-despierta-sagas-vampiros-mercedes-fisteus/16228871/</link>
                 <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16228871.mp3"/>
                 <guid>https://www.rtve.es/play/audios/gente-despierta/gente-despierta-sagas-vampiros-mercedes-fisteus/16228871/</guid>
-                
-            </item><item>
-                <title>Melodías pizarras - Tren, tren, tren - 28/09/24</title>
-                <description>Tren, tren, tren
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
-                
-                
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/tren-tren-tren-28-09-24/16266246/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16266246.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/tren-tren-tren-28-09-24/16266246/</guid>
                 
             </item>
         </channel>
