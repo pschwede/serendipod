@@ -9,31 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 04 Oct 2024 04:26:55 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 05 Oct 2024 04:26:43 +0200</lastBuildDate>
             <item>
-                <title>Demography and deathcare in a changing East Asia</title>
-                <description>&lt;p&gt;As East Asian countries like Japan, China and South Korea experience rapid population ageing due to declining fertility rates and increasing life expectancy, the demographic shift in the land of the living is having a parallel impact on what happens after life. Deathcare -- which encompasses post-death services, products, policy, and governance -- is changing too...
-Feed: https://media.rss.com/ear-to-asia/feed.xml</description>
+                <title>Ep. 20.3 &#34;Belly of the Beast&#34;</title>
+                <description>Jamie Jo, Jack, and Colleen talk about Survivor Season 47, Episode 3, titled &#34;Belly of the Beast.&#34; Two hosts have to make a new winner&#39;s pick, and all three make their predictions for who will go home next week.
+Feedback: SurvivorJJC@gmail.com...
+Feed: https://www.spreaker.com/show/2940615/episodes/feed</description>
                 
                 
-                <link>https://rss.com/podcasts/ear-to-asia/1669982</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.rss.com/ear-to-asia/2024_09_24_11_25_35_670e6da2-7e1a-4e7e-a556-40582672576b.mp3"/>
-                <guid>https://rss.com/podcasts/ear-to-asia/1669982</guid>
+                <link>https://www.spreaker.com/episode/ep-20-3-belly-of-the-beast--62218831</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/62218831/svjjc_20_3.mp3"/>
+                <guid>https://www.spreaker.com/episode/ep-20-3-belly-of-the-beast--62218831</guid>
                 
             </item><item>
-                <title>gnuWorldOrder_583</title>
-                <description>
-**iceauth** , **ico** , **igt-gpu-tools** , **imake** , **intel-vaapi-driver**
-, **libFS** , **libICE** , **libSM** , **libX11** , **libXScrnSaver** ,
-**libXau** , **libXaw** , **libXaw3d** , **libXaw3dXft** from the **x**
-software set of Slackware Linux.
- shasum -a256=585e380bb2340b234d123c67cd5b02513102bf8caa654084d1c4f13ea7d35eab
-Feed: https://gnuworldorder.info/ogg.xml</description>
+                <title>Steve Kleisath of Further Seems Forever</title>
+                <description>Chapter 542 - &#34;I Actually Really Love This Album&#34; ...as read by Steve Kleisath of Further Seems Forever
+Feed: https://feeds.simplecast.com/T5FiyIM_</description>
                 
                 
-                <link>http://gnuworldorder.info//audiophile/gnuWorldOrder_583_ogg.ogg</link>
-                <enclosure type="audio/mpeg" length="1" url="http://gnuworldorder.info//audiophile/gnuWorldOrder_583_ogg.ogg"/>
-                <guid>http://gnuworldorder.info//audiophile/gnuWorldOrder_583_ogg.ogg</guid>
+                <link>http://www.asthestorygrows.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/d47a9446-efd4-43ae-b135-74e2665dbcc0/episodes/02ce48b2-d980-451a-9e03-191af7821971/audio/ae751375-f50c-4d50-9c6f-b84f06ef7aba/default_tc.mp3?aid=rss_feed&amp;feed=T5FiyIM_"/>
+                <guid>http://www.asthestorygrows.com</guid>
                 
             </item>
         </channel>
