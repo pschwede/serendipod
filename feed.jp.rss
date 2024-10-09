@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 06 Oct 2024 04:26:54 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 09 Oct 2024 04:26:46 +0200</lastBuildDate>
             <item>
-                <title>“你问我答”：近义词辨析：hit、bump、bang、smash</title>
-                <description>What&#39;s the difference between &#39;bump&#39; and &#39;bash&#39;?
-Feed: https://podcasts.files.bbci.co.uk/p02pc9st.rss</description>
+                <title>Guenther Steiner: life on the other side of F1</title>
+                <description>After a decade of highs and lows as Haas Team Principal, Guenther Steiner has changed lanes. Now he’s an author and broadcaster with a new perspective on the drivers, the teams and the bosses he previously saw as rivals.
+&lt;br&gt;
+Talking to Tom Clarkson, Guenther looks back at his time at Haas, from their stunning points-scoring debut in 2016, through triumphs, frustrations and low moments, to his departure and what he’s doing today...
+Feed: https://audioboom.com/channels/4964339.rss</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0jv23kb</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0jv230h.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0jv23kb</guid>
+                <link>https://audioboom.com/posts/8586429</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/pdst.fm/e/arttrk.com/p/ABMA5/p.podderapp.com/6482611741/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8586429.mp3?modified=1728408235&amp;sid=4964339&amp;source=rss"/>
+                <guid>https://audioboom.com/posts/8586429</guid>
                 
             </item><item>
-                <title>Friday, October 4, 2024</title>
-                <description>This is The Briefing, a daily analysis of news and events from a Christian worldview...
-Feed: https://albertmohler.com/category/the-briefing/feed/</description>
+                <title>Until We Fall: Long Distance Life on the Left, with Helena Sheehan</title>
+                <description>&lt;p&gt;In this episode we talk to Professor Helena Sheehan about her recent book, Until We Fall: Long Distance Life on the Left.&lt;/p&gt;
+&lt;p&gt;We discuss the lead up to and impact of the break up of the Soviet Union, Helena’s experience of post-apartheid South Africa and the changing role of the University in the contemporary period.&lt;/p&gt;
+&lt;p&gt;Helena is Emeritus Professor at Dublin City University (DCU) and has published and taught on culture, media, politics and philosophy...
+Feed: https://podcast.leftarchive.ie/@ILAPodcast/feed.xml</description>
                 
                 
-                <link>https://albertmohler.com/2024/10/04/briefing-10-4-24/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/7BBDCA/https://pod.albertmohler.com/Podcast/20241004_thebriefing.mp3"/>
-                <guid>https://albertmohler.com/2024/10/04/briefing-10-4-24/</guid>
+                <link>https://podcast.leftarchive.ie/@ILAPodcast/episodes/until-we-fall-long-distance-life-on-the-left-with-helena-sheehan</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=8e88bb97-6c47-518a-8260-1cbedbd4b095/podcast.leftarchive.ie/audio/@ILAPodcast/until-we-fall-long-distance-life-on-the-left-with-helena-sheehan.mp3?_from=fyyd.de"/>
+                <guid>https://podcast.leftarchive.ie/@ILAPodcast/episodes/until-we-fall-long-distance-life-on-the-left-with-helena-sheehan</guid>
                 
             </item>
         </channel>

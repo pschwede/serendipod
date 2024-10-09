@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 06 Oct 2024 04:26:31 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 09 Oct 2024 04:26:27 +0200</lastBuildDate>
             <item>
-                <title>183 - Howdy, NYC! (No, he&#39;s not working here!)</title>
-                <description>&lt;p&gt;Kleiner Disclaimer: Dominik ist in New York und hat sein Podcaster-Mikro nicht vergessen, aber auch nicht dabei. Daher ist der Sound ein wenig anders, aber inhaltlich nicht minder interessant!&lt;/p&gt;
-&lt;p&gt;Und das ist tatsächlich auch der Mainfocus dieser Folge. Dominiks Solotrip in das Land der unbegrenzten (?) Möglichkeiten, Land of the free (?) und Mekka (?) bzw. Wiege der Streetphotography...
-Feed: https://anchor.fm/s/f8215bf8/podcast/rss</description>
+                <title>Zahlen | Von Googol bis unendlich</title>
+                <description>Hier wird gecheckt, welches die größte Zahl der Welt ist, wer die Zahlen erfunden hat und warum die 13 Unglück bringen soll.
+Feed: https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/tvau310/episodes/183---Howdy--NYC--No--hes-not-working-here-e2p97td</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/f8215bf8/podcast/play/92626285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-5%2F1db57507-df43-400f-58b5-55c2c0374895.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/tvau310/episodes/183---Howdy--NYC--No--hes-not-working-here-e2p97td</guid>
+                <link>https://www.br.de/mediathek/podcast/checkpod-der-podcast-mit-checker-tobi/zahlen-von-googol-bis-unendlich/2098274</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2098274/c/feed/zahlen-von-googol-bis-unendlich.mp3"/>
+                <guid>https://www.br.de/mediathek/podcast/checkpod-der-podcast-mit-checker-tobi/zahlen-von-googol-bis-unendlich/2098274</guid>
                 
             </item><item>
-                <title>#621 Mit einer Steuerkanzlei 6-stellige Monatsumsätze generieren! (Kundeninterview mit Miriam Poich)</title>
-                <description>Vereinbare jetzt dein kostenloses Erstgespräch: www.andreasbaulig.de/termin
-In der heutigen Episode von die Coaching-Revolution spricht Stephan Baulig mit unserer Kundin, Miriam Poich, über ihre Anfänge und ihren Weg zu 6-stelligen Monatsumsätzen mit ihrer eigenen Steuerkanzlei.
-Vereinbare jetzt dein kostenloses Erstgespräch: www.andreasbaulig.de/termin
-Sichere dir jetzt das Buch &#34;WISSEN MACHT UMSATZ&#34; auf www.wissenmachtumsatz...
-Feed: https://pg26dy.podcaster.de/fggfd.rss</description>
+                <title>Zinssenkungen weltweit – und jetzt? (Episode 119)</title>
+                <description>Enorme Erwartungen der Anlegerinnen und Anleger an die Notenbanken
+Feed: https://volatility.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://pg26dy.podcaster.de/fggfd/621-mit-einer-steuerkanzlei-6-stellige-monatsumsatze-generieren-kundeninterview-mit-miriam-poich/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pg26dy.podcaster.de/fggfd/media/-_-_Podcast_aus_YT1261_-_Kundeninterview_-_Miriam_Pioch(1).mp3"/>
-                <guid>https://pg26dy.podcaster.de/fggfd/621-mit-einer-steuerkanzlei-6-stellige-monatsumsatze-generieren-kundeninterview-mit-miriam-poich/</guid>
+                <link>https://volatility.podigee.io/120-zinssenkungen</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1617698-m-07281a9c9ee4f487abda96a1d0bf45b8.mp3?source=feed"/>
+                <guid>https://volatility.podigee.io/120-zinssenkungen</guid>
                 
             </item>
         </channel>
