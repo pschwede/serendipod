@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 09 Oct 2024 04:26:39 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 10 Oct 2024 04:26:59 +0200</lastBuildDate>
             <item>
-                <title>Pistolando #217 - Moda e sociedade (italiano)</title>
-                <description>Com Daniela Calanca e David Murolo
-Feed: https://pistolando.libsyn.com/rss</description>
+                <title> Carmen e Gervásio Posadas - &#34;Hoje Caviar, Amanhã Sardinhas&#34; </title>
+                <description>Neste livro os dois irmãos relatam as aventuras e desventuras da família Posadas no seu vaivém constante pelas diferentes capitais para onde o pai, devido ao cargo diplomático que exerce, é destacado.
+Feed: https://www.rtp.pt/play/podcast/260</description>
                 
                 
-                <link>http://www.pistolando.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/1184BF/traffic.libsyn.com/secure/pistolando/Pistolando_217_-_Moda_e_sociedade_italiano.mp3?dest-id=1389563"/>
-                <guid>http://www.pistolando.com</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://podcasts.rtp.pt/nas2.share/wavrss/at3/2410/PGM2400403617301_511494-2410091831.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Xadrez Verbal #397 Assassinato de Hassan Nasrallah</title>
-                <description>Semana carregadíssima! Trazemos entrevistas com Fabricio Cabrera, general colombiano da reserva, e Henning Speck, diplomata alemão, produzidas na XXI Conferência do Forte de Copacabana.
-Também comentamos e repercutimos o assassinato do líder do...
-Feed: https://www.spreaker.com/show/4712237/episodes/feed</description>
+                <title>059: Gerenciando o Chorume</title>
+                <description>Bunn conta pro Rambo tudo sobre o lançamento do seu novo app.
+Feed: https://gigahertz.fm/podcasts/olamundo/feed.rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/xadrez-verbal-397-assassinato-de-hassan-nasrallah--62237382</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/62237382/xadrez_verbal_397.mp3"/>
-                <guid>https://www.spreaker.com/episode/xadrez-verbal-397-assassinato-de-hassan-nasrallah--62237382</guid>
+                <link>https://gigahertz.fm/podcasts/olamundo/59</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.gigahertz.fm/Ola-Mundo/Ola-Mundo-59.mp3"/>
+                <guid>https://gigahertz.fm/podcasts/olamundo/59</guid>
                 
             </item>
         </channel>

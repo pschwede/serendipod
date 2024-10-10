@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 09 Oct 2024 04:26:27 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 10 Oct 2024 04:26:45 +0200</lastBuildDate>
             <item>
-                <title>Zahlen | Von Googol bis unendlich</title>
-                <description>Hier wird gecheckt, welches die größte Zahl der Welt ist, wer die Zahlen erfunden hat und warum die 13 Unglück bringen soll.
-Feed: https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml</description>
+                <title>Die Extralange!</title>
+                <description>Heute die extra lange Folge....
+Die Flaschenkinder überziehen heute extra nur für euch.
+Der heutige Burner kommt directly aus Griechenland:
+https://skouras.gr/de/wines/weine/salto-wild-yeast
+In Deutschland zu erhalten hier:
+https://www.mygreekwine.de/salto-wild-yeast-2022-domaine-skouras
+Denn so kalt es in Deutschland und Österreich wird, so warm ist es noch in Griechenland und dazu passt dieser Wein so gut wie kaum ein Anderer...
+Feed: https://dieflaschenkinder.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.br.de/mediathek/podcast/checkpod-der-podcast-mit-checker-tobi/zahlen-von-googol-bis-unendlich/2098274</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2098274/c/feed/zahlen-von-googol-bis-unendlich.mp3"/>
-                <guid>https://www.br.de/mediathek/podcast/checkpod-der-podcast-mit-checker-tobi/zahlen-von-googol-bis-unendlich/2098274</guid>
+                <link>https://dieflaschenkinder.podigee.io/239-lang</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1621351-m-4c980b09a322289e9d70b65f1a958d08.mp3?source=feed"/>
+                <guid>https://dieflaschenkinder.podigee.io/239-lang</guid>
                 
             </item><item>
-                <title>Zinssenkungen weltweit – und jetzt? (Episode 119)</title>
-                <description>Enorme Erwartungen der Anlegerinnen und Anleger an die Notenbanken
-Feed: https://volatility.podigee.io/feed/mp3</description>
+                <title>Wie verhindert man islamistische Anschläge, Herr Oberstaatsanwalt Wachs?</title>
+                <description>Staatsanwalt Klaus-Michael Wachs kümmert sich um Verfahren im Bereich politischer Extremismus und Islamismus. Im Podcast sagt er, was ihn neben TikTok am meisten besorgt.
+Feed: https://feeds.simplecast.com/3Q_JgEtk</description>
                 
                 
-                <link>https://volatility.podigee.io/120-zinssenkungen</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1617698-m-07281a9c9ee4f487abda96a1d0bf45b8.mp3?source=feed"/>
-                <guid>https://volatility.podigee.io/120-zinssenkungen</guid>
+                <link>https://www.zeit.de/serie/frisch-an-die-arbeit</link>
+                <enclosure type="audio/mpeg" length="1" url="https://zeitonline.simplecastaudio.com/2fec6763-229c-4066-81fe-4038c02ebfbc/episodes/07edb259-db59-413e-9eca-ea8a8cd26700/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2fec6763-229c-4066-81fe-4038c02ebfbc&amp;awEpisodeId=07edb259-db59-413e-9eca-ea8a8cd26700&amp;feed=3Q_JgEtk"/>
+                <guid>https://www.zeit.de/serie/frisch-an-die-arbeit</guid>
                 
             </item>
         </channel>
