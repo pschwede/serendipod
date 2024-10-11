@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 10 Oct 2024 04:26:45 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 11 Oct 2024 04:26:37 +0200</lastBuildDate>
             <item>
-                <title>Die Extralange!</title>
-                <description>Heute die extra lange Folge....
-Die Flaschenkinder überziehen heute extra nur für euch.
-Der heutige Burner kommt directly aus Griechenland:
-https://skouras.gr/de/wines/weine/salto-wild-yeast
-In Deutschland zu erhalten hier:
-https://www.mygreekwine.de/salto-wild-yeast-2022-domaine-skouras
-Denn so kalt es in Deutschland und Österreich wird, so warm ist es noch in Griechenland und dazu passt dieser Wein so gut wie kaum ein Anderer...
-Feed: https://dieflaschenkinder.podigee.io/feed/mp3</description>
+                <title>Wilhelm Röpke - Vordenker der sozialen Marktwirtschaft</title>
+                <description>Die Bundesrepublik mit ihrer sozialen Marktwirtschaft: Dieser Weg begann vor 75 Jahren, beeinflusst vom Ökonomen Wilhelm Röpke. Der setzte auf die Kräfte des Marktes - aber nicht nur. Kuhlmann, Michael www.deutschlandfunk.de, Kalenderblatt 
+Feed: https://www.deutschlandfunk.de/dlf-kalenderblatt-100.xml</description>
                 
                 
-                <link>https://dieflaschenkinder.podigee.io/239-lang</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1621351-m-4c980b09a322289e9d70b65f1a958d08.mp3?source=feed"/>
-                <guid>https://dieflaschenkinder.podigee.io/239-lang</guid>
+                <link>https://www.deutschlandfunk.de/wiilhelm-roepke-soziale-marktwirtschaft-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/10/10/10101899_wilhelm_roepke_geboren_vordenker_der_sozialen_dlf_20241010_0905_0709e685.mp3?refId=dlf-kalenderblatt-100"/>
+                <guid>https://www.deutschlandfunk.de/wiilhelm-roepke-soziale-marktwirtschaft-100.html</guid>
                 
             </item><item>
-                <title>Wie verhindert man islamistische Anschläge, Herr Oberstaatsanwalt Wachs?</title>
-                <description>Staatsanwalt Klaus-Michael Wachs kümmert sich um Verfahren im Bereich politischer Extremismus und Islamismus. Im Podcast sagt er, was ihn neben TikTok am meisten besorgt.
-Feed: https://feeds.simplecast.com/3Q_JgEtk</description>
+                <title>#218 - Megalopolis</title>
+                <description>Da ist das Ding!
+Feed: https://cuts.podigee.io/feed/aac</description>
                 
                 
-                <link>https://www.zeit.de/serie/frisch-an-die-arbeit</link>
-                <enclosure type="audio/mpeg" length="1" url="https://zeitonline.simplecastaudio.com/2fec6763-229c-4066-81fe-4038c02ebfbc/episodes/07edb259-db59-413e-9eca-ea8a8cd26700/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2fec6763-229c-4066-81fe-4038c02ebfbc&amp;awEpisodeId=07edb259-db59-413e-9eca-ea8a8cd26700&amp;feed=3Q_JgEtk"/>
-                <guid>https://www.zeit.de/serie/frisch-an-die-arbeit</guid>
+                <link>https://cuts.podigee.io/310-megalopolis</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1624324-m-d929e5938eb8a1c4e90d3cba0f824a0e.m4a?source=feed"/>
+                <guid>https://cuts.podigee.io/310-megalopolis</guid>
                 
             </item>
         </channel>
