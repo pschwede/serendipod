@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 11 Oct 2024 04:26:44 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 12 Oct 2024 04:26:37 +0200</lastBuildDate>
             <item>
                 <title>Charlemos (otra vez) con Luis Rubinstein</title>
                 <description>¡Amig@s! Volvemos a hurgar en el arcón de los archivos y esta vez rescatamos un programa de hace tres años dedicado al gran maestro Rubinstein. Nació en una familia de humildes inmigrantes ucranianos, cuna con poesía incluida, ya en la escuela primaria lo expulsan del salón por tirarle un tintero a su maestra que lo reprendió, después de haberlo sorprendido escribiendo poesías, pero además estudió música para acompañar algunas de sus maravillosas letras...
@@ -21,14 +21,14 @@ Feed: https://feeds.feedburner.com/TangoSensei</description>
                 <guid>http://www.ivoox.com/charlemos-otra-vez-luis-rubinstein-audios-mp3_rf_134671621_1.html</guid>
                 
             </item><item>
-                <title>Atmósfera - URUK, Girma Yifrashewa - 06/10/24</title>
-                <description>URUK, Girma Yifrashewa
-Feed: http://api.rtve.es/api/programas/1891/audios.rss</description>
+                <title>PYM 51. Freskito y Medio. El retorno.</title>
+                <description>Se va el verano pero llega un clásico: ¡el Freskito y Medio tardío! Recuperamos el formato Freskito, en el que os traemos dos mini-recomendaciones cada uno. Estas son nuestras secciones freskitas: 00:09:59 - Mini-Recomendaciones Ojo, alerones: Os dejamos el listado de las recomendaciones: -Seidon: Light &amp; Magic -Malcolm: Arkham Horror. El juego de cartas. + Adaptaciones de Lovecraft de Gou Tanabe. -Mildre: La maldición del tranvía 015. (P...
+Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/atmosfera/uruk-girma-yifrashewa-06-10-24/16275941/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16275941.mp3"/>
-                <guid>https://www.rtve.es/play/audios/atmosfera/uruk-girma-yifrashewa-06-10-24/16275941/</guid>
+                <link>https://www.ivoox.com/pym-51-freskito-medio-el-retorno-audios-mp3_rf_133826358_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-51-freskito-medio-el-retorno_mf_133826358_feed_1.mp3?d=1726426098"/>
+                <guid>https://www.ivoox.com/pym-51-freskito-medio-el-retorno-audios-mp3_rf_133826358_1.html</guid>
                 
             </item>
         </channel>

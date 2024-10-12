@@ -9,26 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 11 Oct 2024 04:26:37 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 12 Oct 2024 04:26:29 +0200</lastBuildDate>
             <item>
-                <title>Wilhelm Röpke - Vordenker der sozialen Marktwirtschaft</title>
-                <description>Die Bundesrepublik mit ihrer sozialen Marktwirtschaft: Dieser Weg begann vor 75 Jahren, beeinflusst vom Ökonomen Wilhelm Röpke. Der setzte auf die Kräfte des Marktes - aber nicht nur. Kuhlmann, Michael www.deutschlandfunk.de, Kalenderblatt 
-Feed: https://www.deutschlandfunk.de/dlf-kalenderblatt-100.xml</description>
+                <title>Bruchbude Kakenstorf 2024 (mit Toby Baier)</title>
+                <description>Kommt alle zu Tobys Konzert am 18. Oktober 2024 in! Schlimmer Laberpodcast. Darin: Holgi war im Urlaub und ist mit der Vespa gestürzt (und will seine PX 150 verkaufen), Toby hat einen Anhänger und demnächst Geburtstag, und war im Kino,
+Feed: https://wrint.de/category/realitaetsabgleich/feed/</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/wiilhelm-roepke-soziale-marktwirtschaft-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/10/10/10101899_wilhelm_roepke_geboren_vordenker_der_sozialen_dlf_20241010_0905_0709e685.mp3?refId=dlf-kalenderblatt-100"/>
-                <guid>https://www.deutschlandfunk.de/wiilhelm-roepke-soziale-marktwirtschaft-100.html</guid>
+                <link>https://wrint.de/2024/10/08/bruchbude-kakenstorf-2024-mit-toby-baier/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://files.wrint.de/WR1631_Bruchbude_Kakenstorf_2024.mp3"/>
+                <guid>https://wrint.de/2024/10/08/bruchbude-kakenstorf-2024-mit-toby-baier/</guid>
                 
             </item><item>
-                <title>#218 - Megalopolis</title>
-                <description>Da ist das Ding!
-Feed: https://cuts.podigee.io/feed/aac</description>
+                <title>158: Zypern ????????</title>
+                <description>&lt;p&gt;In dieser Folge möchte ich Dir über meine Erlebnisse auf der spannenden Insel Zypern berichten. &lt;/p&gt;
+&lt;p&gt;Da ich während der Aufnahme immer noch so begeistert von dieser Reise war und die Eindrücke noch recht frisch waren, sind die Schilderungen an der ein oder anderen Stelle doch etwas...sagen wir...ungeordnet^^&lt;/p&gt;
+&lt;p&gt;Weitere Themen sind:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Hat sich mein mitgenommenes Foto-Equipment auf der Reise bewährt?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+ &lt;li&gt;Klausurergebnisse 2...
+Feed: https://anchor.fm/s/404ab2f4/podcast/rss</description>
                 
                 
-                <link>https://cuts.podigee.io/310-megalopolis</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1624324-m-d929e5938eb8a1c4e90d3cba0f824a0e.m4a?source=feed"/>
-                <guid>https://cuts.podigee.io/310-megalopolis</guid>
+                <link>https://podcasters.spotify.com/pod/show/momentedeinergeschichte/episodes/158-Zypern-e2orenc</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/404ab2f4/podcast/play/92174508/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-25%2F33f3aaf3-1951-e47c-4be4-ee6ff30b7fff.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/momentedeinergeschichte/episodes/158-Zypern-e2orenc</guid>
                 
             </item>
         </channel>
