@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 12 Oct 2024 04:26:33 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 15 Oct 2024 04:27:02 +0200</lastBuildDate>
             <item>
-                <title>Les pieds sur terre / Documentaire 12.10.2024</title>
-                <description>durée : 00:26:20 - Les Pieds sur terre 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10078.xml</description>
+                <title>Pourquoi certaines personnes ont l’oreille absolue ?</title>
+                <description>&lt;p&gt;Avouons-le, l’oreille absolue, ça ressemble un peu à un super-pouvoir tout droit sorti d’un X-Men ou d’un épisode de The Boys. Alors, qu’est-ce qui se cache derrière ce talent mystérieux ? Est-ce que l’oreille absolue est un don ou peut-on l’acquérir ? La réponse n’est pas si simple, parce que c’est peut-être un peu des deux.&lt;/p&gt;&lt;p&gt; &lt;br /&gt;Hébergé par Audion. Visitez https://www.audion.fm/fr/privacy-policy pour plus d’informations.&lt;/p&gt;
+Feed: https://feeds.360.audion.fm/DvTHxYW1zFrtJE_EcJJWs</description>
                 
                 
-                <link>https://www.franceculture.fr/emissions/les-pieds-sur-terre</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/aabc362c-0575-4f13-8d34-a6340acbb217/10078-12.10.2024-ITEMA_23882724-2022C32503E0225-21.mp3"/>
-                <guid>https://www.franceculture.fr/emissions/les-pieds-sur-terre</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/f5769572-4182-4d61-a141-e4af012572c6.mp3?from=Fyyd"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Quoi de Libre ? Actualités et annonces concernant l&#39;April et le monde du libre</title>
-                <description> Les références : &lt;ul class=&#34;spip&#34;&gt;&lt;li&gt; Rencontre OpenStreetMap, jeudi 3 octobre 2024 de 19 h 00 à 22 h 00 à Montrouge (Hauts-de-Seine)&lt;/li&gt;&lt;li&gt; Soirée-rencontre avec l&#39;équipe de Cause Commune, vendredi 4 octobre 2024 à partir de 19 h 30 dans les locaux de la radio, 22 rue Bernard Dimey à Paris (18e). Cette soirée s&#39;inscrit dans le cadre de la Fête des Possibles&lt;/li&gt;&lt;li&gt; Les logiciels libres à la Fête des Possibles, stand de présentation des logiciels libres par l&#39;association Root66...
-Feed: https://april.org/lav.xml</description>
+                <title>S9E2 - « Arrête ou je mets Taylor Swift ! »</title>
+                <description>Madmoizelle donne un micro à (presque) 4 imbéciles
+Feed: https://feeds.acast.com/public/shows/402cd0aa-d4d7-475b-85af-bf46fc7ec4e7</description>
                 
                 
-                <link>https://www.libreavous.org/220-enjeux-de-la-vie-privee-sur-internet-et-sur-les-appareils-connectes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20241001/libre-a-vous-20241001-annonces.mp3"/>
-                <guid>https://www.libreavous.org/220-enjeux-de-la-vie-privee-sur-internet-et-sur-les-appareils-connectes</guid>
+                <link>https://shows.acast.com/laisse-moi-kiffer/episodes/s9e2-arrete-ou-je-mets-taylor-swift</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/laisse-moi-kiffer/e/6706c0aac6c20d9c391cf23c/media.mp3"/>
+                <guid>https://shows.acast.com/laisse-moi-kiffer/episodes/s9e2-arrete-ou-je-mets-taylor-swift</guid>
                 
             </item>
         </channel>

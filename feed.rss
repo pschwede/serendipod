@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 12 Oct 2024 04:26:25 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 15 Oct 2024 04:26:54 +0200</lastBuildDate>
             <item>
-                <title>12/10/2024 03:01 GMT</title>
-                <description>The latest five minute news bulletin from BBC World Service.
-Feed: https://podcast.voice.api.bbci.co.uk/rss/audio/p002vsmz?api_key=Wbek5zSqxz0Hk1blo5IBqbd9SCWIfNbT</description>
-                
-                
-                <link>http://www.bbc.co.uk/programmes/w172zgf9xp37nsp</link>
-                <enclosure type="audio/mpeg" length="1" url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/w1mskspy76j9xvr.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w172zgf9xp37nsp</guid>
-                
-            </item><item>
                 <title>EP320 - News, First Half Recap, Early Holiday Preview</title>
                 <description>EP320 - News, First Half Recap, Early Holiday Preview  0:23 Welcome Back After Hiatus 2:51 Upcoming Events in Retail 7:28 GroceryShop 16:02 Retail Growth Trends 21:28 Concerns for Holiday 2024 30:27 The De Minimis...
 Feed: https://jasshow.libsyn.com/rss</description>
@@ -29,6 +19,17 @@ Feed: https://jasshow.libsyn.com/rss</description>
                 <link>https://retailgeek.com/jason-scot-show-episode-320-1h-recap</link>
                 <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/19397/traffic.libsyn.com/secure/jasshow/JAS320.mp3?dest-id=325386"/>
                 <guid>https://retailgeek.com/jason-scot-show-episode-320-1h-recap</guid>
+                
+            </item><item>
+                <title>*PREVIEW* Flowers for Algernonce feat. Hesse Deni</title>
+                <description>We are joined by Hesse Deni (@ZeroSuitCamus) of the Seeking Derangements and Movie Mindset podcasts to discuss A VERY ROYAL SCANDAL, another installment of British TV movies dramatizing the Prince Andrew Newsnight interview…but this time with an inexplicable voice. No, literally, what is going on with the way they’ve depicted Emily Maitlis’ voice? It’s a baffling assembly.
+Check out Seeking Derangements here! https://podcasts.apple...
+Feed: https://feed.podbean.com/trashfuturepodcast/feed.xml</description>
+                
+                
+                <link>https://trashfuturepodcast.podbean.com/e/preview-flowers-for-algernonce-feat-hesse-deni/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/fgyzaaf7d37p8ci2/10-11-Hesse-promo-final.mp3"/>
+                <guid>https://trashfuturepodcast.podbean.com/e/preview-flowers-for-algernonce-feat-hesse-deni/</guid>
                 
             </item>
         </channel>

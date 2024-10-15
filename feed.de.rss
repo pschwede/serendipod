@@ -9,33 +9,36 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 12 Oct 2024 04:26:29 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 15 Oct 2024 04:26:58 +0200</lastBuildDate>
             <item>
-                <title>Bruchbude Kakenstorf 2024 (mit Toby Baier)</title>
-                <description>Kommt alle zu Tobys Konzert am 18. Oktober 2024 in! Schlimmer Laberpodcast. Darin: Holgi war im Urlaub und ist mit der Vespa gestürzt (und will seine PX 150 verkaufen), Toby hat einen Anhänger und demnächst Geburtstag, und war im Kino,
-Feed: https://wrint.de/category/realitaetsabgleich/feed/</description>
+                <title>023: Doch kein Video-Boom bei Spotify?</title>
+                <description>&lt;p&gt;Im vergangenen Monat haben viele Apps neue Funktionen hinzugefügt, es gibt neues Technik-Spielzeug von Røde und ich frage mich: Ist der Video-Boom in der Spotify-Podcast-Sparte tatsächlich so groß? Und falls ja: Wieso bezahlen die Youtubern siebenstellige Beträge dafür, dass sie ihre Videos auch bei Spotify als Videopodcast hochladen?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Die Links zur Episode:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Neue Features in Castro
+&lt;/li&gt;
+&lt;li&gt;
+Overcast demnächst mit OPML-Export
+&lt;/li&gt;
+&lt;li&gt;
+Transkripte in...
+Feed: https://podjournal.de/@podjournal/feed.xml</description>
                 
                 
-                <link>https://wrint.de/2024/10/08/bruchbude-kakenstorf-2024-mit-toby-baier/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://files.wrint.de/WR1631_Bruchbude_Kakenstorf_2024.mp3"/>
-                <guid>https://wrint.de/2024/10/08/bruchbude-kakenstorf-2024-mit-toby-baier/</guid>
+                <link>https://podjournal.de/@podjournal/episodes/023-doch-kein-video-boom-bei-spotify</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podjournal.de/audio/@podjournal/023-doch-kein-video-boom-bei-spotify.mp3?_from=fyyd.de"/>
+                <guid>https://podjournal.de/@podjournal/episodes/023-doch-kein-video-boom-bei-spotify</guid>
                 
             </item><item>
-                <title>158: Zypern ????????</title>
-                <description>&lt;p&gt;In dieser Folge möchte ich Dir über meine Erlebnisse auf der spannenden Insel Zypern berichten. &lt;/p&gt;
-&lt;p&gt;Da ich während der Aufnahme immer noch so begeistert von dieser Reise war und die Eindrücke noch recht frisch waren, sind die Schilderungen an der ein oder anderen Stelle doch etwas...sagen wir...ungeordnet^^&lt;/p&gt;
-&lt;p&gt;Weitere Themen sind:&lt;/p&gt;
-&lt;ul&gt;
- &lt;li&gt;Hat sich mein mitgenommenes Foto-Equipment auf der Reise bewährt?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
- &lt;li&gt;Klausurergebnisse 2...
-Feed: https://anchor.fm/s/404ab2f4/podcast/rss</description>
+                <title>15. Oktober 2024: Dankbarkeit</title>
+                <description>Dorothee Wüst, Kaiserslautern, Evangelische Kirche: Am Ende zählt nicht der Instagram-Algorithmus
+Feed: https://www.kirche-im-swr.de/podcast/worte-und-gedanken.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/momentedeinergeschichte/episodes/158-Zypern-e2orenc</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/404ab2f4/podcast/play/92174508/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-25%2F33f3aaf3-1951-e47c-4be4-ee6ff30b7fff.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/momentedeinergeschichte/episodes/158-Zypern-e2orenc</guid>
+                <link>https://www.kirche-im-swr.de/?m=40846</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.kirche-im-swr.de/podcast/audio/2024/10/15/7/40846.mp3"/>
+                <guid>https://www.kirche-im-swr.de/?m=40846</guid>
                 
             </item>
         </channel>
