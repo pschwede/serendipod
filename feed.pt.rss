@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 15 Oct 2024 04:27:09 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Oct 2024 04:27:03 +0200</lastBuildDate>
             <item>
-                <title>#105 - Live action de esquizopost</title>
-                <description>&lt;p&gt;Está no ar o episódio semestral do NTBN. São mais de 60 minutos de não-assunto só pra você!&lt;/p&gt;
-
-Feed: https://anchor.fm/s/8f0fc78/podcast/rss</description>
+                <title>399: Eu Não Sou a Mãe da Apple</title>
+                <description>A Nintendo lançou um despertador, e o Google está vivendo um pesadelo.
+Feed: https://gigahertz.fm/podcasts/adt/feed.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/ntbn/episodes/105---Live-action-de-esquizopost-e2os60h</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/8f0fc78/podcast/play/92198353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-25%2F387053906-44100-2-3a917a7cb0b34.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/ntbn/episodes/105---Live-action-de-esquizopost-e2os60h</guid>
+                <link>https://gigahertz.fm/podcasts/adt/399</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.gigahertz.fm/ADT/ADT-399.mp3"/>
+                <guid>https://gigahertz.fm/podcasts/adt/399</guid>
                 
             </item><item>
-                <title>CORRESPONDENTES PREMIER #342</title>
-                <description>De volta ao pub para debater as últimas notícias da Premier League: de colapso em campo às cortes da Inglaterra!
-Learn more about your ad choices. Visit podcastchoices.com/adchoices
-Feed: https://feeds.megaphone.fm/ESP2944640685</description>
+                <title>Notícias da Nave Mãe #264 - 343 Industries vira Halo Studios, o relatório do Hindenburg sobre Roblox e o despertador da Nintendo</title>
+                <description>&lt;p&gt;A 343 Industries está passando por transformações e será conhecida agora como Halo Studios, o que inclui aí uma mudança no uso de engines e outras coisas mais no estúdio. Além disso, tivemos também a revelação do Alarmo, o despertador da Nintendo e o relatório do Hindenburg Research, expondo dados inflados e casos de pedofilia dentro de Roblox...
+Feed: https://feeds.acast.com/public/shows/63cff75b688779001117ba6a</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP7132086433.mp3?updated=1728388914"/>
-                <guid></guid>
+                <link>https://shows.acast.com/motherchip-overloadr-1/episodes/670d4d9e40241b700397c247</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63cff75b688779001117ba6a/e/670d4d9e40241b700397c247/media.mp3"/>
+                <guid>https://shows.acast.com/motherchip-overloadr-1/episodes/670d4d9e40241b700397c247</guid>
                 
             </item>
         </channel>

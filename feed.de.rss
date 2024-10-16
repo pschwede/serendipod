@@ -9,36 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 15 Oct 2024 04:26:58 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Oct 2024 04:26:51 +0200</lastBuildDate>
             <item>
-                <title>023: Doch kein Video-Boom bei Spotify?</title>
-                <description>&lt;p&gt;Im vergangenen Monat haben viele Apps neue Funktionen hinzugefügt, es gibt neues Technik-Spielzeug von Røde und ich frage mich: Ist der Video-Boom in der Spotify-Podcast-Sparte tatsächlich so groß? Und falls ja: Wieso bezahlen die Youtubern siebenstellige Beträge dafür, dass sie ihre Videos auch bei Spotify als Videopodcast hochladen?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Die Links zur Episode:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-Neue Features in Castro
-&lt;/li&gt;
-&lt;li&gt;
-Overcast demnächst mit OPML-Export
-&lt;/li&gt;
-&lt;li&gt;
-Transkripte in...
-Feed: https://podjournal.de/@podjournal/feed.xml</description>
+                <title>51. Ada Haas von den ersten 100km zu Ultra-Rennen</title>
+                <description>Mit Ada Haas, Richterin und begeisterte Langstrecken-Radfahrerin spreche ich über ihren Weg zum Radfahren, die erste 100-km-Fahrt, ihre 200er, 400er, 600er Brevets, und ihre Erfahrungen bei internationalen Rennen wie der MittelgebirgeClassique und dem Three Peaks Bike Race. Wir sprechen über die Höhen und Tiefen der Transiberica 2024 und Adas erstem DNF, über die Kunst der Streckenplanung und ihre Pläne für 2025. Erfahrt, wie Ada mit Rückschlägen umgeht, was sie immer wieder antreibt, ne...
+Feed: https://feeds.buzzsprout.com/2214124.rss</description>
                 
                 
-                <link>https://podjournal.de/@podjournal/episodes/023-doch-kein-video-boom-bei-spotify</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podjournal.de/audio/@podjournal/023-doch-kein-video-boom-bei-spotify.mp3?_from=fyyd.de"/>
-                <guid>https://podjournal.de/@podjournal/episodes/023-doch-kein-video-boom-bei-spotify</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/2214124/episodes/15855994-51-ada-haas-von-den-ersten-100km-zu-ultra-rennen.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>15. Oktober 2024: Dankbarkeit</title>
-                <description>Dorothee Wüst, Kaiserslautern, Evangelische Kirche: Am Ende zählt nicht der Instagram-Algorithmus
-Feed: https://www.kirche-im-swr.de/podcast/worte-und-gedanken.xml</description>
+                <title>Ich bin im Date, holt mich hier raus!</title>
+                <description>&lt;p&gt;Die Bar hat wieder geöffnet und wie es sich für ein typisches Kneipengespräch gehört, werden alle relevanten Themen zumindest angerissen. Egal ob privates, politisches, Meinungen zu popkulturellen Themen oder anstehende Pläne und Veranstaltungen. Wir sprechen über alles. Wie immer mit einem Augenzwinkern, guter Laune, mieser Gags und einem Quiz. &lt;/p&gt;
+&lt;p&gt;Viel Spaß...
+Feed: https://anchor.fm/s/faa4dabc/podcast/rss</description>
                 
                 
-                <link>https://www.kirche-im-swr.de/?m=40846</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.kirche-im-swr.de/podcast/audio/2024/10/15/7/40846.mp3"/>
-                <guid>https://www.kirche-im-swr.de/?m=40846</guid>
+                <link>https://podcasters.spotify.com/pod/show/der-jendrik3/episodes/Ich-bin-im-Date--holt-mich-hier-raus-e2plth1</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/faa4dabc/podcast/play/93041633/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-14%2F50b21828-2169-e5fc-710c-a6549603907a.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/der-jendrik3/episodes/Ich-bin-im-Date--holt-mich-hier-raus-e2plth1</guid>
                 
             </item>
         </channel>

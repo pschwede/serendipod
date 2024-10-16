@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 15 Oct 2024 04:27:02 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Oct 2024 04:26:55 +0200</lastBuildDate>
             <item>
-                <title>Pourquoi certaines personnes ont l’oreille absolue ?</title>
-                <description>&lt;p&gt;Avouons-le, l’oreille absolue, ça ressemble un peu à un super-pouvoir tout droit sorti d’un X-Men ou d’un épisode de The Boys. Alors, qu’est-ce qui se cache derrière ce talent mystérieux ? Est-ce que l’oreille absolue est un don ou peut-on l’acquérir ? La réponse n’est pas si simple, parce que c’est peut-être un peu des deux.&lt;/p&gt;&lt;p&gt; &lt;br /&gt;Hébergé par Audion. Visitez https://www.audion.fm/fr/privacy-policy pour plus d’informations.&lt;/p&gt;
-Feed: https://feeds.360.audion.fm/DvTHxYW1zFrtJE_EcJJWs</description>
+                <title>????????  Épisode 65 : Andrew Jefford, fine writing</title>
+                <description>
+Andrew Jefford (https://www.andrewjefford.com/), journalist and writer
+&#34;It&#39;s not wine writing. It&#39;s writing.&#34; This quote is from Jay McInerney, a writer I particularly like, about Andrew Jefford and his writing. And I couldn&#39;t agree more.
+I have k...
+Feed: https://feed.ausha.co/M9E7DuE0j3XM</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/f5769572-4182-4d61-a141-e4af012572c6.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/le-bon-grain-de-l-ivresse/episode-65-andrew-jefford-fine-writing</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/zY6pZFkPeg2z.mp3?t=1728639233"/>
+                <guid>https://podcast.ausha.co/le-bon-grain-de-l-ivresse/episode-65-andrew-jefford-fine-writing</guid>
                 
             </item><item>
-                <title>S9E2 - « Arrête ou je mets Taylor Swift ! »</title>
-                <description>Madmoizelle donne un micro à (presque) 4 imbéciles
-Feed: https://feeds.acast.com/public/shows/402cd0aa-d4d7-475b-85af-bf46fc7ec4e7</description>
+                <title>Bataille de La Bérézina : une victoire ou une déroute pour Napoléon Ier ?</title>
+                <description>C&#39;est une victoire pour l&#39;Empereur car les Russes ont abandonné le combat. Napoléon est sorti victorieux de cette traversée mythique de la Bérézina mais à quel prix ? Sa Grande Armée est décimée, les pertes se comptent par milliers. Plongez dans les eaux glacées de...
+Feed: https://feeds.audiomeans.fr/feed/971b31f2-42d6-4d41-95ee-1c0554528483.xml</description>
                 
                 
-                <link>https://shows.acast.com/laisse-moi-kiffer/episodes/s9e2-arrete-ou-je-mets-taylor-swift</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/laisse-moi-kiffer/e/6706c0aac6c20d9c391cf23c/media.mp3"/>
-                <guid>https://shows.acast.com/laisse-moi-kiffer/episodes/s9e2-arrete-ou-je-mets-taylor-swift</guid>
+                <link>https://www.rtl.fr/programmes/entrez-dans-l-histoire</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/d2fa9a6c-ef6f-48c9-a0d5-fec267c2d558.mp3?_=1728982095"/>
+                <guid>https://www.rtl.fr/programmes/entrez-dans-l-histoire</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 15 Oct 2024 04:27:06 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Oct 2024 04:26:59 +0200</lastBuildDate>
             <item>
-                <title>Trópico utópico - Around &amp; around - 14/10/24</title>
-                <description>Around &amp; around
-Feed: http://api.rtve.es/api/programas/2096/audios.rss</description>
+                <title>Toma de Protesta</title>
+                <description>En este episodio de No Hay Tos hablamos sobre la toma de protesta de Claudia Sheinbaum.
+Para tener acceso a episodios ad-free y para ver la transcripción completa (word for word) de este episodio visítanos en Patreon. 
+- Venos en video en YouTube. 
+- ¡Si el podcast te es útil por favor déjanos un review en Apple Podcasts! 
+- Donate: https://www.paypal...
+Feed: https://feeds.megaphone.fm/SONORO4487924320</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/tropico-utopico/around-around-14-10-24/16286260/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16286260.mp3"/>
-                <guid>https://www.rtve.es/play/audios/tropico-utopico/around-around-14-10-24/16286260/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/SONORO2949899340.mp3?updated=1728744242"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Directo de tik tok 11 octubre 2024 con especial de camilo sesto</title>
-                <description>DIRECTO DE TIK TOK 11 OCTUBRE CON ESPECIAL DE CAMILO SESTO
-Feed: https://www.ivoox.com/jmsalasmusic_fg_f1126262_filtro_1.xml</description>
+                <title>Hoy empieza todo - Este programa siempre será tu &#39;Gran Hostal&#39; con Camellos - 14/10/2024</title>
+                <description>Este programa siempre será tu &#39;Gran Hostal&#39; con Camellos
+Feed: http://api.rtve.es/api/programas/59010/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/directo-tik-tok-11-octubre-2024-con-audios-mp3_rf_134776201_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/directo-tik-tok-11-octubre-2024-con_mf_134776201_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/directo-tik-tok-11-octubre-2024-con-audios-mp3_rf_134776201_1.html</guid>
+                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-1/20241015091734762-151024ptr/16288206/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16288206.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-1/20241015091734762-151024ptr/16288206/</guid>
                 
             </item>
         </channel>
