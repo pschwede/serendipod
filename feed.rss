@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 20 Oct 2024 04:26:17 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 21 Oct 2024 04:27:07 +0200</lastBuildDate>
             <item>
-                <title>581: Releasing more BSDs</title>
-                <description>Debunking Common Myths About FreeBSD - Part 2, FreeBSD 13.4-RELEASE Announcement, OpenBSD -current has moved to version 7.6, acpidumping,Install snac2 on FreeBSD – An ActivityPub Instance for the Fediverse, Managing dotfiles with chezmoi, Podman testing on FreeBSD, and more
-Feed: https://www.bsdnow.tv/rss</description>
+                <title>From Panic To Profit – Christine McIver</title>
+                <description>Inspired Choices with Christine McIver  Are you in panic about how to grow your business, pay or bills or even to turn a profit in your business?  Is the idea of continuing to move forward sending you into night sweats or having you freeze up with no action at all? Let&#39;s take back your power and move into profit while having pleasure in your business. You have what it takes to create a successful business...
+Feed: https://www.inspiredchoicesnetwork.com/xml-feed/?id=16891</description>
                 
                 
-                <link>https://www.bsdnow.tv/581</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/c91b88f1-e824-4815-bcb8-5227818d6010/c6329e3b-eb96-4db0-9bb0-27d65a4ecddc.mp3"/>
-                <guid>https://www.bsdnow.tv/581</guid>
+                <link>https://www.inspiredchoicesnetwork.com/media/from-panic-to-profit-christine-mciver/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://icn-arc.s3.us-west-2.amazonaws.com/uploads/Inspired_Choices_Oct_16_2024.mp3"/>
+                <guid>https://www.inspiredchoicesnetwork.com/media/from-panic-to-profit-christine-mciver/</guid>
                 
             </item><item>
-                <title>278 Exploring Chartable&#39;s Shutdown Plus Backups and Content Banking for Podcasters</title>
-                <description>Exploring the dynamic landscape of podcasting amidst natural disasters and industry shifts. Key topics include the impacts of tropical storm Helene on North Carolina and the crucial role of radio in emergencies, the closure of Chartable and the need...
-Feed: https://thefeed.libsyn.com/rss</description>
+                <title>Bonus Bugle: Bugle Episode 92</title>
+                <description>A classic from John and Andy
+Feed: https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607</description>
                 
                 
-                <link>https://sites.libsyn.com/45546/278-exploring-chartables-shutdown-plus-backups-and-content-banking-for-podcasters</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/thefeed/278_thefeed.mp3?dest-id=149503"/>
-                <guid>https://sites.libsyn.com/45546/278-exploring-chartables-shutdown-plus-backups-and-content-banking-for-podcasters</guid>
+                <link>https://shows.acast.com/thebugle/episodes/bonus-bugle-bugle-episode-92</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/670d4480aaedc4eac0e832ed/media.mp3"/>
+                <guid>https://shows.acast.com/thebugle/episodes/bonus-bugle-bugle-episode-92</guid>
                 
             </item>
         </channel>

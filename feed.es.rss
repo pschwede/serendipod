@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 20 Oct 2024 04:26:28 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 21 Oct 2024 04:27:22 +0200</lastBuildDate>
             <item>
-                <title>Hora 14 Fin de Semana Castilla y León (19/10/2024)</title>
-                <description>Todo lo que ocurre en Castilla y León durante los fines de semana está en la SER.
-Feed: https://fapi-top.prisasd.com/podcast/playser/radio_valladolid.xml</description>
+                <title>Sapiens - La escuela del alma, con Josep María Esquirol - 21/10/24</title>
+                <description>La escuela del alma, con Josep María Esquirol
+Feed: http://www.rtve.es/api/programas/128073/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/RADIO_VALLADOLID_CADENASER_470_P/media/2024/10/19/ser_castillayleon_hora14findesemanacastillayleon_20241019_140626_143000.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/sapiens/escuela-del-alma-josep-maria-esquirol-21-10-24/16295701/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16295701.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sapiens/escuela-del-alma-josep-maria-esquirol-21-10-24/16295701/</guid>
                 
             </item><item>
-                <title>A golpe de bit - El biobanco del CNIO, una base de datos de tejidos - 18/10/24</title>
-                <description>El biobanco del CNIO, una base de datos de tejidos
-Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
+                <title>La música de tus sueños 16 octubre 2024 especia nino bravo</title>
+                <description>Audio del directo de la M&amp;uacute;sica de tus Sue&amp;ntilde;os con el especial de Nino Bravo.
+Feed: https://www.ivoox.com/jmsalasmusic_fg_f1126262_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/biobanco-del-cnio-base-datos-tejidos/16293591/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16293591.mp3"/>
-                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/biobanco-del-cnio-base-datos-tejidos/16293591/</guid>
+                <link>https://www.ivoox.com/musica-tus-suenos-16-octubre-2024-audios-mp3_rf_134970441_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/musica-tus-suenos-16-octubre-2024_mf_134970441_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/musica-tus-suenos-16-octubre-2024-audios-mp3_rf_134970441_1.html</guid>
                 
             </item>
         </channel>
