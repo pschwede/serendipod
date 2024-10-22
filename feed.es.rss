@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 21 Oct 2024 04:27:22 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 22 Oct 2024 04:27:46 +0200</lastBuildDate>
             <item>
-                <title>Sapiens - La escuela del alma, con Josep María Esquirol - 21/10/24</title>
-                <description>La escuela del alma, con Josep María Esquirol
-Feed: http://www.rtve.es/api/programas/128073/audios.rss</description>
+                <title>Popcasting464</title>
+                <description>sugababes · freak like me :: haircut 100 · as it was :: souls of mischief · 93 &#39;til infinity :: lil darkie · i can see clearly :: the cimarons · mull of kintyre :: n.y...
+Feed: https://feeds.feedburner.com/Popcasting</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sapiens/escuela-del-alma-josep-maria-esquirol-21-10-24/16295701/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16295701.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sapiens/escuela-del-alma-josep-maria-esquirol-21-10-24/16295701/</guid>
+                <link>http://www.ivoox.com/popcasting464-audios-mp3_rf_135002771_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting464_mf_135002771_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/popcasting464-audios-mp3_rf_135002771_1.html</guid>
                 
             </item><item>
-                <title>La música de tus sueños 16 octubre 2024 especia nino bravo</title>
-                <description>Audio del directo de la M&amp;uacute;sica de tus Sue&amp;ntilde;os con el especial de Nino Bravo.
-Feed: https://www.ivoox.com/jmsalasmusic_fg_f1126262_filtro_1.xml</description>
+                <title>Sicut luna perfecta - La monodia en el sur de Italia - 19/10/24</title>
+                <description>La monodia en el sur de Italia
+Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/musica-tus-suenos-16-octubre-2024-audios-mp3_rf_134970441_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/musica-tus-suenos-16-octubre-2024_mf_134970441_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/musica-tus-suenos-16-octubre-2024-audios-mp3_rf_134970441_1.html</guid>
+                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/monodia-sur-italia-19-10-24/16294764/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16294764.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/monodia-sur-italia-19-10-24/16294764/</guid>
                 
             </item>
         </channel>
