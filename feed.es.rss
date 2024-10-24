@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 23 Oct 2024 04:26:53 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 24 Oct 2024 04:27:10 +0200</lastBuildDate>
             <item>
-                <title>Mejores poemas de Miguel Hernández. Poemas cortos de MIguel Hernández: A la luna</title>
-                <description>Poemas cortos de Miguel Hernández.  Los mejores poemas de amor y esperanza de Miguel Hernández.  Poema A la luna
-Poemas de amor cortos  https://www.amorypoesia.es/poemas-de-amor-cortos/
-A la luna. Miguel Hernández
-  A la luna venidera
-te acostarás a...
-Feed: https://www.spreaker.com/show/5435375/episodes/feed</description>
+                <title>#275 La Pastilla del Diablo</title>
+                <description>
+Feed: https://www.spreaker.com/show/3137911/episodes/feed</description>
                 
                 
-                <link>https://www.locutortv.com/locutores-para-centralitas-locutores-de-mensajes-telefono/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/62427597/miguel_hernandez_a_la_luna_poemas.mp3"/>
-                <guid>https://www.locutortv.com/locutores-para-centralitas-locutores-de-mensajes-telefono/</guid>
+                <link>https://www.spreaker.com/episode/275-la-pastilla-del-diablo--62432405</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/62432405/275_la_pastilla_del_diablo_audio.mp3"/>
+                <guid>https://www.spreaker.com/episode/275-la-pastilla-del-diablo--62432405</guid>
                 
             </item><item>
-                <title>La música de tus sueños 16 octubre 2024 especia nino bravo</title>
-                <description>Audio del directo de la M&amp;uacute;sica de tus Sue&amp;ntilde;os con el especial de Nino Bravo.
-Feed: https://www.ivoox.com/jmsalasmusic_fg_f1126262_filtro_1.xml</description>
+                <title>El colegio invisible 23/10/2024</title>
+                <description>Escucha &#39;El Colegio invisible&#39;, el programa de misterio con Lorenzo Fernández Bueno y Laura Falcó en Onda Cero. 
+Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
                 
                 
-                <link>https://www.ivoox.com/musica-tus-suenos-16-octubre-2024-audios-mp3_rf_134970441_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/musica-tus-suenos-16-octubre-2024_mf_134970441_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/musica-tus-suenos-16-octubre-2024-audios-mp3_rf_134970441_1.html</guid>
+                <link>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-23102024_2024102367184d35afcb530001bfa08b.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.ondacero.es/mp_audios4//2024/10/23/016C55B0-96CC-4C4E-AC39-6B682F3876AB/016C55B0-96CC-4C4E-AC39-6B682F3876AB.mp3"/>
+                <guid>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-23102024_2024102367184d35afcb530001bfa08b.html</guid>
                 
             </item>
         </channel>

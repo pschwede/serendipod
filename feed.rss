@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 23 Oct 2024 04:26:42 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 24 Oct 2024 04:27:01 +0200</lastBuildDate>
             <item>
-                <title>Whisky Whiskey</title>
-                <description>Vic joins John to discuss all things Whisky/Whiskey as John launches a new Video Podcast of the same name. Think of Pragmatic...but applied to Whisky...in a video form. We cover everything from Mash Bills to Distilling, Barrel Influence and lots and …
-Feed: https://engineered.network/pragmatic/feed/index.xml</description>
-                
-                
-                <link>https://engineered.network/pragmatic/episode-116-whisky-whiskey</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e/media.engineered.network/pragmatic/Pragmatic-E116-Whisky-Whiskey.mp3"/>
-                <guid>https://engineered.network/pragmatic/episode-116-whisky-whiskey</guid>
-                
-            </item><item>
                 <title>#209 The Toyota Production System - Part 2 w/ Donal</title>
                 <description>This week we have part-two of our discussion with my co-author Donal O’Coisdealbha on the Toyota ...
 Feed: https://fromalpha2omega.podomatic.com/rss2.xml</description>
@@ -29,6 +19,16 @@ Feed: https://fromalpha2omega.podomatic.com/rss2.xml</description>
                 <link>https://www.podomatic.com/podcasts/fromalpha2omega/episodes/2024-10-19T08_37_09-07_00</link>
                 <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/fromalpha2omega.podomatic.com/enclosure/2024-10-19T08_37_09-07_00.mp3?_=1729352233.17200060"/>
                 <guid>https://www.podomatic.com/podcasts/fromalpha2omega/episodes/2024-10-19T08_37_09-07_00</guid>
+                
+            </item><item>
+                <title>The Case for Trump: The 249th Evolutionary Lens with Bret Weinstein and Heather Heying</title>
+                <description>In this 249th in a series of live discussions with Bret Weinstein and Heather Heying (both PhDs in Biology), we talk about the state of the world through an evolutionary lens.In this week’s episode, we discuss the upcoming election, and how important it is to vote. The Democratic Party has created a two-tiered system in the Courts and in federal agencies; they have inverted basic values, including equal protection under the law, the role of families, informed consent, individual sovereignty, ...
+Feed: https://feeds.buzzsprout.com/424075.rss</description>
+                
+                
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/424075/episodes/15980786-the-case-for-trump-the-249th-evolutionary-lens-with-bret-weinstein-and-heather-heying.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
