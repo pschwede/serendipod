@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 24 Oct 2024 04:27:10 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 25 Oct 2024 04:29:18 +0200</lastBuildDate>
             <item>
-                <title>#275 La Pastilla del Diablo</title>
-                <description>
-Feed: https://www.spreaker.com/show/3137911/episodes/feed</description>
+                <title>Rincón Sportinguista 568 #PodcastSportinguista</title>
+                <description>Programa con @JaviMelero77 @AlejandroJamart y Mon donde analizamos la derrota del Sporting en Elche por 2-1 a domicilio.
+Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
                 
                 
-                <link>https://www.spreaker.com/episode/275-la-pastilla-del-diablo--62432405</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/62432405/275_la_pastilla_del_diablo_audio.mp3"/>
-                <guid>https://www.spreaker.com/episode/275-la-pastilla-del-diablo--62432405</guid>
+                <link>https://www.ivoox.com/rincon-sportinguista-568-podcastsportinguista-audios-mp3_rf_135082090_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-568-podcastsportinguista_mf_135082090_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/rincon-sportinguista-568-podcastsportinguista-audios-mp3_rf_135082090_1.html</guid>
                 
             </item><item>
-                <title>El colegio invisible 23/10/2024</title>
-                <description>Escucha &#39;El Colegio invisible&#39;, el programa de misterio con Lorenzo Fernández Bueno y Laura Falcó en Onda Cero. 
-Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
+                <title>Atmósfera - Festival LEM 2024 - 20/10/24</title>
+                <description>Festival LEM 2024
+Feed: http://api.rtve.es/api/programas/1891/audios.rss</description>
                 
                 
-                <link>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-23102024_2024102367184d35afcb530001bfa08b.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.ondacero.es/mp_audios4//2024/10/23/016C55B0-96CC-4C4E-AC39-6B682F3876AB/016C55B0-96CC-4C4E-AC39-6B682F3876AB.mp3"/>
-                <guid>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-23102024_2024102367184d35afcb530001bfa08b.html</guid>
+                <link>https://www.rtve.es/play/audios/atmosfera/festival-lem-2024-20-10-24/16295151/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16295151.mp3"/>
+                <guid>https://www.rtve.es/play/audios/atmosfera/festival-lem-2024-20-10-24/16295151/</guid>
                 
             </item>
         </channel>
