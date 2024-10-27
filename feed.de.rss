@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 26 Oct 2024 04:27:02 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 27 Oct 2024 04:26:47 +0200</lastBuildDate>
             <item>
-                <title>Sanaka Hiiragi - Die Glückslieferanten</title>
-                <description>Die japanische Autorin Sanaka Hiiragi hat eine Geschichte voller Glücksmomente geschrieben. Ein besonderes Leseerlebnis, vorgestellt von Buchhändlerin Martina Manns.
-Feed: https://www1.wdr.de/mediathek/audio/wdr2/lesen/lesen-podcast-100.podcast</description>
+                <title>Wie gerecht ist das Rentenpaket II?</title>
+                <description> Heckmann, Dirk-Oliver www.deutschlandfunk.de, Kontrovers 
+Feed: https://www.deutschlandfunk.de/kontrovers-102.xml</description>
                 
                 
-                <link>https://www1.wdr.de/mediathek/audio/wdr2/lesen/audio-sanaka-hiiragi---die-glueckslieferanten-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/319/3196034/3196034_59631853.mp3"/>
-                <guid>https://www1.wdr.de/mediathek/audio/wdr2/lesen/audio-sanaka-hiiragi---die-glueckslieferanten-100.html</guid>
+                <link>https://www.deutschlandfunk.de/wie-gerecht-ist-das-rentenpaket-ii-dlf-9f7bae52-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/10/21/wie_gerecht_ist_das_rentenpaket_ii_dlf_20241021_1005_9f7bae52.mp3?refId=kontrovers-102"/>
+                <guid>https://www.deutschlandfunk.de/wie-gerecht-ist-das-rentenpaket-ii-dlf-9f7bae52-100.html</guid>
                 
             </item><item>
-                <title>Trump gegen Harris - Die Rolle der Religion im US-Wahlkampf</title>
-                <description>Im US-Wahlkampf stehen Reproduktionsrechte und Geschlechterrollen im Zentrum. Warum verlaufen die Konfliktlinien über den weiblichen Körper? Die Antworten finden sich in historischen und aktuellen Verflechtungen von Religion und Geschlechterpolitik. Kröger, Jasmin www.deutschlandfunk.de, Aus Religion und Gesellschaft 
-Feed: https://www.deutschlandfunk.de/aus-religion-und-gesellschaft-102.xml</description>
+                <title>#Folge 0235 - Mindset Hack</title>
+                <description>Selbsterfüllende Prophezeiung
+Feed: https://stressfreiefuehrung.podcaster.de/stressfreiefuehrung.rss</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/harris-versus-trump-make-america-pray-again-dlf-2df92c77-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2024/10/23/harris_versus_trump_make_america_pray_again_dlf_20241023_2010_2df92c77.mp3?refId=aus-religion-und-gesellschaft-102"/>
-                <guid>https://www.deutschlandfunk.de/harris-versus-trump-make-america-pray-again-dlf-2df92c77-100.html</guid>
+                <link>https://stressfreiefuehrung.podcaster.de/stressfreiefuehrung/media/Folge_0235_-_Mindset_Hack.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stressfreiefuehrung.podcaster.de/stressfreiefuehrung/media/Folge_0235_-_Mindset_Hack.mp3"/>
+                <guid>https://stressfreiefuehrung.podcaster.de/stressfreiefuehrung/media/Folge_0235_-_Mindset_Hack.mp3</guid>
                 
             </item>
         </channel>
