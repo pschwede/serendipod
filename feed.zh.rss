@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 27 Oct 2024 04:27:06 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 28 Oct 2024 04:28:24 +0200</lastBuildDate>
             <item>
-                <title>#209 The Toyota Production System - Part 2 w/ Donal</title>
-                <description>This week we have part-two of our discussion with my co-author Donal O’Coisdealbha on the Toyota ...
-Feed: https://fromalpha2omega.podomatic.com/rss2.xml</description>
+                <title>Dan Lenard passes the VOBS Podcast torch GTTP #1</title>
+                <description>Passing the Mic: George the Tech&#39;s Podcast Takes Flight with Dan Lenard In the inaugural episode of George the Tech&#39;s new podcast, George introduces his audience to the revamped format alongside guest Dan Lenard, President of World Voices. Broadcasting from the Royal Sonesta River North Hotel in Chicago during WoVoCon 2024, the duo reflects on the podcast&#39;s evolution from EWABS to VOBS and shares anecdotes from their journey in the industry...
+Feed: https://feed.podbean.com/ewabs/feed.xml</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/fromalpha2omega/episodes/2024-10-19T08_37_09-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/fromalpha2omega.podomatic.com/enclosure/2024-10-19T08_37_09-07_00.mp3?_=1729352233.17200060"/>
-                <guid>https://www.podomatic.com/podcasts/fromalpha2omega/episodes/2024-10-19T08_37_09-07_00</guid>
+                <link>https://ewabs.podbean.com/e/dan-lenard-passes-the-vobs-podcast-torch-gttp-1/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/raqk3xdqqd6fp4kw/DanLenard_passes_the_VOBS_Podcast_torch_EP1.m4a"/>
+                <guid>https://ewabs.podbean.com/e/dan-lenard-passes-the-vobs-podcast-torch-gttp-1/</guid>
                 
             </item><item>
-                <title>400: Tom&#39;s Second Rodeo</title>
-                <description>No real show notes for this one. Episode 400 was a blast. Thanks to all our listeners, sponsors, and supporters on Patreon for all the encouragement over the years. Oh, and welcome back Tom Rideout.
-Feed: https://feeds.simplecast.com/iYRiH9ym</description>
+                <title>258 - Absolute Towelite
+                </title>
+                <description>The LATEST episode of Towelite Talk is here for your listening pleasures...
+Feed: https://feeds.castos.com/1dp69</description>
                 
                 
-                <link>http://www.phpugly.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/678df3fd-7592-416a-9acf-83de40d243bf/episodes/6ab0dd4a-255b-4660-9746-ace2410d7b04/audio/dae3f61a-f092-4207-9905-c95f6cb40f45/default_tc.mp3?aid=rss_feed&amp;feed=iYRiH9ym"/>
-                <guid>http://www.phpugly.com</guid>
+                <link>https://towelite-talk.castos.com/episodes/258-absolute-towelite</link>
+                <enclosure type="audio/mpeg" length="1" url="https://episodes.castos.com/600aca0013b0e7-18047373/1863029/c1e-025pnhjgxdjap93pm-7zk9dk7wuqn9-ccb236.mp3"/>
+                <guid>https://towelite-talk.castos.com/episodes/258-absolute-towelite</guid>
                 
             </item>
         </channel>
