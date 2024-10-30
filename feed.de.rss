@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 28 Oct 2024 04:28:04 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 30 Oct 2024 04:27:16 +0200</lastBuildDate>
             <item>
-                <title>Nr. 71: Nils Haupt und die kreativen Kümmerer von Hapag Llyod</title>
-                <description>Monsters of Content Marketing – by fischerAppelt
-Feed: https://monsters-of-content-marketing.podigee.io/feed/mp3</description>
+                <title>Teil 1: Die Messe für meine Heimatstadt Baunatal</title>
+                <description>Episode 98
+Feed: https://der-podcast-von-und-mit-markus-zosel.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://monsters-of-content-marketing.podigee.io/72-nils-haupt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1643204-m-041d7782f6c8bfa7757211a6cedb7702.mp3?source=feed"/>
-                <guid>https://monsters-of-content-marketing.podigee.io/72-nils-haupt</guid>
+                <link>https://der-podcast-von-und-mit-markus-zosel.podigee.io/98-teil1-baunataler-messe</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1633277-m-1c49c6a8cbef385779b00122f9cdac39.mp3?source=feed"/>
+                <guid>https://der-podcast-von-und-mit-markus-zosel.podigee.io/98-teil1-baunataler-messe</guid>
                 
             </item><item>
-                <title>Kannst du pfeifen, Johanna? – ein Hörspiel über einen neuen Opa</title>
-                <description>Berra hätte gerne einen Grossvater. Aber wo findet man einen Opa? Sein bester Freund Ulf hat eine Idee! (Ab 8 Jahren)
-Feed: https://www.srf.ch/feed/podcast/sd/88072903-e34f-4f51-a9b9-052562d049c2.xml</description>
+                <title>Entfesselte Macht: Der geistliche Ursprung der Gewalt im Zeugnis der Heiligen Schrift. 7. Teil: er pseudoreligiöse Macht des Gottesfeindes - Die beiden Tiere in Offb 13</title>
+                <description>Dr. Sven Voigt https://www.ess-erfurt.de/
+https://www.horeb.org/programm/news-beitraege/details/news/gewalt-in-der-bibel-2/
+https://www.media-maria.de/restseller-buecher-und-dvds/restseller-buecher/5989/gott-ist-barmherzig-statt-14-95
+Feed: http://www.horeb.org/xyz/podcast/credo/credo.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://download-media.srf.ch/world/audio/Zambo-Hoerspiele-fuer-Kinder-radio/2024/10/Zambo-Hoerspiele-fuer-Kinder-radio-7ccfbc5c-e008-4429-b146-6d569b77bfc2-1.mp3?d=ap&amp;assetId=7ccfbc5c-e008-4429-b146-6d569b77bfc2"/>
-                <guid></guid>
+                <link>https://www.horeb.org/xyz/podcast/credo/20241025cr.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.horeb.org/xyz/podcast/credo/20241025cr.mp3"/>
+                <guid>https://www.horeb.org/xyz/podcast/credo/20241025cr.mp3</guid>
                 
             </item>
         </channel>

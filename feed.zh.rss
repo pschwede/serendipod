@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 28 Oct 2024 04:28:24 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 30 Oct 2024 04:27:31 +0200</lastBuildDate>
             <item>
-                <title>Dan Lenard passes the VOBS Podcast torch GTTP #1</title>
-                <description>Passing the Mic: George the Tech&#39;s Podcast Takes Flight with Dan Lenard In the inaugural episode of George the Tech&#39;s new podcast, George introduces his audience to the revamped format alongside guest Dan Lenard, President of World Voices. Broadcasting from the Royal Sonesta River North Hotel in Chicago during WoVoCon 2024, the duo reflects on the podcast&#39;s evolution from EWABS to VOBS and shares anecdotes from their journey in the industry...
-Feed: https://feed.podbean.com/ewabs/feed.xml</description>
+                <title>(Pixel) Watch and Listen</title>
+                <description>Welcome to episode 29 of Pixelated, a podcast by 9to5Google....
+Feed: https://feeds.feedburner.com/9to5GoogleAlphabetScoop</description>
                 
                 
-                <link>https://ewabs.podbean.com/e/dan-lenard-passes-the-vobs-podcast-torch-gttp-1/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/raqk3xdqqd6fp4kw/DanLenard_passes_the_VOBS_Podcast_torch_EP1.m4a"/>
-                <guid>https://ewabs.podbean.com/e/dan-lenard-passes-the-vobs-podcast-torch-gttp-1/</guid>
+                <link>https://9to5google.com/2024/10/25/pixelated-029/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://chrt.fm/track/C52FCG/dts.podtrac.com/redirect.mp3/9to5google.com/wp-content/uploads/sites/4/2024/10/Pixelated_29.mp3"/>
+                <guid>https://9to5google.com/2024/10/25/pixelated-029/</guid>
                 
             </item><item>
-                <title>258 - Absolute Towelite
-                </title>
-                <description>The LATEST episode of Towelite Talk is here for your listening pleasures...
-Feed: https://feeds.castos.com/1dp69</description>
+                <title>Wit and Wine: An Inside Look with Laura DePasquale - Pt. 6</title>
+                <description>&lt;p&gt;This episode of The Best 5 Minute Wine Podcast features a compelling discussion with Laura DePasquale, the Senior Vice President of Commercial Operations for Artisanal Wines at Southern Glaziers Wine and Spirits. A key takeaway is the recognition that wine is not just a beverage but an agricultural product that relies heavily on responsible farming practices, especially within artisanal and fine wineries...
+Feed: https://feeds.captivate.fm/thebest5minutewine/</description>
                 
                 
-                <link>https://towelite-talk.castos.com/episodes/258-absolute-towelite</link>
-                <enclosure type="audio/mpeg" length="1" url="https://episodes.castos.com/600aca0013b0e7-18047373/1863029/c1e-025pnhjgxdjap93pm-7zk9dk7wuqn9-ccb236.mp3"/>
-                <guid>https://towelite-talk.castos.com/episodes/258-absolute-towelite</guid>
+                <link>https://thebest5minutewine.captivate.fm/episode/wit-and-wine-an-inside-look-with-laura-depasquale-pt-6</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e/podcasts.captivate.fm/media/c21597fb-42cd-4be3-818f-448e77207dd0/Laura-DePasquale-Pt-6.mp3"/>
+                <guid>https://thebest5minutewine.captivate.fm/episode/wit-and-wine-an-inside-look-with-laura-depasquale-pt-6</guid>
                 
             </item>
         </channel>
