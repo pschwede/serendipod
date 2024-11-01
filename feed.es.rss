@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 30 Oct 2024 04:27:24 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 01 Nov 2024 04:27:01 +0200</lastBuildDate>
             <item>
-                <title>Café del sur - Canciones en la frontera - 27/10/24</title>
-                <description>Canciones en la frontera
-Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
+                <title>Artesanos Tecnológicos</title>
+                <description>Artesanos Tecnológicos
+Feed: https://feeds.feedburner.com/MiradaCientfica</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cafe-del-sur/canciones-frontera-27-10-24/16304785/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16304785.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cafe-del-sur/canciones-frontera-27-10-24/16304785/</guid>
+                <link>https://www.jyestudio.com/mirada-cientifica/artesanos-tecnologicos/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.jyestudio.com/podlove/file/49/s/webplayer/mc_t02e01.mp3"/>
+                <guid>https://www.jyestudio.com/mirada-cientifica/artesanos-tecnologicos/</guid>
                 
             </item><item>
-                <title>Podcast FDC 123: No Soy Un Serial Killer – Capítulo 9</title>
-                <description>Continuamos con la narración de No Soy Un Serial Killer y entramos al noveno capítulo. John se convierte en una pieza clave en toda esta situción. Es el único que conoce la identidad del asesino y su extraña naturaleza, y está decidido a ir en contra de todos los principios que se ha impuesto con tal de acabar con él. Esto podría representar un cambio irreversible en su vida, pero es un riesgo que está dispuesto a correr por el bien de todos.
-Feed: https://fueradelcine.com/feed/podcast/</description>
+                <title>El Francotirarock y el huerto de su suegro</title>
+                <description>&lt;br&gt;
+Feed: https://www.rockfm.fm/api/es/programas/el-pirata-y-su-banda/el-francotirarock/audios/rss.xml</description>
                 
                 
-                <link>https://fueradelcine.com/podcast-fdc-123-no-soy-un-serial-killer-capitulo-9/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/fueradelcine/fueradelcine.com/podcasts/ep-123-fdc-2024-10-07.mp3"/>
-                <guid>https://fueradelcine.com/podcast-fdc-123-no-soy-un-serial-killer-capitulo-9/</guid>
+                <link>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/episodios/francotirarock-huerto-suegro-20241031_54311.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.rockfm.fm/uploads/2024/10/31/QCKIDyVblqSv8iDr4bqz1.mp3"/>
+                <guid>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/episodios/francotirarock-huerto-suegro-20241031_54311.html</guid>
                 
             </item>
         </channel>

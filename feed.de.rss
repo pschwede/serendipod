@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 30 Oct 2024 04:27:16 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 01 Nov 2024 04:26:54 +0200</lastBuildDate>
             <item>
-                <title>Teil 1: Die Messe für meine Heimatstadt Baunatal</title>
-                <description>Episode 98
-Feed: https://der-podcast-von-und-mit-markus-zosel.podigee.io/feed/mp3</description>
+                <title>Folge 171: Wirsing-Dämon</title>
+                <description>Folge 171 ist da - Wirsing-Dämon!
+Feed: https://eierbagge.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://der-podcast-von-und-mit-markus-zosel.podigee.io/98-teil1-baunataler-messe</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1633277-m-1c49c6a8cbef385779b00122f9cdac39.mp3?source=feed"/>
-                <guid>https://der-podcast-von-und-mit-markus-zosel.podigee.io/98-teil1-baunataler-messe</guid>
+                <link>https://eierbagge.podigee.io/172-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1654231-m-1dc5e448c8dfb342d73ed0ed1f202edf.mp3?source=feed"/>
+                <guid>https://eierbagge.podigee.io/172-new-episode</guid>
                 
             </item><item>
-                <title>Entfesselte Macht: Der geistliche Ursprung der Gewalt im Zeugnis der Heiligen Schrift. 7. Teil: er pseudoreligiöse Macht des Gottesfeindes - Die beiden Tiere in Offb 13</title>
-                <description>Dr. Sven Voigt https://www.ess-erfurt.de/
-https://www.horeb.org/programm/news-beitraege/details/news/gewalt-in-der-bibel-2/
-https://www.media-maria.de/restseller-buecher-und-dvds/restseller-buecher/5989/gott-ist-barmherzig-statt-14-95
-Feed: http://www.horeb.org/xyz/podcast/credo/credo.xml</description>
+                <title>Zuckerarme Ernährung - mit Katharina Dreier</title>
+                <description>Dein Kind will ständig Süßes und du fragst dich, wie viel Zucker eigentlich okay ist? Dann ist diese Folge genau das Richtige für dich!
+Unsere Gesprächspartnerin Katharina Dreier ist Mama von drei Kindern und studierte Ernährungsberaterin für Babys und 
+Feed: https://spiel-spass-wutanfall.de/feed/podcast/spiel-spass-wutanfall/</description>
                 
                 
-                <link>https://www.horeb.org/xyz/podcast/credo/20241025cr.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.horeb.org/xyz/podcast/credo/20241025cr.mp3"/>
-                <guid>https://www.horeb.org/xyz/podcast/credo/20241025cr.mp3</guid>
+                <link>https://spiel-spass-wutanfall.de/podcast/zuckerarme-ernaehrung-mit-katharina-dreier/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://spiel-spass-wutanfall.de/podcast-download/1028/zuckerarme-ernaehrung-mit-katharina-dreier.mp3"/>
+                <guid>https://spiel-spass-wutanfall.de/podcast/zuckerarme-ernaehrung-mit-katharina-dreier/</guid>
                 
             </item>
         </channel>
