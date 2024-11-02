@@ -9,27 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 01 Nov 2024 04:26:54 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 02 Nov 2024 04:27:15 +0200</lastBuildDate>
             <item>
-                <title>Folge 171: Wirsing-Dämon</title>
-                <description>Folge 171 ist da - Wirsing-Dämon!
-Feed: https://eierbagge.podigee.io/feed/mp3</description>
+                <title>El Chai | Der Lebendige Gott</title>
+                <description>ICF Berlin ist eine überkonfessionelle Freikirche auf biblischer Grundlage, die aus dem Traum entstanden ist, Kirche für die Menschen dynamisch, lebensnah und zeitgemäß zu gestalten. Als Kirche ist es unsere Leidenschaft, dass Menschen Jesus Christus ähnlicher werden, furchtlos leben und ihr Umfeld positiv verändern.
+Wie wir uns das vorstellen, siehst du hier im Channel. Oder du kommst einfach an einem Sonntag zu uns in eine Celebration und machst dir live ein Bild. Wir freuen uns auf dich.
+Feed: https://feeds.megaphone.fm/icfberlin</description>
                 
                 
-                <link>https://eierbagge.podigee.io/172-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1654231-m-1dc5e448c8dfb342d73ed0ed1f202edf.mp3?source=feed"/>
-                <guid>https://eierbagge.podigee.io/172-new-episode</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/ICFMOVEMENT7805050588.mp3?updated=1730223055"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Zuckerarme Ernährung - mit Katharina Dreier</title>
-                <description>Dein Kind will ständig Süßes und du fragst dich, wie viel Zucker eigentlich okay ist? Dann ist diese Folge genau das Richtige für dich!
-Unsere Gesprächspartnerin Katharina Dreier ist Mama von drei Kindern und studierte Ernährungsberaterin für Babys und 
-Feed: https://spiel-spass-wutanfall.de/feed/podcast/spiel-spass-wutanfall/</description>
+                <title>Prof. Dr. Michaela Merk &amp; Ulf Zinne: Die Erfolgsformel – Beziehungsintelligenz als Schlüssel zur Exzellenz</title>
+                <description>Schaue gerne bei dem Profil von Prof. Dr. Michaela Merk vorbei:
+https://www.expert-marketplace.de/de/keynote-speaker/michaela-merk-csp?location_id=&amp;date=
+In diesem inspirierenden Podcast sprechen Prof. Dr. Michaela Merk und Ulf Zinne über die entscheidende Rolle von Beziehungsintelligenz im persönlichen und beruflichen Erfolg...
+Feed: https://podcast7be3f6.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://spiel-spass-wutanfall.de/podcast/zuckerarme-ernaehrung-mit-katharina-dreier/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://spiel-spass-wutanfall.de/podcast-download/1028/zuckerarme-ernaehrung-mit-katharina-dreier.mp3"/>
-                <guid>https://spiel-spass-wutanfall.de/podcast/zuckerarme-ernaehrung-mit-katharina-dreier/</guid>
+                <link>https://podcast7be3f6.podigee.io/528-prof-dr-michaela-merk-ulf-zinne-die-erfolgsformel-beziehungsintelligenz-als-schlussel-zur-exzellenz</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1606703-m-42ffc756331437a07ea2054f217d25a9.mp3?source=feed"/>
+                <guid>https://podcast7be3f6.podigee.io/528-prof-dr-michaela-merk-ulf-zinne-die-erfolgsformel-beziehungsintelligenz-als-schlussel-zur-exzellenz</guid>
                 
             </item>
         </channel>
