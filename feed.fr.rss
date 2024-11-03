@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 02 Nov 2024 04:27:19 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 03 Nov 2024 04:26:11 +0200</lastBuildDate>
             <item>
-                <title>L’Europe des extrêmes droites</title>
-                <description>Avec le récent succès du FPÖ aux élections législatives autrichiennes, la poussée des partis d’extrême droite au sein de l’Union européenne se poursuit.
-Feed: https://www.rts.ch/emissions/geopolitis/podcasts/?format=rss/podcast</description>
+                <title>Inondations meurtrières en Espagne : chronique d’une catastrophe annoncée</title>
+                <description>Inondations meurtrières en Espagne : chronique d’une catastrophe annoncée
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13305.xml</description>
                 
                 
-                <link>https://www.rts.ch/emissions/geopolitis/2024/video/l-europe-des-extremes-droites-28671995.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/15243037/024d1288-1847-3865-b51b-b59e2742dc0f.mp4"/>
-                <guid>https://www.rts.ch/emissions/geopolitis/2024/video/l-europe-des-extremes-droites-28671995.html</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/inondations-meurtrieres-en-espagne-chronique-d-une-catastrophe-annoncee-5715565</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/ac81cd3e-b848-4084-af7d-e295e7d0e65b/13305-01.11.2024-ITEMA_23911781-2024C3305S0306-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/inondations-meurtrieres-en-espagne-chronique-d-une-catastrophe-annoncee-5715565</guid>
                 
             </item><item>
-                <title>Ep. 43 : Azkaban et le système carcéral dans Harry Potter</title>
-                <description>**TRIGGER WARNING : Nous parlons dans cet épisode de sujets sombres, liés à la santé mentale et aux conditions d&#39;enfermement. Si ces sujets vous touchent, prenez soin de vous !**
-Dans le monde magique, le nom d&#39;Azkaban fait trembler les sorciers presque autant que celui de Voldemort...
-Feed: https://aspic.lepodcast.fr/rss</description>
+                <title>#275 - Histoire de la marque Rolex par Antoine et Samuel</title>
+                <description>&lt;p&gt;Dans cet épisode de Mark&amp;amp;Ting, Samuel et Antoine vous dévoilent les secrets derrière la distribution exclusive des montres Rolex. Comment cette marque iconique parvient-elle à maintenir son image luxueuse tout en jouant sur la rareté et la sélection minutieuse de ses points de vente ? Découvrez comment Rolex façonne le désir autour de ses produits en maîtrisant la disponibilité de ses modèles...
+Feed: https://feeds.acast.com/public/shows/mark-et-ting</description>
                 
                 
-                <link>https://aspic.lepodcast.fr/ep-43-azkaban-et-le-systeme-carceral-dans-harry-potter</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/aspic/ep-43-azkaban-et-le-systeme-carceral-dans-harry-potter/enclosure.d9dca866fce8bc27fc63e07a8ff5a5e28f568e79a8a2ad3e627b409fc4dfd5eb.mp3?p=f"/>
-                <guid>https://aspic.lepodcast.fr/ep-43-azkaban-et-le-systeme-carceral-dans-harry-potter</guid>
+                <link>https://shows.acast.com/mark-et-ting/episodes/671139ee0c127cea51f86f49</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/620e78e488e4890016aed370/e/671139ee0c127cea51f86f49/media.mp3"/>
+                <guid>https://shows.acast.com/mark-et-ting/episodes/671139ee0c127cea51f86f49</guid>
                 
             </item>
         </channel>

@@ -9,29 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 02 Nov 2024 04:27:15 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 03 Nov 2024 04:26:07 +0200</lastBuildDate>
             <item>
-                <title>El Chai | Der Lebendige Gott</title>
-                <description>ICF Berlin ist eine überkonfessionelle Freikirche auf biblischer Grundlage, die aus dem Traum entstanden ist, Kirche für die Menschen dynamisch, lebensnah und zeitgemäß zu gestalten. Als Kirche ist es unsere Leidenschaft, dass Menschen Jesus Christus ähnlicher werden, furchtlos leben und ihr Umfeld positiv verändern.
-Wie wir uns das vorstellen, siehst du hier im Channel. Oder du kommst einfach an einem Sonntag zu uns in eine Celebration und machst dir live ein Bild. Wir freuen uns auf dich.
-Feed: https://feeds.megaphone.fm/icfberlin</description>
+                <title>Episode 96 - Ein Foto ist nicht nur ein Klick</title>
+                <description>What&#39;s the Story - der Fotografie-Podcast! Wir sprechen über die Geschichten hinter den Bildern
+Feed: https://wts-whatsthestory.podigee.io/feed/aac</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/ICFMOVEMENT7805050588.mp3?updated=1730223055"/>
-                <guid></guid>
+                <link>https://wts-whatsthestory.podigee.io/100-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1617764-m-a6f6c7d6b303680d2c7a8e4a653150d9.m4a?source=feed"/>
+                <guid>https://wts-whatsthestory.podigee.io/100-new-episode</guid>
                 
             </item><item>
-                <title>Prof. Dr. Michaela Merk &amp; Ulf Zinne: Die Erfolgsformel – Beziehungsintelligenz als Schlüssel zur Exzellenz</title>
-                <description>Schaue gerne bei dem Profil von Prof. Dr. Michaela Merk vorbei:
-https://www.expert-marketplace.de/de/keynote-speaker/michaela-merk-csp?location_id=&amp;date=
-In diesem inspirierenden Podcast sprechen Prof. Dr. Michaela Merk und Ulf Zinne über die entscheidende Rolle von Beziehungsintelligenz im persönlichen und beruflichen Erfolg...
-Feed: https://podcast7be3f6.podigee.io/feed/mp3</description>
+                <title>Folge 319: MrBestialisch verschimmelt &amp; die OnlyFans-Rentnerin ft. Victoria Reichelt</title>
+                <description>Der Podcast über das Internet mit YouTuber Robin Blase &amp; Gästen aus der Influencer-Welt.
+Hier diskutieren und lästern wir jeden Samstag über YouTube, das Internet, Social Media, Influencer*innen und was das Netz diese Woche so bewegt.
+Feed: https://laesterschwestern.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://podcast7be3f6.podigee.io/528-prof-dr-michaela-merk-ulf-zinne-die-erfolgsformel-beziehungsintelligenz-als-schlussel-zur-exzellenz</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1606703-m-42ffc756331437a07ea2054f217d25a9.mp3?source=feed"/>
-                <guid>https://podcast7be3f6.podigee.io/528-prof-dr-michaela-merk-ulf-zinne-die-erfolgsformel-beziehungsintelligenz-als-schlussel-zur-exzellenz</guid>
+                <link>https://laesterschwestern.podigee.io/319-folge-319-mrbestialisch-verschimmelt-die-onlyfans-rentnerin-ft-victoria-reichelt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1656513-m-41d9ac54863a0758e49cf0bc70935475.mp3?source=feed"/>
+                <guid>https://laesterschwestern.podigee.io/319-folge-319-mrbestialisch-verschimmelt-die-onlyfans-rentnerin-ft-victoria-reichelt</guid>
                 
             </item>
         </channel>
