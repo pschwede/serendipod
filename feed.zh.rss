@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 03 Nov 2024 04:26:22 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 04 Nov 2024 04:27:06 +0200</lastBuildDate>
             <item>
-                <title>Juanita Roby</title>
-                <description>It’s never too late to learn to quilt!  Juanita Roby is in her 80’s and learned to quilt not even 10 years ago.  I was so happy to have the opportunity to visit with Juanita and share our enjoyment of quilting.
-This is the quilt that Juanita said she named Nightmare.
-Her favorite type of quilt - Dutch Girl / Boy
-A few of Juanita&#39;s Christmas quilts
-  
-Feed: https://feeds.captivate.fm/aquilterslife/</description>
+                <title>Episode #449 - DroPolter</title>
+                <description>DroPolter: Ghost vs Palm Muscle is a whimsically absurd dexterity game. Drop your lucky charms in just the right order, then nab the ghost and win a tiny bell.
+Feed: https://www.thespiel.net/feed.xml</description>
                 
                 
-                <link>https://aquilterslife.com/juanita-roby</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/91GE17/podcasts.captivate.fm/media/cca2b7a5-3dad-4f84-866d-8c46cf861b33/Juanita-Roby-mixdown.mp3"/>
-                <guid>https://aquilterslife.com/juanita-roby</guid>
+                <link>https://thespiel.net/node/1363</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/thespiel/thespiel-449.m4a"/>
+                <guid>https://thespiel.net/node/1363</guid>
                 
             </item><item>
-                <title>Terrapiattisti spirituali - Stefano Viale</title>
-                <description>Giovanni 3:16-19 - Siamo sottoposti tanto alle leggi naturali quanto alle leggi spirituali. Dio ha messo nell’uomo il senso dell’eternità. Riusciamo a comprendere l’amore solo quando siamo i primi ad amare.
-Feed: https://feeds.feedburner.com/ChiesaPienovangelo</description>
+                <title>Early Life Exposures May Shape Infant Immune System</title>
+                <description>Research Brief 357
+Feed: https://tools.niehs.nih.gov/srp/rss/srp_podcasts.xml</description>
                 
                 
-                <link>http://pienovangelo.blogspot.com/2024/10/terrapiattisti-spirituali-stefano-viale.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.pienovangelo.it/podcast/20241027-podcast.m4a"/>
-                <guid>http://pienovangelo.blogspot.com/2024/10/terrapiattisti-spirituali-stefano-viale.html</guid>
+                <link>https://tools.niehs.nih.gov/srp/researchbriefs/view.cfm?Brief_ID=357</link>
+                <enclosure type="audio/mpeg" length="1" url="http://tools.niehs.nih.gov/srp/1/podcasts/rb357_podcast.mp3"/>
+                <guid>https://tools.niehs.nih.gov/srp/researchbriefs/view.cfm?Brief_ID=357</guid>
                 
             </item>
         </channel>

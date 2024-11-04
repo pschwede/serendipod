@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 03 Nov 2024 04:26:07 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 04 Nov 2024 04:26:50 +0200</lastBuildDate>
             <item>
-                <title>Episode 96 - Ein Foto ist nicht nur ein Klick</title>
-                <description>What&#39;s the Story - der Fotografie-Podcast! Wir sprechen über die Geschichten hinter den Bildern
-Feed: https://wts-whatsthestory.podigee.io/feed/aac</description>
+                <title>Standortnachteil Krankenstand? Kritik an telefonischer Krankschreibung</title>
+                <description>Die telefonische Krankschreibung erleichtert den Alltag einer Hausarztpraxis in Trier ++ Was sind die wahren Gründe für den hohen Krankenstand in Deutschland? Gespräch mit Nicolas R. Ziebarth vom ZEW in Mannheim ++ Betriebsräte im Fadenkreuz: Mobbing gegen Personalvertreter ++ Frag die Arbeitsrechtlerin Julia Englert: Krank nach Hause gegangen. Darf der Arbeitgeber dann Minusstunden eintragen?
+Feed: https://www.swr.de/~podcast/swr1/arbeitsplatz-podcast-102.xml</description>
                 
                 
-                <link>https://wts-whatsthestory.podigee.io/100-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1617764-m-a6f6c7d6b303680d2c7a8e4a653150d9.m4a?source=feed"/>
-                <guid>https://wts-whatsthestory.podigee.io/100-new-episode</guid>
+                <link>https://www.swr.de/swr1/standortnachteil-krankenstand-kritik-an-telefonischer-krankschreibung-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/swr/swr1/arbeitsplatz/2139128.m.mp3"/>
+                <guid>https://www.swr.de/swr1/standortnachteil-krankenstand-kritik-an-telefonischer-krankschreibung-100.html</guid>
                 
             </item><item>
-                <title>Folge 319: MrBestialisch verschimmelt &amp; die OnlyFans-Rentnerin ft. Victoria Reichelt</title>
-                <description>Der Podcast über das Internet mit YouTuber Robin Blase &amp; Gästen aus der Influencer-Welt.
-Hier diskutieren und lästern wir jeden Samstag über YouTube, das Internet, Social Media, Influencer*innen und was das Netz diese Woche so bewegt.
-Feed: https://laesterschwestern.podigee.io/feed/mp3</description>
+                <title>Wir sind VERLOBT &amp; So war unsere große Reise! XXL Q&amp;A Episode</title>
+                <description>Er hat es wirklich getan!!
+Feed: https://cdn.julephosting.de/podcasts/581-synapsensalat/feed.rss</description>
                 
                 
-                <link>https://laesterschwestern.podigee.io/319-folge-319-mrbestialisch-verschimmelt-die-onlyfans-rentnerin-ft-victoria-reichelt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1656513-m-41d9ac54863a0758e49cf0bc70935475.mp3?source=feed"/>
-                <guid>https://laesterschwestern.podigee.io/319-folge-319-mrbestialisch-verschimmelt-die-onlyfans-rentnerin-ft-victoria-reichelt</guid>
+                <link>https://synapsensalat.blogs.audiorella.com/168-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ads.julephosting.de/podcasts/581-synapsensalat/192659-new-episode.mp3?v=1&amp;awCollectionId=julep_eed762&amp;awEpisodeId=192659"/>
+                <guid>https://synapsensalat.blogs.audiorella.com/168-new-episode</guid>
                 
             </item>
         </channel>
