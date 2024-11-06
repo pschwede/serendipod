@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 05 Nov 2024 04:26:45 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 06 Nov 2024 04:27:32 +0200</lastBuildDate>
             <item>
-                <title>Cinefagia FM · Episodio 314 · 01-11-2024 · SAM AI IN</title>
-                <description>¡Vótame en los Premios iVoox 2024! &lt;br&gt;Tu programa de cine en Radio Kras: Especial SAMAIN, con Cl&amp;aacute;sico No Tan Popular en doble sesi&amp;oacute;n (LONGLEGS &amp;middot; A&amp;ntilde;o 2024 / THE INNOCENTS &amp;middot; A&amp;ntilde;o 1961); Cara B (WES CRAVEN by AI) y nuestra BSO con temas extra&amp;iacute;dos de la pel&amp;iacute;cula &#34;SCREAM&#34;.
-Feed: https://www.ivoox.com/cinefagia-fm_fg_f1127454_filtro_1.xml</description>
+                <title>Artesanos Tecnológicos</title>
+                <description>Artesanos Tecnológicos
+Feed: https://feeds.feedburner.com/MiradaCientfica</description>
                 
                 
-                <link>https://www.ivoox.com/cinefagia-fm-episodio-314-01-11-2024-audios-mp3_rf_135476517_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cinefagia-fm-episodio-314-01-11-2024_mf_135476517_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/cinefagia-fm-episodio-314-01-11-2024-audios-mp3_rf_135476517_1.html</guid>
+                <link>https://www.jyestudio.com/mirada-cientifica/artesanos-tecnologicos/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.jyestudio.com/podlove/file/49/s/webplayer/mc_t02e01.mp3"/>
+                <guid>https://www.jyestudio.com/mirada-cientifica/artesanos-tecnologicos/</guid>
                 
             </item><item>
-                <title>Atmósfera - Una noche para reflexionar - 03/11/24</title>
-                <description>Atmósfera - Una noche para reflexionar - 03/11/24
-Feed: http://api.rtve.es/api/programas/1891/audios.rss</description>
+                <title>Los inicios de Salón K con Jose Castro - E170T04</title>
+                <description>¡Vótame en los Premios iVoox 2024! &lt;br&gt;Hablamos con Jos&amp;eacute; Castro quien es T&amp;eacute;cnico en Producci&amp;oacute;n de Video y T&amp;eacute;cnico en Locuci&amp;oacute;n, encargado junto con algunos otras personas de darle vida a Sal&amp;oacute;n K.
+Enlaces de lo que hablo:
+Puede suscribirse al podcast y encontrar las plataformas disponibles en: https://colmilloroquero.com/plataformas/
+Catalogo completo y enlaces importantes en:
+https://linktr...
+Feed: https://www.ivoox.com/es-roquero_fg_f1890087_filtro_1.xml?promotionalCampaign</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/atmosfera/noche-para-reflexionar-03-11-24/16313871/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16313871.mp3"/>
-                <guid>https://www.rtve.es/play/audios/atmosfera/noche-para-reflexionar-03-11-24/16313871/</guid>
+                <link>https://www.ivoox.com/inicios-salon-k-jose-castro-audios-mp3_rf_135361506_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/inicios-salon-k-jose-castro_mf_135361506_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/inicios-salon-k-jose-castro-audios-mp3_rf_135361506_1.html</guid>
                 
             </item>
         </channel>
