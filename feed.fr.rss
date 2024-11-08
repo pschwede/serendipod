@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 06 Nov 2024 04:27:29 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 08 Nov 2024 04:26:31 +0200</lastBuildDate>
             <item>
-                <title>Doruido, le premier manga audio 5/5 : Chasseurs de druides</title>
-                <description>Doruido, le premier manga audio 5/5 : Chasseurs de druides
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11495.xml</description>
+                <title>Dans le Noir ? avec Camille Leveillé</title>
+                <description>
+ Soutenir Tatousenti :· Faire un don pour soutenir et encourager Tatousenti à continuer, cliquez ici· Site...
+Feed: https://feeds.audiomeans.fr/feed/668b6919-1acc-45b7-a38e-08f6be8e9878.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/fictions-le-feuilleton</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/f7c0fb14-3366-4c17-a5c6-4f1ea7335305/11495-04.11.2024-ITEMA_23903712-2024C3480E0097-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/fictions-le-feuilleton</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/1a54bb64-ddb4-4966-933d-aafc8756c275.mp3?_=1729780592"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Elon Musk, le bon et le mauvais génie</title>
-                <description>Elon Musk, le bon et le mauvais génie
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_12841.xml</description>
+                <title>VISION(S) PRÉSENTE Des ailes aux talents E08 (épisode final) — Mylinh Nguyen par Paul Greveillac</title>
+                <description>
+Le romancier Paul Greveillac a rencontré Mylinh Nguyen, tourneuse sur métal et lauréate du prix Liliane Bettencourt pour l’Intelligence de la main en 2013 dans la catégorie « Talents d’exception ».
+Après avoir installé son atelier à Meudon en 2006 Myl...
+Feed: https://feed.ausha.co/bYK62tPMjRp9</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/affaires-etrangeres/elon-musk-le-bon-et-le-mauvais-genie-1444165</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/90b9c000-e05d-4d23-9a10-ecb8fbcefcab/12841-02.11.2024-ITEMA_23912762-2024C20675E0009-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/affaires-etrangeres/elon-musk-le-bon-et-le-mauvais-genie-1444165</guid>
+                <link>https://podcast.ausha.co/podcastvisions/mylinh-nguyen-par-paul-greveillac</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/oK9mZcgAqWwY.mp3?t=1729332119"/>
+                <guid>https://podcast.ausha.co/podcastvisions/mylinh-nguyen-par-paul-greveillac</guid>
                 
             </item>
         </channel>
