@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 08 Nov 2024 04:26:22 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 09 Nov 2024 04:25:42 +0200</lastBuildDate>
             <item>
-                <title>231: New Age Bible, Postmodern Novel (w/ Sheila Heti)</title>
-                <description>Rapid-response electoral punditry is not our lane. So, while we gather our feelings and thoughts, Matthew hosts novelist Sheila Heti for a discussion of her encounter with A Course in Miracles, and what she discovered when she investigated its origin story for Harper’s Magazine...
-Feed: https://feeds.megaphone.fm/GLSS1122389842</description>
+                <title>PODCAST: This Week in Amateur Radio #1340</title>
+                <description>PODCAST: This Week in Amateur Radio Edition #1340 - Full Version
+Release Date: November 2, 2024
+ATTENTION: Due to the DDOS Cyberattack on Internet Archive, our host for files is offline until further notice, we are using an alternative resource for the podcast until services are restored.
+Here is a summary of the news trending This Week in Amateur Radio...
+Feed: http://www.twiar.net/twiarpodcast.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/4EB79A/swap.fm/track/6bpBPtHL977KJxLX2zPs/traffic.megaphone.fm/GLSS7870250623.mp3?updated=1730923032"/>
-                <guid></guid>
+                <link>https://bit.ly/TWIAR1340</link>
+                <enclosure type="audio/mpeg" length="1" url="https://twiar.net/TWIAR_1340_NAT.mp3"/>
+                <guid>https://bit.ly/TWIAR1340</guid>
                 
             </item><item>
-                <title>This Week In Wrestling History (Week Forty-Five) 11/4 – 11/10</title>
-                <description>This Week In Wrestling History hosted by Don Tony aired back in 2018-2019 and spanned two seasons. These retro episodes return remastered and are filled with hundreds of hours of original wrestling clips &amp; stories. Enjoy this deep dive into pro...
-Feed: https://feeds.libsyn.com/18407/rss</description>
+                <title>Realtime Sanitizer and the Performance Constraints attributes</title>
+                <description>Christoper Apple joins Timur and Phil. Chris talks to us about his work on the new Realtime Sanitizer in the Clang20 release, as well as the associated Performance Constraints attributes, how they differ, and how they work together.
+Feed: https://cppcast.com/feed.rss</description>
                 
                 
-                <link>http://dontonyshow.com/this-week-in-wrestling-history-week-forty-five-114-1110</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/prowrestlingwebcast/S2E45TWIWH20181110.mp3?dest-id=12399"/>
-                <guid>http://dontonyshow.com/this-week-in-wrestling-history-week-forty-five-114-1110</guid>
+                <link>https://cppcast.com/realtime_sanitizer_and_the_performance_constraints_attributes/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/cppcast/CppCast-393.mp3"/>
+                <guid>https://cppcast.com/realtime_sanitizer_and_the_performance_constraints_attributes/</guid>
                 
             </item>
         </channel>

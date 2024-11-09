@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 08 Nov 2024 04:26:31 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 09 Nov 2024 04:25:50 +0200</lastBuildDate>
             <item>
-                <title>Dans le Noir ? avec Camille Leveillé</title>
-                <description>
- Soutenir Tatousenti :· Faire un don pour soutenir et encourager Tatousenti à continuer, cliquez ici· Site...
-Feed: https://feeds.audiomeans.fr/feed/668b6919-1acc-45b7-a38e-08f6be8e9878.xml</description>
+                <title>Mix anglo : Mix Anglo - 8 novembre 2024</title>
+                <description>770-324202
+Feed: http://podcast.cism893.ca/radioshows/770/feed_itunes.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/1a54bb64-ddb4-4966-933d-aafc8756c275.mp3?_=1729780592"/>
-                <guid></guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/324202.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/324202.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/324202.mp3</guid>
                 
             </item><item>
-                <title>VISION(S) PRÉSENTE Des ailes aux talents E08 (épisode final) — Mylinh Nguyen par Paul Greveillac</title>
-                <description>
-Le romancier Paul Greveillac a rencontré Mylinh Nguyen, tourneuse sur métal et lauréate du prix Liliane Bettencourt pour l’Intelligence de la main en 2013 dans la catégorie « Talents d’exception ».
-Après avoir installé son atelier à Meudon en 2006 Myl...
-Feed: https://feed.ausha.co/bYK62tPMjRp9</description>
+                <title>Rsko, Dadi, Gaulois, Pearly - Le First Mike Radio Show du vendredi 08 novembre 2024</title>
+                <description>Rsko, Dadi, Gaulois, Pearly - Le First Mike Radio Show du vendredi 08 novembre 2024
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14478.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/podcastvisions/mylinh-nguyen-par-paul-greveillac</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/oK9mZcgAqWwY.mp3?t=1729332119"/>
-                <guid>https://podcast.ausha.co/podcastvisions/mylinh-nguyen-par-paul-greveillac</guid>
+                <link>https://www.radiofrance.fr/mouv/podcasts/first-mike-radio-show/rsko-dadi-gaulois-pearly-le-first-mike-radio-show-du-vendredi-08-novembre-2024-6434935</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c12c761e-4c70-4abe-ae83-b8b3ce0eacbf/14478-08.11.2024-ITEMA_23919085-2024J23962S0313-21.mp3"/>
+                <guid>https://www.radiofrance.fr/mouv/podcasts/first-mike-radio-show/rsko-dadi-gaulois-pearly-le-first-mike-radio-show-du-vendredi-08-novembre-2024-6434935</guid>
                 
             </item>
         </channel>
