@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 09 Nov 2024 04:25:46 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Nov 2024 04:26:19 +0200</lastBuildDate>
             <item>
-                <title>GovCast #16 Sergey Lagodinsky, Mitglied des Europäischen Parlaments (Die Grünen/EFA)</title>
-                <description>Episode Description:In der 16. Folge des GovCast spricht Faruk Tuncer mit Sergey Lagodinsky, Mitglied des Europäischen Parlaments als Teil der Fraktion Die Grünen/EFA, über seine Arbeit in der Europapolitik, den aktuellen Stand der europäischen KI-Verordnung und deren Auswirkungen. Sie beleuchten, wie Europa auf die Herausforderungen durch große US-Technologiekonzerne reagiert, die Idee eines European Tech-Deals und die politische Entwicklung der Grünen und deren Zukunftsperspektiven.In the 1...
-Feed: https://feeds.buzzsprout.com/2279787.rss</description>
+                <title>Im Schatten – Doku über Russlands Einfluss in Afrika</title>
+                <description>In der Goldmine Intahaka im Norden Malis tauchen regelmäßig ungebetene Gäste auf. Sie sprechen russisch, sind bewaffnet und konfiszieren das geförderte Gold. Wer sich widersetzt, wird getötet.
+Feed: https://www.mdr.de/kultur/podcast/feature/audiogalerie376-podcast.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/2279787/episodes/16003559-govcast-16-sergey-lagodinsky-mitglied-des-europaischen-parlaments-die-grunen-efa.mp3"/>
-                <guid></guid>
+                <link>https://www.mdr.de/kultur/podcast/feature/radiofeature-russlands-einfluss-in-afrika-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://odattachmentmdr-a.akamaihd.net/mp4audiomobil/d/digas-dc457f1f-74dc-4a10-99e9-23f800007dcc-0a15de5e5053_dc.mp3"/>
+                <guid>https://www.mdr.de/kultur/podcast/feature/radiofeature-russlands-einfluss-in-afrika-100.html</guid>
                 
             </item><item>
-                <title>«Abstimmungs-Arena» zu den Mietrechtsreferenden</title>
-                <description>Am 24. November stimmt die Schweiz gleich über zwei Änderungen beim Mietrecht ab: Die Untermiete soll strenger geregelt werden und Kündigungen wegen Eigenbedarf würden erleichtert. Das führe zu mehr Rechtssicherheit, betont das Ja-Lager. Die Gegenseit ...
-Feed: https://www.srf.ch/feed/podcast/sd/09784065-687b-4b60-bd23-9ed0d2d43cdc.xml</description>
+                <title>Im Schatten – Journalistin Bettina Rühl im Gespräch</title>
+                <description>Russland ist in immer mehr afrikanischen Ländern aktiv. Auch mit russischen Söldnern, die hochrangige Politiker oder wichtige Gold-Minen bewachen und offenbar auch gewaltsam gegen die Zivilbevölkerung vorgehen. Im Gespräch mit Johannes Döbbelt erzählt die Journalistin Bettina Rühl, welche Ziele Russland in Afrika verfolgt, welche Rolle Rohstoffe und Rüstungsdeals dabei spielen und warum manche Bewohner das russische Engagement sogar als &#34;Befreiung&#34; feiern. // Von Johannes Döbbelt
+Feed: https://www1.wdr.de/mediathek/audio/wdr/ard-radiofeature/radiofeature-110.podcast</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://download-media.srf.ch/world/video/arena/2024/11/arena_20241108_202324_8380696_v_webcast_h264_q60.mp4"/>
-                <guid></guid>
+                <link>https://www1.wdr.de/mediathek/audio/wdr/ard-radiofeature/audio-im-schatten---journalistin-bettina-ruehl-im-gespraech-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/320/3200476/ardradiofeature_2024-11-10_imschattenjournalistinbettinaruehlimgespraech_ard.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/wdr/ard-radiofeature/audio-im-schatten---journalistin-bettina-ruehl-im-gespraech-100.html</guid>
                 
             </item>
         </channel>

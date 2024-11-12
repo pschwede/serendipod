@@ -9,29 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 09 Nov 2024 04:25:42 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Nov 2024 04:26:15 +0200</lastBuildDate>
             <item>
-                <title>PODCAST: This Week in Amateur Radio #1340</title>
-                <description>PODCAST: This Week in Amateur Radio Edition #1340 - Full Version
-Release Date: November 2, 2024
-ATTENTION: Due to the DDOS Cyberattack on Internet Archive, our host for files is offline until further notice, we are using an alternative resource for the podcast until services are restored.
-Here is a summary of the news trending This Week in Amateur Radio...
-Feed: http://www.twiar.net/twiarpodcast.rss</description>
+                <title>Wholehearted Transformation, with Amy Wicks</title>
+                <description>Business and life coach Amy Wicks joins us to talk about the Enneagram personality assessment and showing up as our true selves.
+Feed: https://www.relay.fm/focused/feed</description>
                 
                 
-                <link>https://bit.ly/TWIAR1340</link>
-                <enclosure type="audio/mpeg" length="1" url="https://twiar.net/TWIAR_1340_NAT.mp3"/>
-                <guid>https://bit.ly/TWIAR1340</guid>
+                <link>http://relay.fm/focused/216</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/relayfreeagents/focused216.mp3"/>
+                <guid>http://relay.fm/focused/216</guid>
                 
             </item><item>
-                <title>Realtime Sanitizer and the Performance Constraints attributes</title>
-                <description>Christoper Apple joins Timur and Phil. Chris talks to us about his work on the new Realtime Sanitizer in the Clang20 release, as well as the associated Performance Constraints attributes, how they differ, and how they work together.
-Feed: https://cppcast.com/feed.rss</description>
+                <title>Dr Wendy Christien - Sweetners and the Brain Part 1</title>
+                <description>There is such a lot of talk around avoiding sugar, but is replacing sugar with a
+sweetener a better idea? The statistics surrounding obesity and chronic
+disease have got even worse since the introduction of sweeteners, which are
+often used as substitutes for sugar to reduce calorie intake, so this talk will
+look at why sweeteners are not necessarily better than sugar.
+Feed: https://iono.fm/rss/chan/5230</description>
                 
                 
-                <link>https://cppcast.com/realtime_sanitizer_and_the_performance_constraints_attributes/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/cppcast/CppCast-393.mp3"/>
-                <guid>https://cppcast.com/realtime_sanitizer_and_the_performance_constraints_attributes/</guid>
+                <link>https://iono.fm/e/1500645</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_1659/epi_1500645_medium.m4a?p=rss"/>
+                <guid>https://iono.fm/e/1500645</guid>
                 
             </item>
         </channel>

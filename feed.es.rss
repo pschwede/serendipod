@@ -9,26 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 09 Nov 2024 04:25:54 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Nov 2024 04:26:27 +0200</lastBuildDate>
             <item>
-                <title>Entre probetas - Proyectos contra el SIDA infantil - 05/11/24</title>
-                <description>Proyectos contra el SIDA infantil
-Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
+                <title>Poemas en audio de Pablo Neruda. Mejores poemas de amor en audio de Pablo Neruda: En mi cielo</title>
+                <description>Los mejores poemas de Pablo Neruda. Poemas en audio de Pablo Neruda con voz y música. Poemas de amor en audio de Neruda. Mejores poesías en audio de Neruda. Poema de Neruda en mi cielo.  Poemas de...
+Feed: https://www.spreaker.com/show/5435375/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-proyectos-contra-sida-infantil-05-11-24/16315265/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16315265.mp3"/>
-                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-proyectos-contra-sida-infantil-05-11-24/16315265/</guid>
+                <link>https://locutortv.com/locutores_alemanes_german_voice_over.htm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/62680689/neruda_enmicielo2_amorypoesia_mus.mp3"/>
+                <guid>https://locutortv.com/locutores_alemanes_german_voice_over.htm</guid>
                 
             </item><item>
-                <title>Viñetas y bocadillos - Luis Castillejos: &#39;Un cuerpo de Miel&#39; - 04/11/24</title>
-                <description>Luis Castillejos: &#39;Un cuerpo de Miel&#39;
-Feed: http://api.rtve.es/api/programas/1946/audios.rss</description>
+                <title>Dana Trump [Jueves Digital 108] </title>
+                <description>&lt;p&gt;Jueves.Digital, noticias y debate de actualidad: https://jueves.digital/&lt;/p&gt;
+&lt;p&gt;#directo #noticias #actualidad&lt;/p&gt;
+&lt;p&gt;Secciones:&lt;/p&gt;
+&lt;p&gt;- Tema de la semana&lt;/p&gt;
+&lt;p&gt;- El chungo de la semana&lt;/p&gt;
+&lt;p&gt;- Cosas que hemos aprendido&lt;/p&gt;
+&lt;p&gt;- Cosas que hemos visto (cine / TV / streaming)&lt;/p&gt;
+&lt;p&gt;Invítanos a un café: https://ko-fi...
+Feed: https://anchor.fm/s/db171c/podcast/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/vinetas-y-bocadillos/luis-castillejos-cuerpo-miel/16314949/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16314949.mp3"/>
-                <guid>https://www.rtve.es/play/audios/vinetas-y-bocadillos/luis-castillejos-cuerpo-miel/16314949/</guid>
+                <link>https://podcasters.spotify.com/pod/show/juevesdigital/episodes/Dana-Trump-Jueves-Digital-108-e2qmb66</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/db171c/podcast/play/94104198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389420989-44100-2-6a01f724e479f.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/juevesdigital/episodes/Dana-Trump-Jueves-Digital-108-e2qmb66</guid>
                 
             </item>
         </channel>

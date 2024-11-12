@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 09 Nov 2024 04:26:05 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Nov 2024 04:26:38 +0200</lastBuildDate>
             <item>
-                <title>This Week In Wrestling History (Week Forty-Five) 11/4 – 11/10</title>
-                <description>This Week In Wrestling History hosted by Don Tony aired back in 2018-2019 and spanned two seasons. These retro episodes return remastered and are filled with hundreds of hours of original wrestling clips &amp; stories. Enjoy this deep dive into pro...
-Feed: https://feeds.libsyn.com/18407/rss</description>
+                <title>New PEPs: Template Strings &amp; External Wheel Hosting</title>
+                <description>Have you wanted the flexibility of f-strings but need safety checks in place? What if you could have deferred evaluation for logging or avoiding injection attacks? Christopher Trudeau is back on the show this week, bringing another batch of PyCoder&#39;s Weekly articles and projects.
+Feed: https://realpython.com/podcasts/rpp/feed</description>
                 
                 
-                <link>http://dontonyshow.com/this-week-in-wrestling-history-week-forty-five-114-1110</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/prowrestlingwebcast/S2E45TWIWH20181110.mp3?dest-id=12399"/>
-                <guid>http://dontonyshow.com/this-week-in-wrestling-history-week-forty-five-114-1110</guid>
+                <link>https://realpython.com/podcasts/rpp/227/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/92DB94/files.realpython.com/podcasts/RPP_E227_03_PyCoders.d138debe4f2f.mp3"/>
+                <guid>https://realpython.com/podcasts/rpp/227/</guid>
                 
             </item><item>
-                <title>Joshua | Part 13</title>
-                <description>Part 13
-Feed: https://wordofgodministries.podomatic.com/rss2.xml</description>
+                <title>Dr Wendy Christien - Sweetners and the Brain Part 1</title>
+                <description>There is such a lot of talk around avoiding sugar, but is replacing sugar with a
+sweetener a better idea? The statistics surrounding obesity and chronic
+disease have got even worse since the introduction of sweeteners, which are
+often used as substitutes for sugar to reduce calorie intake, so this talk will
+look at why sweeteners are not necessarily better than sugar.
+Feed: https://iono.fm/rss/chan/5230</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/wordofgodministries/episodes/2024-11-07T06_00_00-08_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wordofgodministries.podomatic.com/enclosure/2024-11-07T06_00_00-08_00.mp3?_=1730988018.17179614"/>
-                <guid>https://www.podomatic.com/podcasts/wordofgodministries/episodes/2024-11-07T06_00_00-08_00</guid>
+                <link>https://iono.fm/e/1500645</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_1659/epi_1500645_medium.m4a?p=rss"/>
+                <guid>https://iono.fm/e/1500645</guid>
                 
             </item>
         </channel>

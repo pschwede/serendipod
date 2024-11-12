@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 09 Nov 2024 04:25:50 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Nov 2024 04:26:23 +0200</lastBuildDate>
             <item>
-                <title>Mix anglo : Mix Anglo - 8 novembre 2024</title>
-                <description>770-324202
-Feed: http://podcast.cism893.ca/radioshows/770/feed_itunes.xml</description>
+                <title>314. Bien préparer son Black Friday</title>
+                <description>&lt;p&gt;Le Black Friday est la période idéale pour proposer une promotion créative et intéressante à votre audience. En effet, les gens sont disposés à dépenser.....
+Feed: https://feeds.acast.com/public/shows/659531fc798ee80017b6e78f</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/324202.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/324202.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/324202.mp3</guid>
+                <link>https://shows.acast.com/buildyourself/episodes/314-bien-preparer-son-black-friday</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/659531fc798ee80017b6e78f/e/670f6b69b1e7b0e7e5eec96d/media.mp3"/>
+                <guid>https://shows.acast.com/buildyourself/episodes/314-bien-preparer-son-black-friday</guid>
                 
             </item><item>
-                <title>Rsko, Dadi, Gaulois, Pearly - Le First Mike Radio Show du vendredi 08 novembre 2024</title>
-                <description>Rsko, Dadi, Gaulois, Pearly - Le First Mike Radio Show du vendredi 08 novembre 2024
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14478.xml</description>
+                <title>Laetitia Vercken, Comédienne -  Itinéraire d’une actrice entre théâtre et tournages</title>
+                <description>Cette semaine, j&#39;ai le plaisir de recevoir Laetitia Vercken dans Caféine. 
+ Laetitia est comédienne, elle navigue entre théâtre et tournages av...
+Feed: https://feeds.audiomeans.fr/feed/b42e818f-5ef1-4aff-b931-96d54fc9afc4.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/mouv/podcasts/first-mike-radio-show/rsko-dadi-gaulois-pearly-le-first-mike-radio-show-du-vendredi-08-novembre-2024-6434935</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c12c761e-4c70-4abe-ae83-b8b3ce0eacbf/14478-08.11.2024-ITEMA_23919085-2024J23962S0313-21.mp3"/>
-                <guid>https://www.radiofrance.fr/mouv/podcasts/first-mike-radio-show/rsko-dadi-gaulois-pearly-le-first-mike-radio-show-du-vendredi-08-novembre-2024-6434935</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/47123798-1263-4d03-9a4b-a7a5825403b6.mp3?_=1730733928"/>
+                <guid></guid>
                 
             </item>
         </channel>
