@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 12 Nov 2024 04:26:15 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 13 Nov 2024 04:26:38 +0200</lastBuildDate>
             <item>
-                <title>Wholehearted Transformation, with Amy Wicks</title>
-                <description>Business and life coach Amy Wicks joins us to talk about the Enneagram personality assessment and showing up as our true selves.
-Feed: https://www.relay.fm/focused/feed</description>
+                <title>413: ‘Holiday Party 2024’, With Merlin Mann</title>
+                <description>This again. Once more, let&#39;s talk *around* another election, and try, by doing so, to maybe express something *about* it.
+Feed: https://daringfireball.net/thetalkshow/rss</description>
                 
                 
-                <link>http://relay.fm/focused/216</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/relayfreeagents/focused216.mp3"/>
-                <guid>http://relay.fm/focused/216</guid>
+                <link>https://daringfireball.net/thetalkshow/2024/11/09/ep-413</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/daringfireball/thetalkshow-413-merlin-mann.mp3"/>
+                <guid>https://daringfireball.net/thetalkshow/2024/11/09/ep-413</guid>
                 
             </item><item>
-                <title>Dr Wendy Christien - Sweetners and the Brain Part 1</title>
-                <description>There is such a lot of talk around avoiding sugar, but is replacing sugar with a
-sweetener a better idea? The statistics surrounding obesity and chronic
-disease have got even worse since the introduction of sweeteners, which are
-often used as substitutes for sugar to reduce calorie intake, so this talk will
-look at why sweeteners are not necessarily better than sugar.
-Feed: https://iono.fm/rss/chan/5230</description>
+                <title>پیوند بانکی ایران و روسیه؛ آیا دو کشور سوئفت را دور می‌زنند؟</title>
+                <description>میز گرد داریوش رجبیان با فرهاد علوی و محمدجواد شعله‌سعدی
+Feed: https://podcasts.files.bbci.co.uk/p05gyy09.rss</description>
                 
                 
-                <link>https://iono.fm/e/1500645</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_1659/epi_1500645_medium.m4a?p=rss"/>
-                <guid>https://iono.fm/e/1500645</guid>
+                <link>http://www.bbc.co.uk/programmes/p0k44lwb</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0k44lcs.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0k44lwb</guid>
                 
             </item>
         </channel>

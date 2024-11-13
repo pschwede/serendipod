@@ -9,30 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 12 Nov 2024 04:26:38 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 13 Nov 2024 04:27:08 +0200</lastBuildDate>
             <item>
-                <title>New PEPs: Template Strings &amp; External Wheel Hosting</title>
-                <description>Have you wanted the flexibility of f-strings but need safety checks in place? What if you could have deferred evaluation for logging or avoiding injection attacks? Christopher Trudeau is back on the show this week, bringing another batch of PyCoder&#39;s Weekly articles and projects.
-Feed: https://realpython.com/podcasts/rpp/feed</description>
+                <title>Ep. 326: Time to Unplug</title>
+                <description>During the election season our devices take a particularly hard tool on our health and happiness. Now that the votes have been cast and counted, Cal proposes it’s time to take a temporary but radical break from the exhausting digital chatter. He then answers questions from his listeners and discusses Martha Stewart and the problems of “aesthetic productivity.”Below are the questions covered in today&#39;s episode (with their timestamps). Get your questions answered by Cal! Here’s the link: bit.ly...
+Feed: https://feeds.buzzsprout.com/1121972.rss</description>
                 
                 
-                <link>https://realpython.com/podcasts/rpp/227/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/92DB94/files.realpython.com/podcasts/RPP_E227_03_PyCoders.d138debe4f2f.mp3"/>
-                <guid>https://realpython.com/podcasts/rpp/227/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/www.buzzsprout.com/1121972/episodes/16082975-ep-326-time-to-unplug.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Dr Wendy Christien - Sweetners and the Brain Part 1</title>
-                <description>There is such a lot of talk around avoiding sugar, but is replacing sugar with a
-sweetener a better idea? The statistics surrounding obesity and chronic
-disease have got even worse since the introduction of sweeteners, which are
-often used as substitutes for sugar to reduce calorie intake, so this talk will
-look at why sweeteners are not necessarily better than sugar.
-Feed: https://iono.fm/rss/chan/5230</description>
+                <title>Wish you were here...?</title>
+                <description>Wish you were here...? It&#39;s a travel show with a difference this week as we climb aboard AA Airlines and jet off to take a look at some of our favourite gaming destinations.
+The crew ponder what these virtual worlds would be like to visit if we could actually go there, and whether or not they&#39;d recommend the local cuisine.
+So make like Leon Kennedy and pack your attache case.....
+Feed: https://arcadeattackpodcast.podbean.com/feed.xml</description>
                 
                 
-                <link>https://iono.fm/e/1500645</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_1659/epi_1500645_medium.m4a?p=rss"/>
-                <guid>https://iono.fm/e/1500645</guid>
+                <link>https://arcadeattackpodcast.podbean.com/e/wish-you-were-here/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/8wenikiigmtz7n2f/Wish_you_were_here_FINAL5zw8g.mp3"/>
+                <guid>https://arcadeattackpodcast.podbean.com/e/wish-you-were-here/</guid>
                 
             </item>
         </channel>
