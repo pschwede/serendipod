@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 13 Nov 2024 04:26:53 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 15 Nov 2024 04:28:10 +0200</lastBuildDate>
             <item>
-                <title>Haga dibujos para recordar lo que aprende</title>
-                <description>wS MP3 Enero de 2025 - 06
-Feed: https://apps.jw.org/E_sFFZRQVNZNT?rln=S&amp;rmn=w&amp;rfm=mp3</description>
+                <title>Los Acadianos</title>
+                <description>Los acadianos fueron colonos franceses establecidos en lo que hoy es Nueva Escocia, Canadá, durante el siglo XVII. En 1755, en un evento conocido como Le Grand Dérangement o Gran Deportación, miles de ellos fueron expulsados por los británicos y muchos se asentaron en Luisiana, donde evolucionaron como la comunidad cajún.
+Síguenos y visita nuestro sitio oficial:
+https://www.instagram.com/eldollop
+https://twitter.com/eldollop
+https://www.facebook.com/eldolloppodcast
+http://eldollop.com
+Feed: https://feeds.megaphone.fm/SONORO4124946493</description>
                 
                 
-                <link>https://cfp2.jw-cdn.org/a/e061390/1/o/w_S_202501_06.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cfp2.jw-cdn.org/a/e061390/1/o/w_S_202501_06.mp3"/>
-                <guid>https://cfp2.jw-cdn.org/a/e061390/1/o/w_S_202501_06.mp3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/39325/pdst.fm/e/traffic.megaphone.fm/SONORO5288988183.mp3?updated=1730919953"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Mañana más - Eduardo Casanova presenta &#39;Al margen&#39;</title>
-                <description>Eduardo Casanova presenta &#39;Al margen&#39;
-Feed: https://www.rtve.es/api/adapter/programas/175697/audios.rss</description>
+                <title>Episodio 125: Todavía hay esperanza, con Alex @PodcastPS1CM</title>
+                <description>Hola hola gente people, bienvenidas y bienhallados al Bar Bedel, vuestro Bar de confianza, vuestro Bar en formato podcast. En esta ocasión nos vuelve a acompañar detrás de la barra Alex del Podcast Puede ser una Charla más, para ofrecernos una lista de canciones muy personal y ciertamente disfrutona, con un hilo conductor muy chulo, gente joven que hace buena música y que no son muy conocidos en el mainstream. Hay que desterrar el mito de que hoy en día no se produce música de buena calidad...
+Feed: https://feeds.feedburner.com/BarBedel</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/manana-mas/eduardo-casanova-presenta-margen/16326529/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16326529.mp3"/>
-                <guid>https://www.rtve.es/play/audios/manana-mas/eduardo-casanova-presenta-margen/16326529/</guid>
+                <link>http://www.ivoox.com/episodio-125-todavia-hay-esperanza-alex-apodcastps1cm-audios-mp3_rf_135486620_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/episodio-125-todavia-hay-esperanza-alex-apodcastps1cm_mf_135486620_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/episodio-125-todavia-hay-esperanza-alex-apodcastps1cm-audios-mp3_rf_135486620_1.html</guid>
                 
             </item>
         </channel>
