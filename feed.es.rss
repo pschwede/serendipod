@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 15 Nov 2024 04:28:10 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 16 Nov 2024 04:28:56 +0200</lastBuildDate>
             <item>
-                <title>Los Acadianos</title>
-                <description>Los acadianos fueron colonos franceses establecidos en lo que hoy es Nueva Escocia, Canadá, durante el siglo XVII. En 1755, en un evento conocido como Le Grand Dérangement o Gran Deportación, miles de ellos fueron expulsados por los británicos y muchos se asentaron en Luisiana, donde evolucionaron como la comunidad cajún.
-Síguenos y visita nuestro sitio oficial:
-https://www.instagram.com/eldollop
-https://twitter.com/eldollop
-https://www.facebook.com/eldolloppodcast
-http://eldollop.com
-Feed: https://feeds.megaphone.fm/SONORO4124946493</description>
+                <title>Turbo 3 - Viernes Eléctrico: Jack White - 15/11/24</title>
+                <description>Viernes Eléctrico: Jack White
+Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/39325/pdst.fm/e/traffic.megaphone.fm/SONORO5288988183.mp3?updated=1730919953"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/turbo-3/viernes-electrico-jack-white-15-11-24/16333396/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16333396.mp3"/>
+                <guid>https://www.rtve.es/play/audios/turbo-3/viernes-electrico-jack-white-15-11-24/16333396/</guid>
                 
             </item><item>
-                <title>Episodio 125: Todavía hay esperanza, con Alex @PodcastPS1CM</title>
-                <description>Hola hola gente people, bienvenidas y bienhallados al Bar Bedel, vuestro Bar de confianza, vuestro Bar en formato podcast. En esta ocasión nos vuelve a acompañar detrás de la barra Alex del Podcast Puede ser una Charla más, para ofrecernos una lista de canciones muy personal y ciertamente disfrutona, con un hilo conductor muy chulo, gente joven que hace buena música y que no son muy conocidos en el mainstream. Hay que desterrar el mito de que hoy en día no se produce música de buena calidad...
-Feed: https://feeds.feedburner.com/BarBedel</description>
+                <title>Intenciones de oración del Papa Francisco – Noviembre 2024 [Video]</title>
+                <description>La Santa Sede ha dado a conocer las intenciones de oración del Papa Francisco para el mes de Noviembre 2024. Intención de oración: Por los que han perdido un hijo &amp;#8230;
+Feed: http://feed.quechilero.com/IntencionesDeOracionDelPapa</description>
                 
                 
-                <link>http://www.ivoox.com/episodio-125-todavia-hay-esperanza-alex-apodcastps1cm-audios-mp3_rf_135486620_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/episodio-125-todavia-hay-esperanza-alex-apodcastps1cm_mf_135486620_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/episodio-125-todavia-hay-esperanza-alex-apodcastps1cm-audios-mp3_rf_135486620_1.html</guid>
+                <link>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-noviembre-2024-video/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=d4a7cbf0-0244-5cca-b5f7-502b9b5a3298/diocesisdeescuintla.com/podcast-download/11976/intenciones-de-oracion-del-papa-francisco-noviembre-2024-video.mp3"/>
+                <guid>https://diocesisdeescuintla.com/intenciones-de-oracion-del-papa-francisco-noviembre-2024-video/</guid>
                 
             </item>
         </channel>
