@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 16 Nov 2024 04:28:52 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 17 Nov 2024 04:26:35 +0200</lastBuildDate>
             <item>
-                <title>Dans le Noir ? avec Camille Leveillé</title>
-                <description>
- Soutenir Tatousenti :· Faire un don pour soutenir et encourager Tatousenti à continuer, cliquez ici· Site...
-Feed: https://feeds.audiomeans.fr/feed/668b6919-1acc-45b7-a38e-08f6be8e9878.xml</description>
+                <title>Que sait-on du niveau des élèves français ?</title>
+                <description>Que sait-on du niveau des élèves français ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11192.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/1a54bb64-ddb4-4966-933d-aafc8756c275.mp3?_=1729780592"/>
-                <guid></guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/que-sait-on-du-niveau-des-eleves-francais-7871440</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/bc69e90a-1aa6-478e-a903-7251a4162ebf/11192-11.11.2024-ITEMA_23921460-2024C14993S0316-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/que-sait-on-du-niveau-des-eleves-francais-7871440</guid>
                 
             </item><item>
-                <title>&#34;J&#39;irai chercher Kafka&#34; de Léa Veinstein 5/5 : Une lettre de moi en train de cheminer vers vous</title>
-                <description>&#34;J&#39;irai chercher Kafka&#34; de Léa Veinstein 5/5 : Une lettre de moi en train de cheminer vers vous
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11495.xml</description>
+                <title>104. Féminicide de Magali Blandin (1/2) : un complot meurtrier devenu &#34;rocambolesque&#34;</title>
+                <description> Le 11 février 2021, Magali Blandin disparaît. Depuis deux mois cette mère de quatre enfants en instance de divorce vit à Montfort-sur-Meu près de Rennes. Pendant plusieurs semaines, tout le monde la cherche... y compris son mari Jérôme Gaillard.
+ 
+Pourtant, le 18 ...
+Feed: https://feeds.audiomeans.fr/feed/ff5d679f-7715-44f3-840a-08858189e727.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/fictions-le-feuilleton</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/7c85fcb7-946c-4528-8fb7-52e3648b3a4e/11495-11.11.2024-ITEMA_23903713-2024C3480E0055-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/fictions-le-feuilleton</guid>
+                <link>https://www.rtl.fr/programmes/les-voix-du-crime</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/b38f98f8-2b49-4dee-ad48-6148dace1d3c.mp3?_=1731516043"/>
+                <guid>https://www.rtl.fr/programmes/les-voix-du-crime</guid>
                 
             </item>
         </channel>
