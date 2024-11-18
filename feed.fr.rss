@@ -9,28 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 Nov 2024 04:26:35 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 18 Nov 2024 04:28:19 +0200</lastBuildDate>
             <item>
-                <title>Que sait-on du niveau des élèves français ?</title>
-                <description>Que sait-on du niveau des élèves français ?
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11192.xml</description>
+                <title>#125 - Climat et migration : quels impacts ?</title>
+                <description>
+Je reçois dans cet épisode François Gemenne pour discuter d&#39;un sujet central : les migrations climatiques. 
+Contenus partagés : 
+habitableproject.org (http://habitableproject.org) 
+Les travaux du MECLEP
+Feed: https://feed.ausha.co/oR7APIOmX35x</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/que-sait-on-du-niveau-des-eleves-francais-7871440</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/bc69e90a-1aa6-478e-a903-7251a4162ebf/11192-11.11.2024-ITEMA_23921460-2024C14993S0316-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/que-sait-on-du-niveau-des-eleves-francais-7871440</guid>
+                <link>https://podcast.ausha.co/demain-et-durable-l-ecologie/125-climat-et-migration-quels-impacts</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/oKa3Pcekgq8w.mp3?t=1731440300"/>
+                <guid>https://podcast.ausha.co/demain-et-durable-l-ecologie/125-climat-et-migration-quels-impacts</guid>
                 
             </item><item>
-                <title>104. Féminicide de Magali Blandin (1/2) : un complot meurtrier devenu &#34;rocambolesque&#34;</title>
-                <description> Le 11 février 2021, Magali Blandin disparaît. Depuis deux mois cette mère de quatre enfants en instance de divorce vit à Montfort-sur-Meu près de Rennes. Pendant plusieurs semaines, tout le monde la cherche... y compris son mari Jérôme Gaillard.
- 
-Pourtant, le 18 ...
-Feed: https://feeds.audiomeans.fr/feed/ff5d679f-7715-44f3-840a-08858189e727.xml</description>
+                <title>Le cours de math : 11/13/2024 20:00</title>
+                <description>1226-324577
+Feed: http://podcast.cism893.ca/radioshows/1226/feed_itunes.xml</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/les-voix-du-crime</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/b38f98f8-2b49-4dee-ad48-6148dace1d3c.mp3?_=1731516043"/>
-                <guid>https://www.rtl.fr/programmes/les-voix-du-crime</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/324577.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/324577.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/324577.mp3</guid>
                 
             </item>
         </channel>

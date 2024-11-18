@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 Nov 2024 04:26:38 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 18 Nov 2024 04:28:22 +0200</lastBuildDate>
             <item>
-                <title>English Phrasal Verbs - Back Out</title>
-                <description>Learn the phrasal verb &#34;back out&#34; naturally, through listening.
-Feed: https://feeds.megaphone.fm/SONORO7201496122</description>
+                <title>Acontece que no es poco | 14 de noviembre de 1924: Los 100 años de Radio Barcelona</title>
+                <description>&lt;p&gt;Nieves Concostrina habla sobre el centenario de las primeras emisiones de 
+Radio Barcelona.&lt;/p&gt;
+Feed: https://fapi-top.prisasd.com/podcast/playser/acontece_que_no_es_poco_1478/itunestfp/podcast.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/6QahRootMdOb3pXfTBaA/traffic.megaphone.fm/SONORO3147765846.mp3?updated=1725914217"/>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/LA_VENTANA_ACONTECE_QUE_NO_ES_POCO_SER_PODCAST_1478_P/media/playser/audio/202411/13/4221285.mp3"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Nadie Sabe Nada | T12X11 | En pitos y gaitas</title>
-                <description>&lt;p class=&#34;Paragraph SCXW119120793 BCX0&#34; paraid=&#34;206921185&#34; paraeid=&#34;{9cf8c839-a20e-49c9-9028-4f3da2e6b311}{209}&#34; style=&#34;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin-bottom: 10.6667px; user-select: text; overflow-wrap: break-word; white-space-collapse: preserve; vertical-align: baseline; font-kerning: none; background-color: transparent; color: windowtext;&#34;&gt;Ep...
-Feed: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml</description>
+                <title>Melodías pizarras - La primera edad de oro del pop español - 16/11/24</title>
+                <description>La primera edad de oro del pop español
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/202411/15/4225156.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/primera-edad-oro-del-pop-espanol-16-11-24/16333561/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16333561.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/primera-edad-oro-del-pop-espanol-16-11-24/16333561/</guid>
                 
             </item>
         </channel>
