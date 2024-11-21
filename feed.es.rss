@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 19 Nov 2024 04:28:05 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 21 Nov 2024 04:28:40 +0200</lastBuildDate>
             <item>
-                <title>Atmósfera - Un pensamiento para las víctimas de la DANA - 10/11/24</title>
-                <description>Un pensamiento para las víctimas de la DANA
-Feed: http://api.rtve.es/api/programas/1891/audios.rss</description>
+                <title>Ofrecemos un podcast sobre la figura del cantante Albano</title>
+                <description>Albano Carrisi Otino, más conocido como Albano. Nace al sur de Italia el 20 de mayo de 1943. Su carrera artística la comienza en 1966 cosechando enormes triunfos debido a la magnífica voz y talento musical.  
+Feed: https://eiberoamerica.com/feed/platicando.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/atmosfera/pensamiento-para-victimas-dana-10-11-24/16323586/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16323586.mp3"/>
-                <guid>https://www.rtve.es/play/audios/atmosfera/pensamiento-para-victimas-dana-10-11-24/16323586/</guid>
+                <link>http://eiberoamerica.com/podcast/platicando/0823_Albano.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0823_Albano.mp3"/>
+                <guid>http://eiberoamerica.com/podcast/platicando/0823_Albano.mp3</guid>
                 
             </item><item>
-                <title>Puente no cree las explicaciones de Mazón sobre la tarde de la DANA: &#34;Yo sé dónde no estaba&#34;</title>
-                <description>Puente duda de las explicaciones de Mazón: &#34;Yo sé dónde no estaba&#34;
-Feed: http://api2.rtve.es/api/programas/119312/audios.rss</description>
+                <title>Melodías pizarras - La primera edad de oro del pop español - 16/11/24</title>
+                <description>La primera edad de oro del pop español
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-josep-cuni/puente-no-cree-explicaciones-mazon-sobre-tarde-dana-yo-se-donde-no-estaba/16334959/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16334959.mp3"/>
-                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-josep-cuni/puente-no-cree-explicaciones-mazon-sobre-tarde-dana-yo-se-donde-no-estaba/16334959/</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/primera-edad-oro-del-pop-espanol-16-11-24/16333561/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16333561.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/primera-edad-oro-del-pop-espanol-16-11-24/16333561/</guid>
                 
             </item>
         </channel>
