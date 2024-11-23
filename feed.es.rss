@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 21 Nov 2024 04:28:40 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 23 Nov 2024 04:27:54 +0200</lastBuildDate>
             <item>
-                <title>Ofrecemos un podcast sobre la figura del cantante Albano</title>
-                <description>Albano Carrisi Otino, más conocido como Albano. Nace al sur de Italia el 20 de mayo de 1943. Su carrera artística la comienza en 1966 cosechando enormes triunfos debido a la magnífica voz y talento musical.  
-Feed: https://eiberoamerica.com/feed/platicando.xml</description>
+                <title>A golpe de bit - Cómo afectan los desastres naturales en el embarazo - 22/11/24</title>
+                <description>Cómo afectan los desastres naturales en el embarazo
+Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
                 
                 
-                <link>http://eiberoamerica.com/podcast/platicando/0823_Albano.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0823_Albano.mp3"/>
-                <guid>http://eiberoamerica.com/podcast/platicando/0823_Albano.mp3</guid>
+                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/como-afectan-desastres-naturales-embarazo/16342346/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16342346.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/como-afectan-desastres-naturales-embarazo/16342346/</guid>
                 
             </item><item>
-                <title>Melodías pizarras - La primera edad de oro del pop español - 16/11/24</title>
-                <description>La primera edad de oro del pop español
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
+                <title>Popcasting466</title>
+                <description>alvilda · l’angoisse  ::  peter perrett · solitary confinement  ::  ibon errazkin · lamento  ::  name · do we all need love  ::  the beatles · there you go, eddie  ::  amanda brown · unguarded moment  ::  annie hogan (feat...
+Feed: https://feeds.feedburner.com/Popcasting</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/primera-edad-oro-del-pop-espanol-16-11-24/16333561/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16333561.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/primera-edad-oro-del-pop-espanol-16-11-24/16333561/</guid>
+                <link>http://www.ivoox.com/popcasting466-audios-mp3_rf_135950093_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting466_mf_135950093_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/popcasting466-audios-mp3_rf_135950093_1.html</guid>
                 
             </item>
         </channel>

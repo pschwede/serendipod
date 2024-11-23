@@ -9,27 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 21 Nov 2024 04:28:36 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 23 Nov 2024 04:27:49 +0200</lastBuildDate>
             <item>
-                <title>Pourquoi les vidéos courtes nous prennent-elles plus que du temps ?</title>
-                <description>&lt;strong&gt;Dans cet épisode&lt;p&gt;Dans cet épisode, je partage mon expérience avec la consommation excessive de vidéos courtes sur les réseaux sociaux. J&#39;évoque la transition de la vigilance ancestrale à une surveillance moderne, où l&#39;ennui est remplacé par la stimulation constante des écrans. Je t&#39;invite à introduire de la friction dans l&#39;utilisation quotidienne des téléphones pour retrouver des moments de calme et de réflexion, en suggérant de te déconnecter pour renouer avec toi-même...
-Feed: https://feeds.captivate.fm/puissante-panoplie/</description>
+                <title>Simple Dose avec Phil Knight - 5 enseignements à retenir, par le fondateur de Nike.</title>
+                <description>
+Quand on pense à Nike, on imagine tout de suite ce logo, ce swoosh iconique, ses athlètes, ses publicités mémorables... et surtout ce slogan, Just Do It, 
+qui résonne dans toutes les langues.
+Mais derrière l&#39;histoire de cette marque se cache une his...
+Feed: https://feed.ausha.co/BGP21Ca4jQvz</description>
                 
                 
-                <link>https://puissantbazar.ch/staging/puissante-panoplie/reels</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/888550e7-acea-4231-8335-b4e1af3be3c3/S4E5-Videos-courtes.mp3"/>
-                <guid>https://puissantbazar.ch/staging/puissante-panoplie/reels</guid>
+                <link>https://podcast.ausha.co/double-dose-le-podcast/phil-knight-5-enseignements-fondateur-de-nike</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B6nWxHG4zN7G.mp3?t=1731875274"/>
+                <guid>https://podcast.ausha.co/double-dose-le-podcast/phil-knight-5-enseignements-fondateur-de-nike</guid>
                 
             </item><item>
-                <title>Essai Smart #3 Brabus 4WD 428 ch et Premium propulsion 272 ch</title>
-                <description>Comme vous allez pouvoir le découvrir, cet essai de la Smart #3 s’est réalisé en deux parties : la première au volant de la version Brabus 428 ch 4 roues motrices et une seconde au volant de la version 2 roues motrices propulsion de 272 ch.
- Vo...
-Feed: https://feeds.audiomeans.fr/feed/4fd530d2-7f7b-4f02-bfd9-e707a3d31182.xml</description>
+                <title>[REDIFF] 15. Les grandes phases de la 1ère Guerre mondiale</title>
+                <description>Dans l’été 1914, éclate une guerre dont on ignore encore qu’elle va durer 4 ans et
+aboutir à 20 millions de morts. 
+Cette guerre qui commence comme un  conflit mineur,  localisé dans les Balkans,
+devient rapidement mondiale et implique les plus puissa...
+Feed: https://feed.ausha.co/BD4nAH80Wek1</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/fe735082-c7eb-4d39-a2c4-314fa35d4930.mp3?_=1727857041"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/t-as-qui-en-histoire/rediff-15-les-grandes-phases-de-la-1ere-guerre-mondiale</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tr.ausha.co/ygJqGs08mX5w/api.soundcast.io/v1/stitch/ausha.mp3?tags=659C36ED&amp;apiKey=c1a94b3301c64853868548ac73233ca1&amp;podcastUrl=https%3A%2F%2Faudio.ausha.co%2FygJqGs08mX5w.mp3%3Ft%3D1730984502"/>
+                <guid>https://podcast.ausha.co/t-as-qui-en-histoire/rediff-15-les-grandes-phases-de-la-1ere-guerre-mondiale</guid>
                 
             </item>
         </channel>
