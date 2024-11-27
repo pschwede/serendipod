@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 25 Nov 2024 04:28:28 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 27 Nov 2024 04:28:41 +0200</lastBuildDate>
             <item>
-                <title>Tercera vía - Abstracciones vaporosas - 19/11/24</title>
-                <description>Abstracciones vaporosas
-Feed: http://www.rtve.es/api/programas/120010/audios.rss</description>
+                <title>PANTERA vs. El Grunge ???? MIKE PORTNOY (Dream Theater) habla sobre el Metal en los 90s</title>
+                <description>&lt;p&gt;En este video de Trascendencia Podcast, exploramos una reciente entrevista con Mike Portnoy, legendario baterista de Dream Theater, en la que revela cómo el icónico álbum Vulgar Display Of Power de Pantera influyó profundamente en su estilo de tocar la batería. 
+Descubre cómo Pantera mantuvo viva la llama del metal durante los 90, una época en la que el grunge parecía dominar la escena musical...
+Feed: https://anchor.fm/s/e54208d4/podcast/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/tercera-via/abstracciones-vaporosas-19-11-24/16336653/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16336653.mp3"/>
-                <guid>https://www.rtve.es/play/audios/tercera-via/abstracciones-vaporosas-19-11-24/16336653/</guid>
+                <link>https://podcasters.spotify.com/pod/show/trascendenciaven/episodes/PANTERA-vs--El-Grunge--MIKE-PORTNOY-Dream-Theater-habla-sobre-el-Metal-en-los-90s-e2r2j73</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/e54208d4/podcast/play/94505635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-16%2F389917815-44100-2-be6cfa9b43ae7.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/trascendenciaven/episodes/PANTERA-vs--El-Grunge--MIKE-PORTNOY-Dream-Theater-habla-sobre-el-Metal-en-los-90s-e2r2j73</guid>
                 
             </item><item>
-                <title>Rebobinando - Capital Cities, &#34; Safe and sound&#34; - 22/11/24</title>
-                <description>Capital Cities, &#34; Safe and sound&#34;
-Feed: https://www.rtve.es/api/programas/80311/audios.rss</description>
+                <title>Quinquis, maricas y otras tribus | Episodio 63</title>
+                <description>&lt;p&gt;Con Carlos Barea, Diana Aller y Alejandro Melero sobre el cine de Eloy de la Iglesia. La ilustradora Carla Berrocal nos presenta su última publicación &#39;La tierra yerma&#39;. La columna final la firma La Caneli.&lt;/p&gt;
+Feed: https://fapi-top.prisasd.com/podcast/playser/lo_normal/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/rebobinando/rebobinando-capital-cities-safe-and-sound-22-11-24/16335435/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16335435.mp3"/>
-                <guid>https://www.rtve.es/play/audios/rebobinando/rebobinando-capital-cities-safe-and-sound-22-11-24/16335435/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/LO_NORMAL_SER_PODCAST_3149_P/media/playser/audio/202411/17/4226270.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
