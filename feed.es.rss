@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 01 Dec 2024 04:29:31 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 02 Dec 2024 04:29:11 +0200</lastBuildDate>
             <item>
-                <title>2024-11-23 INgenuino</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>La musica de tus sueños live de tiktok 24 noviembre 2024</title>
+                <description>LA MUSICA DE TUS SUE&amp;Ntilde;OS LIVE DE TIKTOK 24 NOVIEMBRE 2024
+Feed: https://www.ivoox.com/jmsalasmusic_fg_f1126262_filtro_1.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://comunicacionestian.com/programas_radio/Flamen/2024-11-23Ingenuino.mp3"/>
-                <guid></guid>
+                <link>https://www.ivoox.com/musica-tus-suenos-live-tiktok-audios-mp3_rf_136281238_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/musica-tus-suenos-live-tiktok_mf_136281238_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/musica-tus-suenos-live-tiktok-audios-mp3_rf_136281238_1.html</guid>
                 
             </item><item>
-                <title>Gremlins (1984)</title>
-                <description>Hola Gerardo aquí en otro episodio de Simplemente Yo; La selección de esta semana es Gremlins, es una película de terror y comedia fantástica de 1984 dirigida por Joe Dante, escrita por Chris Columbus.
-Plot: Un joven rompe tres reglas importantes relativas a su nueva mascota y desata una horda de monstruos en un pequeño pueblo.
-Espero que lo disfruten ;)
-Información adicional del podcast:
-Enlace del website official de Filmic Notion Podcast: https://filmicnotionpod...
-Feed: https://filmicnotionpod.com/feed.xml</description>
+                <title>Repaso Noticioso: miércoles, 27 de noviembre de 2024</title>
+                <description>Repaso Noticioso: miércoles, 27 de noviembre de 2024
+Feed: https://feeds.feedburner.com/RepasoNoticioso</description>
                 
                 
-                <link>https://filmicnotionpod.com/e/gremlins-1984/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/uueipkts9b8jii5j/197_-_FN_-_Gremlins7l7u7.mp3"/>
-                <guid>https://filmicnotionpod.com/e/gremlins-1984/</guid>
+                <link>https://repasonoticioso.com/miercoles-27-de-noviembre-de-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://repasonoticioso.com/podlove/file/592/s/webplayer/RN_27noviembre2024.mp3"/>
+                <guid>https://repasonoticioso.com/miercoles-27-de-noviembre-de-2024/</guid>
                 
             </item>
         </channel>
