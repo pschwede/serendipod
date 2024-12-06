@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 05 Dec 2024 04:29:28 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 06 Dec 2024 04:29:05 +0200</lastBuildDate>
             <item>
-                <title>#608: El Canto a la poesía del cuarteto Zupay</title>
-                <description>&lt;p&gt;En este episodio de Puerto de Libros - Librería Radiofónica, exploramos un hito cultural y artístico de la primavera democrática argentina: Canto a la Poesía, el emblemático recital de 1984 que reunió a Víctor Heredia, César Isella y el Cuarteto Zupay en el Estadio Luna Park.&lt;/p&gt;
-&lt;p&gt;Acompáñanos en un viaje por las canciones y poemas que marcaron esta memorable producción, donde los artistas rindieron homenaje a poetas como Pablo Neruda, José Pedroni y María Elena Walsh...
-Feed: https://anchor.fm/s/26d7ff48/podcast/rss</description>
+                <title>Música y Letra: Puccini IV - &#39;Trittico&#39; y &#39;Turandot&#39;</title>
+                <description>Andrés Amorós cierra el ciclo dedicado a Puccini con Trittico (una colección de tres óperas) y Turandot. 
+Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/libreriaradio/episodes/608-El-Canto-a-la-poesa-del-cuarteto-Zupay-e2r7m0g</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO6705107914.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/libreriaradio/episodes/608-El-Canto-a-la-poesa-del-cuarteto-Zupay-e2r7m0g</guid>
+                <link>https://esradio.libertaddigital.com/fonoteca/2024-11-30/musica-y-letra-puccini-iv-trittico-y-turandot-p1696233-7185065.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/62690559/download.mp3?aw_0_1st.collectionid=musica-y-letra&amp;aw_0_1st.subcat=67"/>
+                <guid>https://esradio.libertaddigital.com/fonoteca/2024-11-30/musica-y-letra-puccini-iv-trittico-y-turandot-p1696233-7185065.html</guid>
                 
             </item><item>
-                <title>Gambo McGee</title>
-                <description>&lt;p&gt;A tough man with a rough past and no future.&lt;/p&gt;
-
-Feed: https://anchor.fm/s/68a2219c/podcast/rss</description>
+                <title>Mañana más - 2x62 - AUDIO: Maika Machovski y David &#39;El Indio&#39;</title>
+                <description>2x62 - AUDIO: Maika Machovski y David &#39;El Indio&#39;
+Feed: https://www.rtve.es/api/adapter/programas/175697/audios.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/steve-yogi-jr/episodes/Gambo-McGee-e2qdeki</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/68a2219c/podcast/play/93812818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-31%2F389058592-44100-2-3dc94bb0f1d12.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/steve-yogi-jr/episodes/Gambo-McGee-e2qdeki</guid>
+                <link>https://www.rtve.es/play/audios/manana-mas/maika-machovski-david-indio/16360637/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16360637.mp3"/>
+                <guid>https://www.rtve.es/play/audios/manana-mas/maika-machovski-david-indio/16360637/</guid>
                 
             </item>
         </channel>
