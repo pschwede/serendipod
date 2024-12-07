@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 06 Dec 2024 04:29:01 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 07 Dec 2024 04:28:17 +0200</lastBuildDate>
             <item>
-                <title>103 Klubb - Mau P - 23 Novembre 2024</title>
-                <description>Le mix de Mau P dans 103 Klubb le 23 Novembre 2024 de 21H à 22H
-Feed: http://www.103radio.fr/103klubb.xml</description>
+                <title>Alex &amp; Ludo | Le grand défi du Marathon des Sables</title>
+                <description>&lt;p&gt;???? Découvre l&#39;histoire d&#39;amitié d&#39;Alex &amp;amp; Ludo.&lt;/p&gt;&lt;br&gt;&lt;p&gt;???? Imagine-toi avec ton ami le plus proche, quel est le défi le plus fou que vous pourriez relever ? Pour mes invités du jour, un défi s’est présenté à eux plutôt naturellement. Je suis très heureuse de te partager l’histoire d’Alex &amp;amp; Ludo. &lt;/p&gt;&lt;br&gt;&lt;p&gt;???? Une amitié très chanceuse de par leur rencontre, leurs aventures et la chance de vivre à proximité l’un de l’autre...
+Feed: https://feeds.acast.com/public/shows/619f9eac88058100125f4b74</description>
                 
                 
-                <link>https://www.103radio.fr/2193.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.103radio.fr/2193.mp3"/>
-                <guid>https://www.103radio.fr/2193.mp3</guid>
+                <link>https://shows.acast.com/friendship/episodes/alex-ludo-le-grand-defi-du-marathon-des-sables</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/619f9eac88058100125f4b74/e/67508592a0332c2e11b46b98/media.mp3"/>
+                <guid>https://shows.acast.com/friendship/episodes/alex-ludo-le-grand-defi-du-marathon-des-sables</guid>
                 
             </item><item>
-                <title>La lave (Lava)</title>
-                <description>Des passagers ont filmé des coulées de lave et de la fumée alors que leur avion survolait un volcan sur la péninsule de Reykjanes, en Islande.
-Feed: https://feeds.acast.com/public/shows/66068dc22d276f001657edb1</description>
+                <title>John Guez, l’âme de Beaubourg  2/2 : A John Guez, la rue reconnaissante</title>
+                <description>John Guez, l’âme de Beaubourg  2/2 : A John Guez, la rue reconnaissante
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16408.xml</description>
                 
                 
-                <link>https://shows.acast.com/learn-french-with-daily-podcasts/episodes/la-lave-lava</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/66068dc22d276f001657edb1/e/674905c30f8c21c8d817673b/media.mp3"/>
-                <guid>https://shows.acast.com/learn-french-with-daily-podcasts/episodes/la-lave-lava</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/a-john-guez-la-rue-reconnaissante-6687444</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/41322a44-b5ad-4824-a8e6-67165e54fd7d/16408-01.12.2024-ITEMA_23942457-2024C26160E0090-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/a-john-guez-la-rue-reconnaissante-6687444</guid>
                 
             </item>
         </channel>
