@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 08 Dec 2024 04:29:03 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 09 Dec 2024 04:29:44 +0200</lastBuildDate>
             <item>
-                <title>Adrien Joveneau est la voix des Belges du bout du monde</title>
-                <description>
-.
-Êtes-vous prêt à découvrir une aventure radiophonique inédite ? 
-Dans cet épisode du podcast &#34;10 minutes, le podcast des Français dans le Monde&#34;, Gauthier Seys nous emmène à Bruxelles pour une rencontre fascinante avec Adrien Joveneau. Mais qui est...
-Feed: https://feed.ausha.co/bjkkETA9G1Y6</description>
+                <title>Episode 75 - Neva say neva</title>
+                <description>&lt;p&gt;Zbew, nouvel épisode, nouveaux gamus, au programme bien sûr Neva mais aussi Shogun Shodown, pas de stress, le Hit Parade revient avec plein de jeux de 2005 à caler dans ce classement o combien officiel !&lt;/p&gt;&lt;br&gt;&lt;p&gt;Des news, du viseur et de la piscine sont aussi au programme pour un épisode doux comme la neige, je pense....
+Feed: https://feeds.acast.com/public/shows/65cfc59de7b2e2001668654a</description>
                 
                 
-                <link>https://podcast.ausha.co/francais-dans-le-monde/adrien-joveneau-est-la-voix-des-belges-du-bout-du-monde</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/Nj4lpuGk3VeJ.mp3?t=1733503656"/>
-                <guid>https://podcast.ausha.co/francais-dans-le-monde/adrien-joveneau-est-la-voix-des-belges-du-bout-du-monde</guid>
+                <link>https://shows.acast.com/coopcanap/episodes/episode-75-neva-say-neva</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/65cfc59de7b2e2001668654a/e/672f7e04353470177050bf0b/media.mp3"/>
+                <guid>https://shows.acast.com/coopcanap/episodes/episode-75-neva-say-neva</guid>
                 
             </item><item>
-                <title>PBCG 60 REPTILE BOY</title>
-                <description>Soixantième numéro du podcast Pourquoi Buffy c’est génial. Podcast complètement exceptionnel avec Sarthman, Riley, Malaurie, Clément et Xavier à la technique ainsi qu&#39;une invitée incroyable : Agathe ! Nous analysons ensemble le cinquième épisode de la deuxième saison : Reptile Boy (Devotion)
-Écrit et réalisé par David Greenwalt il fut diffusé pour la première fois le 13 octobre 1997...
-Feed: https://pourquoibuffycestgenial.lepodcast.fr/rss</description>
+                <title>103 Klubb - Danny Avila - 30 Novembre 2024</title>
+                <description>Le mix de Danny Avila dans 103 Klubb le 30 Novembre 2024 de 21H à 22H
+Feed: http://www.103radio.fr/103klubb.xml</description>
                 
                 
-                <link>https://pourquoibuffycestgenial.wordpress.com/2024/11/27/pbcg-60-reptile-boy/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/pourquoibuffycestgenial/pbcg-60-reptile-boy/enclosure.52d494d45bc02a5c8268f7d8a24f82090477e1f6e58295e6e5a5b7b0d5a3865d.mp3?p=f"/>
-                <guid>https://pourquoibuffycestgenial.wordpress.com/2024/11/27/pbcg-60-reptile-boy/</guid>
+                <link>https://www.103radio.fr/2197.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.103radio.fr/2197.mp3"/>
+                <guid>https://www.103radio.fr/2197.mp3</guid>
                 
             </item>
         </channel>
