@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 09 Dec 2024 04:29:39 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 10 Dec 2024 04:29:11 +0200</lastBuildDate>
             <item>
-                <title>#145 Ex-Milliardär: Die Weltverschwörung ist real (Florian Homm)</title>
-                <description>Die Weltverschwörung ist real!
-So Florian Homm, Ex-Milliardär, der, als Teil der Elite,  die Spielregeln der Mächtigen aus erster Hand kennt.
-Sein Leben? Ein Krimi: Verhaftet von einem Spezialkommando, 14 Monate im Gefängnis mit den gefährlichsten Verbrechern der Welt, gefürchtet von DAX-Managern und ein Mann, der tiefer in die Machtstrukturen eingetaucht ist, als die meisten sich vorstellen können...
-Feed: https://feeds.megaphone.fm/UNGESKRIPTETMEDIAGMBH9200557996</description>
+                <title>Der Ritt auf dem Hai</title>
+                <description>Ich sehe was, was du nicht siehst - Kunst neu entdecken
+Feed: https://cdn.julephosting.de/podcasts/219-ich-sehe-was-was-du-nicht-siehst/feed.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/G8C5B7/traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH9447835915.mp3?updated=1733484544"/>
-                <guid></guid>
+                <link>https://www.abendblatt.de/podcast/ich-sehe-was-was-du-nicht-siehst/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ads.julephosting.de/podcasts/219-ich-sehe-was-was-du-nicht-siehst/193425-new-episode.mp3?v=1&amp;awCollectionId=julephosting_643570e719104&amp;awEpisodeId=193425"/>
+                <guid>https://www.abendblatt.de/podcast/ich-sehe-was-was-du-nicht-siehst/</guid>
                 
             </item><item>
-                <title>Trump und die Top Secret-Akten der USA 1/2: Der Fall Kennedy</title>
-                <description>KURIER Fake Busters
-Feed: https://feeds.acast.com/public/shows/64c39764fc49e200112d189f</description>
+                <title>Prof. Fichtner: 16 Mythen zu E-Autos, Batterien und deutscher Energiewende</title>
+                <description>Neue Stammtisch-Argumente gegen E-Autos
+Feed: https://geladen.podigee.io/feed/aac</description>
                 
                 
-                <link>https://shows.acast.com/64c39764fc49e200112d189f/episodes/trump-und-die-top-secret-akten-der-usa-12-der-fall-kennedy</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/64c39764fc49e200112d189f/e/674f2caea20a285c95390c8b/media.mp3"/>
-                <guid>https://shows.acast.com/64c39764fc49e200112d189f/episodes/trump-und-die-top-secret-akten-der-usa-12-der-fall-kennedy</guid>
+                <link>https://geladen.podigee.io/159-mythen-elektromobilitaet</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1705774-m-09efd30e4910ad7f1f20bd408d3abd9b.m4a?source=feed"/>
+                <guid>https://geladen.podigee.io/159-mythen-elektromobilitaet</guid>
                 
             </item>
         </channel>
