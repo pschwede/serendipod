@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Dec 2024 04:28:04 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 16 Dec 2024 04:29:38 +0200</lastBuildDate>
             <item>
-                <title>2024-12-07 Ingenuino</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>Respuestas de la ciencia - ¿Quién fue Plinio el Viejo? - 11/12/24</title>
+                <description>¿Quién fue Plinio el Viejo?
+Feed: http://www.rtve.es/api/programas/50191/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://comunicacionestian.com/programas_radio/Flamen/2024-12-07Ingenuino.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-quien-fue-plinio-viejo-11-12-24/16368287/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16368287.mp3"/>
+                <guid>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-quien-fue-plinio-viejo-11-12-24/16368287/</guid>
                 
             </item><item>
-                <title>Descanse en paz Graciela Susana (entrevista en Buenos Aires)</title>
-                <description>Recordamos la entrevista que hace un año le hiciera nuestro Sensei a la admirada Graciela Susana. Nos enteramos de su lamentable y reciente partida, y quisimos revivir su voz y las memorias de su paso grande y exitoso por el tango...
-Feed: https://feeds.feedburner.com/TangoSensei</description>
+                <title>DRAGS: MÁS QUE UN ESPECTÁCULO</title>
+                <description>En este capítulo conocemos lo que es llevar a flote una banda underground en México y cómo sobrevive el proyecto con algunos gastos.
+Feed: https://gustavito.media/feed/podcast/</description>
                 
                 
-                <link>http://www.ivoox.com/descanse-paz-graciela-susana-entrevista-buenos-audios-mp3_rf_136649667_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/descanse-paz-graciela-susana-entrevista-buenos_mf_136649667_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/descanse-paz-graciela-susana-entrevista-buenos-audios-mp3_rf_136649667_1.html</guid>
+                <link>https://gustavito.media/2024/11/27/para-mi-el-regueton-esta-muerto-2-2-2-2-2-2-2-2/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://gustavito.media/wp-content/uploads/2024/11/Drags_MasQueUnEspectaculo_MP3.mp3"/>
+                <guid>https://gustavito.media/2024/11/27/para-mi-el-regueton-esta-muerto-2-2-2-2-2-2-2-2/</guid>
                 
             </item>
         </channel>
