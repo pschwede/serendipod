@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 16 Dec 2024 04:29:38 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 17 Dec 2024 04:29:20 +0200</lastBuildDate>
             <item>
-                <title>Respuestas de la ciencia - ¿Quién fue Plinio el Viejo? - 11/12/24</title>
-                <description>¿Quién fue Plinio el Viejo?
-Feed: http://www.rtve.es/api/programas/50191/audios.rss</description>
+                <title>808 Radio #385 / #LoMejorDe2024en808 Justice, Skee Mask, Pet Shop Boys… / Radio CLM – 14/12/24</title>
+                <description>Un nuevo 808 Radio, la cita con la música del fut…
+Feed: https://feeds.feedburner.com/808Recordings</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-quien-fue-plinio-viejo-11-12-24/16368287/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16368287.mp3"/>
-                <guid>https://www.rtve.es/play/audios/respuestas-de-la-ciencia/respuestas-ciencia-quien-fue-plinio-viejo-11-12-24/16368287/</guid>
+                <link>https://soundcloud.com/808recordings/808-radio-385-lomejorde2024en808-justice-skee-mask-pet-shop-boys-radio-clm-141224</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1979052395-808recordings-808-radio-385-lomejorde2024en808-justice-skee-mask-pet-shop-boys-radio-clm-141224.mp3"/>
+                <guid>https://soundcloud.com/808recordings/808-radio-385-lomejorde2024en808-justice-skee-mask-pet-shop-boys-radio-clm-141224</guid>
                 
             </item><item>
-                <title>DRAGS: MÁS QUE UN ESPECTÁCULO</title>
-                <description>En este capítulo conocemos lo que es llevar a flote una banda underground en México y cómo sobrevive el proyecto con algunos gastos.
-Feed: https://gustavito.media/feed/podcast/</description>
+                <title>2024-12-07 Ingenuino</title>
+                <description>
+Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
                 
                 
-                <link>https://gustavito.media/2024/11/27/para-mi-el-regueton-esta-muerto-2-2-2-2-2-2-2-2/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://gustavito.media/wp-content/uploads/2024/11/Drags_MasQueUnEspectaculo_MP3.mp3"/>
-                <guid>https://gustavito.media/2024/11/27/para-mi-el-regueton-esta-muerto-2-2-2-2-2-2-2-2/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://comunicacionestian.com/programas_radio/Flamen/2024-12-07Ingenuino.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
