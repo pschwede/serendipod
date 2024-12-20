@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 18 Dec 2024 04:27:33 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 20 Dec 2024 04:26:55 +0200</lastBuildDate>
             <item>
-                <title>Marktgespräch am 04.12.2024: Lothar Albert &amp; Ingmar Königshofen</title>
-                <description>Im heutigen Marktgespräch spricht Lothar Albert mit Ingmar Königshofen von IK Invest.
-Feed: https://lsexchange.podigee.io/feed/mp3</description>
+                <title>Der Concierge-Effekt [Miauz Genau! #144]</title>
+                <description>Hallo und herzlich willkommen zu einer neuen Folge von Miauz Genau!
+Da wir in der kalten Jahreszeit alle ein bisschen wohlige Wärme gut gebrauchen können, widmen Vanessa und ich uns heute einer Geschichte, die vor etwa einem Jahr das Licht der Poké-Welt erblickte: der Netflix-Serie &#34;Die Pokémon-Concierge&#34;...
+Feed: https://1aq6847.podcaster.de/miauzgenau.rss</description>
                 
                 
-                <link>https://lsexchange.podigee.io/1033-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1702775-m-77dac851175f9456d0be6a652d7ee23d.mp3?source=feed"/>
-                <guid>https://lsexchange.podigee.io/1033-neue-episode</guid>
+                <link>https://miauzgenau.podcaster.de/miauzgenau/media/MG144a.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://miauzgenau.podcaster.de/miauzgenau/media/MG144a.mp3"/>
+                <guid>https://miauzgenau.podcaster.de/miauzgenau/media/MG144a.mp3</guid>
                 
             </item><item>
-                <title>7 Gründe, warum sich Podcasts auch 2025 noch lohnen</title>
-                <description>#227: Lohnt sich ein Podcast auch 2025 noch? In dieser Episode erfährst du 7 starke Gründe, warum sich das Medium Podcast auch 2025 noch lohnen wird. Wir sprechen über Vertrauen, Expertenpositionierung, SEO und den wachsenden Bedarf an Audioformaten. Lass dich inspirieren und erfahre, warum jetzt der perfekte Zeitpunkt ist, deinen Podcast zu starten oder weiter auszubauen. Viel Spaß beim Hören ????Deine Anika???? Blogartikel zum Mitlesen: https://podcastwonder...
-Feed: https://feeds.buzzsprout.com/2318302.rss</description>
+                <title>19</title>
+                <description>adWACKskalender 
+Feed: https://letscast.fm/podcasts/hin-und-wack-af2eefdc/feed</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/2318302/episodes/16266267-7-grunde-warum-sich-podcasts-auch-2025-noch-lohnen.mp3"/>
-                <guid></guid>
+                <link>https://hin-und-wack.letscast.fm/episode/19</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/af2eefdc/episode/70a917a2.mp3?t=1699801367"/>
+                <guid>https://hin-und-wack.letscast.fm/episode/19</guid>
                 
             </item>
         </channel>

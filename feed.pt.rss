@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 18 Dec 2024 04:27:43 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 20 Dec 2024 04:27:06 +0200</lastBuildDate>
             <item>
-                <title>Deleite somente em Deus</title>
-                <description>Grande desafio para nós é termos nosso deleite somente em Deus. Porém, nos dias atuais, as mulheres estão sendo desafiadas nessa matéria.Esse post encontra-se no:TEOmídia Blog - uma preciosa fonte de edificaçãoConfira também:TEOmídia - plataforma gratuita de vídeosTEOmídia Rádio - 24 horas no arTEOmídia Cast - disponível no seu serviço de streaming de música e podcast.
-Feed: https://feeds.buzzsprout.com/652504.rss</description>
+                <title> O Que é Que Estou Aqui a Fazer? </title>
+                <description>João Francisco Gomes lançou o livro &#34;O Que é Que Estou Aqui a Fazer?&#34;, e trouxe a Joana Marques e o Ricardo Araújo Pereira com ele para o apresentar na Prova Oral.
+Feed: https://www.rtp.pt/play/podcast/260</description>
                 
                 
-                <link>https://www.teomidia.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/652504/episodes/16185394-deleite-somente-em-deus.mp3"/>
-                <guid>https://www.teomidia.com</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://podcasts.rtp.pt/nas2.share/wavrss/at3/2412/PGM2400403622401_522238-1070-2412192034.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>063: Guanabara, Me Ajuda!</title>
-                <description>Gustavo Guanabara, do Curso em Vídeo, compartilha com Rambo o que aprendeu em três décadas ensinando programação.
-Feed: https://gigahertz.fm/podcasts/olamundo/feed.rss</description>
+                <title>Diolinux Labs: Ideias, Feedbacks e Planos</title>
+                <description>&lt;p&gt;Estamos chegando ao final de mais uma temporada do Diocast e queremos aproveitar essa oportunidade para compartilhar com vocês alguns detalhes da produção de nossos conteúdos aqui no Diolinux Labs. A cada temporada, o Diocast se fortalece graças à interação com nossa incrível comunidade.&lt;/p&gt;
+&lt;p&gt;E é justamente por isso que decidimos abrir as portas dos bastidores e te mostrar como tudo acontece por aqui...
+Feed: https://anchor.fm/s/4c177cd4/podcast/rss</description>
                 
                 
-                <link>https://gigahertz.fm/podcasts/olamundo/63</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.gigahertz.fm/Ola-Mundo/Ola-Mundo-63.mp3"/>
-                <guid>https://gigahertz.fm/podcasts/olamundo/63</guid>
+                <link>https://podcasters.spotify.com/pod/show/diolinux/episodes/Diolinux-Labs-Ideias--Feedbacks-e-Planos-e2s8ff0</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/4c177cd4/podcast/play/95746976/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2F391453113-44100-2-8e968e8f3ec82.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/diolinux/episodes/Diolinux-Labs-Ideias--Feedbacks-e-Planos-e2s8ff0</guid>
                 
             </item>
         </channel>
