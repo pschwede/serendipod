@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 20 Dec 2024 04:26:55 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 21 Dec 2024 04:26:01 +0200</lastBuildDate>
             <item>
-                <title>Der Concierge-Effekt [Miauz Genau! #144]</title>
-                <description>Hallo und herzlich willkommen zu einer neuen Folge von Miauz Genau!
-Da wir in der kalten Jahreszeit alle ein bisschen wohlige Wärme gut gebrauchen können, widmen Vanessa und ich uns heute einer Geschichte, die vor etwa einem Jahr das Licht der Poké-Welt erblickte: der Netflix-Serie &#34;Die Pokémon-Concierge&#34;...
-Feed: https://1aq6847.podcaster.de/miauzgenau.rss</description>
+                <title>Wie lernen wir unsere Eltern wirklich kennen, Elma van Vliet?</title>
+                <description>Irgendwann im Leben kommt der Zeitpunkt, an dem wir merken: Unsere Eltern sind nicht nur Mama und Papa. Sie sind Menschen mit ihren eigenen Wünschen und Träumen. Und vielleicht kennen wir diese Menschen nicht besonders gut. So ging es Elma van Vliet: Als ihre Mutter schwer erkrankte, merkte sie plötzlich, wie viele Fragen sie noch hatte. Elma schenkte ihrer Mutter ein Buch, in dem diese Fragen standen – und bekam einen Schatz zurück...
+Feed: https://megahertz.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://miauzgenau.podcaster.de/miauzgenau/media/MG144a.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://miauzgenau.podcaster.de/miauzgenau/media/MG144a.mp3"/>
-                <guid>https://miauzgenau.podcaster.de/miauzgenau/media/MG144a.mp3</guid>
+                <link>https://megahertz.podigee.io/86-wie-lernen-wir-unsere-eltern-wirklich-kennen-elma-van-vliet</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1721393-m-cac605e7436cd2baffcd662e68ab4c7e.mp3?source=feed"/>
+                <guid>https://megahertz.podigee.io/86-wie-lernen-wir-unsere-eltern-wirklich-kennen-elma-van-vliet</guid>
                 
             </item><item>
-                <title>19</title>
-                <description>adWACKskalender 
-Feed: https://letscast.fm/podcasts/hin-und-wack-af2eefdc/feed</description>
+                <title>Transformers One - Trailerdiskussion (#162)</title>
+                <description>Wir haben am Allspark geleckt
+Feed: https://letscast.fm/podcasts/filme-in-serie-a21bbe10/feed</description>
                 
                 
-                <link>https://hin-und-wack.letscast.fm/episode/19</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/af2eefdc/episode/70a917a2.mp3?t=1699801367"/>
-                <guid>https://hin-und-wack.letscast.fm/episode/19</guid>
+                <link>https://filme.in.serie.letscast.fm/episode/transformers-one-trailerdiskussion-162</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/bee4a4ce/episode/5261f5bb.mp3?t=1732182136"/>
+                <guid>https://filme.in.serie.letscast.fm/episode/transformers-one-trailerdiskussion-162</guid>
                 
             </item>
         </channel>

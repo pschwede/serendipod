@@ -9,27 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 20 Dec 2024 04:27:02 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 21 Dec 2024 04:26:09 +0200</lastBuildDate>
             <item>
-                <title>808 Radio #385 / #LoMejorDe2024en808 Justice, Skee Mask, Pet Shop Boys… / Radio CLM – 14/12/24</title>
-                <description>Un nuevo 808 Radio, la cita con la música del fut…
-Feed: https://feeds.feedburner.com/808Recordings</description>
+                <title>Los conciertos de Radio 3 - Karavana - 20/12/24</title>
+                <description>Karavana
+Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
                 
                 
-                <link>https://soundcloud.com/808recordings/808-radio-385-lomejorde2024en808-justice-skee-mask-pet-shop-boys-radio-clm-141224</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1979052395-808recordings-808-radio-385-lomejorde2024en808-justice-skee-mask-pet-shop-boys-radio-clm-141224.mp3"/>
-                <guid>https://soundcloud.com/808recordings/808-radio-385-lomejorde2024en808-justice-skee-mask-pet-shop-boys-radio-clm-141224</guid>
+                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/karavana-20-12-24/16378902/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16378902.mp3"/>
+                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/karavana-20-12-24/16378902/</guid>
                 
             </item><item>
-                <title>The Polar Express</title>
-                <description>Hola Gerardo aquí en otro episodio de Simplemente Yo; La selección de esta semana es The Polar Express, es una película de aventuras navideñas animada de 2004 dirigida por Robert Zemeckis, quien coescribió el guión con William Broyles Jr., basado en el libro infantil de 1985 del mismo nombre de Chris Van Allsburg.
-Plot: En Nochebuena, un niño se embarca en una aventura mágica hacia el Polo Norte en el Polar Express, mientras aprende sobre la amistad, la valentía y el espíritu navideño...
-Feed: https://filmicnotionpod.com/feed.xml</description>
+                <title>Podcast sobre Carmen del Moral</title>
+                <description>Carmen del Moral fue una cantante y actriz que nació en Buenos Aires, Argentina el 12 de julio de 1920 y falleció en San Miguel, provincia de Buenos Aires, Argentina el 6 de diciembre de 1991. Poseía una envidiable y afinada voz, así como una capacidad artística que la destacaron tanto en los escenarios teatrales como en el cine y la radio.
+ 
+Feed: https://eiberoamerica.com/feed/platicando.xml</description>
                 
                 
-                <link>https://filmicnotionpod.com/e/the-polar-express/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/v44amx4ud4er3efp/200_-_FN_-_The_Polar_Expressanzwl.mp3"/>
-                <guid>https://filmicnotionpod.com/e/the-polar-express/</guid>
+                <link>http://eiberoamerica.com/podcast/platicando/0827_CarmenDelMoral.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0827_CarmenDelMoral.mp3"/>
+                <guid>http://eiberoamerica.com/podcast/platicando/0827_CarmenDelMoral.mp3</guid>
                 
             </item>
         </channel>

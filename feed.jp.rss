@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 20 Dec 2024 04:27:13 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 21 Dec 2024 04:26:20 +0200</lastBuildDate>
             <item>
-                <title>The Holiday w. Carolyn Kendrick and Eve Lindley </title>
-                <description>&#34;Legend has it, when the Santa Anas blow, all bets are off.&#34; (The Santa Anas are literally blowing as I write this description!) In which Carolyn, Eve and Alex fall in love with falling in love. You can find Eve online (https://www.instagram.com/eveclindley/) here:https://www.instagram.com/eveclindley/ (https://www.instagram.com/eveclindley/)Carolyn&#39;s record (https://linktr.ee/carolynkendrick)!https://linktr.ee/carolynkendrick (https://linktr...
-Feed: https://feeds.blubrry.com/feeds/whyaredads.xml</description>
+                <title>The State of AI Startups [LS Live @ NeurIPS]</title>
+                <description>&lt;p&gt;Happy holidays! We’ll be sharing snippets from Latent Space LIVE! through the break bringing you the best of 2024 from friends of the pod!&lt;/p&gt;&lt;p&gt;For NeurIPS last year we did our standard conference podcast coverage interviewing selected papers (that we have now also done for ICLR and ICML), however we felt that we could be doing more to help AI Engineers 1) get more industry-relevant content, and 2) recap 2024 year in review from experts...
+Feed: https://api.substack.com/feed/podcast/1084089.rss</description>
                 
                 
-                <link>https://blubrry.com/whyaredads/139887696/the-holiday-w-carolyn-kendrick-and-eve-lindley/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/whyaredads/content.blubrry.com/whyaredads/YAG-2024-12-18-265.mp3"/>
-                <guid>https://blubrry.com/whyaredads/139887696/the-holiday-w-carolyn-kendrick-and-eve-lindley/</guid>
+                <link>https://www.latent.space/p/2024-startups</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.substack.com/feed/podcast/153389370/fb63dfb0a4851e3883f09c03a83354a4.mp3"/>
+                <guid>https://www.latent.space/p/2024-startups</guid>
                 
             </item><item>
-                <title>Scribe Media&#39;s Resurrection: How Eric Jorgenson Revived a Publishing Giant</title>
-                <description>Eric Jorgenson&amp;#8217;s story with Scribe Media is one of the rare second chances in business. In this episode, James sits down with Eric to discuss how he saved Scribe from its dramatic downfall, brought it back to stability, and is...
-Feed: https://www.podcastone.com/podcast?categoryID2=2391</description>
+                <title>BP096 Oppenheimer (2023)</title>
+                <description>Best Pick with John Dorney, Jessica Regan and Tom Salinsky Episode 96: Oppenheimer Released 18 December 2024 For this episode, we watched the 2023 Best Picture winner Oppenheimer written and directed by Christopher Nolan, based on American Prometheus...
+Feed: https://bestpick.libsyn.com/rss</description>
                 
                 
-                <link>https://www.podcastone.com/episode/Scribe-Medias-Resurrection-How-Eric-Jorgenson-Revived-a-Publishing-Giant</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/aw.noxsolutions.com/launchpod/adswizz/2391/JAS-1296-EricJorgenson-v01-FREE_Master_p89a_51bd17de.mp3?awCollectionId=2391&amp;awEpisodeId=da6956c8-9ae8-4b6c-bc24-d91651bd17de&amp;adwNewID3=true&amp;awNetwork=309"/>
-                <guid>https://www.podcastone.com/episode/Scribe-Medias-Resurrection-How-Eric-Jorgenson-Revived-a-Publishing-Giant</guid>
+                <link>https://bestpick.libsyn.com/bp096-oppenheimer-2023</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/bestpick/BP096_Oppenheimer_2023.mp3?dest-id=615584"/>
+                <guid>https://bestpick.libsyn.com/bp096-oppenheimer-2023</guid>
                 
             </item>
         </channel>

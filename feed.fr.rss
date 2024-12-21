@@ -9,29 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 20 Dec 2024 04:26:59 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 21 Dec 2024 04:26:05 +0200</lastBuildDate>
             <item>
-                <title>Se révéler...l&#39;identité au coeur</title>
-                <description>
-Bienvenue dans ce 89e épisode d&#39;Histoires pour les grandes personnes. Deux contes, d&#39;Henri Gougaud. Je les ai choisis pour ses mots, ses images, ses univers...sa poésie...
-La 1ère parle d&#39;une tâche dans l&#39;oeil qui parle d&#39;amour.
-La 2de est celle d&#39;un...
-Feed: https://feed.ausha.co/bParRHY3DpaR</description>
+                <title>124: Judith arrête médecine.</title>
+                <description>Judith a décidé d&#39;arrêter la médecine pour se consacrer entièrement à Easy French. C&#39;est l&#39;occasion de discuter de ce qu&#39;impliquent les changements de carrière et le fait de suivre son instinct.
+Feed: https://www.easyfrench.fm/rss</description>
                 
                 
-                <link>https://podcast.ausha.co/histoires-pour-les-grandes-personnes/se-reveler-l-identite-au-coeur</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BNQejhz75PLa.mp3?t=1732997111"/>
-                <guid>https://podcast.ausha.co/histoires-pour-les-grandes-personnes/se-reveler-l-identite-au-coeur</guid>
+                <link>https://www.easyfrench.fm/124</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/70af2cf4-3bf3-4c87-a090-4ae601a15527/15b50b66-058a-4303-a416-235d5238e508.mp3"/>
+                <guid>https://www.easyfrench.fm/124</guid>
                 
             </item><item>
-                <title> La 42e rue sur les Champs-Élysées :  concert avec la troupe de &#34;Hello Dolly&#34; au théâtre du Lido</title>
-                <description> La 42e rue sur les Champs-Élysées :  concert avec la troupe de &#34;Hello Dolly&#34; au théâtre du Lido
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11392.xml</description>
+                <title>Mon Carnet du 20 décembre 2024</title>
+                <description>Mon Carnet, le podcast de Bruno Guglielminetti
+Ve…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:248510865/sounds.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/la-42e-rue-sur-les-champs-elysees-concert-avec-la-troupe-de-hello-dolly-au-theatre-du-lido-2974636</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a203ee67-7a2b-4911-8ac1-ba4c6b7ce7b3/11392-15.12.2024-ITEMA_23965690-2024M13793S0350-21.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/la-42e-rue-sur-les-champs-elysees-concert-avec-la-troupe-de-hello-dolly-au-theatre-du-lido-2974636</guid>
+                <link>https://soundcloud.com/moncarnet/mon-carnet-du-20-decembre-2024</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1990431863-moncarnet-mon-carnet-du-20-decembre-2024.mp3"/>
+                <guid>https://soundcloud.com/moncarnet/mon-carnet-du-20-decembre-2024</guid>
                 
             </item>
         </channel>
