@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 21 Dec 2024 04:26:09 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 23 Dec 2024 04:26:57 +0200</lastBuildDate>
             <item>
+                <title>Rincón Sportinguista 574 #PodcastSportinguista</title>
+                <description>Programa con @JaviMelero77 donde analizamos las derrotas del Sporting contra el Cartagena y el Racing de Ferrol.
+Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
+                
+                
+                <link>https://www.ivoox.com/rincon-sportinguista-574-podcastsportinguista-audios-mp3_rf_136962467_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-574-podcastsportinguista_mf_136962467_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/rincon-sportinguista-574-podcastsportinguista-audios-mp3_rf_136962467_1.html</guid>
+                
+            </item><item>
                 <title>Los conciertos de Radio 3 - Karavana - 20/12/24</title>
                 <description>Karavana
 Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
@@ -19,17 +29,6 @@ Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
                 <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/karavana-20-12-24/16378902/</link>
                 <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16378902.mp3"/>
                 <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/karavana-20-12-24/16378902/</guid>
-                
-            </item><item>
-                <title>Podcast sobre Carmen del Moral</title>
-                <description>Carmen del Moral fue una cantante y actriz que nació en Buenos Aires, Argentina el 12 de julio de 1920 y falleció en San Miguel, provincia de Buenos Aires, Argentina el 6 de diciembre de 1991. Poseía una envidiable y afinada voz, así como una capacidad artística que la destacaron tanto en los escenarios teatrales como en el cine y la radio.
- 
-Feed: https://eiberoamerica.com/feed/platicando.xml</description>
-                
-                
-                <link>http://eiberoamerica.com/podcast/platicando/0827_CarmenDelMoral.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0827_CarmenDelMoral.mp3"/>
-                <guid>http://eiberoamerica.com/podcast/platicando/0827_CarmenDelMoral.mp3</guid>
                 
             </item>
         </channel>

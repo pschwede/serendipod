@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 21 Dec 2024 04:26:20 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 23 Dec 2024 04:27:07 +0200</lastBuildDate>
             <item>
-                <title>The State of AI Startups [LS Live @ NeurIPS]</title>
-                <description>&lt;p&gt;Happy holidays! We’ll be sharing snippets from Latent Space LIVE! through the break bringing you the best of 2024 from friends of the pod!&lt;/p&gt;&lt;p&gt;For NeurIPS last year we did our standard conference podcast coverage interviewing selected papers (that we have now also done for ICLR and ICML), however we felt that we could be doing more to help AI Engineers 1) get more industry-relevant content, and 2) recap 2024 year in review from experts...
-Feed: https://api.substack.com/feed/podcast/1084089.rss</description>
+                <title>Ogden Fellows and Seasonal Practicals</title>
+                <description>Ogden Fellows and Seasonal Practicals
+Feed: https://the.physicsteachingpodcast.com/feed/podcast/</description>
                 
                 
-                <link>https://www.latent.space/p/2024-startups</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.substack.com/feed/podcast/153389370/fb63dfb0a4851e3883f09c03a83354a4.mp3"/>
-                <guid>https://www.latent.space/p/2024-startups</guid>
+                <link>https://the.physicsteachingpodcast.com/2024/12/12/ogden-fellows-and-seasonal-practicals/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://the.physicsteachingpodcast.com/podlove/file/147/s/feed/c/podcast/133-s07e06-ogden-fellow.mp3"/>
+                <guid>https://the.physicsteachingpodcast.com/2024/12/12/ogden-fellows-and-seasonal-practicals/</guid>
                 
             </item><item>
-                <title>BP096 Oppenheimer (2023)</title>
-                <description>Best Pick with John Dorney, Jessica Regan and Tom Salinsky Episode 96: Oppenheimer Released 18 December 2024 For this episode, we watched the 2023 Best Picture winner Oppenheimer written and directed by Christopher Nolan, based on American Prometheus...
-Feed: https://bestpick.libsyn.com/rss</description>
+                <title>Drunkast 2024 w/ Chris &amp; Stu • Part 3/7</title>
+                <description>Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip!  Pip, Chris and Stu assemble in the regular formation for that very special time of year we all know and love, it&#39;s DRUNKAST TIME! PART 3!
+Feed: https://feeds.acast.com/public/shows/ad4e2f12-9862-4cf6-b6af-3ae392c45fad</description>
                 
                 
-                <link>https://bestpick.libsyn.com/bp096-oppenheimer-2023</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/bestpick/BP096_Oppenheimer_2023.mp3?dest-id=615584"/>
-                <guid>https://bestpick.libsyn.com/bp096-oppenheimer-2023</guid>
+                <link>http://www.scroobiuspip.co.uk/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/distractionpieces/e/67586b0ec705e4417973c51a/media.mp3"/>
+                <guid>http://www.scroobiuspip.co.uk/</guid>
                 
             </item>
         </channel>
