@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 23 Dec 2024 04:26:57 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 24 Dec 2024 04:26:58 +0200</lastBuildDate>
             <item>
-                <title>Rincón Sportinguista 574 #PodcastSportinguista</title>
-                <description>Programa con @JaviMelero77 donde analizamos las derrotas del Sporting contra el Cartagena y el Racing de Ferrol.
-Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
+                <title>Lunes, 30 de diciembre</title>
+                <description>Sal 95
+Feed: https://rezandovoy.org/podcast</description>
                 
                 
-                <link>https://www.ivoox.com/rincon-sportinguista-574-podcastsportinguista-audios-mp3_rf_136962467_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-574-podcastsportinguista_mf_136962467_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/rincon-sportinguista-574-podcastsportinguista-audios-mp3_rf_136962467_1.html</guid>
+                <link>https://rezandovoy.org/reproductor/2024-12-30</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rezando.es/public/rezandovoy/oraciones/5568/o.mp3"/>
+                <guid>https://rezandovoy.org/reproductor/2024-12-30</guid>
                 
             </item><item>
-                <title>Los conciertos de Radio 3 - Karavana - 20/12/24</title>
-                <description>Karavana
-Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
+                <title>Noosfera 222. Homenaje a la mosca | Teresa de los Reyes</title>
+                <description>¿Qué sabes sobre las moscas? No me refiero a complejas clasificaciones entomológicas. Ni siquiera a los nombres de sus casi infinitas partes, hablamos de ellas como ser vivo. ¿Qué hacen? ¿Cómo se comportan? No pretendemos que te hagas su amiga, pero...
+Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/karavana-20-12-24/16378902/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16378902.mp3"/>
-                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/karavana-20-12-24/16378902/</guid>
+                <link>https://www.spreaker.com/episode/noosfera-222-homenaje-a-la-mosca-teresa-de-los-reyes--63401558</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/63401558/noosfera_222.mp3"/>
+                <guid>https://www.spreaker.com/episode/noosfera-222-homenaje-a-la-mosca-teresa-de-los-reyes--63401558</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 23 Dec 2024 04:26:49 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 24 Dec 2024 04:26:48 +0200</lastBuildDate>
             <item>
-                <title>Eine schöne Bescherung</title>
-                <description>Weihnachten bei den Fords
-Feed: https://feeds.megaphone.fm/KUN7929406817</description>
+                <title>Welche Richtung nimmt die deutsche Wirtschaft 2025?</title>
+                <description>IMK-Direktor Sebastian Dullien erläutert die konjunkturelle Lage zur Jahreswende 2024/2025.
+Feed: https://systemrelevant.podigee.io/feed/mp3</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/KUN4484231297.mp3?updated=1734709489"/>
-                <guid></guid>
+                <link>https://systemrelevant.podigee.io/226-welche-richtung-nimmt-die-deutsche-wirtschaft-2025</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1725129-m-1c4a4c3ddcc5d0a89f0eb9f9eea19c96.mp3?source=feed"/>
+                <guid>https://systemrelevant.podigee.io/226-welche-richtung-nimmt-die-deutsche-wirtschaft-2025</guid>
                 
             </item><item>
-                <title>#92 Sekundenbruchteil: Wenn Routine zur Gefahr wird - Teil 4</title>
-                <description>Lothar Riemer im Gespräch mit Philipp Böckmann
-Feed: https://www.polizistausleidenschaft.de/feed/mp3</description>
+                <title>El Hotzo und die Wokeness</title>
+                <description>Sebastian Hotz alias El Hotzo ist mit seiner scharfsinnigen Satire für viele die Stimme einer progressiven, woken Generation – doch in letzter Zeit sind die Schlagzeilen um ihn weniger amüsant. Jule und Sascha sprechen über die aktuellen Vorwürfe gegen ihn: von seinen öffentlichen Entschuldigungen für persönliches Fehlverhalten bis hin zu den Reaktionen in Medien und sozialen Netzwerken...
+Feed: https://feel-the-news.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.polizistausleidenschaft.de/episode/92-sekundenbruchteil-wenn-routine-zur-gefahr-wird-teil-4</link>
-                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc.podcast-hosting.org/lcdn.letscast.fm/media/podcast/bc834e5a/episode/382a2e32.mp3?t=1725902130&amp;awCollectionId=lc-80017&amp;awEpisodeId=382a2e32"/>
-                <guid>https://www.polizistausleidenschaft.de/episode/92-sekundenbruchteil-wenn-routine-zur-gefahr-wird-teil-4</guid>
+                <link>https://feel-the-news.podigee.io/151-el-hotzo-und-die-wokeness</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1721498-m-1c5dcd25be600dbaabf4cad49d4e95ea.mp3?source=feed"/>
+                <guid>https://feel-the-news.podigee.io/151-el-hotzo-und-die-wokeness</guid>
                 
             </item>
         </channel>
