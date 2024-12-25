@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 24 Dec 2024 04:26:48 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 25 Dec 2024 04:26:51 +0200</lastBuildDate>
             <item>
-                <title>Welche Richtung nimmt die deutsche Wirtschaft 2025?</title>
-                <description>IMK-Direktor Sebastian Dullien erläutert die konjunkturelle Lage zur Jahreswende 2024/2025.
-Feed: https://systemrelevant.podigee.io/feed/mp3</description>
+                <title>Fotobuch-Ecke - Pia Parolin - Praxisbuch Streetfotografie</title>
+                <description>Pia Parolin war nach längerer Zeit mal wieder Gesprächspartnerin im Podcast. Neben ihrem aktuell veröffentlichten Buch „Praxisbuch Streetfotografie“ sprechen wir auch über ihre anderen Projekte, wie zum Beispiel: water.people.stories 
+Hört gerne rein!
+Feed: https://de9vpm.podcaster.de/fotobuch-ecke.rss</description>
                 
                 
-                <link>https://systemrelevant.podigee.io/226-welche-richtung-nimmt-die-deutsche-wirtschaft-2025</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1725129-m-1c4a4c3ddcc5d0a89f0eb9f9eea19c96.mp3?source=feed"/>
-                <guid>https://systemrelevant.podigee.io/226-welche-richtung-nimmt-die-deutsche-wirtschaft-2025</guid>
+                <link>https://fotobuch-ecke.de/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://de9vpm.podcaster.de/fotobuch-ecke/media/FBE059_-_Pia_Parolin_-_Streetfotografie_au.mp3"/>
+                <guid>https://fotobuch-ecke.de/</guid>
                 
             </item><item>
-                <title>El Hotzo und die Wokeness</title>
-                <description>Sebastian Hotz alias El Hotzo ist mit seiner scharfsinnigen Satire für viele die Stimme einer progressiven, woken Generation – doch in letzter Zeit sind die Schlagzeilen um ihn weniger amüsant. Jule und Sascha sprechen über die aktuellen Vorwürfe gegen ihn: von seinen öffentlichen Entschuldigungen für persönliches Fehlverhalten bis hin zu den Reaktionen in Medien und sozialen Netzwerken...
-Feed: https://feel-the-news.podigee.io/feed/mp3</description>
+                <title>Episode 94 – Das Wie und Warum der Wissenschaftskommunikation</title>
+                <description>Im Gespräch mit Prof. Mike Schäfer von der Universität Zürich über seine Forschung über Wissenschaftskommunikation. Details zur Episode
+Feed: https://kritisches-denken-podcast.de/feed/</description>
                 
                 
-                <link>https://feel-the-news.podigee.io/151-el-hotzo-und-die-wokeness</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1721498-m-1c5dcd25be600dbaabf4cad49d4e95ea.mp3?source=feed"/>
-                <guid>https://feel-the-news.podigee.io/151-el-hotzo-und-die-wokeness</guid>
+                <link>https://kritisches-denken-podcast.de/episode-94-das-wie-und-warum-der-wissenschaftskommunikation/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://kritisches-denken-podcast.de/wp-content/uploads/KDP94_final_normalized.mp3"/>
+                <guid>https://kritisches-denken-podcast.de/episode-94-das-wie-und-warum-der-wissenschaftskommunikation/</guid>
                 
             </item>
         </channel>
