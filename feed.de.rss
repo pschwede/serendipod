@@ -9,27 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 25 Dec 2024 04:26:51 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 27 Dec 2024 04:26:30 +0200</lastBuildDate>
             <item>
-                <title>Fotobuch-Ecke - Pia Parolin - Praxisbuch Streetfotografie</title>
-                <description>Pia Parolin war nach längerer Zeit mal wieder Gesprächspartnerin im Podcast. Neben ihrem aktuell veröffentlichten Buch „Praxisbuch Streetfotografie“ sprechen wir auch über ihre anderen Projekte, wie zum Beispiel: water.people.stories 
-Hört gerne rein!
-Feed: https://de9vpm.podcaster.de/fotobuch-ecke.rss</description>
+                <title>Weihnachtsweine 2024 (Mit Christoph Raffelt)</title>
+                <description>Wir trinken Riesling Sekt Brut Nature 2019 von Carl-Friedrich L. Walther, Zahrebenske Chardonnay 2022 und Ctvrte Pinot Noir 2022 vonJaroslav Springer, Klausenberg Monopol Tawny Vintage P. 2018 vomWeingut Schuh,
+Feed: https://wrint.de/category/flaschen/feed/</description>
                 
                 
-                <link>https://fotobuch-ecke.de/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://de9vpm.podcaster.de/fotobuch-ecke/media/FBE059_-_Pia_Parolin_-_Streetfotografie_au.mp3"/>
-                <guid>https://fotobuch-ecke.de/</guid>
+                <link>https://wrint.de/2024/12/12/weihnachtsweine-2024-mit-christoph-raffelt/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://files.wrint.de/WR1651_Weihnachtsweine_2024.mp3"/>
+                <guid>https://wrint.de/2024/12/12/weihnachtsweine-2024-mit-christoph-raffelt/</guid>
                 
             </item><item>
-                <title>Episode 94 – Das Wie und Warum der Wissenschaftskommunikation</title>
-                <description>Im Gespräch mit Prof. Mike Schäfer von der Universität Zürich über seine Forschung über Wissenschaftskommunikation. Details zur Episode
-Feed: https://kritisches-denken-podcast.de/feed/</description>
+                <title>Spezial: Hier jung, da alt</title>
+                <description>Willkommen, zu einer weiteren Spezialfolge: “Ratschläge von Menschen, die selbst keine Ahnung haben“. Es weihnachtet. Und es gibt Rat: Was, wenn man sich jünger macht, als man ist. Und es aufzufliegen droht?!
+Wenn ihr auch einen Ratschlag von Menschen, die selbst keine Ahnung haben, braucht: schickt eine Mail an hallo@zsvpodcast.de 
+Unseren Instagram-Account findet ihr hier:
+https://www.instagram.com/zsvpodcast
+Und hier geht&#39;s direkt zu TikTok:
+https://www.tiktok...
+Feed: https://zum-scheitern-verurteilt.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://kritisches-denken-podcast.de/episode-94-das-wie-und-warum-der-wissenschaftskommunikation/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://kritisches-denken-podcast.de/wp-content/uploads/KDP94_final_normalized.mp3"/>
-                <guid>https://kritisches-denken-podcast.de/episode-94-das-wie-und-warum-der-wissenschaftskommunikation/</guid>
+                <link>https://zum-scheitern-verurteilt.podigee.io/264-spezial-hier-jung-da-alt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1726063-m-03fec035957c5af9b8d011fe2f67a1a2.mp3?source=feed"/>
+                <guid>https://zum-scheitern-verurteilt.podigee.io/264-spezial-hier-jung-da-alt</guid>
                 
             </item>
         </channel>
