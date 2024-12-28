@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 27 Dec 2024 04:26:30 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 28 Dec 2024 04:26:11 +0200</lastBuildDate>
             <item>
-                <title>Weihnachtsweine 2024 (Mit Christoph Raffelt)</title>
-                <description>Wir trinken Riesling Sekt Brut Nature 2019 von Carl-Friedrich L. Walther, Zahrebenske Chardonnay 2022 und Ctvrte Pinot Noir 2022 vonJaroslav Springer, Klausenberg Monopol Tawny Vintage P. 2018 vomWeingut Schuh,
-Feed: https://wrint.de/category/flaschen/feed/</description>
+                <title>Ironie des Leichtsinns</title>
+                <description>Ironie des Leichtsinns
+Feed: https://www.fritz.de/programm/podcasts/talk-ohne-gast.xml/feed=podcast.xml</description>
                 
                 
-                <link>https://wrint.de/2024/12/12/weihnachtsweine-2024-mit-christoph-raffelt/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://files.wrint.de/WR1651_Weihnachtsweine_2024.mp3"/>
-                <guid>https://wrint.de/2024/12/12/weihnachtsweine-2024-mit-christoph-raffelt/</guid>
+                <link>https://talk-ohne-gast-fritz.podigee.io/263-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1731695-m-6deeecd025f1d8aa29029ec56ce79b60.mp3?source=feed"/>
+                <guid>https://talk-ohne-gast-fritz.podigee.io/263-new-episode</guid>
                 
             </item><item>
-                <title>Spezial: Hier jung, da alt</title>
-                <description>Willkommen, zu einer weiteren Spezialfolge: “Ratschläge von Menschen, die selbst keine Ahnung haben“. Es weihnachtet. Und es gibt Rat: Was, wenn man sich jünger macht, als man ist. Und es aufzufliegen droht?!
-Wenn ihr auch einen Ratschlag von Menschen, die selbst keine Ahnung haben, braucht: schickt eine Mail an hallo@zsvpodcast.de 
-Unseren Instagram-Account findet ihr hier:
-https://www.instagram.com/zsvpodcast
-Und hier geht&#39;s direkt zu TikTok:
-https://www.tiktok...
-Feed: https://zum-scheitern-verurteilt.podigee.io/feed/mp3</description>
+                <title>Was für ein Jahr 2024 (1)</title>
+                <description>Ein spannendes Jahr mit dem bto-Podcast geht zu Ende. Hier kommt unser Highlight-Rückblick – Teil 1
+Feed: https://feeds.acast.com/public/shows/649948e4db3d690011987638</description>
                 
                 
-                <link>https://zum-scheitern-verurteilt.podigee.io/264-spezial-hier-jung-da-alt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1726063-m-03fec035957c5af9b8d011fe2f67a1a2.mp3?source=feed"/>
-                <guid>https://zum-scheitern-verurteilt.podigee.io/264-spezial-hier-jung-da-alt</guid>
+                <link>https://shows.acast.com/beyondtheobvious/episodes/was-fur-ein-jahr-2024-1</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/649948e4db3d690011987638/e/6766ba3e621cdde43a6f2c2b/media.mp3"/>
+                <guid>https://shows.acast.com/beyondtheobvious/episodes/was-fur-ein-jahr-2024-1</guid>
                 
             </item>
         </channel>
