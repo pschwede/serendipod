@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 28 Dec 2024 04:26:11 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Dec 2024 04:26:12 +0200</lastBuildDate>
             <item>
-                <title>Ironie des Leichtsinns</title>
-                <description>Ironie des Leichtsinns
-Feed: https://www.fritz.de/programm/podcasts/talk-ohne-gast.xml/feed=podcast.xml</description>
+                <title>Ronja von Wurmb-Seibel, Autorin, “Ich bin Teil von allen, die ich traf”</title>
+                <description>Die Journalistin und Autorin Ronja von Wurmb-Seibel hat lange Zeit in Afghanistan gelebt und gearbeitet. Wieder zurück in Deutschland, setzt sie sich mit dem Thema Einsamkeit auseinander. Wie wichtig Gemeinsamkeit für uns ist, warum unsere Körper auf Verbundenheit gepolt sind und was ihr Motto ist, darüber spricht sie auf der Blauen Couch.
+Feed: https://feeds.br.de/blaue-couch/feed.xml</description>
                 
                 
-                <link>https://talk-ohne-gast-fritz.podigee.io/263-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1731695-m-6deeecd025f1d8aa29029ec56ce79b60.mp3?source=feed"/>
-                <guid>https://talk-ohne-gast-fritz.podigee.io/263-new-episode</guid>
+                <link>https://www.br.de/mediathek/podcast/blaue-couch/ronja-von-wurmb-seibel-autorin-ich-bin-teil-von-allen-die-ich-traf/2101172</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2101172/c/feed/ronja-von-wurmb-seibel-autorin-ich-bin-teil-von-allen-die-ich-traf.mp3"/>
+                <guid>https://www.br.de/mediathek/podcast/blaue-couch/ronja-von-wurmb-seibel-autorin-ich-bin-teil-von-allen-die-ich-traf/2101172</guid>
                 
             </item><item>
-                <title>Was für ein Jahr 2024 (1)</title>
-                <description>Ein spannendes Jahr mit dem bto-Podcast geht zu Ende. Hier kommt unser Highlight-Rückblick – Teil 1
-Feed: https://feeds.acast.com/public/shows/649948e4db3d690011987638</description>
+                <title>Dein Weg zur Baubewilligung: Die Bauprojektphase verständlich erklärt. Investoren-Wissen von Matthias Gerber, stv. Geschäftsführer Outlog AG #437</title>
+                <description>Nach dem Vorprojekt startet die Bauprojektphase – und damit wird es konkret! Unsere Serie mit dem Architekturbüro Outlog geht in der heutigen Folge wieder einen Schritt weiter zu Phase 32. Welche Pläne und Dokumente benötigen die Behörden zu...
+Feed: https://bauherren-schweiz.libsyn.com/rss</description>
                 
                 
-                <link>https://shows.acast.com/beyondtheobvious/episodes/was-fur-ein-jahr-2024-1</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/649948e4db3d690011987638/e/6766ba3e621cdde43a6f2c2b/media.mp3"/>
-                <guid>https://shows.acast.com/beyondtheobvious/episodes/was-fur-ein-jahr-2024-1</guid>
+                <link>https://sites.libsyn.com/224987/dein-weg-zur-baubewilligung-die-bauprojektphase-verstndlich-erklrt-investoren-wissen-von-matthias-gerber-stv-geschftsfhrer-outlog-ag-437</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/bauherren-schweiz/438_Lybsin_Export.mp3?dest-id=1649783"/>
+                <guid>https://sites.libsyn.com/224987/dein-weg-zur-baubewilligung-die-bauprojektphase-verstndlich-erklrt-investoren-wissen-von-matthias-gerber-stv-geschftsfhrer-outlog-ag-437</guid>
                 
             </item>
         </channel>
