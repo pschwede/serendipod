@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 30 Dec 2024 04:26:43 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 31 Dec 2024 04:26:30 +0200</lastBuildDate>
             <item>
-                <title>Mix anglo : Mix Anglo - 29 décembre 2024</title>
-                <description>770-327514
-Feed: http://podcast.cism893.ca/radioshows/770/feed_itunes.xml</description>
+                <title>Cousteau, le monde disparu 1/6 : Revisiter l’icône</title>
+                <description>Cousteau, le monde disparu 1/6 : Revisiter l’icône
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15537.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/327514.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/327514.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/327514.mp3</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/salle-des-archives/revisiter-l-icone-9801332</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/b45795ac-5c80-49fb-a27e-401a3e116c6e/15537-13.12.2024-ITEMA_23964544-2024C53488E0031-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/salle-des-archives/revisiter-l-icone-9801332</guid>
                 
             </item><item>
-                <title>Chante ! C&#39;est Noël</title>
-                <description>&lt;p&gt;Performance noélique exceptionnelle cette semaine sur ESSENTIEL noël&lt;/p&gt;&lt;p&gt;Julie &amp;amp; Mag donnent le &#34;LA&#34; dans une édition chantante d&#39;ESSENTIEL academy ! &lt;/p&gt;
-Feed: https://feeds.captivate.fm/essentiel-radio-essentiel-academy/</description>
+                <title>Chroniques – Décembre 2024</title>
+                <description>Profitez de cette période de fêtes pour décrocher le combiné de votre téléphone à cadran et déclarer votre flamme aux jeux de société. Puis mettez en route votre poste radio, trouvez la bonne fréquence sur la FM et savourez les Chroniques de Proxi Jeux...
+Feed: https://podcast.proxi-jeux.fr:443/category/podcast-2/feed/</description>
                 
                 
-                <link>https://essentielradio.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/3ea70807-f919-4839-a914-5b8efabe0d66/Julie-Mag-Chante-c-est-no-l-Pod.mp3"/>
-                <guid>https://essentielradio.com/</guid>
+                <link>https://podcast.proxi-jeux.fr/2024/12/chroniques-decembre-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.proxi-jeux.fr/trac/26355/2024/12/Chroniques_202412.mp3"/>
+                <guid>https://podcast.proxi-jeux.fr/2024/12/chroniques-decembre-2024/</guid>
                 
             </item>
         </channel>

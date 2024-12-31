@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 30 Dec 2024 04:26:39 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 31 Dec 2024 04:26:26 +0200</lastBuildDate>
             <item>
-                <title>Namibia</title>
-                <description>Extreme D&amp;#252;rre, Deutsche Kolonialgeschichte im Kaffeehaus, Wahlen im November 2024 und gr&amp;#252;ner Wasserstoff. Stephan Ueberbach berichtet &amp;#252;ber Namibia.
-Feed: https://www.radioeins.de/archiv/podcast/ferngespraeche.xml/feed=podcast.xml</description>
+                <title>...und irgendwann ist auch mal Schluss...</title>
+                <description>Danke für die schöne Zeit!
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:797704714/sounds.rss</description>
                 
                 
-                <link>https://rbbmediapmdp-a.akamaihd.net/content/e3/9c/e39c07a0-1430-4865-9b17-3183312b2bb9/1fa0c32f-abb4-49d0-ae8a-fd507c5f6498_18851395-692b-423b-b25d-c9019e40112f_256k.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rbbmediapmdp-a.akamaihd.net/content/e3/9c/e39c07a0-1430-4865-9b17-3183312b2bb9/1fa0c32f-abb4-49d0-ae8a-fd507c5f6498_18851395-692b-423b-b25d-c9019e40112f_256k.mp3"/>
-                <guid>https://rbbmediapmdp-a.akamaihd.net/content/e3/9c/e39c07a0-1430-4865-9b17-3183312b2bb9/1fa0c32f-abb4-49d0-ae8a-fd507c5f6498_18851395-692b-423b-b25d-c9019e40112f_256k.mp3</guid>
+                <link>https://soundcloud.com/alberts_urenkel/und-irgendwann-ist-auch-mal-schluss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1991844855-alberts_urenkel-und-irgendwann-ist-auch-mal-schluss.mp3"/>
+                <guid>https://soundcloud.com/alberts_urenkel/und-irgendwann-ist-auch-mal-schluss</guid>
                 
             </item><item>
-                <title>Bauernkrieg, Folge 2: Müntzer gegen Luther – Kampf um den Glauben</title>
-                <description>Ist die Sache der Bauern gerecht – oder ein einziger Frevel? Martin Luther und sein Schüler Thomas Müntzer geraten über den großen Aufstand im Frühling 1525 in einen bitteren Zwist. Und einer der beiden zieht sogar mit der Waffe in die Schlacht ...
-Feed: https://feeds.simplecast.com/DV4gq1zP</description>
+                <title>Tote Gegenstände können keine Displays bedienen</title>
+                <description>&lt;p&gt;Viele von euch - wie wir ja auch - haben den Bedarf, Inhalte im Internet zu veröffentlichen; egal, ob ein Blog, ein zentraler Familienkalender oder sogar ein Podcast. Da nicht jeder die notwendige Hardware und auch nicht unbedingt den Internetzugang mit der vielleicht passenden Geschwindigkeit bereit stellen kann, bedient man sich in der Regel eines Web-Hosters. Und genau darum geht es in dieser Folge...
+Feed: https://www.trommelspeicher.de/podcast.xml</description>
                 
                 
-                <link>https://www.zeit.de/serie/wie-war-das-nochmal</link>
-                <enclosure type="audio/mpeg" length="1" url="https://zeitonline.simplecastaudio.com/4d384d00-4f76-41fc-ac1c-8ff9276a7999/episodes/f6103b91-02c7-47c4-a6f1-ed06b51ba5c3/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=4d384d00-4f76-41fc-ac1c-8ff9276a7999&amp;awEpisodeId=f6103b91-02c7-47c4-a6f1-ed06b51ba5c3&amp;feed=DV4gq1zP"/>
-                <guid>https://www.zeit.de/serie/wie-war-das-nochmal</guid>
+                <link>https://www.trommelspeicher.de/podcast/tote-gegenstaende-koennen-keine-displays-bedienen</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.trommelspeicher.de/podcast/tote-gegenstaende-koennen-keine-displays-bedienen/065_dt_podcast_lz_20241218.mp3"/>
+                <guid>https://www.trommelspeicher.de/podcast/tote-gegenstaende-koennen-keine-displays-bedienen</guid>
                 
             </item>
         </channel>
