@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Dec 2024 04:26:30 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 02 Jan 2025 04:26:25 +0200</lastBuildDate>
             <item>
-                <title>Cousteau, le monde disparu 1/6 : Revisiter l’icône</title>
-                <description>Cousteau, le monde disparu 1/6 : Revisiter l’icône
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15537.xml</description>
+                <title>Votre jardin</title>
+                <description>Votre jardin
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/salle-des-archives/revisiter-l-icone-9801332</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/b45795ac-5c80-49fb-a27e-401a3e116c6e/15537-13.12.2024-ITEMA_23964544-2024C53488E0031-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/salle-des-archives/revisiter-l-icone-9801332</guid>
+                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/659fcb56-d848-4e74-83d7-c9083931e359/15376-21.12.2024-ITEMA_23972659-2024B20690S0356-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
                 
             </item><item>
-                <title>Chroniques – Décembre 2024</title>
-                <description>Profitez de cette période de fêtes pour décrocher le combiné de votre téléphone à cadran et déclarer votre flamme aux jeux de société. Puis mettez en route votre poste radio, trouvez la bonne fréquence sur la FM et savourez les Chroniques de Proxi Jeux...
-Feed: https://podcast.proxi-jeux.fr:443/category/podcast-2/feed/</description>
+                <title>Invincibles - L&#39;intégrale !</title>
+                <description>&lt;p&gt;Les Libéros vous proposent une nouvelle série de 10 épisodes dans laquelle sont célébrés les 20 ans d’une génération en or, celle des Invincibles d’Arsenal, champions invaincus d’Angleterre à l’issue de la saison 2003/2004 !&lt;/p&gt;&lt;br&gt;&lt;p&gt;Nous profitons de la discussion au fil de chacun de ces épisodes pour :&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Comprendre comment Arsène Wenger a réussi à imposer son style !&lt;/li&gt;&lt;li&gt;Faire le tour des armes dont les Canonniers disposent pour affronter la saison 2003/2004,...
+Feed: https://feeds.acast.com/public/shows/63a998cd82094f0010bd6874</description>
                 
                 
-                <link>https://podcast.proxi-jeux.fr/2024/12/chroniques-decembre-2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.proxi-jeux.fr/trac/26355/2024/12/Chroniques_202412.mp3"/>
-                <guid>https://podcast.proxi-jeux.fr/2024/12/chroniques-decembre-2024/</guid>
+                <link>https://shows.acast.com/les-liberos/episodes/6771bf6797bec40ae923620e</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63a998cd82094f0010bd6874/e/6771bf6797bec40ae923620e/media.mp3"/>
+                <guid>https://shows.acast.com/les-liberos/episodes/6771bf6797bec40ae923620e</guid>
                 
             </item>
         </channel>

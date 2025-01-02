@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Dec 2024 04:26:35 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 02 Jan 2025 04:26:29 +0200</lastBuildDate>
             <item>
-                <title>La Luciérnaga de vacaciones actualidad y buena música</title>
-                <description>&lt;p&gt;Escuche el programa de este viernes 27 de diciembre. La Luciérnaga, un espacio de humor y opinión de Caracol Radio que desde hace 31 años acompaña a sus oyentes en su regreso casa.&lt;/p&gt;
-Feed: http://fapi-top.prisasd.com/podcast/caracol/la_luciernaga/itunestfp/podcast.xml</description>
+                <title>El colegio invisible 31/12/2024</title>
+                <description>Escucha &#39;El Colegio invisible&#39;, el programa de misterio con Lorenzo Fernández Bueno y Laura Falcó en Onda Cero. 
+Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-co.mc.tritondigital.com/LA_LUCIERNAGA_CARACOL_RADIO_409_P/media/mcv/caracol/multimedia/20241228/4280197_011019_audio_128.mp3"/>
-                <guid></guid>
+                <link>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-31122024_2024123167746c0cbc785b00016ea863.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.ondacero.es/mp_audios4//2024/12/31/6D84965E-0C93-4E0A-8807-8713FD0F9ECE/6D84965E-0C93-4E0A-8807-8713FD0F9ECE.mp3"/>
+                <guid>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-31122024_2024123167746c0cbc785b00016ea863.html</guid>
                 
             </item><item>
-                <title>Ari no se ahogó</title>
-                <description>En el próximo episodio de Justicia para Ari, exploraremos la intensa disputa que el feminicidio de Ariadna Fernanda López Díaz desató entre la Fiscalía de Morelos y la entonces jefa de gobierno de la Ciudad de México, Claudia Sheinbaum. Revisaremos las pruebas, videos y especulaciones sobre su fallecimiento que inundaron los medios mexicanos durante semanas, y detallaremos la polémica detención del fiscal de Morelos, Uriel Carmona...
-Feed: https://feeds.simplecast.com/bDacRxP4</description>
+                <title>Como lo oyes - Bruno Sotos + Nuevas - 19/12/24</title>
+                <description>Bruno Sotos + Nuevas
+Feed: http://api.rtve.es/api/programas/22290/audios.rss</description>
                 
                 
-                <link>https://asicomosuena.mx/asi-como-suena</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/2b3ff73a-9968-4604-8ea9-bf738f02d0e3/episodes/53df8b07-e1fe-4f2b-88e1-04439f0af26e/audio/0cf4a133-578a-480b-b661-9cb45749c26b/default_tc.mp3?aid=rss_feed&amp;feed=bDacRxP4"/>
-                <guid>https://asicomosuena.mx/asi-como-suena</guid>
+                <link>https://www.rtve.es/play/audios/como-lo-oyes/bruno-sotos-nuevas-19-12-24/16379524/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16379524.mp3"/>
+                <guid>https://www.rtve.es/play/audios/como-lo-oyes/bruno-sotos-nuevas-19-12-24/16379524/</guid>
                 
             </item>
         </channel>

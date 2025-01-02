@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Dec 2024 04:26:26 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 02 Jan 2025 04:26:21 +0200</lastBuildDate>
             <item>
-                <title>...und irgendwann ist auch mal Schluss...</title>
-                <description>Danke für die schöne Zeit!
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:797704714/sounds.rss</description>
+                <title>Verkatert und verspätet - Frohe Weihnachten</title>
+                <description>Die wenig weihnachtliche Folge
+Feed: https://podcastc5092c.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://soundcloud.com/alberts_urenkel/und-irgendwann-ist-auch-mal-schluss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1991844855-alberts_urenkel-und-irgendwann-ist-auch-mal-schluss.mp3"/>
-                <guid>https://soundcloud.com/alberts_urenkel/und-irgendwann-ist-auch-mal-schluss</guid>
+                <link>https://podcastc5092c.podigee.io/251-verkatert-und-verspatet-frohe-weihnachten</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1728869-m-bba6c844c1588dde32c276c828b7acf4.mp3?source=feed"/>
+                <guid>https://podcastc5092c.podigee.io/251-verkatert-und-verspatet-frohe-weihnachten</guid>
                 
             </item><item>
-                <title>Tote Gegenstände können keine Displays bedienen</title>
-                <description>&lt;p&gt;Viele von euch - wie wir ja auch - haben den Bedarf, Inhalte im Internet zu veröffentlichen; egal, ob ein Blog, ein zentraler Familienkalender oder sogar ein Podcast. Da nicht jeder die notwendige Hardware und auch nicht unbedingt den Internetzugang mit der vielleicht passenden Geschwindigkeit bereit stellen kann, bedient man sich in der Regel eines Web-Hosters. Und genau darum geht es in dieser Folge...
-Feed: https://www.trommelspeicher.de/podcast.xml</description>
+                <title>06.37 S Beschte us dr Schwiiz</title>
+                <description>Ihr habt eure Votes abgegeben! Welcher Schweizerische Eurovision Song Contest-Song ist der beste Schweizer Song aller Zeiten? Wir haben das Ergebnis für euch in dieser Weihnachtsepisode 2024, die wir gemeinsam mit der OGAE Austria präsentieren. S Beachte us dr Schwiiz!
+Feed: https://feeds.simplecast.com/w0xy2LYL</description>
                 
                 
-                <link>https://www.trommelspeicher.de/podcast/tote-gegenstaende-koennen-keine-displays-bedienen</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.trommelspeicher.de/podcast/tote-gegenstaende-koennen-keine-displays-bedienen/065_dt_podcast_lz_20241218.mp3"/>
-                <guid>https://www.trommelspeicher.de/podcast/tote-gegenstaende-koennen-keine-displays-bedienen</guid>
+                <link>https://mercicherie.simplecast.com/episodes/0637-s-beschte-us-dr-schwiiz-3MJA_N7l</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/8de88298-cf39-4a92-845b-abcf1da280ff/episodes/b52149c0-63fc-444a-b9b8-c844d49ff352/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=8de88298-cf39-4a92-845b-abcf1da280ff&amp;awEpisodeId=b52149c0-63fc-444a-b9b8-c844d49ff352&amp;feed=w0xy2LYL"/>
+                <guid>https://mercicherie.simplecast.com/episodes/0637-s-beschte-us-dr-schwiiz-3MJA_N7l</guid>
                 
             </item>
         </channel>
