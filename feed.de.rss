@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 02 Jan 2025 04:26:21 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 03 Jan 2025 04:26:29 +0200</lastBuildDate>
             <item>
-                <title>Verkatert und verspätet - Frohe Weihnachten</title>
-                <description>Die wenig weihnachtliche Folge
-Feed: https://podcastc5092c.podigee.io/feed/mp3</description>
+                <title>Jahresrückblick</title>
+                <description>Soo viele Dates gab es dieses Jahr nicht. Aber langweilig war es trotzdem nicht.&amp;nbsp;
+      
+Feed: https://letscast.fm/podcasts/dating-bitch-f9df43f4/feed</description>
                 
                 
-                <link>https://podcastc5092c.podigee.io/251-verkatert-und-verspatet-frohe-weihnachten</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1728869-m-bba6c844c1588dde32c276c828b7acf4.mp3?source=feed"/>
-                <guid>https://podcastc5092c.podigee.io/251-verkatert-und-verspatet-frohe-weihnachten</guid>
+                <link>https://dating-bitch.letscast.fm/episode/jahresrueckblick</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/7f064f28/episode/9d06482f.mp3?t=1735670603"/>
+                <guid>https://dating-bitch.letscast.fm/episode/jahresrueckblick</guid>
                 
             </item><item>
-                <title>06.37 S Beschte us dr Schwiiz</title>
-                <description>Ihr habt eure Votes abgegeben! Welcher Schweizerische Eurovision Song Contest-Song ist der beste Schweizer Song aller Zeiten? Wir haben das Ergebnis für euch in dieser Weihnachtsepisode 2024, die wir gemeinsam mit der OGAE Austria präsentieren. S Beachte us dr Schwiiz!
-Feed: https://feeds.simplecast.com/w0xy2LYL</description>
+                <title>74 - Legenden feiern Weihnachten mit Lea, Carsten, Philip und Christian</title>
+                <description>Der EKG-Podcast feiert Weihnachten und Geburtstag. Wie jedes Jahr gibt es einen Rückblick auf das vergangene Jahr und natürlich einen Ausblick auf die spannenden EKG-Monate, die vor uns liegen.&lt;br&gt;Bei Gebäck und Ingwertee haben Lea, Carsten, Philip und Christian im Osnabrücker Studio eine gute Zeit und sprechen über EKG-Gäst:innen, ehemalige Hauptstädte, gute Menschen, hübsche Menschen und neue Ideen...
+Feed: https://letscast.fm/podcasts/ekg-ein-konstruktives-gespraech-0bfc0d4a/feed</description>
                 
                 
-                <link>https://mercicherie.simplecast.com/episodes/0637-s-beschte-us-dr-schwiiz-3MJA_N7l</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/8de88298-cf39-4a92-845b-abcf1da280ff/episodes/b52149c0-63fc-444a-b9b8-c844d49ff352/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=8de88298-cf39-4a92-845b-abcf1da280ff&amp;awEpisodeId=b52149c0-63fc-444a-b9b8-c844d49ff352&amp;feed=w0xy2LYL"/>
-                <guid>https://mercicherie.simplecast.com/episodes/0637-s-beschte-us-dr-schwiiz-3MJA_N7l</guid>
+                <link>https://ekg.letscast.fm/episode/74-legenden-feiern-weihnachten-mit-lea-carsten-philip-und-christian</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/6086edeb/episode/813d36cd.mp3?t=1734774295"/>
+                <guid>https://ekg.letscast.fm/episode/74-legenden-feiern-weihnachten-mit-lea-carsten-philip-und-christian</guid>
                 
             </item>
         </channel>

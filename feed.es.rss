@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 02 Jan 2025 04:26:29 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 03 Jan 2025 04:26:39 +0200</lastBuildDate>
             <item>
-                <title>El colegio invisible 31/12/2024</title>
-                <description>Escucha &#39;El Colegio invisible&#39;, el programa de misterio con Lorenzo Fernández Bueno y Laura Falcó en Onda Cero. 
-Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
+                <title>Lo mejor del 2024 en la Liga MX</title>
+                <description>Álvaro Morales, Paco Gabriel de Anda, Dionisio Estrada y Héctor Huerta analizan los temas que fueron  relevantes en el futbol mexicano durante el 2024.
+Feed: https://feeds.megaphone.fm/ESP7136457638</description>
                 
                 
-                <link>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-31122024_2024123167746c0cbc785b00016ea863.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.ondacero.es/mp_audios4//2024/12/31/6D84965E-0C93-4E0A-8807-8713FD0F9ECE/6D84965E-0C93-4E0A-8807-8713FD0F9ECE.mp3"/>
-                <guid>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-31122024_2024123167746c0cbc785b00016ea863.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP3134964909.mp3?updated=1735589030"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Como lo oyes - Bruno Sotos + Nuevas - 19/12/24</title>
-                <description>Bruno Sotos + Nuevas
-Feed: http://api.rtve.es/api/programas/22290/audios.rss</description>
+                <title>Lo Que Más Suena Cap. 344 (20-12-24)</title>
+                <description>Nueva edición de &#39;Lo Que Más Suena&#39;, que contiene las últimas novedades, temazos del recuerdo y vuestras peticiones mediante nota de voz a nuestro número de WhatsApp. WhatsApp: 633 865 801 Facebook: http://www.facebook.com/loqmassuena Twitter: @loquemassuena Instagram: https://www.instagram.com/loquemassuena/ E-mail: loquemassuena@gmail.com
+Feed: https://feeds.feedburner.com/loquemassuena</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/como-lo-oyes/bruno-sotos-nuevas-19-12-24/16379524/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16379524.mp3"/>
-                <guid>https://www.rtve.es/play/audios/como-lo-oyes/bruno-sotos-nuevas-19-12-24/16379524/</guid>
+                <link>http://www.ivoox.com/lo-que-mas-suena-cap-344-20-12-24-audios-mp3_rf_137112671_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/lo-que-mas-suena-cap-344-20-12-24_mf_137112671_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/lo-que-mas-suena-cap-344-20-12-24-audios-mp3_rf_137112671_1.html</guid>
                 
             </item>
         </channel>

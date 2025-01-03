@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 02 Jan 2025 04:26:25 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 03 Jan 2025 04:26:33 +0200</lastBuildDate>
             <item>
-                <title>Votre jardin</title>
-                <description>Votre jardin
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
+                <title>#125 - Climat et migration : quels impacts ?</title>
+                <description>
+Je reçois dans cet épisode François Gemenne pour discuter d&#39;un sujet central : les migrations climatiques. 
+Contenus partagés : 
+habitableproject.org (http://habitableproject.org) 
+Les travaux du MECLEP
+Feed: https://feed.ausha.co/oR7APIOmX35x</description>
                 
                 
-                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/659fcb56-d848-4e74-83d7-c9083931e359/15376-21.12.2024-ITEMA_23972659-2024B20690S0356-21.mp3"/>
-                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
+                <link>https://podcast.ausha.co/demain-et-durable-l-ecologie/125-climat-et-migration-quels-impacts</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/oKa3Pcekgq8w.mp3?t=1731440300"/>
+                <guid>https://podcast.ausha.co/demain-et-durable-l-ecologie/125-climat-et-migration-quels-impacts</guid>
                 
             </item><item>
-                <title>Invincibles - L&#39;intégrale !</title>
-                <description>&lt;p&gt;Les Libéros vous proposent une nouvelle série de 10 épisodes dans laquelle sont célébrés les 20 ans d’une génération en or, celle des Invincibles d’Arsenal, champions invaincus d’Angleterre à l’issue de la saison 2003/2004 !&lt;/p&gt;&lt;br&gt;&lt;p&gt;Nous profitons de la discussion au fil de chacun de ces épisodes pour :&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Comprendre comment Arsène Wenger a réussi à imposer son style !&lt;/li&gt;&lt;li&gt;Faire le tour des armes dont les Canonniers disposent pour affronter la saison 2003/2004,...
-Feed: https://feeds.acast.com/public/shows/63a998cd82094f0010bd6874</description>
+                <title>HORS-SÉRIE : Interview LIVE avec Philippine Delaire, comédienne #LesAudacieuses</title>
+                <description>&lt;p&gt;Le lieu où je me sens le plus à ma place.&lt;/p&gt;&lt;p&gt;Derrière mon stylo.&lt;/p&gt;&lt;p&gt;Ou mon micro.&lt;/p&gt;&lt;p&gt;Lorsque j&#39;ai la possibilité d&#39;animer un événement.&lt;/p&gt;&lt;p&gt;Et quand c&#39;est pour porter la voix de Philippine Delaire, humoriste et comédienne, dans un hôtel sublime et historique Le Boudoir des Muses devant 30 femmes, le plaisir est à son comble !&lt;/p&gt;&lt;p&gt;Je suis à chaque fois si heureuse de ces soirées Les Audacieuses...
+Feed: https://feeds.acast.com/public/shows/61969132f2a68400119b1827</description>
                 
                 
-                <link>https://shows.acast.com/les-liberos/episodes/6771bf6797bec40ae923620e</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63a998cd82094f0010bd6874/e/6771bf6797bec40ae923620e/media.mp3"/>
-                <guid>https://shows.acast.com/les-liberos/episodes/6771bf6797bec40ae923620e</guid>
+                <link>https://shows.acast.com/l-alea-par-laura-pouliquen/episodes/hors-serie-interview-live-avec-philippine-delaire-comedienne</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/61969132f2a68400119b1827/e/67476d78c4b78e9ebb2cdc71/media.mp3"/>
+                <guid>https://shows.acast.com/l-alea-par-laura-pouliquen/episodes/hors-serie-interview-live-avec-philippine-delaire-comedienne</guid>
                 
             </item>
         </channel>
