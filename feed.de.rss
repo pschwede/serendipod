@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 03 Jan 2025 04:26:29 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 Jan 2025 04:25:48 +0200</lastBuildDate>
             <item>
-                <title>Jahresrückblick</title>
-                <description>Soo viele Dates gab es dieses Jahr nicht. Aber langweilig war es trotzdem nicht.&amp;nbsp;
-      
-Feed: https://letscast.fm/podcasts/dating-bitch-f9df43f4/feed</description>
+                <title>Zufriedenheit - Ein Schlüssel zum Glück</title>
+                <description>www.lifekirche.de 29. Dezember 2024 - Ezekiel Goodman   
+Feed: https://feeds.feedburner.com/livekirche</description>
                 
                 
-                <link>https://dating-bitch.letscast.fm/episode/jahresrueckblick</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/7f064f28/episode/9d06482f.mp3?t=1735670603"/>
-                <guid>https://dating-bitch.letscast.fm/episode/jahresrueckblick</guid>
+                <link>https://www.gottesdienst-tv.de/online-predigten/predigtvideos/sermon/826-2024-12-29</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.gottesdienst-tv.de/Predigten-Seminare/MP3-Files/2024/2024-12-29.mp3"/>
+                <guid>https://www.gottesdienst-tv.de/online-predigten/predigtvideos/sermon/826-2024-12-29</guid>
                 
             </item><item>
-                <title>74 - Legenden feiern Weihnachten mit Lea, Carsten, Philip und Christian</title>
-                <description>Der EKG-Podcast feiert Weihnachten und Geburtstag. Wie jedes Jahr gibt es einen Rückblick auf das vergangene Jahr und natürlich einen Ausblick auf die spannenden EKG-Monate, die vor uns liegen.&lt;br&gt;Bei Gebäck und Ingwertee haben Lea, Carsten, Philip und Christian im Osnabrücker Studio eine gute Zeit und sprechen über EKG-Gäst:innen, ehemalige Hauptstädte, gute Menschen, hübsche Menschen und neue Ideen...
-Feed: https://letscast.fm/podcasts/ekg-ein-konstruktives-gespraech-0bfc0d4a/feed</description>
+                <title>#252 Steuertipps zum Jahresende (Teil 2)</title>
+                <description>Das neue Jahr steht vor der Tür! Welche Maßnahmen sollten Unternehmer noch vor dem Jahreswechsel ergreifen, um steuerlich zu profitieren? Und natürlich wollen wir auch wissen, welche steuerrechtlichen Neuerungen 2025 parat hält! Im 1. Teil unserer Serie stellten wir euch Steuertipps rund um sinnvolle Investitionen und Maßnahmen vor dem Jahreswechsel vor...
+Feed: https://steueraffe.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://ekg.letscast.fm/episode/74-legenden-feiern-weihnachten-mit-lea-carsten-philip-und-christian</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/6086edeb/episode/813d36cd.mp3?t=1734774295"/>
-                <guid>https://ekg.letscast.fm/episode/74-legenden-feiern-weihnachten-mit-lea-carsten-philip-und-christian</guid>
+                <link>https://steueraffe.podigee.io/252-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1723162-m-25f4a8fedb89b16c78cbd61abee2d794.mp3?source=feed"/>
+                <guid>https://steueraffe.podigee.io/252-new-episode</guid>
                 
             </item>
         </channel>

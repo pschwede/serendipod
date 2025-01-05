@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 03 Jan 2025 04:26:33 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 Jan 2025 04:25:52 +0200</lastBuildDate>
             <item>
-                <title>#125 - Climat et migration : quels impacts ?</title>
-                <description>
-Je reçois dans cet épisode François Gemenne pour discuter d&#39;un sujet central : les migrations climatiques. 
-Contenus partagés : 
-habitableproject.org (http://habitableproject.org) 
-Les travaux du MECLEP
-Feed: https://feed.ausha.co/oR7APIOmX35x</description>
+                <title>London café : 12/31/2024 20:00</title>
+                <description>665-327696
+Feed: http://podcast.cism893.ca/radioshows/665/feed_itunes.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/demain-et-durable-l-ecologie/125-climat-et-migration-quels-impacts</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/oKa3Pcekgq8w.mp3?t=1731440300"/>
-                <guid>https://podcast.ausha.co/demain-et-durable-l-ecologie/125-climat-et-migration-quels-impacts</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/327696.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/327696.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/327696.mp3</guid>
                 
             </item><item>
-                <title>HORS-SÉRIE : Interview LIVE avec Philippine Delaire, comédienne #LesAudacieuses</title>
-                <description>&lt;p&gt;Le lieu où je me sens le plus à ma place.&lt;/p&gt;&lt;p&gt;Derrière mon stylo.&lt;/p&gt;&lt;p&gt;Ou mon micro.&lt;/p&gt;&lt;p&gt;Lorsque j&#39;ai la possibilité d&#39;animer un événement.&lt;/p&gt;&lt;p&gt;Et quand c&#39;est pour porter la voix de Philippine Delaire, humoriste et comédienne, dans un hôtel sublime et historique Le Boudoir des Muses devant 30 femmes, le plaisir est à son comble !&lt;/p&gt;&lt;p&gt;Je suis à chaque fois si heureuse de ces soirées Les Audacieuses...
-Feed: https://feeds.acast.com/public/shows/61969132f2a68400119b1827</description>
+                <title>Débat : la pérennisation des événements roller en France</title>
+                <description>L&#39;équipe de rollerenligne.com a réuni quelques organisateurs d&#39;événements de roller français à l&#39;occasion du Lugdunum Contest 2024. L&#39;objectif : faire un état des lieux des forces, faiblesses et perspectives des événements roller en France. Podcast...
+Feed: https://baladoroller.lepodcast.fr/rss</description>
                 
                 
-                <link>https://shows.acast.com/l-alea-par-laura-pouliquen/episodes/hors-serie-interview-live-avec-philippine-delaire-comedienne</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/61969132f2a68400119b1827/e/67476d78c4b78e9ebb2cdc71/media.mp3"/>
-                <guid>https://shows.acast.com/l-alea-par-laura-pouliquen/episodes/hors-serie-interview-live-avec-philippine-delaire-comedienne</guid>
+                <link>https://www.rollerenligne.com/podcast/conference-la-perennisation-des-evenements-roller-en-france/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/baladoroller/debat-la-perennisation-des-evenements-roller-en-france/enclosure.10a398c9d01cf10a1156f75e5b32722d3c6ef4b0c6cc72470eba68dd891ba26b.mp3?p=f"/>
+                <guid>https://www.rollerenligne.com/podcast/conference-la-perennisation-des-evenements-roller-en-france/</guid>
                 
             </item>
         </channel>

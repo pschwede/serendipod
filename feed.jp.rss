@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 03 Jan 2025 04:26:53 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 Jan 2025 04:26:07 +0200</lastBuildDate>
             <item>
-                <title>RCR Episode 280: Cheap home computers</title>
-                <description>Panelists: Paul Hagstrom (hosting), Quinn Dunki, and Carrington Vanston Topic: 1980 In 1980, Commodore introduced the VIC-20, Sinclair introduced the ZX80, Tandy introduced the Color Computer, and HP tried to breed a computer out of calculators.
-Feed: https://rcrpodcast.com/feed/podcast/</description>
+                <title>Lukas Gentele on Kubernetes vClusters</title>
+                <description>Lukas Gentele, CEO of Loft Labs, joins host  for a discussion of kubernetes vclusters (virtual clusters). A vcluster is a kubernetes cluster that runs kubernetes application on a host kubernetes cluster. The conversation covers: vcluster basics;...
+Feed: https://seradio.libsyn.com/rss</description>
                 
                 
-                <link>https://rcrpodcast.com/2024/12/30/rcr-episode-280-cheap-home-computers/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/eb149a7a-044d-4f7f-b989-286a0b7cd29b/rcr280.mp3"/>
-                <guid>https://rcrpodcast.com/2024/12/30/rcr-episode-280-cheap-home-computers/</guid>
+                <link>http://se-radio.net/se-radio-649-lukas-gentele-on-kubernetes-vclusters</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/seradio/649-lukas-gentele-kubernetes-vclusters.mp3?dest-id=23379"/>
+                <guid>http://se-radio.net/se-radio-649-lukas-gentele-on-kubernetes-vclusters</guid>
                 
             </item><item>
-                <title>Harbinger of (festive) doom</title>
-                <description>Join Phil Kitromilides &amp; Sid Lowe in Spain for the last TSFP of 2024, discussing matchday 18 in LALIGA.
-Don&#39;t forget, you can now give the gift of TSFP to the Spanish football fan in your life this Christmas - head to patreon.com/tsfp/gift!
+                <title>Johnson Walks a Thin Line </title>
+                <description>House Speaker Mike Johnson&#39;s bid to hold the gavel goes to a vote, putting the GOP&#39;s razor-thin majority to its first big test. Plus, the key details we&#39;re learning about the driver in New Orleans in the hours leading up to the deadly attack. And investigators try to find out why an active duty Green Beret orchestrated a cybertruck explosion outside of Donald Trump&#39;s Las Vegas hotel. 
 Learn more about your ad choices. Visit podcastchoices.com/adchoices
-Feed: https://feeds.megaphone.fm/GLT4632612630</description>
+Feed: https://feeds.megaphone.fm/WMHY6944338691</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6322671526.mp3?updated=1734990248"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2642663254.mp3?updated=1735924417"/>
                 <guid></guid>
                 
             </item>
