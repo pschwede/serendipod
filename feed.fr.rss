@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 05 Jan 2025 04:25:52 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 06 Jan 2025 04:27:13 +0200</lastBuildDate>
             <item>
-                <title>London café : 12/31/2024 20:00</title>
-                <description>665-327696
-Feed: http://podcast.cism893.ca/radioshows/665/feed_itunes.xml</description>
+                <title>La Chute de Lapinville EP186 : Épiphanie</title>
+                <description>Georgia reprend toute l&#39;enquête à zéro et cherche…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:29669516/sounds.rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/327696.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/327696.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/327696.mp3</guid>
+                <link>https://soundcloud.com/arte-radio-1/epiphanie</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1997035503-arte-radio-1-epiphanie.mp3"/>
+                <guid>https://soundcloud.com/arte-radio-1/epiphanie</guid>
                 
             </item><item>
-                <title>Débat : la pérennisation des événements roller en France</title>
-                <description>L&#39;équipe de rollerenligne.com a réuni quelques organisateurs d&#39;événements de roller français à l&#39;occasion du Lugdunum Contest 2024. L&#39;objectif : faire un état des lieux des forces, faiblesses et perspectives des événements roller en France. Podcast...
-Feed: https://baladoroller.lepodcast.fr/rss</description>
+                <title>Une famille prépare Noël </title>
+                <description>« Rendez-vous avec une joyeuse famille, installée du côté de Bourg-en-Bresse depuis un peu plus de dix ans et qui a fait un crochet par l’Afrique. Investis dans le scoutisme et dans la Communauté de Vie Chrétienne (d’inspiration ignatienne), parents et enfants o...
+Feed: https://feeds.audiomeans.fr/feed/af6b50f8-2a22-4511-9afd-fd1339caa7be.xml</description>
                 
                 
-                <link>https://www.rollerenligne.com/podcast/conference-la-perennisation-des-evenements-roller-en-france/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/baladoroller/debat-la-perennisation-des-evenements-roller-en-france/enclosure.10a398c9d01cf10a1156f75e5b32722d3c6ef4b0c6cc72470eba68dd891ba26b.mp3?p=f"/>
-                <guid>https://www.rollerenligne.com/podcast/conference-la-perennisation-des-evenements-roller-en-france/</guid>
+                <link>https://rcf.fr/vie-spirituelle/eglises-en-marche?episode=542218</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/214bf8a5-4428-45c4-9d84-9932bbcb6892.mp3?_=1734450371"/>
+                <guid>https://rcf.fr/vie-spirituelle/eglises-en-marche?episode=542218</guid>
                 
             </item>
         </channel>
