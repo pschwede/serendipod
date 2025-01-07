@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 06 Jan 2025 04:27:08 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 07 Jan 2025 04:25:48 +0200</lastBuildDate>
             <item>
-                <title>7.728€ jährlich steuerfrei in ETFs investieren als GmbH-Geschäftsführer</title>
-                <description>Der Geld-Podcast von und mit Michael Serve
-Feed: https://podcast1cc7a8.podigee.io/feed/mp3</description>
+                <title>Sidequest: Die Götterdämmerung-Kontroverse mit Christian Huberts (#086)</title>
+                <description>Bonusfolge! Wir sprechen über den umstrittenen DLC zu Hearts of Iron und loten die Grenzen des Spielbaren aus
+Feed: https://indiefresse.org/feed/mp3/</description>
                 
                 
-                <link>https://podcast1cc7a8.podigee.io/415-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1733296-m-db66cd17413e8cab1d7809d1129a9439.mp3?source=feed"/>
-                <guid>https://podcast1cc7a8.podigee.io/415-neue-episode</guid>
+                <link>https://indiefresse.org/2024/12/30/sidequest-die-goetterdaemmerung-kontroverse-mit-christian-huberts-086/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://indiefresse.org/podlove/file/104/s/feed/c/mp3/if086-idfx-Goetterdaemmerung.mp3"/>
+                <guid>https://indiefresse.org/2024/12/30/sidequest-die-goetterdaemmerung-kontroverse-mit-christian-huberts-086/</guid>
                 
             </item><item>
-                <title>295 - Produktiv statt gelähmt sein</title>
-                <description>Wenn nichts mehr geht und Du eigentlich gar nicht mehr aufstehen möchtest, dann habe ich einen Impuls für Dich. Vielleicht ist das Aufstehen auch nicht das Problem, sondern das Abschalten und Ins-Bett-gehen, weil Deine TO-DO-Liste endlos lang ist....
-Feed: https://gesundfuehren.libsyn.com/rss</description>
+                <title>RadioTux Sendung Dezember 2024</title>
+                <description>&lt;p&gt;Für die Dezember Sendung war Ingo zu Gast im Focus on Linux Podcast. Wir sprechen darüber welche Technik für u.a. den RadioTux Podcast eingesetzt wird und wie die Podcasting Community funktioniert.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;Ingo in FOL #82: https://focusonlinux.podigee.io/82-radiotux&lt;/li&gt;
+&lt;li&gt;RadioTux-Webseite: https://www.radiotux.de&lt;/li&gt;
+&lt;li&gt;RadioTux-Archiv: http://archiv.radiotux.de&lt;/li&gt;
+&lt;li&gt;Binärgewitter-Webseite: https://blog.binaergewitter...
+Feed: http://prometheus.radiotux.de/index.php?/feeds/index.rss2</description>
                 
                 
-                <link>https://gesundfuehren.libsyn.com/295-gelhmt-statt-produktiv-sein</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/gesundfuehren/Produktiv_statt_gelahmt_sein.mp3?dest-id=537626"/>
-                <guid>https://gesundfuehren.libsyn.com/295-gelhmt-statt-produktiv-sein</guid>
+                <link>https://www.radiotux.de/index.php?/archives/8102-RadioTux-Sendung-Dezember-2024.html</link>
+                <enclosure type="audio/mpeg" length="1" url="http://archiv.radiotux.de/sendungen/radiotux/2024-12-16.RadioTux.Magazin.Dezember2024.mp3"/>
+                <guid>https://www.radiotux.de/index.php?/archives/8102-RadioTux-Sendung-Dezember-2024.html</guid>
                 
             </item>
         </channel>
