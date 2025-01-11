@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 07 Jan 2025 04:25:48 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 11 Jan 2025 04:25:52 +0200</lastBuildDate>
             <item>
-                <title>Sidequest: Die Götterdämmerung-Kontroverse mit Christian Huberts (#086)</title>
-                <description>Bonusfolge! Wir sprechen über den umstrittenen DLC zu Hearts of Iron und loten die Grenzen des Spielbaren aus
-Feed: https://indiefresse.org/feed/mp3/</description>
+                <title>#83 Auf dem letzten Drücker</title>
+                <description>Podcast Server, Fahrausbildung, Prüfung, Simulator, Bahnübergänge, KISS, Herbst, Gleiten
+Feed: https://feed.zugfunk-podcast.de/podcastrss.xml</description>
                 
                 
-                <link>https://indiefresse.org/2024/12/30/sidequest-die-goetterdaemmerung-kontroverse-mit-christian-huberts-086/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://indiefresse.org/podlove/file/104/s/feed/c/mp3/if086-idfx-Goetterdaemmerung.mp3"/>
-                <guid>https://indiefresse.org/2024/12/30/sidequest-die-goetterdaemmerung-kontroverse-mit-christian-huberts-086/</guid>
+                <link>https://zugfunk-podcast.de/2024/12/31/zf83/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feed.zugfunk-podcast.de/zf83.mp3"/>
+                <guid>https://zugfunk-podcast.de/2024/12/31/zf83/</guid>
                 
             </item><item>
-                <title>RadioTux Sendung Dezember 2024</title>
-                <description>&lt;p&gt;Für die Dezember Sendung war Ingo zu Gast im Focus on Linux Podcast. Wir sprechen darüber welche Technik für u.a. den RadioTux Podcast eingesetzt wird und wie die Podcasting Community funktioniert.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Intro&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;ul&gt;
-&lt;li&gt;Ingo in FOL #82: https://focusonlinux.podigee.io/82-radiotux&lt;/li&gt;
-&lt;li&gt;RadioTux-Webseite: https://www.radiotux.de&lt;/li&gt;
-&lt;li&gt;RadioTux-Archiv: http://archiv.radiotux.de&lt;/li&gt;
-&lt;li&gt;Binärgewitter-Webseite: https://blog.binaergewitter...
-Feed: http://prometheus.radiotux.de/index.php?/feeds/index.rss2</description>
+                <title>KLGSCH - 10.01.25 | Petra aus Eisenstadt</title>
+                <description>Wie jeden Morgen gibt es die berühmte Klugscheißerfrage - Dieses Mal hatte Petra aus Eisenstadt die Chance auf das begehrte Siegerhäferl und den Titel 88.6 Klugscheißer des Tages.
+Feed: http://feeds.radio886.at/klugscheisser</description>
                 
                 
-                <link>https://www.radiotux.de/index.php?/archives/8102-RadioTux-Sendung-Dezember-2024.html</link>
-                <enclosure type="audio/mpeg" length="1" url="http://archiv.radiotux.de/sendungen/radiotux/2024-12-16.RadioTux.Magazin.Dezember2024.mp3"/>
-                <guid>https://www.radiotux.de/index.php?/archives/8102-RadioTux-Sendung-Dezember-2024.html</guid>
+                <link>http://www.radio886.at</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.cdn.radio886.at/adb05cb3d381065da6f7f633e62aa782-radiothek_128.mp3"/>
+                <guid>http://www.radio886.at</guid>
                 
             </item>
         </channel>

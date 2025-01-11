@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 07 Jan 2025 04:25:52 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 11 Jan 2025 04:25:56 +0200</lastBuildDate>
             <item>
-                <title>Arcadian</title>
-                <description>Pour ce cent-cinquième épisode, on parle du film Arcadian dans lequel Nicolas Cage joue un père dans un monde post-apocalyptique. Bonne écoute ! Retrouvez-nous également sur Twitter (@CitizenCagePod) et Instagram (citizencagepodcast).&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hébergé par Acast. Visitez acast.com/privacy pour plus d&#39;informations.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/64cbad5290eee700113cb35f</description>
+                <title>Sur la grippe aviaire  (On Avian Flu)</title>
+                <description>Une mutation unique, Q226L, a été identifiée, augmentant la capacité du virus H5N1 à infecter les cellules humaines, soulevant des préoccupations sanitaires mondiales.
+Feed: https://feeds.acast.com/public/shows/66068dc22d276f001657edb1</description>
                 
                 
-                <link>https://shows.acast.com/citizencage-1/episodes/arcadian</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/64cbad5290eee700113cb35f/e/6772e86c97bec40ae95f9137/media.mp3"/>
-                <guid>https://shows.acast.com/citizencage-1/episodes/arcadian</guid>
+                <link>https://shows.acast.com/learn-french-with-daily-podcasts/episodes/sur-la-grippe-aviaire-on-avian-flu</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/66068dc22d276f001657edb1/e/675b8d4836a70d75b663ca7d/media.mp3"/>
+                <guid>https://shows.acast.com/learn-french-with-daily-podcasts/episodes/sur-la-grippe-aviaire-on-avian-flu</guid>
                 
             </item><item>
-                <title>Soba + Ayom #SessionLive</title>
-                <description>
-Du blues burkinabè de Soba à l’afro-latin tropical d’Ayom. (Rediffusion)
-
-Feed: https://www.rfi.fr/fr/podcasts/musiques-monde/podcast</description>
+                <title>OEC Spécial Noël 2024</title>
+                <description>Vous êtes en retard pour vos cadeaux ?
+Heureusement nous publions aux derniers moment nos recommandations d’intégrales et de beaux livres à offrir, histoire d’être synchro avec vous, et que vous puissiez vous rattrapez en 2025...
+Feed: https://oec.lepodcast.fr/rss</description>
                 
                 
-                <link>https://www.rfi.fr/fr/podcasts/musiques-du-monde/20250105-soba-ayom-sessionlive</link>
-                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB904-RFI-FR-20090930%7CMusiques%20du%20monde&amp;l3=WBMZ474187-RFI-FR-20241212%7CSoba%20%2B%20Ayom%20%23SessionLive&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202412%2FMUSIQUES_DU_MONDE_05-01-25_redif_du_19-10-24_SessionLive_Soba_Ayom.mp3"/>
-                <guid>https://www.rfi.fr/fr/podcasts/musiques-du-monde/20250105-soba-ayom-sessionlive</guid>
+                <link>https://www.lavoixdesbulles.fr/oec-special-noel-2024/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/oec/oec-special-noel-2024/enclosure.ad11ba2bde9075636d86448166c9093d116a3bdfb114345ae6d0cdd894019903.mp3?p=f"/>
+                <guid>https://www.lavoixdesbulles.fr/oec-special-noel-2024/</guid>
                 
             </item>
         </channel>
