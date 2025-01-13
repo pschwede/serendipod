@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 11 Jan 2025 04:25:52 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 13 Jan 2025 04:27:43 +0200</lastBuildDate>
             <item>
-                <title>#83 Auf dem letzten Drücker</title>
-                <description>Podcast Server, Fahrausbildung, Prüfung, Simulator, Bahnübergänge, KISS, Herbst, Gleiten
-Feed: https://feed.zugfunk-podcast.de/podcastrss.xml</description>
+                <title>#76 Können Sie mir einen Schinken 120er mitbringen ?</title>
+                <description>&lt;p&gt;Die Weihnachtspause ist vorbei und wir starten mit Knallern, nee Böllern ! Wir verzetteln uns im Nerd Talk über KI in der Bildbearbeitung und kostenlosen Alternativen zu Adobe Lightroom. Außerdem klären wir, was Michis Vater mit Sprengstoff am Hut hatte.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+Feed: https://anchor.fm/s/18dbebac/podcast/rss</description>
                 
                 
-                <link>https://zugfunk-podcast.de/2024/12/31/zf83/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feed.zugfunk-podcast.de/zf83.mp3"/>
-                <guid>https://zugfunk-podcast.de/2024/12/31/zf83/</guid>
+                <link>https://podcasters.spotify.com/pod/show/oliver-utesch/episodes/76-Knnen-Sie-mir-einen-Schinken-120er-mitbringen-e2t7qqj</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/18dbebac/podcast/play/96774419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-8%2F96066e8d-ba18-9d4c-e262-ae0389373fe0.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/oliver-utesch/episodes/76-Knnen-Sie-mir-einen-Schinken-120er-mitbringen-e2t7qqj</guid>
                 
             </item><item>
-                <title>KLGSCH - 10.01.25 | Petra aus Eisenstadt</title>
-                <description>Wie jeden Morgen gibt es die berühmte Klugscheißerfrage - Dieses Mal hatte Petra aus Eisenstadt die Chance auf das begehrte Siegerhäferl und den Titel 88.6 Klugscheißer des Tages.
-Feed: http://feeds.radio886.at/klugscheisser</description>
+                <title>Deep-Fake-Technologie - Russischer Präsident in Biopic &#34;Putin&#34; zu sehen</title>
+                <description>&lt;p&gt;&#34;Putin&#34; ist offenbar das erste Biopic, das die Deep-Fake-Technologie nutzt, um so per Künstlicher Intelligenz den Hauptdarsteller des Films exakt wie den russischen Präsidenten aussehen zu lassen. Ein neuartiger Dreh, den der Kreml zu verhindern versucht hat...
+Feed: https://www.deutschlandfunknova.de/podcast/eine-stunde-film</description>
                 
                 
-                <link>http://www.radio886.at</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.cdn.radio886.at/adb05cb3d381065da6f7f633e62aa782-radiothek_128.mp3"/>
-                <guid>http://www.radio886.at</guid>
+                <link>https://www.deutschlandfunknova.de/beitrag/deep-fake-technologie-russischer-praesident-in-biopic-putin-zu-sehen</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2025/01/08/deutschlandfunknova_deep_fake_technologie_20250108_b648aa6b.mp3"/>
+                <guid>https://www.deutschlandfunknova.de/beitrag/deep-fake-technologie-russischer-praesident-in-biopic-putin-zu-sehen</guid>
                 
             </item>
         </channel>

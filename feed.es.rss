@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 11 Jan 2025 04:25:59 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 13 Jan 2025 04:27:53 +0200</lastBuildDate>
             <item>
-                <title>808 Radio #389 / Demian Licht, Zombies In Miami, Raúl Parra… / Radio CLM – 4/1/25</title>
-                <description>Un nuevo 808 en Radio Castilla-La Mancha, el prim…
-Feed: https://feeds.feedburner.com/808Recordings</description>
+                <title>10 años observando los planetas gigantes con el Hubble y el Programa OPAL. Hablamos con Raúl Morales Juberías</title>
+                <description>Hoy tenemos doble celebración: por un lado, alcanzamos el programa número 500 de Hablando con Científicos, y por otro, conmemoramos los 10 años de un ambicioso programa de investigación que ha permitido observar con el Telescopio Espacial Hubble a los planetas gigantes del Sistema Solar...
+Feed: https://feeds.feedburner.com/HablandoConCientficos</description>
                 
                 
-                <link>https://soundcloud.com/808recordings/808-radio-389</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/1990634843-808recordings-808-radio-389.mp3"/>
-                <guid>https://soundcloud.com/808recordings/808-radio-389</guid>
+                <link>http://cienciaes.com/entrevistas/2025/01/11/opal/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/cienciaes/hc_500_opal.mp3"/>
+                <guid>http://cienciaes.com/entrevistas/2025/01/11/opal/</guid>
                 
             </item><item>
-                <title>La musica de tus sueños audio live tik tok 3 enero 2025 los 80¨s</title>
-                <description>LA MUSICA DE TUS SUE&amp;Ntilde;OS AUDIO LIVE TIK TOK 3 ENERO 2025 LOS 80&amp;uml;S
-Feed: https://www.ivoox.com/jmsalasmusic_fg_f1126262_filtro_1.xml</description>
+                <title>Torres no da por perdida la reforma de la Ley de Extranjería: &#34;Estamos negociando con los grupos&#34;</title>
+                <description>Torres no da por perdida la reforma de la Ley de Extranjería
+Feed: http://api2.rtve.es/api/programas/119312/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/musica-tus-suenos-audio-live-tik-audios-mp3_rf_137476702_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/musica-tus-suenos-audio-live-tik_mf_137476702_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/musica-tus-suenos-audio-live-tik-audios-mp3_rf_137476702_1.html</guid>
+                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-josep-cuni/torres-no-da-perdida-reforma-ley-extranjeria-estamos-negociando-grupos/16401384/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16401384.mp3"/>
+                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-josep-cuni/torres-no-da-perdida-reforma-ley-extranjeria-estamos-negociando-grupos/16401384/</guid>
                 
             </item>
         </channel>

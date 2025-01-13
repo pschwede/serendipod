@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 11 Jan 2025 04:25:56 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 13 Jan 2025 04:27:48 +0200</lastBuildDate>
             <item>
-                <title>Sur la grippe aviaire  (On Avian Flu)</title>
-                <description>Une mutation unique, Q226L, a été identifiée, augmentant la capacité du virus H5N1 à infecter les cellules humaines, soulevant des préoccupations sanitaires mondiales.
-Feed: https://feeds.acast.com/public/shows/66068dc22d276f001657edb1</description>
+                <title>Les millimètres</title>
+                <description>
+????Les millimètres????
+Dans son livre, « la prochaine fois que tu mordras la poussière », Panayotis Pascot écrit: « Si tu colles ton doigt sur un miroir, le doigt en réflexion, ne touchera jamais ton vrai doigt. Tu peux regarder de plus près, il y aura...
+Feed: https://feed.ausha.co/bYYk7uvg81gZ</description>
                 
                 
-                <link>https://shows.acast.com/learn-french-with-daily-podcasts/episodes/sur-la-grippe-aviaire-on-avian-flu</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/66068dc22d276f001657edb1/e/675b8d4836a70d75b663ca7d/media.mp3"/>
-                <guid>https://shows.acast.com/learn-french-with-daily-podcasts/episodes/sur-la-grippe-aviaire-on-avian-flu</guid>
+                <link>https://podcast.ausha.co/les-dessous-de-savin/les-millimetres</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/audio.ausha.co/BG3JdfJ1x9z3.mp3?t=1736453330"/>
+                <guid>https://podcast.ausha.co/les-dessous-de-savin/les-millimetres</guid>
                 
             </item><item>
-                <title>OEC Spécial Noël 2024</title>
-                <description>Vous êtes en retard pour vos cadeaux ?
-Heureusement nous publions aux derniers moment nos recommandations d’intégrales et de beaux livres à offrir, histoire d’être synchro avec vous, et que vous puissiez vous rattrapez en 2025...
-Feed: https://oec.lepodcast.fr/rss</description>
+                <title>Rythmologie : 01/09/2025 20:00</title>
+                <description>686-328250
+Feed: http://podcast.cism893.ca/radioshows/686/feed_itunes.xml</description>
                 
                 
-                <link>https://www.lavoixdesbulles.fr/oec-special-noel-2024/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/oec/oec-special-noel-2024/enclosure.ad11ba2bde9075636d86448166c9093d116a3bdfb114345ae6d0cdd894019903.mp3?p=f"/>
-                <guid>https://www.lavoixdesbulles.fr/oec-special-noel-2024/</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/328250.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/328250.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/328250.mp3</guid>
                 
             </item>
         </channel>
