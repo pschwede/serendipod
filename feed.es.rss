@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 14 Jan 2025 04:25:40 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 15 Jan 2025 04:25:49 +0200</lastBuildDate>
             <item>
-                <title>No es un día cualquiera - &#34;Estupidiario&#34;: Inicio de año</title>
-                <description>&#34;Estupidiario&#34;: Inicio de año
-Feed: http://api.rtve.es/api/programas/2054/audios.rss</description>
+                <title>Turbo 3 - Julien Baker &amp; TORRES | Dave Grohl | Zach Bryan | Wunderhorse - 14/01/25</title>
+                <description>Julien Baker &amp; TORRES | Dave Grohl | Zach Bryan | Wunderhorse
+Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-estupidiario-inicio-ano/16403765/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16403765.mp3"/>
-                <guid>https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-estupidiario-inicio-ano/16403765/</guid>
+                <link>https://www.rtve.es/play/audios/turbo-3/julien-baker-torres-dave-grohl-zach-bryan-wunderhorse-14-01-25/16407144/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16407144.mp3"/>
+                <guid>https://www.rtve.es/play/audios/turbo-3/julien-baker-torres-dave-grohl-zach-bryan-wunderhorse-14-01-25/16407144/</guid>
                 
             </item><item>
-                <title>Serialmente: Nicolás Maduro | El Carnicero de Miraflores</title>
-                <description>&lt;p&gt;&amp;iquest;Qu&amp;eacute; pasa entonces cuando un genuino est&amp;uacute;pido dirige las riendas de todo un pa&amp;iacute;s? &amp;iquest;Qu&amp;eacute; pasa cuando el exceso de maldad es proporcional a la ausencia del sentido com&amp;uacute;n? &amp;iquest;Qu&amp;eacute; pasa cuando toda la naci&amp;oacute;n est&amp;aacute; presa de los intereses particulares de un solo delf&amp;iacute;n pol&amp;iacute;tico? Hoy les voy a contar la historia de un supuesto presidente que no es m&amp;aacute;s que un dictador, y uno de los m&amp;aacute;s violentos, por...
-Feed: https://www.spreaker.com/show/6461256/episodes/feed</description>
+                <title>81. Arte y cine (directo en la Academia de Cine)</title>
+                <description>&lt;p&gt;El episodio en el que &lt;strong&gt;Juanra hace llamamientos y nos fijamos en las muchísimas referencias a la pintura en el cine de Pedro &lt;/strong&gt;&lt;strong&gt;Almodóvar&lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;Abrimos interrogantes...
+Feed: https://anchor.fm/s/1659e76c/podcast/rss</description>
                 
                 
-                <link>https://omny.fm/shows/serialmente/serialmente-nicol-s-maduro-el-carnicero-de-miraflo</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/cc8e0a84-3495-443a-8088-a99d01444c57/1aaa22dc-199e-4b1f-ac48-aac3014a6153/9cb18896-7af9-40d4-b85a-b24a00d2eb81/audio.mp3?utm_source=Podcast&amp;in_playlist=f71cdbdb-94c2-4d9c-91b3-aac3014c79b4"/>
-                <guid>https://omny.fm/shows/serialmente/serialmente-nicol-s-maduro-el-carnicero-de-miraflo</guid>
+                <link>https://podcasters.spotify.com/pod/show/arte-compacto/episodes/81--Arte-y-cine-directo-en-la-Academia-de-Cine-e2rn17r</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1659e76c/podcast/play/95175355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-1%2F83eef1fc-a46d-e99e-0020-0d7af6127570.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/arte-compacto/episodes/81--Arte-y-cine-directo-en-la-Academia-de-Cine-e2rn17r</guid>
                 
             </item>
         </channel>
