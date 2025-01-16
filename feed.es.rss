@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 15 Jan 2025 04:25:49 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 16 Jan 2025 04:25:36 +0200</lastBuildDate>
             <item>
-                <title>Turbo 3 - Julien Baker &amp; TORRES | Dave Grohl | Zach Bryan | Wunderhorse - 14/01/25</title>
-                <description>Julien Baker &amp; TORRES | Dave Grohl | Zach Bryan | Wunderhorse
-Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
+                <title>Episodio 130: Coplas y dramas, con @Elreta</title>
+                <description>Hola hola gente people, bienvenidas y bienhallados al Bar Bedel, vuestro Bar de confianza, vuestro Bar en formato podcast. Esta entrega que os servimos en bandeja para vuestras orejas es de supernicho, ya que nos adentramos hasta el fondo en el proceloso y dramático mundo de la copla española clásica, con un auténtico experto en la materia, José Luis Retamal, más conocido por ElReta, del podcast Travelcaster. Completo repaso a los clásicos del género...
+Feed: https://feeds.feedburner.com/BarBedel</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/turbo-3/julien-baker-torres-dave-grohl-zach-bryan-wunderhorse-14-01-25/16407144/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16407144.mp3"/>
-                <guid>https://www.rtve.es/play/audios/turbo-3/julien-baker-torres-dave-grohl-zach-bryan-wunderhorse-14-01-25/16407144/</guid>
+                <link>http://www.ivoox.com/episodio-130-coplas-dramas-aelreta-audios-mp3_rf_137664175_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/episodio-130-coplas-dramas-aelreta_mf_137664175_feed_1.mp3"/>
+                <guid>http://www.ivoox.com/episodio-130-coplas-dramas-aelreta-audios-mp3_rf_137664175_1.html</guid>
                 
             </item><item>
-                <title>81. Arte y cine (directo en la Academia de Cine)</title>
-                <description>&lt;p&gt;El episodio en el que &lt;strong&gt;Juanra hace llamamientos y nos fijamos en las muchísimas referencias a la pintura en el cine de Pedro &lt;/strong&gt;&lt;strong&gt;Almodóvar&lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;Abrimos interrogantes...
-Feed: https://anchor.fm/s/1659e76c/podcast/rss</description>
+                <title>Melodías pizarras - Hillbilly Heaven I - 11/01/25</title>
+                <description>Hillbilly Heaven I
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/arte-compacto/episodes/81--Arte-y-cine-directo-en-la-Academia-de-Cine-e2rn17r</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1659e76c/podcast/play/95175355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-1%2F83eef1fc-a46d-e99e-0020-0d7af6127570.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/arte-compacto/episodes/81--Arte-y-cine-directo-en-la-Academia-de-Cine-e2rn17r</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/hillbilly-heaven-11-01-25/16403150/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16403150.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/hillbilly-heaven-11-01-25/16403150/</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 15 Jan 2025 04:25:56 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 16 Jan 2025 04:25:44 +0200</lastBuildDate>
             <item>
-                <title>Reaching for the Sky: Materials in Extreme Environments</title>
-                <description>GRIT Talks
-Feed: https://podcast.uctv.tv/uctv_science.rss</description>
+                <title>Best of The News Quiz 2024</title>
+                <description>A satirical smorgasbord of the show’s best bits of the year.
+Feed: https://podcasts.files.bbci.co.uk/p02pc9pj.rss</description>
                 
                 
-                <link>https://www.uctv.tv/shows/40129</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.uctv.tv/mp3/40129.mp3"/>
-                <guid>https://www.uctv.tv/shows/40129</guid>
+                <link>http://www.bbc.co.uk/programmes/p0kbydsz</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kgn3ky.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0kbydsz</guid>
                 
             </item><item>
-                <title>Still Buffering: Arcane</title>
-                <description>Punch Lesbian! That&#39;s it! That&#39;s the show! 
-Feed: https://feeds.simplecast.com/n8ppsCKR</description>
+                <title>Thursday 16th January 2025. Israel Hamas ceasefire announced. Syria UN visit. Korea Yoon arrest. US TikTok ban. Brazil oranges fall...</title>
+                <description>World news in 7 minutes. Thursday 16th January 2025.
+Today: Israel Hamas ceasefire announced. Syria UN visit. South Korea Yoon arrest. US TikTok ban. Brazil oranges fall. Ukraine update. Italy reviews rules. DRC Chinese sentencing. Mozambique Chapo...
+Feed: https://www.spreaker.com/show/4907677/episodes/feed</description>
                 
                 
-                <link>https://stillbuffering.simplecast.com/episodes/still-buffering-arcane-DloaSh8R</link>
-                <enclosure type="audio/mpeg" length="1" url="https://afp-9384.calisto.simplecastaudio.com/f8049204-52f9-4a27-a2ab-fd9dc048c447/episodes/33a5752f-730c-4eb3-b99f-0a968b956c38/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=f8049204-52f9-4a27-a2ab-fd9dc048c447&amp;awEpisodeId=33a5752f-730c-4eb3-b99f-0a968b956c38&amp;feed=n8ppsCKR"/>
-                <guid>https://stillbuffering.simplecast.com/episodes/still-buffering-arcane-DloaSh8R</guid>
+                <link>https://www.spreaker.com/episode/thursday-16th-january-2025-israel-hamas-ceasefire-announced-syria-un-visit-korea-yoon-arrest-us-tiktok-ban-brazil-oranges-fall--63707026</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/op3.dev/e/api.spreaker.com/download/episode/63707026/16_01_25.mp3"/>
+                <guid>https://www.spreaker.com/episode/thursday-16th-january-2025-israel-hamas-ceasefire-announced-syria-un-visit-korea-yoon-arrest-us-tiktok-ban-brazil-oranges-fall--63707026</guid>
                 
             </item>
         </channel>
