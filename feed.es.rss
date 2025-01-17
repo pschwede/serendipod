@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 16 Jan 2025 04:25:36 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 17 Jan 2025 04:27:44 +0200</lastBuildDate>
             <item>
-                <title>Episodio 130: Coplas y dramas, con @Elreta</title>
-                <description>Hola hola gente people, bienvenidas y bienhallados al Bar Bedel, vuestro Bar de confianza, vuestro Bar en formato podcast. Esta entrega que os servimos en bandeja para vuestras orejas es de supernicho, ya que nos adentramos hasta el fondo en el proceloso y dramático mundo de la copla española clásica, con un auténtico experto en la materia, José Luis Retamal, más conocido por ElReta, del podcast Travelcaster. Completo repaso a los clásicos del género...
-Feed: https://feeds.feedburner.com/BarBedel</description>
+                <title>Welcome to Let’s Talk Spanish</title>
+                <description>Hola and welcome to Let’s Talk Spanish, the place to escape from mind-numbing grammar lessons and finally learn to speak conversational Spanish with confidence. I’m Shandon. I have 15 years of experience learning Spanish and have lived in three Spanish-speaking countries. Over the past six years, I’ve helped countless learners progress from beginner Spanish to conversational Spanish confidence. In each episode, I speak Spanish while exploring topics like travel, food and Hispan...
+Feed: https://feeds.buzzsprout.com/1753741.rss</description>
                 
                 
-                <link>http://www.ivoox.com/episodio-130-coplas-dramas-aelreta-audios-mp3_rf_137664175_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/episodio-130-coplas-dramas-aelreta_mf_137664175_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/episodio-130-coplas-dramas-aelreta-audios-mp3_rf_137664175_1.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1753741/episodes/16434094-welcome-to-let-s-talk-spanish.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Melodías pizarras - Hillbilly Heaven I - 11/01/25</title>
-                <description>Hillbilly Heaven I
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
+                <title>Frontera - 12/01/25</title>
+                <description>Frontera - 12/01/25
+Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/hillbilly-heaven-11-01-25/16403150/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16403150.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/hillbilly-heaven-11-01-25/16403150/</guid>
+                <link>https://www.rtve.es/play/audios/frontera/12-01-25/16402558/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16402558.mp3"/>
+                <guid>https://www.rtve.es/play/audios/frontera/12-01-25/16402558/</guid>
                 
             </item>
         </channel>
