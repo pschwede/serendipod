@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 19 Jan 2025 04:25:00 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 20 Jan 2025 04:26:41 +0200</lastBuildDate>
             <item>
-                <title>HORS-SÉRIE : Interview LIVE avec Philippine Delaire, comédienne #LesAudacieuses</title>
-                <description>&lt;p&gt;Le lieu où je me sens le plus à ma place.&lt;/p&gt;&lt;p&gt;Derrière mon stylo.&lt;/p&gt;&lt;p&gt;Ou mon micro.&lt;/p&gt;&lt;p&gt;Lorsque j&#39;ai la possibilité d&#39;animer un événement.&lt;/p&gt;&lt;p&gt;Et quand c&#39;est pour porter la voix de Philippine Delaire, humoriste et comédienne, dans un hôtel sublime et historique Le Boudoir des Muses devant 30 femmes, le plaisir est à son comble !&lt;/p&gt;&lt;p&gt;Je suis à chaque fois si heureuse de ces soirées Les Audacieuses...
-Feed: https://feeds.acast.com/public/shows/61969132f2a68400119b1827</description>
+                <title>Les Doigts de l’Homme + Flox dans la #SessionLive</title>
+                <description>
+Du nu reggae au manouche, en passant par le jazz, la #SessionLive reçoit 2 noms de la scène hexagonale.
+
+Feed: https://www.rfi.fr/fr/podcasts/musiques-monde/podcast</description>
                 
                 
-                <link>https://shows.acast.com/l-alea-par-laura-pouliquen/episodes/hors-serie-interview-live-avec-philippine-delaire-comedienne</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/61969132f2a68400119b1827/e/67476d78c4b78e9ebb2cdc71/media.mp3"/>
-                <guid>https://shows.acast.com/l-alea-par-laura-pouliquen/episodes/hors-serie-interview-live-avec-philippine-delaire-comedienne</guid>
+                <link>https://www.rfi.fr/fr/podcasts/musiques-du-monde/20250119-les-doigts-de-l-homme-flox-dans-la-sessionlive</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fmm.proxycast.org/m/media/280080219013.mp3?c=emission&amp;p=WB904-RFI-FR-20090930%7CMusiques%20du%20monde&amp;l3=WBMZ484764-RFI-FR-20250116%7CLes%20Doigts%20de%20l%E2%80%99Homme%20%2B%20Flox%20dans%20la%20%23SessionLive&amp;l4=podcast-rfi&amp;media_url=https%3A%2F%2Faod-rfi.akamaized.net%2Frfi%2Ffrancais%2Faudio%2Fmodules%2Factu%2F202501%2FMUSIQUES_DU_MONDE_19-01-25_SessionLive_Les_Doigts_de_l_Homme_Flox.mp3"/>
+                <guid>https://www.rfi.fr/fr/podcasts/musiques-du-monde/20250119-les-doigts-de-l-homme-flox-dans-la-sessionlive</guid>
                 
             </item><item>
-                <title>Elkin Polo El Show : 01/18/2025 13:00</title>
-                <description>709-328808
-Feed: http://podcast.cism893.ca/radioshows/709/feed_itunes.xml</description>
+                <title>CQEP - Entretien - Loïc Arbel (Champion de France Challenger Superbike 2024)</title>
+                <description>On retrouve Ophélie pour un entretien avec Loïc Arbel enregistré durant la manche du FSBK à Carole en amont de son titre de champion de France challenger superbike.
+Il revient sur sa découverte du sport moto, ses débuts en championnat d&#39;Espagne, son retour en France, ses blessures et ses objectifs.
+Il évoque également son entourage mais également la manière dont il a intégré le team tecmas en endurance puis en FSBK...
+Feed: https://cqeppod.lepodcast.fr/rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/328808.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/328808.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/328808.mp3</guid>
+                <link>https://cqeppod.lepodcast.fr/cqep-entretien-loic-arbel-champion-de-france-challenger-superbike-2024</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/cqeppod/cqep-entretien-loic-arbel-champion-de-france-challenger-superbike-2024/enclosure.134c32100f7cb6aca9bbf8fbcaa6fc6261f6eece3b6fce8a0bb6e08eb8ed6994.mp3?p=f"/>
+                <guid>https://cqeppod.lepodcast.fr/cqep-entretien-loic-arbel-champion-de-france-challenger-superbike-2024</guid>
                 
             </item>
         </channel>
