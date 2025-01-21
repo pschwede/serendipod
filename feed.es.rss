@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 20 Jan 2025 04:26:46 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 21 Jan 2025 04:26:10 +0200</lastBuildDate>
             <item>
-                <title>UCDM - Lección 19 con Claudio</title>
-                <description>
-Feed: https://www.spreaker.com/show/6357279/episodes/feed</description>
+                <title>A hombros de gigantes - &#34;Explore 2040&#34;: la  iniciativa europea para enviar astronautas a la Luna y Marte - 19/01/25</title>
+                <description>&#34;Explore 2040&#34;: la  iniciativa europea para enviar astronautas a la Luna y Marte
+Feed: http://www.rtve.es/api/programas/1873/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/ucdm-leccion-19-con-claudio--63752162</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/63752162/19.mp3"/>
-                <guid>https://www.spreaker.com/episode/ucdm-leccion-19-con-claudio--63752162</guid>
+                <link>https://www.rtve.es/play/audios/a-hombros-de-gigantes/hombros-gigantes-explore-2040-iniciativa-europea-para-enviar-astronautas-luna-marte-19-01-25/16409706/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16409706.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-hombros-de-gigantes/hombros-gigantes-explore-2040-iniciativa-europea-para-enviar-astronautas-luna-marte-19-01-25/16409706/</guid>
                 
             </item><item>
-                <title>Star 80 del 18 de enero de 2025 (Homenaje a Carlo Finazzi)</title>
-                <description>Programa especial homenaje p&amp;oacute;stumo a Carlo Finazzi (Brand Image) con la participaci&amp;oacute;n de Alan Cook, Lautaro de Retro Talking Mix, I Ragazzi Simpaty y muchos m&amp;aacute;s.
-Entrevista super interesante a Lautaro del canal de Youtube Retro Talking Mix.
-Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
+                <title>Como lo oyes - Canciones para que nos gusten los lunes, Vientos y Metales - 20/01/25</title>
+                <description>Canciones para que nos gusten los lunes, Vientos y Metales
+Feed: http://api.rtve.es/api/programas/22290/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/star-80-del-18-enero-2025-audios-mp3_rf_137894815_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-18-enero-2025_mf_137894815_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/star-80-del-18-enero-2025-audios-mp3_rf_137894815_1.html</guid>
+                <link>https://www.rtve.es/play/audios/como-lo-oyes/canciones-para-gusten-lunes-vientos-metales-20-01-25/16414533/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16414533.mp3"/>
+                <guid>https://www.rtve.es/play/audios/como-lo-oyes/canciones-para-gusten-lunes-vientos-metales-20-01-25/16414533/</guid>
                 
             </item>
         </channel>
