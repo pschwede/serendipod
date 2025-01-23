@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 21 Jan 2025 04:26:26 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 23 Jan 2025 04:26:32 +0200</lastBuildDate>
             <item>
-                <title>Superfly Album der Woche | Vaudou Game - &#34;Fintou&#34;</title>
-                <description>Seit einigen Jahren fegt eine Welle westafrikanischer Musik durch die Plattenregale. Sounds aus Nigeria, Mali oder dem Senegal gehen um die Welt. Musik aus Togo war dabei immer unterrepräsentiert. Das Pariser Label Hot Casa Records hat das in den letzten Jahren geändert. Nun erscheint das bereits 5te Album des Musikers Peter Solo und seiner Band Vaudou Game. Afrofunk für eine schönere Welt. (superfly.fm)
-Feed: https://cdn.stationista.com/feeds/superfly-selected</description>
+                <title>In Fallujah, We Destroyed Parts of Ourselves</title>
+                <description>Twenty years after the Battle of Fallujah, Marines still wrestle with what they were asked to do in Iraq.
+Feed: https://feeds.revealradio.org/revealpodcast</description>
                 
                 
-                <link>https://superfly.fm/music/album-der-woche/item/1981-fintou</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.stationista.com/7c/5cda9b8e5eeb9fcd62ee447c/audio/6c/678e3fb2b9f47ea6f402096c/7edf308c923635ec2473451766ab3b40.mp3"/>
-                <guid>https://superfly.fm/music/album-der-woche/item/1981-fintou</guid>
+                <link>https://revealnews.org/podcast/in-fallujah-we-destroyed-parts-of-ourselves/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/media.blubrry.com/reveal/dovetail.prxu.org/_/149/ac980a25-6af1-49cf-8aa5-2bce7bb926e4/1103_Reveal_PC.mp3"/>
+                <guid>https://revealnews.org/podcast/in-fallujah-we-destroyed-parts-of-ourselves/</guid>
                 
             </item><item>
-                <title>Episode 209 - Chimaeras</title>
-                <description>You might know them as ghost sharks, rat fish, or spook fish. Chimaeras are close cousins of sharks and rays, equipped with distinctive and unusual features in their fins, teeth, and reproductive structures. In today’s oceans, chimaeras are rare and easy to miss, but their extended family includes some of the most diverse and iconic fish of the Paleozoic seas...
-Feed: https://feed.podbean.com/commondescentpodcast/feed.xml</description>
+                <title>The economics of cybersecurity and trends</title>
+                <description>&lt;p&gt;In this episode, host Ashish Rajan spoke to Mike Privette, founder of Return on Security, to explore the landscape of cybersecurity as we look toward 2025. Mike shared his unique insights on the economics of cybersecurity, breaking down industry trends, and discussing how AI is revolutionizing areas like governance, risk, compliance (GRC), and data loss prevention (DLP)...
+Feed: https://anchor.fm/s/10fb9928/podcast/rss</description>
                 
                 
-                <link>https://commondescentpodcast.podbean.com/e/episode-209-chimaeras/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/mri87cpdnyrnrp7y/Episode_209_Chimaeras.mp3"/>
-                <guid>https://commondescentpodcast.podbean.com/e/episode-209-chimaeras/</guid>
+                <link>https://podcasters.spotify.com/pod/show/cloudsecuritypodcast/episodes/The-economics-of-cybersecurity-and-trends-e2tpq74</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/10fb9928/podcast/play/97363620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-21%2F393462745-44100-2-8cd7554011755.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/cloudsecuritypodcast/episodes/The-economics-of-cybersecurity-and-trends-e2tpq74</guid>
                 
             </item>
         </channel>
