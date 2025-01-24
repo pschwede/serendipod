@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 23 Jan 2025 04:26:07 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 24 Jan 2025 04:26:06 +0200</lastBuildDate>
             <item>
-                <title>Geschichte erzählen – Regisseur Andreas Dresen im Gespräch</title>
-                <description>Sein jüngster Film &#34;In Liebe, Eure Hilde&#34; handelt von einer mutigen Frau - von Hilde Coppi. Sie schloss sich dem Widerstand gegen den Nationalsozialismus an und bezahlte dafür mit dem Leben. Wie kann man ihre Geschichte erzählen?
-Feed: https://feeds.br.de/nachtstudio/feed.xml</description>
+                <title>Prüft alles</title>
+                <description>Chapel Predigten, Sonderthemen
+Feed: https://www.citychapel.de/feed/?post_type=sermons</description>
                 
                 
-                <link>https://www.br.de/mediathek/podcast/nachtstudio/geschichte-erzaehlen-regisseur-andreas-dresen-im-gespraech/2102225</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2102225/c/feed/geschichte-erzaehlen-regisseur-andreas-dresen-im-gespraech.mp3"/>
-                <guid>https://www.br.de/mediathek/podcast/nachtstudio/geschichte-erzaehlen-regisseur-andreas-dresen-im-gespraech/2102225</guid>
+                <link>https://www.citychapel.de/predigt/prueft-alles/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.citychapel.de/predigten-andere/1Thessalonicher/2025-01-19_Sonstige_SoMo_Heiko-Mayer_1Thess5v16-22.mp3"/>
+                <guid>https://www.citychapel.de/predigt/prueft-alles/</guid>
                 
             </item><item>
-                <title>#107: Skeleton Crew - Folgen 7 und 8</title>
-                <description>Das Finale im Abenteuer „Erwachsen werden“ wird persönlich
-Feed: https://bucketheads.de/feed/mp3/</description>
+                <title>Vom Planungsfrust zur Planungslust – 3 Impulse für deinen Erfolgsfahrplan 2025</title>
+                <description>301 Bist du planlos ins Jahr gestartet, weil dich Planung nervt oder stresst? Weil die Ergebnisse der letzten Jahre trotz Planung nicht deinen Erwartungen entsprachen oder weil du dich ganz einfach nicht in ein enges Planungskorsett zwängen...
+Feed: https://martinafuchs.libsyn.com/rss</description>
                 
                 
-                <link>https://bucketheads.de/2025/01/16/107-skeleton-crew-7-8/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://bucketheads.de/podlove/file/342/s/feed/c/mp3/Bucketheads-107.mp3"/>
-                <guid>https://bucketheads.de/2025/01/16/107-skeleton-crew-7-8/</guid>
+                <link>https://martinafuchs.libsyn.com/vom-planungsfrust-zur-planungslust-3-impulse-fr-deinen-erfolgsfahrplan-2025</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/martinafuchs/301_STATUS_AUSGEBUCHT_Martina_Fuchs_-_Vom_Planungsfrust_zur_Planungslust__3_Impulse_fuer_deinen_Erfolgsfahrplan_2025_mixdown.mp3?dest-id=721093"/>
+                <guid>https://martinafuchs.libsyn.com/vom-planungsfrust-zur-planungslust-3-impulse-fr-deinen-erfolgsfahrplan-2025</guid>
                 
             </item>
         </channel>
