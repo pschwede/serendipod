@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Jan 2025 04:26:09 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 25 Jan 2025 04:26:25 +0200</lastBuildDate>
             <item>
-                <title>Les 5 choses que l&#39;ont doit à Newton</title>
-                <description>&lt;p&gt;Maxiscience revient, trois fois par semaine.&lt;/p&gt;&lt;p&gt; &lt;br /&gt;Hébergé par Audion. Visitez https://www.audion.fm/fr/privacy-policy pour plus d’informations.&lt;/p&gt;
-Feed: https://feeds.360.audion.fm/8Kimy_YgBmF8xaOaf3I6z</description>
+                <title>Rythmologie : 01/23/2025 20:00</title>
+                <description>686-329152
+Feed: http://podcast.cism893.ca/radioshows/686/feed_itunes.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/6940eb3d-d7e3-4691-9b2c-4c48f9ce3666.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/329152.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/329152.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/329152.mp3</guid>
                 
             </item><item>
-                <title>#514 - Spacium Live - Nouvelle vision des espaces de travail avec Vincent Parissis &amp; Pierre-Yves Cuvelier (FR)</title>
-                <description>hrmeetup. © is a podcast produced and realized by the non-profit organization &#34;The Podcast Factory Org&#34; which addresses human resources and passions in the workplace.
-The podcast offers episodes in 3 languages (FR-NL-ENG), although...
-Feed: https://www.vodio.fr/rssmedias.php?valeur=308</description>
+                <title>S9 Épisode 8:  Brigitte Legault directrice générale de la CAQ</title>
+                <description>&lt;p&gt;Brigitte Legault à un parcours professionnel épatant. Elle a accumulé de l&#39;expérience dans des sphères politiques importantes. Elle nous partage son parcours, mais aussi la dynamique de la gestion d&#39;un parti politique.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Invitée: Brigitte Legault&lt;/p&gt;&lt;p&gt;Animation Benoit Rochefort&lt;/p&gt;
+Feed: https://baladoquebec.ca/benlala/rss</description>
                 
                 
-                <link>https://www.vodio.fr/vodiotheque/i/22697/514-spacium-live-nouvelle-vision-des-espaces-de-travail-avec-vincent-parissis-pierre-yves-cuvelier-fr/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=3e582028-c5e5-5c0c-bd38-6f127df1399e/dts.podtrac.com/redirect.mp3/www.vodio.fr/emissions/_thepodcastfactory30Z5/spacium-live-0.mp3"/>
-                <guid>https://www.vodio.fr/vodiotheque/i/22697/514-spacium-live-nouvelle-vision-des-espaces-de-travail-avec-vincent-parissis-pierre-yves-cuvelier-fr/</guid>
+                <link>https://baladoquebec.ca/benlala/s9-episode-8-brigitte-legault-directrice-generale-de-la-caq</link>
+                <enclosure type="audio/mpeg" length="1" url="https://baladoquebec.ca/media/benlala/s9-episode-8-brigitte-legault-directrice-generale-de-la-caq.mp3"/>
+                <guid>https://baladoquebec.ca/benlala/s9-episode-8-brigitte-legault-directrice-generale-de-la-caq</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Jan 2025 04:26:06 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 25 Jan 2025 04:26:21 +0200</lastBuildDate>
             <item>
-                <title>Prüft alles</title>
-                <description>Chapel Predigten, Sonderthemen
-Feed: https://www.citychapel.de/feed/?post_type=sermons</description>
+                <title>LEP#295 - Ein Gespräch mit Elena Roch</title>
+                <description>Elena Roch: Langstreckenradfahrerin, Siegerin von Ultracycling-Rennen, teilt ihre Erfahrungen.
+Feed: https://laufendentdecken-podcast.at/feed/podcast/</description>
                 
                 
-                <link>https://www.citychapel.de/predigt/prueft-alles/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.citychapel.de/predigten-andere/1Thessalonicher/2025-01-19_Sonstige_SoMo_Heiko-Mayer_1Thess5v16-22.mp3"/>
-                <guid>https://www.citychapel.de/predigt/prueft-alles/</guid>
+                <link>https://laufendentdecken-podcast.at/295/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://laufendentdecken-podcast.at/podlove/file/1444/s/feed/c/podcast/295_elenaroch.m4a"/>
+                <guid>https://laufendentdecken-podcast.at/295/</guid>
                 
             </item><item>
-                <title>Vom Planungsfrust zur Planungslust – 3 Impulse für deinen Erfolgsfahrplan 2025</title>
-                <description>301 Bist du planlos ins Jahr gestartet, weil dich Planung nervt oder stresst? Weil die Ergebnisse der letzten Jahre trotz Planung nicht deinen Erwartungen entsprachen oder weil du dich ganz einfach nicht in ein enges Planungskorsett zwängen...
-Feed: https://martinafuchs.libsyn.com/rss</description>
+                <title>High Noon feat. Del Fume feat. Carol Schuler (24.01.24)</title>
+                <description>Winterthur anno 1999: HIM spielen an den Musikfes…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:1998986/sounds.rss</description>
                 
                 
-                <link>https://martinafuchs.libsyn.com/vom-planungsfrust-zur-planungslust-3-impulse-fr-deinen-erfolgsfahrplan-2025</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/martinafuchs/301_STATUS_AUSGEBUCHT_Martina_Fuchs_-_Vom_Planungsfrust_zur_Planungslust__3_Impulse_fuer_deinen_Erfolgsfahrplan_2025_mixdown.mp3?dest-id=721093"/>
-                <guid>https://martinafuchs.libsyn.com/vom-planungsfrust-zur-planungslust-3-impulse-fr-deinen-erfolgsfahrplan-2025</guid>
+                <link>https://soundcloud.com/stadtfilter/high-noon-feat-del-fume-feat-carol-schuler-240124</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2017297221-stadtfilter-high-noon-feat-del-fume-feat-carol-schuler-240124.mp3"/>
+                <guid>https://soundcloud.com/stadtfilter/high-noon-feat-del-fume-feat-carol-schuler-240124</guid>
                 
             </item>
         </channel>
