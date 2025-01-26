@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 25 Jan 2025 04:26:25 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 26 Jan 2025 04:24:51 +0200</lastBuildDate>
             <item>
-                <title>Rythmologie : 01/23/2025 20:00</title>
-                <description>686-329152
-Feed: http://podcast.cism893.ca/radioshows/686/feed_itunes.xml</description>
+                <title>Projet Orloff [Saison 2] 5/8 : Vega</title>
+                <description>Projet Orloff [Saison 2] 5/8 : Vega
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11495.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/329152.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/329152.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/329152.mp3</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/le-feuilleton/vega-9857802</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a3d1f2e1-22e2-46e4-a541-f8d2b3eee6b2/11495-20.01.2025-ITEMA_23967098-2024C3480E0035-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/le-feuilleton/vega-9857802</guid>
                 
             </item><item>
-                <title>S9 Épisode 8:  Brigitte Legault directrice générale de la CAQ</title>
-                <description>&lt;p&gt;Brigitte Legault à un parcours professionnel épatant. Elle a accumulé de l&#39;expérience dans des sphères politiques importantes. Elle nous partage son parcours, mais aussi la dynamique de la gestion d&#39;un parti politique.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Invitée: Brigitte Legault&lt;/p&gt;&lt;p&gt;Animation Benoit Rochefort&lt;/p&gt;
-Feed: https://baladoquebec.ca/benlala/rss</description>
+                <title>Métissages</title>
+                <description>
+Feed: https://www.rts.ch/couleur3/programmes/metissages/podcast/?flux=rss</description>
                 
                 
-                <link>https://baladoquebec.ca/benlala/s9-episode-8-brigitte-legault-directrice-generale-de-la-caq</link>
-                <enclosure type="audio/mpeg" length="1" url="https://baladoquebec.ca/media/benlala/s9-episode-8-brigitte-legault-directrice-generale-de-la-caq.mp3"/>
-                <guid>https://baladoquebec.ca/benlala/s9-episode-8-brigitte-legault-directrice-generale-de-la-caq</guid>
+                <link>https://www.rts.ch/audio-podcast/2025/audio/metissages-28766897.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/15417565/353b9642-7fd6-3385-9ce6-d89752d9cfd5.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2025/audio/metissages-28766897.html</guid>
                 
             </item>
         </channel>
