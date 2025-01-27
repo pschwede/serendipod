@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 26 Jan 2025 04:24:51 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 27 Jan 2025 04:27:42 +0200</lastBuildDate>
             <item>
+                <title>En selle : Screamin’ Jay Hawkins, Hugh Masekela, Cowboys and Frenchmen, Pepper Adams and more</title>
+                <description>En selle : Screamin’ Jay Hawkins, Hugh Masekela, Cowboys and Frenchmen, Pepper Adams and more
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14613.xml</description>
+                
+                
+                <link>https://www.radiofrance.fr/francemusique/podcasts/banzzai/en-selle-screamin-jay-hawkins-hugh-masekela-cowboys-and-frenchmen-pepper-adams-and-more-4653532</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a8750e0d-b2f6-49dc-a00c-3479001e2b4a/14613-24.01.2025-ITEMA_24006762-2025M23834E0006-NET_MFM_A4938DFB-C013-4292-9D88-72FD904045EB-21.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/banzzai/en-selle-screamin-jay-hawkins-hugh-masekela-cowboys-and-frenchmen-pepper-adams-and-more-4653532</guid>
+                
+            </item><item>
                 <title>Projet Orloff [Saison 2] 5/8 : Vega</title>
                 <description>Projet Orloff [Saison 2] 5/8 : Vega
 Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11495.xml</description>
@@ -19,16 +29,6 @@ Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400
                 <link>https://www.radiofrance.fr/franceculture/podcasts/le-feuilleton/vega-9857802</link>
                 <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a3d1f2e1-22e2-46e4-a541-f8d2b3eee6b2/11495-20.01.2025-ITEMA_23967098-2024C3480E0035-21.mp3"/>
                 <guid>https://www.radiofrance.fr/franceculture/podcasts/le-feuilleton/vega-9857802</guid>
-                
-            </item><item>
-                <title>Métissages</title>
-                <description>
-Feed: https://www.rts.ch/couleur3/programmes/metissages/podcast/?flux=rss</description>
-                
-                
-                <link>https://www.rts.ch/audio-podcast/2025/audio/metissages-28766897.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/15417565/353b9642-7fd6-3385-9ce6-d89752d9cfd5.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2025/audio/metissages-28766897.html</guid>
                 
             </item>
         </channel>

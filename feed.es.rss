@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 26 Jan 2025 04:24:55 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 27 Jan 2025 04:27:47 +0200</lastBuildDate>
             <item>
-                <title>183: Carla fue a China</title>
-                <description>¡Carla fue a China! Y en este episodio nos cuenta acerca de los lugares que visitó, qué fue lo que más disfrutó y qué la hizo llorar de emoción.
-Feed: https://www.easyspanish.fm/rss</description>
+                <title>Como sobrevivir a tu propio asesinato</title>
+                <description>Finalmente, pudimos grabar este episodio después de unos inconvenientes. Y contamos los que ha sucedido y actualizamos nuestras lecturas y los retos lectores para este año.
+Feed: https://feeds.simplecast.com/Ls3L1Ojk</description>
                 
                 
-                <link>https://www.easyspanish.fm/183</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/b61e466d-21b7-4911-9f60-f0f02b9e555f.mp3"/>
-                <guid>https://www.easyspanish.fm/183</guid>
+                <link>https://mentesliterales.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/0cc4690d-0899-463d-9bd6-b02c19a11833/episodes/33e51cd2-501c-49db-9ce8-d124f4ef0398/audio/e857076b-e990-4996-b963-ac0b390f469c/default_tc.mp3?aid=rss_feed&amp;feed=Ls3L1Ojk"/>
+                <guid>https://mentesliterales.com</guid>
                 
             </item><item>
-                <title>Viaje Hungría y Serbia 2024</title>
-                <description>¡Bienvenidos al primer episodio del año 2025! En esta ocasión, nos embarcamos en un fascinante viaje por Hungría y Serbia, dos países llenos de historia, cultura y belleza. Por invitación de la Embajada de Colombia, en septiembre de 2024 tuvimos...
-Feed: https://dianauribefm.libsyn.com/rss</description>
+                <title>Turbo 3 - The Velveteers | PELIGRO! | Arizona Baby - 23/01/25</title>
+                <description>The Velveteers | PELIGRO! | Arizona Baby
+Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
                 
                 
-                <link>https://sites.libsyn.com/136379/viaje-hungra-y-serbia-2024</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/dianauribefm/Viaje_Hungra_y_Serbia_2024_.mp3?dest-id=844493"/>
-                <guid>https://sites.libsyn.com/136379/viaje-hungra-y-serbia-2024</guid>
+                <link>https://www.rtve.es/play/audios/turbo-3/velveteers-peligro-arizona-baby-23-01-25/16419863/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16419863.mp3"/>
+                <guid>https://www.rtve.es/play/audios/turbo-3/velveteers-peligro-arizona-baby-23-01-25/16419863/</guid>
                 
             </item>
         </channel>
