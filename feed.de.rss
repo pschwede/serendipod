@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 27 Jan 2025 04:27:36 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 Jan 2025 04:26:13 +0200</lastBuildDate>
             <item>
-                <title>Der große Postskandal</title>
-                <description>Es ist einer der größten Justizskandale von Großbrittanien. Die Protagonisten: Ignoranz und ein unfehlbares Softwaresystem.
-Feed: https://digitaleanomalien.de/feed/m4a/</description>
+                <title>Regelungen zur Beschäftigungssicherung in IT-BVen - Bieten sie einen Mehrwert?</title>
+                <description>In nicht wenigen Betriebsvereinbarungen zu IT-Themen sind Regeln zur Beschäftigungssicherung enthalten - macht das Sinn?
+Feed: https://letscast.fm/podcasts/betriebsrat-podcast-1aeb11e1/feed</description>
                 
                 
-                <link>https://digitaleanomalien.de/96-der-grosse-postskandal/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://digitaleanomalien.de/podlove/file/515/s/feed/c/m4a/DA096.m4a"/>
-                <guid>https://digitaleanomalien.de/96-der-grosse-postskandal/</guid>
+                <link>https://betriebsrat-kanzlei.de/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/1d4600d0/episode/946748e2.mp3?t=1737790108"/>
+                <guid>https://betriebsrat-kanzlei.de/</guid>
                 
             </item><item>
-                <title>Interview mit Sandra Braun, Inhaberin des Landgasthof Krug – einem der 100 besten Heimatbetriebe!</title>
-                <description>Inmitten malerischer Wiesen und Wälder, nur einen Steinwurf von Nürnberg entfernt, erzählt uns Sandra Braun, was den Landgasthof Krug so besonders macht. Von der herzlichen fränkischen Gastfreundschaft über die behagliche Atmosphäre bis hin zu den regionalen Spezialitäten aus eigener artgerechter Haltung und Metzgerei – hier wird Tradition großgeschrieben...
-Feed: https://feeds.buzzsprout.com/1083329.rss</description>
+                <title>[Podcast] &#34;Und dann weiß jeder, was ihr getan habt&#34; - Ein tiefer Tauchgang in Christian Linkers Thriller</title>
+                <description>In dieser Episode bespreche ich das Buch &#34;Und dann weiß jeder, was ihr getan habt&#34; von Christian Linker. Der Roman beginnt mit der brisanten Situation von Muriel, die eine grausame Theorie über das Verschwinden ihrer besten Freundin Precious hat. Während Muriel versucht, die Wahrheit herauszufinden, lädt sie ihre Mitschüler zu sich nach Hause ein, was eine Kettenreaktion von schockierenden Enthüllungen und Geheimnissen in Gang setzt...
+Feed: https://literaturlounge.eu/feed/mp3/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1083329/episodes/16481924-interview-mit-sandra-braun-inhaberin-des-landgasthof-krug-einem-der-100-besten-heimatbetriebe.mp3"/>
-                <guid></guid>
+                <link>https://literaturlounge.eu/2025/01/podcast-und-dann-weiss-jeder-was-ihr-getan-habt-ein-tiefer-tauchgang-in-christian-linkers-thriller/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://literaturlounge.eu/podlove/file/1900/s/feed/c/mp3/Weissjeder.mp3"/>
+                <guid>https://literaturlounge.eu/2025/01/podcast-und-dann-weiss-jeder-was-ihr-getan-habt-ein-tiefer-tauchgang-in-christian-linkers-thriller/</guid>
                 
             </item>
         </channel>

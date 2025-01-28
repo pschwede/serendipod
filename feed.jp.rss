@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 27 Jan 2025 04:28:02 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 Jan 2025 04:26:30 +0200</lastBuildDate>
             <item>
-                <title>It Only Happens With You</title>
-                <description>Performed by Pat McCurdy and the Men About Town. Recorded at ... unknown.
-Feed: https://patmccurdy.com/sotw.xml</description>
+                <title>AI in 2025 – A global perspective, with Kai-Fu Lee</title>
+                <description>Kai-Fu Lee joins me to discuss AI in 2025. Kai-Fu is a storied AI researcher, investor, inventor and entrepreneur based in Taiwan. As one of the leading AI experts based in Asia, I wanted to get his take on this particular market.
+Feed: https://feeds.simplecast.com/e_GRxR9a</description>
                 
                 
-                <link>https://patmccurdy.com/audio/Pat_McCurdy_and_the_Men_About_Town_-_It_Only_Happens_With_You.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://patmccurdy.com/audio/Pat_McCurdy_and_the_Men_About_Town_-_It_Only_Happens_With_You.mp3"/>
-                <guid>https://patmccurdy.com/audio/Pat_McCurdy_and_the_Men_About_Town_-_It_Only_Happens_With_You.mp3</guid>
+                <link>https://hbr.org/podcasts/exponential-view</link>
+                <enclosure type="audio/mpeg" length="1" url="https://afp-444457-injected.calisto.simplecastaudio.com/ea6da43b-cf32-4bb2-a71f-d5ad709d858f/episodes/6854dfba-b92c-46c0-bcf0-e9a76b3ab05c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ea6da43b-cf32-4bb2-a71f-d5ad709d858f&amp;awEpisodeId=6854dfba-b92c-46c0-bcf0-e9a76b3ab05c&amp;feed=e_GRxR9a"/>
+                <guid>https://hbr.org/podcasts/exponential-view</guid>
                 
             </item><item>
-                <title>Legendary uk radio broadcaster Andy Peebles shared stories about the evolution of radio in the UK</title>
-                <description>Former BBC broadcaster Andy Peebles shares stories from his youth growing up listening to pirate radio in the UK and the path it took him to into broadcasting himself. 
-Feed: https://feeds.megaphone.fm/momentsthatrock</description>
+                <title>Educational AI Hub Breakdown: finding the best</title>
+                <description>&lt;strong&gt;&lt;strong style=&#34;background-color: transparent;color: rgb(0, 0, 0)&#34;&gt;Edtech Throwdown&lt;/strong&gt;&lt;strong style=&#34;background-color: transparent;color: rgb(0, 0, 0)&#34;&gt;Episode 181: Educational AI Hub Breakdown&lt;/strong&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Welcome to the EdTech Throwdown.&amp;nbsp; This is Episode 181 called, “Educational AI Hub Breakdown”&amp;nbsp; In this episode, we’ll compare and analyze the mega-AI hubs that are competing for every teacher&#39;s attention...
+Feed: https://feeds.captivate.fm/edtechthrowdown/</description>
                 
                 
-                <link>https://www.pantheonpodcasts.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/PAN1407444004.mp3?updated=1737658076"/>
-                <guid>https://www.pantheonpodcasts.com</guid>
+                <link>https://edtechthrowdown.wpcomstaging.com/podcast/educational-ai-hub-breakdown-finding-the-best</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/94209eab-e900-4aa1-8d73-1501fe52b577/Ep181-Educational-AI-Hub-Breakdown.mp3"/>
+                <guid>https://edtechthrowdown.wpcomstaging.com/podcast/educational-ai-hub-breakdown-finding-the-best</guid>
                 
             </item>
         </channel>
