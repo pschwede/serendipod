@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 28 Jan 2025 04:26:13 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 29 Jan 2025 04:25:37 +0200</lastBuildDate>
             <item>
-                <title>Regelungen zur Beschäftigungssicherung in IT-BVen - Bieten sie einen Mehrwert?</title>
-                <description>In nicht wenigen Betriebsvereinbarungen zu IT-Themen sind Regeln zur Beschäftigungssicherung enthalten - macht das Sinn?
-Feed: https://letscast.fm/podcasts/betriebsrat-podcast-1aeb11e1/feed</description>
+                <title>19.1.2025 — „Gottes Bauplan für sein Haus“</title>
+                <description>  Das Predigtthema unseres Pastors Harald Kufner: „Gottes Bauplan für sein Haus“   Anmerkung: Die Audioversion enthält aus Copyrightgründen nur einen Teil des Gottesdienstes
+Feed: https://www.efg-badhomburg.de/feed/?post_type=wpv_sermon</description>
                 
                 
-                <link>https://betriebsrat-kanzlei.de/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/1d4600d0/episode/946748e2.mp3?t=1737790108"/>
-                <guid>https://betriebsrat-kanzlei.de/</guid>
+                <link>https://www.efg-badhomburg.de/sermon/19-1-2025-gottes-bauplan-fuer-sein-haus/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.efg-badhomburg.de/wp-content/uploads/2025/01/EFG-HG-Predigt-19Jan2025.mp3"/>
+                <guid>https://www.efg-badhomburg.de/sermon/19-1-2025-gottes-bauplan-fuer-sein-haus/</guid>
                 
             </item><item>
-                <title>[Podcast] &#34;Und dann weiß jeder, was ihr getan habt&#34; - Ein tiefer Tauchgang in Christian Linkers Thriller</title>
-                <description>In dieser Episode bespreche ich das Buch &#34;Und dann weiß jeder, was ihr getan habt&#34; von Christian Linker. Der Roman beginnt mit der brisanten Situation von Muriel, die eine grausame Theorie über das Verschwinden ihrer besten Freundin Precious hat. Während Muriel versucht, die Wahrheit herauszufinden, lädt sie ihre Mitschüler zu sich nach Hause ein, was eine Kettenreaktion von schockierenden Enthüllungen und Geheimnissen in Gang setzt...
-Feed: https://literaturlounge.eu/feed/mp3/</description>
+                <title>Episode 90</title>
+                <description>Jahresabschluss mit Höhen und Tiefen des letzten und kommenden Jahres.
+Feed: https://iss-nix.de/feed/mp3/</description>
                 
                 
-                <link>https://literaturlounge.eu/2025/01/podcast-und-dann-weiss-jeder-was-ihr-getan-habt-ein-tiefer-tauchgang-in-christian-linkers-thriller/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://literaturlounge.eu/podlove/file/1900/s/feed/c/mp3/Weissjeder.mp3"/>
-                <guid>https://literaturlounge.eu/2025/01/podcast-und-dann-weiss-jeder-was-ihr-getan-habt-ein-tiefer-tauchgang-in-christian-linkers-thriller/</guid>
+                <link>https://iss-nix.de/podcast/episode-90/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://iss-nix.de/podlove/file/540/s/feed/c/mp3/episode-90.mp3"/>
+                <guid>https://iss-nix.de/podcast/episode-90/</guid>
                 
             </item>
         </channel>
