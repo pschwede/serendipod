@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 29 Jan 2025 04:25:50 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 30 Jan 2025 04:26:05 +0200</lastBuildDate>
             <item>
-                <title>Let Me Tell You a Story Podcast #167 with Steve and Becky Lyles</title>
-                <description>&lt;p&gt;&lt;strong&gt;Life Is Precious&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This podcast features two special ladies, both named Cathy, who graciously share their pregnancy trauma/s with us. Through ignorance and pain, they sought solutions to unwanted pregnancies that they both now regret. Yet, they&#39;ve experienced God&#39;s forgiveness and emotional healing and want to share the peace and joy they&#39;ve found with others who suffer the same regrets.&lt;/p&gt;
-&lt;p&gt;(Podcast sound effects source: ⁠⁠http://www.freesfx.co.uk⁠⁠)&lt;/p&gt;
-
-Feed: https://anchor.fm/s/d9dcf490/podcast/rss</description>
+                <title>It Only Happens With You</title>
+                <description>Performed by Pat McCurdy and the Men About Town. Recorded at ... unknown.
+Feed: https://patmccurdy.com/sotw.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/becky-lyles/episodes/Let-Me-Tell-You-a-Story-Podcast-167-with-Steve-and-Becky-Lyles-e2tedlt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/d9dcf490/podcast/play/96990333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-13%2Fcdcfe2f5-96c9-4366-ae87-6eb98131bdd8.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/becky-lyles/episodes/Let-Me-Tell-You-a-Story-Podcast-167-with-Steve-and-Becky-Lyles-e2tedlt</guid>
+                <link>https://patmccurdy.com/audio/Pat_McCurdy_and_the_Men_About_Town_-_It_Only_Happens_With_You.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://patmccurdy.com/audio/Pat_McCurdy_and_the_Men_About_Town_-_It_Only_Happens_With_You.mp3"/>
+                <guid>https://patmccurdy.com/audio/Pat_McCurdy_and_the_Men_About_Town_-_It_Only_Happens_With_You.mp3</guid>
                 
             </item><item>
-                <title>Immortal C64 - Episode 111</title>
-                <description>Merry Xmas 2024! //EMULATED//.
-Feed: https://feeds.feedburner.com/ic64</description>
+                <title>A VerySpatial Podcast - Episode 753</title>
+                <description>News:   ( site)     Topic:  This week we talk about how this year&#39;s CES coverage prompted conversations centered around AR/VR/xR and how the broader wearables market will like impact the utility and adoption for these visual hardware.  Web...
+Feed: https://avsp.libsyn.com/rss</description>
                 
                 
-                <link>http://www.akumadesigns.com/ic64/show111.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.akumadesigns.com/ic64/show111.mp3"/>
-                <guid>http://www.akumadesigns.com/ic64/show111.mp3</guid>
+                <link>https://avsp.libsyn.com/a-veryspatial-podcast-episode-753</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/avsp/AVSP_Episode753.mp3?dest-id=13060"/>
+                <guid>https://avsp.libsyn.com/a-veryspatial-podcast-episode-753</guid>
                 
             </item>
         </channel>

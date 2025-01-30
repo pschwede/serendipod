@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 29 Jan 2025 04:25:40 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 30 Jan 2025 04:25:50 +0200</lastBuildDate>
             <item>
-                <title>Le billet sciences du mardi 28 janvier 2025</title>
-                <description>durée : 00:02:03 - Le billet sciences 
+                <title>Les Affaires Brassicoles #386 | Memento! - Brasserie Artisanale</title>
+                <description>&lt;p&gt;&lt;strong&gt;Propulsé x &lt;/strong&gt;Can Management&lt;strong&gt; et &lt;/strong&gt;Keg Management&lt;/p&gt;
+&lt;p&gt;Au cœur du quartier Saint-Henri de Montréal, à quelques pas du métro Atwater, se trouve Memento! Brasserie Artisanale. Lancé en pleine pandémie aurait pu sembler une folie, mais pour son co-fondateur, Alexander Karpov, c&amp;#39;était une question de saisir l&amp;#39;opportunité et de créer quelque chose de significatif...
+Feed: https://anchor.fm/s/463153a8/podcast/rss</description>
+                
+                
+                <link>https://podcasters.spotify.com/pod/show/lesaffairesbrassicoles/episodes/Les-Affaires-Brassicoles-386--Memento----Brasserie-Artisanale-e2titmn</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/463153a8/podcast/play/97137815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-16%2F1f25a3e9-aaab-61c0-c2f0-c6edbb06b5be.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/lesaffairesbrassicoles/episodes/Les-Affaires-Brassicoles-386--Memento----Brasserie-Artisanale-e2titmn</guid>
+                
+            </item><item>
+                <title>Cancers : les espoirs suscités par la technique de la radiothérapie flash développée par l’Institut Curie</title>
+                <description>Cancers : les espoirs suscités par la technique de la radiothérapie flash développée par l’Institut Curie
 Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20339.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a3836c2f-8d56-417d-8081-01cb99b0213a/20339-28.01.2025-ITEMA_24010494-2025I36368S0028-NET_MFO_9227F629-A0F7-4A37-871D-6C7C4F64F938-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-vert</guid>
-                
-            </item><item>
-                <title>La troisième rangée - Top 2024 : Top 10 A 8</title>
-                <description>La troisième rangée - Top 2024 : Top 10 A 8 by La…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:430045779/sounds.rss</description>
-                
-                
-                <link>https://soundcloud.com/la-troisieme-rangee/la-troisieme-rangee-top-2024-top-10-a-8-1</link>
-                <enclosure type="audio/mpeg" length="1" url="http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2015582407-la-troisieme-rangee-la-troisieme-rangee-top-2024-top-10-a-8-1.mp3"/>
-                <guid>https://soundcloud.com/la-troisieme-rangee/la-troisieme-rangee-top-2024-top-10-a-8-1</guid>
+                <link>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-sciences/cancers-les-espoirs-suscites-par-la-technique-de-la-radiotherapie-flash-developpee-par-l-institut-curie-1110610</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/704fb3c7-1274-4bc8-ad4f-ae066b299bb4/20339-29.01.2025-ITEMA_24011688-2025I36368S0029-NET_MFO_04C8A298-D395-42AE-9019-09EA9EF0F161-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-sciences/cancers-les-espoirs-suscites-par-la-technique-de-la-radiotherapie-flash-developpee-par-l-institut-curie-1110610</guid>
                 
             </item>
         </channel>
