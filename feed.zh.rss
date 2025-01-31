@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 30 Jan 2025 04:26:05 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 31 Jan 2025 04:26:01 +0200</lastBuildDate>
             <item>
-                <title>It Only Happens With You</title>
-                <description>Performed by Pat McCurdy and the Men About Town. Recorded at ... unknown.
-Feed: https://patmccurdy.com/sotw.xml</description>
+                <title>A Cavalcade of Spiders | Talk Spooky to Me</title>
+                <description>Spiders, horror movie ambience, and werewolves, oh my!
+Feed: https://feeds.megaphone.fm/ghoststoryguys</description>
                 
                 
-                <link>https://patmccurdy.com/audio/Pat_McCurdy_and_the_Men_About_Town_-_It_Only_Happens_With_You.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://patmccurdy.com/audio/Pat_McCurdy_and_the_Men_About_Town_-_It_Only_Happens_With_You.mp3"/>
-                <guid>https://patmccurdy.com/audio/Pat_McCurdy_and_the_Men_About_Town_-_It_Only_Happens_With_You.mp3</guid>
+                <link>https://www.ghoststoryguys.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/FGADCC/pscrb.fm/rss/p/traffic.megaphone.fm/SBP7420060545.mp3?updated=1738016056"/>
+                <guid>https://www.ghoststoryguys.com</guid>
                 
             </item><item>
-                <title>A VerySpatial Podcast - Episode 753</title>
-                <description>News:   ( site)     Topic:  This week we talk about how this year&#39;s CES coverage prompted conversations centered around AR/VR/xR and how the broader wearables market will like impact the utility and adoption for these visual hardware.  Web...
-Feed: https://avsp.libsyn.com/rss</description>
+                <title>My AM4 5950X PC rebuild is pushing me toward upgrading to 7950X (or 9950X) AM5 | 285</title>
+                <description>Listen to my PC rebuilding nightmare that has me thinking of upgrading to AM5.
+johnny@geektherapyradio.com
+Landing page for &#34;HMNS Beyond Bones Podcast&#34;
+https://www.hmns.org/podcast/
+Feed: https://www.spreaker.com/show/2371740/episodes/feed</description>
                 
                 
-                <link>https://avsp.libsyn.com/a-veryspatial-podcast-episode-753</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/avsp/AVSP_Episode753.mp3?dest-id=13060"/>
-                <guid>https://avsp.libsyn.com/a-veryspatial-podcast-episode-753</guid>
+                <link>https://www.spreaker.com/episode/my-am4-5950x-pc-rebuild-is-pushing-me-toward-upgrading-to-7950x-or-9950x-am5-285--63934981</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/63934981/285_am5_build_idea.mp3"/>
+                <guid>https://www.spreaker.com/episode/my-am4-5950x-pc-rebuild-is-pushing-me-toward-upgrading-to-7950x-or-9950x-am5-285--63934981</guid>
                 
             </item>
         </channel>
