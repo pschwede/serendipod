@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 31 Jan 2025 04:25:50 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 01 Feb 2025 04:25:15 +0200</lastBuildDate>
             <item>
-                <title>Ukraine : une guerre, plusieurs visions ?</title>
-                <description>Ukraine : une guerre, plusieurs visions ?
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10175.xml</description>
+                <title>S04E22 Idées fausses : La (si méconnue) répartition de la biomasse du Terre</title>
+                <description>
+????Le contenu de ces émissions est tiré du livre En finir avec les idées fausses sur le monde Vivant (https://www.fnac.com/a19314661/Marc-Mortelmans-En-finir-avec-les-idees-fausses-sur-le-monde-vivant) de Marc Mortelmans (Éditions de l&#39;atelier 2024)....
+Feed: https://feed.ausha.co/oR3M1sX0ZX48</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ukraine-une-guerre-plusieurs-visions-2978476</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/b925fa69-a094-42de-a724-0c5465a8c09e/10175-30.01.2025-ITEMA_24012844-2025C36267S0030-NET_MFC_254830FF-766B-4C9A-A949-FC80CCE2CE5E-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ukraine-une-guerre-plusieurs-visions-2978476</guid>
+                <link>https://podcast.ausha.co/combats/s04e22-idees-fausses-la-si-meconnue-repartition-de-la-biomasse-du-terre</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/yeKNmF668GgW.mp3?t=1725215772"/>
+                <guid>https://podcast.ausha.co/combats/s04e22-idees-fausses-la-si-meconnue-repartition-de-la-biomasse-du-terre</guid>
                 
             </item><item>
-                <title>Si les machines apprennent à tout faire, quelles sont les compétences que les humains doivent d&#39;ores et déjà privilégier ?</title>
-                <description>Si les machines apprennent à tout faire, quelles sont les compétences que les humains doivent d&#39;ores et déjà privilégier ?
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_18998.xml</description>
+                <title>Cerveau et stéréotypes de sexe — STREAM #19</title>
+                <description>Ce que la recherche en biologie révèle des différences femme-homme.
+Feed: https://feeds.acast.com/public/shows/5c74448857223e944f75f7b6</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/si-les-machines-apprennent-a-tout-faire-quelles-sont-les-competences-que-les-humains-doivent-d-ores-et-deja-privilegier-6403750</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/7a2783de-ef3e-4988-ba3a-a5f8bdd43d63/18998-26.01.2025-ITEMA_24008418-2025I12633S0026-NET_MFO_3CA84E8D-9ADB-4474-96BD-5E6A2DA465D5-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/si-les-machines-apprennent-a-tout-faire-quelles-sont-les-competences-que-les-humains-doivent-d-ores-et-deja-privilegier-6403750</guid>
+                <link>https://metadechoc.fr/podcast/cerveau-et-stereotypes-de-sexe/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5c74448857223e944f75f7b6/e/67653799b49c6255e82ff318/media.mp3"/>
+                <guid>https://metadechoc.fr/podcast/cerveau-et-stereotypes-de-sexe/</guid>
                 
             </item>
         </channel>
