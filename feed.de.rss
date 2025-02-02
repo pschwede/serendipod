@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 01 Feb 2025 04:25:09 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 02 Feb 2025 04:24:34 +0200</lastBuildDate>
             <item>
-                <title>#77 Minusgrade</title>
-                <description>Im Leben gibt es immer wieder bessere und schlechtere Tage; dazu Momente, in denen das Glas halb voll ist, genauso wie Phasen, in denen es halb leer ist. Wie Annette mit ihrem persönlichen Hadern umgeht und was sie durch Lübeck wieder positiver blicken lässt, erfahrt ihr in dieser Folge. Außerdem geht es ins Lübecker Theater - zwischen Kreuzfahrtschiff und Konzentrationslager. 
-Feed: https://feeds.buzzsprout.com/1324234.rss</description>
+                <title>Folge 74 - Ergotherapie in geriatrischen Pflegeeinrichtungen - mit Paulina Laube (und Gaby Kirsch)</title>
+                <description>In dieser Folge sprechen wir mit der Ergotherapeutin Paulina Laube über die Bedeutung von Ergotherapie in geriatrischen Pflegeeinrichtungen. Diese Folge entstand in Kooperation mit dem Thieme Verlag. Paulina Laube hat zusammen mit Gaby Kirsch einen Artikel über das Thema verfasst, welcher in der Ausgabe 02/25 publiziert wird. 
+Gemeinsam beleuchten wir, wie eine betätigungszentrierte Ergotherapie aussehen kann und welche Herausforderungen dabei auftreten...
+Feed: https://g24mhr.podcaster.de/PerformanceSkills.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1324234/episodes/16461305-77-minusgrade.mp3"/>
-                <guid></guid>
+                <link>http://www.performance-skills.de</link>
+                <enclosure type="audio/mpeg" length="1" url="https://g24mhr.podcaster.de/PerformanceSkills/media/Folge_74_mit_Paulina_Laube.mp3"/>
+                <guid>http://www.performance-skills.de</guid>
                 
             </item><item>
-                <title>&#34;Wie ist die Unfehlbarkeit der Heiligen Schrift zu verstehen?&#34;</title>
-                <description>In der „Stunde der Seelsorge“ gehen Pfarrer Dr. Thomas Maria Rimmel und Pater Dr. Karl Wallner immer Dienstag bis Freitag 14:30 Uhr aktuell auf Ihre Anliegen ein.
-Feed: https://letscast.fm/podcasts/die-stunde-der-seelsorge-71fc3150/feed</description>
+                <title>Dora Heldt trifft - Alina Bronsky 2025</title>
+                <description>&lt;p&gt;Im September 2022, noch unter Corona-Bedingungen, war sie schon telefonischer Gast bei &#34;Dora Heldt trifft&#34;: Alina Bronsky. Seither ist viel passiert, u.a. wollte sie Mathematiklehrerin werden, um systemrelevant zu sein. Noch mehr Anlass, um in den Podcast eingeladen zu werden, war allerdings der Gewinn des Preises &#34;Lieblingsbuch der Unabhängigen 2024&#34; für ihren neuesten Roman &#34;Pi mal Daumen&#34;...
+Feed: https://feeds.acast.com/public/shows/64906f1107f9cb0011aae044</description>
                 
                 
-                <link>https://www.k-tv.org</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/6aa249c4/episode/c4118bae.mp3?t=1738143190"/>
-                <guid>https://www.k-tv.org</guid>
+                <link>https://www.dtv.de/special/dora-heldt-trifft</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/64906f1107f9cb0011aae044/e/678a35d5fc105e4d366bdbcc/media.mp3"/>
+                <guid>https://www.dtv.de/special/dora-heldt-trifft</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 01 Feb 2025 04:25:19 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 02 Feb 2025 04:24:42 +0200</lastBuildDate>
             <item>
-                <title>#286 PILONEO</title>
-                <description>
-Feed: https://www.spreaker.com/show/3137911/episodes/feed</description>
+                <title>Islas de Robinson - La noche suena fuerte - 27/01/25</title>
+                <description>La noche suena fuerte
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/286-piloneo--63920740</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/63920740/286_audio_spreaker.mp3"/>
-                <guid>https://www.spreaker.com/episode/286-piloneo--63920740</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/noche-suena-fuerte-27-01-25/16422955/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16422955.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/noche-suena-fuerte-27-01-25/16422955/</guid>
                 
             </item><item>
-                <title>WordPress 6.7.2, en 2 semanas</title>
-                <description>La próxima versión menor de WordPress llegará el 11 de febrero con algunos pequeños cambios para corregir errores.
-Feed: https://www.wppodcast.es/feed/podcast/</description>
+                <title>Reencuentros paralelos</title>
+                <description>Metaespejo Generativo
+-Mundo- Paralelo
+&amp;iquest;Quisi&amp;eacute;ramos manifestar un encuentro definitorio de una realidad que nos interese como pueda ser nuestro primer amor o quien ser&amp;iacute;a nuestra futura madre o un mentor?
+Quiz&amp;aacute;s nos gustar&amp;iacute;a manifestar un cambio dr&amp;aacute;stico en un intercambio con alguien que sea una carta comod&amp;iacute;n o carta salvaje algo que sea dr&amp;aacute;stico o simplemente como m&amp;eacute;todo de bifurcar la realidad del futuro de un modo elegante...
+Feed: https://www.ivoox.com/podcast-nodo-estelar-aneto_fg_f11026236_filtro_1.xml</description>
                 
                 
-                <link>https://www.wppodcast.es/podcast/wordpress-6-7-2-en-2-semanas/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/293/s/feed/c/podcast/wordpress-podcast-e246.mp3"/>
-                <guid>https://www.wppodcast.es/podcast/wordpress-6-7-2-en-2-semanas/</guid>
+                <link>https://www.ivoox.com/reencuentros-paralelos-audios-mp3_rf_138620399_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/reencuentros-paralelos_mf_138620399_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/reencuentros-paralelos-audios-mp3_rf_138620399_1.html</guid>
                 
             </item>
         </channel>
