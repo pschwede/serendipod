@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 02 Feb 2025 04:24:42 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 03 Feb 2025 04:26:07 +0200</lastBuildDate>
             <item>
-                <title>Islas de Robinson - La noche suena fuerte - 27/01/25</title>
-                <description>La noche suena fuerte
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>Hora 14 Fin de Semana Castilla y León (02/02/2025)</title>
+                <description>Todo lo que ocurre en Castilla y León durante los fines de semana está en la SER.
+Feed: https://fapi-top.prisasd.com/podcast/playser/radio_valladolid.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/noche-suena-fuerte-27-01-25/16422955/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16422955.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/noche-suena-fuerte-27-01-25/16422955/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/RADIO_VALLADOLID_CADENASER_470_P/media/2025/2/2/ser_castillayleon_hora14findesemanacastillayleon_alt40_20250202_140611_143000.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Reencuentros paralelos</title>
-                <description>Metaespejo Generativo
--Mundo- Paralelo
-&amp;iquest;Quisi&amp;eacute;ramos manifestar un encuentro definitorio de una realidad que nos interese como pueda ser nuestro primer amor o quien ser&amp;iacute;a nuestra futura madre o un mentor?
-Quiz&amp;aacute;s nos gustar&amp;iacute;a manifestar un cambio dr&amp;aacute;stico en un intercambio con alguien que sea una carta comod&amp;iacute;n o carta salvaje algo que sea dr&amp;aacute;stico o simplemente como m&amp;eacute;todo de bifurcar la realidad del futuro de un modo elegante...
-Feed: https://www.ivoox.com/podcast-nodo-estelar-aneto_fg_f11026236_filtro_1.xml</description>
+                <title>Sateli 3 - Javi Ruibal (batería) nos presenta &#34;Luz&#34; + sesión exclusiva - 31/01/25</title>
+                <description>Javi Ruibal (batería) nos presenta &#34;Luz&#34; + sesión exclusiva
+Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/reencuentros-paralelos-audios-mp3_rf_138620399_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/reencuentros-paralelos_mf_138620399_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/reencuentros-paralelos-audios-mp3_rf_138620399_1.html</guid>
+                <link>https://www.rtve.es/play/audios/sateli-3/javi-ruibal-bateria-presenta-luz-sesion-exclusiva-31-01-25/16429808/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16429808.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sateli-3/javi-ruibal-bateria-presenta-luz-sesion-exclusiva-31-01-25/16429808/</guid>
                 
             </item>
         </channel>
