@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 03 Feb 2025 04:26:02 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 04 Feb 2025 04:25:46 +0200</lastBuildDate>
             <item>
-                <title>Jacques Chirac ne s’arrête jamais 1/6 : Le bulldozer</title>
-                <description>Jacques Chirac ne s’arrête jamais 1/6 : Le bulldozer
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15537.xml</description>
+                <title>Ep 139 : Super Cover Battle 41 Le détartrage du gorille</title>
+                <description>
+Après plusieurs mois d&#39;attente, Super Cover Battle est de retour. Toujours plus grand, toujours plus fort, voici notre meilleur épisode. Du moins, un de ceux dont la playlist nous a fait le plus plaisir (surtout moi finalement). Failure, Cardiacs, Mik...
+Feed: https://feed.ausha.co/b5OqSkK12NXo</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/salle-des-archives/le-bulldozer-8523945</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/19847848-4382-4867-83fc-fba6138bc67d/15537-22.01.2025-ITEMA_24004817-2025C53488E0001-ITE_00147335_RSCE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/salle-des-archives/le-bulldozer-8523945</guid>
+                <link>https://podcast.ausha.co/ecoute-ca/ep-139-super-cover-battle-41-le-detartrage-du-gorille</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B1xMCEln8qDb.mp3?t=1734827065"/>
+                <guid>https://podcast.ausha.co/ecoute-ca/ep-139-super-cover-battle-41-le-detartrage-du-gorille</guid>
                 
             </item><item>
-                <title>Comment la guerre de 1914 a changé la société française, avec Antoine Prost [1/3]</title>
-                <description>&lt;p&gt;Faites un don et recevez un cadeau : http://don.storiavoce.com/ &lt;/p&gt;&lt;br&gt;&lt;p&gt;La Grande Guerre met fin à la période de relative insouciance de la Belle Epoque, celle de tous les possibles. Le tragique de l&#39;Histoire a repris ses droits, marquant durablement une société française qui ne cesse d&#39;évoluer : l&#39;inflation ruine les rentiers, tandis que le monde ouvrier se structure peu à peu...
-Feed: https://feeds.acast.com/public/shows/62c823b8f93e7c0012e9b303</description>
+                <title>129: Reconnaître un Français à l’étranger </title>
+                <description>Comment reconnaître un Français partout dans le monde ? ????
+Feed: https://www.easyfrench.fm/rss</description>
                 
                 
-                <link>https://shows.acast.com/storiavoce/episodes/comment-la-guerre-de-1914-a-change-la-societe-francaise-avec</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/62c823b8f93e7c0012e9b303/e/679a3abf01388342ba9e8497/media.mp3"/>
-                <guid>https://shows.acast.com/storiavoce/episodes/comment-la-guerre-de-1914-a-change-la-societe-francaise-avec</guid>
+                <link>https://www.easyfrench.fm/129</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/70af2cf4-3bf3-4c87-a090-4ae601a15527/275299ac-55a4-47f2-aca5-eb2d0ca54972.mp3"/>
+                <guid>https://www.easyfrench.fm/129</guid>
                 
             </item>
         </channel>
