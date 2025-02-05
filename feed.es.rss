@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 04 Feb 2025 04:25:51 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 05 Feb 2025 04:26:45 +0200</lastBuildDate>
             <item>
-                <title>Trópico utópico - Vilarejo - 03/02/25</title>
-                <description>Vilarejo
-Feed: http://api.rtve.es/api/programas/2096/audios.rss</description>
+                <title>Lunes, 10 de febrero</title>
+                <description>Mc 6, 53-56
+Feed: https://rezandovoy.org/podcast</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/tropico-utopico/vilarejo-03-02-25/16433063/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16433063.mp3"/>
-                <guid>https://www.rtve.es/play/audios/tropico-utopico/vilarejo-03-02-25/16433063/</guid>
+                <link>https://rezandovoy.org/reproductor/2025-02-10</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rezando.es/public/rezandovoy/oraciones/5716/o.mp3"/>
+                <guid>https://rezandovoy.org/reproductor/2025-02-10</guid>
                 
             </item><item>
-                <title>Episodio 133: Lluvia, Jam Session con Sergio y Beika</title>
-                <description>Hola hola gente people, bienvenidas y bienhallados al Bar Bedel, vuestro Bar de confianza, vuestro Bar en formato podcast. Le estamos cogiendo el gustillo a las Jam Session, y en esta nueva entrega hemos elegido un tema muy meteorológico, la lluvia, que casi siempre es buena cosa. Un puñado de temazos sobre el hecho de que caiga agua del cielo, cantando y acompañando al camarero con los mejores clientes VIP, entre los que se encuentran nuestros queridos Sergio y Beika...
-Feed: https://feeds.feedburner.com/BarBedel</description>
+                <title>La música en Valencia tres meses después de la DANA</title>
+                <description>Con Mario Mora | Hace tres meses ocurrió una de las mayores desgracias naturales en la historia reciente de España. En aquel momento descubrimos, en un pódcast especial (https://clasicafmradio.es/podcasts/compas-de-espera-en-valencia-la-dana-arrasa-con-las-instituciones-musicales/) que la catástrofe afectó gravemente a decenas de instituciones musicales, pilares de la sociedad valenciana, que se quedaron sin salas, sin material y sin poder continuar con la actividad...
+Feed: https://www.ivoox.com/podcast-podcast-clasica-fm_fg_f1135497_filtro_1.xml</description>
                 
                 
-                <link>http://www.ivoox.com/episodio-133-lluvia-jam-session-sergio-y-audios-mp3_rf_139090002_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/episodio-133-lluvia-jam-session-sergio-y_mf_139090002_feed_1.mp3"/>
-                <guid>http://www.ivoox.com/episodio-133-lluvia-jam-session-sergio-y-audios-mp3_rf_139090002_1.html</guid>
+                <link>http://www.ivoox.com/musica-valencia-tres-meses-despues-de-audios-mp3_rf_139148233_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/musica-valencia-tres-meses-despues-de_mf_139148233_feed_1.mp3?d=1738595351"/>
+                <guid>http://www.ivoox.com/musica-valencia-tres-meses-despues-de-audios-mp3_rf_139148233_1.html</guid>
                 
             </item>
         </channel>

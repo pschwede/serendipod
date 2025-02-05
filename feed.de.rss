@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 04 Feb 2025 04:25:41 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 05 Feb 2025 04:26:37 +0200</lastBuildDate>
             <item>
-                <title>413: Perplexity für Podcaster - Smarter, schneller, besser recherchieren</title>
-                <description>Podcast-Episoden schneller vorbereiten? Perplexity ist dein Shortcut!
-Feed: https://podcastd13991.podigee.io/feed/mp3</description>
-                
-                
-                <link>https://podcastd13991.podigee.io/412-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1770830-m-f3a64be5b8e4165ba1b4b97add8ca9f7.mp3?source=feed"/>
-                <guid>https://podcastd13991.podigee.io/412-new-episode</guid>
-                
-            </item><item>
                 <title>BZT121: Pädagogischer Populismus</title>
                 <description>BZT121: Pädagogischer Populismus
 Feed: https://bildung-zukunft-technik.de/feed/podcast/</description>
@@ -29,6 +19,16 @@ Feed: https://bildung-zukunft-technik.de/feed/podcast/</description>
                 <link>https://bildung-zukunft-technik.de/2025/01/24/bzt121-paedagogischer-populismus/</link>
                 <enclosure type="audio/mpeg" length="1" url="https://bildung-zukunft-technik.de/podlove/file/707/s/feed/c/podcast/bzt121.mp3"/>
                 <guid>https://bildung-zukunft-technik.de/2025/01/24/bzt121-paedagogischer-populismus/</guid>
+                
+            </item><item>
+                <title>194 Vampire</title>
+                <description>Die unsterbliche Faszination der Blutsauger
+Feed: https://lichtspielhaus.podcaster.de/lichtspielhaus-der-wirklich-wahre-kino-podcast.rss</description>
+                
+                
+                <link>https://lichtspielhauspodcast.wordpress.de/2025/01/28/194-vampire/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lichtspielhaus.podcaster.de/lichtspielhaus-der-wirklich-wahre-kino-podcast/media/Lichtspielhaus_-_194_Vampire.mp3"/>
+                <guid>https://lichtspielhauspodcast.wordpress.de/2025/01/28/194-vampire/</guid>
                 
             </item>
         </channel>
