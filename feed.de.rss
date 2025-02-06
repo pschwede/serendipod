@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 05 Feb 2025 04:26:37 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 06 Feb 2025 04:27:16 +0200</lastBuildDate>
             <item>
-                <title>BZT121: Pädagogischer Populismus</title>
-                <description>BZT121: Pädagogischer Populismus
-Feed: https://bildung-zukunft-technik.de/feed/podcast/</description>
+                <title>Spezial: Traumfänger</title>
+                <description>Willkommen, zu einer weiteren Spezialfolge: “Ratschläge von Menschen, die selbst keine Ahnung haben“. Was machen, wenn jemand sein Geschenk sehen möchte, das man schon längst entsorgt hat?
+Wenn ihr auch einen Ratschlag von Menschen, die selbst keine Ahnung haben, braucht: schickt eine Mail an hallo@zsvpodcast.de 
+Unseren Instagram-Account findet ihr hier:
+https://www.instagram.com/zsvpodcast
+Und hier geht&#39;s direkt zu TikTok:
+https://www.tiktok.com/@zumscheiternverurteilt
+Feed: https://zum-scheitern-verurteilt.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://bildung-zukunft-technik.de/2025/01/24/bzt121-paedagogischer-populismus/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://bildung-zukunft-technik.de/podlove/file/707/s/feed/c/podcast/bzt121.mp3"/>
-                <guid>https://bildung-zukunft-technik.de/2025/01/24/bzt121-paedagogischer-populismus/</guid>
+                <link>https://zum-scheitern-verurteilt.podigee.io/276-spezial-traumfanger</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1775715-m-9bd3fb0c118bc534fe2cd061e0f37004.mp3?source=feed"/>
+                <guid>https://zum-scheitern-verurteilt.podigee.io/276-spezial-traumfanger</guid>
                 
             </item><item>
-                <title>194 Vampire</title>
-                <description>Die unsterbliche Faszination der Blutsauger
-Feed: https://lichtspielhaus.podcaster.de/lichtspielhaus-der-wirklich-wahre-kino-podcast.rss</description>
+                <title>Folge 148 - Honda NSX (1990-2005)</title>
+                <description>Der Honda NSX – eine japanische Kampfansage
+Auf P…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:583845201/sounds.rss</description>
                 
                 
-                <link>https://lichtspielhauspodcast.wordpress.de/2025/01/28/194-vampire/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lichtspielhaus.podcaster.de/lichtspielhaus-der-wirklich-wahre-kino-podcast/media/Lichtspielhaus_-_194_Vampire.mp3"/>
-                <guid>https://lichtspielhauspodcast.wordpress.de/2025/01/28/194-vampire/</guid>
+                <link>https://soundcloud.com/classicpodcars/honda-nsx</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2014590979-classicpodcars-honda-nsx.mp3"/>
+                <guid>https://soundcloud.com/classicpodcars/honda-nsx</guid>
                 
             </item>
         </channel>

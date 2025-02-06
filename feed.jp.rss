@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 05 Feb 2025 04:26:57 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 06 Feb 2025 04:27:33 +0200</lastBuildDate>
             <item>
-                <title>Is my smartwatch good for my health?</title>
-                <description>Do smartwatches reliably monitor fitness? And can they make us healthier?
-Feed: https://podcasts.files.bbci.co.uk/p04d42rc.rss</description>
+                <title>Radio Westeros E92 - The Free Folk</title>
+                <description>The Free Folk in George R.R.Martin&#39;s A Song of Ice and Fire (ASoIaF)
+Feed: https://feeds.acast.com/public/shows/82cfee24-3d7b-4f32-9351-c9c250f6e493</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/w3ct5rjd</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kn1b4v.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w3ct5rjd</guid>
+                <link>https://shows.acast.com/radiowesteros/episodes/radio-westeros-e92-the-free-folk</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/radiowesteros/e/67a162a895d7c2516ae251cc/media.mp3"/>
+                <guid>https://shows.acast.com/radiowesteros/episodes/radio-westeros-e92-the-free-folk</guid>
                 
             </item><item>
-                <title>CT 46: Healing Through Intuition: Building Bridges Between the Seen &amp; Unseen w/ Emma Andrews</title>
-                <description>Awakening Your Intuition
-Feed: https://feeds.redcircle.com/bfcfee25-4702-4872-a8a0-7a751a12b05b</description>
+                <title>JUDGE JULES PRESENTS THE GLOBAL WARM UP EPISODE 1091</title>
+                <description>1: SECOND NATURE - You Are All I Need2: FERRECK DAWN - Mirror Machine (feat. Aurelia Ray) [Extend...
+Feed: https://judgejules.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://casualtemple.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio4.redcircle.com/episodes/18eff508-191c-45fe-bcee-f59e1216b135/stream.mp3"/>
-                <guid>https://casualtemple.com/</guid>
+                <link>https://www.podomatic.com/podcasts/judgejules/episodes/2025-01-31T06_26_35-08_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://judgejules.podomatic.com/enclosure/2025-01-31T06_26_35-08_00.mp3?_=1738333629.17305919"/>
+                <guid>https://www.podomatic.com/podcasts/judgejules/episodes/2025-01-31T06_26_35-08_00</guid>
                 
             </item>
         </channel>
