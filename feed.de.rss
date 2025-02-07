@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 06 Feb 2025 04:27:16 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 07 Feb 2025 04:26:27 +0200</lastBuildDate>
             <item>
-                <title>Spezial: Traumfänger</title>
-                <description>Willkommen, zu einer weiteren Spezialfolge: “Ratschläge von Menschen, die selbst keine Ahnung haben“. Was machen, wenn jemand sein Geschenk sehen möchte, das man schon längst entsorgt hat?
-Wenn ihr auch einen Ratschlag von Menschen, die selbst keine Ahnung haben, braucht: schickt eine Mail an hallo@zsvpodcast.de 
-Unseren Instagram-Account findet ihr hier:
-https://www.instagram.com/zsvpodcast
-Und hier geht&#39;s direkt zu TikTok:
-https://www.tiktok.com/@zumscheiternverurteilt
-Feed: https://zum-scheitern-verurteilt.podigee.io/feed/mp3</description>
+                <title>Tolkiens Brief 011</title>
+                <description>Tolkiens künstlerische Akribie und ein versteckter Schlüssel.
+Feed: https://www.tolkiens-briefe.de/feed/mp3</description>
                 
                 
-                <link>https://zum-scheitern-verurteilt.podigee.io/276-spezial-traumfanger</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1775715-m-9bd3fb0c118bc534fe2cd061e0f37004.mp3?source=feed"/>
-                <guid>https://zum-scheitern-verurteilt.podigee.io/276-spezial-traumfanger</guid>
+                <link>https://www.tolkiens-briefe.de/episode/tolkiens-brief-011</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/b1238582/episode/6cd79e1f.mp3?t=1737845894"/>
+                <guid>https://www.tolkiens-briefe.de/episode/tolkiens-brief-011</guid>
                 
             </item><item>
-                <title>Folge 148 - Honda NSX (1990-2005)</title>
-                <description>Der Honda NSX – eine japanische Kampfansage
-Auf P…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:583845201/sounds.rss</description>
+                <title>Tarifbindung und Mindestlohn: Was wollen die Parteien?</title>
+                <description>WSI-Direktorin Bettina Kohlrausch und Reinhard Bispinck besprechen, was die Parteien in Sachen Mindestlohn und Weiterentwicklung der Tarifbindung im Wahlprogramm stehen haben.
+Feed: https://systemrelevant.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://soundcloud.com/classicpodcars/honda-nsx</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2014590979-classicpodcars-honda-nsx.mp3"/>
-                <guid>https://soundcloud.com/classicpodcars/honda-nsx</guid>
+                <link>https://systemrelevant.podigee.io/231-mindestlohn-tarifbindung-btw25</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1779015-m-30e6b7ede6272b6a0180e08a6a3eecd6.mp3?source=feed"/>
+                <guid>https://systemrelevant.podigee.io/231-mindestlohn-tarifbindung-btw25</guid>
                 
             </item>
         </channel>

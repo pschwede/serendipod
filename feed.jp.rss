@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 06 Feb 2025 04:27:33 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 07 Feb 2025 04:26:43 +0200</lastBuildDate>
             <item>
-                <title>Radio Westeros E92 - The Free Folk</title>
-                <description>The Free Folk in George R.R.Martin&#39;s A Song of Ice and Fire (ASoIaF)
-Feed: https://feeds.acast.com/public/shows/82cfee24-3d7b-4f32-9351-c9c250f6e493</description>
+                <title>A Primer on Cold Reading</title>
+                <description>The art of cold reading has convinced millions of people that gimmicks like crystal balls, palm reading, tarot cards, and other alleged paranormal abilities are real. People walk away from astrologers, mediums, and psychics saying &#34;there&#39;s no way he...
+Feed: https://pointofinquiry.libsyn.com/rss</description>
                 
                 
-                <link>https://shows.acast.com/radiowesteros/episodes/radio-westeros-e92-the-free-folk</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/radiowesteros/e/67a162a895d7c2516ae251cc/media.mp3"/>
-                <guid>https://shows.acast.com/radiowesteros/episodes/radio-westeros-e92-the-free-folk</guid>
+                <link>https://pointofinquiry.libsyn.com/a-primer-on-cold-reading</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/pointofinquiry/Wiseman_POI_mixdown_01.mp3?dest-id=14601"/>
+                <guid>https://pointofinquiry.libsyn.com/a-primer-on-cold-reading</guid>
                 
             </item><item>
-                <title>JUDGE JULES PRESENTS THE GLOBAL WARM UP EPISODE 1091</title>
-                <description>1: SECOND NATURE - You Are All I Need2: FERRECK DAWN - Mirror Machine (feat. Aurelia Ray) [Extend...
-Feed: https://judgejules.podomatic.com/rss2.xml</description>
+                <title>Say my name! Reaching out over dinosaurs</title>
+                <description>Reaching out over dinosaurs
+Feed: https://terriblelizards.libsyn.com/rss</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/judgejules/episodes/2025-01-31T06_26_35-08_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://judgejules.podomatic.com/enclosure/2025-01-31T06_26_35-08_00.mp3?_=1738333629.17305919"/>
-                <guid>https://www.podomatic.com/podcasts/judgejules/episodes/2025-01-31T06_26_35-08_00</guid>
+                <link>https://terriblelizards.libsyn.com/tls11e01-say-my-name</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/terriblelizards/TLS11E01_Say_my_name_.mp3?dest-id=2117798"/>
+                <guid>https://terriblelizards.libsyn.com/tls11e01-say-my-name</guid>
                 
             </item>
         </channel>
