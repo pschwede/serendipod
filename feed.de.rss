@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 07 Feb 2025 04:26:27 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 08 Feb 2025 04:25:17 +0200</lastBuildDate>
             <item>
-                <title>Tolkiens Brief 011</title>
-                <description>Tolkiens künstlerische Akribie und ein versteckter Schlüssel.
-Feed: https://www.tolkiens-briefe.de/feed/mp3</description>
+                <title>#86 Double Trouble</title>
+                <description>Diese Woche gibt es ein kleines ChatGPT Spezial. 
+Welche Werte oder Lektionen haben wir aus dem Laufen mitgenommen, die wir auch im Alltag nutzen? Oder wie oft haben wir uns schon gedacht: ‘Ich höre auf mit dem Mist? Außerdem gibt es unser wöchentliches Training der Woche und zwei Songs für die Playlist.
+Feed: https://hmkm.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.tolkiens-briefe.de/episode/tolkiens-brief-011</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/b1238582/episode/6cd79e1f.mp3?t=1737845894"/>
-                <guid>https://www.tolkiens-briefe.de/episode/tolkiens-brief-011</guid>
+                <link>https://hmkm.podigee.io/89-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1779374-m-bfda901e31c617cef4b0d64fa910e002.mp3?source=feed"/>
+                <guid>https://hmkm.podigee.io/89-neue-episode</guid>
                 
             </item><item>
-                <title>Tarifbindung und Mindestlohn: Was wollen die Parteien?</title>
-                <description>WSI-Direktorin Bettina Kohlrausch und Reinhard Bispinck besprechen, was die Parteien in Sachen Mindestlohn und Weiterentwicklung der Tarifbindung im Wahlprogramm stehen haben.
-Feed: https://systemrelevant.podigee.io/feed/mp3</description>
+                <title>Sade, Teil 2 /  Podcast Urban Pop mit Crosspromo-Trailer</title>
+                <description>
+Feed: https://www.ndr.de/nachrichten/info/podcast4976.xml</description>
                 
                 
-                <link>https://systemrelevant.podigee.io/231-mindestlohn-tarifbindung-btw25</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1779015-m-30e6b7ede6272b6a0180e08a6a3eecd6.mp3?source=feed"/>
-                <guid>https://systemrelevant.podigee.io/231-mindestlohn-tarifbindung-btw25</guid>
+                <link>https://www.ndr.de/kultur/Sade-1,audio1797792.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4976/AU-20250207-1053-4100.mp3"/>
+                <guid>https://www.ndr.de/kultur/Sade-1,audio1797792.html</guid>
                 
             </item>
         </channel>
