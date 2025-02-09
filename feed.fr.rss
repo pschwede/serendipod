@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 08 Feb 2025 04:25:21 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 09 Feb 2025 04:25:17 +0200</lastBuildDate>
             <item>
-                <title>Les criquets crinqués : 02/03/2025 21:00</title>
-                <description>653-329875
-Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
-                
-                
-                <link>https://podcast.cism893.ca/podcast/download_mp3/329875.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/329875.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/329875.mp3</guid>
-                
-            </item><item>
                 <title>Savourez 2025 avec Esperluette !</title>
                 <description>
 Nous sommes le 31 janvier et je ne vous ai pas encore souhaité de passer une bonne année….  ????
@@ -31,6 +21,16 @@ Feed: https://feed.ausha.co/oLnR0FgRq0nr</description>
                 <link>https://podcast.ausha.co/esperluette/savourez-2025-avec-esperluette</link>
                 <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/audio.ausha.co/b5r1ZSkdvwLw.mp3?t=1738332390"/>
                 <guid>https://podcast.ausha.co/esperluette/savourez-2025-avec-esperluette</guid>
+                
+            </item><item>
+                <title>Être ami d&#39;un parent endeuillé : conseils, ressources et témoignages</title>
+                <description>L&#39;amitié à l&#39;épreuve du deuil périnatal
+Feed: https://feeds.acast.com/public/shows/619f9eac88058100125f4b74</description>
+                
+                
+                <link>https://shows.acast.com/friendship/episodes/deuil-perinatal-amitie-conseils-ressources-temoignages</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/619f9eac88058100125f4b74/e/6786381e45dea78836018e10/media.mp3"/>
+                <guid>https://shows.acast.com/friendship/episodes/deuil-perinatal-amitie-conseils-ressources-temoignages</guid>
                 
             </item>
         </channel>

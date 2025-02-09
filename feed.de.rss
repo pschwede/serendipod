@@ -9,19 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 08 Feb 2025 04:25:17 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 09 Feb 2025 04:25:14 +0200</lastBuildDate>
             <item>
-                <title>#86 Double Trouble</title>
-                <description>Diese Woche gibt es ein kleines ChatGPT Spezial. 
-Welche Werte oder Lektionen haben wir aus dem Laufen mitgenommen, die wir auch im Alltag nutzen? Oder wie oft haben wir uns schon gedacht: ‘Ich höre auf mit dem Mist? Außerdem gibt es unser wöchentliches Training der Woche und zwei Songs für die Playlist.
-Feed: https://hmkm.podigee.io/feed/mp3</description>
-                
-                
-                <link>https://hmkm.podigee.io/89-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1779374-m-bfda901e31c617cef4b0d64fa910e002.mp3?source=feed"/>
-                <guid>https://hmkm.podigee.io/89-neue-episode</guid>
-                
-            </item><item>
                 <title>Sade, Teil 2 /  Podcast Urban Pop mit Crosspromo-Trailer</title>
                 <description>
 Feed: https://www.ndr.de/nachrichten/info/podcast4976.xml</description>
@@ -30,6 +19,16 @@ Feed: https://www.ndr.de/nachrichten/info/podcast4976.xml</description>
                 <link>https://www.ndr.de/kultur/Sade-1,audio1797792.html</link>
                 <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4976/AU-20250207-1053-4100.mp3"/>
                 <guid>https://www.ndr.de/kultur/Sade-1,audio1797792.html</guid>
+                
+            </item><item>
+                <title>S07E25 - Zweihundert</title>
+                <description>SERIEAMORE feiert Jubiläum!
+Feed: https://serieamore.podigee.io/feed/mp3</description>
+                
+                
+                <link>https://serieamore.podigee.io/201-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1778722-m-4473742906892a908a9d934e35cff059.mp3?source=feed"/>
+                <guid>https://serieamore.podigee.io/201-neue-episode</guid>
                 
             </item>
         </channel>
