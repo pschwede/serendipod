@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 09 Feb 2025 04:25:17 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 10 Feb 2025 04:28:18 +0200</lastBuildDate>
             <item>
-                <title>Savourez 2025 avec Esperluette !</title>
-                <description>
-Nous sommes le 31 janvier et je ne vous ai pas encore souhaité de passer une bonne année….  ????
-Bon, Il reste encore 335 jours en 2025 donc largement encore le temps de vous adresser des voeux positifs pour que cette année soit remplie de joie, d’entho...
-Feed: https://feed.ausha.co/oLnR0FgRq0nr</description>
+                <title>L&#39;INTÉGRALE - Jeanne Mas en live dans &#34;Le Grand Studio RTL&#34;</title>
+                <description>Ecoutez Le Grand Studio RTL avec Éric Jean-Jean du 08 février 2025.
+Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/esperluette/savourez-2025-avec-esperluette</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/audio.ausha.co/b5r1ZSkdvwLw.mp3?t=1738332390"/>
-                <guid>https://podcast.ausha.co/esperluette/savourez-2025-avec-esperluette</guid>
+                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/47ae91fc-88d3-4f63-893e-c02316eb72b3.mp3?_=1738942086"/>
+                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
                 
             </item><item>
-                <title>Être ami d&#39;un parent endeuillé : conseils, ressources et témoignages</title>
-                <description>L&#39;amitié à l&#39;épreuve du deuil périnatal
-Feed: https://feeds.acast.com/public/shows/619f9eac88058100125f4b74</description>
+                <title>Easy French - Le mot de la semaine : Rentrée</title>
+                <description>Et cette semaine, notre mot est : Rentrée
+Feed: https://sbs-ondemand.streamguys1.com/sbs-easy-french/</description>
                 
                 
-                <link>https://shows.acast.com/friendship/episodes/deuil-perinatal-amitie-conseils-ressources-temoignages</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/619f9eac88058100125f4b74/e/6786381e45dea78836018e10/media.mp3"/>
-                <guid>https://shows.acast.com/friendship/episodes/deuil-perinatal-amitie-conseils-ressources-temoignages</guid>
+                <link>https://www.sbs.com.au/language/french/en/podcast-episode/easy-french-le-mot-de-la-semaine-rentree/vbu57yk38</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-easy-french/20250206121657-french-a4e50458-62f3-49ae-aa6e-94fe9b442ef2.mp3?awCollectionId=sbs-easy-french&amp;awGenre=Education&amp;awEpisodeId=00000194-d8cb-d757-afbf-fcffd3f70003"/>
+                <guid>https://www.sbs.com.au/language/french/en/podcast-episode/easy-french-le-mot-de-la-semaine-rentree/vbu57yk38</guid>
                 
             </item>
         </channel>

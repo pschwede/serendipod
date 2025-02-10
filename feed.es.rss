@@ -9,33 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 09 Feb 2025 04:25:21 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 10 Feb 2025 04:28:21 +0200</lastBuildDate>
             <item>
-                <title>Islas de Robinson - Zona crepuscular - 03/02/25</title>
-                <description>Zona crepuscular
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>164: Crecer bilingüe (lo mejor de Easy Spanish)</title>
+                <description>Carla nos platica cómo fue para ella crecer en Cataluña y cómo se integraban estos dos idiomas en su vida.
+Feed: https://www.easyspanish.fm/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/zona-crepuscular-03-02-25/16432941/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16432941.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/zona-crepuscular-03-02-25/16432941/</guid>
+                <link>https://www.easyspanish.fm/164a</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/5036375e-9c44-4aa6-9271-b2fc91bfe6a8.mp3"/>
+                <guid>https://www.easyspanish.fm/164a</guid>
                 
             </item><item>
-                <title>Selections Radio 002: Ivan Voltes In The Mix</title>
-                <description>Ivan Voltes selects his favourite tracks of the moment every week live in the mix.
-Livestream date: 22/01/2025
-Tracklist: https://1001.tl/74q1rl
-Selections Radio #LIVE (video format) every Wednesday at 8pm GMT on Twitch and YouTube.
-VOD &amp;amp; Replays available every Friday on YouTube, SoundCloud, Apple Podcasts + more.
-&amp;#128994; Spotify Playlists &amp;#127911;
-Club Weapons &amp;#10145;&amp;#65039; https://bit.ly/Club_Weapons
-Afro House &amp;#10145;&amp;#65039; https://bit...
-Feed: https://www.ivoox.com/ivan-voltes-presents-dance-live-radio_fg_f1166124_filtro_1.xml</description>
+                <title>DEx 08x24 El Prisionero de Matrix</title>
+                <description>En 2003, un joven obsesionado con The Matrix cometi&amp;oacute; un crimen que sacudi&amp;oacute; a Am&amp;eacute;rica. Exploramos los l&amp;iacute;mites entre realidad y ficci&amp;oacute;n, la influencia de la cultura pop en mentes vulnerables, y las consecuencias de perder nuestra conexi&amp;oacute;n con lo real. Un viaje inquietante por los rincones m&amp;aacute;s oscuros de la obsesi&amp;oacute;n digital...
+Feed: https://www.ivoox.com/feed_fg_f1413939_filtro_1.xml</description>
                 
                 
-                <link>https://www.ivoox.com/selections-radio-002-ivan-voltes-in-the-mix-audios-mp3_rf_138284734_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/selections-radio-002-ivan-voltes-in-the-mix_mf_138284734_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/selections-radio-002-ivan-voltes-in-the-mix-audios-mp3_rf_138284734_1.html</guid>
+                <link>https://www.ivoox.com/dex-08x24-el-prisionero-matrix-audios-mp3_rf_139479864_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/dex-08x24-el-prisionero-matrix_mf_139479864_feed_1.mp3?d=1739103867"/>
+                <guid>https://www.ivoox.com/dex-08x24-el-prisionero-matrix-audios-mp3_rf_139479864_1.html</guid>
                 
             </item>
         </channel>
