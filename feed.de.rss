@@ -9,33 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Feb 2025 04:26:02 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 12 Feb 2025 04:26:15 +0200</lastBuildDate>
             <item>
-                <title>Offseason - Dan the man?</title>
-                <description>&lt;p&gt;Diese Folge befasst sich mit dem ersten Jahr der Panthers unter General Manager Dan Morgan. 
-Wie lief der erste Draft, wie ist die Free Agency 2024 zu bewerten und welche Trades hat er durchgeführt?&lt;br /&gt;
-&lt;br /&gt;
-Die Antwort darauf gibt es in dieser Folge!
-Viel Spaß beim hören!&lt;/p&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;p&gt;Lasst dem Podcast gerne eine Abo da und unterstützt ihn durch Bewertungen und Reviews bei Apple Podcasts, Spotify und YouTube...
-Feed: https://anchor.fm/s/f521dbe4/podcast/rss</description>
+                <title>Im Glauben leben</title>
+                <description>Eine allgemeine Predigt von Acima Knitz.
+Feed: https://www.czb-bensheim.de/feed/mp3/</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/podkeeptalking/episodes/Offseason---Dan-the-man-e2ugfrv</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/f521dbe4/podcast/play/98106687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-6%2Ff0650363-fa83-45af-5865-b00fee08e447.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/podkeeptalking/episodes/Offseason---Dan-the-man-e2ugfrv</guid>
+                <link>https://www.czb-bensheim.de/2025/02/02/im-glauben-leben/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.czb-bensheim.de/podlove/file/901/s/feed/c/mp3/2025-02-02_Acima-Knitz_Im-Glauben-leben.mp3"/>
+                <guid>https://www.czb-bensheim.de/2025/02/02/im-glauben-leben/</guid>
                 
             </item><item>
-                <title>Ukraine: Alltag im Krankenhaus, wenn die Front heranrückt</title>
-                <description>Notaufnahme - der Podcast von Ärzte ohne Grenzen
-Feed: https://notaufnahme-podcast.aerzte-ohne-grenzen.de/feed/mp3</description>
+                <title>#266 Grün lesen</title>
+                <description>Break, Richtung und Geschwindigkeit einschätzen
+Feed: https://golfstunde.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://notaufnahme-podcast.aerzte-ohne-grenzen.de/53-ukraine-front</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1761217-m-026cb1a71d3ad49e468c2b98dae2d044.mp3?source=feed"/>
-                <guid>https://notaufnahme-podcast.aerzte-ohne-grenzen.de/53-ukraine-front</guid>
+                <link>https://golfstunde.podigee.io/266-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1773066-m-d8ce9bdd26e209b0ecf6b1b1379e97a3.mp3?source=feed"/>
+                <guid>https://golfstunde.podigee.io/266-neue-episode</guid>
                 
             </item>
         </channel>
