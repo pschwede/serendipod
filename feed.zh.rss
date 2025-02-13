@@ -9,38 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 12 Feb 2025 04:26:28 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 13 Feb 2025 04:27:23 +0200</lastBuildDate>
             <item>
-                <title>Season 5, Ep 43 - Business Night</title>
-                <description>Credits
-Arnie: Arnie Niekamp
-Chunt: Adal Rifai
-Usidore: Matt Young
-Mysterious Man: Tim Sniffen
-Producers: Arnie Niekamp, Matt Young, and Adal Rifai
-Associate Producer: Anna Havermann
-Post-Production Coordination: Garrett Schultz
-Editor: Anna Havermann
-Magic Tavern Logo: Allard Laban
-Theme Music: Andy Poland
-New T-Shirts in the Merch Store!
-You can support the show directly and receive bonus episodes and rewards by joining our Patreon at https://www.patreon.com/magictavern for only $5 per month...
-Feed: https://rss.art19.com/hello-from-magic-tavern</description>
+                <title>Chaos at the Cocaine Barbershop </title>
+                <description>The history of artificial light and meditating in the presence of corpses 
+Feed: https://feeds.acast.com/public/shows/9d5c107b-68d6-4c1b-8c80-45ee6a84c947</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/c44db215-01ee-4d5f-afbd-7d95f128f526.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://shows.acast.com/blindboy/episodes/chaos-at-the-cocaine-barbershop</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/blindboy/e/67ac07703ef0b176ea3f5a7b/media.mp3"/>
+                <guid>https://shows.acast.com/blindboy/episodes/chaos-at-the-cocaine-barbershop</guid>
                 
             </item><item>
-                <title>Are Peter Criss and Gene Simmons&#39; &#39;78 solo albums really bad?</title>
-                <description>This week we discuss whether these albums were bad for real or did we just expect God of Thunder ...
-Feed: https://podcastrockcity.podomatic.com/rss2.xml</description>
+                <title>Becca Lewis/How Technofacism is Rooted in Silicon Valley</title>
+                <description>Disinformation and far-right digital media schola…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:70607212/sounds.rss</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/podcastrockcity/episodes/2025-02-04T15_58_22-08_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcastrockcity.podomatic.com/enclosure/2025-02-04T15_58_22-08_00.mp3?_=1738713508.17309965"/>
-                <guid>https://www.podomatic.com/podcasts/podcastrockcity/episodes/2025-02-04T15_58_22-08_00</guid>
+                <link>https://soundcloud.com/this-is-hell/becca-lewishow-technofacism-is-rooted-in-silicon-valley</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2031887720-this-is-hell-becca-lewishow-technofacism-is-rooted-in-silicon-valley.mp3"/>
+                <guid>https://soundcloud.com/this-is-hell/becca-lewishow-technofacism-is-rooted-in-silicon-valley</guid>
                 
             </item>
         </channel>

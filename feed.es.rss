@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 12 Feb 2025 04:26:22 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 13 Feb 2025 04:27:14 +0200</lastBuildDate>
             <item>
-                <title>Islas de Robinson - Esta noche, tormenta 10/02/25</title>
-                <description>Esta noche, tormenta
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>Organic Maps, la alternativa a Google Maps y Apple Maps #Apps</title>
+                <description>&lt;p&gt;Buscando alternativas para Apple Maps y Google Maps me encontré con Organic Maps, una aplicación simple, bonita, rápida y que funciona sin Internet, usando para sus mapas OpenStreetMaps.&lt;/p&gt;
+&lt;p&gt;Te invito a debatir sobre este tema en el &lt;strong&gt;Foro de Como Pienso Digo&lt;/strong&gt; https://foro.comopiensodigo.com&lt;/p&gt;
+&lt;p&gt;Y otras formas de contacto las encuentran en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/contacto...
+Feed: https://comopiensodigo.com/@comopiensodigo/feed.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/esta-noche-tormenta-10-02-25/16442819/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16442819.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/esta-noche-tormenta-10-02-25/16442819/</guid>
+                <link>https://comopiensodigo.com/@comopiensodigo/episodes/organic-maps-la-alternativa-a-google-maps-y-apple-maps</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=fca9a628-07fc-5904-864a-41644b4c3dc8/comopiensodigo.com/audio/@comopiensodigo/organic-maps-la-alternativa-a-google-maps-y-apple-maps.mp3?_from=fyyd.de"/>
+                <guid>https://comopiensodigo.com/@comopiensodigo/episodes/organic-maps-la-alternativa-a-google-maps-y-apple-maps</guid>
                 
             </item><item>
-                <title>Proponen cable de alto voltaje entre Puerto Rico y República Dominicana</title>
-                <description>Proponen cable de alto voltaje entre Puerto Rico y República Dominicana
-Feed: https://feeds.feedburner.com/RepasoNoticioso</description>
+                <title>2025-02-01 Ingenuino</title>
+                <description>
+Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
                 
                 
-                <link>https://repasonoticioso.com/proponen-cable-de-alto-voltaje-entre-puerto-rico-y-republica-dominicana/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://repasonoticioso.com/podlove/file/601/s/webplayer/RN_6febrero2025.mp3"/>
-                <guid>https://repasonoticioso.com/proponen-cable-de-alto-voltaje-entre-puerto-rico-y-republica-dominicana/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://comunicacionestian.com/programas_radio/Flamen/2025-02-01Ingenuino.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

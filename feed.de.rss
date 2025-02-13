@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 12 Feb 2025 04:26:15 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 13 Feb 2025 04:27:05 +0200</lastBuildDate>
             <item>
-                <title>Im Glauben leben</title>
-                <description>Eine allgemeine Predigt von Acima Knitz.
-Feed: https://www.czb-bensheim.de/feed/mp3/</description>
+                <title>Und immer wieder grüßt das Murmeltier</title>
+                <description>Habt ihr schon mal ein Murmeltier gesehen?
+Unser Freund Matthew hat vom Murmeltier-Tag in Amerika erzählt und dass die Murmeltiere dort angeblich das Wetter vorhersagen können. Klar, dass Anna und ich dem nachgehen mussten. Dafür waren wir in den Alpen unterwegs, denn dort soll es ebenfalls Murmeltiere geben. Leider haben wir einen wichtigen Fakt bei unserer Suche übersehen … Hört euch die ganze Geschichte an und findet heraus, was passiert ist...
+Feed: https://yummi.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.czb-bensheim.de/2025/02/02/im-glauben-leben/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.czb-bensheim.de/podlove/file/901/s/feed/c/mp3/2025-02-02_Acima-Knitz_Im-Glauben-leben.mp3"/>
-                <guid>https://www.czb-bensheim.de/2025/02/02/im-glauben-leben/</guid>
+                <link>https://yummi.podigee.io/219-und-immer-wieder-grusst-das-murmeltier</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1771646-m-60e2da503f5be94210700a14488efffe.mp3?source=feed"/>
+                <guid>https://yummi.podigee.io/219-und-immer-wieder-grusst-das-murmeltier</guid>
                 
             </item><item>
-                <title>#266 Grün lesen</title>
-                <description>Break, Richtung und Geschwindigkeit einschätzen
-Feed: https://golfstunde.podigee.io/feed/mp3</description>
+                <title>#163 - Unser 2024 (Jahresrückblick) Teil 1</title>
+                <description>&lt;p&gt;Wir sind ein klein bisschen spät mit unserem Rückblick... Hat aber niemand gemerkt oder? Naja so hat sich der Januar eben gleich zweimal ins Jahr 2024 gemogelt. Und weil wir uns natürlich maßlos unterschätzt haben was die Länge unserer Aufnahme angeht, hier erstmal der erste Teil mit der ersten Jahreshälfte, unseren Top Songs, Top Serien und erstmals auch den Top Büchern...
+Feed: https://anchor.fm/s/b331318/podcast/rss</description>
                 
                 
-                <link>https://golfstunde.podigee.io/266-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1773066-m-d8ce9bdd26e209b0ecf6b1b1379e97a3.mp3?source=feed"/>
-                <guid>https://golfstunde.podigee.io/266-neue-episode</guid>
+                <link>https://podcasters.spotify.com/pod/show/neuehelden/episodes/163---Unser-2024-Jahresrckblick-Teil-1-e2ump60</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/b331318/podcast/play/98312832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-10%2Fbd23e8bf-df57-5514-9ce7-ca8bdba69561.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/neuehelden/episodes/163---Unser-2024-Jahresrckblick-Teil-1-e2ump60</guid>
                 
             </item>
         </channel>
