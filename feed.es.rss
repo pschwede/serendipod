@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 13 Feb 2025 04:27:14 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 14 Feb 2025 04:26:40 +0200</lastBuildDate>
             <item>
-                <title>Organic Maps, la alternativa a Google Maps y Apple Maps #Apps</title>
-                <description>&lt;p&gt;Buscando alternativas para Apple Maps y Google Maps me encontré con Organic Maps, una aplicación simple, bonita, rápida y que funciona sin Internet, usando para sus mapas OpenStreetMaps.&lt;/p&gt;
-&lt;p&gt;Te invito a debatir sobre este tema en el &lt;strong&gt;Foro de Como Pienso Digo&lt;/strong&gt; https://foro.comopiensodigo.com&lt;/p&gt;
-&lt;p&gt;Y otras formas de contacto las encuentran en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta.me/contacto...
-Feed: https://comopiensodigo.com/@comopiensodigo/feed.xml</description>
+                <title>Entre probetas - La oftalmología más científica - 11/02/25</title>
+                <description>La oftalmología más científica
+Feed: http://api.rtve.es/api/programas/21570/audios.rss</description>
                 
                 
-                <link>https://comopiensodigo.com/@comopiensodigo/episodes/organic-maps-la-alternativa-a-google-maps-y-apple-maps</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=fca9a628-07fc-5904-864a-41644b4c3dc8/comopiensodigo.com/audio/@comopiensodigo/organic-maps-la-alternativa-a-google-maps-y-apple-maps.mp3?_from=fyyd.de"/>
-                <guid>https://comopiensodigo.com/@comopiensodigo/episodes/organic-maps-la-alternativa-a-google-maps-y-apple-maps</guid>
+                <link>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-oftalmologia-mas-cientifica-11-02-25/16445887/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16445887.mp3"/>
+                <guid>https://www.rtve.es/play/audios/entre-probetas/entre-probetas-oftalmologia-mas-cientifica-11-02-25/16445887/</guid>
                 
             </item><item>
-                <title>2025-02-01 Ingenuino</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>PYM 55. Rock Hard 1977 - El Payaso Triste y otros relatos de terror - BSOs: Secuelas Pipongueras 2: El Retorno</title>
+                <description>Hola peskiters, hoy os traemos un programa con formato tradicional. En el menú del día hay: Phoebe nos habla de un juego de mesa: 00:06:55 - Rock Hard 1977 Seidon nos recomienda un libro de relatos: 00:23:40 - El Payaso Triste y otros relatos de terror para reflexionar (Pablo Pallarés Safont). https://www.amazon.es/dp/B0DPXX4LX9 Malcolm no decepciona y nos trae un juego de bandas sonoras. 00:35:02 - Juego de BSOs: Secuelas Pipongueras 2: El Retorno...
+Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://comunicacionestian.com/programas_radio/Flamen/2025-02-01Ingenuino.mp3"/>
-                <guid></guid>
+                <link>https://www.ivoox.com/pym-55-rock-hard-1977-el-payaso-audios-mp3_rf_139034143_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pym-55-rock-hard-1977-el-payaso_mf_139034143_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/pym-55-rock-hard-1977-el-payaso-audios-mp3_rf_139034143_1.html</guid>
                 
             </item>
         </channel>
