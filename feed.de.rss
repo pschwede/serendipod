@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 16 Feb 2025 04:25:18 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 17 Feb 2025 04:27:13 +0200</lastBuildDate>
             <item>
-                <title>Schoßhund statt Wachhund? Trumps Kampf gegen missliebige Medien</title>
-                <description> &lt;br&gt; 
-Feed: https://sr-mediathek.de/pcast/feeds/SR2_ME_P/feed.xml</description>
+                <title>Richtungswahl 25 – Transformation und soziale Sicherheit</title>
+                <description>Bislang beherrschte fast ausschließlich das Thema Migration den Wahlkampf. Die Sorgen um die wirtschaftliche Entwicklung aber bleibt bei vielen Menschen. Das Land steckt knietief in einer strukturellen Krise. Viele fragen sich: Wie geht es für mich weiter? Was wird aus meinem Job oder meiner Rente? Wie weit werden Krankenversicherung und Miete noch steigen? Der Staat wird vielen helfen müssen...
+Feed: https://www.phoenix.de/podcast/udl/audio/rss.xml</description>
                 
                 
-                <link>https://storage01.sr.de/podcast/SR2_ME_P/SR2_ME_P_38766_20250214_150804.MP3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://storage01.sr.de/podcast/SR2_ME_P/SR2_ME_P_38766_20250214_150804.MP3"/>
-                <guid>https://storage01.sr.de/podcast/SR2_ME_P/SR2_ME_P_38766_20250214_150804.MP3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://podfileszdf-a.akamaihd.net/podcast/phoenix_podcasts/25/02/250210_phx_udl/1/250210_phx_udl_224k_p41v15.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Lagebesprech Nr. 181 vom 12.02.2025: Wahlüberlegungen und Donald Trump</title>
-                <description>2025-02-12_181_Lagebesprech_12.02.2025
-Feed: http://lagebesprech.de/feed.xml</description>
+                <title>Recht auf Reparatur </title>
+                <description>Reparieren statt Wegwerfen oder Neukaufen — das spart häufig nicht nur Geld, sondern ist auch gut für’s Klima. Mit dem „Recht auf Reparatur“ soll das in der Europäischen Union in Zukunft leichter geh…
+Feed: https://feedpress.me/detektorfm_mission-energiewende</description>
                 
                 
-                <link>http://lagebesprech.de/?name=2025-02-12_181_Lagebesprech_12.02.2025.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://lagebesprech.de/media/2025-02-12_181_Lagebesprech_12.02.2025.mp3"/>
-                <guid>http://lagebesprech.de/?name=2025-02-12_181_Lagebesprech_12.02.2025.mp3</guid>
+                <link>https://feedpress.me/link/19550/16960074/mission-energiewende-recht-auf-reparatur</link>
+                <enclosure type="audio/mpeg" length="1" url="https://flex2.acast.com/s/mission-energiewende-detektorfm/u/detektor.fm/wp-content/uploads/2025/02/20250211mereparatur.70733.mp3"/>
+                <guid>https://feedpress.me/link/19550/16960074/mission-energiewende-recht-auf-reparatur</guid>
                 
             </item>
         </channel>

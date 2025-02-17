@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 16 Feb 2025 04:25:22 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 17 Feb 2025 04:27:18 +0200</lastBuildDate>
             <item>
-                <title>Essai Mini Cooper Electrique SE 218 ch.</title>
-                <description>Mini est un peu toute seule sur le marché des citadines premium électrique. Le produit est bon et garde l’ADN Mini. L’arrivée de l’Alpine A290 et de l’Epsilon HF bousculera peut-être un peu ce segment de marché, mais pour le moment RAS.
- 
-Feed: https://feeds.audiomeans.fr/feed/4fd530d2-7f7b-4f02-bfd9-e707a3d31182.xml</description>
+                <title>Les rennes de Noël - partie 2</title>
+                <description>Les aventures du petit garçon magique et de la sorcière Kaka
+Feed: https://feeds.acast.com/public/shows/63de82504261050011bc3852</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/442b9c70-3ae7-46e0-b592-0ba528f1108b.mp3?_=1736930651"/>
-                <guid></guid>
+                <link>https://shows.acast.com/petit-garcon-magique/episodes/les-rennes-de-noel-partie-2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63de82504261050011bc3852/e/67623762f444544373406fab/media.mp3"/>
+                <guid>https://shows.acast.com/petit-garcon-magique/episodes/les-rennes-de-noel-partie-2</guid>
                 
             </item><item>
-                <title>Les Univers de GemGenève #11 La création &#34;en live &#34; du bijou de Gemgeneve</title>
-                <description>
-Dans le cosmos qu’est le monde de la joaillerie, Les sujets sont nombreux et divers comme autant de galaxies qui gravitent ensembles dans le système planétaire joaillier que GemGenève (https://gemgeneve.com/) a construit. Ce salon devenu événement cul...
-Feed: https://feed.ausha.co/oaNrdC0xxe8j</description>
+                <title>Episode 78 - Grocervo</title>
+                <description>&lt;p&gt;Un épisode qui fait se gratter la peinture avec au programme des puzzles, des puzzles et encore des puzzles avec The Rise of the Golden Idol (GOTY 2024) et Tactical Breach Wizards. Bien sur, le Hit Parade fera son grand retour et on va se focus sur 2016... Bref, un menu délicieux pour le cerveau !&lt;/p&gt;&lt;br&gt;&lt;p&gt;------------------------------------------------&lt;/p&gt;&lt;br&gt;&lt;p&gt;Le site - www.coopetcanap.com&lt;/p&gt;&lt;p&gt;Twitch - https://twitch.tv/coopetcanap&lt;/p&gt;&lt;p&gt;Twitter - https://twitter...
+Feed: https://feeds.acast.com/public/shows/65cfc59de7b2e2001668654a</description>
                 
                 
-                <link>https://podcast.ausha.co/il-etait-une-fois-le-bijou/les-univers-de-gemgeneve-11-la-creation-en-live-du-bijou-de-gemgeneve</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bPOVrSG5W6Qg.mp3?t=1738336846"/>
-                <guid>https://podcast.ausha.co/il-etait-une-fois-le-bijou/les-univers-de-gemgeneve-11-la-creation-en-live-du-bijou-de-gemgeneve</guid>
+                <link>https://shows.acast.com/coopcanap/episodes/episode-78-grocervo</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/65cfc59de7b2e2001668654a/e/6794c50aae8b037c911d8a54/media.mp3"/>
+                <guid>https://shows.acast.com/coopcanap/episodes/episode-78-grocervo</guid>
                 
             </item>
         </channel>
