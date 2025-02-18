@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 17 Feb 2025 04:27:13 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 18 Feb 2025 04:26:29 +0200</lastBuildDate>
             <item>
-                <title>Richtungswahl 25 – Transformation und soziale Sicherheit</title>
-                <description>Bislang beherrschte fast ausschließlich das Thema Migration den Wahlkampf. Die Sorgen um die wirtschaftliche Entwicklung aber bleibt bei vielen Menschen. Das Land steckt knietief in einer strukturellen Krise. Viele fragen sich: Wie geht es für mich weiter? Was wird aus meinem Job oder meiner Rente? Wie weit werden Krankenversicherung und Miete noch steigen? Der Staat wird vielen helfen müssen...
-Feed: https://www.phoenix.de/podcast/udl/audio/rss.xml</description>
+                <title>Kurz informiert 17.02.2025 – spät</title>
+                <description>DeepSeek-Verbot, Bayern, Milei &amp; Krypto, Apple-OS-Lücken, Blue Ghost
+Feed: https://proxyfeed.svmaudio.com/feeds/heise/kurz-informiert</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://podfileszdf-a.akamaihd.net/podcast/phoenix_podcasts/25/02/250210_phx_udl/1/250210_phx_udl_224k_p41v15.mp3"/>
-                <guid></guid>
+                <link>https://kurzinformiert.podigee.io/2152-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://apc.cdn.svmaudio.com/1796395-m-789eac5a19da9af93000541344ee0c5e.mp3?source=feed-cleanfeed"/>
+                <guid>https://kurzinformiert.podigee.io/2152-neue-episode</guid>
                 
             </item><item>
-                <title>Recht auf Reparatur </title>
-                <description>Reparieren statt Wegwerfen oder Neukaufen — das spart häufig nicht nur Geld, sondern ist auch gut für’s Klima. Mit dem „Recht auf Reparatur“ soll das in der Europäischen Union in Zukunft leichter geh…
-Feed: https://feedpress.me/detektorfm_mission-energiewende</description>
+                <title>Alles für den einen Traum - Floorballer Jakob Heins verzaubert Schweden</title>
+                <description> Liebing, Matthias www.deutschlandfunkkultur.de, Nachspiel. Feature 
+Feed: https://www.deutschlandfunkkultur.de/nachspiel-das-sportmagazin-100.xml</description>
                 
                 
-                <link>https://feedpress.me/link/19550/16960074/mission-energiewende-recht-auf-reparatur</link>
-                <enclosure type="audio/mpeg" length="1" url="https://flex2.acast.com/s/mission-energiewende-detektorfm/u/detektor.fm/wp-content/uploads/2025/02/20250211mereparatur.70733.mp3"/>
-                <guid>https://feedpress.me/link/19550/16960074/mission-energiewende-recht-auf-reparatur</guid>
+                <link>https://www.deutschlandfunkkultur.de/alles-fuer-den-einen-traum-floorballer-jakob-heins-verzaubert-schweden-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2025/02/16/alles_fuer_den_einen_traum_floorballer_jakob_heins_drk_20250216_1805_da1a6d27.mp3?refId=nachspiel-das-sportmagazin-100"/>
+                <guid>https://www.deutschlandfunkkultur.de/alles-fuer-den-einen-traum-floorballer-jakob-heins-verzaubert-schweden-100.html</guid>
                 
             </item>
         </channel>
