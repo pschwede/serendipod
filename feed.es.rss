@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 18 Feb 2025 04:26:37 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 19 Feb 2025 04:27:58 +0200</lastBuildDate>
             <item>
-                <title>180 grados - Eva Ryjlen, Carlos Ares, Japanese Breakfast y Father John Misty - 17/02/25</title>
-                <description>Eva Ryjlen, Carlos Ares, Japanese Breakfast y Father John Misty
-Feed: http://api.rtve.es/api/programas/22270/audios.rss</description>
+                <title>Protegemos tu privacidad - Canal prioritario: Cuándo la agencia te puede ayudar, y cuándo no - 14/02/25</title>
+                <description>Canal prioritario: Cuándo la agencia te puede ayudar, y cuándo no
+Feed: https://www.rtve.es/api/programas/118690/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/180-grados/eva-ryjlen-carlos-ares-japanese-breakfast-father-john-misty-17-02-25/16453172/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16453172.mp3"/>
-                <guid>https://www.rtve.es/play/audios/180-grados/eva-ryjlen-carlos-ares-japanese-breakfast-father-john-misty-17-02-25/16453172/</guid>
+                <link>https://www.rtve.es/play/audios/protegemos-tu-privacidad/protegemos-tu-privacidad-canal-prioritario-cuando-agencia-puede-ayudar-cuando-no-14-02-25/16438450/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16438450.mp3"/>
+                <guid>https://www.rtve.es/play/audios/protegemos-tu-privacidad/protegemos-tu-privacidad-canal-prioritario-cuando-agencia-puede-ayudar-cuando-no-14-02-25/16438450/</guid>
                 
             </item><item>
-                <title>Atmósfera - Gyða Valtýsdóttir, Benedikt Schiefer - 09/02/25</title>
-                <description>Gyða Valtýsdóttir, Benedikt Schiefer
-Feed: http://api.rtve.es/api/programas/1891/audios.rss</description>
+                <title>#619: Historia de las 4 canciones más importantes del año nuevo</title>
+                <description>&lt;p&gt;En este episodio especial de Puerto de Libros Librería Radiofónica, celebramos el espíritu del Año Nuevo explorando las historias, los significados y las versiones más memorables de las canciones que se han convertido en la banda sonora de esta mágica transición. Las protagonistas de hoy son: &#34;Un Año Más&#34; de Mecano, &#34;Año Nuevo&#34; de la Billo&#39;s Caracas Boys, &#34;5 pa&#39; las 12&#34; de Néstor Zavarce, y la clásica &#34;Auld Lang Syne&#34; en las voces de Rod Stewart y el violín de André Rieu...
+Feed: https://anchor.fm/s/26d7ff48/podcast/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/atmosfera/gydja-valtysdottir-benedikt-schiefer-09-02-25/16441725/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16441725.mp3"/>
-                <guid>https://www.rtve.es/play/audios/atmosfera/gydja-valtysdottir-benedikt-schiefer-09-02-25/16441725/</guid>
+                <link>https://podcasters.spotify.com/pod/show/libreriaradio/episodes/619-Historia-de-las-4-canciones-ms-importantes-del-ao-nuevo-e2t0ojj</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO1184612512.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/libreriaradio/episodes/619-Historia-de-las-4-canciones-ms-importantes-del-ao-nuevo-e2t0ojj</guid>
                 
             </item>
         </channel>

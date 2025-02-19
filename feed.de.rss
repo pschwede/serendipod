@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 18 Feb 2025 04:26:29 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 19 Feb 2025 04:27:50 +0200</lastBuildDate>
             <item>
-                <title>Kurz informiert 17.02.2025 – spät</title>
-                <description>DeepSeek-Verbot, Bayern, Milei &amp; Krypto, Apple-OS-Lücken, Blue Ghost
-Feed: https://proxyfeed.svmaudio.com/feeds/heise/kurz-informiert</description>
+                <title>„titriert“ Lieblingsfehler Januar 2025</title>
+                <description>Ein neuer Lieblingsfehler von Dana: Kenne dein Equipment!    Viel Spaß beim Hören!
+Feed: https://feeds.feedburner.com/Pin-up-docs-titriertPin-up-docsDontPanic</description>
                 
                 
-                <link>https://kurzinformiert.podigee.io/2152-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://apc.cdn.svmaudio.com/1796395-m-789eac5a19da9af93000541344ee0c5e.mp3?source=feed-cleanfeed"/>
-                <guid>https://kurzinformiert.podigee.io/2152-neue-episode</guid>
+                <link>https://pin-up-docs.de/2025/02/17/titriert-lieblingsfehler-januar-2025/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/pin_up_docs/pin-up-docs.de/pods/titriert/2025/Januar/Lieblingsfehler_Januar_2025.mp3"/>
+                <guid>https://pin-up-docs.de/2025/02/17/titriert-lieblingsfehler-januar-2025/</guid>
                 
             </item><item>
-                <title>Alles für den einen Traum - Floorballer Jakob Heins verzaubert Schweden</title>
-                <description> Liebing, Matthias www.deutschlandfunkkultur.de, Nachspiel. Feature 
-Feed: https://www.deutschlandfunkkultur.de/nachspiel-das-sportmagazin-100.xml</description>
+                <title>ENC338 – Diversity, Transformation, Ökosystementwicklung und Peer-Learning bei der DATEV mit Christian Kaiser</title>
+                <description>Thomas Jenewein Und Christian Kaiser haben sich getroffen, um über Lern- und Transformationsthemen zu sprechen.
+Feed: https://podcast.opensap.info/education-newscast/feed/mp3/</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/alles-fuer-den-einen-traum-floorballer-jakob-heins-verzaubert-schweden-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2025/02/16/alles_fuer_den_einen_traum_floorballer_jakob_heins_drk_20250216_1805_da1a6d27.mp3?refId=nachspiel-das-sportmagazin-100"/>
-                <guid>https://www.deutschlandfunkkultur.de/alles-fuer-den-einen-traum-floorballer-jakob-heins-verzaubert-schweden-100.html</guid>
+                <link>https://podcast.opensap.info/education-newscast/2025/02/17/enc338-diversity-transformation-okosystementwicklung-und-peer-learning-bei-der-datev-mit-christian-kaiser/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.opensap.info/education-newscast/podlove/file/872/s/feed/c/mp3/2025-02-17_educationnewscast338.mp3"/>
+                <guid>https://podcast.opensap.info/education-newscast/2025/02/17/enc338-diversity-transformation-okosystementwicklung-und-peer-learning-bei-der-datev-mit-christian-kaiser/</guid>
                 
             </item>
         </channel>
