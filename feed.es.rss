@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 19 Feb 2025 04:27:58 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 20 Feb 2025 04:26:42 +0200</lastBuildDate>
             <item>
-                <title>Protegemos tu privacidad - Canal prioritario: Cuándo la agencia te puede ayudar, y cuándo no - 14/02/25</title>
-                <description>Canal prioritario: Cuándo la agencia te puede ayudar, y cuándo no
-Feed: https://www.rtve.es/api/programas/118690/audios.rss</description>
+                <title>Crónica internacional - Buena sintonía entre EEUU y Rusia tras su reunión en Arabia Saudí</title>
+                <description>Buena sintonía entre EEUU y Rusia tras su reunión en Arabia Saudí
+Feed: https://www.rtve.es/api/programas/130031/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/protegemos-tu-privacidad/protegemos-tu-privacidad-canal-prioritario-cuando-agencia-puede-ayudar-cuando-no-14-02-25/16438450/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16438450.mp3"/>
-                <guid>https://www.rtve.es/play/audios/protegemos-tu-privacidad/protegemos-tu-privacidad-canal-prioritario-cuando-agencia-puede-ayudar-cuando-no-14-02-25/16438450/</guid>
+                <link>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-buena-sintonia-entre-eeuu-rusia-tras-su-reunion-arabia-saudi/16456420/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16456420.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-buena-sintonia-entre-eeuu-rusia-tras-su-reunion-arabia-saudi/16456420/</guid>
                 
             </item><item>
-                <title>#619: Historia de las 4 canciones más importantes del año nuevo</title>
-                <description>&lt;p&gt;En este episodio especial de Puerto de Libros Librería Radiofónica, celebramos el espíritu del Año Nuevo explorando las historias, los significados y las versiones más memorables de las canciones que se han convertido en la banda sonora de esta mágica transición. Las protagonistas de hoy son: &#34;Un Año Más&#34; de Mecano, &#34;Año Nuevo&#34; de la Billo&#39;s Caracas Boys, &#34;5 pa&#39; las 12&#34; de Néstor Zavarce, y la clásica &#34;Auld Lang Syne&#34; en las voces de Rod Stewart y el violín de André Rieu...
-Feed: https://anchor.fm/s/26d7ff48/podcast/rss</description>
+                <title>La Araña un asesino despiadado</title>
+                <description>En este episodio contamos con la reseña de un thriller del autor Lars Kepler. Es el libro número nueve de la saga del inspector Joona Linna.
+Feed: https://feeds.simplecast.com/Ls3L1Ojk</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/libreriaradio/episodes/619-Historia-de-las-4-canciones-ms-importantes-del-ao-nuevo-e2t0ojj</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO1184612512.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/libreriaradio/episodes/619-Historia-de-las-4-canciones-ms-importantes-del-ao-nuevo-e2t0ojj</guid>
+                <link>https://mentesliterales.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/0cc4690d-0899-463d-9bd6-b02c19a11833/episodes/bff1c845-9737-4531-b703-f8f2246851aa/audio/44d716b4-d599-4cda-b5c9-84f591d1aca6/default_tc.mp3?aid=rss_feed&amp;feed=Ls3L1Ojk"/>
+                <guid>https://mentesliterales.com</guid>
                 
             </item>
         </channel>

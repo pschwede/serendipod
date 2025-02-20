@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 19 Feb 2025 04:27:54 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 20 Feb 2025 04:26:36 +0200</lastBuildDate>
             <item>
-                <title>Lecture de la bible. </title>
-                <description>Evangile de Marc. Chapitre 9.
-
-Feed: https://anchor.fm/s/efd0a080/podcast/rss</description>
+                <title>[capsule] Une histoire qui finit bien - L&#39;effet Boomerang (Offrir et recevoir)</title>
+                <description>Une petite anecdote toute simple qui pourrait t&#39;inciter à voir la vie différemment.
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/54_30992b45a07b6164e23dd005ea57f08c.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/malia322/episodes/Lecture-de-la-bible-e2ut1jn</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/efd0a080/podcast/play/98518071/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-14%2F46839323-05de-b6df-a68f-27ff15241cb1.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/malia322/episodes/Lecture-de-la-bible-e2ut1jn</guid>
+                <link>https://www.podcastics.com/podcast/episode/capsule-une-histoire-qui-finit-bien-leffet-boomerang-offrir-et-recevoir-347619/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/54/347619.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/capsule-une-histoire-qui-finit-bien-leffet-boomerang-offrir-et-recevoir-347619/</guid>
                 
             </item><item>
-                <title>ZQSDeux #35 - Avowed, Kingdom Come Deliverance II : Deux salles, deux ambiances</title>
-                <description>Avowed, Kingdom Come Deliverance II : Deux salles, deux ambiances
-Feed: https://feeds.acast.com/public/shows/674c3de3f6ece089ea1b129c</description>
+                <title>Sparte contre Athènes (510-354), avec Manuel Rodrigues de Oliveira</title>
+                <description>&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hébergé par Acast. Visitez acast.com/privacy pour plus d&#39;informations.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/62c823b8f93e7c0012e9b303</description>
                 
                 
-                <link>https://shows.acast.com/zqsd/episodes/67adece39b1efd4902705b13</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/674c3de3f6ece089ea1b129c/e/67adece39b1efd4902705b13/media.mp3"/>
-                <guid>https://shows.acast.com/zqsd/episodes/67adece39b1efd4902705b13</guid>
+                <link>https://shows.acast.com/storiavoce/episodes/sparte-contre-athenes-510-354-avec-manuel-rodrigues-de-olive</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/62c823b8f93e7c0012e9b303/e/67a61dee3ef0b176eaede772/media.mp3"/>
+                <guid>https://shows.acast.com/storiavoce/episodes/sparte-contre-athenes-510-354-avec-manuel-rodrigues-de-olive</guid>
                 
             </item>
         </channel>
