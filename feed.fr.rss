@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 20 Feb 2025 04:26:36 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 21 Feb 2025 04:29:03 +0200</lastBuildDate>
             <item>
-                <title>[capsule] Une histoire qui finit bien - L&#39;effet Boomerang (Offrir et recevoir)</title>
-                <description>Une petite anecdote toute simple qui pourrait t&#39;inciter à voir la vie différemment.
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/54_30992b45a07b6164e23dd005ea57f08c.rss</description>
+                <title>Ep 93  Djongué avec Asta Gadio, le 1er parfum au wussulan </title>
+                <description>Soutenir Tatousenti :· Faire un don pour soutenir et encourager Tatousenti à continuer, cliquez ici· Site : 
+Feed: https://feeds.audiomeans.fr/feed/668b6919-1acc-45b7-a38e-08f6be8e9878.xml</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/capsule-une-histoire-qui-finit-bien-leffet-boomerang-offrir-et-recevoir-347619/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/54/347619.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/capsule-une-histoire-qui-finit-bien-leffet-boomerang-offrir-et-recevoir-347619/</guid>
+                <link>https://www.tatousenti.com/podcast-le-wussulan-un-encens-de-lafrique-de-louest/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/120e90b5-94ae-4c75-a7da-a2ab8e33532d.mp3?_=1739836667"/>
+                <guid>https://www.tatousenti.com/podcast-le-wussulan-un-encens-de-lafrique-de-louest/</guid>
                 
             </item><item>
-                <title>Sparte contre Athènes (510-354), avec Manuel Rodrigues de Oliveira</title>
-                <description>&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hébergé par Acast. Visitez acast.com/privacy pour plus d&#39;informations.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/62c823b8f93e7c0012e9b303</description>
+                <title>Matthieu Cidre n&#39;est pas prolongé au RC Vannes</title>
+                <description>Ça va plaquer !
+Feed: https://api.octopus.saooti.com/rss/emission/9699.rss</description>
                 
                 
-                <link>https://shows.acast.com/storiavoce/episodes/sparte-contre-athenes-510-354-avec-manuel-rodrigues-de-olive</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/62c823b8f93e7c0012e9b303/e/67a61dee3ef0b176eaede772/media.mp3"/>
-                <guid>https://shows.acast.com/storiavoce/episodes/sparte-contre-athenes-510-354-avec-manuel-rodrigues-de-olive</guid>
+                <link>https://podcasts.ouest-france.fr/main/pub/podcast/1211411</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.octopus.saooti.com/podcast/download/1211411.mp3?origin=rss"/>
+                <guid>https://podcasts.ouest-france.fr/main/pub/podcast/1211411</guid>
                 
             </item>
         </channel>
