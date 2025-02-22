@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 21 Feb 2025 04:29:08 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 22 Feb 2025 04:27:27 +0200</lastBuildDate>
             <item>
-                <title>Serendipias | Moure oye voces | ¿Cuál ha sido la moda más absurda?</title>
-                <description>&lt;p&gt;Ricardo Moure responde en Serendipias a las consultas científicas de los oyentes&lt;/p&gt;
-Feed: https://fapi-top.prisasd.com/podcast/playser/serendipias/itunestfp/podcast.xml</description>
+                <title>XX Aniversario de RockZone: Revisando 2006</title>
+                <description>&lt;p&gt;Esta semana os traemos el segundo de los 20 programas que iremos publicando de aquí a final de año para celebrar el 20 aniversario de RockZone. En este episodio le toca a 2006 con &amp;#39;Blood Mountain&amp;#39; de Mastodon y &amp;#39;Vivalaguerra&amp;#39; de Standstill como números uno en los apartados internacional y nacional...
+Feed: https://anchor.fm/s/37ca67b4/podcast/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/SERENDIPIAS_SER_PODCAST__3260_P/media/playser/audio/20252/06/4333174.mp3"/>
-                <guid></guid>
+                <link>https://podcasters.spotify.com/pod/show/rockzone/episodes/XX-Aniversario-de-RockZone-Revisando-2006-e2v315p</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/37ca67b4/podcast/play/98714233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-19%2F8e49654f-454b-afa7-7756-c4573590b745.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/rockzone/episodes/XX-Aniversario-de-RockZone-Revisando-2006-e2v315p</guid>
                 
             </item><item>
-                <title>PRIMER PLANO con LOS JALEO</title>
-                <description>Nos llam&amp;oacute; la atenci&amp;oacute;n la originalidad de su propuesta y quisimos conocerles. Aqu&amp;iacute; les tenemos, todo un lujo tener a los cuatro integrantes de este grupo madrile&amp;ntilde;o para desgranar de d&amp;oacute;nde viene su m&amp;uacute;sica, qu&amp;eacute; est&amp;aacute; pasando con ella y para d&amp;oacute;nde va. Dibujemos un retrato radiof&amp;oacute;nico de una de esas bandas que ya est&amp;aacute; dando que hablar
-Feed: https://www.ivoox.com/primer-plano_fg_f1237454_filtro_1.xml</description>
+                <title>Documentos RNE - Carmen Valero, agitadora del atletismo en la España de los 70 - 21/02/25</title>
+                <description>Carmen Valero, agitadora del atletismo en la España de los 70
+Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/primer-plano-los-jaleo-audios-mp3_rf_139905675_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-los-jaleo_mf_139905675_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/primer-plano-los-jaleo-audios-mp3_rf_139905675_1.html</guid>
+                <link>https://www.rtve.es/play/audios/documentos-rne/carmen-valero-agitadora-del-atletismo-espana-70-21-02-25/16461121/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16461121.mp3"/>
+                <guid>https://www.rtve.es/play/audios/documentos-rne/carmen-valero-agitadora-del-atletismo-espana-70-21-02-25/16461121/</guid>
                 
             </item>
         </channel>

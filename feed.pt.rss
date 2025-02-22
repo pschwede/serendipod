@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 21 Feb 2025 04:29:12 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 22 Feb 2025 04:27:30 +0200</lastBuildDate>
             <item>
-                <title>Ep 740 - Sou um homem tóxico em construção</title>
-                <description>Apeadeiros da conversa:
-.Sou um homem tóxico em c…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:386738054/sounds.rss</description>
+                <title>Xadrez Verbal #410 Eleições no Equador</title>
+                <description>Teremos segundo turno no Equador! Além, claro, daquele tradicional pião pela nossa quebrada latino-americana.
+Passamos pelas mais recentes notícias do sempre complicado tabuleiro do Oriente Médio e sobre o futuro de Gaza.
+Por fim, comentamos as...
+Feed: https://www.spreaker.com/show/4712237/episodes/feed</description>
                 
                 
-                <link>https://soundcloud.com/tuneldevento/ep-740-sou-um-homem-toxico-em-construcao</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2035719996-tuneldevento-ep-740-sou-um-homem-toxico-em-construcao.mp3"/>
-                <guid>https://soundcloud.com/tuneldevento/ep-740-sou-um-homem-toxico-em-construcao</guid>
+                <link>https://www.spreaker.com/episode/xadrez-verbal-410-eleicoes-no-equador--64394336</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64394336/xadrez_verbal_410.mp3"/>
+                <guid>https://www.spreaker.com/episode/xadrez-verbal-410-eleicoes-no-equador--64394336</guid>
                 
             </item><item>
-                <title>20/02/2025 - Novo iPhone 16e, Apple Intelligence no Brasil, novo modem de celular e muito mais!</title>
-                <description>&lt;p&gt;????️ Bom dia Tech! Tudo bem? Hoje trago pra você: &lt;br /&gt;???? Bônus: Aplicativo de Podcasts Loop é lançado! &lt;br /&gt;???? Apple confirma Apple Intelligence no Brasil em abril &lt;br /&gt;???? Apple lança seu modem de celular: o chip C1 &lt;br /&gt;???? Apple anuncia novo iPhone 16e &lt;br /&gt;???? HP adquire partes da Humane, startup que criou o Ai Pin &lt;br /&gt;???? Gemini ficará disponível apenas em aplicativo exclusivo no iOS &lt;br /&gt;⚛️ Microsoft anuncia novo processador quântico &lt;/p&gt;&lt;br /&gt;Quer patrocinar ou fazer...
-Feed: https://anchor.fm/s/11210f64/podcast/rss</description>
+                <title>Novidades do Flutter, Python e Go; A briga Linux continua; State of Rust; CLI no Ktor; Swift no VS Code [Compilado #186]</title>
+                <description>&lt;p&gt;Nesse episódio trouxemos as notícias e novidades do mundo da programação que nos chamaram atenção dos dias 08/02 a 14/02.&lt;/p&gt;&lt;p&gt;???? &lt;strong&gt;Imersão Full Stack &amp;amp;&amp;amp; Full Cycle&lt;/strong&gt;&lt;br&gt;Aprenda a criar um home broker do zero, passando por backend, frontend, deploy e monitoramento, com tecnologias como Docker, Golang, NestJS, Next.js e mais. Participe gratuitamente da Imersão Full Stack &amp;amp;&amp;amp; Full Cycle, de 17 a 24 de fevereiro. Inscreva-se por aqui: https://codigofonte...
+Feed: https://anchor.fm/s/4f366e84/podcast/rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/bomdiatech/episodes/20022025---Novo-iPhone-16e--Apple-Intelligence-no-Brasil--novo-modem-de-celular-e-muito-mais-e2v4544</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/11210f64/podcast/play/98751044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-19%2Fc47f50ac-3169-e242-9b91-ff2043e403b2.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/bomdiatech/episodes/20022025---Novo-iPhone-16e--Apple-Intelligence-no-Brasil--novo-modem-de-celular-e-muito-mais-e2v4544</guid>
+                <link>https://podcasters.spotify.com/pod/show/compilado/episodes/Novidades-do-Flutter--Python-e-Go-A-briga-Linux-continua-State-of-Rust-CLI-no-Ktor-Swift-no-VS-Code-Compilado-186-e2utsa8</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/4f366e84/podcast/play/98545416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-15%2F394936511-44100-2-08bf5c0276656.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/compilado/episodes/Novidades-do-Flutter--Python-e-Go-A-briga-Linux-continua-State-of-Rust-CLI-no-Ktor-Swift-no-VS-Code-Compilado-186-e2utsa8</guid>
                 
             </item>
         </channel>

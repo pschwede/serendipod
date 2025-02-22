@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 21 Feb 2025 04:29:03 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 22 Feb 2025 04:27:23 +0200</lastBuildDate>
             <item>
-                <title>Ep 93  Djongué avec Asta Gadio, le 1er parfum au wussulan </title>
-                <description>Soutenir Tatousenti :· Faire un don pour soutenir et encourager Tatousenti à continuer, cliquez ici· Site : 
-Feed: https://feeds.audiomeans.fr/feed/668b6919-1acc-45b7-a38e-08f6be8e9878.xml</description>
-                
-                
-                <link>https://www.tatousenti.com/podcast-le-wussulan-un-encens-de-lafrique-de-louest/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/120e90b5-94ae-4c75-a7da-a2ab8e33532d.mp3?_=1739836667"/>
-                <guid>https://www.tatousenti.com/podcast-le-wussulan-un-encens-de-lafrique-de-louest/</guid>
-                
-            </item><item>
                 <title>Matthieu Cidre n&#39;est pas prolongé au RC Vannes</title>
                 <description>Ça va plaquer !
 Feed: https://api.octopus.saooti.com/rss/emission/9699.rss</description>
@@ -29,6 +19,16 @@ Feed: https://api.octopus.saooti.com/rss/emission/9699.rss</description>
                 <link>https://podcasts.ouest-france.fr/main/pub/podcast/1211411</link>
                 <enclosure type="audio/mpeg" length="1" url="https://api.octopus.saooti.com/podcast/download/1211411.mp3?origin=rss"/>
                 <guid>https://podcasts.ouest-france.fr/main/pub/podcast/1211411</guid>
+                
+            </item><item>
+                <title>Mix Franco : 02/21/2025 06:00</title>
+                <description>785-330992
+Feed: http://podcast.cism893.ca/radioshows/785/feed_itunes.xml</description>
+                
+                
+                <link>https://podcast.cism893.ca/podcast/download_mp3/330992.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/330992.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/330992.mp3</guid>
                 
             </item>
         </channel>

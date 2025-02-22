@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 21 Feb 2025 04:28:58 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 22 Feb 2025 04:27:19 +0200</lastBuildDate>
             <item>
-                <title>e205 Dr. Bernhard Lübbers. Fotobuch-Talk. Frankfurter Buchmesse 2024.</title>
-                <description>»Wir lernen durch Bücher!«
-Feed: https://fotografie-neu-denken.podigee.io/feed/mp3</description>
+                <title>283 - 3 Tipps, die deinen Arbeitstag retten</title>
+                <description>Falls er chaotisch startet, probier sie aus und mach aus Chaos Produktivität!
+Feed: https://abenteuerhomeoffice.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://fotografie-neu-denken.podigee.io/s8e254-fotobuchtalk-luebbers</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1766992-m-accfb4476904777a8962cfbb75bdcdd5.mp3?source=feed"/>
-                <guid>https://fotografie-neu-denken.podigee.io/s8e254-fotobuchtalk-luebbers</guid>
+                <link>https://abenteuerhomeoffice.podigee.io/298-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1798665-m-f3bea6da6d290d42c4ed76c3c9a34b91.mp3?source=feed"/>
+                <guid>https://abenteuerhomeoffice.podigee.io/298-new-episode</guid>
                 
             </item><item>
-                <title>Es darf laut sein</title>
-                <description>Manchmal kann die Welt ganz schön laut sein. Vielleicht kommt da die Sehnsucht auf nach einem Ort der Stille. Nach Rückzug, damit die Seele zur Ruhe kommt.
-Feed: https://feeds.br.de/auf-ein-wort/feed.xml</description>
+                <title>Früh-Update am Samstag</title>
+                <description>Fußball-Bundesliga: Freiburg besiegt Bremen 5:0 und klettert auf Champions-League-Platz +++ 2. Liga: Hamburger SV nach 3:0 gegen Kaiserslautern Tabellenführer +++ Fußball, Frauen: DFB-Team startet mit 2:2 in den Niederlanden in die Nations League +++ Leichtathletik - Kugelstoßerin Ogunleye wird deutsche Meisterin in der Halle mit persönlicher Bestleistung
+Feed: https://www.sportschau.de/podcasts/sportschau-hundert-sekunden/index~podcast.xml</description>
                 
                 
-                <link>https://www.br.de/mediathek/podcast/auf-ein-wort/es-darf-laut-sein/2103532</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2103532/c/feed/es-darf-laut-sein.mp3"/>
-                <guid>https://www.br.de/mediathek/podcast/auf-ein-wort/es-darf-laut-sein/2103532</guid>
+                <link>https://www.sportschau.de/podcasts/sportschau-hundert-sekunden/frueh-update-am-samstag,audio-frueh-update-am-samstag-154.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sportschau-dd.akamaized.net/weltweit/nfsk/2025/02/21/64ae0273-d037-4010-b6df-1ada2c9dfffe/64ae0273-d037-4010-b6df-1ada2c9dfffe_MP3-128.mp3"/>
+                <guid>https://www.sportschau.de/podcasts/sportschau-hundert-sekunden/frueh-update-am-samstag,audio-frueh-update-am-samstag-154.html</guid>
                 
             </item>
         </channel>
