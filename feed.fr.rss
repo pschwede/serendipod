@@ -9,26 +9,35 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 22 Feb 2025 04:27:23 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 23 Feb 2025 04:26:31 +0200</lastBuildDate>
             <item>
-                <title>Matthieu Cidre n&#39;est pas prolongé au RC Vannes</title>
-                <description>Ça va plaquer !
-Feed: https://api.octopus.saooti.com/rss/emission/9699.rss</description>
+                <title>Dog Whistling, Tom Van Grieken et &#34;Omvolking&#34; - Bas Les Masques n°4 (PopEx)</title>
+                <description>&lt;p&gt;&#34;Bas Les Masques&#34;, la chronique qui décortique les discours politiques. Quels cadrages? Quelles rhétoriques? Quelles idéologies se cachent derrière les mots? Quelles émotions pour susciter notre adhésion? Les étudiant·e·s exerceront, avec vous, leur esprit critique afin de déconstruire les apparences et vous révéler les stratégies mises en place...
+Feed: https://anchor.fm/s/c806c3a4/podcast/rss</description>
                 
                 
-                <link>https://podcasts.ouest-france.fr/main/pub/podcast/1211411</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.octopus.saooti.com/podcast/download/1211411.mp3?origin=rss"/>
-                <guid>https://podcasts.ouest-france.fr/main/pub/podcast/1211411</guid>
+                <link>https://podcasters.spotify.com/pod/show/popex/episodes/Dog-Whistling--Tom-Van-Grieken-et-Omvolking---Bas-Les-Masques-n4-PopEx-e2updv0</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/c806c3a4/podcast/play/98399648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-12%2Fd8f0703d-25ba-c95f-2a47-e2557849a171.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/popex/episodes/Dog-Whistling--Tom-Van-Grieken-et-Omvolking---Bas-Les-Masques-n4-PopEx-e2updv0</guid>
                 
             </item><item>
-                <title>Mix Franco : 02/21/2025 06:00</title>
-                <description>785-330992
-Feed: http://podcast.cism893.ca/radioshows/785/feed_itunes.xml</description>
+                <title>L&#39;INTÉGRALE - #LeDriveRTL2 (21/02/25)</title>
+                <description>Les classiques du jour :  
+- The Animals &#34;House of the Rising Sun&#34;  
+- Muse &#34;Feeling Good&#34;  
+Les nouveautés du jour :  
+- Seal &#34;All I Know is Now&#34;
+- CVC &#34;Bonnie &amp; Clyde&#34;
+- Kriill &#34; - &#34;Every Word You Say&#34; 
+Les sorties albums :
+- The Liminanas &#34;Faded&#34;  
+- Heather N...
+Feed: https://feeds.audiomeans.fr/feed/e88d096f-03b3-41ed-b4c7-ecb6daf30382.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/330992.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/330992.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/330992.mp3</guid>
+                <link>https://www.rtl2.fr/programmes/le-drive-rtl2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/425e3119-bb36-4bca-a382-7b044467d55c.mp3?_=1740165797"/>
+                <guid>https://www.rtl2.fr/programmes/le-drive-rtl2</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 22 Feb 2025 04:27:19 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 23 Feb 2025 04:26:27 +0200</lastBuildDate>
             <item>
-                <title>283 - 3 Tipps, die deinen Arbeitstag retten</title>
-                <description>Falls er chaotisch startet, probier sie aus und mach aus Chaos Produktivität!
-Feed: https://abenteuerhomeoffice.podigee.io/feed/mp3</description>
+                <title>23.02.2025 - Ihr Horoskop</title>
+                <description>Widder 4 Sterne
+Eine kleine Panne muss Ihnen nicht peinlich sein. Und auch ein kleiner Dämpfer ist kein Weltuntergang. Das geht vorüber. 
+ 
+Stier 4 Sterne
+Keine Sorge, Sie schaffen das! Wenn Sie vernünftig planen, kriegen Sie private Verpflichtungen und Entspannung locker unter einen Hut. 
+ 
+Zwillinge 2 Sterne
+Die Hormone scheinen bei Ihnen ziemlich in Aufruhr zu sein. Doch Vorsicht! Je mehr die Gefühle mit Ihnen durchgehen, umso schneller könnten Sie es bereuen...
+Feed: https://rss.art19.com/der-radio-f-sternecheck</description>
                 
                 
-                <link>https://abenteuerhomeoffice.podigee.io/298-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1798665-m-f3bea6da6d290d42c4ed76c3c9a34b91.mp3?source=feed"/>
-                <guid>https://abenteuerhomeoffice.podigee.io/298-new-episode</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/a5444485-c17a-43f2-b26d-ae6b62eccfb2.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Früh-Update am Samstag</title>
-                <description>Fußball-Bundesliga: Freiburg besiegt Bremen 5:0 und klettert auf Champions-League-Platz +++ 2. Liga: Hamburger SV nach 3:0 gegen Kaiserslautern Tabellenführer +++ Fußball, Frauen: DFB-Team startet mit 2:2 in den Niederlanden in die Nations League +++ Leichtathletik - Kugelstoßerin Ogunleye wird deutsche Meisterin in der Halle mit persönlicher Bestleistung
-Feed: https://www.sportschau.de/podcasts/sportschau-hundert-sekunden/index~podcast.xml</description>
+                <title>Men at Arms - Der Englisch-Niederländische Seekrieg</title>
+                <description>Qualmende Kanonen, die imposant aus den Flanken riesiger Schiffe ragten, scharfe Entermesser und kühne Seemänner, darum geht es heute!&lt;br /&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/631f50d065fa5500121540a4</description>
                 
                 
-                <link>https://www.sportschau.de/podcasts/sportschau-hundert-sekunden/frueh-update-am-samstag,audio-frueh-update-am-samstag-154.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sportschau-dd.akamaized.net/weltweit/nfsk/2025/02/21/64ae0273-d037-4010-b6df-1ada2c9dfffe/64ae0273-d037-4010-b6df-1ada2c9dfffe_MP3-128.mp3"/>
-                <guid>https://www.sportschau.de/podcasts/sportschau-hundert-sekunden/frueh-update-am-samstag,audio-frueh-update-am-samstag-154.html</guid>
+                <link>https://www.patreon.com/godsrage</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/631f50d065fa5500121540a4/e/67b8a35e86a56284d0724d37/media.mp3"/>
+                <guid>https://www.patreon.com/godsrage</guid>
                 
             </item>
         </channel>
