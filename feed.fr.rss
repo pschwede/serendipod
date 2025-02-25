@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 24 Feb 2025 04:27:05 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 25 Feb 2025 04:27:16 +0200</lastBuildDate>
             <item>
-                <title>L&#39;île de Ré d&#39;Allain Bougrain Dubourg</title>
-                <description>L&#39;île de Ré d&#39;Allain Bougrain Dubourg
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10006.xml</description>
-                
-                
-                <link>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-23-fevrier-2025-5103749</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/07a0a8a0-bcac-4a09-bfc8-8531c6ef1fee/10006-23.02.2025-ITEMA_24037770-2025F5147S0054-NET_MFI_EAEFEDBB-4D39-47A8-9623-29684756AE91-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-23-fevrier-2025-5103749</guid>
-                
-            </item><item>
-                <title>DEWALT : Histoire, Nouveautés &amp; Conseils - Radio Bichon </title>
-                <description>Dans cet épisode, Laurent Jacquet reçoit Manu Guitel, responsable formation chez DeWalt. Ensemble, ils plongent dans l’histoire fascinante de la marque, dévoilent les dernières nouveautés de l’année et partagent des trucs et astuces incontournables pour tirer le...
-Feed: https://feeds.audiomeans.fr/feed/f8fc4dc7-11a6-48c5-8e8c-4dd2ac13ad8c.xml</description>
+                <title>???????? #229 - Que mangerait-on si les champignons n&#39;existaient pas ? avec Guillaume Lopez</title>
+                <description>
+Feed: https://feeds.audiomeans.fr/feed/02370dad-ef66-4252-9a2b-e3661bd93b5f.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/7f25dfee-5321-4d82-bd86-3c5951007d44.mp3?_=1737471778"/>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/e9d22f9f-eb3e-4132-a669-7227de66cd97.mp3?_=1740003497"/>
                 <guid></guid>
+                
+            </item><item>
+                <title>EXTRAIT | « C&#39;est pas un vrai down ! »</title>
+                <description>Extrait de S3E22 avec Morgane Cadignan
+Feed: https://feeds.acast.com/public/shows/4-quarts-dheure</description>
+                
+                
+                <link>https://shows.acast.com/4-quarts-dheure/episodes/extrait-cest-pas-un-vrai-down</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/632090bb4d259900133e31a5/e/67b35d544d9bd1092cc0fb07/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwcml2YXRlIn0=&amp;sig=lfi2rCHoxt1PIea5z6EEOaSrFO0tAWsvZqIcP8_MZOQ"/>
+                <guid>https://shows.acast.com/4-quarts-dheure/episodes/extrait-cest-pas-un-vrai-down</guid>
                 
             </item>
         </channel>
