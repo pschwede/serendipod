@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 27 Feb 2025 04:27:37 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 28 Feb 2025 04:28:00 +0200</lastBuildDate>
             <item>
-                <title>Euer Update am Abend, 26.02.2025</title>
-                <description>
-Feed: https://feeds.podcastmaker.de/14/4.rss</description>
+                <title>#151: Spieledemos beim Steam Next Fest</title>
+                <description>&lt;p&gt;Dieses Mal wühlen Robert Glashüttner und Rainer Sigl tief in der aktuellen Spieledemokiste, denn das Steam Next Fest lädt ein und läuft noch bis inklusive 3. März! Das bedeutet: Hunderte Games, die erst erscheinen werden, können kostenfrei vorab runtergeladen und ausprobiert werden. Der FM4 Game Podcast spricht sieben persönliche Tipps aus. Außerdem: Eine Analyse des aktuellen Rollenspiels &#34;Avowed&#34; von Obsidian, und ein umfangreicher Bericht zum kuriosen Machinima-Film &#34;Grand Theft Hamlet&#34;...
+Feed: https://podcast.orf.at/podcast/fm4/fm4_gamepodcast/fm4_gamepodcast.xml</description>
                 
                 
-                <link>https://podcasts.podcastmaker.de/14/4/92003/Euer-Update-am-Abend--26.02.2025.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.podcastmaker.de/14/4/92003/Euer-Update-am-Abend--26.02.2025.mp3"/>
-                <guid>https://podcasts.podcastmaker.de/14/4/92003/Euer-Update-am-Abend--26.02.2025.html</guid>
+                <link>https://sound.orf.at/podcast/fm4/fm4-game-podcast/151-spieledemos-beim-steam-next-fest</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/fm4/fm4_gamepodcast/items/di_fm4_gamepodcast_clk_a1de1a6ee0264a22bb79595d9fb26766.mp3?etag=d4b24a91e38c971f32a5ffca6ba4b9b6"/>
+                <guid>https://sound.orf.at/podcast/fm4/fm4-game-podcast/151-spieledemos-beim-steam-next-fest</guid>
                 
             </item><item>
-                <title>Mit ChatGPT dein Onlinebusiness starten: So kreierst du Positionierung &amp; Content in nur 1 Stunde</title>
-                <description>So kreierst du Idee, Positionierung &amp; Content in nur 1 Stunde
-Feed: https://carolinepreusspodcast.podigee.io/feed/mp3</description>
+                <title>UK Open Vorschau: Wer wird der nächste Aspinall, Noppert oder Gilding?</title>
+                <description>Nach Women&#39;s Series und Challenge Tour dominiert Beau Greaves auch die Development Tour. Am ersten Wochenende der neuen Saison im Nachwuchs-Bereich der PDC gewinnt die Überspielerin gleich zwei der fünf Turniere und setzt sich damit auch in dieser Turnierserie an die Spitze. Aus deutscher Sicht verläuft das Auftakt-Wochenende unspektakulär, aber zumindest teilweise erfolgreich.
+So darf es bei den UK Open gerne weitergehen...
+Feed: https://meinsportpodcast.de/darts/feed/</description>
                 
                 
-                <link>https://carolinepreusspodcast.podigee.io/497-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1768791-m-ad09af9bcbfea250b20846bcf6a6098c.mp3?source=feed"/>
-                <guid>https://carolinepreusspodcast.podigee.io/497-neue-episode</guid>
+                <link>https://meinsportpodcast.de/checkout-der-darts-podcast/uk-open-vorschau-wer-wird-der-naechste-aspinall-noppert-oder-gilding</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/252124/uk-open-vorschau-wer-wird-der-naechste-aspinall-noppert-oder-gilding.mp3?awCollectionId=99990022&amp;awEpisodeId=252124"/>
+                <guid>https://meinsportpodcast.de/checkout-der-darts-podcast/uk-open-vorschau-wer-wird-der-naechste-aspinall-noppert-oder-gilding</guid>
                 
             </item>
         </channel>
