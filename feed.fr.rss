@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 28 Feb 2025 04:28:04 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 01 Mar 2025 04:26:35 +0200</lastBuildDate>
             <item>
-                <title>Philippe Faucon, réalisateur, pour la série Nismet</title>
-                <description>Philippe Faucon, réalisateur, pour la série Nismet
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_12360.xml</description>
+                <title>La grande recrue de 1653, l’opération qui a sauvé Montréal</title>
+                <description>En octobre1651, la population de Montréal (alors Ville-Marie) ne comptait plus qu’une cinquantaine de personnes. Les raids iroquois se multipliaient, la survie de Ville-Marie ne tenait plus qu’à un fil. Deux ans plus tard, en novembre1653, une centaine de colons sont arrivés dans la colonie. L’historienne Catherine Ferland raconte comment la grande recrue a assuré l’avenir de Montréal.
+Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/philippe-faucon-realisateur-pour-la-serie-nismet-2390573</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a2db767f-e016-4fcf-8ef9-4931cceed944/12360-27.02.2025-ITEMA_24042259-2025C51852S1058-NET_MFC_DE763CF1-24B7-4289-94BB-8690CD3F9DC1-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/philippe-faucon-realisateur-pour-la-serie-nismet-2390573</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/44c53b61-55c8-46e2-aa74-6042f030bc84/2025-02-28_20_00_00_aujourdhuilhistoirebalado_0000.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Trouver le verbe de sa vie : une nouvelle approche pour guider nos élèves avec Sarah Roubato [Inspiration] - 220</title>
-                <description>&lt;p&gt;Dans l’épisode 217,&lt;strong&gt;Virginie Torrenti&lt;/strong&gt; nous parlait de l’&lt;strong&gt;ikigaï&lt;/strong&gt; et nous recommandait la lecture deTrouve le verbe de ta vie. Aujourd’hui, nous allons plus loin en recevant&lt;strong&gt;Sarah Roubato&lt;/strong&gt;, l’auteure de ce livre inspirant qui propose une approche novatrice de l’orientation scolaire et professionnelle...
-Feed: https://anchor.fm/s/17b87a4c/podcast/rss</description>
+                <title>L&#39;IA et son monde (2/2) avec François Rastier</title>
+                <description>
+Ce que l&#39;on appelle &#34;L&#39;intelligence artificielle&#34; fait déjà partie de notre quotidien, que nous le voulions ou non. Issue d&#39;un monde de science-fiction, elle rend notre réalité encore plus irréelle, posant une multitude questions, toutes plus pressant...
+Feed: https://feed.ausha.co/Aj2pdcL1pE8j</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/coreflechir/episodes/Trouver-le-verbe-de-sa-vie--une-nouvelle-approche-pour-guider-nos-lves-avec-Sarah-Roubato-Inspiration---220-e2ur9eo</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/17b87a4c/podcast/play/98460568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-13%2F394831150-44100-2-1c5f4cd5007a1.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/coreflechir/episodes/Trouver-le-verbe-de-sa-vie--une-nouvelle-approche-pour-guider-nos-lves-avec-Sarah-Roubato-Inspiration---220-e2ur9eo</guid>
+                <link>https://podcast.ausha.co/heretiques/l-ia-et-son-monde-2-2-avec-francois-rastier</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/mXVKXT9VExKN.mp3?t=1739478632"/>
+                <guid>https://podcast.ausha.co/heretiques/l-ia-et-son-monde-2-2-avec-francois-rastier</guid>
                 
             </item>
         </channel>
