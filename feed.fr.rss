@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 01 Mar 2025 04:26:35 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 02 Mar 2025 04:25:50 +0200</lastBuildDate>
             <item>
-                <title>La grande recrue de 1653, l’opération qui a sauvé Montréal</title>
-                <description>En octobre1651, la population de Montréal (alors Ville-Marie) ne comptait plus qu’une cinquantaine de personnes. Les raids iroquois se multipliaient, la survie de Ville-Marie ne tenait plus qu’à un fil. Deux ans plus tard, en novembre1653, une centaine de colons sont arrivés dans la colonie. L’historienne Catherine Ferland raconte comment la grande recrue a assuré l’avenir de Montréal.
-Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
+                <title>133: La politesse en France</title>
+                <description>Chaque pays a ses codes de politesse, parfois subtils ! On vous dit l&#39;essentiel du savoir-vivre à la française !
+Feed: https://www.easyfrench.fm/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/44c53b61-55c8-46e2-aa74-6042f030bc84/2025-02-28_20_00_00_aujourdhuilhistoirebalado_0000.mp3"/>
-                <guid></guid>
+                <link>https://www.easyfrench.fm/133</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/70af2cf4-3bf3-4c87-a090-4ae601a15527/5778ed96-fd29-40a3-9ca9-97b61361ee45.mp3"/>
+                <guid>https://www.easyfrench.fm/133</guid>
                 
             </item><item>
-                <title>L&#39;IA et son monde (2/2) avec François Rastier</title>
-                <description>
-Ce que l&#39;on appelle &#34;L&#39;intelligence artificielle&#34; fait déjà partie de notre quotidien, que nous le voulions ou non. Issue d&#39;un monde de science-fiction, elle rend notre réalité encore plus irréelle, posant une multitude questions, toutes plus pressant...
-Feed: https://feed.ausha.co/Aj2pdcL1pE8j</description>
+                <title>José Bové, l’homo altermondialicus, l’homme de tous les contre-pieds  5/5 : Osez Bové ! </title>
+                <description>José Bové, l’homo altermondialicus, l’homme de tous les contre-pieds  5/5 : Osez Bové ! 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10351.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/heretiques/l-ia-et-son-monde-2-2-avec-francois-rastier</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/mXVKXT9VExKN.mp3?t=1739478632"/>
-                <guid>https://podcast.ausha.co/heretiques/l-ia-et-son-monde-2-2-avec-francois-rastier</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/a-voix-nue/osez-bove-6866342</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/2cc1c343-e446-4ec0-bf2c-507e3775130c/10351-01.03.2025-ITEMA_24032226-2021C3500E0194-ITE_00119852_RSCE-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/a-voix-nue/osez-bove-6866342</guid>
                 
             </item>
         </channel>
