@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 02 Mar 2025 04:25:45 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 03 Mar 2025 04:28:38 +0200</lastBuildDate>
             <item>
-                <title>Gesammelte Stimmen - Projekt &#34;Kolot&#34; erfasst Zeugnisse zum 7. Oktober</title>
-                <description> Dippel, Carsten www.deutschlandfunkkultur.de, Aus der jüdischen Welt 
-Feed: https://www.deutschlandfunkkultur.de/podcast-aus-der-juedischen-welt-100.xml</description>
+                <title>Warum Du Dich klein machst, ohne es zu merken</title>
+                <description>Grenzen statt Schuldgefühle
+Feed: https://mensch-sein-auf-deine-art.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/gesammelte-stimmen-projekt-kolot-erfasst-zeugnisse-zum-7-oktober-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2025/02/28/gesammelte_stimmen_projekt_kolot_erfasst_zeugnisse_zum_7_drk_20250228_1915_b4b62c53.mp3?refId=podcast-aus-der-juedischen-welt-100"/>
-                <guid>https://www.deutschlandfunkkultur.de/gesammelte-stimmen-projekt-kolot-erfasst-zeugnisse-zum-7-oktober-100.html</guid>
+                <link>https://mensch-sein-auf-deine-art.podigee.io/347-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1807638-m-ac2c2e8e817975cca1bb939d29ce22ca.mp3?source=feed"/>
+                <guid>https://mensch-sein-auf-deine-art.podigee.io/347-new-episode</guid>
                 
             </item><item>
-                <title>Lebenskrise oder Neuanfang? Wie du die Herausforderungen der Midlife-Crisis bewältigst</title>
-                <description>Irgendwann im Leben kommt f&amp;uuml;r viele Menschen der Moment, in dem wir uns fragen: War das schon alles? Bin ich noch auf dem richtigen Weg? Die Midlife-Crisis gilt oft als Krise um die Lebensmitte &amp;ndash; aber was, wenn sie eigentlich eine Einladung zum Neustart ist? Zwischen Selbstzweifeln, Ver&amp;auml;nderungen und neuen M&amp;ouml;glichkeiten steckt die Chance, das eigene Leben bewusst in die Hand zu nehmen. Im Interview zwischen Female Empowerment Coach Kathrin Leinweber und Dr...
-Feed: https://kathrinleinweber.de/podcast.xml</description>
+                <title>Vom Matterhorn zum Zauberberg: Unterwegs in der Schweiz</title>
+                <description>In den Schweizer Alpen ist von einem Hotel aus das Matterhorn in seiner ganzen Gr&amp;#246;&amp;#223;e zu sehen &amp;#8211; umgeben von nichts au&amp;#223;er Schnee und Eis. Das h&amp;#246;rt sich erst einmal nicht so ungew&amp;#246;hnlich an, aber die Rede ist von einem Iglu-Dorf in Zermatt. Dort &amp;#252;bernachten G&amp;#228;ste in Schlafs&amp;#228;cken. Ohne W-Lan, ohne Fernseher und ohne Heizung in einem Iglu. Kalt und faszinierend zugleich Patricia Verne hat sich das besondere Hotel angesehen...
+Feed: https://www.inforadio.de/podcast/feeds/unterwegs/podcast--unterwegs.xml/feed=podcast.xml</description>
                 
                 
-                <link>http://kathrinleinweber.de</link>
-                <enclosure type="audio/mpeg" length="1" url="http://kathrinleinweber.de/podcast/mp3/265/Wie_du_die_Herausforderungen_der_Midlife-Crisis_bewaeltigst.mp3"/>
-                <guid>http://kathrinleinweber.de</guid>
+                <link>https://www.inforadio.de/rubriken/leben/unterwegs/2025/03/schweiz-iglu-dorf-basel-fasnacht-hermann-hesse-museum.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rbbmediapmdp-a.akamaihd.net/content/d3/61/d3616e87-cbed-4824-82e5-fe24c5485dc1/ea04f045-cf1e-482c-aca6-8bc01890df31_5963a675-677b-406a-b3be-7b29c6dfaa63_256k.mp3"/>
+                <guid>https://www.inforadio.de/rubriken/leben/unterwegs/2025/03/schweiz-iglu-dorf-basel-fasnacht-hermann-hesse-museum.html</guid>
                 
             </item>
         </channel>
