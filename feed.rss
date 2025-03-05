@@ -9,27 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 04 Mar 2025 04:27:17 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 05 Mar 2025 04:27:23 +0200</lastBuildDate>
             <item>
-                <title>A Life by Elia Kazan</title>
-                <description>with biographer and critic John Lahr
-Feed: https://feeds.megaphone.fm/GLT2438307082</description>
+                <title>1P 370 - Loooooong Games</title>
+                <description>This week Julius and I talk about looooong games.  These are games that take 3 or more hours to play!  Serioulsy, these are the kind of games I wish I could play more often but find it hard to get out on the table... &amp;lt;sigh&amp;gt;
+03:44 7th Continent (BGG)
+04:25 Sleeping Gods - Distant Skies (BGG)
+08:28 Mr...
+Feed: https://s3.amazonaws.com/feed.podbean.com/1playerpodcast.com/feed.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/traffic.megaphone.fm/GLT8048814758.mp3?updated=1740430087"/>
-                <guid></guid>
+                <link>https://1playerpodcast.com/e/1p-370-loooooong-games/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/cdf77rvhfmuntimd/1P_370_-_Loooooong_Games919t9.mp3"/>
+                <guid>https://1playerpodcast.com/e/1p-370-loooooong-games/</guid>
                 
             </item><item>
-                <title>Let&#39;s Tawk ET Phone Home</title>
-                <description>Tommy, Anjelica, Phil and John tawk the Carolyn vs Danielle roundtable and whether or not Danielle made the right decision picking Britney as as traitor recruit. They also tawk the White Lotus premiere
-Learn more about your ad choices. Visit megaphone.fm/adchoices
-Feed: https://feeds.megaphone.fm/realtawk</description>
+                <title>Inside s1: An o1-Style Reasoning Model That Cost Under $50 to Train with Niklas Muennighoff</title>
+                <description>Today, we&#39;re joined by Niklas Muennighoff, a PhD student at Stanford University, to discuss his paper, “S1: Simple Test-Time Scaling.” We explore the motivations behind S1, as well as how it compares to OpenAI&#39;s O1 and DeepSeek&#39;s R1 models. We dig into the different approaches to test-time scaling, including parallel and sequential scaling, as well as S1’s data curation process, its training recipe, and its use of model distillation from Google Gemini and DeepSeek R1...
+Feed: https://feeds.megaphone.fm/MLN2155636147</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/2G242/traffic.megaphone.fm/BPNET8985082567.mp3?updated=1740187079"/>
-                <guid></guid>
+                <link>https://twimlai.com/podcast/twimlai/inside-s1-an-o1-style-reasoning-model-that-cost-under-50-to-train/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/4D4ED/traffic.megaphone.fm/MLN4321517135.mp3?updated=1741045497"/>
+                <guid>https://twimlai.com/podcast/twimlai/inside-s1-an-o1-style-reasoning-model-that-cost-under-50-to-train/</guid>
                 
             </item>
         </channel>
