@@ -9,29 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 05 Mar 2025 04:27:23 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 06 Mar 2025 04:28:12 +0200</lastBuildDate>
             <item>
-                <title>1P 370 - Loooooong Games</title>
-                <description>This week Julius and I talk about looooong games.  These are games that take 3 or more hours to play!  Serioulsy, these are the kind of games I wish I could play more often but find it hard to get out on the table... &amp;lt;sigh&amp;gt;
-03:44 7th Continent (BGG)
-04:25 Sleeping Gods - Distant Skies (BGG)
-08:28 Mr...
-Feed: https://s3.amazonaws.com/feed.podbean.com/1playerpodcast.com/feed.xml</description>
+                <title>#60 From Stuck to Unstoppable with Todd Jason</title>
+                <description>&lt;p&gt;Most men wake up every day without a clear vision for their future. They’re grinding, they’re hustling, but deep down, they don’t know if they’re actually building the life they want.&lt;/p&gt;
+&lt;p&gt;If you feel stuck, like you&#39;re coasting through life without real direction, this conversation will change the way you think about your future.&lt;/p&gt;
+&lt;p&gt;I sit down with Todd Jason to break down why clarity is the foundation of success, fulfillment, and freedom - and how you can develop it...
+Feed: https://app.kajabi.com/podcasts/2147497360/feed</description>
                 
                 
-                <link>https://1playerpodcast.com/e/1p-370-loooooong-games/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/cdf77rvhfmuntimd/1P_370_-_Loooooong_Games919t9.mp3"/>
-                <guid>https://1playerpodcast.com/e/1p-370-loooooong-games/</guid>
+                <link>https://www.fatherssonsbrothers.com/podcasts/fathers-sons-brothers/episodes/2148983846</link>
+                <enclosure type="audio/mpeg" length="1" url="https://app.kajabi.com/podcasts/medias/2148983846.mp3"/>
+                <guid>https://www.fatherssonsbrothers.com/podcasts/fathers-sons-brothers/episodes/2148983846</guid>
                 
             </item><item>
-                <title>Inside s1: An o1-Style Reasoning Model That Cost Under $50 to Train with Niklas Muennighoff</title>
-                <description>Today, we&#39;re joined by Niklas Muennighoff, a PhD student at Stanford University, to discuss his paper, “S1: Simple Test-Time Scaling.” We explore the motivations behind S1, as well as how it compares to OpenAI&#39;s O1 and DeepSeek&#39;s R1 models. We dig into the different approaches to test-time scaling, including parallel and sequential scaling, as well as S1’s data curation process, its training recipe, and its use of model distillation from Google Gemini and DeepSeek R1...
-Feed: https://feeds.megaphone.fm/MLN2155636147</description>
+                <title>Ask OTC: Bayern shine without Kane, Marseille&#39;s president cries corruption, and how much longer can Luka Modrić keep going?</title>
+                <description>&lt;p&gt;With Harry Kane sidelined, Bayern Munich thrashed Eintracht Frankfurt 4-0—could they actually be better off without him? Meanwhile, Marseille president Pablo Longoria has been hit with a 15-match suspension after accusing officials of corruption, but what’s the full story behind the controversy?&lt;/p&gt;&lt;br&gt;&lt;p&gt;Plus, Freiburg’s Champions League push is flying under the radar, Frank Schmidt battles to keep Heidenheim in the Bundesliga, and just how much more does Luka Modrić have to give before...
+Feed: https://feeds.acast.com/public/shows/64be9eec0ea5360011fa0255</description>
                 
                 
-                <link>https://twimlai.com/podcast/twimlai/inside-s1-an-o1-style-reasoning-model-that-cost-under-50-to-train/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/4D4ED/traffic.megaphone.fm/MLN4321517135.mp3?updated=1741045497"/>
-                <guid>https://twimlai.com/podcast/twimlai/inside-s1-an-o1-style-reasoning-model-that-cost-under-50-to-train/</guid>
+                <link>https://shows.acast.com/on-the-continent/episodes/ask-otc-bayern-shine-with-kane-on-the-bench-marseilles-presi</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/64be9eec0ea5360011fa0255/e/67c068dd3beb1d1463eff2a8/media.mp3"/>
+                <guid>https://shows.acast.com/on-the-continent/episodes/ask-otc-bayern-shine-with-kane-on-the-bench-marseilles-presi</guid>
                 
             </item>
         </channel>

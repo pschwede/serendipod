@@ -9,27 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 05 Mar 2025 04:27:29 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 06 Mar 2025 04:28:18 +0200</lastBuildDate>
             <item>
-                <title>Le droit à l&#39;avortement est-il encore menacé ? (Mourir VRAIMENT Moins Con)</title>
-                <description>&lt;p&gt;Le 26 novembre 1974, Simone Veil présentait devant l’Assemblée nationale son projet de loi de dépénalisation de l’avortement. La loi est définitivement adoptée le 20 décembre. 50 ans plus tard, et malgré l’inscription de l’IVG dans la constitution, les femmes font encore face à des difficultés quand il s’agit d’avorter...
-Feed: https://feeds.360.audion.fm/DvTHxYW1zFrtJE_EcJJWs</description>
+                <title>[Entretien] Comment protéger nos Libertés numériques, avec Caroline Zorn et le Parti Pirate</title>
+                <description>&lt;p&gt;Dans cet épisode, Caroline Zorn, porte-parole et tête de liste du Parti Pirate aux européennes et élue à Strasbourg, revient sur les menaces qui pèsent sur nos libertés numériques, de la loi “Narcotrafic” au Chat Control, en passant par la vidéosurveillance algorithmique et le techno-solutionnisme sécuritaire...
+Feed: https://rdgp.fr/@rdgp/feed.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/a595e7fe-9a56-40b5-b1bd-050a9450f0d8.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://rdgp.fr/@rdgp/episodes/entretien-caroline-zorn</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rdgp.fr/audio/@rdgp/entretien-caroline-zorn.mp3?_from=fyyd.de"/>
+                <guid>https://rdgp.fr/@rdgp/episodes/entretien-caroline-zorn</guid>
                 
             </item><item>
-                <title>Épisode 83 : La rémission </title>
-                <description>Un matin comme un autre, enfin, pas tout à fait comme un autre. Anne-Sophie voit le bout du tunnel. C&#39;est une nouvelle vie qui commence, avec Andrea Bresciani, photographe.
-
-Feed: https://anchor.fm/s/c32df780/podcast/rss</description>
+                <title>313. Comment fixer ses tarifs en 2025</title>
+                <description>
+Fixer ses tarifs est l’un des plus grands défis pour les entrepreneurs.
+Trop cher ? Pas assez rentable ? Et si la clé était d’aller au-delà du simple calcul financier pour réellement augmenter la valeur perçue de vos offres ?
+Dans cet épisode, je...
+Feed: https://feed.ausha.co/blDjes1L9aWL</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/steve-catieau/episodes/pisode-83--La-rmission-e2jdtpb</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/c32df780/podcast/play/86488299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2Fc32df780%2F86488299%2F3eccfddbd6ae6db10f43f761c3df7d17.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/steve-catieau/episodes/pisode-83--La-rmission-e2jdtpb</guid>
+                <link>https://podcast.ausha.co/jpeux-pas-jai-business/comment-fixer-ses-tarifs-en-2025</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/Bx5q7cE7jAG3.mp3?t=1740919868"/>
+                <guid>https://podcast.ausha.co/jpeux-pas-jai-business/comment-fixer-ses-tarifs-en-2025</guid>
                 
             </item>
         </channel>
