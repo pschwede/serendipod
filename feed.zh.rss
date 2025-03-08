@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 06 Mar 2025 04:28:28 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 08 Mar 2025 04:22:30 +0200</lastBuildDate>
             <item>
-                <title>Out of the Way 25</title>
-                <description>Veronica Ronnie Burke wakes up on a different Mount Lago.
-Feed: https://servingworlds.com/feed/podcast/free-podcast/</description>
+                <title>Can&#39;t Quit the Airhorn </title>
+                <description>&lt;p&gt;Hannah tried to be quiet, but your letters are too good. The airhorns are unleashed.&amp;nbsp;&lt;/p&gt;&lt;p&gt;See omnystudio.com/listener for privacy information.&lt;/p&gt;
+Feed: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2f353e94-68c0-4f6c-a9e5-ae3c0021f261/2bf382f7-43a7-4fd8-a971-ae3c0021f26b/podcast.rss</description>
                 
                 
-                <link>https://servingworlds.com/podcast/out-of-the-way-25/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e/servingworlds.com/podcast-download/8216/out-of-the-way-25.mp3"/>
-                <guid>https://servingworlds.com/podcast/out-of-the-way-25/</guid>
+                <link>https://omny.fm/shows/the-mess-around/loft-meeting-cant-quit-the-airhorn</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2f353e94-68c0-4f6c-a9e5-ae3c0021f261/bb7dcc61-808b-4201-81c7-b29800038ac3/audio.mp3?utm_source=Podcast&amp;in_playlist=2bf382f7-43a7-4fd8-a971-ae3c0021f26b"/>
+                <guid>https://omny.fm/shows/the-mess-around/loft-meeting-cant-quit-the-airhorn</guid>
                 
             </item><item>
-                <title>Inside s1: An o1-Style Reasoning Model That Cost Under $50 to Train with Niklas Muennighoff</title>
-                <description>Today, we&#39;re joined by Niklas Muennighoff, a PhD student at Stanford University, to discuss his paper, “S1: Simple Test-Time Scaling.” We explore the motivations behind S1, as well as how it compares to OpenAI&#39;s O1 and DeepSeek&#39;s R1 models. We dig into the different approaches to test-time scaling, including parallel and sequential scaling, as well as S1’s data curation process, its training recipe, and its use of model distillation from Google Gemini and DeepSeek R1...
-Feed: https://feeds.megaphone.fm/MLN2155636147</description>
+                <title>Sweden vs Tesla: The Longest Labor Strike in History</title>
+                <description>What happens when Elon Musk&#39;s anti-union Tesla meets Sweden&#39;s powerful labor movement? Since October 2023, Swedish workers have maintained the country&#39;s longest strike in a century, with solidarity spreading across Nordic countries. In this episode, Fredrik and Leilani speak with German Bender, chief analyst at Arena think tank and Harvard Labor researcher, about how this historic standoff represents a clash between Silicon Valley&#39;s corporate libertarianism and the Nordic model of collective ...
+Feed: https://feeds.buzzsprout.com/1189295.rss</description>
                 
                 
-                <link>https://twimlai.com/podcast/twimlai/inside-s1-an-o1-style-reasoning-model-that-cost-under-50-to-train/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/4D4ED/traffic.megaphone.fm/MLN4321517135.mp3?updated=1741045497"/>
-                <guid>https://twimlai.com/podcast/twimlai/inside-s1-an-o1-style-reasoning-model-that-cost-under-50-to-train/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1189295/episodes/16684603-sweden-vs-tesla-the-longest-labor-strike-in-history.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
