@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 08 Mar 2025 04:22:25 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 09 Mar 2025 04:22:51 +0200</lastBuildDate>
             <item>
-                <title>Cafezinho 666 - A Besta</title>
-                <description>O número 666 sempre foi cercado de mistério e temor, associado à figura da besta no Apocalipse. Mas e se a verdadeira besta estiver entre nós, de formas menos óbvias?
-Feed: https://www.omnycontent.com/d/playlist/f7f86f6a-2fbd-4ac7-ab53-b01900e5d187/0b349484-4d83-43ce-8659-b03d0017a89a/a1ad452c-1e44-42fe-9590-b03d0017a8b2/podcast.rss</description>
+                <title>Caneca de Mamicas 186 - Ainda estou comemorando</title>
+                <description>Se você fosse sincera… Ô ô ô ô… Anora…
+
+Feed: https://api.jovemnerd.com.br/feed-nerdcast/</description>
                 
                 
-                <link>https://omny.fm/shows/cafe-brasil/cafezinho-666-a-besta</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.omny.fm/d/clips/f7f86f6a-2fbd-4ac7-ab53-b01900e5d187/0b349484-4d83-43ce-8659-b03d0017a89a/2ca8ae8b-34b0-4bd8-97d2-b299011483b7/audio.mp3?utm_source=Podcast&amp;in_playlist=a1ad452c-1e44-42fe-9590-b03d0017a8b2"/>
-                <guid>https://omny.fm/shows/cafe-brasil/cafezinho-666-a-besta</guid>
+                <link>https://jovemnerd.com.br/nerdcast/caneca-de-mamicas/ainda-estou-comemorando/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/GD6D57/https://nerdcast.jovemnerd.com.br/mamicas_186.mp3"/>
+                <guid>https://jovemnerd.com.br/nerdcast/caneca-de-mamicas/ainda-estou-comemorando/</guid>
                 
             </item><item>
-                <title>MARC MÁRQUEZ ESTÁ DE VOLTA! MAS É CEDO PARA DAR BAGNAIA POR ACABADO | Paddock Sprint Moto</title>
-                <description>&lt;p&gt;A MotoGP começou a temporada 2025 correspondendo às expectativas. Depois de se destacar na pré-temporada, Marc Márquez dominou o GP da Tailândia, retornou à liderança do Mundial de Pilotos pela primeira vez desde 2019 e mostrou que o antigo ele está de volta.O fim de semana, claro, teve um peso em Francesco Bagnaia, que não escondeu o abatimento e a decepção com os dois terceiros lugares em Buriram — na sprint e no GP.No entanto, ainda restam 42 corridas pela frente...
-Feed: https://anchor.fm/s/da13f184/podcast/rss</description>
+                <title>Coisas Que Você Não Sabe Sobre APOSENTAR Em 2025</title>
+                <description>
+Feed: https://www.spreaker.com/show/6096429/episodes/feed</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/grande-premio/episodes/MARC-MRQUEZ-EST-DE-VOLTA--MAS--CEDO-PARA-DAR-BAGNAIA-POR-ACABADO--Paddock-Sprint-Moto-e2vrkeo</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/da13f184/podcast/play/99520408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-7%2F396155000-44100-2-cc1d2858e526a.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/grande-premio/episodes/MARC-MRQUEZ-EST-DE-VOLTA--MAS--CEDO-PARA-DAR-BAGNAIA-POR-ACABADO--Paddock-Sprint-Moto-e2vrkeo</guid>
+                <link>https://www.spreaker.com/episode/coisas-que-voce-nao-sabe-sobre-aposentar-em-2025--64401004</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64401004/coisas_que_voc_n_o_sabe_sobre_aposentar_em_2025.mp3"/>
+                <guid>https://www.spreaker.com/episode/coisas-que-voce-nao-sabe-sobre-aposentar-em-2025--64401004</guid>
                 
             </item>
         </channel>
