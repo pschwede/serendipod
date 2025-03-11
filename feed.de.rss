@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 10 Mar 2025 04:22:35 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Mar 2025 04:28:44 +0200</lastBuildDate>
             <item>
-                <title>Newsom vs. Kirk</title>
-                <description>Gavin Newsom, der Gouverneur von Kalifornien, hat einen neuen Podcast und als ersten Gast hat er sich den republikanischen Influencer Charlie Kirk eingeladen. Wir reden über das Zusammentreffen der Beiden und dabei rauchen wir eine Oliva Connecticut Reserve. 
-Feed: https://feeds.buzzsprout.com/1238402.rss</description>
+                <title>Review der WWE Elimination Chamber</title>
+                <description>Dein Lieblings-Wrestling-Podcast ;)
+Feed: https://cuppahaters.podcaster.de/hatersfolgen.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1238402/episodes/16760607-newsom-vs-kirk.mp3"/>
-                <guid></guid>
+                <link>https://cuppahaters.podcaster.de/hatersfolgen/media/242.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cuppahaters.podcaster.de/hatersfolgen/media/242.mp3"/>
+                <guid>https://cuppahaters.podcaster.de/hatersfolgen/media/242.mp3</guid>
                 
             </item><item>
-                <title>Erik der Rote und ein eisiges Versprechen</title>
-                <description>Die Besiedelung Grönlands der Wikinger
-Feed: https://feeds.acast.com/public/shows/678525e1c0d3f52051ae3bc1</description>
+                <title>&#34;Was, wenn mich jemand nicht mag?&#34; MiRA SHOW</title>
+                <description>Bene 9 Jahre möchte beim Schulfest seine Zaubertricks vorführen. Doch was, wenn die anderen Kinder seine Show nicht mögen? Soll er das Risiko eingehen oder seine Tricks lieber für sich behalten? MC Pieps kann Bene sehr gut verstehen, denn auch er zögert, seine Musik zu zeigen, weil er Angst vor Ablehnung hat...
+Feed: https://podcastb11277.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://shows.acast.com/wild-fremd-entdecker-und-ihre-geschichten/episodes/67ccd1caffae9c0f4eadd2eb</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/678525e1c0d3f52051ae3bc1/e/67ccd1caffae9c0f4eadd2eb/media.mp3"/>
-                <guid>https://shows.acast.com/wild-fremd-entdecker-und-ihre-geschichten/episodes/67ccd1caffae9c0f4eadd2eb</guid>
+                <link>https://podcastb11277.podigee.io/106-was-wenn-mich-jemand-nicht-mag-mira-show</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1816609-m-dd8a977d92c86a97c36fdfbcf45beb5b.mp3?source=feed"/>
+                <guid>https://podcastb11277.podigee.io/106-was-wenn-mich-jemand-nicht-mag-mira-show</guid>
                 
             </item>
         </channel>

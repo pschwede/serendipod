@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 10 Mar 2025 04:22:42 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Mar 2025 04:28:52 +0200</lastBuildDate>
             <item>
-                <title>Meet the Hollowheads</title>
-                <description>Hola Gerardo aquí en otro episodio de Simplemente Yo; La selección de esta semana es Meet the Hollowheads, También conocida como Life on the Edge, es una película de comedia negra de ciencia ficción de 1989 dirigida por el maquillador de efectos especiales Thomas R. Burman y escrita por Burman y Lisa Morton.Plot: Los Hollowheads tienen las manos ocupadas cuando el abusivo jefe de Henry se invita a sí mismo a la cena familiar...
-Feed: https://filmicnotionpod.com/feed.xml</description>
+                <title>Carlota Bruna, influéncianos</title>
+                <description>Carlota Bruna, influéncianos
+Feed: https://www.rtve.es/api/adapter/programas/175697/audios.rss</description>
                 
                 
-                <link>https://filmicnotionpod.com/e/meet-the-hollowheads/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/r64f48ddmm6hajgt/Meet-the-Hollowheads.mp3"/>
-                <guid>https://filmicnotionpod.com/e/meet-the-hollowheads/</guid>
+                <link>https://www.rtve.es/play/audios/manana-mas/carlota-bruna-influencianos/16484452/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16484452.mp3"/>
+                <guid>https://www.rtve.es/play/audios/manana-mas/carlota-bruna-influencianos/16484452/</guid>
                 
             </item><item>
-                <title>XX Aniversario de RockZone: Revisando 2007</title>
-                <description>&lt;p&gt;Esta semana os traemos el tercero de los 20 programas dedicados celebrar el 20 aniversario de RockZone, revisando la lista de los mejores discos de 2007. &lt;/p&gt;&lt;p&gt;Para hacerlo nos acompañan Juan Blas, que ese año encabezó la lista nacional con &amp;#39;Spotlights&amp;#39;, el segundo álbum de Nothink, Mario Baños, guitarrista de Everlyn, responsable de promoción en Warner Music, y responsable del podcast Días Alternos, además de nuestro colaborador Luis Benavides...
-Feed: https://anchor.fm/s/37ca67b4/podcast/rss</description>
+                <title>CONVERSACIONES EDIFICANTES</title>
+                <description>&lt;p&gt;CONVERSACIONES EDIFICANTES&lt;br&gt;Generalmente cuando viajamos en un medio de transporte público, específicamente en el metro, en un auto bus; podemos escuchar a las personas conversar de sus vidas o la vida de otras personas que conocen. Cuando la conversación de estas personas parece interesante, comúnmente nos quedamos quietos y en silencio para escuchar con claridad de lo que están hablando...
+Feed: https://anchor.fm/s/7d7ae748/podcast/rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/rockzone/episodes/XX-Aniversario-de-RockZone-Revisando-2007-e2vnna8</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/37ca67b4/podcast/play/99392264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-5%2F9fa69815-fdfc-f7fa-b19e-d0e753f0a9bf.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/rockzone/episodes/XX-Aniversario-de-RockZone-Revisando-2007-e2vnna8</guid>
+                <link>https://podcasters.spotify.com/pod/show/jesus-is-life7/episodes/CONVERSACIONES-EDIFICANTES-e2vulce</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/7d7ae748/podcast/play/99619662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-10%2F9470a052-0685-92b9-cba8-7f3fb8e3d144.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/jesus-is-life7/episodes/CONVERSACIONES-EDIFICANTES-e2vulce</guid>
                 
             </item>
         </channel>
