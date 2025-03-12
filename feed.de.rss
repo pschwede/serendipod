@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Mar 2025 04:28:44 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 12 Mar 2025 04:28:46 +0200</lastBuildDate>
             <item>
-                <title>Review der WWE Elimination Chamber</title>
-                <description>Dein Lieblings-Wrestling-Podcast ;)
-Feed: https://cuppahaters.podcaster.de/hatersfolgen.rss</description>
+                <title>Das 1x1 des Seins - Die Frequenzbereiche des Kosmos</title>
+                <description>
+Feed: https://feeds.buzzsprout.com/1133891.rss</description>
                 
                 
-                <link>https://cuppahaters.podcaster.de/hatersfolgen/media/242.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cuppahaters.podcaster.de/hatersfolgen/media/242.mp3"/>
-                <guid>https://cuppahaters.podcaster.de/hatersfolgen/media/242.mp3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1133891/episodes/16755303-das-1x1-des-seins-die-frequenzbereiche-des-kosmos.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>&#34;Was, wenn mich jemand nicht mag?&#34; MiRA SHOW</title>
-                <description>Bene 9 Jahre möchte beim Schulfest seine Zaubertricks vorführen. Doch was, wenn die anderen Kinder seine Show nicht mögen? Soll er das Risiko eingehen oder seine Tricks lieber für sich behalten? MC Pieps kann Bene sehr gut verstehen, denn auch er zögert, seine Musik zu zeigen, weil er Angst vor Ablehnung hat...
-Feed: https://podcastb11277.podigee.io/feed/mp3</description>
+                <title>Glutenfrei genießen: Tipps &amp; Trends mit Katherina Böttger von &#34;echt jetzt&#34;</title>
+                <description>Experteninterview mit Katherina Böttger
+Feed: https://epi-food.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://podcastb11277.podigee.io/106-was-wenn-mich-jemand-nicht-mag-mira-show</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1816609-m-dd8a977d92c86a97c36fdfbcf45beb5b.mp3?source=feed"/>
-                <guid>https://podcastb11277.podigee.io/106-was-wenn-mich-jemand-nicht-mag-mira-show</guid>
+                <link>https://epi-food.podigee.io/130-glutenfrei-geniessen</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1816697-m-51477b0a9ba1238227999594131f395d.mp3?source=feed"/>
+                <guid>https://epi-food.podigee.io/130-glutenfrei-geniessen</guid>
                 
             </item>
         </channel>

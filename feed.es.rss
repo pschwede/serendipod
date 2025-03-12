@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Mar 2025 04:28:52 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 12 Mar 2025 04:28:53 +0200</lastBuildDate>
             <item>
-                <title>Carlota Bruna, influéncianos</title>
-                <description>Carlota Bruna, influéncianos
-Feed: https://www.rtve.es/api/adapter/programas/175697/audios.rss</description>
+                <title>Speculative Loading</title>
+                <description>WordPress 6.8 incluirá una funcionalidad de carga especulativa que hará que la navegación por el sitio sea más fluida para los usuarios, ya que intentará precargar páginas que se vayan a visitar.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/manana-mas/carlota-bruna-influencianos/16484452/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16484452.mp3"/>
-                <guid>https://www.rtve.es/play/audios/manana-mas/carlota-bruna-influencianos/16484452/</guid>
+                <link>https://www.wppodcast.es/podcast/speculative-loading/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/299/s/feed/c/podcast/wordpress-podcast-e252.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/speculative-loading/</guid>
                 
             </item><item>
-                <title>CONVERSACIONES EDIFICANTES</title>
-                <description>&lt;p&gt;CONVERSACIONES EDIFICANTES&lt;br&gt;Generalmente cuando viajamos en un medio de transporte público, específicamente en el metro, en un auto bus; podemos escuchar a las personas conversar de sus vidas o la vida de otras personas que conocen. Cuando la conversación de estas personas parece interesante, comúnmente nos quedamos quietos y en silencio para escuchar con claridad de lo que están hablando...
-Feed: https://anchor.fm/s/7d7ae748/podcast/rss</description>
+                <title>El colegio invisible 12/03/2025</title>
+                <description>Escucha &#39;El Colegio invisible&#39;, el programa de misterio con Lorenzo Fernández Bueno y Laura Falcó en Onda Cero. 
+Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/jesus-is-life7/episodes/CONVERSACIONES-EDIFICANTES-e2vulce</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/7d7ae748/podcast/play/99619662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-10%2F9470a052-0685-92b9-cba8-7f3fb8e3d144.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/jesus-is-life7/episodes/CONVERSACIONES-EDIFICANTES-e2vulce</guid>
+                <link>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-12032025_2025031267d0efa039a0dc0001e97748.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://triton-vod.ondacero.es/?programa=ATRESMEDIA_EL_COLEGIO_INVISIBLE_P&amp;origen=/mp_audios4/2025/03/12/314E7E4B-733B-41B3-95BE-5D7C0CC9886C/314E7E4B-733B-41B3-95BE-5D7C0CC9886C.mp3&amp;audioId=67d0ef787b240e5fb52e6dd4"/>
+                <guid>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-12032025_2025031267d0efa039a0dc0001e97748.html</guid>
                 
             </item>
         </channel>
