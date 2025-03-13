@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 12 Mar 2025 04:28:53 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 13 Mar 2025 04:28:48 +0200</lastBuildDate>
             <item>
-                <title>Speculative Loading</title>
-                <description>WordPress 6.8 incluirá una funcionalidad de carga especulativa que hará que la navegación por el sitio sea más fluida para los usuarios, ya que intentará precargar páginas que se vayan a visitar.
-Feed: https://www.wppodcast.es/feed/podcast/</description>
+                <title>Trailer: KDE Express. Comunidad y Software Libre</title>
+                <description>&lt;p&gt;Desde Cartagena, de la mano de David Marzal, descubre más sobre la comunidad KDE y de Software libre, con noticias, eventos, entrevistas, tips e información de calidad del mundillo.&lt;/p&gt;
+&lt;p&gt;Con una periodicidad quincenal, David, con ánimo divulgador y el espíritu linuxero de compartir conocimiento, da un repaso a las aplicaciones y actualizaciones del KDE, pero también de otras tecnologías relacionadas, accesibilidad, etc. A veces también trae a algún invitado con papeles.&lt;/p&gt;
+Feed: https://kdeexpress.gitlab.io/feed</description>
                 
                 
-                <link>https://www.wppodcast.es/podcast/speculative-loading/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/299/s/feed/c/podcast/wordpress-podcast-e252.mp3"/>
-                <guid>https://www.wppodcast.es/podcast/speculative-loading/</guid>
+                <link>https://kdeexpress.gitlab.io/posts/kdeexpress/t04-kde-express/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=a9a56b87-575a-5f6f-9636-cdf7b73e6230/archive.org/download/t04-kde-express-trailer/T04-KDE_Express-Trailer.mp3"/>
+                <guid>https://kdeexpress.gitlab.io/posts/kdeexpress/t04-kde-express/</guid>
                 
             </item><item>
-                <title>El colegio invisible 12/03/2025</title>
-                <description>Escucha &#39;El Colegio invisible&#39;, el programa de misterio con Lorenzo Fernández Bueno y Laura Falcó en Onda Cero. 
-Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
+                <title>Hard Rock y Heavy Metal en Español: 20 Discos que todo roquero debe conocer - E186T04</title>
+                <description>Descubre 20 discos esenciales para adentrarte en el mundo del hard rock y heavy metal en espa&amp;ntilde;ol. Desde cl&amp;aacute;sicos legendarios hasta joyas ocultas, exploramos &amp;aacute;lbumes que definieron el g&amp;eacute;nero y marcaron a generaciones. Un episodio imprescindible para nuevos oyentes y fan&amp;aacute;ticos veteranos.
+Los 20 discos en este episodio son:
+01. &amp;ldquo;Volumen Brutal&amp;rdquo; de Bar&amp;oacute;n Rojo
+02. &amp;ldquo;Duro y potente&amp;rdquo; de Banzai
+03...
+Feed: https://www.ivoox.com/es-roquero_fg_f1890087_filtro_1.xml?promotionalCampaign</description>
                 
                 
-                <link>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-12032025_2025031267d0efa039a0dc0001e97748.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://triton-vod.ondacero.es/?programa=ATRESMEDIA_EL_COLEGIO_INVISIBLE_P&amp;origen=/mp_audios4/2025/03/12/314E7E4B-733B-41B3-95BE-5D7C0CC9886C/314E7E4B-733B-41B3-95BE-5D7C0CC9886C.mp3&amp;audioId=67d0ef787b240e5fb52e6dd4"/>
-                <guid>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-12032025_2025031267d0efa039a0dc0001e97748.html</guid>
+                <link>https://www.ivoox.com/hard-rock-heavy-metal-espanol-20-audios-mp3_rf_141486387_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/hard-rock-heavy-metal-espanol-20_mf_141486387_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/hard-rock-heavy-metal-espanol-20-audios-mp3_rf_141486387_1.html</guid>
                 
             </item>
         </channel>
