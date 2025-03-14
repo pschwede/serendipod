@@ -9,31 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 13 Mar 2025 04:28:48 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 14 Mar 2025 04:27:25 +0200</lastBuildDate>
             <item>
-                <title>Trailer: KDE Express. Comunidad y Software Libre</title>
-                <description>&lt;p&gt;Desde Cartagena, de la mano de David Marzal, descubre más sobre la comunidad KDE y de Software libre, con noticias, eventos, entrevistas, tips e información de calidad del mundillo.&lt;/p&gt;
-&lt;p&gt;Con una periodicidad quincenal, David, con ánimo divulgador y el espíritu linuxero de compartir conocimiento, da un repaso a las aplicaciones y actualizaciones del KDE, pero también de otras tecnologías relacionadas, accesibilidad, etc. A veces también trae a algún invitado con papeles.&lt;/p&gt;
-Feed: https://kdeexpress.gitlab.io/feed</description>
+                <title>Ep 503_B: Propulsión Espacial; Computación Cuántica; Fusiones de Estrellas de Neutrones; Agujeros Negros</title>
+                <description>La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Crítica de &#34;Un equipo de investigadores chinos logra vulnerar el cifrado de Bitcoin en solo 320 segundos&#34; (44:31)
+-Ordenador cuántico chino Zuchongzhi 3...
+Feed: https://www.ivoox.com/feed_fg_f1172891_filtro_1.xml</description>
                 
                 
-                <link>https://kdeexpress.gitlab.io/posts/kdeexpress/t04-kde-express/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=a9a56b87-575a-5f6f-9636-cdf7b73e6230/archive.org/download/t04-kde-express-trailer/T04-KDE_Express-Trailer.mp3"/>
-                <guid>https://kdeexpress.gitlab.io/posts/kdeexpress/t04-kde-express/</guid>
+                <link>https://www.ivoox.com/ep-503-b-propulsion-espacial-computacion-cuantica-fusiones-de-audios-mp3_rf_141602136_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/ep-503-b-propulsion-espacial-computacion-cuantica-fusiones-de_mf_141602136_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/ep-503-b-propulsion-espacial-computacion-cuantica-fusiones-de-audios-mp3_rf_141602136_1.html</guid>
                 
             </item><item>
-                <title>Hard Rock y Heavy Metal en Español: 20 Discos que todo roquero debe conocer - E186T04</title>
-                <description>Descubre 20 discos esenciales para adentrarte en el mundo del hard rock y heavy metal en espa&amp;ntilde;ol. Desde cl&amp;aacute;sicos legendarios hasta joyas ocultas, exploramos &amp;aacute;lbumes que definieron el g&amp;eacute;nero y marcaron a generaciones. Un episodio imprescindible para nuevos oyentes y fan&amp;aacute;ticos veteranos.
-Los 20 discos en este episodio son:
-01. &amp;ldquo;Volumen Brutal&amp;rdquo; de Bar&amp;oacute;n Rojo
-02. &amp;ldquo;Duro y potente&amp;rdquo; de Banzai
-03...
-Feed: https://www.ivoox.com/es-roquero_fg_f1890087_filtro_1.xml?promotionalCampaign</description>
+                <title>ATA 678 Automatización en Linux fácil con GoCron</title>
+                <description>&lt;p&gt;#GoCron es un interesante servicio que te permite programar de forma sencilla y visual todo tipo de tareas.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Una de las tareas que más me apasiona, es sin lugar a dudas &lt;strong&gt;automatizar&lt;/strong&gt;. Además, te digo que disfruto automatizando cualquier cosa que se me ponga por delante. Pero, si además, tengo la posibilidad de automatizar tareas &lt;strong&gt;repetitivas&lt;/strong&gt; y &lt;strong&gt;tediosas&lt;/strong&gt;, esto ya es lo mas para mi...
+Feed: https://anchor.fm/s/5a5b39c/podcast/rss</description>
                 
                 
-                <link>https://www.ivoox.com/hard-rock-heavy-metal-espanol-20-audios-mp3_rf_141486387_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/hard-rock-heavy-metal-espanol-20_mf_141486387_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/hard-rock-heavy-metal-espanol-20-audios-mp3_rf_141486387_1.html</guid>
+                <link>https://podcasters.spotify.com/pod/show/atareao-con-linux/episodes/ATA-678-Automatizacin-en-Linux-fcil-con-GoCron-e2vtf7l</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/5a5b39c/podcast/play/99580597/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-9%2Fede89791-8f40-e728-f1e7-9ccb4ec48c8b.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/atareao-con-linux/episodes/ATA-678-Automatizacin-en-Linux-fcil-con-GoCron-e2vtf7l</guid>
                 
             </item>
         </channel>
