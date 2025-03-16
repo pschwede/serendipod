@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 15 Mar 2025 04:26:34 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 16 Mar 2025 04:28:08 +0200</lastBuildDate>
             <item>
-                <title>Nuevo patrocinador para el Estadio Azteca </title>
-                <description>Adal Franco, Miguel Ángel Briseño, Héctro Huerta y Dionisio Estrada debaten en la mesa más pícante de futbol mexicano. 
-Learn more about your ad choices. Visit podcastchoices.com/adchoices
-Feed: https://feeds.megaphone.fm/ESP7136457638</description>
+                <title>¿Son Cheap Trick más influyentes de lo que parece?</title>
+                <description>&lt;p&gt;Esta semana dedicamos la tertulia a &lt;strong&gt;Cheap Trick&lt;/strong&gt;. La veterana banda de Illinois publicará este viernes la caja &amp;#39;The Complete Epic Albums Collection&amp;#39; que recoge por primera vez en vinilo sus 11 primeros discos de estudio, desde su debut homónimo de 1977 hasta Busted de 1990, además del mítico directo Cheap Trick At Budokan de 1978 y el EP Found All The Parts de 1980...
+Feed: https://anchor.fm/s/37ca67b4/podcast/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP1409196104.mp3?updated=1741984022"/>
-                <guid></guid>
+                <link>https://podcasters.spotify.com/pod/show/rockzone/episodes/Son-Cheap-Trick-ms-influyentes-de-lo-que-parece-e302605</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/37ca67b4/podcast/play/99734981/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F8b07bd25-adc2-62f6-38bf-fd76ed83c0e2.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/rockzone/episodes/Son-Cheap-Trick-ms-influyentes-de-lo-que-parece-e302605</guid>
                 
             </item><item>
-                <title>¡Los 20 años del lanzamiento de &#39;Pájaros en la cabeza! </title>
-                <description>¡Recordamos los mejores éxitos de este disco mítico de &#39;Amaral! 
-Feed: https://www.melodia-fm.com/rss/podcast/5087510/podcast.xml</description>
+                <title>Speculative Loading</title>
+                <description>WordPress 6.8 incluirá una funcionalidad de carga especulativa que hará que la navegación por el sitio sea más fluida para los usuarios, ya que intentará precargar páginas que se vayan a visitar.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>https://www.melodia-fm.com/programas/parece-mentira/mejores-momentos/20-anos-lanzamiento-pajaros-cabeza_2025031467d3f6646e95850001fc0fc5.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dpvclip.melodia-fm.com/mp_audios4//2025/03/14/E0BBD0AA-1EC3-4FFF-8EB9-D2DE9D047F62/E0BBD0AA-1EC3-4FFF-8EB9-D2DE9D047F62.mp3"/>
-                <guid>https://www.melodia-fm.com/programas/parece-mentira/mejores-momentos/20-anos-lanzamiento-pajaros-cabeza_2025031467d3f6646e95850001fc0fc5.html</guid>
+                <link>https://www.wppodcast.es/podcast/speculative-loading/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/299/s/feed/c/podcast/wordpress-podcast-e252.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/speculative-loading/</guid>
                 
             </item>
         </channel>
