@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 16 Mar 2025 04:28:19 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 17 Mar 2025 04:28:20 +0200</lastBuildDate>
             <item>
-                <title>Your exposome, Kavli awards and more improbable research</title>
-                <description>80% of diseases are impacted by environment or lifestyle described as your exposome.  Thomas Hartung expects information from studying the exposome will bring benefits on par with those brought by studying the human genome.
-Feed: https://www.abc.net.au/radionational/feed/2885480/podcast.xml</description>
+                <title>Audio News for March 2nd through the 8th, 2025</title>
+                <description>News items read by Laura Kennedy include: Ancient irrigation system in southern Iraq; DNA study highlights Celtic languages; ceramic “puppets” in El Salvador; and oldest bone tools from Olduvai Gorge.  
+Feed: http://www.archaeologychannel.org/rss/TACfeed.xml</description>
                 
                 
-                <link>https://www.abc.net.au/listen/programs/scienceshow/your-exposome-kavli-awards-and-more-improbable-research/104972164</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediacore-live-production.akamaized.net/audio/02/7j/Z/u4.mp3"/>
-                <guid>https://www.abc.net.au/listen/programs/scienceshow/your-exposome-kavli-awards-and-more-improbable-research/104972164</guid>
+                <link>https://www.archaeologychannel.org/content/MP3/audnews20250309.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.archaeologychannel.org/content/MP3/audnews20250309.mp3"/>
+                <guid>https://www.archaeologychannel.org/content/MP3/audnews20250309.mp3</guid>
                 
             </item><item>
-                <title>Giving used clothes a new life</title>
-                <description>Datshiane Navanayagam talks to two women at the forefront of the second hand clothing boom
-Feed: https://podcasts.files.bbci.co.uk/p0290t8h.rss</description>
+                <title>926. Oral Storytelling Traditions and the Mental Health Benefits of Listening to Podcasts ☀️????</title>
+                <description>&lt;p&gt;The other day I was thinking about how podcasts must be good for your mental health, and how this could be connected to the tradition of collective oral communication which was the first form of mass media in most human civilisations, and how this has been central to human psychological and cultural development over the years. So, I made this podcast episode about it. Expect discussion of culture, history, psychology and communication, with plenty of vocabulary explained...
+Feed: https://access.acast.com/rss/62b0ada25c7ea10012f541cb/</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/w3ct5x0y</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0kw19nv.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w3ct5x0y</guid>
+                <link>https://shows.acast.com/teacherluke/episodes/67bde4f5408c42b28a92fbe9</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/62b0ada25c7ea10012f541cb/e/67bde4f5408c42b28a92fbe9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=batnoAUUSlMlRBhw3wKJnPkdRMTx1nNTdzyqF77NMlg"/>
+                <guid>https://shows.acast.com/teacherluke/episodes/67bde4f5408c42b28a92fbe9</guid>
                 
             </item>
         </channel>
