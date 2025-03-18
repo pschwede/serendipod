@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 17 Mar 2025 04:28:20 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 18 Mar 2025 04:28:30 +0200</lastBuildDate>
             <item>
-                <title>Audio News for March 2nd through the 8th, 2025</title>
-                <description>News items read by Laura Kennedy include: Ancient irrigation system in southern Iraq; DNA study highlights Celtic languages; ceramic “puppets” in El Salvador; and oldest bone tools from Olduvai Gorge.  
-Feed: http://www.archaeologychannel.org/rss/TACfeed.xml</description>
+                <title>Trusting God in Uncertainty: Navigating Grief, Singleness &amp; Obedience ft. Juiceee</title>
+                <description>&lt;p&gt;In this heartfelt episode of To My Sisters, we’re joined by the amazing Juiceee whose story is as moving as it is inspiring. ????✨&lt;/p&gt;&lt;br&gt;&lt;p&gt;Juiceee takes us on her journey of leaving the States to start anew in the UK, where she’s been fearlessly chasing her career dreams and opening her heart to finding love...
+Feed: https://feeds.acast.com/public/shows/6488beb624d31e0011fb380e</description>
                 
                 
-                <link>https://www.archaeologychannel.org/content/MP3/audnews20250309.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.archaeologychannel.org/content/MP3/audnews20250309.mp3"/>
-                <guid>https://www.archaeologychannel.org/content/MP3/audnews20250309.mp3</guid>
+                <link>https://shows.acast.com/to-my-sisters-1/episodes/trusting-god-in-uncertainty-navigating-grief-singleness-obed</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6488beb624d31e0011fb380e/e/67d593384fe212e561b500bf/media.mp3"/>
+                <guid>https://shows.acast.com/to-my-sisters-1/episodes/trusting-god-in-uncertainty-navigating-grief-singleness-obed</guid>
                 
             </item><item>
-                <title>926. Oral Storytelling Traditions and the Mental Health Benefits of Listening to Podcasts ☀️????</title>
-                <description>&lt;p&gt;The other day I was thinking about how podcasts must be good for your mental health, and how this could be connected to the tradition of collective oral communication which was the first form of mass media in most human civilisations, and how this has been central to human psychological and cultural development over the years. So, I made this podcast episode about it. Expect discussion of culture, history, psychology and communication, with plenty of vocabulary explained...
-Feed: https://access.acast.com/rss/62b0ada25c7ea10012f541cb/</description>
+                <title>#292 Offline A/B Testing: Experimentation in Brick and Mortar with Philipp Paraguya, Chapter Lead Data Science at ALDI DX</title>
+                <description>&lt;p&gt;In the retail industry, data science is not just about crunching numbers—it&#39;s about driving business impact through well-designed experiments. A-B testing in a physical store setting presents unique challenges that require careful planning and execution...
+Feed: https://feeds.captivate.fm/dataframed/</description>
                 
                 
-                <link>https://shows.acast.com/teacherluke/episodes/67bde4f5408c42b28a92fbe9</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/62b0ada25c7ea10012f541cb/e/67bde4f5408c42b28a92fbe9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=batnoAUUSlMlRBhw3wKJnPkdRMTx1nNTdzyqF77NMlg"/>
-                <guid>https://shows.acast.com/teacherluke/episodes/67bde4f5408c42b28a92fbe9</guid>
+                <link>https://www.datacamp.com/podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.captivate.fm/media/35ee2821-9033-409b-825f-bb4f289548d3/Audio-Philipp-Paraguya.mp3"/>
+                <guid>https://www.datacamp.com/podcast</guid>
                 
             </item>
         </channel>
