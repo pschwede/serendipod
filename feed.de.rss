@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 18 Mar 2025 04:28:16 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 19 Mar 2025 04:27:52 +0200</lastBuildDate>
             <item>
-                <title>Speed-Dating</title>
-                <description>Gut gelaunt in den Tag mit &#34;Vorsicht Leif&#34; auf NDR1 Radio MV. Der beste Telefonstreich in Mecklenburg-Vorpommern, damit Sie morgens was zu Lachen haben.
-Feed: http://www.ndr.de/podcast/podcast3082.xml</description>
+                <title>Im vinylen Tangoschritt nach Argentinien zu PAMELA PAGLIETA</title>
+                <description>Chris verliert sich in philosophischen Gedanken über die Magie des analogen Hörgenusses – Markus hingegen hat nur noch eines im Kopf: Essen. Doch als ein mysteriöser Hilferuf die Shuttle-Luft durchzieht, beginnt eine ganz besondere Reise – eine Reise
+Feed: https://vinylopresso.ch/feed/m4a/</description>
                 
                 
-                <link>https://www.ndr.de/radiomv/Speed-Dating,audio1834434.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast3082/AU-20250317-0440-2700.mp3"/>
-                <guid>https://www.ndr.de/radiomv/Speed-Dating,audio1834434.html</guid>
+                <link>https://vinylopresso.ch/2025/03/im-vinylen-tangoschritt-nach-argentinien-zu-pamela-paglieta/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://vinylopresso.ch/podlove/file/282/s/feed/c/m4a/vp131.m4a"/>
+                <guid>https://vinylopresso.ch/2025/03/im-vinylen-tangoschritt-nach-argentinien-zu-pamela-paglieta/</guid>
                 
             </item><item>
-                <title>Reto Burrell: Akustische Klänge auf Album Nummer 12</title>
-                <description>Reto Burrells 12. Album «XII» ist ein bedeutender Wendepunkt in seiner Karriere. Er hat sich für einen akustischen und minimalistischen Ansatz entschieden, der seine Musik auf das Wesentliche reduziert.
-Feed: https://www.srf.ch/feed/podcast/sd/a2337ef6-a0ba-4f44-9220-79809ff923b1.xml</description>
+                <title>Warum ist Fasten der Schlüssel zum Durchbruch? – Johannes Schmid</title>
+                <description>
+Feed: http://feeds.icf-vlbg.at/icf-vlbg-audio-de</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://download-media.srf.ch/ch/audio/Swissmade_radio/2025/03/Swissmade_radio_AUDI20250315_RS_0058_ba17e649718d448ebb8b0b5d0c5f3dc1.mp3?d=ap&amp;assetId=bde3f82c-c137-3799-aaa7-efd0bde8f58e"/>
-                <guid></guid>
+                <link>https://www.icf-vorarlberg.at/podcasts/2025-03-09/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.icf-vorarlberg.at/2025/2025-03-09.mp3"/>
+                <guid>https://www.icf-vorarlberg.at/podcasts/2025-03-09/</guid>
                 
             </item>
         </channel>
