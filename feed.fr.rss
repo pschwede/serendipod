@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 19 Mar 2025 04:27:55 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 20 Mar 2025 04:28:02 +0200</lastBuildDate>
             <item>
-                <title>March, 08th, 2025 - Stoned Circus Radio Show n°20</title>
-                <description>2 shows ! CANAL B &amp; RADIOLUX
-Stoned Circus Radio Show - ONLY NEW Garage &amp; Psychedelia from all over the world
-2-weekly SATURDAY &amp; SUNDAY 6:00 to 7:00 PM (Gmt +1 Paris).
-The 60 minutes long show superbly highlights NEW psychedelic music,...
-Feed: https://www.vodio.fr/rssmedias.php?valeur=379</description>
+                <title>PODCASTHON - Sexualité et Handicap : reconnaître l’être humain dans sa totalité - Alexis Gannat</title>
+                <description>La liberté qu&#39;on leur vole chaque jour et dont personne ne parle
+Feed: https://feeds.acast.com/public/shows/623c720c68423a00127a58e2</description>
                 
                 
-                <link>https://www.vodio.fr/vodiotheque/i/23479/march-08th-2025-stoned-circus-radio-show-n-20/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/www.vodio.fr/emissions/_stonedcircus_3l2qpr5GlVZCpAejqYcQ/stoned-circus-202503.mp3"/>
-                <guid>https://www.vodio.fr/vodiotheque/i/23479/march-08th-2025-stoned-circus-radio-show-n-20/</guid>
+                <link>https://shows.acast.com/colette/episodes/sexualite-et-handicap-alexis-gannat</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/623c720c68423a00127a58e2/e/658c28065148890017ed4a91/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=YvfIH3myGGuWQoDlLYYNJ-T_mLa1-_4Y66ek9L782rE"/>
+                <guid>https://shows.acast.com/colette/episodes/sexualite-et-handicap-alexis-gannat</guid>
                 
             </item><item>
-                <title> 43. GAZA - Ziad Medoukh - Eleonore Merza Bronstein</title>
-                <description>&#34;Notre cause est une cause de justice.&#34; Ziad Medoukh
-&#34;On ne peut pas abandonner ce combat, on ne peut pas abandonner l&#39;humanité parce que Gaza est en train de recolorer l&#39;humanité&#34;. Eleonore Merza Bronstein
-&#34;Il faut vider Gaza de sa population&#34; dit Donald Trump applaudi par les dirigeants israéliens.
-&#34;Je ne quitterai jamais Gaza la rasée&#34; lui répond Ziad Medoukh dans l&#39;un de ses poèmes......
-Feed: https://force-nonviolence.lepodcast.fr/rss</description>
+                <title>Emission Sensation rock du mercredi 19 mars 2025</title>
+                <description>Beirut en single du jour et on découvre l’album d’Animal Triste. Bonne écoute du podcast radio rock.
+Feed: https://www.sensationrock.net/category/podcast/podcasts-sensation-rock/feed/</description>
                 
                 
-                <link>https://force-nonviolence.fr/2025/03/episode-43-gaza-avec-eleonore-merza-bronstein-et-ziad-medoukh/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/force-nonviolence/43-gaza-ziad-medoukh-eleonore-merza-bronstein/enclosure.6a2d0c49bc9c5e5349dec92c422d8064045600857e9ca1948e8af7e4f88c1ffe.mp3?p=f"/>
-                <guid>https://force-nonviolence.fr/2025/03/episode-43-gaza-avec-eleonore-merza-bronstein-et-ziad-medoukh/</guid>
+                <link>https://www.sensationrock.net/2025/03/19/emission-sensation-rock-du-mercredi-19-mars-2025/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/emission_sensation_rock/www.sensationrock.net/wp-content/uploads/2025/03/sr19mars2025.mp3"/>
+                <guid>https://www.sensationrock.net/2025/03/19/emission-sensation-rock-du-mercredi-19-mars-2025/</guid>
                 
             </item>
         </channel>
