@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 20 Mar 2025 04:28:02 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 21 Mar 2025 04:28:15 +0200</lastBuildDate>
             <item>
-                <title>PODCASTHON - Sexualité et Handicap : reconnaître l’être humain dans sa totalité - Alexis Gannat</title>
-                <description>La liberté qu&#39;on leur vole chaque jour et dont personne ne parle
-Feed: https://feeds.acast.com/public/shows/623c720c68423a00127a58e2</description>
+                <title>L&#39;affaire Dreyfus aujourd&#39;hui...</title>
+                <description>L&#39;affaire Dreyfus aujourd&#39;hui...
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13094.xml</description>
                 
                 
-                <link>https://shows.acast.com/colette/episodes/sexualite-et-handicap-alexis-gannat</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/623c720c68423a00127a58e2/e/658c28065148890017ed4a91/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=YvfIH3myGGuWQoDlLYYNJ-T_mLa1-_4Y66ek9L782rE"/>
-                <guid>https://shows.acast.com/colette/episodes/sexualite-et-handicap-alexis-gannat</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/alfred-dreyfus-un-combat-pour-la-vie-la-republique-et-l-honneur-7707697</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/70dded01-c8bd-40e0-bf96-397f6f1fbea6/13094-16.03.2025-ITEMA_24060574-2025C21364E0010-NET_MFC_8ADB0FEF-6C4D-4AAE-B6E3-9FC7CF2DC079-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/alfred-dreyfus-un-combat-pour-la-vie-la-republique-et-l-honneur-7707697</guid>
                 
             </item><item>
-                <title>Emission Sensation rock du mercredi 19 mars 2025</title>
-                <description>Beirut en single du jour et on découvre l’album d’Animal Triste. Bonne écoute du podcast radio rock.
-Feed: https://www.sensationrock.net/category/podcast/podcasts-sensation-rock/feed/</description>
+                <title>Philosopher en islam</title>
+                <description>Philosopher en islam
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10073.xml</description>
                 
                 
-                <link>https://www.sensationrock.net/2025/03/19/emission-sensation-rock-du-mercredi-19-mars-2025/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/emission_sensation_rock/www.sensationrock.net/wp-content/uploads/2025/03/sr19mars2025.mp3"/>
-                <guid>https://www.sensationrock.net/2025/03/19/emission-sensation-rock-du-mercredi-19-mars-2025/</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/questions-d-islam/philosopher-en-islam-9640590</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/6cc02e8c-d6c7-4ea6-a20c-a52f32642736/10073-16.03.2025-ITEMA_24060576-2025C26163E0009-ITE_00148750_RSCE-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/questions-d-islam/philosopher-en-islam-9640590</guid>
                 
             </item>
         </channel>
