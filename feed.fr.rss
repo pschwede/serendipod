@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 21 Mar 2025 04:28:15 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 22 Mar 2025 04:27:17 +0200</lastBuildDate>
             <item>
-                <title>L&#39;affaire Dreyfus aujourd&#39;hui...</title>
-                <description>L&#39;affaire Dreyfus aujourd&#39;hui...
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13094.xml</description>
+                <title>Storytelling Graphique : comment raconter une histoire avec vos visuels</title>
+                <description>
+???? Un visuel, c’est bien plus qu’une simple image : c’est une histoire qui s’écrit sans mots. Comment transformer tes créations graphiques en histoires percutantes qui captivent et marquent les esprits ? Dans cet épisode de Com’ DU SIROP, Anouk Trombe...
+Feed: https://feed.ausha.co/ErqWESzrPZW7</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/alfred-dreyfus-un-combat-pour-la-vie-la-republique-et-l-honneur-7707697</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/70dded01-c8bd-40e0-bf96-397f6f1fbea6/13094-16.03.2025-ITEMA_24060574-2025C21364E0010-NET_MFC_8ADB0FEF-6C4D-4AAE-B6E3-9FC7CF2DC079-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/alfred-dreyfus-un-combat-pour-la-vie-la-republique-et-l-honneur-7707697</guid>
+                <link>https://podcast.ausha.co/cestcomdusirop/storytelling-graphique-comment-raconter-une-histoire-avec-vos-visuels</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bYwkJt87eejX.mp3?t=1736175080"/>
+                <guid>https://podcast.ausha.co/cestcomdusirop/storytelling-graphique-comment-raconter-une-histoire-avec-vos-visuels</guid>
                 
             </item><item>
-                <title>Philosopher en islam</title>
-                <description>Philosopher en islam
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10073.xml</description>
+                <title>Jazz Collection 23.02.2025</title>
+                <description>Jazz Collection 23.02.2025
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_12283.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/questions-d-islam/philosopher-en-islam-9640590</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/6cc02e8c-d6c7-4ea6-a20c-a52f32642736/10073-16.03.2025-ITEMA_24060576-2025C26163E0009-ITE_00148750_RSCE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/questions-d-islam/philosopher-en-islam-9640590</guid>
+                <link>http://www.francemusique.fr/emission/open-jazz</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/b004e8fc-7842-4f16-be27-d4b0573c38ac/12283-23.02.2025-ITEMA_24025994-2025M53932E0001-ITE_00147967_RSCE-21.mp3"/>
+                <guid>http://www.francemusique.fr/emission/open-jazz</guid>
                 
             </item>
         </channel>
