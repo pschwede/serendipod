@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 22 Mar 2025 04:27:24 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 23 Mar 2025 04:27:07 +0200</lastBuildDate>
             <item>
-                <title>FELIZ DIA NOVO – IRINEU TOLEDO – 06/02/2025</title>
-                <description>Você tem muito a fazer no dia de hoje, certo? Então, faça tudo muito bem feito? Assim, você não precisa 
-Feed: https://felizdianovo.com.br/feed/podcast/programa-feliz-dia-novo/</description>
+                <title>143: Um Amuse-Bouche Tridimensional</title>
+                <description>Severance está acabando, o atraso da Siri segue dando o que falar, e as costas dos iPhones 17 são confusas, né?
+Feed: https://gigahertz.fm/podcasts/afonte/feed.rss</description>
                 
                 
-                <link>https://felizdianovo.com.br/podcast/feliz-dia-novo-irineu-toledo-06-02-2025/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/episodes.castos.com/5ee147cbd76df9-29947850/1967915/c1e-od1otvzn5pu8nqqx-ndodwp0kcok-klbejx.mp3"/>
-                <guid>https://felizdianovo.com.br/podcast/feliz-dia-novo-irineu-toledo-06-02-2025/</guid>
+                <link>https://gigahertz.fm/podcasts/afonte/143</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.gigahertz.fm/AFonte/AFonte-143.mp3"/>
+                <guid>https://gigahertz.fm/podcasts/afonte/143</guid>
                 
             </item><item>
-                <title>Como Achar Fornecedores Confiáveis e Lucrar no Ecommerce em 2025</title>
-                <description>Como Achar Fornecedores Confiáveis e Lucrar no Ecommerce em 2025
-Feed: https://www.spreaker.com/show/6562351/episodes/feed</description>
+                <title>As novidades e mudanças no React Native – Hipsters Ponto Tech #455</title>
+                <description>Hoje o papo é sobre desenvolvimento mobile.    Neste episódio, reunimos um time de peso para explorar o histórico, os desafios e o futuro de quem lida diariamente com o desafio de desenvolver aplicações multiplataforma.
+Feed: https://hipsters.tech/feed/podcast/</description>
                 
                 
-                <link>https://www.spreaker.com/episode/como-achar-fornecedores-confiaveis-e-lucrar-no-ecommerce-em-2025--65015171</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/65015171/como_achar_fornecedores_confi_veis_e_lucr.mp3"/>
-                <guid>https://www.spreaker.com/episode/como-achar-fornecedores-confiaveis-e-lucrar-no-ecommerce-em-2025--65015171</guid>
+                <link>https://www.hipsters.tech/as-novidades-e-mudancas-no-react-native-hipsters-ponto-tech-455/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/hipsterstech/content.blubrry.com/hipsterstech/HpT-455.mp3"/>
+                <guid>https://www.hipsters.tech/as-novidades-e-mudancas-no-react-native-hipsters-ponto-tech-455/</guid>
                 
             </item>
         </channel>
