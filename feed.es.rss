@@ -9,28 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 23 Mar 2025 04:27:02 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 24 Mar 2025 04:29:40 +0200</lastBuildDate>
             <item>
-                <title>188: Objetos desaparecidos en el tiempo</title>
-                <description>En este episodio Carla y Pau hacen un viaje en el tiempo recordando aquellos objetos que solían estar en la vida cotidiana y que hoy en día ya no se utilizan.
-Feed: https://www.easyspanish.fm/rss</description>
+                <title>E289: Thomas Midgley Jr.: El Inventor Villano</title>
+                <description>Thomas Midgley Jr. fue un ingeniero brillante pero controvertido, famoso por inventar el plomo en la gasolina y los CFC, dos de los peores contaminantes del siglo XX. Irónicamente, murió estrangulado por una de sus propias invenciones: un sistema de poleas que diseñó para levantarse de la cama.
+Síguenos y visita nuestro sitio oficial:
+https://www.instagram.com/eldollop
+https://twitter.com/eldollop
+https://www.facebook...
+Feed: https://feeds.megaphone.fm/SONORO4124946493</description>
                 
                 
-                <link>https://www.easyspanish.fm/188</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/ed912afd-6210-4e4c-b4ca-87a8d0f2a4d9.mp3"/>
-                <guid>https://www.easyspanish.fm/188</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/39325/pdst.fm/e/traffic.megaphone.fm/SONORO7867720884.mp3?updated=1741687116"/>
+                <guid></guid>
                 
             </item><item>
-                <title>La prisionera - Mills Bellenden</title>
-                <description>Bienvenidos a Bolsa de Audio Podcast, tu biblioteca portátil de conocimiento en formato de audio.
-Sintoniza en cualquier momento y lugar mientras desentrañamos la magia de los libros a través del sonido.
-Facilitamos el aprendizaje para las mentes...
-Feed: https://www.spreaker.com/show/6017793/episodes/feed</description>
+                <title>Las Mañanas de RNE - Mamen Asencio - Holapueblo: &#34;No nos han querido en otros pueblos, pero aquí sí&#34;</title>
+                <description>Holapueblo: &#34;No nos han querido en otros pueblos, pero aquí sí&#34;
+Feed: https://api2.rtve.es/api/adapter/programas/1000592/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/la-prisionera-mills-bellenden--62714558</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/62714558/la_prisionera_mills_bellenden.mp3"/>
-                <guid>https://www.spreaker.com/episode/la-prisionera-mills-bellenden--62714558</guid>
+                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-mamen-asencio/mananas-rne-mamen-asencio-holapueblo-no-han-querido-otros-pueblos-pero-aqui-si/16501624/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16501624.mp3"/>
+                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-mamen-asencio/mananas-rne-mamen-asencio-holapueblo-no-han-querido-otros-pueblos-pero-aqui-si/16501624/</guid>
                 
             </item>
         </channel>
