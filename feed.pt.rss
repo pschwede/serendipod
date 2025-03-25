@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 24 Mar 2025 04:29:44 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 25 Mar 2025 04:29:22 +0200</lastBuildDate>
             <item>
-                <title>#9 Devs Empreendedores com Italo Oliveira</title>
-                <description>&lt;p&gt;Neste programa, conversamos com o Italo Oliveira que contou sua experi&amp;ecirc;ncia em tirar seu projeto do papel e transformar em neg&amp;oacute;cio. Compartilhou os desafios aprendidos, a import&amp;acirc;ncia de n&amp;atilde;o escalar o neg&amp;oacute;cio de in&amp;iacute;cio&amp;nbsp; e as li&amp;ccedil;&amp;otilde;es aprendidas com os usu&amp;aacute;rios da plataforma...
-Feed: https://www.omnycontent.com/d/playlist/f7f86f6a-2fbd-4ac7-ab53-b01900e5d187/06aad3f7-5237-465a-af7b-b03c0125d480/6e1f8df8-745a-4def-a379-b03c0125d4a5/podcast.rss</description>
+                <title>Estudantes Voluntários para Missões SVM</title>
+                <description>&lt;p&gt;Epis&amp;oacute;dio com o tema &#34;Estudantes Volunt&amp;aacute;rios para Miss&amp;otilde;es SVM &#34;.&lt;/p&gt; &lt;p&gt;Apresenta&amp;ccedil;&amp;atilde;o: Samuel Mattos&lt;/p&gt; &lt;p&gt;Conheceremos hoje o Movimento Volunt&amp;aacute;rios Estudantis para Miss&amp;otilde;es Estrangeiras. Robert Wilder e sua irm&amp;atilde; Grace foram os grandes incentivadores para que esse movimento levasse milhares de jovens ao campo mission&amp;aacute;rio. Confira!&lt;/p&gt;&lt;p&gt;See omnystudio.com/listener for privacy information.&lt;/p&gt;
+Feed: https://www.omnycontent.com/d/playlist/f895e4af-2068-409d-a7a7-aa9201219358/d7af1d5c-985a-4ad8-9984-ac8701655891/7996dfaa-c855-49c3-8f03-ac870165ec28/podcast.rss</description>
                 
                 
-                <link>https://omny.fm/shows/cafe-de-bug/9-devs-empreendedores-com-italo-oliveira</link>
-                <enclosure type="audio/mpeg" length="1" url="https://prfx.byspotify.com/e/traffic.omny.fm/d/clips/f7f86f6a-2fbd-4ac7-ab53-b01900e5d187/06aad3f7-5237-465a-af7b-b03c0125d480/d9acd743-7e4d-46e6-839c-b2a10135caa7/audio.mp3?utm_source=Podcast&amp;in_playlist=6e1f8df8-745a-4def-a379-b03c0125d4a5"/>
-                <guid>https://omny.fm/shows/cafe-de-bug/9-devs-empreendedores-com-italo-oliveira</guid>
+                <link>https://omny.fm/shows/historia-das-missoes/estudantes-volunt-rios-para-miss-es-svm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/f895e4af-2068-409d-a7a7-aa9201219358/d7af1d5c-985a-4ad8-9984-ac8701655891/55c84615-5cdc-4dd4-9971-b2a700f081a8/audio.mp3?utm_source=Podcast&amp;in_playlist=7996dfaa-c855-49c3-8f03-ac870165ec28"/>
+                <guid>https://omny.fm/shows/historia-das-missoes/estudantes-volunt-rios-para-miss-es-svm</guid>
                 
             </item><item>
-                <title>Chech up S14E010</title>
-                <description>&lt;p&gt;Guadalupe Simões, Ricardo Mexia &lt;/p&gt;
-
-Feed: https://anchor.fm/s/bd11bc88/podcast/rss</description>
+                <title>Deep Dive: Volumetria de dados no Itaú – Hipsters Ponto Tech #456</title>
+                <description>Hoje o papo é sobre dados.    No primeiro episódio de uma série de Deep Dives com diferentes equipes do Itaú, exploramos os bastidores da volumetria de dados, dentro da ousada e interessantíssima jornada de migração da infraestrutura do Itaú para a nuv...
+Feed: https://hipsters.tech/feed/podcast/</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/check-up4/episodes/Chech-up-S14E010-e30994j</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/bd11bc88/podcast/play/99967571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-17%2F396713753-44100-2-c1fed0280b4a1.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/check-up4/episodes/Chech-up-S14E010-e30994j</guid>
+                <link>https://www.hipsters.tech/deep-dive-volumetria-de-dados-no-itau-hipsters-ponto-tech-456/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/hipsterstech/content.blubrry.com/hipsterstech/HpT-456_deep-dive-volumetria-dados-itau.mp3"/>
+                <guid>https://www.hipsters.tech/deep-dive-volumetria-de-dados-no-itau-hipsters-ponto-tech-456/</guid>
                 
             </item>
         </channel>

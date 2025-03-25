@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 24 Mar 2025 04:29:26 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 25 Mar 2025 04:29:06 +0200</lastBuildDate>
             <item>
                 <title>Feminism in the 21st Century - Artists, Writers, Filmmakers Share their Stories</title>
                 <description>How has feminism changed in light of the way we live now?
@@ -21,14 +21,14 @@ Feed: https://thecreativeprocess.squarespace.com/film-tv?format=rss</description
                 <guid>https://www.creativeprocess.info/film-tv/feminism21stcentury-yssgd</guid>
                 
             </item><item>
-                <title>Broken hearted and numb, Dark Skies, &amp; Where I&#39;m From (w/Risha Nicole)</title>
-                <description>&lt;p&gt;Dave and Aaron and overjoyed to have another guest on the show! Risha brings poems from Jr. High that have been shared in classrooms, Watt pad, and Tumbler, but now have found there way to My Bad Poetry. How bad could they be? &lt;/p&gt;&lt;p&gt;My Bad Poetry Episode 7.8: &amp;quot;Broken hearted and numb, Dark Skies, &amp;amp; Where I&amp;#39;m From (w/Risha Nicole)&amp;quot;&lt;/p&gt;&lt;p&gt;End Poem from a Real Poet: &amp;quot;The Spring of Love&amp;quot; by Risha Nicole&lt;/p&gt;&lt;p&gt;Risha Nicole is a poet in Kent, Ohio...
-Feed: https://anchor.fm/s/6b4bac38/podcast/rss</description>
+                <title>Linux Dev Time – Episode 120</title>
+                <description>Our advice on how to move into a career in software development including making and contributing to projects, advocating for your work, collaborating, avoiding exploitation, learning Git, and loads more.           Support us on Patreon and get an ad-f...
+Feed: https://latenightlinux.com/feed/extra</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/mybadpoetry/episodes/Broken-hearted-and-numb--Dark-Skies---Where-Im-From-wRisha-Nicole-e308t0c</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/6b4bac38/podcast/play/99955148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-17%2F29ff56c4-10b6-45c2-f33b-9456d61cba7d.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/mybadpoetry/episodes/Broken-hearted-and-numb--Dark-Skies---Where-Im-From-wRisha-Nicole-e308t0c</guid>
+                <link>https://latenightlinux.com/linux-dev-time-episode-120/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/latenightlinux/LDT120.mp3"/>
+                <guid>https://latenightlinux.com/linux-dev-time-episode-120/</guid>
                 
             </item>
         </channel>

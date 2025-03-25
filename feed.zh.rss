@@ -9,26 +9,36 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 24 Mar 2025 04:29:48 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 25 Mar 2025 04:29:26 +0200</lastBuildDate>
             <item>
-                <title>Introducing Scenes from the Coffee Break Café</title>
-                <description>Step inside our brand new café
-Feed: https://feeds.acast.com/public/shows/47990e88-454b-4e3b-bf78-75a172c33184</description>
+                <title>EU push for open source, GIMP3 is out, Firefox gets webapps back</title>
+                <description>&lt;p&gt;???? Get a Linux computer from our sponsor, Tuxedo????&lt;/p&gt;
+&lt;p&gt;https://www.tuxedocomputers.com/en#&lt;/p&gt;
+&lt;p&gt;???? Support the show here: ????&lt;/p&gt;
+&lt;p&gt;Patreon supporters get the daily Linux &amp;amp; Open Source audio show!&lt;/p&gt;
+&lt;p&gt;https://www.patreon.com/thelinuxexperiment&lt;/p&gt;
+&lt;p&gt;Or you can support me with a one time donation:&lt;/p&gt;
+&lt;p&gt;https://www.paypal.com/paypalme/thelinuxexp&lt;/p&gt;
+&lt;p&gt;https://liberapay.com/TheLinuxExperiment/&lt;/p&gt;
+&lt;p&gt;???? Buy TLE Merch: ????&lt;/p&gt;
+&lt;p&gt;https://the-linux-experiment...
+Feed: https://podcast.thelinuxexp.com/@tlenewspodcast/feed.xml</description>
                 
                 
-                <link>https://shows.acast.com/coffeebreakfrench/episodes/introducing-scenes-from-the-coffee-break-cafe</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/coffeebreakfrench/e/67d9a23389c80e5ef08327b5/media.mp3"/>
-                <guid>https://shows.acast.com/coffeebreakfrench/episodes/introducing-scenes-from-the-coffee-break-cafe</guid>
+                <link>https://podcast.thelinuxexp.com/@tlenewspodcast/episodes/eu-push-for-open-source-gimp3-is-out-firefox-gets-webapps-back</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=e407bff5-dc32-54c1-b1a7-8edd8a885d8f/podcast.thelinuxexp.com/audio/@tlenewspodcast/eu-push-for-open-source-gimp3-is-out-firefox-gets-webapps-back.mp3?_from=fyyd.de"/>
+                <guid>https://podcast.thelinuxexp.com/@tlenewspodcast/episodes/eu-push-for-open-source-gimp3-is-out-firefox-gets-webapps-back</guid>
                 
             </item><item>
-                <title>Paderborn…muss man wollen</title>
-                <description>Sonnige Grüße aus Herne
-Feed: https://feeds.megaphone.fm/COMG1149042462</description>
+                <title>Episode 786: Dems Much Needed Outreach is Working; Judges Shoot Down Trump Again</title>
+                <description>&lt;p&gt;This week on Ring of Fire!&lt;/p&gt;
+&lt;p&gt;Democrats in Congress have decided to go on a nationwide blitz of town halls in districts controlled by Republicans, since Republicans are refusing to talk to their constituents. And the move couldn’t come at a better time for Democrats, as the latest polls show that the Democrats have a lower approval rating than at any other point in history. Both parties are getting hammered in polls, and Democrats have a chance to get the upper hand with these town halls...
+Feed: https://feeds.fans.fm/41.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9357127028.mp3?updated=1740597862"/>
-                <guid></guid>
+                <link>https://fans.fm/listen/Mk2opdl</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/fans.fm/listen/Mk2opdl.mp3"/>
+                <guid>https://fans.fm/listen/Mk2opdl</guid>
                 
             </item>
         </channel>
