@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 25 Mar 2025 04:29:18 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 26 Mar 2025 04:28:19 +0200</lastBuildDate>
             <item>
-                <title>Las Mañanas de RNE - Mamen Asencio - Redescubrimos a Carmen Martín Gaite con Emma Suárez</title>
-                <description>Redescubrimos a Carmen Martín Gaite con Emma Suárez
-Feed: https://api2.rtve.es/api/adapter/programas/1000592/audios.rss</description>
+                <title>Miguel Borra, presidente de CSIF, sobre la propuesta de la AIReF: &#34;Lo que hay que hacer es mejorar la eficacia y la eficiencia del modelo, no acabar con él&#34;</title>
+                <description>CSIF: &#34;Hay que mejorar la eficacia y la eficiencia del modelo, no acabar con él&#34;
+Feed: http://api2.rtve.es/api/programas/119312/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-mamen-asencio/mananas-rne-mamen-asencio-emma-suarez-he-acercado-mas-martin-gaite-cuando-se-ido/16504701/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16504701.mp3"/>
-                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-mamen-asencio/mananas-rne-mamen-asencio-emma-suarez-he-acercado-mas-martin-gaite-cuando-se-ido/16504701/</guid>
+                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-josep-cuni/miguel-borra-presidente-csif-sobre-propuesta-airef-hay-hacer-mejorar-eficacia-eficiencia-del-modelo-no-acabar/16505893/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16505893.mp3"/>
+                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-josep-cuni/miguel-borra-presidente-csif-sobre-propuesta-airef-hay-hacer-mejorar-eficacia-eficiencia-del-modelo-no-acabar/16505893/</guid>
                 
             </item><item>
-                <title>Camino al abismo</title>
-                <description>&lt;p&gt;Todavía no llevamos 2 meses con el criminal convicto en el poder y ya vamos camino al abismo, estamos perdiendo aliados, estamos entrando en una recesión inminente, la economía se va destruyendo, la bolsa llena de incertidumbre, pero eso si, ahora la Casa Blanca es un concesionario de Tesla.&lt;/p&gt;
-&lt;p&gt;Te invito a debatir sobre este tema en el Foro de la Comunidad de TuPodcast https://foro.tupodcast.com&lt;/p&gt;
-&lt;p&gt;Y otras formas de contacto las encuentran en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta.me/contacto...
-Feed: https://www.tupodcast.com/@sinpropaganda/feed.xml</description>
+                <title>Documentos RNE - Caso Pinochet, en las fronteras de la justicia - 21/03/25</title>
+                <description>Caso Pinochet, en las fronteras de la justicia
+Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
                 
                 
-                <link>https://www.tupodcast.com/@sinpropaganda/episodes/camino-al-abismo</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=22497050-edc7-5e7e-aa35-88b889ddd920/www.tupodcast.com/audio/@sinpropaganda/camino-al-abismo.mp3?_from=fyyd.de"/>
-                <guid>https://www.tupodcast.com/@sinpropaganda/episodes/camino-al-abismo</guid>
+                <link>https://www.rtve.es/play/audios/documentos-rne/caso-pinochet-fronteras-justicia-21-03-25/16502109/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16502109.mp3"/>
+                <guid>https://www.rtve.es/play/audios/documentos-rne/caso-pinochet-fronteras-justicia-21-03-25/16502109/</guid>
                 
             </item>
         </channel>
