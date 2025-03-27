@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 26 Mar 2025 04:28:19 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 27 Mar 2025 04:28:12 +0200</lastBuildDate>
             <item>
-                <title>Miguel Borra, presidente de CSIF, sobre la propuesta de la AIReF: &#34;Lo que hay que hacer es mejorar la eficacia y la eficiencia del modelo, no acabar con él&#34;</title>
-                <description>CSIF: &#34;Hay que mejorar la eficacia y la eficiencia del modelo, no acabar con él&#34;
-Feed: http://api2.rtve.es/api/programas/119312/audios.rss</description>
+                <title>UCDM - Lección 46 con Vivi y Claudio</title>
+                <description>
+Feed: https://www.spreaker.com/show/6357279/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-josep-cuni/miguel-borra-presidente-csif-sobre-propuesta-airef-hay-hacer-mejorar-eficacia-eficiencia-del-modelo-no-acabar/16505893/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16505893.mp3"/>
-                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-josep-cuni/miguel-borra-presidente-csif-sobre-propuesta-airef-hay-hacer-mejorar-eficacia-eficiencia-del-modelo-no-acabar/16505893/</guid>
+                <link>https://www.spreaker.com/episode/ucdm-leccion-46-con-vivi-y-claudio--64394615</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/64394615/46.mp3"/>
+                <guid>https://www.spreaker.com/episode/ucdm-leccion-46-con-vivi-y-claudio--64394615</guid>
                 
             </item><item>
-                <title>Documentos RNE - Caso Pinochet, en las fronteras de la justicia - 21/03/25</title>
-                <description>Caso Pinochet, en las fronteras de la justicia
-Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
+                <title>Radioyentes 412 Techno, Baleares y antorchas</title>
+                <description>Iniciamos una nueva edición de nuestro pódcast hablando de Onda Cero porque esta cadena lanzaba el pasado año el podcast Baleares destino sostenible con el objetivo de descubrir cómo estas islas están transformando su modelo turístico hacia la sostenibilidad.
+Agradecimientos para:
+José Antonio Laboreo de Radio Villegas
+Sintonía: de Junior Menezes
+Feed: https://www.ivoox.com/podcast-radioyentes_fg_f1463235_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/documentos-rne/caso-pinochet-fronteras-justicia-21-03-25/16502109/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16502109.mp3"/>
-                <guid>https://www.rtve.es/play/audios/documentos-rne/caso-pinochet-fronteras-justicia-21-03-25/16502109/</guid>
+                <link>https://www.ivoox.com/radioyentes-412-techno-baleares-antorchas-audios-mp3_rf_137837219_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-412-techno-baleares-antorchas_mf_137837219_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/radioyentes-412-techno-baleares-antorchas-audios-mp3_rf_137837219_1.html</guid>
                 
             </item>
         </channel>

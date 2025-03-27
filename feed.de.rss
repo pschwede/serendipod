@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 26 Mar 2025 04:28:12 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 27 Mar 2025 04:28:01 +0200</lastBuildDate>
             <item>
-                <title>DFVA001: It&#39;s beginning to look a lot like podcasts</title>
-                <description>DFVA001: It&#39;s beginning to look a lot like podcasts
-Feed: https://mespotin.uber.space/Mespotine/feed/sammelfeed/</description>
+                <title>Post-Automaten-Filialen, GIMP 3.0, Samsung-Krise | #heiseshow</title>
+                <description>Anna Kalinowsky, heise-online-Chefredakteur Dr. Volker Zota und Markus Will sprechen in dieser Ausgabe der #heiseshow unter anderem über folgende Themen:
+- Postbot statt Postamt: Können Automaten Filialen ersetzen? Die Deutsche Post will erstmals Automaten als vollwertige Postfilialen einsetzen...
+Feed: https://www.heise.de/rss/heiseshowsd.rss</description>
                 
                 
-                <link>https://mespotine.de/MespotineHQ/2025/03/19/dfva001-its-beginning-to-look-a-lot-like-podcasts/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mespotin.uber.space/Podcasts/DFVA001_It%27s_beginning_to_look_a_lot_like_Podcasts.mp3"/>
-                <guid>https://mespotine.de/MespotineHQ/2025/03/19/dfva001-its-beginning-to-look-a-lot-like-podcasts/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdnapisec.kaltura.com/p/2238431/sp/0/playManifest/entryId/1_fzqzut5l/format/url/protocol/https/flavorParamId/487061/Post-Automaten-Filialen-GIMP-3-0-Samsung-Krise-heiseshow.mp4"/>
+                <guid></guid>
                 
             </item><item>
-                <title>DHd2025: Impressionen zusammengestellt von RaDiHum20</title>
-                <description>In dieser Folge nehmen wir euch mit zur 11. Jahreskonferenz der Digital Humanities im deutschsprachigen Raum; die DHd 2025 fand in Bielefeld unter dem Motto „Under Construction“ statt. Ihr bekommt exklusive Interviews mit Teilnehmenden der Konferenz, Ausschnitte aus den Panels und Keynotes, Zusammenfassungen und ein eigens für diese Folge von Toni Bernhardt zur Verfügung gestelltes Seilbahnseil-Musikstück: „das Märchentier“.
+                <title>Teletext - Weizenreview | S7 E1</title>
+                <description>&lt;p&gt;In diesem Weizenpreview reden Tobi und Marco über die Happenings der Offseason, den NFL Combine, Saisongemüse , den Draft, Capspace und ganz wichtig: Der Teletext!&lt;/p&gt;&lt;p&gt;Also nehmt euch zusammen mit uns ein Weizen raus, und genießt die Episode, Prost!&lt;/p&gt;
 
-Feed: https://radihum20.podcaster.de/RaDiHum20.rss</description>
+Feed: https://anchor.fm/s/fae7cfc/podcast/rss</description>
                 
                 
-                <link>https://radihum20.de/dhd2025-impressionen/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://radihum20.podcaster.de/RaDiHum20/media/Folge3_Staffel8_final.mp3"/>
-                <guid>https://radihum20.de/dhd2025-impressionen/</guid>
+                <link>https://podcasters.spotify.com/pod/show/footballundweizen/episodes/Teletext---Weizenreview--S7-E1-e2vn8p7</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/fae7cfc/podcast/play/99377383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-4%2F395974161-44100-2-faba71043b56e.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/footballundweizen/episodes/Teletext---Weizenreview--S7-E1-e2vn8p7</guid>
                 
             </item>
         </channel>
