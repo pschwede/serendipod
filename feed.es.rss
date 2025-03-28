@@ -9,29 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 27 Mar 2025 04:28:12 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 28 Mar 2025 04:29:04 +0200</lastBuildDate>
             <item>
-                <title>UCDM - Lección 46 con Vivi y Claudio</title>
+                <title>Trailer Accesibilidad con Tecnologias Libres</title>
                 <description>
-Feed: https://www.spreaker.com/show/6357279/episodes/feed</description>
+&lt;p&gt;ATL es un podcast mensual producido y presentado por Jorge Lama. Con diferentes secciones donde cada &amp;quot;corresponsal&amp;quot; aporta su visión y conocimiento en temas de accesibilidad y tecnologías libres :
+· Rompiendo barreras, con Eva Marco, en la que habla de su experiencia como desarrolladora.
+· Odisea en el ciberespacio con David Marzal, comentando aplicaciones y noticias relacionadas con el Software Libre.
+· Accesibilidad web, con Pablo Arias...
+Feed: https://accesibilidadtl.gitlab.io/feed</description>
                 
                 
-                <link>https://www.spreaker.com/episode/ucdm-leccion-46-con-vivi-y-claudio--64394615</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/64394615/46.mp3"/>
-                <guid>https://www.spreaker.com/episode/ucdm-leccion-46-con-vivi-y-claudio--64394615</guid>
+                <link>https://accesibilidadtl.gitlab.io/posts/atl/t01-aurora/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=68b52970-05d8-5cb1-8bd3-d15fa3961e09/archive.org/download/atl-presentacion-aurora/ATL-Presentacion-Aurora.mp3"/>
+                <guid>https://accesibilidadtl.gitlab.io/posts/atl/t01-aurora/</guid>
                 
             </item><item>
-                <title>Radioyentes 412 Techno, Baleares y antorchas</title>
-                <description>Iniciamos una nueva edición de nuestro pódcast hablando de Onda Cero porque esta cadena lanzaba el pasado año el podcast Baleares destino sostenible con el objetivo de descubrir cómo estas islas están transformando su modelo turístico hacia la sostenibilidad.
-Agradecimientos para:
-José Antonio Laboreo de Radio Villegas
-Sintonía: de Junior Menezes
-Feed: https://www.ivoox.com/podcast-radioyentes_fg_f1463235_filtro_1.xml</description>
+                <title>Subterranea Rarities 8x07 Odín le habló a Roger Hodgson y a Kevin Ayers - Episodio exclusivo para mecenas</title>
+                <description>Agradece a este podcast tantas horas de entretenimiento y disfruta de episodios exclusivos como éste. ¡Apóyale en iVoox! Nos hemos enterado de que el mismo dios nórdico, Odín, le habló a Roger Hodgson y a Kevin Ayers. Regresa a Subterranea Rarities Abel Fuentes para hablarnos de Roger Hodgson con motivo de su 75 cumpleaños. Abel nos trae cuatro maravillosas rarezas que os van a encantar, desde maquetas a temas inéditos...
+Feed: https://www.ivoox.com/feed_fg_f117710_filtro_1.xml</description>
                 
                 
-                <link>https://www.ivoox.com/radioyentes-412-techno-baleares-antorchas-audios-mp3_rf_137837219_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-412-techno-baleares-antorchas_mf_137837219_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/radioyentes-412-techno-baleares-antorchas-audios-mp3_rf_137837219_1.html</guid>
+                <link>https://www.ivoox.com/subterranea-rarities-8x07-odin-le-hablo-a-roger-audios-mp3_rf_143290156_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/subterranea-rarities-8x07-odin-le-hablo-a-roger_mf_143290156_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/subterranea-rarities-8x07-odin-le-hablo-a-roger-audios-mp3_rf_143290156_1.html</guid>
                 
             </item>
         </channel>

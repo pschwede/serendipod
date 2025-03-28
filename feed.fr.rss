@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 27 Mar 2025 04:28:07 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 28 Mar 2025 04:29:00 +0200</lastBuildDate>
             <item>
-                <title>Le Wake-up mix du mercredi 26 mars 2025</title>
-                <description>durée : 00:09:15 - Le Wake-up mix 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14243.xml</description>
+                <title>Dieu Amour et Force de Vie, dialogue avec ma Bible Evelyne Marcel</title>
+                <description>Evelyne Marcel est présidente du conseil presbytéral de la Paroisse Protestante Unie en Bresse Bugey Dombes. Elle partage le lien qu&#39;elle entetient avec le Livre de la Parole de Dieu
+ Distribué par Audiomeans. Visitez 
+Feed: https://feeds.audiomeans.fr/feed/af6b50f8-2a22-4511-9afd-fd1339caa7be.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-mercredi-26-mars-2025-3090820</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/38eb4330-1844-472d-8195-18153b904649/14243-26.03.2025-ITEMA_24072552-2025J23372S0085-NET_MLM_C0FFB6ED-8E02-4C16-AC4A-644712D28FD2-21.mp3"/>
-                <guid>https://www.radiofrance.fr/mouv/podcasts/le-wake-up-mix/le-wake-up-mix-du-mercredi-26-mars-2025-3090820</guid>
+                <link>https://rcf.fr/vie-spirituelle/eglises-en-marche?episode=569818</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/ae48673f-6fc8-4c5b-b61c-74ddbaca754a.mp3?_=1742551352"/>
+                <guid>https://rcf.fr/vie-spirituelle/eglises-en-marche?episode=569818</guid>
                 
             </item><item>
-                <title>S08#03 Wouter Vermeersch, Belgian Contract Brewery (BCB)</title>
-                <description>
-Dans cet épisode du Pod&#39;capsuleur, nous allons découvrir aujourd’hui une brasserie extra souple et qui, malgré une production annuelle de 25 000 hL est qualifiée d’ &#34;inefficace&#34; par son propre dirigeant. Elle ne brasse pas une bière mais des centaines...
-Feed: https://feed.ausha.co/2B60pSpE9VOy</description>
+                <title>#239 - TiBillet, gérer un événement et plus encore - L&#39;obsolescence de Murphy - De bibliothécaire à médiatrice numérique </title>
+                <description>&lt;p&gt;Au programme de la 239e émission diffusée mardi 18 mars 2025 à 15 h 30 :&lt;/p&gt;
+&lt;ul class=&#34;spip&#34; role=&#34;list&#34;&gt;&lt;li&gt; sujet principal : TiBillet, gérer un événement et plus encore.....
+Feed: https://april.org/lav.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/podcapsuleur/bcb</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BxMQC2x9RjLo.mp3?t=1741965405"/>
-                <guid>https://podcast.ausha.co/podcapsuleur/bcb</guid>
+                <link>https://www.libreavous.org/239-tibillet-gerer-un-evenement-et-plus-encore-de-bibliothecaire-a-mediatrice</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20250318/libre-a-vous-20250318.ogg"/>
+                <guid>https://www.libreavous.org/239-tibillet-gerer-un-evenement-et-plus-encore-de-bibliothecaire-a-mediatrice</guid>
                 
             </item>
         </channel>
