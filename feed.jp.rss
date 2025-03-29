@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 28 Mar 2025 04:29:17 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 29 Mar 2025 04:28:56 +0200</lastBuildDate>
             <item>
-                <title>Ring In The Dead</title>
-                <description>&lt;p&gt;Black Mass&lt;/p&gt;&lt;p&gt;Nightfall&lt;/p&gt;
-
-Feed: https://anchor.fm/s/14c4d9ac/podcast/rss</description>
+                <title>Podcast ADN N°32 : L&#39;Inclusivité, avec Flavie Briand</title>
+                <description>
+Feed: https://feeds.feedburner.com/cellulis</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/terror-radio/episodes/Ring-In-The-Dead-e30herm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO6127939621.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/terror-radio/episodes/Ring-In-The-Dead-e30herm</guid>
+                <link>http://www.lacellule.net/2025/03/podcast-adn-n32-linclusivite-avec.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://romaricbriand.fr/podcastscellule/Podcast_S16_14_ADN_L_lnclusivite.mp3"/>
+                <guid>http://www.lacellule.net/2025/03/podcast-adn-n32-linclusivite-avec.html</guid>
                 
             </item><item>
-                <title>Elon Musk&#39;s Nazi Grandfather</title>
-                <description>&lt;p&gt;Elon Musk&amp;#39;s maternal grandfather spent his life suckling at the boots of various fascist cult leaders, and his grandson is following in his footsteps.&lt;/p&gt;&lt;p&gt;Watch in video at: https://www.youtube.com/@RespecttheDeadPodcast&lt;/p&gt;&lt;p&gt;Want an exclusive video episode about Elon Musk&amp;#39;s Poopa? Sign up at ➡ https://www.patreon.com/RespectTheDead&lt;/p&gt;&lt;p&gt;Hoots: https://www.youtube.com/@hootsyoutube // https://twitter.com/punishedhoots&lt;/p&gt;&lt;p&gt;Caelan: https://www.youtube...
-Feed: https://anchor.fm/s/ecc328a4/podcast/rss</description>
+                <title>Preview: Worst Tweets Survivor Series Live from Chicago</title>
+                <description>www.Patreon.com/WesternKabuki
+Feed: https://feed.podbean.com/WesternKabuki/feed.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/respectthedead/episodes/Elon-Musks-Nazi-Grandfather-e3060fe</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO8188785532.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/respectthedead/episodes/Elon-Musks-Nazi-Grandfather-e3060fe</guid>
+                <link>https://WesternKabuki.podbean.com/e/preview-worst-tweets-survivor-series-live-from-chicago/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/szhv6vdu695ks4b4/chicagopreview.mp3"/>
+                <guid>https://WesternKabuki.podbean.com/e/preview-worst-tweets-survivor-series-live-from-chicago/</guid>
                 
             </item>
         </channel>

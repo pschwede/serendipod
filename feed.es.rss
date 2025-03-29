@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 28 Mar 2025 04:29:04 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 29 Mar 2025 04:28:44 +0200</lastBuildDate>
             <item>
-                <title>Trailer Accesibilidad con Tecnologias Libres</title>
-                <description>
-&lt;p&gt;ATL es un podcast mensual producido y presentado por Jorge Lama. Con diferentes secciones donde cada &amp;quot;corresponsal&amp;quot; aporta su visión y conocimiento en temas de accesibilidad y tecnologías libres :
-· Rompiendo barreras, con Eva Marco, en la que habla de su experiencia como desarrolladora.
-· Odisea en el ciberespacio con David Marzal, comentando aplicaciones y noticias relacionadas con el Software Libre.
-· Accesibilidad web, con Pablo Arias...
-Feed: https://accesibilidadtl.gitlab.io/feed</description>
+                <title>Trópico utópico - Nossa bandeira - 27/03/25</title>
+                <description>Nossa bandeira
+Feed: http://api.rtve.es/api/programas/2096/audios.rss</description>
                 
                 
-                <link>https://accesibilidadtl.gitlab.io/posts/atl/t01-aurora/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=68b52970-05d8-5cb1-8bd3-d15fa3961e09/archive.org/download/atl-presentacion-aurora/ATL-Presentacion-Aurora.mp3"/>
-                <guid>https://accesibilidadtl.gitlab.io/posts/atl/t01-aurora/</guid>
+                <link>https://www.rtve.es/play/audios/tropico-utopico/nossa-bandeira-27-03-25/16508237/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16508237.mp3"/>
+                <guid>https://www.rtve.es/play/audios/tropico-utopico/nossa-bandeira-27-03-25/16508237/</guid>
                 
             </item><item>
-                <title>Subterranea Rarities 8x07 Odín le habló a Roger Hodgson y a Kevin Ayers - Episodio exclusivo para mecenas</title>
-                <description>Agradece a este podcast tantas horas de entretenimiento y disfruta de episodios exclusivos como éste. ¡Apóyale en iVoox! Nos hemos enterado de que el mismo dios nórdico, Odín, le habló a Roger Hodgson y a Kevin Ayers. Regresa a Subterranea Rarities Abel Fuentes para hablarnos de Roger Hodgson con motivo de su 75 cumpleaños. Abel nos trae cuatro maravillosas rarezas que os van a encantar, desde maquetas a temas inéditos...
-Feed: https://www.ivoox.com/feed_fg_f117710_filtro_1.xml</description>
+                <title>Tarataña - De charla con Iván Mellén sobre Fínfano - 23/03/25</title>
+                <description>De charla con Iván Mellén sobre Fínfano
+Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/subterranea-rarities-8x07-odin-le-hablo-a-roger-audios-mp3_rf_143290156_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/subterranea-rarities-8x07-odin-le-hablo-a-roger_mf_143290156_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/subterranea-rarities-8x07-odin-le-hablo-a-roger-audios-mp3_rf_143290156_1.html</guid>
+                <link>https://www.rtve.es/play/audios/taratana/charla-ivan-mellen-sobre-finfano-23-03-25/16503034/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16503034.mp3"/>
+                <guid>https://www.rtve.es/play/audios/taratana/charla-ivan-mellen-sobre-finfano-23-03-25/16503034/</guid>
                 
             </item>
         </channel>
