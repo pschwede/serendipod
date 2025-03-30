@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 29 Mar 2025 04:28:36 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 30 Mar 2025 04:28:43 +0200</lastBuildDate>
             <item>
-                <title>Bedroht und besonders: die Java-Bantengs</title>
-                <description>Mia san Tier schaut den vielleicht schönsten Rindern der Welt in die Augen: den Java-Bantengs. Die Rinderart aus Asien ist extrem bedroht. Umso spannender ist es, die Hellabrunner Banteng-Gruppe kennenzulernen. Ihr erfahrt zum Beispiel, warum die stattliche Kuh Petra liebevoll &#34;der Biber&#34; genannt wird, wer die Grande Dame der Herde ist und wie man erkennt, wann der Bulle schlechte Laune hat.
-Feed: https://zoo-podcast.podigee.io/feed/mp3</description>
+                <title>Mein Rot und Dein Rot</title>
+                <description> Wildermuth, Volkart www.deutschlandfunkkultur.de, Zeitfragen 
+Feed: https://www.deutschlandfunkkultur.de/zeitfragen-magazin-114.xml</description>
                 
                 
-                <link>https://zoo-podcast.podigee.io/133-javabanteng</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1838395-m-8e9e3990a3980b869e921657ceb897e1.mp3?source=feed"/>
-                <guid>https://zoo-podcast.podigee.io/133-javabanteng</guid>
+                <link>https://www.deutschlandfunkkultur.de/mein-rot-und-dein-rot-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2025/03/27/mein_rot_und_dein_rot_drk_20250327_1920_bc476a87.mp3?refId=zeitfragen-magazin-114"/>
+                <guid>https://www.deutschlandfunkkultur.de/mein-rot-und-dein-rot-100.html</guid>
                 
             </item><item>
-                <title>Knoebel im Interview</title>
-                <description>&lt;p&gt;Jeden Tag liefert er die wichtigsten Informationen rund um Spieleneuheiten, Ankündigungen und die Industrie im allgemeinen - Knoebel bietet das auf den Social Media-Kanälen alleine, was viele große Medienhäuser nur mit ganzen Teams schaffen. Und das völlig umsonst und ohne großen Schnick Schnack. Grund genug ihn in den Podcast einzuladen, um über den Struggle des &#34;Always On&#34;-seins, Monetarisierungsmöglichkeiten sowie zukünftige Projekte zu sprechen...
-Feed: https://anchor.fm/s/100f8531c/podcast/rss</description>
+                <title>#TdH289: Darmstadt schlägt Darmstadt</title>
+                <description>Um euch einen Live-Bericht aus dem Stadion bieten…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:333072576/sounds.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/ichmagdasnicht/episodes/Knoebel-im-Interview-e30hqau</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/100f8531c/podcast/play/100247326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-23%2Fa5964c3f-8a67-4640-2f38-1dc85f857036.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/ichmagdasnicht/episodes/Knoebel-im-Interview-e30hqau</guid>
+                <link>https://soundcloud.com/trotzdemhier/tdh289</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2056699564-trotzdemhier-tdh289.mp3"/>
+                <guid>https://soundcloud.com/trotzdemhier/tdh289</guid>
                 
             </item>
         </channel>

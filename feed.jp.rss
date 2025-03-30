@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 29 Mar 2025 04:28:56 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 30 Mar 2025 04:28:59 +0200</lastBuildDate>
             <item>
-                <title>Podcast ADN N°32 : L&#39;Inclusivité, avec Flavie Briand</title>
-                <description>
-Feed: https://feeds.feedburner.com/cellulis</description>
+                <title>Lawfare Archive: &#39;National Security, Leaks and Freedom of the Press&#39;</title>
+                <description>&lt;p&gt;From April 22, 2021: Jack Goldsmith sat down with Lee Bollinger, the president of Columbia University, and Geoffrey Stone, the Edward H. Levy Distinguished Service Professor at the University of Chicago Law School, to discuss their new book, &#34;National Security, Leaks and Freedom of the Press: The Pentagon Papers Fifty Years On...
+Feed: https://feeds.acast.com/public/shows/60518a52f69aa815d2dba41c</description>
                 
                 
-                <link>http://www.lacellule.net/2025/03/podcast-adn-n32-linclusivite-avec.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://romaricbriand.fr/podcastscellule/Podcast_S16_14_ADN_L_lnclusivite.mp3"/>
-                <guid>http://www.lacellule.net/2025/03/podcast-adn-n32-linclusivite-avec.html</guid>
+                <link>https://shows.acast.com/lawfare/episodes/lawfare-archive-national-security-leaks-and-freedom-of-the</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/60518a52f69aa815d2dba41c/e/67e73c11903a636fc1511b91/media.mp3"/>
+                <guid>https://shows.acast.com/lawfare/episodes/lawfare-archive-national-security-leaks-and-freedom-of-the</guid>
                 
             </item><item>
-                <title>Preview: Worst Tweets Survivor Series Live from Chicago</title>
-                <description>www.Patreon.com/WesternKabuki
-Feed: https://feed.podbean.com/WesternKabuki/feed.xml</description>
+                <title>Intercepted: Trump and the Future of the Ukraine-Russia War</title>
+                <description>Murtaza Hussain is joined by Rajan Menon, to discuss the future of the Ukraine-Russia war under the Trump administration.
+Feed: https://feeds.acast.com/public/shows/1d1223a2-9d05-473b-9e79-c2b65b71d676</description>
                 
                 
-                <link>https://WesternKabuki.podbean.com/e/preview-worst-tweets-survivor-series-live-from-chicago/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/szhv6vdu695ks4b4/chicagopreview.mp3"/>
-                <guid>https://WesternKabuki.podbean.com/e/preview-worst-tweets-survivor-series-live-from-chicago/</guid>
+                <link>https://www.dropsitenews.com/p/trump-and-the-future-of-the-ukraine</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/1d1223a2-9d05-473b-9e79-c2b65b71d676/e/67c094775fcda081c4f7a35c/media.mp3"/>
+                <guid>https://www.dropsitenews.com/p/trump-and-the-future-of-the-ukraine</guid>
                 
             </item>
         </channel>

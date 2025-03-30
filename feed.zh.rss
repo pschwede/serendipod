@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 29 Mar 2025 04:28:52 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 30 Mar 2025 04:28:56 +0200</lastBuildDate>
             <item>
-                <title>Ep.219 - Aviation furniture with Stu Art</title>
-                <description>&lt;p&gt;&lt;strong&gt;In this episode, we look at how aviation and aerospace items are converted to art and furniture pieces, and we welcome Stuart Abbot, the founder of Stu Art Furniture. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Stuart trained as an Airframe Engineer in the RAF working on the Tornado F3. After leaving the RAF he continued as an airframe engineer with several international airlines and started Stu Art Furniture in 2012...
-Feed: https://anchor.fm/s/993e5154/podcast/rss</description>
+                <title>612: Framework&#39;s Matt Hartley</title>
+                <description>Mike sits down with Matt Hartley of Framework to discuss some of their exciting new announcements, some Linux goodness &amp; of course an obligatory Rust shoutout. 
+Feed: https://feeds.jupiterbroadcasting.com/coder</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/xtended-podcast/episodes/Ep-219---Aviation-furniture-with-Stu-Art-e306skv</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/993e5154/podcast/play/99889247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-15%2F664b3f70-5c87-c456-ce9e-045af0847633.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/xtended-podcast/episodes/Ep-219---Aviation-furniture-with-Stu-Art-e306skv</guid>
+                <link>https://coder.show/612</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/dc32d322-4fd2-47e9-8621-82aeecf6fc99.mp3"/>
+                <guid>https://coder.show/612</guid>
                 
             </item><item>
-                <title>Clapcast 504</title>
-                <description>
-Be a part of the journey and allow Claptone to transport you to a place of sonic delights, with a mix designed to enchant outside of the club. Follow our golden masked friend and be the first to hear the new editions of the CLAPCAST tale...          
-          &lt;br /&gt;&lt;br /&gt;01. Anané - Let Me Be Your Fantasy (Moplen Remix) [Nervous]&lt;br /&gt;02. Chinonegro, Nicolas Caprile - I Need You (Extended Mix) [K19]&lt;br /&gt;03...
-Feed: http://portal-api.thisisdistorted.com/xml/clapcast</description>
+                <title>Lip-Bu Tan&#39;s Intel</title>
+                <description>&lt;p&gt;Intel has a new CEO! And it&#39;s Lip-Bu Tan. We had assumed it would not be Lip-Bu--he was such a clear front-runner that the more time passed the less likely it seemed it would be him... and yet! Bryan and Adam were joined by Reuter&#39;s Max Cherney to discuss.&lt;/p&gt;&lt;p&gt;In addition to Bryan Cantrill and Adam Leventhal, our esteemed guest was Max Cherney; we were also joined by Bryan Russett, and Alex Kesling...
+Feed: https://feeds.transistor.fm/oxide-and-friends</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.thisisdistorted.com/repository/audio/episodes/CLAPCAST_504wID-1741950533611933543-NDA2ODctMTUwMTc0MjU1.mp3"/>
-                <guid></guid>
+                <link>https://share.transistor.fm/s/59bf46b3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.transistor.fm/59bf46b3/4999626b.mp3"/>
+                <guid>https://share.transistor.fm/s/59bf46b3</guid>
                 
             </item>
         </channel>

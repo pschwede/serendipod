@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 29 Mar 2025 04:28:44 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 30 Mar 2025 04:28:49 +0200</lastBuildDate>
             <item>
-                <title>Trópico utópico - Nossa bandeira - 27/03/25</title>
-                <description>Nossa bandeira
-Feed: http://api.rtve.es/api/programas/2096/audios.rss</description>
+                <title>Trailer: KDE Express. Comunidad y Software Libre</title>
+                <description>&lt;p&gt;Desde Cartagena, de la mano de David Marzal, descubre más sobre la comunidad KDE y de Software libre, con noticias, eventos, entrevistas, tips e información de calidad del mundillo.&lt;/p&gt;
+&lt;p&gt;Con una periodicidad quincenal, David, con ánimo divulgador y el espíritu linuxero de compartir conocimiento, da un repaso a las aplicaciones y actualizaciones del KDE, pero también de otras tecnologías relacionadas, accesibilidad, etc. A veces también trae a algún invitado con papeles.&lt;/p&gt;
+Feed: https://kdeexpress.gitlab.io/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/tropico-utopico/nossa-bandeira-27-03-25/16508237/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16508237.mp3"/>
-                <guid>https://www.rtve.es/play/audios/tropico-utopico/nossa-bandeira-27-03-25/16508237/</guid>
+                <link>https://kdeexpress.gitlab.io/posts/kdeexpress/t04-kde-express/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=a9a56b87-575a-5f6f-9636-cdf7b73e6230/archive.org/download/t04-kde-express-trailer/T04-KDE_Express-Trailer.mp3"/>
+                <guid>https://kdeexpress.gitlab.io/posts/kdeexpress/t04-kde-express/</guid>
                 
             </item><item>
-                <title>Tarataña - De charla con Iván Mellén sobre Fínfano - 23/03/25</title>
-                <description>De charla con Iván Mellén sobre Fínfano
-Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
+                <title>2x140 - Novedades Carmona</title>
+                <description>2x140 - Novedades Carmona
+Feed: https://www.rtve.es/api/adapter/programas/175697/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/taratana/charla-ivan-mellen-sobre-finfano-23-03-25/16503034/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16503034.mp3"/>
-                <guid>https://www.rtve.es/play/audios/taratana/charla-ivan-mellen-sobre-finfano-23-03-25/16503034/</guid>
+                <link>https://www.rtve.es/play/audios/manana-mas/2x140-novedades-carmona/16511328/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16511328.mp3"/>
+                <guid>https://www.rtve.es/play/audios/manana-mas/2x140-novedades-carmona/16511328/</guid>
                 
             </item>
         </channel>
