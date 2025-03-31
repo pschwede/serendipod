@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 30 Mar 2025 04:28:49 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 31 Mar 2025 04:28:42 +0200</lastBuildDate>
             <item>
-                <title>Trailer: KDE Express. Comunidad y Software Libre</title>
-                <description>&lt;p&gt;Desde Cartagena, de la mano de David Marzal, descubre más sobre la comunidad KDE y de Software libre, con noticias, eventos, entrevistas, tips e información de calidad del mundillo.&lt;/p&gt;
-&lt;p&gt;Con una periodicidad quincenal, David, con ánimo divulgador y el espíritu linuxero de compartir conocimiento, da un repaso a las aplicaciones y actualizaciones del KDE, pero también de otras tecnologías relacionadas, accesibilidad, etc. A veces también trae a algún invitado con papeles.&lt;/p&gt;
-Feed: https://kdeexpress.gitlab.io/feed</description>
+                <title>¿Es peligroso el mensaje del reguetón?</title>
+                <description>SUBTÍTULOS Y TRANSCRIPCIÓN         Este es el último episodio de esta miniserie  que le estamos dedicando al reguetón. Esta vez vamos a ocuparnos de un aspecto que es precisamente uno de los más polémicos relacionados con este estilo musical.
+Feed: https://radioele.com/feed/podcast/</description>
                 
                 
-                <link>https://kdeexpress.gitlab.io/posts/kdeexpress/t04-kde-express/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=a9a56b87-575a-5f6f-9636-cdf7b73e6230/archive.org/download/t04-kde-express-trailer/T04-KDE_Express-Trailer.mp3"/>
-                <guid>https://kdeexpress.gitlab.io/posts/kdeexpress/t04-kde-express/</guid>
+                <link>https://radioele.com/25es-peligroso-el-mensaje-del-regueton/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=25es-peligroso-el-mensaje-del-regueton</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/3786634/radioele.com/wp-content/uploads/2025/03/Es-peligroso-el-mensaje-del-regueton.mp3"/>
+                <guid>https://radioele.com/25es-peligroso-el-mensaje-del-regueton/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=25es-peligroso-el-mensaje-del-regueton</guid>
                 
             </item><item>
-                <title>2x140 - Novedades Carmona</title>
-                <description>2x140 - Novedades Carmona
-Feed: https://www.rtve.es/api/adapter/programas/175697/audios.rss</description>
+                <title>Hoy empieza todo 2 - Gente de Ley: ‘El odio’ de Luisge Martín - 28/03/2025</title>
+                <description>Gente de Ley: ‘El odio’ de Luisge Martín
+Feed: http://api.rtve.es/api/programas/59011/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/manana-mas/2x140-novedades-carmona/16511328/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16511328.mp3"/>
-                <guid>https://www.rtve.es/play/audios/manana-mas/2x140-novedades-carmona/16511328/</guid>
+                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-2/hoy-empieza-todo-2-gente-ley-odio-luisge-martin-28-03-2025/16511338/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16511338.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-2/hoy-empieza-todo-2-gente-ley-odio-luisge-martin-28-03-2025/16511338/</guid>
                 
             </item>
         </channel>

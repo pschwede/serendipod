@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 30 Mar 2025 04:28:46 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 31 Mar 2025 04:28:39 +0200</lastBuildDate>
             <item>
-                <title>On prend toujours un micro pour la vie : 03/26/2025 16:00</title>
-                <description>673-333170
-Feed: http://podcast.cism893.ca/radioshows/673/feed_itunes.xml</description>
-                
-                
-                <link>https://podcast.cism893.ca/podcast/download_mp3/333170.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/333170.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/333170.mp3</guid>
-                
-            </item><item>
-                <title>À quoi sert le ministère de l&#39;Éducation que Donald Trump veut démanteler?</title>
-                <description>&lt;p&gt;Le jeudi 20 mars, Donald Trump a adopté un décret&amp;nbsp;qui vise à&amp;nbsp;«éliminer»&amp;nbsp;le ministère de l&#39;Éducation aux États-Unis. Plus exactement, il donne instruction à sa secrétaire à l&#39;Éducation, Linda McMahon, de démanteler cette partie de l&#39;administration fédérale...
-Feed: https://feeds.360.audion.fm/6DEDYNDVuyDDA-xbBAq8y</description>
+                <title>Une soirée citoyenne sur la forêt de la Double</title>
+                <description>Le samedi 1er mars la commune de La Roche Chalais en partenariat avec l’ENA (l’Ecole des Naturalistes d’Aquitaine) a organisé une soirée citoyenne sur la forêt.
+A l’heure des changements climatiques et de l’effondrement de la biodiversité, la question de la gestion durable de la forêt de la Double reste plus que jamais d’actualité. Environ 150 personnes se sont déplacées.
+Cette soirée a réuni nombreux acteurs du territoire : propriétaires, forestiers, élus, citoyens...
+Feed: https://www.radioslibresenperigord.com/rss/actus-locales.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/fe6e99eb-be8c-4235-92db-2b75a0c4ec1d.mp3?from=Fyyd"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.radioslibresenperigord.com/wp-content/uploads/2025/03/2025-03-27-Debat-La-Roche-Chalais-Foret-de-la-Double.mp3"/>
                 <guid></guid>
+                
+            </item><item>
+                <title>Où est le bilan de l’opposition gondwanaise?</title>
+                <description>
+Président-Fondateur exige de voir le bilan l’opposition gondwanaise. 
+
+Feed: https://www.rfi.fr/fr/podcasts/chronique-mamane/podcast</description>
+                
+                
+                <link>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20250327-o%C3%B9-est-le-bilan-de-l-opposition-gondwanaise</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aod-rfi.akamaized.net/rfi/francais/audio/modules/actu/202503/MAMANE_27_03_Ou_est_le_bilan_de_l_opposition_gondwanaise.mp3"/>
+                <guid>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20250327-o%C3%B9-est-le-bilan-de-l-opposition-gondwanaise</guid>
                 
             </item>
         </channel>

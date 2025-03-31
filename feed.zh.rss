@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 30 Mar 2025 04:28:56 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 31 Mar 2025 04:28:49 +0200</lastBuildDate>
             <item>
-                <title>612: Framework&#39;s Matt Hartley</title>
-                <description>Mike sits down with Matt Hartley of Framework to discuss some of their exciting new announcements, some Linux goodness &amp; of course an obligatory Rust shoutout. 
-Feed: https://feeds.jupiterbroadcasting.com/coder</description>
+                <title>Episode 740: March 27, 2025</title>
+                <description>Episode 740: March 27, 2025
+Feed: http://brainwashed.com/podcast/podcast_rss.xml</description>
                 
                 
-                <link>https://coder.show/612</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/dc32d322-4fd2-47e9-8621-82aeecf6fc99.mp3"/>
-                <guid>https://coder.show/612</guid>
+                <link>http://media.brainwashed.com/podcast/e740-250327.m4a</link>
+                <enclosure type="audio/mpeg" length="1" url="http://brainwashed.com/podcast/e740-250327.m4a"/>
+                <guid>http://media.brainwashed.com/podcast/e740-250327.m4a</guid>
                 
             </item><item>
-                <title>Lip-Bu Tan&#39;s Intel</title>
-                <description>&lt;p&gt;Intel has a new CEO! And it&#39;s Lip-Bu Tan. We had assumed it would not be Lip-Bu--he was such a clear front-runner that the more time passed the less likely it seemed it would be him... and yet! Bryan and Adam were joined by Reuter&#39;s Max Cherney to discuss.&lt;/p&gt;&lt;p&gt;In addition to Bryan Cantrill and Adam Leventhal, our esteemed guest was Max Cherney; we were also joined by Bryan Russett, and Alex Kesling...
-Feed: https://feeds.transistor.fm/oxide-and-friends</description>
+                <title>Mastering PDF Accessibility: Common Pitfalls and Pro Tips</title>
+                <description>In this episode of Chax Chat, Chad Chelius and Dax Castro tackle some of the most common challenges in document accessibility. From overlooked tagging issues to the hidden complexities of tables and lists, they break down key remediation strategies...
+Feed: https://a11ychax.libsyn.com/rss</description>
                 
                 
-                <link>https://share.transistor.fm/s/59bf46b3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.transistor.fm/59bf46b3/4999626b.mp3"/>
-                <guid>https://share.transistor.fm/s/59bf46b3</guid>
+                <link>https://a11ychax.libsyn.com/mastering-pdf-accessibility-common-pitfalls-and-pro-tips</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/a11ychax/June_3_01.mp3?dest-id=2723792"/>
+                <guid>https://a11ychax.libsyn.com/mastering-pdf-accessibility-common-pitfalls-and-pro-tips</guid>
                 
             </item>
         </channel>
