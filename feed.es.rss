@@ -9,26 +9,37 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 31 Mar 2025 04:28:42 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 01 Apr 2025 04:31:03 +0200</lastBuildDate>
             <item>
-                <title>¿Es peligroso el mensaje del reguetón?</title>
-                <description>SUBTÍTULOS Y TRANSCRIPCIÓN         Este es el último episodio de esta miniserie  que le estamos dedicando al reguetón. Esta vez vamos a ocuparnos de un aspecto que es precisamente uno de los más polémicos relacionados con este estilo musical.
-Feed: https://radioele.com/feed/podcast/</description>
+                <title>Música y Letra: Música de cine, clásica y canciones populares</title>
+                <description>Andrés Amorós sigue con su ciclo dedicado a la música de cine, en este caso con piezas clásicas y canciones populares.
+Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
                 
                 
-                <link>https://radioele.com/25es-peligroso-el-mensaje-del-regueton/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=25es-peligroso-el-mensaje-del-regueton</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/3786634/radioele.com/wp-content/uploads/2025/03/Es-peligroso-el-mensaje-del-regueton.mp3"/>
-                <guid>https://radioele.com/25es-peligroso-el-mensaje-del-regueton/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=25es-peligroso-el-mensaje-del-regueton</guid>
+                <link>https://esradio.libertaddigital.com/fonoteca/2025-03-29/musica-y-letra-musica-de-cine-clasica-y-canciones-populares-p1696233-7236252.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/65196331/download.mp3?aw_0_1st.collectionid=musica-y-letra&amp;aw_0_1st.subcat=67"/>
+                <guid>https://esradio.libertaddigital.com/fonoteca/2025-03-29/musica-y-letra-musica-de-cine-clasica-y-canciones-populares-p1696233-7236252.html</guid>
                 
             </item><item>
-                <title>Hoy empieza todo 2 - Gente de Ley: ‘El odio’ de Luisge Martín - 28/03/2025</title>
-                <description>Gente de Ley: ‘El odio’ de Luisge Martín
-Feed: http://api.rtve.es/api/programas/59011/audios.rss</description>
+                <title>750 Música sin usura 30-03-2025______ (159 SLUM’S ECLECTIC SESSIONS)</title>
+                <description>Caves.
+Recorremos la geograf&amp;iacute;a y sus m&amp;uacute;sicas.
+Todos los podcast aqu&amp;iacute;:
+https://slumdar2.wordpress.com/musica-sin-usura/
+CANAL M&amp;Uacute;SICA SIN USURA:
+https://play.vargasdelmoral.com/share/AjZjNC6zn5#
+TIMELINE AND TRACK LIST
+[00:01:06] &amp;ndash; 01. david antony clark - forest gods
+[00:06:39] &amp;ndash; 02. yeahwon shin - the moonwatcher and the child
+[00:10:42] &amp;ndash; 03. sleeping at last - bloom (eros)
+[00:14:27] &amp;ndash; 04. tim berne - yield
+[00:26:21] &amp;ndash; 05...
+Feed: https://www.ivoox.com/podcast-podcast-musica-sin-usura_fg_f126955_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-2/hoy-empieza-todo-2-gente-ley-odio-luisge-martin-28-03-2025/16511338/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16511338.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-2/hoy-empieza-todo-2-gente-ley-odio-luisge-martin-28-03-2025/16511338/</guid>
+                <link>https://www.ivoox.com/750-musica-sin-usura-30-03-2025-159-slum-s-eclectic-audios-mp3_rf_144041409_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/750-musica-sin-usura-30-03-2025-159-slum-s-eclectic_mf_144041409_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/750-musica-sin-usura-30-03-2025-159-slum-s-eclectic-audios-mp3_rf_144041409_1.html</guid>
                 
             </item>
         </channel>
