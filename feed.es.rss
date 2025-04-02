@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 01 Apr 2025 04:31:03 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 02 Apr 2025 04:28:38 +0200</lastBuildDate>
             <item>
-                <title>Música y Letra: Música de cine, clásica y canciones populares</title>
-                <description>Andrés Amorós sigue con su ciclo dedicado a la música de cine, en este caso con piezas clásicas y canciones populares.
-Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
-                
-                
-                <link>https://esradio.libertaddigital.com/fonoteca/2025-03-29/musica-y-letra-musica-de-cine-clasica-y-canciones-populares-p1696233-7236252.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/65196331/download.mp3?aw_0_1st.collectionid=musica-y-letra&amp;aw_0_1st.subcat=67"/>
-                <guid>https://esradio.libertaddigital.com/fonoteca/2025-03-29/musica-y-letra-musica-de-cine-clasica-y-canciones-populares-p1696233-7236252.html</guid>
-                
-            </item><item>
                 <title>750 Música sin usura 30-03-2025______ (159 SLUM’S ECLECTIC SESSIONS)</title>
                 <description>Caves.
 Recorremos la geograf&amp;iacute;a y sus m&amp;uacute;sicas.
@@ -40,6 +30,16 @@ Feed: https://www.ivoox.com/podcast-podcast-musica-sin-usura_fg_f126955_filtro_1
                 <link>https://www.ivoox.com/750-musica-sin-usura-30-03-2025-159-slum-s-eclectic-audios-mp3_rf_144041409_1.html</link>
                 <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/750-musica-sin-usura-30-03-2025-159-slum-s-eclectic_mf_144041409_feed_1.mp3"/>
                 <guid>https://www.ivoox.com/750-musica-sin-usura-30-03-2025-159-slum-s-eclectic-audios-mp3_rf_144041409_1.html</guid>
+                
+            </item><item>
+                <title>Sateli 3 - Cajun Stomps y The Louvin Brothers: Satan Is Real (1959) - 02/04/25</title>
+                <description>Cajun Stomps y The Louvin Brothers: Satan Is Real (1959)
+Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
+                
+                
+                <link>https://www.rtve.es/play/audios/sateli-3/cajun-stomps-louvin-brothers-satan-is-real-1959-02-04-25/16516895/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16516895.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sateli-3/cajun-stomps-louvin-brothers-satan-is-real-1959-02-04-25/16516895/</guid>
                 
             </item>
         </channel>
