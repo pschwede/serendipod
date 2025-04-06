@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 05 Apr 2025 04:27:51 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 06 Apr 2025 04:29:27 +0200</lastBuildDate>
             <item>
-                <title>Les dessous du lac de Serre-Ponçon 2/2 : De l’eau vive aux eaux troubles</title>
-                <description>Les dessous du lac de Serre-Ponçon 2/2 : De l’eau vive aux eaux troubles
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16408.xml</description>
+                <title>Humour : 4 leçons de management...</title>
+                <description>
+Histoire de sourire et ... de réfléchir...Un homme téléphone à son médecin de famille pour se plaindre de sa femme sourde…
+À suivre 4 leçons de management savoureuses… communication, procédures , hiérarchie, gestion des affaires des autres. Nous crois...
+Feed: https://feed.ausha.co/bParRHY3DpaR</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/de-l-eau-vive-aux-eaux-troubles-2399361</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/dbe6f196-dba8-4f86-bea3-d142ae895c19/16408-30.03.2025-ITEMA_24080086-2025C26160E0022-ITE_00148982_RSCE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/de-l-eau-vive-aux-eaux-troubles-2399361</guid>
+                <link>https://podcast.ausha.co/histoires-pour-les-grandes-personnes/humour-4-lecons-de-management</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/b3nmPU3Lme74.mp3?t=1742297222"/>
+                <guid>https://podcast.ausha.co/histoires-pour-les-grandes-personnes/humour-4-lecons-de-management</guid>
                 
             </item><item>
-                <title>Après Mazan I Le miroir du déni (2/4) </title>
-                <description>Comment expliquer que tant d’hommes perçus comme de “bons pères de famille” aient pu violer une femme shootée à son insu aux anxiolytiques ? Si Gisèle Pelicot est tombée d’aussi haut en découvrant les viols infligés par son ex-mari et s...
-Feed: https://feeds.audiomeans.fr/feed/d9cd7538-7491-4873-b0c4-90ccba60ccf6.xml</description>
+                <title>EP71 Classique chinois - Le roi singe</title>
+                <description>
+Ce soir, on découvre l’histoire qui a inspiré Dragon Ball, et surtout le personnage à l’origine de Son Goku, mais aussi que rien ne vaut une bonne éducation, en particulier quand vous trouvez un professeur capable de vous révéler les secrets des dieux...
+Feed: https://feed.ausha.co/ypDGASGwEPlZ</description>
                 
                 
-                <link>https://www.binge.audio/podcast/les-couilles-sur-la-table/apres-mazan</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/e59542ca-b733-4b54-8b23-35f0d00fda7f.mp3?_=1743001199"/>
-                <guid>https://www.binge.audio/podcast/les-couilles-sur-la-table/apres-mazan</guid>
+                <link>https://podcast.ausha.co/contes-des-soirs-perdus/ep71-classique-chinois-le-roi-singe</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BDdkrCwKL94A.mp3?t=1743410477"/>
+                <guid>https://podcast.ausha.co/contes-des-soirs-perdus/ep71-classique-chinois-le-roi-singe</guid>
                 
             </item>
         </channel>
