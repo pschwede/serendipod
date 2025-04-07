@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 06 Apr 2025 04:29:27 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 07 Apr 2025 04:29:15 +0200</lastBuildDate>
             <item>
-                <title>Humour : 4 leçons de management...</title>
-                <description>
-Histoire de sourire et ... de réfléchir...Un homme téléphone à son médecin de famille pour se plaindre de sa femme sourde…
-À suivre 4 leçons de management savoureuses… communication, procédures , hiérarchie, gestion des affaires des autres. Nous crois...
-Feed: https://feed.ausha.co/bParRHY3DpaR</description>
+                <title>Allan Kardec, le Français le plus connu et célébré du Brésil</title>
+                <description>Allan Kardec, le Français le plus connu et célébré du Brésil
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16408.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/histoires-pour-les-grandes-personnes/humour-4-lecons-de-management</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/b3nmPU3Lme74.mp3?t=1742297222"/>
-                <guid>https://podcast.ausha.co/histoires-pour-les-grandes-personnes/humour-4-lecons-de-management</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/allan-kardec-le-francais-le-plus-connu-et-celebre-du-bresil-3838932</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/28a27f6f-94c4-43aa-a567-aa1524b28a44/16408-06.04.2025-ITEMA_24090210-2025C26160E0024-NET_MFC_150F9723-5472-4272-8C51-E5D05FF27BA3-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/allan-kardec-le-francais-le-plus-connu-et-celebre-du-bresil-3838932</guid>
                 
             </item><item>
-                <title>EP71 Classique chinois - Le roi singe</title>
-                <description>
-Ce soir, on découvre l’histoire qui a inspiré Dragon Ball, et surtout le personnage à l’origine de Son Goku, mais aussi que rien ne vaut une bonne éducation, en particulier quand vous trouvez un professeur capable de vous révéler les secrets des dieux...
-Feed: https://feed.ausha.co/ypDGASGwEPlZ</description>
+                <title>Louis XIV, lumières et ombres du Roi-Soleil 4/7 : Madame de Montespan. Heurs et malheurs d’une favorite de Louis XIV</title>
+                <description>Louis XIV, lumières et ombres du Roi-Soleil 4/7 : Madame de Montespan. Heurs et malheurs d’une favorite de Louis XIV
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14435.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/contes-des-soirs-perdus/ep71-classique-chinois-le-roi-singe</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BDdkrCwKL94A.mp3?t=1743410477"/>
-                <guid>https://podcast.ausha.co/contes-des-soirs-perdus/ep71-classique-chinois-le-roi-singe</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/autant-en-emporte-l-histoire/autant-en-emporte-l-histoire-du-dimanche-06-avril-2025-1990937</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/500bd0a8-e133-4309-9f78-f0973db3b4de/14435-04.04.2025-ITEMA_24092540-2025F23811S0096-NET_MFI_4E159807-280C-467F-8F26-D7674ED071C1-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/autant-en-emporte-l-histoire/autant-en-emporte-l-histoire-du-dimanche-06-avril-2025-1990937</guid>
                 
             </item>
         </channel>
