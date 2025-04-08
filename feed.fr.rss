@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 07 Apr 2025 04:29:15 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 08 Apr 2025 04:28:55 +0200</lastBuildDate>
             <item>
-                <title>Allan Kardec, le Français le plus connu et célébré du Brésil</title>
-                <description>Allan Kardec, le Français le plus connu et célébré du Brésil
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16408.xml</description>
+                <title>Catastrophe aéronautique en Europe (Aviation Disaster in Europe)</title>
+                <description>Une fusée orbitale lancée depuis l&#39;Europe continentale s&#39;écrase après seulement quelques secondes de vol, suscitant des inquiétudes sur la sécurité spatiale.​
+Feed: https://feeds.acast.com/public/shows/66068dc22d276f001657edb1</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/allan-kardec-le-francais-le-plus-connu-et-celebre-du-bresil-3838932</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/28a27f6f-94c4-43aa-a567-aa1524b28a44/16408-06.04.2025-ITEMA_24090210-2025C26160E0024-NET_MFC_150F9723-5472-4272-8C51-E5D05FF27BA3-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/allan-kardec-le-francais-le-plus-connu-et-celebre-du-bresil-3838932</guid>
+                <link>https://shows.acast.com/learn-french-with-daily-podcasts/episodes/catastrophe-aeronautique-en-europe-aviation-disaster-in-euro</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/66068dc22d276f001657edb1/e/67ef38b0506c6c628ca380c3/media.mp3"/>
+                <guid>https://shows.acast.com/learn-french-with-daily-podcasts/episodes/catastrophe-aeronautique-en-europe-aviation-disaster-in-euro</guid>
                 
             </item><item>
-                <title>Louis XIV, lumières et ombres du Roi-Soleil 4/7 : Madame de Montespan. Heurs et malheurs d’une favorite de Louis XIV</title>
-                <description>Louis XIV, lumières et ombres du Roi-Soleil 4/7 : Madame de Montespan. Heurs et malheurs d’une favorite de Louis XIV
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14435.xml</description>
+                <title>Épisode 105 - Léa et l&#39;alchimie au Moyen Âge</title>
+                <description>
+Dans cet épisode, Léa Aubard vous présente ses …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:147058082/sounds.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/autant-en-emporte-l-histoire/autant-en-emporte-l-histoire-du-dimanche-06-avril-2025-1990937</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/500bd0a8-e133-4309-9f78-f0973db3b4de/14435-04.04.2025-ITEMA_24092540-2025F23811S0096-NET_MFI_4E159807-280C-467F-8F26-D7674ED071C1-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/autant-en-emporte-l-histoire/autant-en-emporte-l-histoire-du-dimanche-06-avril-2025-1990937</guid>
+                <link>https://soundcloud.com/fannycomo/episode-105-lea-et-lalchimie-au-moyen-age</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/2073127896-fannycomo-episode-105-lea-et-lalchimie-au-moyen-age.mp3"/>
+                <guid>https://soundcloud.com/fannycomo/episode-105-lea-et-lalchimie-au-moyen-age</guid>
                 
             </item>
         </channel>
