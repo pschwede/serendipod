@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 08 Apr 2025 04:28:59 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 09 Apr 2025 04:29:01 +0200</lastBuildDate>
             <item>
-                <title>Lo Que Más Suena Cap. 354 (01-04-25)</title>
-                <description>Nueva edición de &#39;Lo Que Más Suena&#39;, que contiene las últimas novedades, temazos del recuerdo y vuestras peticiones mediante nota de voz a nuestro número de WhatsApp. Incluye entrevista a Revólver. WhatsApp: 633 865 801 Facebook: http://www.facebook.com/loqmassuena Twitter: @loquemassuena Instagram: https://www.instagram.com/loquemassuena/ E-mail: loquemassuena@gmail.com
-Feed: https://feeds.feedburner.com/loquemassuena</description>
+                <title>Un poco menos decepcionado con la Streamer X #Opinión</title>
+                <description>&lt;p&gt;Este audio lo estoy grabando finalmente con la Streamer X, que lo único que necesitaba era un reinicio de fábrica. Aún así, después de usar la RØDECaster Duo/Pro II, te das cuenta que hay sacrificios que tienes que hacer.&lt;/p&gt;
+&lt;p&gt;Te invito a debatir sobre este tema en el Foro de la Comunidad de TuPodcast https://foro.tupodcast.com&lt;/p&gt;
+&lt;p&gt;Y otras formas de contacto las encuentran en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/contacto...
+Feed: https://www.tupodcast.com/@comopiensodigo/feed.xml</description>
                 
                 
-                <link>https://www.ivoox.com/lo-que-mas-suena-cap-354-01-04-25-audios-mp3_rf_144233714_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/lo-que-mas-suena-cap-354-01-04-25_mf_144233714_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/lo-que-mas-suena-cap-354-01-04-25-audios-mp3_rf_144233714_1.html</guid>
+                <link>https://www.tupodcast.com/@comopiensodigo/episodes/un-poco-menos-decepcionado-con-la-streamer-x</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=fca9a628-07fc-5904-864a-41644b4c3dc8/www.tupodcast.com/audio/@comopiensodigo/un-poco-menos-decepcionado-con-la-streamer-x.mp3?_from=fyyd.de"/>
+                <guid>https://www.tupodcast.com/@comopiensodigo/episodes/un-poco-menos-decepcionado-con-la-streamer-x</guid>
                 
             </item><item>
-                <title>Cinco Continentes - Trump no recula y amenaza a China con nuevos aranceles</title>
-                <description>Trump no recula y amenaza a China con nuevos aranceles
-Feed: http://api.rtve.es/api/programas/34950/audios.rss</description>
+                <title>Fin de mes - ¿Es posible reindustrializar EEUU?</title>
+                <description>¿Es posible reindustrializar EEUU?
+Feed: https://www.rtve.es/api/programas/1000671/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cinco-continentes/cinco-continentes-trump-no-recula-amenaza-china-nuevos-aranceles/16525148/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16525148.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cinco-continentes/cinco-continentes-trump-no-recula-amenaza-china-nuevos-aranceles/16525148/</guid>
+                <link>https://www.rtve.es/play/audios/fin-de-mes/fin-mes-posible-reindustrializar-eeuu/16532547/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16532547.mp3"/>
+                <guid>https://www.rtve.es/play/audios/fin-de-mes/fin-mes-posible-reindustrializar-eeuu/16532547/</guid>
                 
             </item>
         </channel>
