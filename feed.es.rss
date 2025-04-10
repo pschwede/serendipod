@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 09 Apr 2025 04:29:01 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 10 Apr 2025 04:29:04 +0200</lastBuildDate>
             <item>
                 <title>Un poco menos decepcionado con la Streamer X #Opinión</title>
                 <description>&lt;p&gt;Este audio lo estoy grabando finalmente con la Streamer X, que lo único que necesitaba era un reinicio de fábrica. Aún así, después de usar la RØDECaster Duo/Pro II, te das cuenta que hay sacrificios que tienes que hacer.&lt;/p&gt;
@@ -24,14 +24,14 @@ Feed: https://www.tupodcast.com/@comopiensodigo/feed.xml</description>
                 <guid>https://www.tupodcast.com/@comopiensodigo/episodes/un-poco-menos-decepcionado-con-la-streamer-x</guid>
                 
             </item><item>
-                <title>Fin de mes - ¿Es posible reindustrializar EEUU?</title>
-                <description>¿Es posible reindustrializar EEUU?
-Feed: https://www.rtve.es/api/programas/1000671/audios.rss</description>
+                <title>Faraonas, misterios y curiosidades de las reinas del Nilo</title>
+                <description>&lt;p&gt;Viajamos una vez más al antiguo Egipto, en esta ocasión de la mano de Rubén Villalobos, autor de ‘Faraonas’ para conocer el mundo de sus reinas&lt;/p&gt;
+Feed: https://fapi-top.prisasd.com/podcast/playser/ser_historia/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/fin-de-mes/fin-mes-posible-reindustrializar-eeuu/16532547/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16532547.mp3"/>
-                <guid>https://www.rtve.es/play/audios/fin-de-mes/fin-mes-posible-reindustrializar-eeuu/16532547/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/SER_HISTORIA_SER_PODCAST_355_P/media/playser/audio/20254/09/4421751.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
