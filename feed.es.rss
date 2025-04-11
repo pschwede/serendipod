@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 10 Apr 2025 04:29:04 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 11 Apr 2025 04:29:25 +0200</lastBuildDate>
             <item>
-                <title>Un poco menos decepcionado con la Streamer X #Opinión</title>
-                <description>&lt;p&gt;Este audio lo estoy grabando finalmente con la Streamer X, que lo único que necesitaba era un reinicio de fábrica. Aún así, después de usar la RØDECaster Duo/Pro II, te das cuenta que hay sacrificios que tienes que hacer.&lt;/p&gt;
-&lt;p&gt;Te invito a debatir sobre este tema en el Foro de la Comunidad de TuPodcast https://foro.tupodcast.com&lt;/p&gt;
-&lt;p&gt;Y otras formas de contacto las encuentran en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta.me/contacto...
-Feed: https://www.tupodcast.com/@comopiensodigo/feed.xml</description>
+                <title>Frontera - 06/04/25</title>
+                <description>Frontera - 06/04/25
+Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
                 
                 
-                <link>https://www.tupodcast.com/@comopiensodigo/episodes/un-poco-menos-decepcionado-con-la-streamer-x</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=fca9a628-07fc-5904-864a-41644b4c3dc8/www.tupodcast.com/audio/@comopiensodigo/un-poco-menos-decepcionado-con-la-streamer-x.mp3?_from=fyyd.de"/>
-                <guid>https://www.tupodcast.com/@comopiensodigo/episodes/un-poco-menos-decepcionado-con-la-streamer-x</guid>
+                <link>https://www.rtve.es/play/audios/frontera/06-04-25/16522765/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16522765.mp3"/>
+                <guid>https://www.rtve.es/play/audios/frontera/06-04-25/16522765/</guid>
                 
             </item><item>
-                <title>Faraonas, misterios y curiosidades de las reinas del Nilo</title>
-                <description>&lt;p&gt;Viajamos una vez más al antiguo Egipto, en esta ocasión de la mano de Rubén Villalobos, autor de ‘Faraonas’ para conocer el mundo de sus reinas&lt;/p&gt;
-Feed: https://fapi-top.prisasd.com/podcast/playser/ser_historia/itunestfp/podcast.xml</description>
+                <title>Historias del Más Acá 214 - Chalco de Sangre</title>
+                <description>Notas Macabrosas
+- Dos niños de seis años son entregados a sus verdaderas familias tras haber sido intercambiados al nacer en Perú 
+- Un niño se quejó de un &#34;monstruo&#34; debajo de la cama...
+Feed: https://feeds.megaphone.fm/SONORO5207250204</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/SER_HISTORIA_SER_PODCAST_355_P/media/playser/audio/20254/09/4421751.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/39325/pdst.fm/e/traffic.megaphone.fm/SONORO4704507643.mp3?updated=1744267057"/>
                 <guid></guid>
                 
             </item>
