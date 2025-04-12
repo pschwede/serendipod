@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 11 Apr 2025 04:29:25 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 12 Apr 2025 04:28:18 +0200</lastBuildDate>
             <item>
-                <title>Frontera - 06/04/25</title>
-                <description>Frontera - 06/04/25
-Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
+                <title>Cosa Pública 2.0 - Vi. 11 Abr 2025</title>
+                <description>https://podcastudg.com/CosaPublia20250411.mp3
+
+Feed: https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/feed/19</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/frontera/06-04-25/16522765/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16522765.mp3"/>
-                <guid>https://www.rtve.es/play/audios/frontera/06-04-25/16522765/</guid>
+                <link>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/-cosa-publica-2-0---vi-11-abr-2025-/266434</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/CosaPublia20250411.mp3  "/>
+                <guid>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/-cosa-publica-2-0---vi-11-abr-2025-/266434</guid>
                 
             </item><item>
-                <title>Historias del Más Acá 214 - Chalco de Sangre</title>
-                <description>Notas Macabrosas
-- Dos niños de seis años son entregados a sus verdaderas familias tras haber sido intercambiados al nacer en Perú 
-- Un niño se quejó de un &#34;monstruo&#34; debajo de la cama...
-Feed: https://feeds.megaphone.fm/SONORO5207250204</description>
+                <title>Turbo 3 - Rufus T. Firefly | Green Day | Garbage | Arcade Fire - 10/04/25</title>
+                <description>Rufus T. Firefly | Green Day | Garbage | Arcade Fire
+Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/39325/pdst.fm/e/traffic.megaphone.fm/SONORO4704507643.mp3?updated=1744267057"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/turbo-3/rufus-firefly-green-day-garbage-arcade-fire-10-04-25/16536144/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16536144.mp3"/>
+                <guid>https://www.rtve.es/play/audios/turbo-3/rufus-firefly-green-day-garbage-arcade-fire-10-04-25/16536144/</guid>
                 
             </item>
         </channel>

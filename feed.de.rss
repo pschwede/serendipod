@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 11 Apr 2025 04:29:17 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 12 Apr 2025 04:28:10 +0200</lastBuildDate>
             <item>
-                <title>Rasenballspott #230 - Nosé Mourinho</title>
-                <description>Nosé Mourinho
-Feed: https://rasenballspott.podigee.io/feed/mp3</description>
+                <title>Das kleine Weitwander-ABC - von Auswahl der Route bis Wasser finden | Abenteuer Balkan | Wissen</title>
+                <description>Neues Bergfreundinnen-Abenteuer, neue Podcast-Staffel! Wir Bergfreundinnen waren im September 2024 11 Tage auf dem High Scardus Trail unterwegs - ein Weitwanderweg auf dem Balkan, der durch die Länder Nordmazedonien, Albanien und Kosovo führt...
+Feed: https://feeds.br.de/bergfreundinnen/feed.xml</description>
                 
                 
-                <link>https://rasenballspott.podigee.io/231-rasenballspott-230-nose-mourinho</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1862316-m-7302d60687a119c1aa695951cb87cb3e.mp3?source=feed"/>
-                <guid>https://rasenballspott.podigee.io/231-rasenballspott-230-nose-mourinho</guid>
+                <link>https://www.br.de/mediathek/podcast/bergfreundinnen/das-kleine-weitwander-abc-von-auswahl-der-route-bis-wasser-finden-abenteuer-balkan-wissen/2105260</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2105260/c/feed/das-kleine-weitwander-abc-von-auswahl-der-route-bis-wasser-finden-abenteuer-balkan-wissen.mp3"/>
+                <guid>https://www.br.de/mediathek/podcast/bergfreundinnen/das-kleine-weitwander-abc-von-auswahl-der-route-bis-wasser-finden-abenteuer-balkan-wissen/2105260</guid>
                 
             </item><item>
-                <title>Vertraust Du Deinem Schicksal? </title>
-                <description>Dem Schicksal vertrauen lernen, geht das?
-Wenn man ihm nicht mal über den Weg traut?
-Ist das wirklich möglich?
-Von mir ein klares JA!
-Heute nehme ich Dich in meiner Folge mit auf eine Zeitreise durch mein Leben.
-Ich erzähle Dir, wie das Vertrauen entstanden ist, was es dazu für Prozesse gebraucht hat und weshalb es so wichtig ist, sich selbst wirklich zu sehen, zu erkennen...
-Feed: https://anchor.fm/s/2b72b0fc/podcast/rss</description>
+                <title>Kabinett Merz - Wer gewinnt, wer verliert?</title>
+                <description>phoenix runde 10.04.2025: Kabinett Merz - Wer gewinnt, wer verliert?
+Feed: https://www.phoenix.de/podcast/runde/video/rss.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/sonja-harms/episodes/Vertraust-Du-Deinem-Schicksal-e30sec3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/2b72b0fc/podcast/play/100595523/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-30%2F4bc2ecf0-0fc5-973e-eab3-448228948c2b.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/sonja-harms/episodes/Vertraust-Du-Deinem-Schicksal-e30sec3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://podfileszdf-a.akamaihd.net/podcast/phoenix_podcasts/25/04/250410_phx_runde/1/250410_phx_runde_1528k_p20v15.mp4"/>
+                <guid></guid>
                 
             </item>
         </channel>
