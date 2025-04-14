@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 13 Apr 2025 04:51:15 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 14 Apr 2025 04:29:11 +0200</lastBuildDate>
             <item>
-                <title>Echoes Podcast: Peter Gregson Interview</title>
-                <description>
-Feed: https://echoes.org/feed/podcast</description>
+                <title>A Doctor’s Intuition Lost And Found</title>
+                <description>Anita talks to two doctors about the role of intuition in medical decision-making as a case study into the mysterious power of this unquantifiable form of knowledge.
+Feed: https://embodied.feed.wunc.org/</description>
                 
                 
-                <link>https://echoes.org/2025/04/10/echoes-podcast-peter-gregson-interview-2/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/echoespodcast/echoes.org/wp-content/uploads/2025/04/EchoesPodcast-PeterGregson-2025.m4a"/>
-                <guid>https://echoes.org/2025/04/10/echoes-podcast-peter-gregson-interview-2/</guid>
+                <link>https://play.prx.org/listen?ge=prx_1580_06e89482-d7b6-4831-bc73-819b693ecbee&amp;uf=https%3A%2F%2Fembodied.feed.wunc.org%2F</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dovetail.prxu.org/1580/06e89482-d7b6-4831-bc73-819b693ecbee/EMB_Intuition_Pod_Pt1.mp3"/>
+                <guid>https://play.prx.org/listen?ge=prx_1580_06e89482-d7b6-4831-bc73-819b693ecbee&amp;uf=https%3A%2F%2Fembodied.feed.wunc.org%2F</guid>
                 
             </item><item>
-                <title>Manifesting won’t make you happy: Express true emotion with Estelle Bingham</title>
-                <description>&lt;p&gt;So many of us have had to shut down our heart and numb our emotions to survive. Estelle Bingham is dubbed ‘The Heart Whisperer’; she knows the greatest anxiety can come from suppressing parts of ourselves.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;In this chat with Fearne, Estelle – a holistic therapist and healer – explains how when the mind is spiralling out of control, the heart can bring us back to stillness. She shares how to feel your emotions in your body instead of just analysing them in your head...
-Feed: https://feeds.acast.com/public/shows/98ddd5a0-c00b-4f80-9a5b-d4584d0040ac</description>
+                <title>Bean Steam and Bible Time </title>
+                <description>Wuzzup!!! We&#39;re talking about Bean Steam, (not a euphemism) Lesbian Snakes and recession tips! Stock up on baking soda and vinegar and get ready to flick that bean! (again, not a euphemism) 
+Learn more about your ad choices. Visit megaphone.fm/adchoices
+Feed: https://feeds.megaphone.fm/WIZD8125049819</description>
                 
                 
-                <link>https://shows.acast.com/happy-place/episodes/manifesting-wont-make-you-happy-express-true-emotion-with-es</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/happy-place/e/67d1811e198b6cba39000384/media.mp3"/>
-                <guid>https://shows.acast.com/happy-place/episodes/manifesting-wont-make-you-happy-express-true-emotion-with-es</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/WIZD4362642250.mp3?updated=1744091943"/>
+                <guid></guid>
                 
             </item>
         </channel>

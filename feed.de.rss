@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 13 Apr 2025 04:51:22 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 14 Apr 2025 04:29:16 +0200</lastBuildDate>
             <item>
-                <title>Beschichten</title>
-                <description>Allgegenwärtig und dennoch oft vernachlässigt
-Feed: https://www.haw-hamburg.de/fileadmin/TI-MP/Podcasts/IPT/fertigungstechnisch-mp3.xml</description>
+                <title>Franchise-Recruiting: Kein Treffen vor Vertragsunterschrift? Funktioniert das?</title>
+                <description>MARTA zeigt, wie digitale Entscheidungsgespräche trotzdem Vertrauen schaffen.
+Feed: https://franchiseuniversum.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.haw-hamburg.de/index.php?id=9217</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.haw-hamburg.de/fileadmin/TI-MP/Podcasts/IPT/FTH076-Beschichten.mp3"/>
-                <guid>https://www.haw-hamburg.de/index.php?id=9217</guid>
+                <link>https://www.franchiseuniversum.de/ratgeber-podcast/270/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1869324-m-6d18b73c4f0b0dac0177dbba00d8a92e.mp3?source=feed"/>
+                <guid>https://www.franchiseuniversum.de/ratgeber-podcast/270/</guid>
                 
             </item><item>
-                <title>LONDON BABY ????????</title>
-                <description>HINWEIS: Die Videos zum Podcast bekommst Du hier: https://plus.rtl.de/video-tv/shows/dick-doof-der-video-podcast-979059/2025-1-1020240
-Während Sandra (wie jede Woche) nur das Tanzstudio gesehen hat, war Luca mit der Londoner High Society unterwegs... viel Spaß!
-+++ Alle Rabattcodes und Infos zu unseren Werbepartnern findet ihr hier: https://linktr.ee/dick_und_doof +++ 
-Unsere allgemeinen Datenschutzrichtlinien finden Sie unter https://datenschutz.ad-alliance.de/podcast...
-Feed: https://proxyfeed.svmaudio.com/aa/dick-und-doof</description>
+                <title>Folge 59 - Ländervorstellung Allerronn</title>
+                <description>Wir pflügen unsere Äcker mit Seepferdchen
+Feed: https://alles-larp.podigee.io/feed/mp3</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://dick-und-doof.cdn.svmaudio.com/episodes/9cb6e4b8-9e78-496c-9d19-eb0ef93b705d.mp3"/>
-                <guid></guid>
+                <link>https://alles-larp.podigee.io/60-allerronn</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1809092-m-1d2c23246d15fe4d499d5ba298a8f756.mp3?source=feed"/>
+                <guid>https://alles-larp.podigee.io/60-allerronn</guid>
                 
             </item>
         </channel>

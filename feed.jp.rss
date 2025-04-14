@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 13 Apr 2025 04:51:46 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 14 Apr 2025 04:29:41 +0200</lastBuildDate>
             <item>
-                <title>Episode 816 | &#34;We Listen and We Judge Quietly”</title>
-                <description>The JBP revisits potential nanny options for Ish (4:35) to begin the latest episode before they discuss the handling of forgiveness in friendships (31:00) as well as how many people the cast has fallen in love with in their life (42:35). In NBA news,...
-Feed: https://jbpod.libsyn.com/applepodcast</description>
+                <title>The Linux Link Tech Show Episode 1094</title>
+                <description>Joel and the blueberry shake.
+Feed: https://feeds.feedburner.com/TheLinuxLinkTechShowMp3Feed</description>
                 
                 
-                <link>http://www.patreon.com/joebudden</link>
-                <enclosure type="audio/mpeg" length="1" url="https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/jbpod/Joe_Budden_Podcast_816.mp3?dest-id=2422538"/>
-                <guid>http://www.patreon.com/joebudden</guid>
+                <link>http://www.tllts.org</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.tlltsarchive.org/archives/tllts_1094-04-09-25.mp3"/>
+                <guid>http://www.tllts.org</guid>
                 
             </item><item>
-                <title>GenAI Efficiencies in Manufacturing, Smart Farming, and Beyond - with Steffen Hoffmann of Bosch</title>
-                <description>Today’s guest is Steffen Hoffmann, Managing Director of Bosch UK. Steffen joins the podcast to discuss how Bosch is leveraging AI across industries, from precision agriculture to HR automation and manufacturing quality control. Throughout our...
-Feed: https://techemergence.libsyn.com/rss</description>
+                <title>Episode 450: Dutch Colonization</title>
+                <description>I briefly cover the Dutch East and West Indies Companies plus Dutch colonization efforts in the Americas.
+https://www.patreon.com/westerncivpodcast
+Feed: https://www.spreaker.com/show/5553835/episodes/feed</description>
                 
                 
-                <link>http://podcast.emerj.com/genai-efficiencies-in-manufacturing-smart-farming-and-beyond-with-steffen-hoffmann-of-bosch</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/techemergence/Business_-_4.8.25_0_Steffan_Hoffman.mp3?dest-id=151434"/>
-                <guid>http://podcast.emerj.com/genai-efficiencies-in-manufacturing-smart-farming-and-beyond-with-steffen-hoffmann-of-bosch</guid>
+                <link>https://www.spreaker.com/episode/episode-450-dutch-colonization--64361133</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/64361133/e450.mp3"/>
+                <guid>https://www.spreaker.com/episode/episode-450-dutch-colonization--64361133</guid>
                 
             </item>
         </channel>
