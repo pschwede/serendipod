@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 14 Apr 2025 04:29:16 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 15 Apr 2025 04:29:15 +0200</lastBuildDate>
             <item>
-                <title>Franchise-Recruiting: Kein Treffen vor Vertragsunterschrift? Funktioniert das?</title>
-                <description>MARTA zeigt, wie digitale Entscheidungsgespräche trotzdem Vertrauen schaffen.
-Feed: https://franchiseuniversum.podigee.io/feed/mp3</description>
+                <title>#308 Warum erfolgreiche Unternehmer unglücklich sind (und sich selbst sabotieren)</title>
+                <description>„Noch ein Erfolg – und du kippst um?“ 86 % der Unternehmer:innen funktionieren – aber sie leben nicht mehr. Selbst wenn der Umsatz stimmt. Die Prozesse laufen. Nach außen ist alles perfekt. Aber innerlich bist du leer, gereizt, ausgelaugt?
+Feed: https://silkefritzsche.de/podcast/</description>
                 
                 
-                <link>https://www.franchiseuniversum.de/ratgeber-podcast/270/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1869324-m-6d18b73c4f0b0dac0177dbba00d8a92e.mp3?source=feed"/>
-                <guid>https://www.franchiseuniversum.de/ratgeber-podcast/270/</guid>
+                <link>https://silkefritzsche.de/podcast/308-warum-erfolgreiche-unternehmer-ungluecklich-sind-und-sich-selbst-sabotieren/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/big_bang_life/silkefritzsche.de/wp-content/uploads/2025/04/Big-Bang-life-308_Warum_erfolgreiche_Unternehmer_ungluecklich_sind_und_sich_selbst_sabotieren.mp3"/>
+                <guid>https://silkefritzsche.de/podcast/308-warum-erfolgreiche-unternehmer-ungluecklich-sind-und-sich-selbst-sabotieren/</guid>
                 
             </item><item>
-                <title>Folge 59 - Ländervorstellung Allerronn</title>
-                <description>Wir pflügen unsere Äcker mit Seepferdchen
-Feed: https://alles-larp.podigee.io/feed/mp3</description>
+                <title>Moore</title>
+                <description>Von Mooren hat bestimmt Jeder schon einmal gehört. Aber wusstet ihr, dass sie für die Umwelt super wichtig sind? So ein Moor ist nämlich nass, säurehaltig und außerdem richtig gut fürs Klima. Aber warum wurden sie früher trockengelegt und welche Tiere sind dort zuhause?
+Seit rund 50 Jahren werden die wenigen lebenden Moore geschützt und bieten vielen besonderen Tieren und Pflanzen einen Lebensraum...
+Feed: http://www.ndr.de/nachrichten/info/podcast4223.xml</description>
                 
                 
-                <link>https://alles-larp.podigee.io/60-allerronn</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1809092-m-1d2c23246d15fe4d499d5ba298a8f756.mp3?source=feed"/>
-                <guid>https://alles-larp.podigee.io/60-allerronn</guid>
+                <link>https://www.ndr.de/nachrichten/info/Moore,audio1851922.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/download/podcasts/podcast4223/AU-20250411-1225-2700.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/Moore,audio1851922.html</guid>
                 
             </item>
         </channel>

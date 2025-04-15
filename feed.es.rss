@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 14 Apr 2025 04:29:26 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 15 Apr 2025 04:29:41 +0200</lastBuildDate>
             <item>
-                <title>Vive! Noticias 15.00 | 11-04-25</title>
-                <description>La actualidad local, regional, nacional e internacional en Vive! Radio. 
-
-Feed: https://www.spreaker.com/show/5959831/episodes/feed</description>
+                <title>14-04-2025 Marcador Pucela (Atlético de Madrid 4 - 2 Real Valladolid )</title>
+                <description>Marcador Pucela con Chus Rodríguez, Jesús Pérez Baraja y todo el equipo de Radio Marca Valladolid.
+Feed: https://www.ivoox.com/directo-marca-valladolid_fg_f130892_filtro_1.xml</description>
                 
                 
-                <link>https://www.spreaker.com/episode/vive-noticias-15-00-11-04-25--65539472</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/65539472/fa7dbc4f_359c_94de_8044_a9bd4ca6366b.mp3"/>
-                <guid>https://www.spreaker.com/episode/vive-noticias-15-00-11-04-25--65539472</guid>
+                <link>https://www.ivoox.com/14-04-2025-marcador-pucela-atletico-madrid-4-audios-mp3_rf_144961277_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/14-04-2025-marcador-pucela-atletico-madrid-4_mf_144961277_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/14-04-2025-marcador-pucela-atletico-madrid-4-audios-mp3_rf_144961277_1.html</guid>
                 
             </item><item>
-                <title>IV Domingo de Cuaresma (C)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Lucas 15, 1-3. 11-32. Gloria a ti, Señor. En aquel tiempo, se acercaban a Jesús los publicanos y los pecadores &amp;#8230;
-Feed: http://feed.quechilero.com/PalabraEspirituYVida</description>
+                <title>El típico programa - Repion presentan &#39;Entre todas lo arreglamos (Vol II) - 12/04/25</title>
+                <description>Repion presentan &#39;Entre todas lo arreglamos (Vol II)
+Feed: http://www.rtve.es/api/programas/144550/audios.rss</description>
                 
                 
-                <link>https://diocesisdeescuintla.com/iv-domingo-de-cuaresma-c-2025/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/14385/iv-domingo-de-cuaresma-c-2025.mp3"/>
-                <guid>https://diocesisdeescuintla.com/iv-domingo-de-cuaresma-c-2025/</guid>
+                <link>https://www.rtve.es/play/audios/el-tipico-programa/repion-presentan-entre-todas-arreglamos-vol-ii-12-04-25/16537938/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16537938.mp3"/>
+                <guid>https://www.rtve.es/play/audios/el-tipico-programa/repion-presentan-entre-todas-arreglamos-vol-ii-12-04-25/16537938/</guid>
                 
             </item>
         </channel>
