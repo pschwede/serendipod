@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 16 Apr 2025 04:29:05 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 17 Apr 2025 04:29:16 +0200</lastBuildDate>
             <item>
-                <title>Mix 25 : Mix 25 - 15 avril 2025</title>
-                <description>647-334430
-Feed: http://podcast.cism893.ca/radioshows/647/feed_itunes.xml</description>
+                <title>L&#39;IA en entreprise : que dit la loi ?</title>
+                <description>Le podcast du Club TGS France
+Feed: https://api.octopus.saooti.com/rss/emission/11283.rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/334430.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/334430.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/334430.mp3</guid>
+                <link>https://octopus.saooti.com/main/pub/podcast/1357139</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.octopus.saooti.com/podcast/download/1357139.mp3?origin=rss"/>
+                <guid>https://octopus.saooti.com/main/pub/podcast/1357139</guid>
                 
             </item><item>
-                <title>Paula White / Féminisme musulman / Jérusalem (3)</title>
-                <description>Féminisme et islam. Deux mots qui, vu de lʹOccident, ne vont pas forcément ensemble. Et pourtant. De tout temps, les femmes musulmanes ont lutté pour leurs droits à lʹautodétermination. Certaines les cherchent au creux même du Coran et de la Sunna, loin …
-Feed: https://www.rts.ch/la-1ere/programmes/hautes-frequences/podcast/?flux=rss</description>
+                <title>Ep 140 : Super Cover Battle 42 Pas de bol pour les nazis</title>
+                <description>
+Il y a vraiment des gens qui lisent les descriptions ? Non parce que si c&#39;est le cas, déjà,bonjour et j&#39;espère que vous n&#39;avez pas encore lu celle de Recoversion parce que je vais la lui piquer. Déjà que je me suis tapé tout le montage, je pense que j...
+Feed: https://ecoutecapodcast.lepodcast.fr/rss</description>
                 
                 
-                <link>https://www.rts.ch/audio-podcast/2025/audio/paula-white-feminisme-musulman-jerusalem-3-28853914.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/feea0737-6736-31c7-98d1-bb1bb759916a/e64aa01b-e6ff-3d93-8310-dd2492655845.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2025/audio/paula-white-feminisme-musulman-jerusalem-3-28853914.html</guid>
+                <link>https://podcast.ausha.co/ecoute-ca/ep-140-super-cover-battle-42-pas-de-bol-pour-les-nazis</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/omd7IADZErAB.mp3?t=1744486280"/>
+                <guid>https://podcast.ausha.co/ecoute-ca/ep-140-super-cover-battle-42-pas-de-bol-pour-les-nazis</guid>
                 
             </item>
         </channel>
