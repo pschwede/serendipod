@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 18 Apr 2025 04:28:44 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 19 Apr 2025 04:28:25 +0200</lastBuildDate>
             <item>
-                <title>Viñetas y bocadillos - &#39;Doyle &amp; Houdini&#39; - 14/04/25</title>
-                <description>&#39;Doyle &amp; Houdini&#39;
-Feed: http://api.rtve.es/api/programas/1946/audios.rss</description>
+                <title>DIOS NOS DIÓ DONES</title>
+                <description>&lt;p&gt;&lt;strong&gt;DIOS NOS DIÓ DONES&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A lo largo de las Escrituras, el eterno Creador ordena a sus hijos para que realicen buenas obras en favor de los más necesitados y vulnerables de la sociedad. Para esta labor, el Espíritu Santo de Dios en conformidad a la voluntad de Cristo Jesús, da dones especiales a cada uno de los redimidos. Tal como lo da a conocer el apóstol Pablo: “No obstante, él nos ha dado a cada uno de nosotros un don especial mediante la generosidad de Cristo...
+Feed: https://anchor.fm/s/7d7ae748/podcast/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/vinetas-y-bocadillos/doyle-houdini/16539979/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16539979.mp3"/>
-                <guid>https://www.rtve.es/play/audios/vinetas-y-bocadillos/doyle-houdini/16539979/</guid>
+                <link>https://podcasters.spotify.com/pod/show/jesus-is-life7/episodes/DIOS-NOS-DI-DONES-e31iic6</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/7d7ae748/podcast/play/101320518/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-15%2F11817e52-d83f-4053-3a18-148e17f12319.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/jesus-is-life7/episodes/DIOS-NOS-DI-DONES-e31iic6</guid>
                 
             </item><item>
-                <title>IV Domingo de Cuaresma (C)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Lucas 15, 1-3. 11-32. Gloria a ti, Señor. En aquel tiempo, se acercaban a Jesús los publicanos y los pecadores &amp;#8230;
-Feed: http://feed.quechilero.com/PalabraEspirituYVida</description>
+                <title>Café del Sur - Canciones para aprender a saltar - 13/04/25</title>
+                <description>Canciones para aprender a saltar
+Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
                 
                 
-                <link>https://diocesisdeescuintla.com/iv-domingo-de-cuaresma-c-2025/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://diocesisdeescuintla.com/podcast-download/14385/iv-domingo-de-cuaresma-c-2025.mp3"/>
-                <guid>https://diocesisdeescuintla.com/iv-domingo-de-cuaresma-c-2025/</guid>
+                <link>https://www.rtve.es/play/audios/cafe-del-sur/canciones-para-aprender-saltar-13-04-25/16538698/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16538698.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cafe-del-sur/canciones-para-aprender-saltar-13-04-25/16538698/</guid>
                 
             </item>
         </channel>
