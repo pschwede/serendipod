@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 19 Apr 2025 04:28:42 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 20 Apr 2025 04:27:39 +0200</lastBuildDate>
             <item>
-                <title>Dog Auction</title>
-                <description>This week Frank and Emily are joined by Ania Magliano! The team chat Katy Perry in space, the return of filofax and the Duke of Richmond. 
-Learn more about your ad choices. Visit podcastchoices.com/adchoices
-Feed: https://feeds.megaphone.fm/frankskinnershow</description>
+                <title>I Never Have Hope</title>
+                <description>Simple solutions to complex tech problems, whether iPadOS 19 can solve its power user problem, if we look forward to Siri knowing what&#39;s on our screen, and OpenAI&#39;s prospective social media network.
+Feed: https://www.relay.fm/clockwise/feed</description>
+                
+                
+                <link>http://relay.fm/clockwise/601</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/clockwiserelay/clockwise601.mp3"/>
+                <guid>http://relay.fm/clockwise/601</guid>
+                
+            </item><item>
+                <title>#189 - Pastor John David Terry</title>
+                <description>People disappear all the time and murder victims get labelled incorrectly as runaways. But sometimes its voluntary, people want to start a new life unburdened by their past. Such a plan this week required a body so that the runaway would not be looked for by authorities and to pay out insurance to their family. What’s a little murder between an employer and employee? . . . This week we discuss:  Murder, Motive, Arson, Dismemberment, Larceny, Insurance Fraud Sources: https://murderpedia.o...
+Feed: https://feeds.buzzsprout.com/1573027.rss</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2599895373.mp3?updated=1744834122"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1573027/episodes/16588936-189-pastor-john-david-terry.mp3"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Wild By Design w/ Laura J. Martin</title>
-                <description>In this episode of Talk Nerdy, Cara is joined by https://www.ljanemartin.com/about, and https://www.williams.edu/environmental-studies/profile/ljm4/, Dr. Laura J. Martin. They discuss her book, “https://www.hup.harvard.edu/books/9780674298361.” Follow...
-Feed: https://www.spreaker.com/show/4530061/episodes/feed</description>
-                
-                
-                <link>https://www.spreaker.com/episode/wild-by-design-w-laura-j-martin--65563018</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pdcn.co/e/api.spreaker.com/download/episode/65563018/episode_546_wild_by_design_with_laura_j_martin.mp3"/>
-                <guid>https://www.spreaker.com/episode/wild-by-design-w-laura-j-martin--65563018</guid>
                 
             </item>
         </channel>

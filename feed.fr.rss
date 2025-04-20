@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 19 Apr 2025 04:28:19 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 20 Apr 2025 04:27:25 +0200</lastBuildDate>
             <item>
-                <title>Host, 2017 Critique du film d&#39;horreur</title>
-                <description>&lt;strong&gt;Critique du film Host (2020) – Une terreur virale et efficace&lt;p&gt;???? Année de sortie : 2020&lt;br/&gt;???? Réalisateur : Rob Savage&lt;br/&gt;⏳ Durée : 57 minutes&lt;br/&gt;???? Genre : Horreur, Found Footage&lt;br/&gt;???? Disponible sur : [Vérifier les plateformes de streaming]&lt;/p&gt;Synopsis&lt;/strong&gt;&lt;p&gt;En plein confinement, un groupe d’amis décide d’organiser une séance de spiritisme via Zoom, histoire de se divertir malgré l’isolement...
-Feed: https://feeds.360.audion.fm/bEo2jn91D_RKmmJ27myYW</description>
+                <title>L’énergie noire serait-elle en train de montrer patte blanche ?</title>
+                <description>L’énergie noire serait-elle en train de montrer patte blanche ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13957.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/34835ed1-2177-4e15-a2b0-c60368eb2a2b.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/la-conversation-scientifique/l-energie-noire-serait-elle-en-train-de-montrer-patte-blanche-3429337</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a6fd88cf-19ee-449b-bc20-818f4b887485/13957-13.04.2025-ITEMA_24101709-2025C22785E0014-NET_MFC_E1AC77FE-129E-45FD-A268-14B0113D6390-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/la-conversation-scientifique/l-energie-noire-serait-elle-en-train-de-montrer-patte-blanche-3429337</guid>
                 
             </item><item>
-                <title>Faut-il penser au soi du futur ?</title>
-                <description>&lt;p&gt;Est-ce que vous êtes du genre à vous dire &#34;je fais la vaisselle ce soir” ou &#34;ça sera un problème pour le moi de demain&#34; ? Est-ce qu&#39;il vaut mieux anticiper pour le soi du futur ou profiter d&#39;être bien dans l&#39;instant ? Qu&#39;est-ce que cela raconte de notre rapport à nous-même, au soin qu&#39;on se donne – ou pas ?&lt;/p&gt;&lt;br&gt;&lt;p&gt;Dans cet épisode, Marie Misset fait entendre les témoignages de Gaëlle, Barbara, Jordan, Mathilde et Valou, qui ont des degrés divers d’organisation et de procrastination, et...
-Feed: https://feeds.acast.com/public/shows/8fb79794-2f6a-41f0-9ae1-d7766f4e4092</description>
+                <title>Quelle place pour les humains dans un monde d’IA ?</title>
+                <description>
+Dans cet épisode, PPC et Alexandre décortiquent sans langue de bois les transformations que l’IA impose au monde du travail, aux compétences humaines et aux choix politiques à venir. Remplacement ou collaboration ? Quelle valeur ajoutée restera aux hu...
+Feed: https://feed.ausha.co/b3qxOtjeDq0P</description>
                 
                 
-                <link>https://shows.acast.com/emotions/episodes/futur-soi</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/emotions/e/67f8d775d5ed0d5b9da3ddc4/media.mp3"/>
-                <guid>https://shows.acast.com/emotions/episodes/futur-soi</guid>
+                <link>https://podcast.ausha.co/connectedmate/quelle-place-pour-les-humains-dans-un-monde-d-ia</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BGZrJu9gN0Pq.mp3?t=1744269811"/>
+                <guid>https://podcast.ausha.co/connectedmate/quelle-place-pour-les-humains-dans-un-monde-d-ia</guid>
                 
             </item>
         </channel>
