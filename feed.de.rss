@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 21 Apr 2025 04:29:51 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 22 Apr 2025 04:28:59 +0200</lastBuildDate>
             <item>
-                <title>11.04.25 Es ist vollbracht</title>
-                <description> &lt;br&gt; 
-Feed: https://sr-mediathek.de/pcast/feeds/SR3_DWG_P/feed.xml</description>
+                <title>Neue Bücher: &#34;Das Leben fing im Sommer an&#34; von Christoph Kramer</title>
+                <description>Der Fußballweltmeister von 2014 beweist mit einer gelungenen Coming-of-Age-Geschichte sein literarisches Talent.
+Feed: http://www.ndr.de/podcast/podcast3036.xml</description>
                 
                 
-                <link>https://storage01.sr.de/podcast/SR3_DWG_P/SR3_DWG_P_39278_20250411_153204.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://storage01.sr.de/podcast/SR3_DWG_P/SR3_DWG_P_39278_20250411_153204.mp3"/>
-                <guid>https://storage01.sr.de/podcast/SR3_DWG_P/SR3_DWG_P_39278_20250411_153204.mp3</guid>
+                <link>https://www.ndr.de/kultur/Neue-Buecher-Das-Leben-fing-im-Sommer-an-von-Christoph-Kramer,audio1856044.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/progressive/2025/0417/AU-20250417-1639-2700.mp3"/>
+                <guid>https://www.ndr.de/kultur/Neue-Buecher-Das-Leben-fing-im-Sommer-an-von-Christoph-Kramer,audio1856044.html</guid>
                 
             </item><item>
-                <title>186 „Wie du richtig netzwerkst“ – Christian Steiger im Personal Branding Podcast</title>
-                <description>Ein gutes Netzwerk ist das A und O im Personal Br…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:525756516/sounds.rss</description>
+                <title>#228 TRAINERSTAMMTISCH - Folge 2: „Wieso ist die Ausdauer so wichtig?“</title>
+                <description>In der zweiten Folge des Trainerstammtisches sprechen Michi, Henning, Michael Krell und Kerstin Rohr darüber, warum Grundlagenausdauer so wichtig ist im Triathlon. 
+Feed: https://letscast.fm/podcasts/triathlon-querbeet-mit-michael-henning-vedat-ef6e8e04/feed</description>
                 
                 
-                <link>https://soundcloud.com/beyourbrand/186-wie-du-richtig-netzwerkst-christian-steiger-im-personal-branding-podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2079742272-beyourbrand-186-wie-du-richtig-netzwerkst-christian-steiger-im-personal-branding-podcast.mp3"/>
-                <guid>https://soundcloud.com/beyourbrand/186-wie-du-richtig-netzwerkst-christian-steiger-im-personal-branding-podcast</guid>
+                <link>https://letscast.fm/sites/triathlon-querbeet-mit-michael-henning-vedat-ef6e8e04/episode/228-trainerstammtisch-folge-2-wieso-ist-die-ausdauer-so-wichtig</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/ef6e8e04/episode/5ae311b2.mp3?t=1744638002"/>
+                <guid>https://letscast.fm/sites/triathlon-querbeet-mit-michael-henning-vedat-ef6e8e04/episode/228-trainerstammtisch-folge-2-wieso-ist-die-ausdauer-so-wichtig</guid>
                 
             </item>
         </channel>
