@@ -9,26 +9,40 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 23 Apr 2025 04:29:50 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 24 Apr 2025 04:32:40 +0200</lastBuildDate>
             <item>
-                <title>Acontece que no es poco | Tumbas papales: buscando a Pedro desesperadamente y dos valencianos repudiados</title>
-                <description>&lt;p&gt;Nieves Concostrina habla sobre el primer Papa, Pedro, que murió en Roma en el año 67.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-Feed: https://fapi-top.prisasd.com/podcast/playser/acontece_que_no_es_poco_1478/itunestfp/podcast.xml</description>
+                <title>2025-03-29 Ingenuino</title>
+                <description>
+Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/LA_VENTANA_ACONTECE_QUE_NO_ES_POCO_SER_PODCAST_1478_P/media/playser/audio/20254/21/4436917.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="http://comunicacionestian.com/programas_radio/Flamen/2025-03-29Ingenuino.mp3"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Cinco pistas - Steve Earle - 22/04/25</title>
-                <description>Steve Earle
-Feed: https://www.rtve.es/api/programas/131888/audios.rss</description>
+                <title>Star 80 del 19 de abril de 2025 (Especial Covers)</title>
+                <description>The Communards - Dont Leave Me This Way
+Mark &amp;amp; Spencer &amp;ndash; Stay
+Bananarama &amp;ndash; Venus
+Boytronic - I Will Survive 
+Hipnosis &amp;ndash; Pulstar
+Samantha Fox - I Only Wanna Be With You
+Killye Minogue - The Loco-Motion
+Sandra - Everlasting Love
+Divine &amp;ndash; Walk Like A Man
+Soft Cell - Tainted Love
+Claudio Mingardi &amp;ndash; Star(Medley With Starman)
+Tino Casal &amp;ndash; Eloise
+Bad Boys Blue - Love Really Hurts Without You
+Kim Wilde - You Keep Me Hangin&#39; On 
+Jacky Dean Foundation - Caravan Of...
+Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cinco-pistas/steve-earle/16510025/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16510025.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cinco-pistas/steve-earle/16510025/</guid>
+                <link>https://www.ivoox.com/star-80-del-19-abril-2025-audios-mp3_rf_145254241_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-19-abril-2025_mf_145254241_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/star-80-del-19-abril-2025-audios-mp3_rf_145254241_1.html</guid>
                 
             </item>
         </channel>
