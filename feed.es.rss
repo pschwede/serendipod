@@ -9,40 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 24 Apr 2025 04:32:40 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 25 Apr 2025 04:29:13 +0200</lastBuildDate>
             <item>
-                <title>2025-03-29 Ingenuino</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>Esta infancia sí lee</title>
+                <description>Las nuevas generaciones cultivan el hábito de la lectura a su manera. Y el teléfono es visto como un aliado de esa experiencia. Fuimos a la Feria Internacional del Libro Infantil y Juvenil Aztlán Parque Urbano y descubrimos los autores y las vertientes de moda entre los lectores de la nueva generación.
+
+Feed: https://feeds.simplecast.com/bDacRxP4</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://comunicacionestian.com/programas_radio/Flamen/2025-03-29Ingenuino.mp3"/>
-                <guid></guid>
+                <link>https://asicomosuena.mx/asi-como-suena</link>
+                <enclosure type="audio/mpeg" length="1" url="https://afp-922698-injected.calisto.simplecastaudio.com/2b3ff73a-9968-4604-8ea9-bf738f02d0e3/episodes/1c2be716-6db7-4452-9d4d-46785f4134aa/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2b3ff73a-9968-4604-8ea9-bf738f02d0e3&amp;awEpisodeId=1c2be716-6db7-4452-9d4d-46785f4134aa&amp;feed=bDacRxP4"/>
+                <guid>https://asicomosuena.mx/asi-como-suena</guid>
                 
             </item><item>
-                <title>Star 80 del 19 de abril de 2025 (Especial Covers)</title>
-                <description>The Communards - Dont Leave Me This Way
-Mark &amp;amp; Spencer &amp;ndash; Stay
-Bananarama &amp;ndash; Venus
-Boytronic - I Will Survive 
-Hipnosis &amp;ndash; Pulstar
-Samantha Fox - I Only Wanna Be With You
-Killye Minogue - The Loco-Motion
-Sandra - Everlasting Love
-Divine &amp;ndash; Walk Like A Man
-Soft Cell - Tainted Love
-Claudio Mingardi &amp;ndash; Star(Medley With Starman)
-Tino Casal &amp;ndash; Eloise
-Bad Boys Blue - Love Really Hurts Without You
-Kim Wilde - You Keep Me Hangin&#39; On 
-Jacky Dean Foundation - Caravan Of...
-Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
+                <title>WordPress 6.8 &#34;Cecil&#34;</title>
+                <description>Con la llegada de WordPress 6.8 se abre un periodo de incertidumbre sobre el lanzamiento de futuras versiones, tanto mayores como menores, al no haberse decidido todavía nada al respecto.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>https://www.ivoox.com/star-80-del-19-abril-2025-audios-mp3_rf_145254241_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-19-abril-2025_mf_145254241_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/star-80-del-19-abril-2025-audios-mp3_rf_145254241_1.html</guid>
+                <link>https://www.wppodcast.es/podcast/wordpress-6-8-cecil/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/305/s/feed/c/podcast/wordpress-podcast-e258.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/wordpress-6-8-cecil/</guid>
                 
             </item>
         </channel>

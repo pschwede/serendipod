@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 24 Apr 2025 04:30:50 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 25 Apr 2025 04:29:05 +0200</lastBuildDate>
             <item>
-                <title>COUNTRY SPECIAL – SONGS OF FAITH </title>
-                <description>In unserer zweistündigen Sendung «Songs Of Faith» tauchen wir tief in die Wurzeln des Glaubens ein, die fest in der amerikanischen Country-Szene verankert sind.
-Feed: https://www.srf.ch/feed/podcast/sd/aef3f247-42cb-45c4-a99d-4782aa148c95.xml</description>
+                <title>Wenn der Glaube baden geht - Predigt von Alexander Rockstroh</title>
+                <description>
+Feed: https://www.efg-wiedenest.de/joomla3/index.php/de/?option=com_sermonspeaker&amp;view=feed&amp;format=raw&amp;type=audio&amp;Itemid=128</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://download-media.srf.ch/ch/audio/Country_Special_radio/2025/04/Country_Special_radio_AUDI20250420_RS_0032_e617959ee3ef4dedb1d2be848dc2abde.mp3?d=ap&amp;assetId=5d0230e5-1164-3887-a4f6-356713b6dee5"/>
-                <guid></guid>
+                <link>https://www.efg-wiedenest.de/joomla3/service/predigtpodcast/direkt-hoeren/sermon/561-wenn-der-glaube-baden-geht-predigt-von-alexander-rockstroh</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.efg-wiedenest.de/joomla3/images/predigten/20250316_Alexander_Rockstroh_Wenn_der_Glaube_baden_geht.mp3"/>
+                <guid>https://www.efg-wiedenest.de/joomla3/service/predigtpodcast/direkt-hoeren/sermon/561-wenn-der-glaube-baden-geht-predigt-von-alexander-rockstroh</guid>
                 
             </item><item>
-                <title>Joana Sam-Cobbah: The League Community hat mich sofort abgeholt</title>
-                <description>Als Referentin teilt Joana Sam-Cobbah sich auf zwei Stellen: Integration und Anti-Rassismus-Arbeit. Im Podcast spricht sie darüber, wie die Themen im Inneren zusammenhängen, sich andererseits aber unterscheiden. Und sie erzählt, warum „The League Community“ mit einem intersektionalen feministischen Ansatz und enormer „human Power“ so ein guter Ort ist, gerade in Zeiten wie diesen.
-Feed: https://proxyfeed.svmaudio.com/aa/flutlicht-an</description>
+                <title>Akimbo #115 - Lieb &amp; Teuer</title>
+                <description>Es ist endlich soweit - Nintendo hat die Nintendo Switch 2 offiziell vorgestellt und sie ist.. teuer(?). Außerdem quatschen wir über den aktuelle Status von Ubisoft und wie Mirco nun doch zum Assassinen wurde und wie es uns beide ins Weltall verschlagen hat...
+Feed: https://letscast.fm/podcasts/akimbo-fm-581a0edd/feed</description>
                 
                 
-                <link>https://flutlicht-an-im-gespraech-mit-der-wortpiratin.podigee.io/99-joana-sam-cobbah-the-league-community</link>
-                <enclosure type="audio/mpeg" length="1" url="https://flutlicht-an.cdn.svmaudio.com/1886150-m-8aba9a9443f9573f38d7e171f1920632.mp3?source=feed-svm"/>
-                <guid>https://flutlicht-an-im-gespraech-mit-der-wortpiratin.podigee.io/99-joana-sam-cobbah-the-league-community</guid>
+                <link>https://akimbo-fm.letscast.fm/episode/akimbo-115-lieb-teuer</link>
+                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/a1d5acdf/episode/a2f39925.mp3?t=1744481627&amp;awCollectionId=80000181&amp;awEpisodeId=a2f39925"/>
+                <guid>https://akimbo-fm.letscast.fm/episode/akimbo-115-lieb-teuer</guid>
                 
             </item>
         </channel>
