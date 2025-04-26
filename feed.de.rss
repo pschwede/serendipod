@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 25 Apr 2025 04:29:05 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 26 Apr 2025 04:27:59 +0200</lastBuildDate>
             <item>
-                <title>Wenn der Glaube baden geht - Predigt von Alexander Rockstroh</title>
-                <description>
-Feed: https://www.efg-wiedenest.de/joomla3/index.php/de/?option=com_sermonspeaker&amp;view=feed&amp;format=raw&amp;type=audio&amp;Itemid=128</description>
+                <title>Gas im Ersten Weltkrieg (Mit Matthias von Hellfeld)</title>
+                <description>Der 22. April 1915 gilt als der erste Einsatz von Gas als Massenvernichtungswaffe. Die passende Ausgabe “Eine Stunde History” läuft am 21. April 2025 auf DLFnova.
+Feed: https://wrint.de/category/geschichtsunterricht/feed/</description>
                 
                 
-                <link>https://www.efg-wiedenest.de/joomla3/service/predigtpodcast/direkt-hoeren/sermon/561-wenn-der-glaube-baden-geht-predigt-von-alexander-rockstroh</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.efg-wiedenest.de/joomla3/images/predigten/20250316_Alexander_Rockstroh_Wenn_der_Glaube_baden_geht.mp3"/>
-                <guid>https://www.efg-wiedenest.de/joomla3/service/predigtpodcast/direkt-hoeren/sermon/561-wenn-der-glaube-baden-geht-predigt-von-alexander-rockstroh</guid>
+                <link>https://wrint.de/2025/04/23/gas-im-ersten-weltkrieg-mit-matthias-von-hellfeld/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://files.wrint.de/WR1687_Gas_im_Ersten_Weltkrieg.mp3"/>
+                <guid>https://wrint.de/2025/04/23/gas-im-ersten-weltkrieg-mit-matthias-von-hellfeld/</guid>
                 
             </item><item>
-                <title>Akimbo #115 - Lieb &amp; Teuer</title>
-                <description>Es ist endlich soweit - Nintendo hat die Nintendo Switch 2 offiziell vorgestellt und sie ist.. teuer(?). Außerdem quatschen wir über den aktuelle Status von Ubisoft und wie Mirco nun doch zum Assassinen wurde und wie es uns beide ins Weltall verschlagen hat...
-Feed: https://letscast.fm/podcasts/akimbo-fm-581a0edd/feed</description>
+                <title>#150 Dankbarkeit neu entdecken: 3 Tipps für mehr Spaß &amp; Wirkung</title>
+                <description>NEU: Das 6-Minuten-Tagebuch für Mamas ➡️ HIER geht&#39;s zum Buch
+Du weißt, dass Dankbarkeit glücklich macht – aber du hast das Gefühl, deine Praxis bleibt oft an der Oberfläche stecken? In dieser Folge erfährst du, wie du deine Dankbarkeit so vertiefen kannst, dass sie wirklich etwas in dir bewegt. Drei wirksame Tipps aus Wissenschaft und 8 Jahren Erfahrung aus der Community der 6-Minuten-Tagebücher® helfen dir, dass Dankbarkeit ihre Kraft besser in dir entfalten kann...
+Feed: https://feeds.megaphone.fm/MMG6060686139</description>
                 
                 
-                <link>https://akimbo-fm.letscast.fm/episode/akimbo-115-lieb-teuer</link>
-                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/a1d5acdf/episode/a2f39925.mp3?t=1744481627&amp;awCollectionId=80000181&amp;awEpisodeId=a2f39925"/>
-                <guid>https://akimbo-fm.letscast.fm/episode/akimbo-115-lieb-teuer</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/MMG9263375306.mp3?updated=1745310369"/>
+                <guid></guid>
                 
             </item>
         </channel>

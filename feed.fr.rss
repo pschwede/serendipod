@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 25 Apr 2025 04:29:09 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 26 Apr 2025 04:28:03 +0200</lastBuildDate>
             <item>
-                <title>Épisode 1 - Mesdames et Messieurs les jurés </title>
-                <description>NOUVEAU - Abonnez-vous à Nouvelles Écoutes + pour profiter du catalogue Nouvelles Écoutes en intégralité et en avant premières, sans publicité. Vous aurez accès à des enquêtes, documentaires, séries et fictions exclusives passionnantes, comme « Au Nom du fils »,...
-Feed: https://feeds.audiomeans.fr/feed/c010623a-d0cd-490f-9f68-75222b32d5ed.xml</description>
+                <title>La clef des chants #91 Vladimir Horowitz à Moscou (20 avril 1986) - 22/04/2025</title>
+                <description>Épisode du 22/04/2025 : La clef des chants #91 Vladimir Horowitz à Moscou (20 avril 1986) -- Une émission sur la musique classiques et les grands compositeurs, réalisée par Eric Darrière.
+Feed: https://www.radioslibresenperigord.com/rss/la-clef-des-chants.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/8dd8dfb4-7fc7-441d-91e2-5b6aea99cf81.mp3?_=1744648944"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.radioslibresenperigord.com/wp-content/podcasts/la-clef-des-chants/2025.04.22%20La%20clef%20des%20chants%20%2391%20Vladimir%20Horowitz%20%C3%A0%20Moscou%20%2820%20avril%201986%29.mp3"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Le Grand Périgueux fournit des minibus pour chaque commune de l&#39;agglomération</title>
-                <description>
-Pour compenser le manque de Péribus dans les communes rurales du Grand Périgueux, un programme sur 3 ans est mis en place pour dotter toutes les communes d&#39;un minibus 9 places.
-Les bus sont gratuits pour les communes, entretenues et assurés par l&#39;agglomération. La seule charge sera le coût du carburant.
-&amp;nbsp;
-&amp;nbsp;
-Cet enregistrement fait suite à celui rappelant les objectifs du projet Sîlot :
-https://www.radioslibresenperigord...
-Feed: https://www.radioslibresenperigord.com/rss/ma-radio-mon-quartier-ma-ville.xml</description>
+                <title>Choix et bons soins de nos plantes d&#39;intérieur !</title>
+                <description>Choix et bons soins de nos plantes d&#39;intérieur !
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13652.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.radioslibresenperigord.com/wp-content/uploads/2025/04/2025-04-08-Le-Grand-Perigueux-fournit-des-minibus-pour-chaquec-ommune-de-l-agglomeration.mp3"/>
-                <guid></guid>
+                <link>https://www.francebleu.fr/emissions/cote-jardin-france-bleu-touraine/touraine</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/6d761fcd-0ad0-4db6-9dff-eecc007c55c2/13652-19.04.2025-ITEMA_24108471-2025B22344S0109-NET_37A_E53B6A34-B555-46F3-A72A-A3571B04C443-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/cote-jardin-france-bleu-touraine/touraine</guid>
                 
             </item>
         </channel>
