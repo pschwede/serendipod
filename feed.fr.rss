@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 26 Apr 2025 04:28:03 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 27 Apr 2025 04:28:03 +0200</lastBuildDate>
             <item>
-                <title>La clef des chants #91 Vladimir Horowitz à Moscou (20 avril 1986) - 22/04/2025</title>
-                <description>Épisode du 22/04/2025 : La clef des chants #91 Vladimir Horowitz à Moscou (20 avril 1986) -- Une émission sur la musique classiques et les grands compositeurs, réalisée par Eric Darrière.
-Feed: https://www.radioslibresenperigord.com/rss/la-clef-des-chants.xml</description>
+                <title>Ces chansons qui font l&#39;actu du samedi 26 avril 2025</title>
+                <description>Ces chansons qui font l&#39;actu du samedi 26 avril 2025
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11454.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.radioslibresenperigord.com/wp-content/podcasts/la-clef-des-chants/2025.04.22%20La%20clef%20des%20chants%20%2391%20Vladimir%20Horowitz%20%C3%A0%20Moscou%20%2820%20avril%201986%29.mp3"/>
-                <guid></guid>
+                <link>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/95de82de-f344-4e15-96aa-b76696b6037c/11454-26.04.2025-ITEMA_24115466-2025I24148S0116-NET_MFO_E0D59982-362B-472A-BB1F-BB8438509785-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu</guid>
                 
             </item><item>
-                <title>Choix et bons soins de nos plantes d&#39;intérieur !</title>
-                <description>Choix et bons soins de nos plantes d&#39;intérieur !
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13652.xml</description>
+                <title>Portrait d&#39;une femme dirigeante</title>
+                <description>
+Prêt(e) à être inspiré(e) ? 
+Dans cet épisode, plongez dans l&#39;univers d&#39;Isabelle, une dirigeante passionnée et impliquée dans les instances du sport. Elle nous prouve que les responsabilités de ses fonctions sont accessibles, sans exception ! Que vo...
+Feed: https://feed.ausha.co/yXLR6GcOYnZp</description>
                 
                 
-                <link>https://www.francebleu.fr/emissions/cote-jardin-france-bleu-touraine/touraine</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/6d761fcd-0ad0-4db6-9dff-eecc007c55c2/13652-19.04.2025-ITEMA_24108471-2025B22344S0109-NET_37A_E53B6A34-B555-46F3-A72A-A3571B04C443-21.mp3"/>
-                <guid>https://www.francebleu.fr/emissions/cote-jardin-france-bleu-touraine/touraine</guid>
+                <link>https://podcast.ausha.co/femmes-et-sport-au-dela-des-stereotypes/portrait-d-une-femme-dirigeante</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/VdNxmiWYmwa4.mp3?t=1740753389"/>
+                <guid>https://podcast.ausha.co/femmes-et-sport-au-dela-des-stereotypes/portrait-d-une-femme-dirigeante</guid>
                 
             </item>
         </channel>
