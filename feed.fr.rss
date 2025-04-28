@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 27 Apr 2025 04:28:03 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 28 Apr 2025 04:30:25 +0200</lastBuildDate>
             <item>
-                <title>Ces chansons qui font l&#39;actu du samedi 26 avril 2025</title>
-                <description>Ces chansons qui font l&#39;actu du samedi 26 avril 2025
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11454.xml</description>
+                <title>S06 E11 - Green Destination : comment la Corse trace sa voie</title>
+                <description>Jean-Louis Moretti (Responsable du Pôle Ingénierie et Développement de l&#39;Agence du Tourisme de la Corse) et Nathalie Buresi (Directrice de l&#39;Office de Tourisme de Bonifacio) nous emmènent au cœur de la stratégie touristique de la Corse, une île au patrimoine nat...
+Feed: https://feeds.audiomeans.fr/feed/b9d5b99a-c639-42f6-ba4f-6a01a240fdc9.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/95de82de-f344-4e15-96aa-b76696b6037c/11454-26.04.2025-ITEMA_24115466-2025I24148S0116-NET_MFO_E0D59982-362B-472A-BB1F-BB8438509785-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu</guid>
+                <link>https://podcasts.audiomeans.fr/-x-perientiel-le-tourisme-de-demain-6a01a240fdc9/s06-e11-green-destination-comment-la-corse-trace-sa-voie-bf8989f8</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/bf8989f8-278c-4eed-83d5-ce89b69e868d.mp3?_=1742659857"/>
+                <guid>https://podcasts.audiomeans.fr/-x-perientiel-le-tourisme-de-demain-6a01a240fdc9/s06-e11-green-destination-comment-la-corse-trace-sa-voie-bf8989f8</guid>
                 
             </item><item>
-                <title>Portrait d&#39;une femme dirigeante</title>
-                <description>
-Prêt(e) à être inspiré(e) ? 
-Dans cet épisode, plongez dans l&#39;univers d&#39;Isabelle, une dirigeante passionnée et impliquée dans les instances du sport. Elle nous prouve que les responsabilités de ses fonctions sont accessibles, sans exception ! Que vo...
-Feed: https://feed.ausha.co/yXLR6GcOYnZp</description>
+                <title>Elon Musk a-t-il réussi sa mission à la tête du DOGE ?</title>
+                <description>Tous les matins du lundi au vendredi, Jean-Guillaume Santi reçoit un journaliste de la rédaction du &#34;Monde&#34; pour bien comprendre les enjeux de l&#39;actualité.  Hébergé par Audion. Visitez https://www.audion.fm/fr/privacy-policy pour plus d’informations.
+Feed: https://podcasts.lemonde.fr/lheure-du-monde/feed/rss/website.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/femmes-et-sport-au-dela-des-stereotypes/portrait-d-une-femme-dirigeante</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/VdNxmiWYmwa4.mp3?t=1740753389"/>
-                <guid>https://podcast.ausha.co/femmes-et-sport-au-dela-des-stereotypes/portrait-d-une-femme-dirigeante</guid>
+                <link>https://podcasts.lemonde.fr/lheure-du-monde/202504280200-elon-musk-t-il-reussi-sa-mission-la-tete-du-doge?utm_campaign=L%E2%80%99Heure+du+Monde&amp;utm_medium=organic&amp;utm_source=website&amp;utm_content=Elon+Musk+a-t-il+r%C3%A9ussi+sa+mission+%C3%A0+la+t%C3%AAte+du+DOGE+%3F</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/e5b77bc4-8abb-4c8a-9afa-84675ff43e0a.mp3"/>
+                <guid>https://podcasts.lemonde.fr/lheure-du-monde/202504280200-elon-musk-t-il-reussi-sa-mission-la-tete-du-doge?utm_campaign=L%E2%80%99Heure+du+Monde&amp;utm_medium=organic&amp;utm_source=website&amp;utm_content=Elon+Musk+a-t-il+r%C3%A9ussi+sa+mission+%C3%A0+la+t%C3%AAte+du+DOGE+%3F</guid>
                 
             </item>
         </channel>
