@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 28 Apr 2025 04:30:29 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 29 Apr 2025 04:28:42 +0200</lastBuildDate>
             <item>
-                <title>La Tercera Hora 08x35 - Episodio exclusivo para mecenas</title>
-                <description>Agradece a este podcast tantas horas de entretenimiento y disfruta de episodios exclusivos como éste. ¡Apóyale en iVoox! En esta Tercera Hora de D&amp;iacute;as Extra&amp;ntilde;os nos adentramos en los entresijos del Vaticano tras la muerte del Papa Francisco: bulos, conspiraciones y el herm&amp;eacute;tico c&amp;oacute;nclave que elegir&amp;aacute; a su sucesor...
-Feed: https://www.ivoox.com/feed_fg_f1413939_filtro_1.xml</description>
+                <title>Cronovisor | Enrique Jardiel Poncela, el humor inteligente</title>
+                <description>&lt;p&gt;Enrique Jardiel Poncela ha pasado a la historia de la literatura como uno de los creadores teatrales más importantes del siglo XX. ¿Por qué no se le suele incluir junto a los grandes autores de la generación del 27? Seguramente porque el humor no está bien visto, aunque todos los autores reconocen que es infinitamente más difícil hacer reír que llorar en una obra teatral&lt;/p&gt;
+Feed: https://fapi-top.prisasd.com/podcast/playser/ser_historia/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.ivoox.com/tercera-hora-08x35-audios-mp3_rf_145661481_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/tercera-hora-08x35_mf_145661481_feed_1.mp3?d=1745752090"/>
-                <guid>https://www.ivoox.com/tercera-hora-08x35-audios-mp3_rf_145661481_1.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/SER_HISTORIA_SER_PODCAST_355_P/media/playser/audio/20254/24/4441972.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Cómo pedir consejo (15-21 de septiembre)</title>
-                <description>wS MP3 Julio de 2025 - 01
-Feed: https://apps.jw.org/E_sFFZRQVNZNT?rln=S&amp;rmn=w&amp;rfm=mp3</description>
+                <title>Documentos RNE - Las hermanas Rodrigo, dos mujeres por los caminos de España - 25/04/25</title>
+                <description>Las hermanas Rodrigo, dos mujeres por los caminos de España
+Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
                 
                 
-                <link>https://cfp2.jw-cdn.org/a/1c75239/1/o/w_S_202507_01.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cfp2.jw-cdn.org/a/1c75239/1/o/w_S_202507_01.mp3"/>
-                <guid>https://cfp2.jw-cdn.org/a/1c75239/1/o/w_S_202507_01.mp3</guid>
+                <link>https://www.rtve.es/play/audios/documentos-rne/hermanas-rodrigo-dos-mujeres-caminos-espana-25-04-25/16555326/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16555326.mp3"/>
+                <guid>https://www.rtve.es/play/audios/documentos-rne/hermanas-rodrigo-dos-mujeres-caminos-espana-25-04-25/16555326/</guid>
                 
             </item>
         </channel>
