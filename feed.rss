@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 29 Apr 2025 04:28:31 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 30 Apr 2025 04:30:11 +0200</lastBuildDate>
             <item>
-                <title>Doing Wesley Snipes (ft. TinyMan)</title>
-                <description>On the latest episode of Made In Chafford podcast!
-Feed: https://feeds.megaphone.fm/WIZ1272549635</description>
+                <title>Episode 307: What&#39;s in the BOX?</title>
+                <description>David and Tamler talk about two famous puzzles that for different reasons have bedeviled the rationalist community – The Monty Hall Problem and Newcomb’s “paradox.” Why is it so hard for people to see that a 66% chance of winning a car is...
+Feed: https://feeds.libsyn.com/474285/rss</description>
                 
                 
-                <link>https://madeinchafford.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/WIZD7597947577.mp3?updated=1743545313"/>
-                <guid>https://madeinchafford.com</guid>
+                <link>http://sites.libsyn.com/474285/episode-307-whats-in-the-box</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.libsyn.com/secure/78700ea2-cdf8-41c6-b616-fd5f05b760d7/Very_Bad_Wizards_Episode_307_Whats_in_the_BOX.mp3?dest-id=4022211"/>
+                <guid>http://sites.libsyn.com/474285/episode-307-whats-in-the-box</guid>
                 
             </item><item>
-                <title>(Familiarity) Smooth Jazz Weekend w/Tina E.</title>
-                <description>Indie Jazz &amp; More!
-Feed: https://feeds.acast.com/public/shows/63bef68065ae3d0011aa5ff4</description>
+                <title>March 2025 Mix</title>
+                <description>Antoine Delvig &amp; Dada Life - We Live We Die Eli Brown - Drip V3 Armin Van Buuren &amp; Hardwell - Follow The Light (Desyfer Remix) Mike Williams &amp; Brooks - Drop The Pressure  MORTEN - Portrait  Massano - Fama Land  LUSU &amp;...
+Feed: https://dadalife.libsyn.com/rss</description>
                 
                 
-                <link>https://www.smoothjazzwknd.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63bef68065ae3d0011aa5ff4/e/680a4e9e3e9267867b2b4e9a/media.mp3"/>
-                <guid>https://www.smoothjazzwknd.com</guid>
+                <link>https://dadalife.libsyn.com/march-2025-mix</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dadalife/2025_March.mp3?dest-id=207934"/>
+                <guid>https://dadalife.libsyn.com/march-2025-mix</guid>
                 
             </item>
         </channel>
