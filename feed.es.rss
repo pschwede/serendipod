@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 01 May 2025 04:31:07 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 02 May 2025 04:29:22 +0200</lastBuildDate>
             <item>
-                <title>194: Aprendiendo a cocinar</title>
-                <description>En este podcast Carla y Pau hablan acerca de sus experiencias aprendiendo a cocinar, de sus primeras recetas, algunos accidentes… 
-Feed: https://www.easyspanish.fm/rss</description>
+                <title>A golpe de bit - Secretomas, la nueva terapia para enfermedades autoinmunes </title>
+                <description>Secretomas, la nueva terapia para enfermedades autoinmunes 
+Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
                 
                 
-                <link>https://www.easyspanish.fm/194</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/4811b3d0-b464-4586-b9f0-c99342bde0de.mp3"/>
-                <guid>https://www.easyspanish.fm/194</guid>
+                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-secretomas-nueva-terapia-para-enfermedades-autoinmunes/16560923/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16560923.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-secretomas-nueva-terapia-para-enfermedades-autoinmunes/16560923/</guid>
                 
             </item><item>
-                <title>Café del sur - Ninguna otra tierra - 27/04/25</title>
-                <description>Ninguna otra tierra
-Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
+                <title>Atmósfera para amantes y ladrones</title>
+                <description>El poder de la balada en el jazz reside en su capacidad para crear atmósferas sofisticadas, románticas y evocadoras. Y con ese concepto en mente la discográfica británica Black Lion publicaba en el año 1971, el disco Atmosphere for Lovers and Thieves, una selección de dos sesiones grabadas por el saxofonista Ben Webster en 1965 que consiguieron capturar la esencia del arte baladístico en el que el viejo saxofonista, en sus años crepusculares, había alcanzado niveles de excelencia artística...
+Feed: https://www.ivoox.com/podcast-jazznoend-radio_fg_f1136231_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cafe-del-sur/ninguna-otra-tierra-27-04-25/16556142/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16556142.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cafe-del-sur/ninguna-otra-tierra-27-04-25/16556142/</guid>
+                <link>https://www.ivoox.com/atmosfera-para-amantes-ladrones-audios-mp3_rf_144857393_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/atmosfera-para-amantes-ladrones_mf_144857393_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/atmosfera-para-amantes-ladrones-audios-mp3_rf_144857393_1.html</guid>
                 
             </item>
         </channel>

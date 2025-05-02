@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 01 May 2025 04:31:01 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 02 May 2025 04:29:18 +0200</lastBuildDate>
             <item>
-                <title>RadioCSIRT – Votre actu Cybersécurité du Mercredi 30 Avril 2025 (Ép. 275)</title>
-                <description>&lt;p&gt;&lt;strong&gt;????????️ Podcast -???? Soutenez l’évolution de RadioCSIRT vers un format vidéo&lt;/strong&gt;&lt;br /&gt;
-https://www.leetchi.com/fr/c/faire-evoluer-radiocsirt-en-format-video-1290712&lt;/p&gt;
-&lt;p&gt;???? Au programme aujourd’hui :&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;???? Serveur mail sécurisé sous Ubuntu avec Dovecot&lt;/strong&gt;&lt;br /&gt;
-Le Linux Journal publie un guide complet de déploiement d’un serveur mail sécurisé avec Postfix et Dovecot. TLS, Maildir, Fail2Ban, UFW, et configuration des ports sont abordés...
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7830_715fc0df79e689d2aaf12925f9e0b427.rss</description>
+                <title>Le char de marge : 04/27/2025 18:00</title>
+                <description>637-335232
+Feed: http://podcast.cism893.ca/radioshows/637/feed_itunes.xml</description>
                 
                 
-                <link>https://www.radiocsirt.org/podcast/votre-actu-cybersecurite-du-mercredi-30-avril-2025-ep-275/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/7830/359242.mp3"/>
-                <guid>https://www.radiocsirt.org/podcast/votre-actu-cybersecurite-du-mercredi-30-avril-2025-ep-275/</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/335232.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/335232.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/335232.mp3</guid>
                 
             </item><item>
-                <title>Odorat : la santé passe aussi par le nez</title>
-                <description>L’odorat est le premier sens à se développer chez le fœtus et il est primordial pour le développement des nouveau-nés. Récemment, il a été découvert que l’homme est doté de 400 récepteurs olfactifs, ce qui fait qu’il est très performant olfactivement. Ma…
-Feed: https://www.rts.ch/emissions/36-9/podcasts/?format=rss/podcast</description>
+                <title>L’IA souhaite se rappeler de vous, mais cette quête de l’intimité technologique est-elle une bonne nouvelle ?</title>
+                <description>L’IA souhaite se rappeler de vous, mais cette quête de l’intimité technologique est-elle une bonne nouvelle ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_18998.xml</description>
                 
                 
-                <link>https://www.rts.ch/emissions/36-9/2025/video/odorat-la-sante-passe-aussi-par-le-nez-28868100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/da66cff4-f476-3b0a-b4c7-d7891ad68d5a/51866b3f-e9b0-30eb-9d21-5925bb4a2a26.mp4"/>
-                <guid>https://www.rts.ch/emissions/36-9/2025/video/odorat-la-sante-passe-aussi-par-le-nez-28868100.html</guid>
+                <link>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/l-ia-souhaite-se-rappeler-de-vous-mais-cette-quete-de-l-intimite-technologique-est-elle-une-bonne-nouvelle-4158715</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/df07d793-3337-4e18-9681-1b1f55cace24/18998-27.04.2025-ITEMA_24116100-2025I12633S0117-NET_MFO_1C8B4559-9A90-450C-9557-4DFFCE5B3F98-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/l-ia-souhaite-se-rappeler-de-vous-mais-cette-quete-de-l-intimite-technologique-est-elle-une-bonne-nouvelle-4158715</guid>
                 
             </item>
         </channel>

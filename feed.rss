@@ -9,35 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 01 May 2025 04:30:50 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 02 May 2025 04:29:09 +0200</lastBuildDate>
             <item>
-                <title>Rattled Beats 04-24-25</title>
-                <description>Let the captivating rhythm and heart-wrenching ly…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:185322241/sounds.rss</description>
+                <title>MITM # 2262 The “You Got My Money?!” One</title>
+                <description>*5:00am: You Look Like SomeTHING Not Someone   
+*6:00am: Dumbest Reason You’ve Been Late, Embarrassing Injury  
+*7:00am: Not Trusting Valet, 1 Gorilla Or 100 Men   
+*8:00am: “What Are The Chances” Story
+*9:00am: Asking To Get Paid Back  
+Feed: https://rss.amperwave.net/v2/feed/audacy/e5e5462f43c8df192f41d4f5bbff37ec</description>
                 
                 
-                <link>https://soundcloud.com/yippee-ki-ay/rattled-beats-04-24-25</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2084600202-yippee-ki-ay-rattled-beats-04-24-25.mp3"/>
-                <guid>https://soundcloud.com/yippee-ki-ay/rattled-beats-04-24-25</guid>
+                <link>https://player.amperwavepodcasting.com?feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7393650_2025-05-01-163250</link>
+                <enclosure type="audio/mpeg" length="1" url="https://serve.castfire.com/audio/7393650/7393650_2025-05-01-163250.128.mp3?rssID=4257"/>
+                <guid>https://player.amperwavepodcasting.com?feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7393650_2025-05-01-163250</guid>
                 
             </item><item>
-                <title>Why Our Relationship Failed ft. Rich Brian | Ep 3 | Baby Goat</title>
-                <description>Jonnie third wheels as Brian and Andrea unpack breakups, bad driving, codependent chaos, and a suspicious amount of songs about one girl who doesn’t even like music! 
-Hosted By: 
-Jonnie Park  @dumbfoundead  
-https://www.instagram.com/dumbfoundead/#
-Andrea Jin  @andreajin1 https://www.instagram.com/andreajin#
-Rich Brian  @richbrian  
-https://www.instagram.com/brianimanuel/#
-More Baby Goat
-https://linktr.ee/babygoatpod
-Spotify: https://open.spotify...
-Feed: https://feeds.megaphone.fm/ASTI3989255732</description>
+                <title>Michael Paterson - Sessions 150</title>
+                <description>Sessions 150
+Feed: http://michaelpaterson.jellycast.com/podcast/feed/2</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/ASTI2864639174.mp3?updated=1745887600"/>
-                <guid></guid>
+                <link>https://michaelpaterson.jellycast.com/node/185</link>
+                <enclosure type="audio/mpeg" length="1" url="https://michaelpaterson.jellycast.com/files/audio/Sessions%20150.mp3"/>
+                <guid>https://michaelpaterson.jellycast.com/node/185</guid>
                 
             </item>
         </channel>
