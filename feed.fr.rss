@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 02 May 2025 04:29:18 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 03 May 2025 04:28:35 +0200</lastBuildDate>
             <item>
-                <title>Le char de marge : 04/27/2025 18:00</title>
-                <description>637-335232
-Feed: http://podcast.cism893.ca/radioshows/637/feed_itunes.xml</description>
+                <title>Holo-interview : Antoine Bardet - &#34;1977, Star Wars arrive en France&#34;</title>
+                <description>&lt;p&gt;Salutations citoyennes et citoyens ! Le podcast a refondu ses rubriques. Retrouvez désormais en complément des épisodes habituels des &lt;strong&gt;&#34;Holo Interviews&#34;&lt;/strong&gt;, vous proposant des échanges avec des personnalités originales et pertinentes pour traiter de la saga Star Wars, de SF ou de Pop Culture au sens large...
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/1834_1e7e6c5baea3577304717f426bc38a97.rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/335232.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/335232.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/335232.mp3</guid>
+                <link>https://www.unfandestarwars.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/1834/359196.mp3"/>
+                <guid>https://www.unfandestarwars.com</guid>
                 
             </item><item>
-                <title>L’IA souhaite se rappeler de vous, mais cette quête de l’intimité technologique est-elle une bonne nouvelle ?</title>
-                <description>L’IA souhaite se rappeler de vous, mais cette quête de l’intimité technologique est-elle une bonne nouvelle ?
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_18998.xml</description>
+                <title>Et si vous installiez de belles plantes grimpantes dans votre jardin ?</title>
+                <description>Et si vous installiez de belles plantes grimpantes dans votre jardin ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13652.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/l-ia-souhaite-se-rappeler-de-vous-mais-cette-quete-de-l-intimite-technologique-est-elle-une-bonne-nouvelle-4158715</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/df07d793-3337-4e18-9681-1b1f55cace24/18998-27.04.2025-ITEMA_24116100-2025I12633S0117-NET_MFO_1C8B4559-9A90-450C-9557-4DFFCE5B3F98-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/l-ia-souhaite-se-rappeler-de-vous-mais-cette-quete-de-l-intimite-technologique-est-elle-une-bonne-nouvelle-4158715</guid>
+                <link>https://www.francebleu.fr/emissions/cote-jardin-ici-touraine/et-si-vous-installiez-de-belles-plantes-grimpantes-dans-votre-jardin-9439237</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/d57e28e4-eff2-43ee-9b9f-c416bc969c7c/13652-26.04.2025-ITEMA_24115665-2025B22344S0116-NET_37A_F7488962-D335-4870-BDBA-B33273F225A9-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/cote-jardin-ici-touraine/et-si-vous-installiez-de-belles-plantes-grimpantes-dans-votre-jardin-9439237</guid>
                 
             </item>
         </channel>

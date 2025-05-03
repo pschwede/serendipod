@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 02 May 2025 04:29:13 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 03 May 2025 04:28:31 +0200</lastBuildDate>
             <item>
-                <title>Lakonisch trifft 54books - Lakonisch Elegant verabschiedet sich – Teil 2</title>
-                <description>Der Kulturpodcast Lakonisch Elegant verabschiedet sich und macht Platz für etwas Neues in der Zukunft. Doch bevor er verschwindet, geht es im Gespräch auf der Leipziger Buchmesse noch über das Thema &#34;Comeback&#34; - zunächst in der Literatur. Watty, Christine; Harrabi, Kais; Glanz, Berit; Franzen, Johannes; Sahner, Simon 
-Feed: https://www.deutschlandfunkkultur.de/lakonisch-elegant-podcast-100.xml</description>
+                <title>Folge 262: „Es heißt marschieren oder krepieren“ – Die Todesmärsche aus den Konzentrationslagern 1944/45</title>
+                <description>Im letzten Jahr des Zweiten Weltkriegs, als die militärische Niederlage Deutschlands immer deutlicher absehbar wurde, veränderte sich das System der Konzentrationslager grundlegend. Über 700.000 Gefangene waren zu diesem Zeitpunkt in den Lagern des Dritten Reichs inhaftiert. Mit dem Vormarsch der Alliierten begann die SS, die Lager hastig zu räumen, um eine Befreiung der Häftlinge zu verhindern...
+Feed: https://feed.podbean.com/stalingradpodcast/feed.xml</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/lakonisch-elegant-letzte-folge-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2025/03/28/trifft_54books_lakonisch_elegant_verabschiedet_sich_teil_2_drk_20250328_1705_e4b45b77.mp3?refId=lakonisch-elegant-podcast-100"/>
-                <guid>https://www.deutschlandfunkkultur.de/lakonisch-elegant-letzte-folge-100.html</guid>
+                <link>https://stalingradpodcast.podbean.com/e/folge-262-%e2%80%9ees-heist-marschieren-oder-krepieren-%e2%80%93-die-todesmarsche-aus-den-konzentrationslagern-194445/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/s2fgu9vhxcsuygdz/262.mp3"/>
+                <guid>https://stalingradpodcast.podbean.com/e/folge-262-%e2%80%9ees-heist-marschieren-oder-krepieren-%e2%80%93-die-todesmarsche-aus-den-konzentrationslagern-194445/</guid>
                 
             </item><item>
-                <title>Episode 52: The Baboon Show</title>
-                <description>In dieser Episode sprechen wir mit den schwedischen Revolutions-/Partybiestern von The Baboon Show - und zwar mit der gesamten Band. Anlässlich ihres 20 jährigen Bandjubiläums saßen wir mit den Jungs und Mädels vor ihrer Show in Hannover zusammen und haben einen wilden und unterhaltsamen Ritt durch die Bandgeschichte unternommen.
-Der Wasted Fridays Punk Podcast: Zwei Punk Fans - Flo und Timo - fachsimpeln über Interviews, die sie mit Menschen aus der Welt des Punks geführt haben...
-Feed: https://f3nkpk.podcaster.de/wastedfridays.rss</description>
+                <title>125 - Online-Training außer Kontrolle?</title>
+                <description>So behältst du die Fäden in der Hand!
+Feed: https://letscast.fm/podcasts/professionell-digital-lernen-mit-anja-roeck-45e51248/feed</description>
                 
                 
-                <link>https://f3nkpk.podcaster.de/wastedfridays/media/Episode_52_-_The_Baboon_Show.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://f3nkpk.podcaster.de/wastedfridays/media/Episode_52_-_The_Baboon_Show.mp3"/>
-                <guid>https://f3nkpk.podcaster.de/wastedfridays/media/Episode_52_-_The_Baboon_Show.mp3</guid>
+                <link>https://professionell-digital-lernen.letscast.fm/episode/125-online-training-ausser-kontrolle</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/45e51248/episode/ce9af399.mp3?t=1743585352"/>
+                <guid>https://professionell-digital-lernen.letscast.fm/episode/125-online-training-ausser-kontrolle</guid>
                 
             </item>
         </channel>

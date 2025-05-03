@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 02 May 2025 04:29:22 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 03 May 2025 04:28:39 +0200</lastBuildDate>
             <item>
-                <title>A golpe de bit - Secretomas, la nueva terapia para enfermedades autoinmunes </title>
-                <description>Secretomas, la nueva terapia para enfermedades autoinmunes 
-Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
+                <title>K-Style @ Jueves Santo Zul (17/04/2025)</title>
+                <description>https://www.kstylemusic.es
+Feed: https://feeds.feedburner.com/bemaingrounder</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-secretomas-nueva-terapia-para-enfermedades-autoinmunes/16560923/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16560923.mp3"/>
-                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-secretomas-nueva-terapia-para-enfermedades-autoinmunes/16560923/</guid>
+                <link>https://soundcloud.com/kstyledavid/juevesanto2025</link>
+                <enclosure type="audio/mpeg" length="1" url="http://feeds.feedburner.com/bemaingrounder/http://feeds.soundcloud.com/stream/2082120030-kstyledavid-juevesanto2025.mp3"/>
+                <guid>https://soundcloud.com/kstyledavid/juevesanto2025</guid>
                 
             </item><item>
-                <title>Atmósfera para amantes y ladrones</title>
-                <description>El poder de la balada en el jazz reside en su capacidad para crear atmósferas sofisticadas, románticas y evocadoras. Y con ese concepto en mente la discográfica británica Black Lion publicaba en el año 1971, el disco Atmosphere for Lovers and Thieves, una selección de dos sesiones grabadas por el saxofonista Ben Webster en 1965 que consiguieron capturar la esencia del arte baladístico en el que el viejo saxofonista, en sus años crepusculares, había alcanzado niveles de excelencia artística...
-Feed: https://www.ivoox.com/podcast-jazznoend-radio_fg_f1136231_filtro_1.xml</description>
+                <title>Trivial # La Magia del Musical</title>
+                <description>&amp;iexcl;Prep&amp;aacute;rate para emocionarte, cantar y redescubrir #LaMagiaDelMusical! 
+En esta emocionante iniciativa, 50 p&amp;oacute;dcasts se han unido para celebrar cl&amp;aacute;sicos de culto y estrenos recientes de uno de los g&amp;eacute;neros m&amp;aacute;s fascinantes del s&amp;eacute;ptimo arte: el cine musical...
+Feed: https://feeds.feedburner.com/PeskitoYMedio</description>
                 
                 
-                <link>https://www.ivoox.com/atmosfera-para-amantes-ladrones-audios-mp3_rf_144857393_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/atmosfera-para-amantes-ladrones_mf_144857393_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/atmosfera-para-amantes-ladrones-audios-mp3_rf_144857393_1.html</guid>
+                <link>https://www.ivoox.com/trivial-la-magia-del-musical-audios-mp3_rf_145332705_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/trivial-la-magia-del-musical_mf_145332705_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/trivial-la-magia-del-musical-audios-mp3_rf_145332705_1.html</guid>
                 
             </item>
         </channel>
