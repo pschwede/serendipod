@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 05 May 2025 04:30:55 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 06 May 2025 04:30:10 +0200</lastBuildDate>
             <item>
-                <title>The 4,000th Podcast Episode Only On The GeekCast Radio Network!</title>
-                <description>&lt;p&gt;In Episode 444 of All Things Transformers Steve &#34;Megatron&#34; and TFG1Mike are back, and this time it&#39;s all about The GeekCast Radio Network&#39;s overall 4 thousandth podcast episode! That&#39;s this episode right here! They even get a voicemail from OptimusSolo,  so join them won&#39;t you? As they want you to transform and transcend along with them!!!!!&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The GCRN Geek Meter&lt;/strong&gt;&lt;strong&gt;!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;15 Years of ALL THINGS...
-Feed: https://media.rss.com/all-things-transformers/feed.xml</description>
+                <title>Aristotle (Radio Edit)</title>
+                <description>Join Greg and his guests to learn all about ancient Greek philosopher Aristotle.
+Feed: https://podcasts.files.bbci.co.uk/p07mdbhg.rss</description>
                 
                 
-                <link>https://rss.com/podcasts/all-things-transformers/2006438</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.rss.com/all-things-transformers/2025_04_29_06_11_29_cc9f2ebe-d097-4eac-881f-6fbefd42df6c.mp3"/>
-                <guid>https://rss.com/podcasts/all-things-transformers/2006438</guid>
+                <link>http://www.bbc.co.uk/programmes/p0l1fnqz</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l1gjsh.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0l1fnqz</guid>
                 
             </item><item>
-                <title>TTech 378 - Name Is Critical</title>
-                <description>TTech 378 - Name Is CriticalTrack Listing:1: Laura Van Dam and Harry Diamond and K-Mrk - Identify...
-Feed: https://nameiscritical.podomatic.com/rss2.xml</description>
+                <title>Business As Usual - April 2025: The Duke &amp; Heléna Star</title>
+                <description>
+In 2008 I started a series of radio shows with fellow Freak and host, Jonny Rock. The original format was based around vinyl. Digital started to creep in, then CD&#39;s, then YouTube rips, and so on. But the idea remained the same, that we were sharing our discoveries with an audience...
+Feed: https://feeds.thisisdistorted.com/xml/luke-solomon-business-as-usual-live-from-the-wash-house</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/nameiscritical/episodes/2025-04-04T05_57_07-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://nameiscritical.podomatic.com/enclosure/2025-04-04T05_57_07-07_00.mp3?_=1743771427.17368076"/>
-                <guid>https://www.podomatic.com/podcasts/nameiscritical/episodes/2025-04-04T05_57_07-07_00</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.thisisdistorted.com/repository/audio/episodes/BAU_april_192k-1744282774422480891-NDA4MjItMTczODg0Nzg1.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 05 May 2025 04:30:39 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 06 May 2025 04:29:58 +0200</lastBuildDate>
             <item>
-                <title>Rencontres 2 Générations #1</title>
-                <description>Le travail hier et aujourd&#39;hui
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/2783_93224113bb02889844c36fbe50e781ed.rss</description>
+                <title>Lecture avec Jean-Baptiste Del Amo, Elisabeth Benoit, Eva Ionesco, Camille Kouchner et Roberto Saviano </title>
+                <description>Lecture avec Jean-Baptiste Del Amo, Elisabeth Benoit, Eva Ionesco, Camille Kouchner et Roberto Saviano 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14007.xml</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/rencontres-2-generations-1-356388/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/2783/356388.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/rencontres-2-generations-1-356388/</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/le-masque-et-la-plume/le-masque-et-la-plume-du-dimanche-04-mai-2025-6447404</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/02dca012-60ca-4054-a96a-eaa84f88f4c3/14007-04.05.2025-ITEMA_24123130-2025F4007S0124-NET_MFI_15185211-FF20-45A5-BE96-34078CB0E679-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-masque-et-la-plume/le-masque-et-la-plume-du-dimanche-04-mai-2025-6447404</guid>
                 
             </item><item>
-                <title>Épisode 1 - Mesdames et Messieurs les jurés </title>
-                <description>NOUVEAU - Abonnez-vous à Nouvelles Écoutes + pour profiter du catalogue Nouvelles Écoutes en intégralité et en avant premières, sans publicité. Vous aurez accès à des enquêtes, documentaires, séries et fictions exclusives passionnantes, comme « Au Nom du fils »,...
-Feed: https://feeds.audiomeans.fr/feed/1f6dbcc9-6b3e-49f3-a840-d16ba2f94580.xml</description>
+                <title>Les IA qui font Wahouuuuu</title>
+                <description>
+Aux côtés de PPC, la rédac est au complet pour explorer les IA qui transforment l’art, la musique, la vidéo… et nos vies. Jean-Emmanuel Séré, Christian Belala, Charles Nastorg et Alice Desjardins apportent leurs analyses et témoignages lors de ce live...
+Feed: https://feed.ausha.co/b3qxOtjeDq0P</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/9459aca8-2e42-4df2-8b3e-6b5fbfbbaa23.mp3?_=1744649193"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/connectedmate/les-ia-qui-font-wahouuuuu</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B1PxnsV8ZLqv.mp3?t=1744706224"/>
+                <guid>https://podcast.ausha.co/connectedmate/les-ia-qui-font-wahouuuuu</guid>
                 
             </item>
         </channel>
