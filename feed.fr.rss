@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 06 May 2025 04:29:58 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 07 May 2025 04:29:53 +0200</lastBuildDate>
             <item>
-                <title>Lecture avec Jean-Baptiste Del Amo, Elisabeth Benoit, Eva Ionesco, Camille Kouchner et Roberto Saviano </title>
-                <description>Lecture avec Jean-Baptiste Del Amo, Elisabeth Benoit, Eva Ionesco, Camille Kouchner et Roberto Saviano 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14007.xml</description>
+                <title>FRONTIER SCUM - Family (one-shot)</title>
+                <description>Yee haw ! Cette semaine, la JDR Academy retourne dans l’Ouest sauvage et halluciné pour un nouveau one-shot de Frontier Scum, le jeu de rôle OSR trash et stylisé signé Karl Druid.
+???? Dans Frontier Scum, on incarne des ordures : des tueurs, des voleurs, des opportunistes sans scrupules, prêts à tout pour survivre dans un Far West sans foi ni loi.
+???? Cette fois, nos hors-la-loi sont engagés par un riche pied-tendre pour s’occuper d’une famille étrange et dérangeante...
+Feed: https://jdracademy.lepodcast.fr/rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/le-masque-et-la-plume/le-masque-et-la-plume-du-dimanche-04-mai-2025-6447404</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/02dca012-60ca-4054-a96a-eaa84f88f4c3/14007-04.05.2025-ITEMA_24123130-2025F4007S0124-NET_MFI_15185211-FF20-45A5-BE96-34078CB0E679-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-masque-et-la-plume/le-masque-et-la-plume-du-dimanche-04-mai-2025-6447404</guid>
+                <link>https://jdracademy.fr/frontier-scum-family/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/jdracademy/frontier-scum-family-one-shot/enclosure.a7e1d88571d4d8d35e557f283683cc1d9bf5fe226e4f3c39a5e6b3431fba18b3.mp3?p=f"/>
+                <guid>https://jdracademy.fr/frontier-scum-family/</guid>
                 
             </item><item>
-                <title>Les IA qui font Wahouuuuu</title>
-                <description>
-Aux côtés de PPC, la rédac est au complet pour explorer les IA qui transforment l’art, la musique, la vidéo… et nos vies. Jean-Emmanuel Séré, Christian Belala, Charles Nastorg et Alice Desjardins apportent leurs analyses et témoignages lors de ce live...
-Feed: https://feed.ausha.co/b3qxOtjeDq0P</description>
+                <title>La Chute de Lapinville EP273 : On va bien s&#39;amuser</title>
+                <description>Chloé, Lapin, Spiruline, les bagages de Chloé et …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:29669516/sounds.rss</description>
                 
                 
-                <link>https://podcast.ausha.co/connectedmate/les-ia-qui-font-wahouuuuu</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B1PxnsV8ZLqv.mp3?t=1744706224"/>
-                <guid>https://podcast.ausha.co/connectedmate/les-ia-qui-font-wahouuuuu</guid>
+                <link>https://soundcloud.com/arte-radio-1/la-chute-de-lapinville-ep273-on-va-bien-samuser</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/2087802966-arte-radio-1-la-chute-de-lapinville-ep273-on-va-bien-samuser.mp3"/>
+                <guid>https://soundcloud.com/arte-radio-1/la-chute-de-lapinville-ep273-on-va-bien-samuser</guid>
                 
             </item>
         </channel>

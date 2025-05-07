@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 06 May 2025 04:29:50 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 07 May 2025 04:29:46 +0200</lastBuildDate>
             <item>
-                <title>Dark Tide 45. The Return to Orzammar</title>
-                <description>Following their negotiations with the Dalish, our group start to head back towards Orzammar, on the border of Felrelden.   This is our first streamed non-DnD TTRPG campaign, watch on Sunday 2.30pm UK at https://www.twitch.tv/penancerpg or catch...
-Feed: http://penancerpg.libsyn.com/rss</description>
+                <title>Exploring NATS: A Multi-Paradigm Connectivity Layer for Distributed Applications</title>
+                <description>Summary&lt;br /&gt;In this episode of the Data Engineering Podcast Derek Collison, creator of NATS and CEO of Synadia, talks about the evolution and capabilities of NATS as a multi-paradigm connectivity layer for distributed applications. Derek discusses the challenges and solutions in building distributed systems, and highlights the unique features of NATS that differentiate it from other messaging systems...
+Feed: https://serve.podhome.fm/rss/1c0357c0-6aba-5766-a2d5-2090d8dab6bc</description>
                 
                 
-                <link>https://penancerpg.libsyn.com/dark-tide-45-the-return-to-orzammar</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/penancerpg/DT45.mp3?dest-id=552112"/>
-                <guid>https://penancerpg.libsyn.com/dark-tide-45-the-return-to-orzammar</guid>
+                <link>https://www.dataengineeringpodcast.com/nats-distributed-data-messaging-episode-462</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e/dts.podtrac.com/redirect.mp3/serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/638813996648587489b2957c11-469d-4b45-983d-1ce36a59bb0ev1.mp3"/>
+                <guid>https://www.dataengineeringpodcast.com/nats-distributed-data-messaging-episode-462</guid>
                 
             </item><item>
-                <title>“Feel Good Inc.”—Gorillaz</title>
-                <description>Rob is back from hiatus with a loaded episode! Join him as he straddles the line between real life and virtual reality when discussing the virtual band Gorillaz and the career of its creator, Damon Albarn. Later, Rob is joined by Jeremy Gordon, the author of &#39;See Friendship&#39; and senior editor at The Atlantic, to get to the bottom of how Gorillaz became so popular (1:07:00)...
-Feed: https://feeds.megaphone.fm/60-songs</description>
+                <title>Kola Shippentower</title>
+                <description>Shippentower is named Co-Captain of the Oregon Ravens Football Team!
+Kola Shippentower is an enrolled member of the Confederated Tribes of the Umatilla Indian Reservation. She has co-founded and is the Director of The Wisáwca Project - Enough Iz Enough, a non-profit organization working together for change, for better communication and involvement...
+Feed: https://feeds.zencastr.com/f/4v4HyCc6.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/GLT2388170951.mp3?updated=1745982247"/>
-                <guid></guid>
+                <link>https://zencastr.com/z/aQikx1Qs</link>
+                <enclosure type="audio/mpeg" length="1" url="https://redirect.zencastr.com/r/episode/681267c0df7e4d17cdce67f7/size/66226617/audio-files/5fa83d79fd3045009269cc67/9d635153-9917-4c92-a574-b22a0ce025b7.mp3"/>
+                <guid>https://zencastr.com/z/aQikx1Qs</guid>
                 
             </item>
         </channel>
