@@ -9,27 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 07 May 2025 04:29:57 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 08 May 2025 04:31:12 +0200</lastBuildDate>
             <item>
-                <title>Rincón Sportinguista 589 #PodcastSportinguista</title>
-                <description>Programa con @JaviMelero77 @AlejandroJamart @TinvsPilvs y Mon donde analizamos la victoria del Sporting por 3-1 contra el Mirand&amp;eacute;s en El Molin&amp;oacute;n.
-Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
+                <title>Cómo pedir consejo (15-21 de septiembre)</title>
+                <description>wS MP3 Julio de 2025 - 01
+Feed: https://apps.jw.org/E_sFFZRQVNZNT?rln=S&amp;rmn=w&amp;rfm=mp3</description>
                 
                 
-                <link>https://www.ivoox.com/rincon-sportinguista-589-podcastsportinguista-audios-mp3_rf_145332670_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-589-podcastsportinguista_mf_145332670_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/rincon-sportinguista-589-podcastsportinguista-audios-mp3_rf_145332670_1.html</guid>
+                <link>https://cfp2.jw-cdn.org/a/1c75239/1/o/w_S_202507_01.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cfp2.jw-cdn.org/a/1c75239/1/o/w_S_202507_01.mp3"/>
+                <guid>https://cfp2.jw-cdn.org/a/1c75239/1/o/w_S_202507_01.mp3</guid>
                 
             </item><item>
-                <title>Vive! Noticias 15.00 | 06-05-25</title>
-                <description>La actualidad local, regional, nacional e internacional en Vive! Radio. 
-
-Feed: https://www.spreaker.com/show/5959831/episodes/feed</description>
+                <title>Trailer Accesibilidad con Tecnologias Libres</title>
+                <description>
+&lt;p&gt;ATL es un podcast mensual producido y presentado por Jorge Lama. Con diferentes secciones donde cada &amp;quot;corresponsal&amp;quot; aporta su visión y conocimiento en temas de accesibilidad y tecnologías libres :
+· Rompiendo barreras, con Eva Marco, en la que habla de su experiencia como desarrolladora.
+· Odisea en el ciberespacio con David Marzal, comentando aplicaciones y noticias relacionadas con el Software Libre.
+· Accesibilidad web, con Pablo Arias...
+Feed: https://accesibilidadtl.gitlab.io/feed</description>
                 
                 
-                <link>https://www.spreaker.com/episode/vive-noticias-15-00-06-05-25--65941949</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/65941949/f1803275_bee8_3866_000d_19fbe089a5d9.mp3"/>
-                <guid>https://www.spreaker.com/episode/vive-noticias-15-00-06-05-25--65941949</guid>
+                <link>https://accesibilidadtl.gitlab.io/posts/atl/t01-aurora/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=68b52970-05d8-5cb1-8bd3-d15fa3961e09/archive.org/download/atl-presentacion-aurora/ATL-Presentacion-Aurora.mp3"/>
+                <guid>https://accesibilidadtl.gitlab.io/posts/atl/t01-aurora/</guid>
                 
             </item>
         </channel>
