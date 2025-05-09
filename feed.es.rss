@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 08 May 2025 04:31:12 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 09 May 2025 04:30:33 +0200</lastBuildDate>
             <item>
-                <title>Cómo pedir consejo (15-21 de septiembre)</title>
-                <description>wS MP3 Julio de 2025 - 01
-Feed: https://apps.jw.org/E_sFFZRQVNZNT?rln=S&amp;rmn=w&amp;rfm=mp3</description>
+                <title>Cinco Continentes - El Día de la Victoria de Europa se celebra en un contexto complejo</title>
+                <description>El Día de la Victoria de Europa se celebra en un contexto complejo
+Feed: http://api.rtve.es/api/programas/34950/audios.rss</description>
                 
                 
-                <link>https://cfp2.jw-cdn.org/a/1c75239/1/o/w_S_202507_01.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cfp2.jw-cdn.org/a/1c75239/1/o/w_S_202507_01.mp3"/>
-                <guid>https://cfp2.jw-cdn.org/a/1c75239/1/o/w_S_202507_01.mp3</guid>
+                <link>https://www.rtve.es/play/audios/cinco-continentes/cinco-continentes-dia-victoria-europa-se-celebra-contexto-complejo/16572089/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16572089.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cinco-continentes/cinco-continentes-dia-victoria-europa-se-celebra-contexto-complejo/16572089/</guid>
                 
             </item><item>
-                <title>Trailer Accesibilidad con Tecnologias Libres</title>
-                <description>
-&lt;p&gt;ATL es un podcast mensual producido y presentado por Jorge Lama. Con diferentes secciones donde cada &amp;quot;corresponsal&amp;quot; aporta su visión y conocimiento en temas de accesibilidad y tecnologías libres :
-· Rompiendo barreras, con Eva Marco, en la que habla de su experiencia como desarrolladora.
-· Odisea en el ciberespacio con David Marzal, comentando aplicaciones y noticias relacionadas con el Software Libre.
-· Accesibilidad web, con Pablo Arias...
-Feed: https://accesibilidadtl.gitlab.io/feed</description>
+                <title>ANTES DE TOCAR FONDO</title>
+                <description>&lt;p&gt;&lt;strong&gt;ANTES DE TOCAR FONDO&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Reconocer sus faltas o pecados cometidos, no es algo que le agrade a la mayoría de personas, por eso cuando los cometen, tratan de tapar a toda costa con mentiras, engaños o falsedades, hundiéndose de esa manera más y más en las profundidades del abismo...
+Feed: https://anchor.fm/s/7d7ae748/podcast/rss</description>
                 
                 
-                <link>https://accesibilidadtl.gitlab.io/posts/atl/t01-aurora/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=68b52970-05d8-5cb1-8bd3-d15fa3961e09/archive.org/download/atl-presentacion-aurora/ATL-Presentacion-Aurora.mp3"/>
-                <guid>https://accesibilidadtl.gitlab.io/posts/atl/t01-aurora/</guid>
+                <link>https://podcasters.spotify.com/pod/show/jesus-is-life7/episodes/ANTES-DE-TOCAR-FONDO-e31qfae</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/7d7ae748/podcast/play/101579534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-21%2F951fe60d-7a65-5d21-7cd8-62ea76fb1813.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/jesus-is-life7/episodes/ANTES-DE-TOCAR-FONDO-e31qfae</guid>
                 
             </item>
         </channel>
