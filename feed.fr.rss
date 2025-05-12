@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 11 May 2025 04:30:03 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 12 May 2025 04:31:06 +0200</lastBuildDate>
             <item>
-                <title>L&#39;horoscope du dimanche 11 mai</title>
-                <description>Vierge, vous avez besoin de vous vider la tête
-Feed: https://podcasts.tendanceouest.com/rss-podcast-71-horoscope/</description>
+                <title>#343 - L’histoire de Ferrari</title>
+                <description>&lt;p&gt;Aujourd’hui, on met le turbo direction Maranello. On parle rouge flamboyant, rugissements de V12, et passion à l’italienne. Oui, tu l’as deviné : on parle de &lt;strong&gt;Ferrari&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;De la fondation par Enzo Ferrari dans les années 40, aux victoires légendaires sur les circuits les plus mythiques du monde – en passant par les modèles de route qui font tourner toutes les têtes – Ferrari, c’est plus qu’un constructeur. C’est un mythe...
+Feed: https://feeds.acast.com/public/shows/mark-et-ting</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://medias.tendanceouest.com/podcasts/sons/8336-HOROS-250511.mp3"/>
-                <guid></guid>
+                <link>https://shows.acast.com/mark-et-ting/episodes/68187d0b8e712cac96a23497</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/620e78e488e4890016aed370/e/68187d0b8e712cac96a23497/media.mp3"/>
+                <guid>https://shows.acast.com/mark-et-ting/episodes/68187d0b8e712cac96a23497</guid>
                 
             </item><item>
-                <title>Episode 93 - Kenny Spilette - Personal Coach - Bois des Bruyères - Waterloo</title>
-                <description>Bienvenue sur &#34;Trouvez votre voie / voix&#34;, le podcast de Vincent Danniau - VigitalD. Entrepreneur belge sur Bruxelles.
-Arrêtez de procrastiner : podcastinez à la place avec ce podcast, le casting des potes du podcast qui dépote !...
-Feed: https://www.vodio.fr/rssmedias.php?valeur=288</description>
+                <title>BEST OF - COMMENT IL DÉCOUVRE HYROX </title>
+                <description>&lt;p&gt;L’Hyrox, pour Mehdi Dergaoui c&#39;est une longue histoire.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Découvre un échange inspirant sur la motivation, les objectifs et l&#39;aventure. ⬇️&lt;/p&gt;&lt;br&gt;&lt;p&gt;???? Épisode complet sur YouTube et en podcast à partir de mardi.&lt;/p&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hébergé par Acast. Visitez acast.com/privacy pour plus d&#39;informations.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/85b0db36-e94b-4f90-a1ef-6d5919e60498</description>
                 
                 
-                <link>https://www.vodio.fr/vodiotheque/i/24117/episode-93-kenny-spilette-personal-coach-bois-des-bruyeres-waterloo/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/www.vodio.fr/emissions/_vincentdanniauvigitald47L5/kenny-final-1.mp3"/>
-                <guid>https://www.vodio.fr/vodiotheque/i/24117/episode-93-kenny-spilette-personal-coach-bois-des-bruyeres-waterloo/</guid>
+                <link>https://shows.acast.com/extraterrien/episodes/best-of-comment-il-decouvre-hyrox</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/extraterrien/e/681a4514eb146d8e352ff574/media.mp3"/>
+                <guid>https://shows.acast.com/extraterrien/episodes/best-of-comment-il-decouvre-hyrox</guid>
                 
             </item>
         </channel>

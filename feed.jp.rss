@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 11 May 2025 04:30:18 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 12 May 2025 04:31:27 +0200</lastBuildDate>
             <item>
-                <title>Chris Cuomo on Why John Fetterman GETS IT</title>
-                <description>Chris Cuomo unpacks the backlash against Senator John Fetterman and argues that Democrats are undermining their own by prioritizing ideological purity over pragmatic progress...
-Feed: https://feeds.megaphone.fm/cuomoproject</description>
+                <title>Afro House Sessions 61</title>
+                <description>Afro House Sessions 61
+Mixed by Dave Matthias
+Tr…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:746396/sounds.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/chrt.fm/track/47G541/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2414705789.mp3?updated=1746673322"/>
-                <guid></guid>
+                <link>https://soundcloud.com/davematthias/afrohousesessions_61</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2094095073-davematthias-afrohousesessions_61.mp3"/>
+                <guid>https://soundcloud.com/davematthias/afrohousesessions_61</guid>
                 
             </item><item>
-                <title>Miami GP 2025</title>
-                <description>The traffic is Miami may be congested but that&#39;s not going to stop our racers from rubbing Lego bricks in Vice City.
-Feed: https://feeds.megaphone.fm/NYOOM4196406795</description>
+                <title>Ep. 491 - Helen Atkinson Wood</title>
+                <description>Best known for playing Mrs. Miggins in Blackadder, Radio Active and KYTV.
+Feed: https://feeds.acast.com/public/shows/e524e6f9-e52d-4fde-83a6-236625eaafaa</description>
                 
                 
-                <link>https://f1.cool/blog/307</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/NYOOM5268268661.mp3?updated=1746576581"/>
-                <guid>https://f1.cool/blog/307</guid>
+                <link>https://shows.acast.com/mytimecapsule/episodes/ep-491-helen-atkinson-wood</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/mytimecapsule/e/682120f5ca72734652e73a79/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=f1vV_f07v5yy9Wf4WEghNmCdFbLdPL8f0Tiw782o3jA"/>
+                <guid>https://shows.acast.com/mytimecapsule/episodes/ep-491-helen-atkinson-wood</guid>
                 
             </item>
         </channel>
