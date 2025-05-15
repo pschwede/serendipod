@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 May 2025 04:30:34 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 May 2025 04:30:35 +0200</lastBuildDate>
             <item>
-                <title>Junk Food, Schrumpelfinger, Bindungsmuster</title>
-                <description>&lt;p&gt;Die Themen in den Wissensnachrichten: +++ Werbung für ungesundes Essen sorgt für höheren Kalorien-Intake +++ Nasse Finger schrumpeln immer im gleichen Muster +++ Schimpansen haben ähnliche Bindungsmuster wie Menschen +++&lt;/p&gt;&lt;p&gt;**********&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Weiterführende Quellen zu dieser Folge:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;European Congress on Obesity&lt;/li&gt;&lt;li&gt;On the repeatability of wrinkling topography patterns in the fingers of water immersed human skin, In: Journal of the Mechanical Behavior of...
-Feed: https://www.deutschlandfunknova.de/podcast/wissensnachrichten</description>
+                <title>Mann unter Mordverdacht, nachdem er in Varel seine Frau überfahren hat</title>
+                <description>Weitere Themen: In Wilhelmshaven braucht das Sozialamt besonders lange bei der Bearbeitung von Pflege-Anträgen / Verfahren nach Brandanschlag auf Oldenburger Synagoge startet im Juni
+Feed: https://www.ndr.de/podcast/podcast4658.xml</description>
+                
+                
+                <link>https://www.ndr.de/ndr1niedersachsen/Mann-unter-Mordverdacht-nachdem-er-in-Varel-seine-Frau-ueberfahren-hat,audio1872186.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/progressive/2025/0513/AU-20250513-1622-1200.mp3"/>
+                <guid>https://www.ndr.de/ndr1niedersachsen/Mann-unter-Mordverdacht-nachdem-er-in-Varel-seine-Frau-ueberfahren-hat,audio1872186.html</guid>
+                
+            </item><item>
+                <title>Predigt Loehningen 2025-05-04: «Gut leben am Limit»</title>
+                <description>&lt;p&gt;Ausschnitt aus dem Sonntagmorgen-Gottesdienst am Generationen-Wochenende der Kirchgemeinden Gächlingen und Löhningen-Guntmadingen mit dem Titel «Leben am Limit»: Lesung (Psalm 16, Elija Käser) und Predigt von Marianne Huber (Lesungen: Florian Huber). Sonntag, 4. Mai 2025, 10.00 Uhr, Kirchgemeinde Löhningen-Guntmadingen.&lt;/p&gt;
+&lt;p&gt;Lesung: Psalm 16&lt;/p&gt;
+&lt;p&gt;Weitere Informationen über die Kirchgemeinde Löhningen–Guntmadingen.&lt;/p&gt;
+
+Feed: https://eztoz.ch/loehningen/predigten-der-kirchgemeinde-loehningen-guntmadingen.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2025/05/13/deutschlandfunknova_junk_food_schrumpelfinger_20250513_74e6ea7d.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="http://eztoz.ch/loehningen/Predigt_Loehningen_2025-05-04.mp3"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Kleiner Diktator oder großer Präsident?! - 100 Tage Donald Trump 2.0</title>
-                <description>Am 30. April war Donald Trump 100 Tage im Amt, zum zweiten Mal. Für seine Anhänger ist er schon heute einer der größten US-Präsidenten. Seine Kritiker dagegen sind überzeugt: Trump gefährdet die Demokratie. Ein Stimmungsbild aus den USA.
-Feed: https://podcast.hr.de/hrinfo_wissenswert/podcast.xml</description>
-                
-                
-                <link>https://mp3podcasthr-a.akamaihd.net/mp3/podcast/hrinfo_wissenswert/hrinfo_wissenswert_20250501_103541716.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mp3podcasthr-a.akamaihd.net/mp3/podcast/hrinfo_wissenswert/hrinfo_wissenswert_20250501_103541716.mp3"/>
-                <guid>https://mp3podcasthr-a.akamaihd.net/mp3/podcast/hrinfo_wissenswert/hrinfo_wissenswert_20250501_103541716.mp3</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 May 2025 04:30:38 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 May 2025 04:30:39 +0200</lastBuildDate>
             <item>
-                <title>L&#39;horoscope du mercredi 14 mai</title>
-                <description>Scorpion, le romantisme illuminera votre journée
-Feed: https://podcasts.tendanceouest.com/rss-podcast-71-horoscope/</description>
+                <title>:162 Vol d’identité, corruption, vote biométrique, famine : l’entrepreneur qui lutte contre les fléaux du monde - Nicolas Berbigier CEO de Famoco</title>
+                <description>&lt;p&gt;Il a inventé la carte ultime : celle qui peut faire office de carte d’identité, de carte vitale ou de carte de paiement...
+Feed: https://feeds.acast.com/public/shows/6352aa64fe5138001205d9b3</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://medias.tendanceouest.com/podcasts/sons/8578-HOROS-250514.mp3"/>
-                <guid></guid>
+                <link>https://shows.acast.com/40nuancesdenext/episodes/162-vol-didentite-corruption-vote-biometrique-famine-lentrep</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6352aa64fe5138001205d9b3/e/681b8d363e6644d7a360984b/media.mp3"/>
+                <guid>https://shows.acast.com/40nuancesdenext/episodes/162-vol-didentite-corruption-vote-biometrique-famine-lentrep</guid>
                 
             </item><item>
-                <title>&#34;Sapé comme jamais&#34; de Gims : la naissance éclair d’un hit</title>
-                <description>&lt;p&gt;Dans cet épisode, Julien vous raconte la naissance fulgurante de &lt;strong&gt;Sapé comme jamais&lt;/strong&gt;, un titre emblématique de &lt;strong&gt;Gims&lt;/strong&gt;. De la mélodie fredonnée sur un téléphone aux paroles écrites en quelques minutes, en passant par l&#39;arrivée express de &lt;strong&gt;Niska&lt;/strong&gt; en studio : tout s’enchaîne à une vitesse folle. Mais derrière ce tube dansant se cache un hommage vibrant à la culture congolaise. Plongez dans les coulisses d’un morceau culte...
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7671_9c638010be34ab0731a96b73fc1f3cee.rss</description>
+                <title>INTÉGRALE - Le Grand Studio de Lamomali et Solann</title>
+                <description>Ecoutez Le Grand Studio RTL avec Éric Jean-Jean du 9 mai 2025.
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d&#39;informations.
+ 
+Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/sape-comme-jamais-de-gims-la-naissance-eclair-dun-hit-359508/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/7671/359508.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/sape-comme-jamais-de-gims-la-naissance-eclair-dun-hit-359508/</guid>
+                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/baaa93da-77bd-42d5-9753-277cd4a0d3c5.mp3?_=1746637686"/>
+                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
                 
             </item>
         </channel>
