@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 15 May 2025 04:30:35 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 16 May 2025 04:30:59 +0200</lastBuildDate>
             <item>
-                <title>Mann unter Mordverdacht, nachdem er in Varel seine Frau überfahren hat</title>
-                <description>Weitere Themen: In Wilhelmshaven braucht das Sozialamt besonders lange bei der Bearbeitung von Pflege-Anträgen / Verfahren nach Brandanschlag auf Oldenburger Synagoge startet im Juni
-Feed: https://www.ndr.de/podcast/podcast4658.xml</description>
+                <title>Wer wären wir ohne Emotionen ...</title>
+                <description>... seelenlose Wesen, leere Hüllen?
+Feed: https://www.brainfood-for-leaders.com/feed/m4a/</description>
                 
                 
-                <link>https://www.ndr.de/ndr1niedersachsen/Mann-unter-Mordverdacht-nachdem-er-in-Varel-seine-Frau-ueberfahren-hat,audio1872186.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mediandr-a.akamaihd.net/progressive/2025/0513/AU-20250513-1622-1200.mp3"/>
-                <guid>https://www.ndr.de/ndr1niedersachsen/Mann-unter-Mordverdacht-nachdem-er-in-Varel-seine-Frau-ueberfahren-hat,audio1872186.html</guid>
+                <link>https://www.brainfood-for-leaders.com/wer-waeren-wir-ohne-emotionen/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.brainfood-for-leaders.com/podlove/file/218/s/feed/c/m4a/wer-waeren-wir-ohne-emotionen.m4a"/>
+                <guid>https://www.brainfood-for-leaders.com/wer-waeren-wir-ohne-emotionen/</guid>
                 
             </item><item>
-                <title>Predigt Loehningen 2025-05-04: «Gut leben am Limit»</title>
-                <description>&lt;p&gt;Ausschnitt aus dem Sonntagmorgen-Gottesdienst am Generationen-Wochenende der Kirchgemeinden Gächlingen und Löhningen-Guntmadingen mit dem Titel «Leben am Limit»: Lesung (Psalm 16, Elija Käser) und Predigt von Marianne Huber (Lesungen: Florian Huber). Sonntag, 4. Mai 2025, 10.00 Uhr, Kirchgemeinde Löhningen-Guntmadingen.&lt;/p&gt;
-&lt;p&gt;Lesung: Psalm 16&lt;/p&gt;
-&lt;p&gt;Weitere Informationen über die Kirchgemeinde Löhningen–Guntmadingen.&lt;/p&gt;
-
-Feed: https://eztoz.ch/loehningen/predigten-der-kirchgemeinde-loehningen-guntmadingen.xml</description>
+                <title>Trend</title>
+                <description>&lt;p&gt;Sendungshinweis: FM4 Morning Show, 16.5.2025, 6 Uhr&lt;/p&gt;
+Feed: https://podcast.orf.at/podcast/fm4/fm4_ombudsmann/fm4_ombudsmann.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://eztoz.ch/loehningen/Predigt_Loehningen_2025-05-04.mp3"/>
-                <guid></guid>
+                <link>https://sound.orf.at/podcast/fm4/fm4-ombudsmann/trend</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/fm4/fm4_ombudsmann/items/di_fm4_ombudsmann_cdk_665133e05d8943bd997569e9351a9fde.mp3?etag=aa45f245b00f36e23ac7b670ba17560d"/>
+                <guid>https://sound.orf.at/podcast/fm4/fm4-ombudsmann/trend</guid>
                 
             </item>
         </channel>

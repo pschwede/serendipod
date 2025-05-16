@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 15 May 2025 04:30:53 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 16 May 2025 04:31:20 +0200</lastBuildDate>
             <item>
-                <title>The One With Brenda Maddox</title>
-                <description>Hospitality expert Brenda Maddox shares hotel project insights, creative challenges, and the art of bringing stories to life.
-Feed: https://keithblakemorenoble.com/feed/podcast/the-keith-blakemore-noble-radio-show/</description>
+                <title>Lorcan Finnegan interview (The Surfer)</title>
+                <description>Popcorn Podcast interviews Lorcan Finnegan
+Feed: https://feeds.acast.com/public/shows/62e06099a16d940014076400</description>
                 
                 
-                <link>https://keithblakemorenoble.com/podcast/the-one-with-brenda-maddox/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/keithblakemorenoble.com/podcast-download/17102/the-one-with-brenda-maddox.mp3"/>
-                <guid>https://keithblakemorenoble.com/podcast/the-one-with-brenda-maddox/</guid>
+                <link>https://www.popcornpodcast.com/episodes/lorcan-finnegan-interview-the-surfer</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/62e06099a16d940014076400/e/6823e7d35d93800ff65ac300/media.mp3"/>
+                <guid>https://www.popcornpodcast.com/episodes/lorcan-finnegan-interview-the-surfer</guid>
                 
             </item><item>
-                <title>TM 963 Wolf Hoffmann Accept</title>
-                <description>Accept&#39;s Wolf Hoffmann
-Feed: https://rss.art19.com/talking-metal</description>
+                <title>Nephew and Commander (Part 2 of 2)</title>
+                <description>God sometimes uses spectacular means—like parting the Red Sea so Moses and the Israelites could escape Egypt—to save His people. More often, though, He uses common means and ordinary people to accomplish His purposes. Hear more on Truth For Life with Alistair Begg. ----------------------------------------- • Click here and look for &#34;FROM THE SERMON&#34; to stream or read the full message...
+Feed: https://feeds.feedburner.com/TruthForLife</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/8158b173-9bdd-4825-b9b1-1869fbf1811f.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://www.truthforlife.org/broadcasts/2025/05/15/nephew-and-commander-part-2-of-2-/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tflmedia-new.s3.amazonaws.com/Podcasts/Truth_For_Life-May-15-2025-Nephew_and_Commander_Part_2_of_2.mp3"/>
+                <guid>https://www.truthforlife.org/broadcasts/2025/05/15/nephew-and-commander-part-2-of-2-/</guid>
                 
             </item>
         </channel>
