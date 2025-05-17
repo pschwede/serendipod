@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 16 May 2025 04:31:08 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 17 May 2025 04:29:18 +0200</lastBuildDate>
             <item>
-                <title>Melodías pizarras - Calypso # 2 - 10/05/25</title>
-                <description>Calypso # 2
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
-                
-                
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/calypso-2-10-05-25/16574554/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16574554.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/calypso-2-10-05-25/16574554/</guid>
-                
-            </item><item>
                 <title>Episodio 143: El baúl de los recuerdos, con Galiana @GalianaRgm</title>
                 <description>Hola hola gente people, bienvenidas y bienhallados al Bar Bedel, vuestro Bar de confianza, vuestro Bar en formato podcast. Una de nuestras clientes VIP más top, Galiana, de la red de podcast y del blog Galiana y Cia https://galianaycia.com/ viene al programa para abrir su baúl de los recuerdos y ofrecernos un puñado de canciones que para ella han sido importantes a lo largo de su vida por diferentes motivos...
 Feed: https://feeds.feedburner.com/BarBedel</description>
@@ -29,6 +19,29 @@ Feed: https://feeds.feedburner.com/BarBedel</description>
                 <link>https://www.ivoox.com/episodio-143-el-baul-recuerdos-con-audios-mp3_rf_145976643_1.html</link>
                 <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/episodio-143-el-baul-recuerdos-con_mf_145976643_feed_1.mp3"/>
                 <guid>https://www.ivoox.com/episodio-143-el-baul-recuerdos-con-audios-mp3_rf_145976643_1.html</guid>
+                
+            </item><item>
+                <title>Star 80 del 10 de mayo de 2025 (especial In Memoriam)</title>
+                <description>Albert One - Turbo Diesel
+Brand Image - Love In A Summer Night
+My Mine - Hipnotic Tango
+Josep Mar&amp;iacute;a Castells &amp;ndash; Max Mix 4
+Evelyn Thomas &amp;ndash; High Energy
+Pino D&#39;Angi&amp;ograve; - Ma Quale Idea
+Lime - Babe We&#39;re Gonna Love Tonight
+La Bionda - I Wanna Be Your Lover
+Mirage - No More No War
+Felli - Diamond In The Night
+Max Coveri - One More Time
+Donna Summer &amp;amp; Giorgio Moroder - I Feel Love
+Patrick Cowley &amp;ndash; Menergy
+Baccara (Mar&amp;iacute;a Mendiola) &amp;ndash; No Sir Don&amp;acute;t Say...
+Feed: https://www.ivoox.com/podcast-star-80_fg_f144163_filtro_1.xml</description>
+                
+                
+                <link>https://www.ivoox.com/star-80-del-10-mayo-2025-audios-mp3_rf_146463701_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-10-mayo-2025_mf_146463701_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/star-80-del-10-mayo-2025-audios-mp3_rf_146463701_1.html</guid>
                 
             </item>
         </channel>

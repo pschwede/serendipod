@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 16 May 2025 04:30:59 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 17 May 2025 04:29:08 +0200</lastBuildDate>
             <item>
-                <title>Wer wären wir ohne Emotionen ...</title>
-                <description>... seelenlose Wesen, leere Hüllen?
-Feed: https://www.brainfood-for-leaders.com/feed/m4a/</description>
+                <title>Ein Satz, der alles verändert - DURCHSTARTER PODCAST CLASSICS</title>
+                <description>#556
+Feed: https://feeds.feedburner.com/Durchstarter-podcast_Damian_Richter</description>
                 
                 
-                <link>https://www.brainfood-for-leaders.com/wer-waeren-wir-ohne-emotionen/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.brainfood-for-leaders.com/podlove/file/218/s/feed/c/m4a/wer-waeren-wir-ohne-emotionen.m4a"/>
-                <guid>https://www.brainfood-for-leaders.com/wer-waeren-wir-ohne-emotionen/</guid>
+                <link>https://durchstarter-podcast.podigee.io/647-Ein%20Satz,%20der%20alles%20ver%C3%A4ndert%20-%20DURCHSTARTER%20PODCAST%20CLASSICS</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1922265-m-52fd3f8290282560a2a57ff0db1990f3.mp3?source=feed"/>
+                <guid>https://durchstarter-podcast.podigee.io/647-Ein%20Satz,%20der%20alles%20ver%C3%A4ndert%20-%20DURCHSTARTER%20PODCAST%20CLASSICS</guid>
                 
             </item><item>
-                <title>Trend</title>
-                <description>&lt;p&gt;Sendungshinweis: FM4 Morning Show, 16.5.2025, 6 Uhr&lt;/p&gt;
-Feed: https://podcast.orf.at/podcast/fm4/fm4_ombudsmann/fm4_ombudsmann.xml</description>
+                <title>CD Tipp Yo-Yo Ma, Andris Nelsons und Boston Symphony mit Schostakowitsch BRKL</title>
+                <description>Seit 2014 ist Andris Nelsons beim Boston Symphony Orchestra Chefdirigent. Gleich in seiner ersten Saison hat Nelsons mit einem Schostakowitsch-Zyklus begonnen, der jetzt zum 50. Todestag des Komponisten bei der Deutschen Grammophon komplett vorliegt. Für die beiden Cellokonzerte von Schostakowitsch konnte Nelsons den bald 70-jährigen Starcellisten Yo-Yo Ma gewinnen.
+Feed: https://feeds.br.de/cd-tipp/feed.xml</description>
                 
                 
-                <link>https://sound.orf.at/podcast/fm4/fm4-ombudsmann/trend</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/fm4/fm4_ombudsmann/items/di_fm4_ombudsmann_cdk_665133e05d8943bd997569e9351a9fde.mp3?etag=aa45f245b00f36e23ac7b670ba17560d"/>
-                <guid>https://sound.orf.at/podcast/fm4/fm4-ombudsmann/trend</guid>
+                <link>https://www.br.de/mediathek/podcast/cd-tipp/cd-tipp-yo-yo-ma-andris-nelsons-und-boston-symphony-mit-schostakowitsch-brkl/2106298</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2106298/c/feed/cd-tipp-yo-yo-ma-andris-nelsons-und-boston-symphony-mit-schostakowitsch-brkl.mp3"/>
+                <guid>https://www.br.de/mediathek/podcast/cd-tipp/cd-tipp-yo-yo-ma-andris-nelsons-und-boston-symphony-mit-schostakowitsch-brkl/2106298</guid>
                 
             </item>
         </channel>

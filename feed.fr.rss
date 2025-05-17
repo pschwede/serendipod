@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 16 May 2025 04:31:04 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 17 May 2025 04:29:13 +0200</lastBuildDate>
             <item>
-                <title>EP4 - Ce que la menace de la guerre fait à nos libertés</title>
-                <description>
-Nous sommes entrés dans une nouvelle ère, celle de la guerre…Emmanuel Macron en est certain. Il nous faut un parapluie nucléaire européen. Plus d’arme. Plus de budget pour la défense.
-Les sénateurs sont d’accord, et ont voté fin janvier un budget en...
-Feed: https://feed.ausha.co/BqmVUKpdXNDB</description>
+                <title>Le Bon Réveil Express du Vendredi 16 Mai</title>
+                <description>&lt;p&gt;Bienvenue dans&amp;nbsp;Le Bon Réveil, votre rendez-vous matinal pour démarrer la journée du bon pied ! Chaque épisode est une véritable bouffée d&#39;air frais, où nous explorons l&#39;actualité du jour, les événements marquants du calendrier, et des anecdotes insolites qui éveilleront votre curiosité. Dans sa version raccourcie sans musiques...
+Feed: https://feeds.acast.com/public/shows/6717d1a930187dfb6c7ae3e4</description>
                 
                 
-                <link>https://podcast.ausha.co/penser-les-luttes/ce-que-la-menace-de-la-guerre-fait-a-nos-libertes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/ypZEVCg5N1Wq.mp3?t=1743424126"/>
-                <guid>https://podcast.ausha.co/penser-les-luttes/ce-que-la-menace-de-la-guerre-fait-a-nos-libertes</guid>
+                <link>https://shows.acast.com/le-bon-reveil/episodes/681f9da4ca727346529d6328</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6717d1a930187dfb6c7ae3e4/e/681f9da4ca727346529d6328/media.mp3"/>
+                <guid>https://shows.acast.com/le-bon-reveil/episodes/681f9da4ca727346529d6328</guid>
                 
             </item><item>
-                <title>L&#39;horoscope du vendredi 16 mai</title>
-                <description>Capricorne, il va falloir vous démener un peu plus!
-Feed: https://podcasts.tendanceouest.com/rss-podcast-71-horoscope/</description>
+                <title>OEC 316 : L’Interviewer d’Inconnus</title>
+                <description>Un épisode presque thématique, entre littérature et poésie, entre sordide et beauté, mais toujours en BD...
+Feed: https://oec.lepodcast.fr/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://medias.tendanceouest.com/podcasts/sons/8580-HOROS-250516.mp3"/>
-                <guid></guid>
+                <link>https://www.lavoixdesbulles.fr/oec-316-linterviewer-dinconnus/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/oec/oec-316-linterviewer-dinconnus/enclosure.d7cb854cf9340db7650b608ce977c7c57dfd13baf382758fe228f82963a007ed.mp3?p=f"/>
+                <guid>https://www.lavoixdesbulles.fr/oec-316-linterviewer-dinconnus/</guid>
                 
             </item>
         </channel>
