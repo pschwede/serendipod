@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 17 May 2025 04:29:08 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 18 May 2025 04:32:45 +0200</lastBuildDate>
             <item>
-                <title>Ein Satz, der alles verändert - DURCHSTARTER PODCAST CLASSICS</title>
-                <description>#556
-Feed: https://feeds.feedburner.com/Durchstarter-podcast_Damian_Richter</description>
+                <title>Wie geht Rosenkranzbeten?</title>
+                <description>Ref.: Pfr. Helmut Epp, Immenstadt
+Der Rosenkranz begleitet Menschen seit Jahrhunderten auf ihrem Weg mit Gott. Heute wird er häufig unterschätzt. Aus Unwissenheit oder auch einfach, weil das Rosenkranzbeten schwer fällt. Der Kurs 0 mit Pfr. Helmut Epp will hier Abhilfe schaffen. Egal, ob Sie Rosenkranz-Anfänger sind oder schon Erfahrung haben - diese Sendung bietet Hilfestellungen, um durch das Rosenkranzgebet Gott tiefer zu begegnen. 
+Feed: http://www.horeb.org/xyz/podcast/kurs0/kurs0.xml</description>
                 
                 
-                <link>https://durchstarter-podcast.podigee.io/647-Ein%20Satz,%20der%20alles%20ver%C3%A4ndert%20-%20DURCHSTARTER%20PODCAST%20CLASSICS</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1922265-m-52fd3f8290282560a2a57ff0db1990f3.mp3?source=feed"/>
-                <guid>https://durchstarter-podcast.podigee.io/647-Ein%20Satz,%20der%20alles%20ver%C3%A4ndert%20-%20DURCHSTARTER%20PODCAST%20CLASSICS</guid>
+                <link>https://www.horeb.org/xyz/podcast/kurs0/20250510kurs0.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.horeb.org/xyz/podcast/kurs0/20250510kurs0.mp3"/>
+                <guid>https://www.horeb.org/xyz/podcast/kurs0/20250510kurs0.mp3</guid>
                 
             </item><item>
-                <title>CD Tipp Yo-Yo Ma, Andris Nelsons und Boston Symphony mit Schostakowitsch BRKL</title>
-                <description>Seit 2014 ist Andris Nelsons beim Boston Symphony Orchestra Chefdirigent. Gleich in seiner ersten Saison hat Nelsons mit einem Schostakowitsch-Zyklus begonnen, der jetzt zum 50. Todestag des Komponisten bei der Deutschen Grammophon komplett vorliegt. Für die beiden Cellokonzerte von Schostakowitsch konnte Nelsons den bald 70-jährigen Starcellisten Yo-Yo Ma gewinnen.
-Feed: https://feeds.br.de/cd-tipp/feed.xml</description>
+                <title>PR neu denken: Starke Story, starke Wirkung (mit Jannis Johannmeier #224)</title>
+                <description>
+&lt;p&gt;&#34;Story first&#34; ist die klare Empfehlung von Jannis Johannmeier. Der Gründer der Agentur The Trailblazers spricht im Podcast über neue Wege der Unternehmenskommunikation, den Abschied von der klassischen Pressemitteilung und warum echte PR heute bei den Menschen beginnt – nicht bei den Medien...
+Feed: https://fuer-gruender.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.br.de/mediathek/podcast/cd-tipp/cd-tipp-yo-yo-ma-andris-nelsons-und-boston-symphony-mit-schostakowitsch-brkl/2106298</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2106298/c/feed/cd-tipp-yo-yo-ma-andris-nelsons-und-boston-symphony-mit-schostakowitsch-brkl.mp3"/>
-                <guid>https://www.br.de/mediathek/podcast/cd-tipp/cd-tipp-yo-yo-ma-andris-nelsons-und-boston-symphony-mit-schostakowitsch-brkl/2106298</guid>
+                <link>https://fuer-gruender.podigee.io/224-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1912888-m-a05b1b1898a4252fbd20c28c004f31c2.mp3?source=feed"/>
+                <guid>https://fuer-gruender.podigee.io/224-neue-episode</guid>
                 
             </item>
         </channel>
