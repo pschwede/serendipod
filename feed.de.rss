@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 18 May 2025 04:32:45 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 19 May 2025 04:33:38 +0200</lastBuildDate>
             <item>
-                <title>Wie geht Rosenkranzbeten?</title>
-                <description>Ref.: Pfr. Helmut Epp, Immenstadt
-Der Rosenkranz begleitet Menschen seit Jahrhunderten auf ihrem Weg mit Gott. Heute wird er häufig unterschätzt. Aus Unwissenheit oder auch einfach, weil das Rosenkranzbeten schwer fällt. Der Kurs 0 mit Pfr. Helmut Epp will hier Abhilfe schaffen. Egal, ob Sie Rosenkranz-Anfänger sind oder schon Erfahrung haben - diese Sendung bietet Hilfestellungen, um durch das Rosenkranzgebet Gott tiefer zu begegnen. 
-Feed: http://www.horeb.org/xyz/podcast/kurs0/kurs0.xml</description>
+                <title>Folge 112: De-Googling - Detox fürs Digitale</title>
+                <description>In dieser Folge von Autoweird.fm nimmt Benedikt die Zuhörer mit auf seine wahnwitzige Reise des &#34;De-Googlings&#34; – ein Selbstexperiment zwischen digitaler Freiheit und frickeligem Bastelwahn, bei dem sein Homelab mehr Dienste hostet als manches mitteleuropäische Rechenzentrum und er über Open-Source-Alternativen wie NextCloud, Signal und GrapheneOS schwärmt...
+Feed: https://autoweird.fm/feed/podcast/</description>
                 
                 
-                <link>https://www.horeb.org/xyz/podcast/kurs0/20250510kurs0.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.horeb.org/xyz/podcast/kurs0/20250510kurs0.mp3"/>
-                <guid>https://www.horeb.org/xyz/podcast/kurs0/20250510kurs0.mp3</guid>
+                <link>https://autoweird.fm/2025/05/13/folge-112-de-googling-detox-fuers-digitale/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://autoweird.fm/podlove/file/350/s/feed/c/podcast/folge-112-de-googling.mp3"/>
+                <guid>https://autoweird.fm/2025/05/13/folge-112-de-googling-detox-fuers-digitale/</guid>
                 
             </item><item>
-                <title>PR neu denken: Starke Story, starke Wirkung (mit Jannis Johannmeier #224)</title>
-                <description>
-&lt;p&gt;&#34;Story first&#34; ist die klare Empfehlung von Jannis Johannmeier. Der Gründer der Agentur The Trailblazers spricht im Podcast über neue Wege der Unternehmenskommunikation, den Abschied von der klassischen Pressemitteilung und warum echte PR heute bei den Menschen beginnt – nicht bei den Medien...
-Feed: https://fuer-gruender.podigee.io/feed/mp3</description>
+                <title>Schauspielerin Nova Meierhenrich</title>
+                <description>Schauspielerin Nova Meierhenrich erzählt bei Silvia, wie sehr sie die Diskussion über ihr Buch „Lebensschlenker“ freut, dass sie froh ist, ihre Geschichte über ihren unerfüllten Kinderwunsch mit anderen geteilt zu haben und sie sehr berührende Reaktionen bekommt...
+Feed: http://resource.ffh.de/podcasts/ffh/silviaamsonntag.rss</description>
                 
                 
-                <link>https://fuer-gruender.podigee.io/224-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1912888-m-a05b1b1898a4252fbd20c28c004f31c2.mp3?source=feed"/>
-                <guid>https://fuer-gruender.podigee.io/224-neue-episode</guid>
+                <link>https://www.ffh.de/podcast/379-silvia-am-sonntag-der-talk/episode-14266.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://download.ffh.de/fileadmin/fm-dam/ffh.de/podcast/podcast-nova-meierhenrich.mp3"/>
+                <guid>https://www.ffh.de/podcast/379-silvia-am-sonntag-der-talk/episode-14266.html</guid>
                 
             </item>
         </channel>

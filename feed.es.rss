@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 18 May 2025 04:32:55 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 19 May 2025 04:33:45 +0200</lastBuildDate>
             <item>
-                <title>IV Domingo de Cuaresma (C)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Lucas 15, 1-3. 11-32. Gloria a ti, Señor. En aquel tiempo, se acercaban a Jesús &amp;#8230;
-Feed: http://feed.quechilero.com/PodcastCatedralDeEscuintla</description>
+                <title>Joyas de Chi kung por Máximo Moreno</title>
+                <description>M&amp;aacute;ximo nos propone dos ejercicios Joyas del Chikung, y te invita a participar en el retiro del mes de mayo.&amp;iexcl;Animaros! 
+Aprende esto y mucho m&amp;aacute;s durante el retiro de Chi Kung programado para el 23-24-25 de mayo en Cercedilla, Madrid. &amp;iexcl;Te esperamos!
+Info: https://www.solahimsa.org/curso/retiro-chi-kung-y-tai-chi-con-maximo-moreno/
+Feed: https://www.ivoox.com/de/depodcast-sol-ahimsa_fg_f1407362_filtro_1.xml</description>
                 
                 
-                <link>https://catedraldeescuintla.com/iv-domingo-de-cuaresma-c-2025/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=d4a7cbf0-0244-5cca-b5f7-502b9b5a3298/catedraldeescuintla.com/podcast-download/8728/iv-domingo-de-cuaresma-c-2025.mp3"/>
-                <guid>https://catedraldeescuintla.com/iv-domingo-de-cuaresma-c-2025/</guid>
+                <link>https://www.ivoox.com/joyas-chi-kung-maximo-moreno-audios-mp3_rf_146505516_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/joyas-chi-kung-maximo-moreno_mf_146505516_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/joyas-chi-kung-maximo-moreno-audios-mp3_rf_146505516_1.html</guid>
                 
             </item><item>
-                <title>Como lo oyes - Black Boooom! - 16/05/25</title>
-                <description>Black Boooom!
-Feed: http://api.rtve.es/api/programas/22290/audios.rss</description>
+                <title>20 millones en la pared | El Francotirarock</title>
+                <description>Álex Clavero desentraña el escándalo del jefe antiblanqueo que guardó su fortuna… ¡entre cemento y viruta!
+Feed: https://www.rockfm.fm/api/es/programas/el-pirata-y-su-banda/el-francotirarock/audios/rss.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/como-lo-oyes/black-boooom-16-05-25/16583861/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16583861.mp3"/>
-                <guid>https://www.rtve.es/play/audios/como-lo-oyes/black-boooom-16-05-25/16583861/</guid>
+                <link>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/episodios/20-millones-pared-francotirarock-20250516_59194.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.rockfm.fm/uploads/2025/05/16/Op-YTUZF-rkv-QNvJUb-u.mp3"/>
+                <guid>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/episodios/20-millones-pared-francotirarock-20250516_59194.html</guid>
                 
             </item>
         </channel>

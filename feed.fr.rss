@@ -9,27 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 18 May 2025 04:32:50 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 19 May 2025 04:33:41 +0200</lastBuildDate>
             <item>
-                <title>Les orphelins du Titanic</title>
-                <description>Les orphelins du Titanic
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20108.xml</description>
+                <title>Quels arbustes fleuris choisir en cette saison ?</title>
+                <description>Quels arbustes fleuris choisir en cette saison ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13652.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/les-odyssees/podcasts-natifs-du-dimanche-23-mars-2025-8506248</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/df906382-b2f5-4fea-8d70-275a2a02ba4c/20108-15.04.2025-ITEMA_24100719-2025F35387E0005-NET_MFI_E7333BCF-C7DF-42B2-834C-28E0A29F4B30-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/les-odyssees/podcasts-natifs-du-dimanche-23-mars-2025-8506248</guid>
+                <link>https://www.francebleu.fr/emissions/cote-jardin-ici-touraine/quels-arbustes-fleuris-choisir-en-cette-saison-2092969</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/4cdcd446-0e56-4161-b86b-139e9b3ecbb6/13652-17.05.2025-ITEMA_24138634-2025B22344S0137-NET_37A_305B4CC2-EC81-42BD-A7F8-FDA7DDFF0B91-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/cote-jardin-ici-touraine/quels-arbustes-fleuris-choisir-en-cette-saison-2092969</guid>
                 
             </item><item>
-                <title>#246 - La monnaie libre Ğ1 et Duniter - La chanson française mais amusante de KPTN - Chronique F/H/X de Florence Chabanois</title>
-                <description>&lt;p&gt;Au programme de la 246e émission diffusée mardi 6 mai 2025 à 15 h 30 :&lt;/p&gt;
-&lt;ul class=&#34;spip&#34; role=&#34;list&#34;&gt;&lt;li&gt; sujet principal : la monnaie libre Ğ1 et Duniter, avec Hugo Trentesaux, Maaltir, ainsi que Sarah du collectif MàJ-V2...
-Feed: https://april.org/lav.xml</description>
+                <title>Retrouvez « J’ai rêvé trop fort », le nouveau podcast de Bababam </title>
+                <description>On rêve tous. Des rêves étranges, drôles, troublants... Qui en disent long, très long sur nous.
+&#34;J&#39;ai rêvé trop fort », le nouveau podcast de Bababam, vous plonge dans les nuits de vos personnalités préférées. Dans chaque épisode, un.e invité.e partage, au micro de Louis Cattelat, ses rêves les plus fous et ses souvenirs de nuits les plus mouvementées, pour une exploration dans son imaginaire nocturne.
+Une conversation drôle, intime et pop !
+Le podcast est à écouter ici...
+Feed: https://feeds.megaphone.fm/BABA7148388036</description>
                 
                 
-                <link>https://www.libreavous.org/246-la-monnaie-libre-g1-et-duniter-la-chanson-francaise-mais-amusante-de-kptn</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20250506/libre-a-vous-20250506.ogg"/>
-                <guid>https://www.libreavous.org/246-la-monnaie-libre-g1-et-duniter-la-chanson-francaise-mais-amusante-de-kptn</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA6904263026.mp3?updated=1744704189"/>
+                <guid></guid>
                 
             </item>
         </channel>

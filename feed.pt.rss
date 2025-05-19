@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 18 May 2025 04:33:00 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 19 May 2025 04:33:48 +0200</lastBuildDate>
             <item>
-                <title>Petit Invest 72 – Natalidade e crescimento econômico</title>
-                <description>INSIDER STORE
-Cupom: PETIT
-https://creators.insiderstore.com.br/PETIT
-#insiderstore 
-Neste episódio, discutimos os impactos do declínio da taxa de natalidade no Brasil, com base nos dados mais recentes de 2024. A queda contínua na taxa de fecundidade...
-Feed: https://www.spreaker.com/show/5659715/episodes/feed</description>
+                <title>Noticiário (17:00 CET)</title>
+                <description>
+Feed: https://www.vaticannews.va/pt/podcast/programa-brasileiro.podcast.xml</description>
                 
                 
-                <link>https://www.spreaker.com/episode/petit-invest-72-natalidade-e-crescimento-economico--66124447</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/66124447/invest.mp3"/>
-                <guid>https://www.spreaker.com/episode/petit-invest-72-natalidade-e-crescimento-economico--66124447</guid>
+                <link>https://www.vaticannews.va/pt/podcast/programa-brasileiro/noticiario-17-00-cet.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.vaticannews.va/media/audio/program/6441/brasiliano_3_dom_180525.mp3"/>
+                <guid>https://www.vaticannews.va/pt/podcast/programa-brasileiro/noticiario-17-00-cet.html</guid>
                 
             </item><item>
-                <title>O autismo e a igreja - BTCast ABC2 076</title>
-                <description>Muito bem , muito bem, muito bem, está no ar mais um BTCast ABC2! No episódio de hoje, Bibo e Tiago Pereira Bruno Mori Porreca e Davi Nogueira sobre o acolhimento a pessoas autistas na família e na igreja. Em 02 de abril tivemos o Dia Nacional da Consc...
-Feed: https://bibotalk.com/categoria/podcast/btcast-abc2/feed/</description>
+                <title>Corvos</title>
+                <description>&lt;p&gt;Corvos são inteligentes? Separe trinta minutinhos do seu dia e descubra, com Mila Massuda, como cientistas desvendam a inteligência dos corvos e o que isso diz sobre memória, alianças e até política no mundo animal...
+Feed: https://anchor.fm/s/da10dcd8/podcast/rss</description>
                 
                 
-                <link>https://bibotalk.com/podcast/o-autismo-e-a-igreja-btcast-abc2-076/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/bibotalk/bibotalk.com/btcast/btcast_abc2_076.mp3"/>
-                <guid>https://bibotalk.com/podcast/o-autismo-e-a-igreja-btcast-abc2-076/</guid>
+                <link>https://podcasters.spotify.com/pod/show/biologia-em-meia-ho/episodes/Corvos-e32icbj</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO7596557902.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/biologia-em-meia-ho/episodes/Corvos-e32icbj</guid>
                 
             </item>
         </channel>
