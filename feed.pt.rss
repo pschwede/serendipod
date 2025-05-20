@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 19 May 2025 04:33:48 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 20 May 2025 04:30:34 +0200</lastBuildDate>
             <item>
-                <title>Noticiário (17:00 CET)</title>
-                <description>
-Feed: https://www.vaticannews.va/pt/podcast/programa-brasileiro.podcast.xml</description>
+                <title>DuplaDe2 #3: RoboCop</title>
+                <description>Meio homem, meio máquina, um tira total. Dirigido por Paul Verhoeven, Robocop mostra um futuro distópico cada vez mais próximo da realidade, no qual o corpo de um policial não passa de propriedade, e a violência é a única resposta, principalmente para um ciborgue em busca de memórias e vingança.
+Feed: https://feeds.feedburner.com/bonusstagepodcast</description>
                 
                 
-                <link>https://www.vaticannews.va/pt/podcast/programa-brasileiro/noticiario-17-00-cet.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.vaticannews.va/media/audio/program/6441/brasiliano_3_dom_180525.mp3"/>
-                <guid>https://www.vaticannews.va/pt/podcast/programa-brasileiro/noticiario-17-00-cet.html</guid>
+                <link>https://podcasters.spotify.com/pod/show/bonuscast/episodes/DuplaDe2-3-RoboCop-e32rt4c</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/106cb064/podcast/play/102675020/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2Fadb362e9-4944-59e1-8163-c30c39dafc46.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/bonuscast/episodes/DuplaDe2-3-RoboCop-e32rt4c</guid>
                 
             </item><item>
-                <title>Corvos</title>
-                <description>&lt;p&gt;Corvos são inteligentes? Separe trinta minutinhos do seu dia e descubra, com Mila Massuda, como cientistas desvendam a inteligência dos corvos e o que isso diz sobre memória, alianças e até política no mundo animal...
-Feed: https://anchor.fm/s/da10dcd8/podcast/rss</description>
+                <title>Check up S15E003</title>
+                <description>&lt;p&gt;Francisco Branco e Maria Joaquina Madeira comentam a atualidade.&lt;/p&gt;
+
+Feed: https://anchor.fm/s/bd11bc88/podcast/rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/biologia-em-meia-ho/episodes/Corvos-e32icbj</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO7596557902.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/biologia-em-meia-ho/episodes/Corvos-e32icbj</guid>
+                <link>https://podcasters.spotify.com/pod/show/check-up4/episodes/Check-up-S15E003-e331k6h</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/bd11bc88/podcast/play/102862481/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-19%2F400552953-44100-2-6b95a83bb4758.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/check-up4/episodes/Check-up-S15E003-e331k6h</guid>
                 
             </item>
         </channel>
