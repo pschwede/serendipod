@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 20 May 2025 04:30:24 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 May 2025 04:31:02 +0200</lastBuildDate>
             <item>
-                <title>Der Zug durch das Nebelmoor, Teil 13</title>
-                <description>Der DSA3-Let&#39;sPlay-Podcast
-Feed: https://schwafelhelden.podigee.io/feed/mp3</description>
+                <title>Habemus Podcast! - Folge 126</title>
+                <description>Nicht nur in Rom raucht es.
+Feed: https://letscast.fm/podcasts/die-ossi-der-wessi-b54b751b/feed</description>
                 
                 
-                <link>https://schwafelhelden.podigee.io/198-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1931646-m-b61308d01fe36e91723daf7e68e783c8.mp3?source=feed"/>
-                <guid>https://schwafelhelden.podigee.io/198-neue-episode</guid>
+                <link>https://dieossiderwessi.letscast.fm/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/566a56ad/episode/75c02419.mp3?t=1747346592"/>
+                <guid>https://dieossiderwessi.letscast.fm/</guid>
                 
             </item><item>
-                <title>Episode 300: Prequel 300</title>
-                <description>&lt;p&gt;Ein kleiner Hinweis für euch, keine Angst, richtige Folge kommt.&lt;/p&gt;
-
-Feed: https://anchor.fm/s/96cb390/podcast/rss</description>
+                <title>tagesschau vor 20 Jahren</title>
+                <description>tagesschau vor 20 Jahren
+Feed: https://www.tagesschau.de/export/podcast/tagesschau-vor-20-jahren/</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/benzingespraeche/episodes/Episode-300-Prequel-300-e331ueu</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/96cb390/podcast/play/102872990/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-19%2Fdb635504-c9d6-c39c-c3d9-33af0e4b8889.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/benzingespraeche/episodes/Episode-300-Prequel-300-e331ueu</guid>
+                <link>https://www.tagesschau.de/multimedia/sendung/tagesschau_vor_20_jahren/audio-216470.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.tagesschau.de/audio/2025/0514/AU-20250514-1255-0700.mp3"/>
+                <guid>https://www.tagesschau.de/multimedia/sendung/tagesschau_vor_20_jahren/audio-216470.html</guid>
                 
             </item>
         </channel>

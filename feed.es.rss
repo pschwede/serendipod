@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 20 May 2025 04:30:31 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 May 2025 04:31:10 +0200</lastBuildDate>
             <item>
-                <title>SSF Jazz en el Cine 2a parte 11 abril 2025</title>
-                <description>Hoy te compartimos la segunda parte del episodio de Jazz en el cine
-Feed: https://www.ivoox.com/podcast-sonido-sin-fronteras_fg_f1155767_filtro_1.xml</description>
+                <title>IV Domingo de Cuaresma (C)</title>
+                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Lucas 15, 1-3. 11-32. Gloria a ti, Señor. En aquel tiempo, se acercaban a Jesús &amp;#8230;
+Feed: http://feed.quechilero.com/PodcastCatedralDeEscuintla</description>
                 
                 
-                <link>https://www.ivoox.com/ssf-jazz-cine-2a-parte-11-audios-mp3_rf_146031194_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/ssf-jazz-cine-2a-parte-11_mf_146031194_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/ssf-jazz-cine-2a-parte-11-audios-mp3_rf_146031194_1.html</guid>
+                <link>https://catedraldeescuintla.com/iv-domingo-de-cuaresma-c-2025/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=d4a7cbf0-0244-5cca-b5f7-502b9b5a3298/catedraldeescuintla.com/podcast-download/8728/iv-domingo-de-cuaresma-c-2025.mp3"/>
+                <guid>https://catedraldeescuintla.com/iv-domingo-de-cuaresma-c-2025/</guid>
                 
             </item><item>
-                <title>2025-04-26 Ingenuino</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>De película - Almudena y Lo que queda de ti en De Película - 17/05/25</title>
+                <description>Almudena y Lo que queda de ti en De Película
+Feed: http://api.rtve.es/api/programas/1921/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://comunicacionestian.com/programas_radio/Flamen/2025-04-26Ingenuino.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/de-pelicula-rne/almudena-queda-pelicula-17-05-25/16584321/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16584321.mp3"/>
+                <guid>https://www.rtve.es/play/audios/de-pelicula-rne/almudena-queda-pelicula-17-05-25/16584321/</guid>
                 
             </item>
         </channel>
