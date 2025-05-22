@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 21 May 2025 04:31:10 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 22 May 2025 04:31:56 +0200</lastBuildDate>
             <item>
-                <title>IV Domingo de Cuaresma (C)</title>
-                <description>Palabra, Espíritu y Vida. Lectura del santo Evangelio según san Lucas 15, 1-3. 11-32. Gloria a ti, Señor. En aquel tiempo, se acercaban a Jesús &amp;#8230;
-Feed: http://feed.quechilero.com/PodcastCatedralDeEscuintla</description>
+                <title>Tarataña - Finde viajero 2: desde la guarida de El Naán - 18/05/25</title>
+                <description>Finde viajero 2: desde la guarida de El Naán
+Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
                 
                 
-                <link>https://catedraldeescuintla.com/iv-domingo-de-cuaresma-c-2025/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=d4a7cbf0-0244-5cca-b5f7-502b9b5a3298/catedraldeescuintla.com/podcast-download/8728/iv-domingo-de-cuaresma-c-2025.mp3"/>
-                <guid>https://catedraldeescuintla.com/iv-domingo-de-cuaresma-c-2025/</guid>
+                <link>https://www.rtve.es/play/audios/taratana/finde-viajero-2-desde-guarida-naan-18-05-25/16585088/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16585088.mp3"/>
+                <guid>https://www.rtve.es/play/audios/taratana/finde-viajero-2-desde-guarida-naan-18-05-25/16585088/</guid>
                 
             </item><item>
-                <title>De película - Almudena y Lo que queda de ti en De Película - 17/05/25</title>
-                <description>Almudena y Lo que queda de ti en De Película
-Feed: http://api.rtve.es/api/programas/1921/audios.rss</description>
+                <title>Como informar de un error para que Albert lo arregle</title>
+                <description>&lt;p&gt;Este episodio es el audio sacado de la charla que Albert dio en la AkademyES hace un año en valencia.
+Podéis verlo en https://tube.kockatoo.org/w/2bLob8KuYVUjqLLx7MPT4z, pero nos ha parecido que su contenido es apropiado para poder escucharse solo.
+Como son cortas os dejamos en la descripción más abajo las notas de la presentación y aquí un enlace al PDF.&lt;/p&gt;
+&lt;p&gt;Artículo original con todas las notas en https://kdeexpress.gitlab...
+Feed: https://kdeexpress.gitlab.io/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/de-pelicula-rne/almudena-queda-pelicula-17-05-25/16584321/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16584321.mp3"/>
-                <guid>https://www.rtve.es/play/audios/de-pelicula-rne/almudena-queda-pelicula-17-05-25/16584321/</guid>
+                <link>https://kdeexpress.gitlab.io/posts/kdeexpress/45-kde-express/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=a9a56b87-575a-5f6f-9636-cdf7b73e6230/archive.org/download/45-kde-express/45-KDE_Express.mp3"/>
+                <guid>https://kdeexpress.gitlab.io/posts/kdeexpress/45-kde-express/</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 21 May 2025 04:31:02 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 22 May 2025 04:31:48 +0200</lastBuildDate>
             <item>
-                <title>Habemus Podcast! - Folge 126</title>
-                <description>Nicht nur in Rom raucht es.
-Feed: https://letscast.fm/podcasts/die-ossi-der-wessi-b54b751b/feed</description>
+                <title>34. Spieltag: Moritz &#34;100&#34; Percy</title>
+                <description>Moritz macht´s und holt mit 100 Punkten den Tagessieg. Ich lasse es mir aber nicht nehmen 50% für mich zu deklarieren... :) 
+Feed: https://feeds.buzzsprout.com/1362829.rss</description>
                 
                 
-                <link>https://dieossiderwessi.letscast.fm/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/566a56ad/episode/75c02419.mp3?t=1747346592"/>
-                <guid>https://dieossiderwessi.letscast.fm/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1362829/episodes/17157871-34-spieltag-moritz-100-percy.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>tagesschau vor 20 Jahren</title>
-                <description>tagesschau vor 20 Jahren
-Feed: https://www.tagesschau.de/export/podcast/tagesschau-vor-20-jahren/</description>
+                <title>Eurovision-Eskalation: Ein legendäres Wochenende</title>
+                <description>Zwischen ESC-Party und Wohnungsbesichtigung
+Feed: https://rundfunk17.de/feed/podcast</description>
                 
                 
-                <link>https://www.tagesschau.de/multimedia/sendung/tagesschau_vor_20_jahren/audio-216470.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.tagesschau.de/audio/2025/0514/AU-20250514-1255-0700.mp3"/>
-                <guid>https://www.tagesschau.de/multimedia/sendung/tagesschau_vor_20_jahren/audio-216470.html</guid>
+                <link>https://rundfunk17.de/eurovision-eskalation-rundfunk17-folge-365</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/rundfunk_17/rundfunk17.de/wp-content/uploads/2025/05/365-escparty-duessldoof.mp3"/>
+                <guid>https://rundfunk17.de/eurovision-eskalation-rundfunk17-folge-365</guid>
                 
             </item>
         </channel>
