@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 22 May 2025 04:31:56 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 23 May 2025 04:30:22 +0200</lastBuildDate>
             <item>
-                <title>Tarataña - Finde viajero 2: desde la guarida de El Naán - 18/05/25</title>
-                <description>Finde viajero 2: desde la guarida de El Naán
-Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
+                <title>Turbo 3 - Turnstile | Robbie Williams con Tony Iommi | Paul Weller - 22/05/25</title>
+                <description>Turnstile | Robbie Williams con Tony Iommi | Paul Weller
+Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/taratana/finde-viajero-2-desde-guarida-naan-18-05-25/16585088/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16585088.mp3"/>
-                <guid>https://www.rtve.es/play/audios/taratana/finde-viajero-2-desde-guarida-naan-18-05-25/16585088/</guid>
+                <link>https://www.rtve.es/play/audios/turbo-3/turnstile-robbie-williams-tony-iommi-paul-weller-22-05-25/16593033/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16593033.mp3"/>
+                <guid>https://www.rtve.es/play/audios/turbo-3/turnstile-robbie-williams-tony-iommi-paul-weller-22-05-25/16593033/</guid>
                 
             </item><item>
-                <title>Como informar de un error para que Albert lo arregle</title>
-                <description>&lt;p&gt;Este episodio es el audio sacado de la charla que Albert dio en la AkademyES hace un año en valencia.
-Podéis verlo en https://tube.kockatoo.org/w/2bLob8KuYVUjqLLx7MPT4z, pero nos ha parecido que su contenido es apropiado para poder escucharse solo.
-Como son cortas os dejamos en la descripción más abajo las notas de la presentación y aquí un enlace al PDF.&lt;/p&gt;
-&lt;p&gt;Artículo original con todas las notas en https://kdeexpress.gitlab...
-Feed: https://kdeexpress.gitlab.io/feed</description>
+                <title>2025-04-26 Ingenuino</title>
+                <description>
+Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
                 
                 
-                <link>https://kdeexpress.gitlab.io/posts/kdeexpress/45-kde-express/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=a9a56b87-575a-5f6f-9636-cdf7b73e6230/archive.org/download/45-kde-express/45-KDE_Express.mp3"/>
-                <guid>https://kdeexpress.gitlab.io/posts/kdeexpress/45-kde-express/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://comunicacionestian.com/programas_radio/Flamen/2025-04-26Ingenuino.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

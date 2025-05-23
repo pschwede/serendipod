@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 22 May 2025 04:31:52 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 23 May 2025 04:30:18 +0200</lastBuildDate>
             <item>
-                <title>1945, la Libération… et après ? (1/5) : Un état des lieux</title>
-                <description>1945, la Libération… et après ? (1/5) : Un état des lieux
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14498.xml</description>
+                <title>Malcolm X, colère noire 1/5 : Meurtre à Harlem</title>
+                <description>Malcolm X, colère noire 1/5 : Meurtre à Harlem
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14373.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/musicopolis/1945-la-liberation-et-apres-1-5-un-etat-des-lieux-2531566</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/0825bf3d-d16b-4a42-a644-2674f715ff35/14498-01.05.2025-ITEMA_24095787-2024M23884E0026-ITE_00147895_RSCE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/musicopolis/1945-la-liberation-et-apres-1-5-un-etat-des-lieux-2531566</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/grandes-traversees</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a16b6521-165f-412f-8aac-7511ddf71a89/14373-17.05.2025-ITEMA_24138117-2025C49904E0001-ITE_00150356_RSCE-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/grandes-traversees</guid>
                 
             </item><item>
-                <title>Le jazz spirituel du troubadour Alabaster DePlume</title>
-                <description>Le jazz spirituel du troubadour Alabaster DePlume
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13416.xml</description>
+                <title>#86 - Au secours, je n&#39;arrête pas de penser</title>
+                <description>
+Tu as l’impression que ton mental ne s’arrête jamais ?
+Dans cet épisode, je t&#39;invite à comprendre ce qui se cache derrière ce flot de pensées, et comment l&#39;hypnose peut t&#39;aider à retrouver de l’espace à l’intérieur de toi.
+Pas besoin de se battre. P...
+Feed: https://feed.ausha.co/WdwOLFjKmQN5</description>
                 
                 
-                <link>https://www.radiofrance.fr/fip/podcasts/live-a-fip/le-jazz-spirituel-du-troubadour-alabaster-deplume-5641449</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/5e561a2c-9604-49b8-b5ee-b4a6da0b0b51/13416-20.05.2025-ITEMA_24141303-2025Y21958S0140-NET_MFP_DBB931DE-A606-4159-84D6-FAAD3DA4DEFA-21.mp3"/>
-                <guid>https://www.radiofrance.fr/fip/podcasts/live-a-fip/le-jazz-spirituel-du-troubadour-alabaster-deplume-5641449</guid>
+                <link>https://podcast.ausha.co/hypnomorphose/86-au-secours-je-n-arrete-pas-de-penser</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/gdK14S0pvDdd.mp3?t=1745847339"/>
+                <guid>https://podcast.ausha.co/hypnomorphose/86-au-secours-je-n-arrete-pas-de-penser</guid>
                 
             </item>
         </channel>
