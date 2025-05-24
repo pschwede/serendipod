@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 23 May 2025 04:30:18 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 24 May 2025 04:28:58 +0200</lastBuildDate>
             <item>
-                <title>Malcolm X, colère noire 1/5 : Meurtre à Harlem</title>
-                <description>Malcolm X, colère noire 1/5 : Meurtre à Harlem
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14373.xml</description>
+                <title>&#34;L&#39;objet boiteux qu&#39;est l&#39;Union Européenne va-t-il enfin être un outil de protection et de puissance ?&#34;</title>
+                <description>&lt;p&gt;Comment croire, ou simplement avoir de l&#39;espoir, dans cette Europe omniprésente mais pourtant incapable de protéger les citoyens du Vieux continent ? Natacha Polony, éditorialiste à « Marianne », s&#39;est penchée sur la question.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Le magazine Marianne est en kiosques et en ligne chaque jeudi.&lt;/p&gt;&lt;p&gt;&#34;Le goût de la vérité n&#39;empêche pas de prendre parti&#34;. Albert Camus&lt;/p&gt;&lt;p&gt;Marianne TV : https://tv.marianne.net/&lt;/p&gt;&lt;p&gt;Marianne.net : https://www.marianne...
+Feed: https://feeds.acast.com/public/shows/8b8d26fd-4cd3-42ed-85e3-e6598f45f208</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/grandes-traversees</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a16b6521-165f-412f-8aac-7511ddf71a89/14373-17.05.2025-ITEMA_24138117-2025C49904E0001-ITE_00150356_RSCE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/grandes-traversees</guid>
+                <link>https://shows.acast.com/vox-polony/episodes/lobjet-boiteux-quest-lunion-europeenne-va-t-il-enfin-etre-un</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/vox-polony/e/682db34210ca442d5fc27a0f/media.mp3"/>
+                <guid>https://shows.acast.com/vox-polony/episodes/lobjet-boiteux-quest-lunion-europeenne-va-t-il-enfin-etre-un</guid>
                 
             </item><item>
-                <title>#86 - Au secours, je n&#39;arrête pas de penser</title>
-                <description>
-Tu as l’impression que ton mental ne s’arrête jamais ?
-Dans cet épisode, je t&#39;invite à comprendre ce qui se cache derrière ce flot de pensées, et comment l&#39;hypnose peut t&#39;aider à retrouver de l’espace à l’intérieur de toi.
-Pas besoin de se battre. P...
-Feed: https://feed.ausha.co/WdwOLFjKmQN5</description>
+                <title>Le jazz spirituel du troubadour Alabaster DePlume</title>
+                <description>Le jazz spirituel du troubadour Alabaster DePlume
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13416.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/hypnomorphose/86-au-secours-je-n-arrete-pas-de-penser</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/gdK14S0pvDdd.mp3?t=1745847339"/>
-                <guid>https://podcast.ausha.co/hypnomorphose/86-au-secours-je-n-arrete-pas-de-penser</guid>
+                <link>https://www.radiofrance.fr/fip/podcasts/live-a-fip/le-jazz-spirituel-du-troubadour-alabaster-deplume-5641449</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/5e561a2c-9604-49b8-b5ee-b4a6da0b0b51/13416-20.05.2025-ITEMA_24141303-2025Y21958S0140-NET_MFP_DBB931DE-A606-4159-84D6-FAAD3DA4DEFA-21.mp3"/>
+                <guid>https://www.radiofrance.fr/fip/podcasts/live-a-fip/le-jazz-spirituel-du-troubadour-alabaster-deplume-5641449</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 23 May 2025 04:30:32 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 24 May 2025 04:29:12 +0200</lastBuildDate>
             <item>
-                <title>1. A family trapped in the fire</title>
-                <description>A father jumps from the window of his home to flee a housefire that kills his family.
-Feed: https://podcasts.files.bbci.co.uk/p0hvvqqr.rss</description>
+                <title>#2856  Below Deck Bonus: Chef Tzarina Plates It Up</title>
+                <description>The talented and charming Chef Tzarina @cheftzarina from Below Deck Down Under joins us to talk backstage antics, therapy, and the pressure of making a successful TV show while cooped up in a stainless steel cage with no AC. We had a great time, and so will you. Enjoy! @bravot
+Feed: https://rss.art19.com/watch-what-crappens-wondery</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0lcc2zj</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lcf6k5.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0lcc2zj</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/464230bb-3295-44d7-84d9-d58222c5652f.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Highlights: #215 – Tom Davidson on how AI-enabled coups could allow a tiny group to seize power</title>
-                <description>&lt;p&gt;Throughout history, technological revolutions have fundamentally shifted the balance of power in society. The Industrial Revolution created conditions where democracies could dominate for the first time — as nations needed educated, informed, and empowered citizens to deploy advanced technologies and remain competitive.&lt;/p&gt;&lt;p&gt;Unfortunately, there’s every reason to think artificial general intelligence (AGI) will reverse that trend...
-Feed: https://feeds.transistor.fm/80k-after-hours</description>
+                <title>D.J. Simon S.. Driving</title>
+                <description>Deep House..
+Feed: https://djsnaggle.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://80000hours.org/podcast/episodes/tom-davidson-ai-enabled-human-power-grabs/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.transistor.fm/6598b6f8/bac1348d.mp3"/>
-                <guid>https://80000hours.org/podcast/episodes/tom-davidson-ai-enabled-human-power-grabs/</guid>
+                <link>https://www.podomatic.com/podcasts/djsnaggle/episodes/2025-05-19T20_49_10-07_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://djsnaggle.podomatic.com/enclosure/2025-05-19T20_49_10-07_00.mp3?_=1747713124.17414513"/>
+                <guid>https://www.podomatic.com/podcasts/djsnaggle/episodes/2025-05-19T20_49_10-07_00</guid>
                 
             </item>
         </channel>

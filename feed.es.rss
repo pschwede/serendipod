@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 23 May 2025 04:30:22 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 24 May 2025 04:29:02 +0200</lastBuildDate>
             <item>
-                <title>Turbo 3 - Turnstile | Robbie Williams con Tony Iommi | Paul Weller - 22/05/25</title>
-                <description>Turnstile | Robbie Williams con Tony Iommi | Paul Weller
-Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
+                <title>Le echa Froot Loops al peto - Capítulo 259</title>
+                <description>¿Cómo así que Don Jairito está quedándose donde Checho? ¿Qué hace el mánager de Los Impopulares en esa casa? ¿Checho puede hablar con animales? ¿Paulo fue un niño soldado? ¿Checho se está volviendo viejo y tuvo un ataque de... EMPATÍA? Aquí está la...
+Feed: https://www.spreaker.com/show/4081707/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/turbo-3/turnstile-robbie-williams-tony-iommi-paul-weller-22-05-25/16593033/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16593033.mp3"/>
-                <guid>https://www.rtve.es/play/audios/turbo-3/turnstile-robbie-williams-tony-iommi-paul-weller-22-05-25/16593033/</guid>
+                <link>https://www.spreaker.com/episode/le-echa-froot-loops-al-peto-capitulo-259--66195966</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66195966/cap_259_los_impopulares_1.mp3"/>
+                <guid>https://www.spreaker.com/episode/le-echa-froot-loops-al-peto-capitulo-259--66195966</guid>
                 
             </item><item>
-                <title>2025-04-26 Ingenuino</title>
-                <description>
-Feed: http://www.comunicacionestian.com/programas_radio/Flamen/flamen.xml</description>
+                <title>El colegio invisible 23/05/2025</title>
+                <description>Escucha &#39;El Colegio invisible&#39;, el programa de misterio con Lorenzo Fernández Bueno y Laura Falcó en Onda Cero. 
+Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://comunicacionestian.com/programas_radio/Flamen/2025-04-26Ingenuino.mp3"/>
-                <guid></guid>
+                <link>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-23052025_20250523682fcb3760a5ec34359bcdbb.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://triton-vod.ondacero.es/?programa=ATRESMEDIA_EL_COLEGIO_INVISIBLE_P&amp;origen=/mp_audios4/2025/05/23/95999D98-E4E9-4A2E-B2E4-F6749ACD1A6A/95999D98-E4E9-4A2E-B2E4-F6749ACD1A6A.mp3&amp;audioId=682fcb15569f9a18667020b4"/>
+                <guid>https://www.ondacero.es/programas/colegio-invisible/podcast/el-colegio-invisible-23052025_20250523682fcb3760a5ec34359bcdbb.html</guid>
                 
             </item>
         </channel>
