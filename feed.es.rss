@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 25 May 2025 04:32:08 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 26 May 2025 04:32:21 +0200</lastBuildDate>
             <item>
-                <title>Cinefagia FM · Episodio 327 · 09-05-2025 · INSTINTO NOVENTERO</title>
-                <description>Tu programa de cine en Radio Kras: Actualidad cin&amp;eacute;faga, los estrenos, la taquilla, las noticias y nuestras recomendaciones, tambi&amp;eacute;n seri&amp;eacute;filas. Cl&amp;aacute;sicos No Tan Populares (Los blancos no la saben meter &amp;middot; A&amp;ntilde;o 1992) /  (Instinto B&amp;aacute;sico &amp;middot; A&amp;ntilde;o 1992) y nuestra BSO con temas de Mus y Fran Gayo en solitario, DEP.
-Feed: https://www.ivoox.com/cinefagia-fm_fg_f1127454_filtro_1.xml</description>
+                <title>De película - No es misión imposible, viajamos a Lanzarote - 24/05/25</title>
+                <description>No es misión imposible, viajamos a Lanzarote
+Feed: http://api.rtve.es/api/programas/1921/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/cinefagia-fm-episodio-327-09-05-2025-audios-mp3_rf_146444653_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cinefagia-fm-episodio-327-09-05-2025_mf_146444653_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/cinefagia-fm-episodio-327-09-05-2025-audios-mp3_rf_146444653_1.html</guid>
+                <link>https://www.rtve.es/play/audios/de-pelicula-rne/no-mision-imposible-viajamos-lanzarote-24-05-25/16594702/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16594702.mp3"/>
+                <guid>https://www.rtve.es/play/audios/de-pelicula-rne/no-mision-imposible-viajamos-lanzarote-24-05-25/16594702/</guid>
                 
             </item><item>
-                <title>Melodías pizarras - Música africana - 24/05/25</title>
-                <description>Música africana
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
+                <title>El típico programa - El Típico Programa Special Edition - 24/05/25</title>
+                <description>El Típico Programa Special Edition
+Feed: http://www.rtve.es/api/programas/144550/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/musica-africana-24-05-25/16595061/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16595061.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/musica-africana-24-05-25/16595061/</guid>
+                <link>https://www.rtve.es/play/audios/el-tipico-programa/tipico-programa-special-edition-24-05-25/16594935/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16594935.mp3"/>
+                <guid>https://www.rtve.es/play/audios/el-tipico-programa/tipico-programa-special-edition-24-05-25/16594935/</guid>
                 
             </item>
         </channel>

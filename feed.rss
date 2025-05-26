@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 25 May 2025 04:31:55 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 26 May 2025 04:32:10 +0200</lastBuildDate>
             <item>
-                <title>The Banquet Part 1</title>
-                <description>Crossroads Church Podcast 
-Feed: http://networkcmo.com/JesusisRealRadio/itunes/audio/</description>
+                <title>Seeing (and Loving) the Divine in The Everyday with Carrie Newcomer</title>
+                <description>How do ordinary moments become portals to the sacred? 
+On this episode of Learning How to See, Carrie Newcomer joins Brian and Carmen for a  conversation-and-concert that explores “short-form empathy,” the contemplative power of music, and the everyday practice of seeing, and being seen, through eyes of love...
+Feed: https://feeds.megaphone.fm/CFAC3846301578</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://s3-us-west-1.amazonaws.com/pixelark.online.church.media.center/90/0000090222/JIR20250523.mp36816942656698.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/CFAC2568240100.mp3?updated=1747839723"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Inside Europe 22 May 2025</title>
-                <description>On the show this week: Poland’s presidential elections reveal a country on a knife-edge, Exercise Hedgehog in Estonia and the Baltics’ hybrid warfare fears. Plus a Hungarian spy ring, Icelandic intrigue, Swiss bunkers, and Syrians returning home from Europe. A security special packed with stories from the frontlines of Europe’s shifting geopolitics.
-Feed: https://rss.dw.com/xml/podcast_inside-europe</description>
+                <title>How do you make T-rex leather?</title>
+                <description>Why would you do it and how does it compare to other alternatives to cow hide? Ellie, Laura and Antonia look at the process of growing skin in the lab to turn in to leather, so-called vegan alternatives, and what animal skins you can make leather from. They also consider ethics and sustainability...
+Feed: https://feed.podbean.com/techspeaking/feed.xml</description>
                 
                 
-                <link>https://www.dw.com/en/inside-europe-22-may-2025/audio-72637891?maca=en-podcast_inside-europe-949-xml-mrss</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/radiodownloaddw-a.akamaihd.net/Events/podcasts/en/949_podcast_inside-europe/F19C4AE1_2-podcast-949-72637891.mp3"/>
-                <guid>https://www.dw.com/en/inside-europe-22-may-2025/audio-72637891?maca=en-podcast_inside-europe-949-xml-mrss</guid>
+                <link>https://techspeaking.podbean.com/e/how-do-you-make-t-rex-leather/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/2qirwa275kyzh926/109_t-rex_leather.mp3"/>
+                <guid>https://techspeaking.podbean.com/e/how-do-you-make-t-rex-leather/</guid>
                 
             </item>
         </channel>

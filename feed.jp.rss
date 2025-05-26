@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 25 May 2025 04:32:22 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 26 May 2025 04:32:31 +0200</lastBuildDate>
             <item>
-                <title>Infectious Disease Puscast</title>
-                <description>On episode #80 of the Infectious Disease Puscast, Daniel and Sara review the infectious disease literature for the weeks of 4/24/25 – 5/7/25. Hosts:  and  Subscribe (free): , , email Become a  of Puscast! ...
-Feed: https://feeds.libsyn.com/413927/rss</description>
+                <title>ZAMP 329 – Scouts Guide to the Zombie Apocalypse</title>
+                <description>You know what&#39;s AWESOME!… Scouting! Or rather, Scouts Guide to the Zombie Apocalypse. Listen to us discuss and ponder about this 10-year-old gem that people seem to have missed out on. Hear about the trampoline scene and the cat lady scene.
+Feed: https://zombiesatemypodcast.com/feed/podcast/</description>
                 
                 
-                <link>https://www.microbe.tv/puscast/idp-080/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/15a810ea-19c2-4768-9362-218a3194a81f/Puscast080.mp3?dest-id=3433574"/>
-                <guid>https://www.microbe.tv/puscast/idp-080/</guid>
+                <link>https://zombiesatemypodcast.com/episode/zamp-329-scouts-guide-to-the-zombie-apocalypse/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/zamp/zombiesatemypodcast.com/wp-content/uploads/podcast/zamp329-17052025.mp3"/>
+                <guid>https://zombiesatemypodcast.com/episode/zamp-329-scouts-guide-to-the-zombie-apocalypse/</guid>
                 
             </item><item>
-                <title>HOW TO REDUCE ESTROGEN NATURALLY</title>
-                <description>HOW TO REDUCE ESTROGEN NATURALLY
-Feed: https://feeds.redcircle.com/571b7b66-798b-4fd3-ba77-812f5ac3401d</description>
+                <title>159 - Sad Happy - Circa Waves - Audio Judo</title>
+                <description>Matthew and Kyle talk about the &#34;happy&#34; side of the double album &#34;Sad Happy&#34; from 2020 by the alternative band, Circa Waves. 
+Do you really want to see what we look like while we record? Check out select episodes on our YouTube, you weirdo:
+⁠⁠https://www.youtube.com/channel/UCO8oo8oZkSLUqOuiiw8hD7Q⁠⁠
+If you like what you hear (and see) and want to support the podcast, you can become a Patreon supporter for as little as $1/month:
+⁠⁠https://www.patreon...
+Feed: https://feeds.megaphone.fm/audiojudo</description>
                 
                 
-                <link>https://workitladypodcast.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/audio3.redcircle.com/episodes/01fc870e-641c-414b-add1-2c100336bee7/stream.mp3"/>
-                <guid>https://workitladypodcast.com/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/traffic.megaphone.fm/PAN9564576182.mp3?updated=1747765475"/>
+                <guid></guid>
                 
             </item>
         </channel>
