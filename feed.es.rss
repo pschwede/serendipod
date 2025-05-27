@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 26 May 2025 04:32:21 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 27 May 2025 04:32:24 +0200</lastBuildDate>
             <item>
-                <title>De película - No es misión imposible, viajamos a Lanzarote - 24/05/25</title>
-                <description>No es misión imposible, viajamos a Lanzarote
-Feed: http://api.rtve.es/api/programas/1921/audios.rss</description>
+                <title>Crónica internacional - En Gaza, decenas de personas asesinadas durante el bombardeo israelí sobre una escuela en la que se refugiaban</title>
+                <description>En Gaza, decenas de personas asesinadas durante el bombardeo israelí sobre una escuela en la que se refugiaban
+Feed: https://www.rtve.es/api/programas/130031/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/de-pelicula-rne/no-mision-imposible-viajamos-lanzarote-24-05-25/16594702/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16594702.mp3"/>
-                <guid>https://www.rtve.es/play/audios/de-pelicula-rne/no-mision-imposible-viajamos-lanzarote-24-05-25/16594702/</guid>
+                <link>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-gaza-decenas-personas-asesinadas-durante-bombardeo-israeli-sobre-escuela-se-refugiaban/16596544/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16596544.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-gaza-decenas-personas-asesinadas-durante-bombardeo-israeli-sobre-escuela-se-refugiaban/16596544/</guid>
                 
             </item><item>
-                <title>El típico programa - El Típico Programa Special Edition - 24/05/25</title>
-                <description>El Típico Programa Special Edition
-Feed: http://www.rtve.es/api/programas/144550/audios.rss</description>
+                <title>Música y Letra: Emilio el Moro I - Canciones populares</title>
+                <description>Andrés Amorós inicia un ciclo dedicado al artista Emilio el Moro autor de canciones muy populares en los años 50 con canciones parodias.
+Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/el-tipico-programa/tipico-programa-special-edition-24-05-25/16594935/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16594935.mp3"/>
-                <guid>https://www.rtve.es/play/audios/el-tipico-programa/tipico-programa-special-edition-24-05-25/16594935/</guid>
+                <link>https://esradio.libertaddigital.com/musica-y-letra/2025-05-24/emilio-el-moro-i-canciones-populares-7256023/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/66150382/download.mp3?aw_0_1st.collectionid=musica-y-letra&amp;aw_0_1st.subcat=67"/>
+                <guid>https://esradio.libertaddigital.com/musica-y-letra/2025-05-24/emilio-el-moro-i-canciones-populares-7256023/</guid>
                 
             </item>
         </channel>

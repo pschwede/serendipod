@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 26 May 2025 04:32:14 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 27 May 2025 04:32:13 +0200</lastBuildDate>
             <item>
-                <title>133 DOD Overdrive Preamp 250 und DOD Gunslinger</title>
-                <description>Demo der beiden Verzerrer
-Feed: https://0twou6.podcaster.de/Gitarrenkram.rss</description>
+                <title>Pausen aushalten wie ein Profi – Mit diesem Wundermittel wird dein Vortrag zur Keynote</title>
+                <description>Warum Schweigen oft lauter wirkt als jedes Wort
+Feed: https://wirkewieduwillst.podigee.io/feed/aac</description>
                 
                 
-                <link>http://gitarrenkram.de</link>
-                <enclosure type="audio/mpeg" length="1" url="https://0twou6.podcaster.de/Gitarrenkram/media/Gitarrenkram-Folge133.mp3"/>
-                <guid>http://gitarrenkram.de</guid>
+                <link>https://wirkewieduwillst.podigee.io/306-pausen-aushalten-wie-ein-profi-warum-schweigen-oft-lauter-wirkt-als-jedes-wort</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1873238-m-42955874220ba8429d7a5eb4dd919973.m4a?source=feed"/>
+                <guid>https://wirkewieduwillst.podigee.io/306-pausen-aushalten-wie-ein-profi-warum-schweigen-oft-lauter-wirkt-als-jedes-wort</guid>
                 
             </item><item>
-                <title>04.05.2025 Wortbetrachtung</title>
-                <description>Ruth 2, 14-23
-Feed: https://predigt-feg-steinbach.podigee.io/feed/mp3</description>
+                <title>229 - David Beckham ist wütend</title>
+                <description>Wer hat David Beckham nur so wütend gemacht?
+Vincent, Daniel und Anne besprechen in dieser Folge die wichtigsten Spiele des 13. Spieltages, die einige große Überraschungen mit sich brachten. 
+LA Desaster
+Im Dezember standen sie sich im MLS Cup gegenüber und die LA Galaxy entschied damals diese Partie für sich. Nun stand das Rematch an - die New York Red Bulls gegen die LA Galaxy und das Spiel endete überraschend...
+Feed: https://meinsportpodcast.de/fussball/mls-podcast/feed/</description>
                 
                 
-                <link>https://predigt-feg-steinbach.podigee.io/205-2025-05-04</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1911873-m-7fccac544c7d1ed57c3965d0643a2ddb.mp3?source=feed"/>
-                <guid>https://predigt-feg-steinbach.podigee.io/205-2025-05-04</guid>
+                <link>https://meinsportpodcast.de/mls-podcast/229-david-beckham-ist-wuetend</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/254044/229-david-beckham-ist-wuetend.mp3?awCollectionId=10087&amp;awEpisodeId=254044"/>
+                <guid>https://meinsportpodcast.de/mls-podcast/229-david-beckham-ist-wuetend</guid>
                 
             </item>
         </channel>
