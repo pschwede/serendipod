@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 28 May 2025 04:31:38 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 29 May 2025 04:32:18 +0200</lastBuildDate>
             <item>
-                <title>Buy &amp; Hold - REALTALK zum Unternehmertum</title>
-                <description>&lt;p&gt;In dieser Podcast-Folge spreche ich offen und ehrlich über die Schattenseiten des Unternehmertums – abseits von Glanz, Freiheit und Erfolgsstories. Wer ein eigenes Unternehmen führt, kennt den Druck, die Verantwortung und die ständigen Herausforderungen. Gerade im Immobilienhandel ist der Alltag oft härter, als es nach außen wirkt...
-Feed: https://anchor.fm/s/ff6c0f5c/podcast/rss</description>
+                <title>„Drei Modell-Organismen und unzählige Forschungsfragen“ mit Prof. Dr. Jörg Albert</title>
+                <description>Prof. Dr. Jörg Albert ist seit 2023 Professor für „Sinnesphysiologie und Verhalten“ an der Fakultät VI Medizin und Gesundheitswissenschaften der Universität Oldenburg. 
+Als Sinnesbiologe kombiniert er in seiner Forschung Kenntnisse und Methoden nicht nur aus dieser Disziplin, sondern auch aus Physik, Chemie, Neurosensorik, Genetik und Mathematik. Bei den Modell-Organismen, mit denen er experimentiert, heißt es: „Je mehr Beine, desto besser“, denn das sind Fruchtfliegen, Mücken und Spinnen...
+Feed: https://hirngehoert.podcaster.de/Hirngehoert.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/fabian-jakobs/episodes/Buy--Hold---REALTALK-zum-Unternehmertum-e32vr17</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/ff6c0f5c/podcast/play/102803943/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-17%2F400474051-44100-2-430021a9db995.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/fabian-jakobs/episodes/Buy--Hold---REALTALK-zum-Unternehmertum-e32vr17</guid>
+                <link>https://hirnvomhahn.de/podcast/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://hirngehoert.podcaster.de/Hirngehoert/media/FINAL_albert.mp3"/>
+                <guid>https://hirnvomhahn.de/podcast/</guid>
                 
             </item><item>
-                <title>Vinylopresso Special@Klangschloss 2025 – Mit Zoë Më</title>
-                <description>Ein Wochenende voller Musik, Vinyl, analoger Magie und hochauflösendem Digitalsound – im märchenhaften Schloss Greifensee, das Markus Thomann seit 2006 mit seinem Projekt Klangschloss in ein audiophiles Refugium verwandelt. Hier treffen sich Musikliebhabe
-Feed: https://vinylopresso.ch/feed/m4a/</description>
+                <title>SV Weinberg und der Frauenfußball</title>
+                <description>Der SV Weinberg ist abgestiegen – sportlich bitter, doch auch Anlass für eine Bestandsaufnahme: Warum ist der Unterschied zwischen Frauen- und Männerfußball nach wie vor so groß? Unser Radiobeitrag wirft einen Blick zurück auf die bewegte Geschichte
+Feed: https://rabbitradio.de/feed/mp3/</description>
                 
                 
-                <link>https://vinylopresso.ch/2025/05/vinylopresso-specialklangschloss-2025-mit-zoe-me/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://vinylopresso.ch/podlove/file/284/s/feed/c/m4a/vp133-audion.m4a"/>
-                <guid>https://vinylopresso.ch/2025/05/vinylopresso-specialklangschloss-2025-mit-zoe-me/</guid>
+                <link>https://rabbitradio.de/highlights/sv-weinberg-und-der-frauenfussball/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rabbitradio.de/podlove/file/443/s/feed/c/mp3/250522_Frauenfussball.mp3"/>
+                <guid>https://rabbitradio.de/highlights/sv-weinberg-und-der-frauenfussball/</guid>
                 
             </item>
         </channel>
