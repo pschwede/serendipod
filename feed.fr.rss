@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 29 May 2025 04:32:22 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 30 May 2025 04:31:59 +0200</lastBuildDate>
             <item>
-                <title>Le fait discriminatoire</title>
-                <description>Le fait discriminatoire
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16260.xml</description>
+                <title>Malcolm X, colère noire 1/5 : Meurtre à Harlem</title>
+                <description>Malcolm X, colère noire 1/5 : Meurtre à Harlem
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14373.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/la-suite-dans-les-idees/le-fait-discriminatoire-6824611</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/d50fbc3f-fc4d-4480-95a5-18d46875d7d6/16260-22.05.2025-ITEMA_24143923-2025C6260S0142-NET_MFC_ED0BA1F6-57CD-44A7-84E5-81C086669132-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/la-suite-dans-les-idees/le-fait-discriminatoire-6824611</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/grandes-traversees</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a16b6521-165f-412f-8aac-7511ddf71a89/14373-17.05.2025-ITEMA_24138117-2025C49904E0001-ITE_00150356_RSCE-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/grandes-traversees</guid>
                 
             </item><item>
-                <title>(#114) La supercherie du romantisme - avec TIFFANY COOPER (autrice illustratrice et podcasteuse)</title>
-                <description>&lt;p&gt;&lt;strong&gt;Pour ce 114ème épisode de SENS CREATIF, nous recevons l&#39;incontournable TIFFANY COOPER, autrice illustratrice et créatrice du podcast &#34;Va Vers Ton Risque&#34;...
-Feed: https://feeds.acast.com/public/shows/617971aec9247f0012c7e521</description>
+                <title>Clap de fin à Cannes: Anaïs revient sur le palmarès (et la panne de courant)</title>
+                <description>&lt;p&gt;Après dix jours de compétition, quarante films, et une quantité indécente de cafés gratuits, l&#39;aventure cannoise d&#39;Anaïs s&#39;est achevé dans le chaos avec une panne de courant touchant toute la ville de Cannes: «Plus de feux de signalisation pour réguler le traffic, plus de distributeurs, plus de lumière, plus de coups de fil, plus rien. J&#39;ai l&#39;impression d&#39;être dans&amp;nbsp;Ravage&amp;nbsp;de Barjavel. Les commerçants ferment leur boutique.», confie-t-elle...
+Feed: https://feeds.360.audion.fm/HRmYIhh-6qRBWl5pbgQsw</description>
                 
                 
-                <link>https://shows.acast.com/senscreatif/episodes/114-tiffany-cooper</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/617971aec9247f0012c7e521/e/6820cf7327cd6226388655e4/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=6PFzY8Q7OsS-UvcsfGx0DdNCzRO92-u3GsD7IYGpb8I"/>
-                <guid>https://shows.acast.com/senscreatif/episodes/114-tiffany-cooper</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/bf52c7d0-2a97-4127-9a79-cea8515526bf.mp3?from=Fyyd"/>
+                <guid></guid>
                 
             </item>
         </channel>

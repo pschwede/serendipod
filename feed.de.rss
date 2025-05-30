@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 29 May 2025 04:32:18 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 30 May 2025 04:31:56 +0200</lastBuildDate>
             <item>
-                <title>„Drei Modell-Organismen und unzählige Forschungsfragen“ mit Prof. Dr. Jörg Albert</title>
-                <description>Prof. Dr. Jörg Albert ist seit 2023 Professor für „Sinnesphysiologie und Verhalten“ an der Fakultät VI Medizin und Gesundheitswissenschaften der Universität Oldenburg. 
-Als Sinnesbiologe kombiniert er in seiner Forschung Kenntnisse und Methoden nicht nur aus dieser Disziplin, sondern auch aus Physik, Chemie, Neurosensorik, Genetik und Mathematik. Bei den Modell-Organismen, mit denen er experimentiert, heißt es: „Je mehr Beine, desto besser“, denn das sind Fruchtfliegen, Mücken und Spinnen...
-Feed: https://hirngehoert.podcaster.de/Hirngehoert.rss</description>
+                <title>Folge #45 | Habemus Mutti</title>
+                <description>Ding, dong, der Papst ist tot! Aber die Insel wäre nicht die Insel, wenn sie nicht gleich den passenden Nachfolger präsentieren könnte! Und so schlittern André und Alex mit besten Aussichten in den Mai und feiern den Frühling mit ihrer Lieblingsbeschäftigung: Über die verrücktesten Nachrichten des Monats reden. Und da gab es neben Ostern eine ganze Menge...
+Feed: https://insel.podcaster.de/insel.rss</description>
                 
                 
-                <link>https://hirnvomhahn.de/podcast/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://hirngehoert.podcaster.de/Hirngehoert/media/FINAL_albert.mp3"/>
-                <guid>https://hirnvomhahn.de/podcast/</guid>
+                <link>https://insel.podcaster.de/insel/folge-45-habemus-mutti/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://main.podcast-hosting.org/insel.podcaster.de/insel/media/Die_Insel_-_Folge_-45_-_Habemus_Mutti.mp3?awCollectionId=at-hnfky&amp;awEpisodeId=at-hnfky-c922b4e40820fe0e59dead5d545e16018f08110f&amp;origin=feed&amp;v=1746111944"/>
+                <guid>https://insel.podcaster.de/insel/folge-45-habemus-mutti/</guid>
                 
             </item><item>
-                <title>SV Weinberg und der Frauenfußball</title>
-                <description>Der SV Weinberg ist abgestiegen – sportlich bitter, doch auch Anlass für eine Bestandsaufnahme: Warum ist der Unterschied zwischen Frauen- und Männerfußball nach wie vor so groß? Unser Radiobeitrag wirft einen Blick zurück auf die bewegte Geschichte
-Feed: https://rabbitradio.de/feed/mp3/</description>
+                <title>#169 Technical Insulation: A Guide to Fast and Easy Energy Cost Savings</title>
+                <description>Welcome to our latest format INNOVATION, EVOLUTION, REVOLUTION my personal innovative international industrial format. You will get much inspiration around innovation and sustainability in a purely industrial context. These come in two forms:&lt;br&gt;&lt;br&gt;Firstly, the anchoring LinkedIn Livestream (please press participate)&lt;br&gt;Secondly, the corresponding LinkedIn Newsletter (please subscribe soon)&lt;br&gt;&lt;br&gt;For starters, I plan one online event on each quarter to maintain high quality...
+Feed: https://letscast.fm/podcasts/composites-lounge-das-online-experten-netzwerk-315dca05/feed</description>
                 
                 
-                <link>https://rabbitradio.de/highlights/sv-weinberg-und-der-frauenfussball/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rabbitradio.de/podlove/file/443/s/feed/c/mp3/250522_Frauenfussball.mp3"/>
-                <guid>https://rabbitradio.de/highlights/sv-weinberg-und-der-frauenfussball/</guid>
+                <link>https://letscast.fm/sites/composites-lounge-das-online-experten-netzwerk-315dca05/episode/169-technical-insulation-a-guide-to-fast-and-easy-energy-cost-savings</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/333b5930/episode/b350501c.mp3?t=1746709087"/>
+                <guid>https://letscast.fm/sites/composites-lounge-das-online-experten-netzwerk-315dca05/episode/169-technical-insulation-a-guide-to-fast-and-easy-energy-cost-savings</guid>
                 
             </item>
         </channel>
