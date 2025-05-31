@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 30 May 2025 04:31:59 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 31 May 2025 04:30:12 +0200</lastBuildDate>
             <item>
-                <title>Malcolm X, colère noire 1/5 : Meurtre à Harlem</title>
-                <description>Malcolm X, colère noire 1/5 : Meurtre à Harlem
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14373.xml</description>
+                <title>Rediff : &#34;Frog Stomp&#34; de Silverchair</title>
+                <description>*Le premier album de Silverchair a 30 ans ! Et donc rediffusion de l&#39;épisode consacré à sa chronique.
+Episode diffusé le 29/05/2024.*
+Souvenez-vous, 1995, 3 ados sortaient un excellent premier album (et non, ça n&#39;est pas les Hanson).
+Voici ma chronique de Frosgtomp de Silverchair, écrite sur albumrock, et lue par Chrysostome, dont je ne saurais que vous conseiller le très bon podcast[ &#34;Chroniques de Zik&#34;.](https://www.vodio...
+Feed: https://recoversion.lepodcast.fr/rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/grandes-traversees</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a16b6521-165f-412f-8aac-7511ddf71a89/14373-17.05.2025-ITEMA_24138117-2025C49904E0001-ITE_00150356_RSCE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/grandes-traversees</guid>
+                <link>https://recoversion.lepodcast.fr/rediff-frog-stomp-de-silverchair</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/recoversion/rediff-frog-stomp-de-silverchair/enclosure.df8d6ee31b23571053bc060c59e4451e4620a36cc6a1d95e428ad114c99b31dc.mp3?p=f"/>
+                <guid>https://recoversion.lepodcast.fr/rediff-frog-stomp-de-silverchair</guid>
                 
             </item><item>
-                <title>Clap de fin à Cannes: Anaïs revient sur le palmarès (et la panne de courant)</title>
-                <description>&lt;p&gt;Après dix jours de compétition, quarante films, et une quantité indécente de cafés gratuits, l&#39;aventure cannoise d&#39;Anaïs s&#39;est achevé dans le chaos avec une panne de courant touchant toute la ville de Cannes: «Plus de feux de signalisation pour réguler le traffic, plus de distributeurs, plus de lumière, plus de coups de fil, plus rien. J&#39;ai l&#39;impression d&#39;être dans&amp;nbsp;Ravage&amp;nbsp;de Barjavel. Les commerçants ferment leur boutique.», confie-t-elle...
-Feed: https://feeds.360.audion.fm/HRmYIhh-6qRBWl5pbgQsw</description>
+                <title>144 podcast - Caroline Califano : De directrice financière à directrice de projets sportifs internationaux</title>
+                <description>
+Aujourd’hui, j’ai la joie d’accueillir dans le podcast une femme exceptionnelle, au parcours aussi riche qu’inspirant : Caroline Califano.
+Caroline en est à sa 3ᵉ vie professionnelle, et probablement pas la dernière. Elle démarre sa carrière dans la m...
+Feed: https://feed.ausha.co/b7XwQFeJV3Gx</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/bf52c7d0-2a97-4127-9a79-cea8515526bf.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/pourquoi-pas-moi/144-podcast-caroline-califano-de-directrice-financiere-a-directrice-de-projets-sportifs-internationaux</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bzwLDUVJrmgm.mp3?t=1748430201"/>
+                <guid>https://podcast.ausha.co/pourquoi-pas-moi/144-podcast-caroline-califano-de-directrice-financiere-a-directrice-de-projets-sportifs-internationaux</guid>
                 
             </item>
         </channel>
