@@ -9,31 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 31 May 2025 04:30:12 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 01 Jun 2025 04:39:32 +0200</lastBuildDate>
             <item>
-                <title>Rediff : &#34;Frog Stomp&#34; de Silverchair</title>
-                <description>*Le premier album de Silverchair a 30 ans ! Et donc rediffusion de l&#39;épisode consacré à sa chronique.
-Episode diffusé le 29/05/2024.*
-Souvenez-vous, 1995, 3 ados sortaient un excellent premier album (et non, ça n&#39;est pas les Hanson).
-Voici ma chronique de Frosgtomp de Silverchair, écrite sur albumrock, et lue par Chrysostome, dont je ne saurais que vous conseiller le très bon podcast[ &#34;Chroniques de Zik&#34;.](https://www.vodio...
-Feed: https://recoversion.lepodcast.fr/rss</description>
+                <title>Quoi de Libre ? Actualités et annonces concernant l&#39;April et le monde du libre</title>
+                <description> Les références : &lt;ul class=&#34;spip&#34; role=&#34;list&#34;&gt;&lt;li&gt; Questionnaire « Votre avis sur l&#39;émission Libre à vous ! »&lt;/li&gt;&lt;li&gt; Contactez des radios locales pour leur proposer de diffuser Libre à vous !&lt;/li&gt;&lt;li&gt; Soirée de lancement de DéMAILnagement, mercredi 21 mai, de 18 h 00 à 22 h 00 à Césure (salle de l&#39;impasse), Paris (5e)&lt;/li&gt;&lt;li&gt; Rencontre livresque avec Sébastien Broca, auteur de Utopie du logiciel libre (2013), jeudi 22 mai 2025 dès 18 h 30 à la librairie À livr&#39;ouvert, Paris (11e) pour...
+Feed: https://april.org/lav.xml</description>
                 
                 
-                <link>https://recoversion.lepodcast.fr/rediff-frog-stomp-de-silverchair</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/recoversion/rediff-frog-stomp-de-silverchair/enclosure.df8d6ee31b23571053bc060c59e4451e4620a36cc6a1d95e428ad114c99b31dc.mp3?p=f"/>
-                <guid>https://recoversion.lepodcast.fr/rediff-frog-stomp-de-silverchair</guid>
+                <link>https://www.libreavous.org/248-les-crm-libres-gestion-des-relations-avec-la-clientele-le-rebranding</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20250520/libre-a-vous-20250520-annonces.ogg"/>
+                <guid>https://www.libreavous.org/248-les-crm-libres-gestion-des-relations-avec-la-clientele-le-rebranding</guid>
                 
             </item><item>
-                <title>144 podcast - Caroline Califano : De directrice financière à directrice de projets sportifs internationaux</title>
-                <description>
-Aujourd’hui, j’ai la joie d’accueillir dans le podcast une femme exceptionnelle, au parcours aussi riche qu’inspirant : Caroline Califano.
-Caroline en est à sa 3ᵉ vie professionnelle, et probablement pas la dernière. Elle démarre sa carrière dans la m...
-Feed: https://feed.ausha.co/b7XwQFeJV3Gx</description>
+                <title>Ep 100 La minute internationale des odeurs avec Véronique Delmas</title>
+                <description>Faites sentir l’odeur d’un bon chocolat chaud ou bien le parfum des roses de votre jardin à vos amis et immédiatement les langues se délient…. Les images apparaissent, les souvenirs remontent avec force et puissance…
+ C’est l’invitation que lancent d’Atmo N...
+Feed: https://feeds.audiomeans.fr/feed/668b6919-1acc-45b7-a38e-08f6be8e9878.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/pourquoi-pas-moi/144-podcast-caroline-califano-de-directrice-financiere-a-directrice-de-projets-sportifs-internationaux</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bzwLDUVJrmgm.mp3?t=1748430201"/>
-                <guid>https://podcast.ausha.co/pourquoi-pas-moi/144-podcast-caroline-califano-de-directrice-financiere-a-directrice-de-projets-sportifs-internationaux</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/7b7380fa-4cb3-4cc5-88ae-e15274843aba.mp3?_=1748605303"/>
+                <guid></guid>
                 
             </item>
         </channel>
