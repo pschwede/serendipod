@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 01 Jun 2025 04:39:32 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 02 Jun 2025 04:35:57 +0200</lastBuildDate>
             <item>
-                <title>Quoi de Libre ? Actualités et annonces concernant l&#39;April et le monde du libre</title>
-                <description> Les références : &lt;ul class=&#34;spip&#34; role=&#34;list&#34;&gt;&lt;li&gt; Questionnaire « Votre avis sur l&#39;émission Libre à vous ! »&lt;/li&gt;&lt;li&gt; Contactez des radios locales pour leur proposer de diffuser Libre à vous !&lt;/li&gt;&lt;li&gt; Soirée de lancement de DéMAILnagement, mercredi 21 mai, de 18 h 00 à 22 h 00 à Césure (salle de l&#39;impasse), Paris (5e)&lt;/li&gt;&lt;li&gt; Rencontre livresque avec Sébastien Broca, auteur de Utopie du logiciel libre (2013), jeudi 22 mai 2025 dès 18 h 30 à la librairie À livr&#39;ouvert, Paris (11e) pour...
-Feed: https://april.org/lav.xml</description>
+                <title>Dieu te montrera le chemin</title>
+                <description>&lt;p&gt;Dieu te montrera le chemin&lt;/p&gt;
+Feed: https://feeds.captivate.fm/essentiel-bible-tresor-quotidien/</description>
                 
                 
-                <link>https://www.libreavous.org/248-les-crm-libres-gestion-des-relations-avec-la-clientele-le-rebranding</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20250520/libre-a-vous-20250520-annonces.ogg"/>
-                <guid>https://www.libreavous.org/248-les-crm-libres-gestion-des-relations-avec-la-clientele-le-rebranding</guid>
+                <link>https://essentielbible.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/aa3c3b1c-8d26-4b58-adee-a9e23867539e.mp3"/>
+                <guid>https://essentielbible.com/</guid>
                 
             </item><item>
-                <title>Ep 100 La minute internationale des odeurs avec Véronique Delmas</title>
-                <description>Faites sentir l’odeur d’un bon chocolat chaud ou bien le parfum des roses de votre jardin à vos amis et immédiatement les langues se délient…. Les images apparaissent, les souvenirs remontent avec force et puissance…
- C’est l’invitation que lancent d’Atmo N...
-Feed: https://feeds.audiomeans.fr/feed/668b6919-1acc-45b7-a38e-08f6be8e9878.xml</description>
+                <title>[REDIFF] 22. Le christianisme dans le monde romain</title>
+                <description>
+Au Ier siècle après Jésus-Christ apparaît dans l’empire romain une nouvelle religion.  
+Partie d’Orient et d’une province très éloignée de Rome, elle va pourtant rapidement  se diffuser et devenir 4 siècles plus tard la religion officielle de l’empire...
+Feed: https://feed.ausha.co/BD4nAH80Wek1</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/7b7380fa-4cb3-4cc5-88ae-e15274843aba.mp3?_=1748605303"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/t-as-qui-en-histoire/rediff-22-le-christianisme-dans-le-monde-romain</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tr.ausha.co/owxW2s36gOe0/api.soundcast.io/v1/stitch/ausha.mp3?tags=659C36ED,CCCCDAAE&amp;apiKey=c1a94b3301c64853868548ac73233ca1&amp;podcastUrl=https%3A%2F%2Faudio.ausha.co%2FowxW2s36gOe0.mp3%3Ft%3D1748778833"/>
+                <guid>https://podcast.ausha.co/t-as-qui-en-histoire/rediff-22-le-christianisme-dans-le-monde-romain</guid>
                 
             </item>
         </channel>

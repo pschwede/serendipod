@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 01 Jun 2025 04:39:28 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 02 Jun 2025 04:35:53 +0200</lastBuildDate>
             <item>
-                <title>259 Wenn mal wieder alles schiefläuft</title>
-                <description>Ich war gerade in Berlin, um das Hörbuch für mein neues Buch COMING HOME aufzunehmen. Das Studio war gebucht, alle standen bereit. Und dann kam das Leben dazwischen. Was soll ich dir sagen? Es ging alles schief.
-Was mich diese Erfahrung gelehrt hat, erfährst du in dieser Folge.
-Lass dich inspirieren!
-Dein Lars
-Hier geht es direkt zu unserem Partner Leela Quantum Tech: leelaq...
-Feed: https://136p4fm.podcaster.de/espressomitlarsamend.rss</description>
+                <title>Das könnte Schule machen</title>
+                <description>Unterricht ist aller Übel Anfang 
+Feed: https://icheskaliergleich.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.lars-amend.de/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://136p4fm.podcaster.de/espressomitlarsamend/media/Lars_Podcast_259_mixdown.mp3"/>
-                <guid>https://www.lars-amend.de/</guid>
+                <link>https://icheskaliergleich.podigee.io/65-stefan</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1953429-m-a06af7a666eb68d5c43a9331f106bb1d.mp3?source=feed"/>
+                <guid>https://icheskaliergleich.podigee.io/65-stefan</guid>
                 
             </item><item>
-                <title>Was hilft gegen Messergewalt?</title>
-                <description> Rahmlow, Axel www.deutschlandfunkkultur.de, Wortwechsel 
-Feed: https://www.deutschlandfunkkultur.de/wortwechsel-102.xml</description>
+                <title>#090 - Frauen zur See</title>
+                <description>Irene Rüpke und Sarah Zimmerer, Verband Frauen zur See e.V.
+Feed: https://letscast.fm/podcasts/brittas-hafen-podcast-794194ba/feed</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/was-hilft-gegen-messergewalt-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2025/05/30/was_hilft_gegen_messergewalt_drk_20250530_1805_ed9a687d.mp3?refId=wortwechsel-102"/>
-                <guid>https://www.deutschlandfunkkultur.de/was-hilft-gegen-messergewalt-100.html</guid>
+                <link>https://brittas-hafen-podcast.letscast.fm/episode/090-frauen-zur-see</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/7fabe5b1/episode/71f9fb14.mp3?t=1745347076"/>
+                <guid>https://brittas-hafen-podcast.letscast.fm/episode/090-frauen-zur-see</guid>
                 
             </item>
         </channel>
