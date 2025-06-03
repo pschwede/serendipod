@@ -9,26 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 02 Jun 2025 04:35:53 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 03 Jun 2025 04:32:49 +0200</lastBuildDate>
             <item>
-                <title>Das könnte Schule machen</title>
-                <description>Unterricht ist aller Übel Anfang 
-Feed: https://icheskaliergleich.podigee.io/feed/mp3</description>
+                <title>Jesus wir sehen auf Dich</title>
+                <description>Predigt von Ernst Diggelmann vom 01. Juni 2025
+Feed: https://www.chrischona-wald.ch/podcastgen/feed.xml</description>
                 
                 
-                <link>https://icheskaliergleich.podigee.io/65-stefan</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1953429-m-a06af7a666eb68d5c43a9331f106bb1d.mp3?source=feed"/>
-                <guid>https://icheskaliergleich.podigee.io/65-stefan</guid>
+                <link>https://www.chrischona-wald.ch/podcastgen/media/2025-06-01-Jesuswirsehenaufdich.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.chrischona-wald.ch/podcastgen/media/2025-06-01-Jesuswirsehenaufdich.mp3"/>
+                <guid>https://www.chrischona-wald.ch/podcastgen/media/2025-06-01-Jesuswirsehenaufdich.mp3</guid>
                 
             </item><item>
-                <title>#090 - Frauen zur See</title>
-                <description>Irene Rüpke und Sarah Zimmerer, Verband Frauen zur See e.V.
-Feed: https://letscast.fm/podcasts/brittas-hafen-podcast-794194ba/feed</description>
+                <title>Wie führe ich in einer Sandwich-Position? ????</title>
+                <description>
+&lt;p&gt;Du erfährst…
+…wie du in einer Sandwich-Position effektiv führst&lt;/p&gt;
+&lt;p&gt;…welche Werkzeuge High-Performance-Leadership unterstützen&lt;/p&gt;
+&lt;p&gt;…wie du Druck in Führungspositionen sinnvoll managst&lt;/p&gt;
+&lt;p&gt;…warum eine klare Haltung und Glaubwürdigkeit entscheidend sind&lt;/p&gt;
+&lt;p&gt;…wie du politisches Kapital in Unternehmen aufbaust&lt;/p&gt;
+      
+Feed: https://high-performance-leadership.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://brittas-hafen-podcast.letscast.fm/episode/090-frauen-zur-see</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/7fabe5b1/episode/71f9fb14.mp3?t=1745347076"/>
-                <guid>https://brittas-hafen-podcast.letscast.fm/episode/090-frauen-zur-see</guid>
+                <link>https://high-performance-leadership.podigee.io/45-wie-fuhre-ich-in-einer-sandwich-position</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1829164-m-262748cabd284aba744c53e83ed757f6.mp3?source=feed"/>
+                <guid>https://high-performance-leadership.podigee.io/45-wie-fuhre-ich-in-einer-sandwich-position</guid>
                 
             </item>
         </channel>

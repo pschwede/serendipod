@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 02 Jun 2025 04:35:57 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 03 Jun 2025 04:32:52 +0200</lastBuildDate>
             <item>
-                <title>Dieu te montrera le chemin</title>
-                <description>&lt;p&gt;Dieu te montrera le chemin&lt;/p&gt;
-Feed: https://feeds.captivate.fm/essentiel-bible-tresor-quotidien/</description>
+                <title>SPECIALE - Libre antenne</title>
+                <description>
+Feed: https://indestar.lepodcast.fr/rss</description>
                 
                 
-                <link>https://essentielbible.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/aa3c3b1c-8d26-4b58-adee-a9e23867539e.mp3"/>
-                <guid>https://essentielbible.com/</guid>
+                <link>http://www.indestar.fr</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/indestar/speciale-libre-antenne-1/enclosure.12d40bed41315bd278d8a3fa4d6ecf6292abfb3f2bbb7e49f7d3ebc546d363b5.mp3?p=f"/>
+                <guid>http://www.indestar.fr</guid>
                 
             </item><item>
-                <title>[REDIFF] 22. Le christianisme dans le monde romain</title>
-                <description>
-Au Ier siècle après Jésus-Christ apparaît dans l’empire romain une nouvelle religion.  
-Partie d’Orient et d’une province très éloignée de Rome, elle va pourtant rapidement  se diffuser et devenir 4 siècles plus tard la religion officielle de l’empire...
-Feed: https://feed.ausha.co/BD4nAH80Wek1</description>
+                <title>S04-12 : Combien existe-t-il de chats et aussi de races reconnues dans le monde ?</title>
+                <description>&lt;p&gt;Saviez-vous qu’on estime à environ 600 millions le nombre de chats sur Terre ? Compagnon adoré sur tous les continents, le chat domestique se décline aujourd’hui en une cinquantaine de races officiellement reconnues. Dans cet épisode, découvrons ensemble l’incroyable diversité féline et la place incontournable du chat dans le monde.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;(Sources: Le monde de Jamy&lt;/p&gt;&lt;p&gt;(Vidéo : Chats, leurs mystères dévoilés) )&lt;/p&gt;
+
+Feed: https://anchor.fm/s/ea8770e0/podcast/rss</description>
                 
                 
-                <link>https://podcast.ausha.co/t-as-qui-en-histoire/rediff-22-le-christianisme-dans-le-monde-romain</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tr.ausha.co/owxW2s36gOe0/api.soundcast.io/v1/stitch/ausha.mp3?tags=659C36ED,CCCCDAAE&amp;apiKey=c1a94b3301c64853868548ac73233ca1&amp;podcastUrl=https%3A%2F%2Faudio.ausha.co%2FowxW2s36gOe0.mp3%3Ft%3D1748778833"/>
-                <guid>https://podcast.ausha.co/t-as-qui-en-histoire/rediff-22-le-christianisme-dans-le-monde-romain</guid>
+                <link>https://podcasters.spotify.com/pod/show/felis-catus/episodes/S04-12--Combien-existe-t-il-de-chats-et-aussi-de-races-reconnues-dans-le-monde-e322il3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/ea8770e0/podcast/play/101845091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-27%2F399165166-44100-2-8ac920bee4fbf.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/felis-catus/episodes/S04-12--Combien-existe-t-il-de-chats-et-aussi-de-races-reconnues-dans-le-monde-e322il3</guid>
                 
             </item>
         </channel>

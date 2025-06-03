@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 02 Jun 2025 04:36:00 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 03 Jun 2025 04:32:55 +0200</lastBuildDate>
             <item>
-                <title>English Listening - Restaurants in the US</title>
-                <description>Practice your English listening as I talk about restaurants in the US.
-Feed: https://feeds.simplecast.com/obaHfEr1</description>
+                <title>23:00H | 01 JUN 2025 | Little Steven&#39;s Underground garage</title>
+                <description>Buenas noches a todos. Mi nombre es Ringo. Y el tuyo no lo es. De todos modos, aquí estoy en el programa Underground Garage de Little Steven. Escuchando a gente real tocar instrumentos reales y convertirse en bandas reales. Dios, es genial, Steven. Estamos muy contentos de que lo hagas. Es fabuloso, fabuloso, fabuloso. Encantadora Rita, mi doncella, nada se interpondrá entre nosotros. Excepto Stark, que te robará el corazón. Estaba en un parque y conocí a Rita. Cuando la vi, tuve una visión...
+Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
                 
                 
-                <link>https://sonoromedia.com/ads.txt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/sonoro.simplecastaudio.com/93c48962-af4a-4b78-82d8-2f6e668e895a/episodes/0dd5733a-799a-4f65-8c05-a7d5cef6c0d3/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=93c48962-af4a-4b78-82d8-2f6e668e895a&amp;awEpisodeId=0dd5733a-799a-4f65-8c05-a7d5cef6c0d3&amp;feed=obaHfEr1"/>
-                <guid>https://sonoromedia.com/ads.txt</guid>
+                <link>https://www.rockfm.fm/programas/little-stevens-underground-garage/horas-completas/23-00h-01-jun-2025-little-steven-s-underground-garage-20250602_59838.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.rockfm.fm/uploads/2025/06/02/683ccf139435c.mp3"/>
+                <guid>https://www.rockfm.fm/programas/little-stevens-underground-garage/horas-completas/23-00h-01-jun-2025-little-steven-s-underground-garage-20250602_59838.html</guid>
                 
             </item><item>
-                <title>Crónica internacional  -  EEUU asegura que Israel respalda su última propuesta de acuerdo de alto el fuego y liberación de rehenes en Gaza</title>
-                <description>EEUU asegura que Israel respalda su última propuesta de acuerdo de alto el fuego y liberación de rehenes en Gaza
-Feed: https://www.rtve.es/api/programas/130031/audios.rss</description>
+                <title>Episodio nº147: Datarock - The Church - La Scaltra</title>
+                <description>Contenido del episodio
+M&amp;uacute;sica de cabecera: The Grassy Knoll - The Kids Want A Little Action
+Tema n&amp;ordm;1: Datarock - Fear Of Death
+Tema n&amp;ordm;2: The Church - When You Were Main
+Tema n&amp;ordm;3: La Scaltra - Neverland
+@Todos los derechos de autor y de explotaci&amp;oacute;n comercial pertenecen a los artistas y sus correspondientes sellos discogr&amp;aacute;ficos.
+Feed: https://www.ivoox.com/feed_fg_f11788708_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-eeuu-asegura-israel-respalda-su-ultima-propuesta-acuerdo-alto-fuego-liberacion-rehenes-gaza/16603501/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16603501.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-eeuu-asegura-israel-respalda-su-ultima-propuesta-acuerdo-alto-fuego-liberacion-rehenes-gaza/16603501/</guid>
+                <link>https://www.ivoox.com/episodio-n-147-datarock-the-church-la-audios-mp3_rf_148235576_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/episodio-n-147-datarock-the-church-la_mf_148235576_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/episodio-n-147-datarock-the-church-la-audios-mp3_rf_148235576_1.html</guid>
                 
             </item>
         </channel>
