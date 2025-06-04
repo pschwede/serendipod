@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 03 Jun 2025 04:32:52 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 04 Jun 2025 04:33:25 +0200</lastBuildDate>
             <item>
-                <title>SPECIALE - Libre antenne</title>
-                <description>
-Feed: https://indestar.lepodcast.fr/rss</description>
+                <title>Dans les bandes du rock  2/6 : &#34;British invasion&#34;, le rock français sous influence</title>
+                <description>Dans les bandes du rock  2/6 : &#34;British invasion&#34;, le rock français sous influence
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15537.xml</description>
                 
                 
-                <link>http://www.indestar.fr</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/indestar/speciale-libre-antenne-1/enclosure.12d40bed41315bd278d8a3fa4d6ecf6292abfb3f2bbb7e49f7d3ebc546d363b5.mp3?p=f"/>
-                <guid>http://www.indestar.fr</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/salle-des-archives/british-invasion-le-rock-francais-sous-influence-6303263</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/e2cd3894-7555-4e81-b79f-0c8d2efab895/15537-18.05.2025-ITEMA_24139123-2025C53488E0036-ITE_00150354_RSCE-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/salle-des-archives/british-invasion-le-rock-francais-sous-influence-6303263</guid>
                 
             </item><item>
-                <title>S04-12 : Combien existe-t-il de chats et aussi de races reconnues dans le monde ?</title>
-                <description>&lt;p&gt;Saviez-vous qu’on estime à environ 600 millions le nombre de chats sur Terre ? Compagnon adoré sur tous les continents, le chat domestique se décline aujourd’hui en une cinquantaine de races officiellement reconnues. Dans cet épisode, découvrons ensemble l’incroyable diversité féline et la place incontournable du chat dans le monde.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;(Sources: Le monde de Jamy&lt;/p&gt;&lt;p&gt;(Vidéo : Chats, leurs mystères dévoilés) )&lt;/p&gt;
-
-Feed: https://anchor.fm/s/ea8770e0/podcast/rss</description>
+                <title>Les charlottes : Les Charlottes #678 : Émission du 1er mai 2025</title>
+                <description>692-335469
+Feed: http://podcast.cism893.ca/radioshows/692/feed_itunes.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/felis-catus/episodes/S04-12--Combien-existe-t-il-de-chats-et-aussi-de-races-reconnues-dans-le-monde-e322il3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/ea8770e0/podcast/play/101845091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-27%2F399165166-44100-2-8ac920bee4fbf.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/felis-catus/episodes/S04-12--Combien-existe-t-il-de-chats-et-aussi-de-races-reconnues-dans-le-monde-e322il3</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/335469.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/335469.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/335469.mp3</guid>
                 
             </item>
         </channel>

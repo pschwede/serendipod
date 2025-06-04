@@ -9,33 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 03 Jun 2025 04:32:49 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 04 Jun 2025 04:33:21 +0200</lastBuildDate>
             <item>
-                <title>Jesus wir sehen auf Dich</title>
-                <description>Predigt von Ernst Diggelmann vom 01. Juni 2025
-Feed: https://www.chrischona-wald.ch/podcastgen/feed.xml</description>
+                <title>Wir feiern Jubiläum (glauben wir)</title>
+                <description>&lt;p&gt;Mein lieber Herr Schwansverein, das war mal wieder eine Folge wie ein Rewe toGo: alles dabei, bunte Mischung und der Inhalt unbezahlbar. Tim entfacht eine Diskussion über den wohl besten TV-Koch Deutschlands und Julius flext mit seinem nun doch erstaunlich gut passenden Anzug (in dem womöglich schon jemand gestorben ist, so genau weiß man das bei Vinted ja nie…).&lt;/p&gt;
+
+Feed: https://anchor.fm/s/21c3ada4/podcast/rss</description>
                 
                 
-                <link>https://www.chrischona-wald.ch/podcastgen/media/2025-06-01-Jesuswirsehenaufdich.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.chrischona-wald.ch/podcastgen/media/2025-06-01-Jesuswirsehenaufdich.mp3"/>
-                <guid>https://www.chrischona-wald.ch/podcastgen/media/2025-06-01-Jesuswirsehenaufdich.mp3</guid>
+                <link>https://podcasters.spotify.com/pod/show/ganz-nett-hier/episodes/Wir-feiern-Jubilum-glauben-wir-e33ms11</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/21c3ada4/podcast/play/103558625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-2%2F7c4dc221-8244-ed50-902e-812050f442fc.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/ganz-nett-hier/episodes/Wir-feiern-Jubilum-glauben-wir-e33ms11</guid>
                 
             </item><item>
-                <title>Wie führe ich in einer Sandwich-Position? ????</title>
-                <description>
-&lt;p&gt;Du erfährst…
-…wie du in einer Sandwich-Position effektiv führst&lt;/p&gt;
-&lt;p&gt;…welche Werkzeuge High-Performance-Leadership unterstützen&lt;/p&gt;
-&lt;p&gt;…wie du Druck in Führungspositionen sinnvoll managst&lt;/p&gt;
-&lt;p&gt;…warum eine klare Haltung und Glaubwürdigkeit entscheidend sind&lt;/p&gt;
-&lt;p&gt;…wie du politisches Kapital in Unternehmen aufbaust&lt;/p&gt;
-      
-Feed: https://high-performance-leadership.podigee.io/feed/mp3</description>
+                <title>Serie: Mit Franz Hessel durch Berlin - Rixdorf (2/6)</title>
+                <description> Meisenberg, Peter www.deutschlandfunk.de, Sonntagsspaziergang 
+Feed: https://www.deutschlandfunk.de/sonntagsspaziergang-102.xml</description>
                 
                 
-                <link>https://high-performance-leadership.podigee.io/45-wie-fuhre-ich-in-einer-sandwich-position</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1829164-m-262748cabd284aba744c53e83ed757f6.mp3?source=feed"/>
-                <guid>https://high-performance-leadership.podigee.io/45-wie-fuhre-ich-in-einer-sandwich-position</guid>
+                <link>https://www.deutschlandfunk.de/serie-mit-franz-hessel-durch-berlin-rixdorf-2-6-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2025/06/01/serie_mit_franz_hessel_durch_berlin_rixdorf_26_dlf_20250601_1245_baccc97d.mp3?refId=sonntagsspaziergang-102"/>
+                <guid>https://www.deutschlandfunk.de/serie-mit-franz-hessel-durch-berlin-rixdorf-2-6-100.html</guid>
                 
             </item>
         </channel>
