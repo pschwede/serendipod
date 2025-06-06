@@ -9,27 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 05 Jun 2025 04:33:38 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 06 Jun 2025 04:33:07 +0200</lastBuildDate>
             <item>
-                <title>Science Snack: Anti-Flecken-Folie</title>
-                <description>&lt;p&gt;Jede zweite Woche haben wir eine Wissenschaftsgeschichte für euch, die ihr schnell weg snacken könnt. Heute geht&#39;s um eine Erfindung aus der Schweiz, die kürzlich sogar beim Eurovision Song Contest besungen wurde: Zellophan. Es ist durch eine ziemlich tollpatschige Aktion entstanden, aber ist ein Stoff, an dem Forschende bis heute forschen.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Wenn ihr echte essbare Snacks sucht, nutzt im Mai gerne unseren Buah-Code behindscience10. Oder spart bei KoRo mit unserem Code BEHINDSCIENCE...
-Feed: https://feeds.acast.com/public/shows/670e2fe6c9fa3ffd9e7fda69</description>
+                <title>Laufen/Joggen</title>
+                <description>Ist es gesund und was ist zu beachten?
+Feed: https://letscast.fm/podcasts/von-gesundem-interesse-32a1bfa9/feed</description>
                 
                 
-                <link>https://shows.acast.com/behind-science/episodes/science-snack-anti-flecken-folie</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/670e2fe6c9fa3ffd9e7fda69/e/6836f145944c948b9ab31bec/media.mp3"/>
-                <guid>https://shows.acast.com/behind-science/episodes/science-snack-anti-flecken-folie</guid>
+                <link>https://www.equilitastic.de/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/32a1bfa9/episode/c30b87e9.mp3?t=1747918364"/>
+                <guid>https://www.equilitastic.de/</guid>
                 
             </item><item>
-                <title>Kettenreaktion - beauftragt und bevollmächtigt</title>
-                <description>&lt;p&gt;Gottesdienst vom 25.05.25&lt;/p&gt;
-
-Feed: https://anchor.fm/s/20dd8a68/podcast/rss</description>
+                <title>Deshalb sollten wir Babys öfter vorsingen | Menstruation - Dieser Bluttest könnte einfach auf Krankheiten hinweisen</title>
+                <description>Wenig Zeit - trotzdem neugierig? Hier ist Euer Podcast Update für alles, was Ihr zu aktueller Forschung wissen müsst. Kurz, relevant und überraschend. 
+Die Themen in dieser Podcast-Folge: 
+(00:00:28) Deshalb sollten wir Babys öfter vorsingen | 
+https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14246
+(00:03:42) Menstruation - Dieser Bluttest könnte einfach auf Krankheiten hinweisen
+https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs...
+Feed: https://feeds.br.de/iq-magazin/feed.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/christuskirchegt/episodes/Kettenreaktion---beauftragt-und-bevollmchtigt-e33as5o</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/20dd8a68/podcast/play/103165560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-25%2F400951504-44100-2-b5f93284128f3.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/christuskirchegt/episodes/Kettenreaktion---beauftragt-und-bevollmchtigt-e33as5o</guid>
+                <link>https://www.br.de/mediathek/podcast/iq-magazin/deshalb-sollten-wir-babys-oefter-vorsingen-menstruation-dieser-bluttest-koennte-einfach-auf-krankheiten-hinweisen/2107088</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2107088/c/feed/deshalb-sollten-wir-babys-oefter-vorsingen-menstruation-dieser-bluttest-koennte-einfach-auf-krankheiten-hinweisen.mp3"/>
+                <guid>https://www.br.de/mediathek/podcast/iq-magazin/deshalb-sollten-wir-babys-oefter-vorsingen-menstruation-dieser-bluttest-koennte-einfach-auf-krankheiten-hinweisen/2107088</guid>
                 
             </item>
         </channel>

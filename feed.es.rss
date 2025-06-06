@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 05 Jun 2025 04:33:45 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 06 Jun 2025 04:33:14 +0200</lastBuildDate>
             <item>
-                <title>Hoy empieza todo 2 - Especial desde la Ferial del Libro de Madrid - 04/06/25</title>
-                <description>Especial desde la Ferial del Libro de Madrid
-Feed: http://api.rtve.es/api/programas/59011/audios.rss</description>
+                <title>Cuando los mosquitos se creen mosqueteros | El Francotirarock</title>
+                <description>Álex Clavero confiesa que estos gigantes insectos lo tratan como banco de sangre ambulante
+Feed: https://www.rockfm.fm/api/es/programas/el-pirata-y-su-banda/el-francotirarock/audios/rss.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-2/especial-desde-ferial-del-libro-madrid-04-06-25/16610639/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16610639.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-2/especial-desde-ferial-del-libro-madrid-04-06-25/16610639/</guid>
+                <link>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/episodios/mosquitos-creen-mosqueteros-francotirarock-20250605_59958.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.rockfm.fm/uploads/2025/06/05/G5yXviJA3TxPRNn0fr9U-.mp3"/>
+                <guid>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/episodios/mosquitos-creen-mosqueteros-francotirarock-20250605_59958.html</guid>
                 
             </item><item>
-                <title>Sicut luna perfecta - La visitación y la ascensión - 31/05/25</title>
-                <description>La visitación y la ascensión
-Feed: http://api.rtve.es/api/programas/84390/audios.rss</description>
+                <title>La herencia de la antigua Roma: ¿somos o no somos romanos?</title>
+                <description>&lt;p&gt;Como no podía ser de otra manera en un encuentro &#34;romano&#34; como este, nos visita de nuevo Néstor Marqués, todo un referente en la divulgación de la antigua Roma. Con él repasamos la influencia de la antigua Roma desde el festival Tarraco Viva&lt;/p&gt;
+Feed: https://fapi-top.prisasd.com/podcast/playser/ser_historia/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sicut-luna-perfecta/visitacion-ascension-31-05-25/16604784/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16604784.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sicut-luna-perfecta/visitacion-ascension-31-05-25/16604784/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/SER_HISTORIA_SER_PODCAST_355_P/media/playser/audio/20256/04/4498154.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
