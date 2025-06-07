@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 06 Jun 2025 04:33:07 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 07 Jun 2025 04:30:31 +0200</lastBuildDate>
             <item>
-                <title>Laufen/Joggen</title>
-                <description>Ist es gesund und was ist zu beachten?
-Feed: https://letscast.fm/podcasts/von-gesundem-interesse-32a1bfa9/feed</description>
+                <title>Nicole Diekmann – Ist es richtig, mit der AfD zu sprechen?</title>
+                <description>Nicole Diekmann stammt aus Ostwestfalen und äußert sich trotzdem gerne und viel. Nicht nur als Korrespondentin des ZDF-Hauptstadtstudios, sondern auch in den Sozialen Netzwerken. Dort stellt sie sich der Diskussion, die sie auch mal hart trifft. Aber sie braucht diese Reibung, sagt sie. Die Journalistin weiß, wie sich ein Shitstorm anfühlt und hat über ihre Erfahrungen und Beobachtungen von Hass im Netz den Bestseller „Die Shitstorm-Republik“ geschrieben...
+Feed: https://podcast.hr.de/freiheit-deluxe/podcast.xml</description>
                 
                 
-                <link>https://www.equilitastic.de/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/32a1bfa9/episode/c30b87e9.mp3?t=1747918364"/>
-                <guid>https://www.equilitastic.de/</guid>
+                <link>https://mp3podcasthr-a.akamaihd.net/mp3/podcast/freiheit-deluxe/freiheit-deluxe_20250606_103770637.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mp3podcasthr-a.akamaihd.net/mp3/podcast/freiheit-deluxe/freiheit-deluxe_20250606_103770637.mp3"/>
+                <guid>https://mp3podcasthr-a.akamaihd.net/mp3/podcast/freiheit-deluxe/freiheit-deluxe_20250606_103770637.mp3</guid>
                 
             </item><item>
-                <title>Deshalb sollten wir Babys öfter vorsingen | Menstruation - Dieser Bluttest könnte einfach auf Krankheiten hinweisen</title>
-                <description>Wenig Zeit - trotzdem neugierig? Hier ist Euer Podcast Update für alles, was Ihr zu aktueller Forschung wissen müsst. Kurz, relevant und überraschend. 
-Die Themen in dieser Podcast-Folge: 
-(00:00:28) Deshalb sollten wir Babys öfter vorsingen | 
-https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.14246
-(00:03:42) Menstruation - Dieser Bluttest könnte einfach auf Krankheiten hinweisen
-https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs...
-Feed: https://feeds.br.de/iq-magazin/feed.xml</description>
+                <title>#117: Robin Gemperle:  In 560 km aufs Unbound XL- Podium</title>
+                <description>Der Race-Bericht zur inoffiziellen Gravel-WM
+Feed: https://proxyfeed.svmaudio.com/feeds/outsideisfree</description>
                 
                 
-                <link>https://www.br.de/mediathek/podcast/iq-magazin/deshalb-sollten-wir-babys-oefter-vorsingen-menstruation-dieser-bluttest-koennte-einfach-auf-krankheiten-hinweisen/2107088</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2107088/c/feed/deshalb-sollten-wir-babys-oefter-vorsingen-menstruation-dieser-bluttest-koennte-einfach-auf-krankheiten-hinweisen.mp3"/>
-                <guid>https://www.br.de/mediathek/podcast/iq-magazin/deshalb-sollten-wir-babys-oefter-vorsingen-menstruation-dieser-bluttest-koennte-einfach-auf-krankheiten-hinweisen/2107088</guid>
+                <link>https://www.outsideisfree.de/folgen/robin-gemperle-unbound-race</link>
+                <enclosure type="audio/mpeg" length="1" url="https://apc.cdn.svmaudio.com/1959967-m-4aeb61b6e5b84f0da6a673741888b748.mp3?source=feed-cleanfeed"/>
+                <guid>https://www.outsideisfree.de/folgen/robin-gemperle-unbound-race</guid>
                 
             </item>
         </channel>
