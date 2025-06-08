@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 07 Jun 2025 04:30:35 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 08 Jun 2025 04:35:52 +0200</lastBuildDate>
             <item>
-                <title>Table ronde - Argentine : le modèle Milei en question</title>
-                <description>Table ronde - Argentine : le modèle Milei en question
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11701.xml</description>
+                <title>Solénoïde - Virée Italienne 01 - 02.06.2025</title>
+                <description>Emission du 02.06.2025 avec Meditronica, Ennio Morricone, Andrea de Witt, MariosBajardi, Antonio Testa, Eraldo Bernocchi, Lorenzo Feliciati et Dominique Vantomme, Mirco Magnani et Ernesto Tomasini, Furthurset, Qod
+Feed: http://www.solenopole.org/solenopodcast.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/table-ronde-argentine-le-modele-milei-en-question-7940807</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/47cc3ab9-3a68-46f8-8eb3-3415b82a08ba/11701-06.06.2025-ITEMA_24159749-2025C16756S2157-NET_MFC_AA267AF4-C539-4944-BAF5-0F89F7B86601-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/table-ronde-argentine-le-modele-milei-en-question-7940807</guid>
+                <link>https://solenopole.com/viree-italienne-01/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.solenopole.org/mp3_160/Solenoide_Viree_Italienne_01.mp3"/>
+                <guid>https://solenopole.com/viree-italienne-01/</guid>
                 
             </item><item>
-                <title>[EXTRAIT] - Caroline Szmukler : Contester sa rupture de contrat pour raison discriminatoire liée à la maternité</title>
-                <description>Quels recours quand une rupture de contrat cache une discrimination ? Caroline Szmukler fait le point dans cet extrait.
- 
- Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-con...
-Feed: https://feeds.audiomeans.fr/feed/5b87faa0-e342-4c5b-a09d-3d7e03630008.xml</description>
+                <title>Crash aérien à San Diego (Plane crash in San Diego)</title>
+                <description>Un avion d&#39;affaires s&#39;écrase sur un quartier d&#39;habitations de San Diego, tuant les six personnes à bord et blessant plusieurs habitants au sol. 
+Feed: https://feeds.acast.com/public/shows/66068dc22d276f001657edb1</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/91eaf681-29c7-4f55-8dcb-6701fd94013c.mp3?_=1746429031"/>
-                <guid></guid>
+                <link>https://shows.acast.com/learn-french-with-daily-podcasts/episodes/crash-aerien-a-san-diego-plane-crash-in-san-diego</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/66068dc22d276f001657edb1/e/6839059e2780b226c7574d65/media.mp3"/>
+                <guid>https://shows.acast.com/learn-french-with-daily-podcasts/episodes/crash-aerien-a-san-diego-plane-crash-in-san-diego</guid>
                 
             </item>
         </channel>

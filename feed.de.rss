@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 07 Jun 2025 04:30:31 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 08 Jun 2025 04:35:48 +0200</lastBuildDate>
             <item>
-                <title>Nicole Diekmann – Ist es richtig, mit der AfD zu sprechen?</title>
-                <description>Nicole Diekmann stammt aus Ostwestfalen und äußert sich trotzdem gerne und viel. Nicht nur als Korrespondentin des ZDF-Hauptstadtstudios, sondern auch in den Sozialen Netzwerken. Dort stellt sie sich der Diskussion, die sie auch mal hart trifft. Aber sie braucht diese Reibung, sagt sie. Die Journalistin weiß, wie sich ein Shitstorm anfühlt und hat über ihre Erfahrungen und Beobachtungen von Hass im Netz den Bestseller „Die Shitstorm-Republik“ geschrieben...
-Feed: https://podcast.hr.de/freiheit-deluxe/podcast.xml</description>
+                <title>Hubert Winkels über sein Buch &#34;Die Hände zum Himmel&#34; / Wie viel (un)heimliche Regie steckt hinterrücks im Zufall</title>
+                <description>&#34;Die Hände zum Himmel&#34; heißt ein Karnevalslied aus dem Rheinland, &#34;kommt lasst uns lustig sein. / Wir schunkeln zusammen, / denn keiner ist allein&#34;, so geht der Text weiter. Im DOMRADIO.DE Interview erzählt der Autor und Journalist Hubert Winkels, warum er den Karnevalshit als Titel für seinen autobiographisch geprägten Roman ausgewählt hat. Außerdem spricht er über die Eucharistie, die ihn fasziniert und fragt: wie viel (un)heimliche Regie hinterrücks im Zufall steckt.
+https://www.kiwi-verlag...
+Feed: https://www.domradio.de/podcast/autorengespraech.xml</description>
                 
                 
-                <link>https://mp3podcasthr-a.akamaihd.net/mp3/podcast/freiheit-deluxe/freiheit-deluxe_20250606_103770637.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mp3podcasthr-a.akamaihd.net/mp3/podcast/freiheit-deluxe/freiheit-deluxe_20250606_103770637.mp3"/>
-                <guid>https://mp3podcasthr-a.akamaihd.net/mp3/podcast/freiheit-deluxe/freiheit-deluxe_20250606_103770637.mp3</guid>
+                <link>https://www.domradio.de/audio/hubert-winkels-ueber-sein-buch-die-haende-zum-himmel</link>
+                <enclosure type="audio/mpeg" length="1" url="https://domradiomp3.akamaized.net/gl-5b133b1f-c968-4af9-8008-63eb94696e6a/gl-5b133b1f-c968-4af9-8008-63eb94696e6a.mp3"/>
+                <guid>https://www.domradio.de/audio/hubert-winkels-ueber-sein-buch-die-haende-zum-himmel</guid>
                 
             </item><item>
-                <title>#117: Robin Gemperle:  In 560 km aufs Unbound XL- Podium</title>
-                <description>Der Race-Bericht zur inoffiziellen Gravel-WM
-Feed: https://proxyfeed.svmaudio.com/feeds/outsideisfree</description>
+                <title>Piers Faccini – der mit den Welten tanzt</title>
+                <description>Er wolle die englischen Moore ausdehnen bis zu den Dünen der Sahara - und auf dem Weg komme er vorbei an all den mediterranen Kulturen: So beschreibt der Singer Songwriter Piers Faccini die musikalische Vielfalt seiner Songs. 
+Feed: https://www.srf.ch/feed/podcast/sd/2caa1bd7-ca20-4d53-a269-67cd61784255.xml</description>
                 
                 
-                <link>https://www.outsideisfree.de/folgen/robin-gemperle-unbound-race</link>
-                <enclosure type="audio/mpeg" length="1" url="https://apc.cdn.svmaudio.com/1959967-m-4aeb61b6e5b84f0da6a673741888b748.mp3?source=feed-cleanfeed"/>
-                <guid>https://www.outsideisfree.de/folgen/robin-gemperle-unbound-race</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://download-media.srf.ch/ch/audio/Jazz_Collection_radio/2025/05/Jazz_Collection_radio_AUDI20250527_NR_0006_6436f69754ce49f59c7c577fb95f3944.mp3?d=ap&amp;assetId=be859f96-0e05-392c-b684-042788b91435"/>
+                <guid></guid>
                 
             </item>
         </channel>
