@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 08 Jun 2025 04:35:55 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 09 Jun 2025 04:37:51 +0200</lastBuildDate>
             <item>
-                <title>Acontece que no es poco | Junio de 1925: Cien años desde que se prohibieron (otra vez) las armas químicas</title>
-                <description>&lt;p&gt;Nieves Concostrina habla sobre el centenario del &#34;Protocolo relativo a la prohibición del empleo en la guerra de gases asfixiantes, tóxicos o similares y de medios bacteriológicos&#34;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-Feed: https://fapi-top.prisasd.com/podcast/playser/acontece_que_no_es_poco_1478/itunestfp/podcast.xml</description>
+                <title>23:00H | 08 JUN 2025 | Little Steven&#39;s Underground garage</title>
+                <description>Algo al revés. Al final del disco, lo oirás parar por un minuto y el riff de batería trae el outro y de repente la voz estará al revés. Y creo que hay un segundo elemento al revés ahí dentro. Creo que es un segundo bajo, en realidad. No sé. Es un poco difícil saber exactamente qué está pasando ahí, lo cual es parte de la diversión. Se supone que no debes saber todo lo que pasa en los discos, por cierto. Por eso lo mono es lo único que importa...
+Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/LA_VENTANA_ACONTECE_QUE_NO_ES_POCO_SER_PODCAST_1478_P/media/playser/audio/20256/05/4496147.mp3"/>
-                <guid></guid>
+                <link>https://www.rockfm.fm/programas/little-stevens-underground-garage/horas-completas/23-00h-08-jun-2025-little-steven-s-underground-garage-20250609_60039.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.rockfm.fm/uploads/2025/06/09/68460a08a3fde.mp3"/>
+                <guid>https://www.rockfm.fm/programas/little-stevens-underground-garage/horas-completas/23-00h-08-jun-2025-little-steven-s-underground-garage-20250609_60039.html</guid>
                 
             </item><item>
-                <title>WordPress Core AI</title>
-                <description>Llega la creación de un nuevo equipo dentro de WordPress: Make Core AI.
-Feed: https://www.wppodcast.es/feed/podcast/</description>
+                <title>Documentos RNE - 600 años de resistencias: una mirada gitana a la historia - 06/06/25</title>
+                <description>600 años de resistencias: una mirada gitana a la historia
+Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
                 
                 
-                <link>https://www.wppodcast.es/podcast/wordpress-core-ai/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/311/s/feed/c/podcast/wordpress-podcast-e264.mp3"/>
-                <guid>https://www.wppodcast.es/podcast/wordpress-core-ai/</guid>
+                <link>https://www.rtve.es/play/audios/documentos-rne/600-anos-resistencias-mirada-gitana-historia-06-06-25/16614558/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16614558.mp3"/>
+                <guid>https://www.rtve.es/play/audios/documentos-rne/600-anos-resistencias-mirada-gitana-historia-06-06-25/16614558/</guid>
                 
             </item>
         </channel>
