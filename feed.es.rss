@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 09 Jun 2025 04:37:51 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 10 Jun 2025 04:34:35 +0200</lastBuildDate>
             <item>
-                <title>23:00H | 08 JUN 2025 | Little Steven&#39;s Underground garage</title>
-                <description>Algo al revés. Al final del disco, lo oirás parar por un minuto y el riff de batería trae el outro y de repente la voz estará al revés. Y creo que hay un segundo elemento al revés ahí dentro. Creo que es un segundo bajo, en realidad. No sé. Es un poco difícil saber exactamente qué está pasando ahí, lo cual es parte de la diversión. Se supone que no debes saber todo lo que pasa en los discos, por cierto. Por eso lo mono es lo único que importa...
-Feed: https://www.rockfm.fm/api/es/programas/little-stevens-underground-garage/audios/rss.xml</description>
+                <title>Rebobinando - Roxy Music, &#34;Over you&#34; - 09/06/25</title>
+                <description>Roxy Music, &#34;Over you&#34;
+Feed: https://www.rtve.es/api/programas/80311/audios.rss</description>
                 
                 
-                <link>https://www.rockfm.fm/programas/little-stevens-underground-garage/horas-completas/23-00h-08-jun-2025-little-steven-s-underground-garage-20250609_60039.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.rockfm.fm/uploads/2025/06/09/68460a08a3fde.mp3"/>
-                <guid>https://www.rockfm.fm/programas/little-stevens-underground-garage/horas-completas/23-00h-08-jun-2025-little-steven-s-underground-garage-20250609_60039.html</guid>
+                <link>https://www.rtve.es/play/audios/rebobinando/rebobinando-roxy-music-over-you-09-06-25/16601746/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16601746.mp3"/>
+                <guid>https://www.rtve.es/play/audios/rebobinando/rebobinando-roxy-music-over-you-09-06-25/16601746/</guid>
                 
             </item><item>
-                <title>Documentos RNE - 600 años de resistencias: una mirada gitana a la historia - 06/06/25</title>
-                <description>600 años de resistencias: una mirada gitana a la historia
-Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
+                <title>El avión y la corrupción de la administración Trump</title>
+                <description>&lt;p&gt;No cabe ninguna duda que estamos viviendo la administración más corrupta desde el Watergate de Nixon con el Criminal Convicto Donald Trump.&lt;/p&gt;
+&lt;p&gt;Te invito a debatir sobre este tema en el Foro de la Comunidad de TuPodcast https://foro.tupodcast.com&lt;/p&gt;
+&lt;p&gt;Y otras formas de contacto las encuentran en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/contacto.html&lt;/p&gt;
+&lt;p&gt;Todos los medios donde publico contenido los encuentras en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta...
+Feed: https://www.tupodcast.com/@sinpropaganda/feed.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/documentos-rne/600-anos-resistencias-mirada-gitana-historia-06-06-25/16614558/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16614558.mp3"/>
-                <guid>https://www.rtve.es/play/audios/documentos-rne/600-anos-resistencias-mirada-gitana-historia-06-06-25/16614558/</guid>
+                <link>https://www.tupodcast.com/@sinpropaganda/episodes/el-avion-y-la-corrupcion-de-la-administracion-trump</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=22497050-edc7-5e7e-aa35-88b889ddd920/www.tupodcast.com/audio/@sinpropaganda/el-avion-y-la-corrupcion-de-la-administracion-trump.mp3?_from=fyyd.de"/>
+                <guid>https://www.tupodcast.com/@sinpropaganda/episodes/el-avion-y-la-corrupcion-de-la-administracion-trump</guid>
                 
             </item>
         </channel>

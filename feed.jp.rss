@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 09 Jun 2025 04:38:01 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 10 Jun 2025 04:34:45 +0200</lastBuildDate>
             <item>
-                <title>S3E07: Ocarina of Time -or- Time to Kyl</title>
-                <description>&lt;p&gt;It’s music to our ears as RiriYells returns with fellow Twitch streamer KylTheSheikah to join Mike and Jaymo in Hyrule as they play The Legend of Zelda: Ocarina of Time (N64, 1998) as part of their epic quest to research and review every retro game in the Nintendo Switch Online catalog!&lt;/p&gt;&lt;p&gt;In this episode, we find Hyrule’s hidden Arwings, discuss the highs and lows of Z-targeting, the coming-of-age moments spurred by the Great Fairies, and why Ocarina of Time is considered a milestone in...
-Feed: https://anchor.fm/s/e1583860/podcast/rss</description>
+                <title>The man who woke up in the future</title>
+                <description>When Dr Pier Piccioni woke up after a car accident, 12 years of his life had been erased
+Feed: https://podcasts.files.bbci.co.uk/p02s5rx7.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/theoldswitcharoo/episodes/S3E07-Ocarina-of-Time--or--Time-to-Kyl-e33padv</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/e1583860/podcast/play/103638911/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-4%2F67ae6267-9a21-e254-5f32-aad9693ede4d.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/theoldswitcharoo/episodes/S3E07-Ocarina-of-Time--or--Time-to-Kyl-e33padv</guid>
+                <link>http://www.bbc.co.uk/programmes/p0lgrdj5</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0lgrcvj.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0lgrdj5</guid>
                 
             </item><item>
-                <title>Smoke, Mirrors, and Medical Bills</title>
-                <description>John Hunter Raines was a trusted CFO overseeing millions in public funds meant to support families of children with severe birth injuries in Virginia. The Opportunist investigates how he quietly exploited the system for personal gain—while the families he was supposed to help were left fighting for scraps.
-See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.
-Feed: https://rss.art19.com/the-opportunist</description>
+                <title>Multi-Cluster Orchestrator, with Nick Eberts and Jon Li</title>
+                <description>Guests are Nick Eberts and Jon Li. Nick is a Product Manager at Google working on Fleets and Multi-Cluster and Jon is a Software Engineer at Google working on AI Inference on Kubernetes. We discussed the newly announced Multi Cluster Orchestrator...
+Feed: https://feeds.libsyn.com/419861/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/arttrk.com/p/PDPN1/claritaspod.com/measure/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/b83b4c1f-51db-4773-a7ed-016a592b6b10.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>http://sites.libsyn.com/419861/multi-cluster-orchestrator-with-nick-eberts-and-jon-li</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/e780d51f-f115-44a6-8252-aed9216bb521/KPOD253.mp3?dest-id=3486674"/>
+                <guid>http://sites.libsyn.com/419861/multi-cluster-orchestrator-with-nick-eberts-and-jon-li</guid>
                 
             </item>
         </channel>
