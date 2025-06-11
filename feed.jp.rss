@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 10 Jun 2025 04:34:45 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 11 Jun 2025 04:35:01 +0200</lastBuildDate>
             <item>
-                <title>The man who woke up in the future</title>
-                <description>When Dr Pier Piccioni woke up after a car accident, 12 years of his life had been erased
-Feed: https://podcasts.files.bbci.co.uk/p02s5rx7.rss</description>
+                <title>Jenna Pava … #FOMO</title>
+                <description>Jenna Pava has been to 181 countries   Hey now, I am your host, Ric Gazarian. I had the pleasure of meeting Jenna Pava at the Extraordinary Travel Festival in Bangkok, only to discover that we were also  (distant) neighbors in the city. This...
+Feed: https://countingcountries.libsyn.com/rss</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0lgrdj5</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0lgrcvj.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0lgrdj5</guid>
+                <link>https://globalgaz.com/jenna-pava-counting-countries/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/countingcountries/Jenna_CC_lisbyn.mp3?dest-id=389581"/>
+                <guid>https://globalgaz.com/jenna-pava-counting-countries/</guid>
                 
             </item><item>
-                <title>Multi-Cluster Orchestrator, with Nick Eberts and Jon Li</title>
-                <description>Guests are Nick Eberts and Jon Li. Nick is a Product Manager at Google working on Fleets and Multi-Cluster and Jon is a Software Engineer at Google working on AI Inference on Kubernetes. We discussed the newly announced Multi Cluster Orchestrator...
-Feed: https://feeds.libsyn.com/419861/rss</description>
+                <title>Business jargon</title>
+                <description>Can you think out of the box or do you take the helicopter view? Learn business jargon.
+Feed: https://podcasts.files.bbci.co.uk/p02pc9xz.rss</description>
                 
                 
-                <link>http://sites.libsyn.com/419861/multi-cluster-orchestrator-with-nick-eberts-and-jon-li</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/e780d51f-f115-44a6-8252-aed9216bb521/KPOD253.mp3?dest-id=3486674"/>
-                <guid>http://sites.libsyn.com/419861/multi-cluster-orchestrator-with-nick-eberts-and-jon-li</guid>
+                <link>http://www.bbc.co.uk/programmes/p0lh5rw6</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0lh5rnm.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0lh5rw6</guid>
                 
             </item>
         </channel>

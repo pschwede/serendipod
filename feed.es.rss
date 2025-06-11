@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 10 Jun 2025 04:34:35 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 11 Jun 2025 04:34:49 +0200</lastBuildDate>
             <item>
-                <title>Rebobinando - Roxy Music, &#34;Over you&#34; - 09/06/25</title>
-                <description>Roxy Music, &#34;Over you&#34;
-Feed: https://www.rtve.es/api/programas/80311/audios.rss</description>
+                <title>SSF Jazz en el Cine 2a parte 11 abril 2025</title>
+                <description>Hoy te compartimos la segunda parte del episodio de Jazz en el cine
+Feed: https://www.ivoox.com/feed_fg_f1155767_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/rebobinando/rebobinando-roxy-music-over-you-09-06-25/16601746/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16601746.mp3"/>
-                <guid>https://www.rtve.es/play/audios/rebobinando/rebobinando-roxy-music-over-you-09-06-25/16601746/</guid>
+                <link>https://www.ivoox.com/ssf-jazz-cine-2a-parte-11-audios-mp3_rf_146031194_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/ssf-jazz-cine-2a-parte-11_mf_146031194_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/ssf-jazz-cine-2a-parte-11-audios-mp3_rf_146031194_1.html</guid>
                 
             </item><item>
-                <title>El avión y la corrupción de la administración Trump</title>
-                <description>&lt;p&gt;No cabe ninguna duda que estamos viviendo la administración más corrupta desde el Watergate de Nixon con el Criminal Convicto Donald Trump.&lt;/p&gt;
-&lt;p&gt;Te invito a debatir sobre este tema en el Foro de la Comunidad de TuPodcast https://foro.tupodcast.com&lt;/p&gt;
-&lt;p&gt;Y otras formas de contacto las encuentran en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta.me/contacto.html&lt;/p&gt;
-&lt;p&gt;Todos los medios donde publico contenido los encuentras en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta...
-Feed: https://www.tupodcast.com/@sinpropaganda/feed.xml</description>
+                <title>MENOS DRAMA, MÁS COMEDIA</title>
+                <description>¿Y si la clave para vivir mejor estuviera en aprender a reírnos de nuestros problemas? Hoy baja al programa Gabriel Córdoba y nos invita a descubrir cómo usar la risa como una poderosa herramienta para enfrentarnos al estrés, gestionar emociones difíciles y transformar nuestra perspectiva ante las adversidades. Acaba de publicar CómicaMente...
+Feed: https://www.ivoox.com/feed_fg_f11184888_filtro_1.xml</description>
                 
                 
-                <link>https://www.tupodcast.com/@sinpropaganda/episodes/el-avion-y-la-corrupcion-de-la-administracion-trump</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=22497050-edc7-5e7e-aa35-88b889ddd920/www.tupodcast.com/audio/@sinpropaganda/el-avion-y-la-corrupcion-de-la-administracion-trump.mp3?_from=fyyd.de"/>
-                <guid>https://www.tupodcast.com/@sinpropaganda/episodes/el-avion-y-la-corrupcion-de-la-administracion-trump</guid>
+                <link>https://www.ivoox.com/menos-drama-mas-comedia-audios-mp3_rf_149167036_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/menos-drama-mas-comedia_mf_149167036_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/menos-drama-mas-comedia-audios-mp3_rf_149167036_1.html</guid>
                 
             </item>
         </channel>

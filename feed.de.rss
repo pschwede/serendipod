@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 10 Jun 2025 04:34:28 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 11 Jun 2025 04:34:41 +0200</lastBuildDate>
             <item>
-                <title>Piers Faccini – der mit den Welten tanzt</title>
-                <description>Er wolle die englischen Moore ausdehnen bis zu den Dünen der Sahara - und auf dem Weg komme er vorbei an all den mediterranen Kulturen: So beschreibt der Singer Songwriter Piers Faccini die musikalische Vielfalt seiner Songs. 
-Feed: https://www.srf.ch/feed/podcast/sd/2caa1bd7-ca20-4d53-a269-67cd61784255.xml</description>
+                <title>#199: Karin Ahamer: Vom Marketing zur Fotografie</title>
+                <description>In dieser Folge ist die leidenschaftliche Fotografin &lt;strong&gt;Karin Ahamer&lt;/strong&gt; zu Gast. Schon als Kind liebte sie die Kamera – doch weil Fotografie in ihrer Familie nicht als &#34;richtiger&#34; Beruf galt, startete Karin ihre Karriere im Marketing. 2013 wagte sie den Schritt in die Selbstständigkeit als Fotografin – ein mutiger Schritt, der sie nicht nur zu ihrer Berufung führte, sondern auch durch herausfordernde Phasen...
+Feed: https://letscast.fm/podcasts/lebenswege-podcast-3b462f66/feed</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://download-media.srf.ch/ch/audio/Jazz_Collection_radio/2025/05/Jazz_Collection_radio_AUDI20250527_NR_0006_6436f69754ce49f59c7c577fb95f3944.mp3?d=ap&amp;assetId=be859f96-0e05-392c-b684-042788b91435"/>
-                <guid></guid>
+                <link>https://letscast.fm/sites/lebenswege-podcast-3b462f66/episode/199-karin-ahamer-vom-marketing-zur-fotografie</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/8abab444/episode/1e38c58a.mp3?t=1746857983"/>
+                <guid>https://letscast.fm/sites/lebenswege-podcast-3b462f66/episode/199-karin-ahamer-vom-marketing-zur-fotografie</guid>
                 
             </item><item>
-                <title>&#34;Wir in Bayern&#34; -Koch Wolfgang Link</title>
-                <description>Seit gut zehn Jahren kocht Wolfgang Link im &#34;Wir in Bayern&#34;-Studio. Im Ratsch mit Tom Viewegh blickt der Koch auf seine Auftritte zurück und gibt Tipps zur bewussten Ernährung. Außerdem ratschen die beiden über seine Heimat, das Fränkische Seenland.
-Feed: https://feeds.br.de/habe-die-ehre/feed.xml</description>
+                <title>#99 Lustvoll gleichberechtigt – Heike Kleen über Sex, Feminismus und den Mut zur eigenen Lust</title>
+                <description>Warum wollen wir Männern gefallen, warum lassen sich Frauen ihre Genitalien korrigieren und warum hat Ildikó lesbisches Flaschendrehen gespielt?
+Feed: https://feeds.acast.com/public/shows/64abe409cf27900011079609</description>
                 
                 
-                <link>https://www.br.de/mediathek/podcast/habe-die-ehre/wir-in-bayern-koch-wolfgang-link/2107244</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2107244/c/feed/wir-in-bayern-koch-wolfgang-link.mp3"/>
-                <guid>https://www.br.de/mediathek/podcast/habe-die-ehre/wir-in-bayern-koch-wolfgang-link/2107244</guid>
+                <link>https://shows.acast.com/64abe409cf27900011079609/episodes/99-lustvoll-gleichberechtigt-heike-kleen-uber-sex-feminismus</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/64abe409cf27900011079609/e/68440c081dd9d3b33fe1fc6d/media.mp3"/>
+                <guid>https://shows.acast.com/64abe409cf27900011079609/episodes/99-lustvoll-gleichberechtigt-heike-kleen-uber-sex-feminismus</guid>
                 
             </item>
         </channel>
