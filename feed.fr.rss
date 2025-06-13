@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 12 Jun 2025 04:33:10 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 13 Jun 2025 04:33:45 +0200</lastBuildDate>
             <item>
-                <title>Charlotte Trossat - Local en bocal, la conserverie artisanale où l&#39;anti-gaspi devient gourmand &amp; solidaire</title>
-                <description>
-Rencontre avec Charlotte Trossat, créatrice de Local en bocal, une conserverie artisanale engagée contre le gaspillage alimentaire. Charlotte et son équipe transforment avec passion des fruits et légumes bio, locaux, dits &#34;moches&#34; pour en faire des co...
-Feed: https://feed.ausha.co/oLnR0FgRq0nr</description>
+                <title>[Transports] Données ouvertes et régulation européenne dans les transports publics</title>
+                <description>&lt;p&gt;Vous utilisez des outils de planification de trajets : savez-vous d’où viennent les données ? Et connaissez-vous le rôle de l’Europe et des états membres dans tout cela ?&lt;/p&gt;
+&lt;p&gt;Avec Tu-Tho Tai, nous parlons de données ouvertes de transport, de la règlementation européenne révisée après le COVID et des dispositions prises par les états membres...
+Feed: https://podcast.projets-libres.org/@projetslibres/feed.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/esperluette/charlotte-trossat-local-en-bocal</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/audio.ausha.co/oLnD9fq0Y2aV.mp3?t=1747497701"/>
-                <guid>https://podcast.ausha.co/esperluette/charlotte-trossat-local-en-bocal</guid>
+                <link>https://podcast.projets-libres.org/@projetslibres/episodes/transports-donnees-ouvertes-au-niveau-de-leurope-et-de-ses-etats-membres</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=e2796a73-b1c4-5dbd-8a5c-bf05949b10d0/podcast.projets-libres.org/audio/@projetslibres/transports-donnees-ouvertes-au-niveau-de-leurope-et-de-ses-etats-membres.mp3?_from=fyyd.de"/>
+                <guid>https://podcast.projets-libres.org/@projetslibres/episodes/transports-donnees-ouvertes-au-niveau-de-leurope-et-de-ses-etats-membres</guid>
                 
             </item><item>
-                <title>Rubrique KAYA : Parole d’Écopreneur - Vincent Biauce, NewB (FR)</title>
-                <description>“Parole d’Écopreneur”, les parcours inspirants de celles et ceux qui entreprennent autrement
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7892_7576cac4dcce6c190b102f990bbe41d6.rss</description>
+                <title>145 podcast - Deborah Pardo : De chercheuse en écologie à leader d’envergure pour la planète</title>
+                <description>
+Aujourd’hui, j’ai le plaisir de recevoir Deborah Pardo, scientifique à impact et exploratrice engagée. Docteure en écologie des populations, elle commence sa carrière comme chercheuse en devenant la spécialiste de l&#39;albatros, un oiseau fascinant qui,...
+Feed: https://feed.ausha.co/b7XwQFeJV3Gx</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/rubrique-kaya-parole-decopreneur-vincent-biauce-newb-fr-361353/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/op3.dev/e/track.podcastics.com/7892/361353.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/rubrique-kaya-parole-decopreneur-vincent-biauce-newb-fr-361353/</guid>
+                <link>https://podcast.ausha.co/pourquoi-pas-moi/145-podcast-deborah-pardo-de-chercheuse-en-ecologie-a-leader-d-envergure-pour-la-planete</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BN8XPUGGvv2k.mp3?t=1749590201"/>
+                <guid>https://podcast.ausha.co/pourquoi-pas-moi/145-podcast-deborah-pardo-de-chercheuse-en-ecologie-a-leader-d-envergure-pour-la-planete</guid>
                 
             </item>
         </channel>
