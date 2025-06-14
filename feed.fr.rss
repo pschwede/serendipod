@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 13 Jun 2025 04:33:45 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 14 Jun 2025 04:30:41 +0200</lastBuildDate>
             <item>
-                <title>[Transports] Données ouvertes et régulation européenne dans les transports publics</title>
-                <description>&lt;p&gt;Vous utilisez des outils de planification de trajets : savez-vous d’où viennent les données ? Et connaissez-vous le rôle de l’Europe et des états membres dans tout cela ?&lt;/p&gt;
-&lt;p&gt;Avec Tu-Tho Tai, nous parlons de données ouvertes de transport, de la règlementation européenne révisée après le COVID et des dispositions prises par les états membres...
-Feed: https://podcast.projets-libres.org/@projetslibres/feed.xml</description>
+                <title>Spéciale festival Europavox avec Spill Tab</title>
+                <description>Spéciale festival Europavox avec Spill Tab
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13416.xml</description>
                 
                 
-                <link>https://podcast.projets-libres.org/@projetslibres/episodes/transports-donnees-ouvertes-au-niveau-de-leurope-et-de-ses-etats-membres</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=e2796a73-b1c4-5dbd-8a5c-bf05949b10d0/podcast.projets-libres.org/audio/@projetslibres/transports-donnees-ouvertes-au-niveau-de-leurope-et-de-ses-etats-membres.mp3?_from=fyyd.de"/>
-                <guid>https://podcast.projets-libres.org/@projetslibres/episodes/transports-donnees-ouvertes-au-niveau-de-leurope-et-de-ses-etats-membres</guid>
+                <link>https://www.radiofrance.fr/fip/podcasts/live-a-fip/speciale-festival-europavox-avec-spill-tab-6604422</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/d5073542-7409-46cd-b0d8-f993c2eb4b9f/13416-04.06.2025-ITEMA_24157333-2025Y21958S0155-NET_MFP_1ADEF96A-0432-44FF-BE6C-56D8AA6B8A8E-21.mp3"/>
+                <guid>https://www.radiofrance.fr/fip/podcasts/live-a-fip/speciale-festival-europavox-avec-spill-tab-6604422</guid>
                 
             </item><item>
-                <title>145 podcast - Deborah Pardo : De chercheuse en écologie à leader d’envergure pour la planète</title>
-                <description>
-Aujourd’hui, j’ai le plaisir de recevoir Deborah Pardo, scientifique à impact et exploratrice engagée. Docteure en écologie des populations, elle commence sa carrière comme chercheuse en devenant la spécialiste de l&#39;albatros, un oiseau fascinant qui,...
-Feed: https://feed.ausha.co/b7XwQFeJV3Gx</description>
+                <title>Jean Racine, le caméléon (1639-1699)</title>
+                <description>Jean Racine, le caméléon (1639-1699)
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10471.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/pourquoi-pas-moi/145-podcast-deborah-pardo-de-chercheuse-en-ecologie-a-leader-d-envergure-pour-la-planete</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BN8XPUGGvv2k.mp3?t=1749590201"/>
-                <guid>https://podcast.ausha.co/pourquoi-pas-moi/145-podcast-deborah-pardo-de-chercheuse-en-ecologie-a-leader-d-envergure-pour-la-planete</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/une-vie-une-oeuvre/jean-racine-le-cameleon-1639-1699-9857847</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a584011a-4d09-4396-ad50-162ea29df532/10471-11.06.2025-ITEMA_24163964-2016C3330S0121-NET_FC_F383C117-1969-4267-93F2-1BE3BF9703A1-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/une-vie-une-oeuvre/jean-racine-le-cameleon-1639-1699-9857847</guid>
                 
             </item>
         </channel>

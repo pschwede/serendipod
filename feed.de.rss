@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 13 Jun 2025 04:33:41 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 14 Jun 2025 04:30:37 +0200</lastBuildDate>
             <item>
-                <title>Fabian Abel - 25.000 Kilometer: Mit dem Fahrrad durch die Sahara (Teil 8)</title>
-                <description>Fabian Abel - 25.000 Kilometer: Mit dem Fahrrad durch die Sahara (Teil 8)
-Feed: http://ausgangpodcast.de/feed/podcasts/</description>
+                <title>Diego Maradona: Der Mythos, der sich selbst auffraß</title>
+                <description>Er kam aus dem Slum. Wurde Weltmeister. Messias von Neapel. Und Opfer jener Überhöhung, die ihn erst zur Legende machte. Malte Asmus erzählt nicht einfach die Geschichte von Diego Maradona  er erzählt, wie aus dem Menschen Diego ein überlebensgroßer Mythos wurde. Und wie der den Menchen Diego Stück für Stück auffraß...
+Feed: https://meinsportpodcast.de/fussball/100-fussballlegenden/feed/</description>
                 
                 
-                <link>https://ausgangpodcast.de/2025/04/27/fabian-abel-mit-dem-fahrrad-durch-die-sahara-ausgang-podcast/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ausgangpodcast.de/podlove/file/12349/s/feed/c/podcasts/FabianAbel25000KilometermitdemFahrraddurchdieSaharaTeil8.mp3"/>
-                <guid>https://ausgangpodcast.de/2025/04/27/fabian-abel-mit-dem-fahrrad-durch-die-sahara-ausgang-podcast/</guid>
+                <link>https://meinsportpodcast.de/100-fussballlegenden/diego-maradona-der-mythos-der-sich-selbst-auffrass</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/254537/diego-maradona-der-mythos-der-sich-selbst-auffrass.mp3?awCollectionId=10199&amp;awEpisodeId=254537"/>
+                <guid>https://meinsportpodcast.de/100-fussballlegenden/diego-maradona-der-mythos-der-sich-selbst-auffrass</guid>
                 
             </item><item>
-                <title>219 - DARUM wird deine Bewerbung abgelehnt!</title>
-                <description>Bewerbung für ein Erstgespräch: https://bit.ly/4mr5iTB
-Du hast dich bereits als Programmierer beworben und deine Bewerbung wurde abgelehnt? Heute deckt Junus Gründe auf, warum du bisher keinen IT-Job gefunden hast und gibt dir Tipps, um deine Bewerbung zu verbessern!
-YouTube: https://www.youtube.com/c/Programmierenlernen
-Instagram: https://www.instagram.com/junus.ergin/
-
-Feed: https://programmieren-lernen.podcaster.de/podcast.rss</description>
+                <title>DeepBrain Light - Mit Licht das Gehirn aktivieren</title>
+                <description>???? Was wäre, wenn Licht nicht nur sichtbar – sondern auch heilend wirken könnte? In dieser Folge tauche ich mit dir in die faszinierende Welt der Photobiomodulation ein – also der gezielten Lichtanwendung zur Aktivierung von Gehirnfunktionen....
+Feed: https://stefanrieth.libsyn.com/rss</description>
                 
                 
-                <link>https://developerakademie.com/?utm_source=podcast&amp;utm_medium=podcast&amp;utm_campaign=podcast&amp;utm_id=p185</link>
-                <enclosure type="audio/mpeg" length="1" url="https://programmieren-lernen.podcaster.de/podcast/media/185_-_DARUM_wird_deine_Bewerbung_abgelehnt.mp3"/>
-                <guid>https://developerakademie.com/?utm_source=podcast&amp;utm_medium=podcast&amp;utm_campaign=podcast&amp;utm_id=p185</guid>
+                <link>https://stefanrieth.libsyn.com/deepbrain-light-mit-licht-das-gehirn-aktivieren</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/stefanrieth/deep_brain_light.mp3?dest-id=621504"/>
+                <guid>https://stefanrieth.libsyn.com/deepbrain-light-mit-licht-das-gehirn-aktivieren</guid>
                 
             </item>
         </channel>
