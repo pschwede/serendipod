@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Jun 2025 04:30:41 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 15 Jun 2025 04:36:12 +0200</lastBuildDate>
             <item>
-                <title>Spéciale festival Europavox avec Spill Tab</title>
-                <description>Spéciale festival Europavox avec Spill Tab
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13416.xml</description>
+                <title>Bigames !</title>
+                <description>Bigames !
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16278.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/fip/podcasts/live-a-fip/speciale-festival-europavox-avec-spill-tab-6604422</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/d5073542-7409-46cd-b0d8-f993c2eb4b9f/13416-04.06.2025-ITEMA_24157333-2025Y21958S0155-NET_MFP_1ADEF96A-0432-44FF-BE6C-56D8AA6B8A8E-21.mp3"/>
-                <guid>https://www.radiofrance.fr/fip/podcasts/live-a-fip/speciale-festival-europavox-avec-spill-tab-6604422</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/bigames-6081239</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c02b1c15-2c4e-450e-861d-39c43d97827d/16278-14.06.2025-ITEMA_24168188-2025C6278E0027-ITE_00151233_RSCE-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/bigames-6081239</guid>
                 
             </item><item>
-                <title>Jean Racine, le caméléon (1639-1699)</title>
-                <description>Jean Racine, le caméléon (1639-1699)
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10471.xml</description>
+                <title>Partir permet-il de reprendre le pouvoir sur sa vie ?</title>
+                <description>Quitter Paris pour la Sarthe
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/6244_88906e5c38fb51d5c8ec0dc4e87fa7ff.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/une-vie-une-oeuvre/jean-racine-le-cameleon-1639-1699-9857847</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a584011a-4d09-4396-ad50-162ea29df532/10471-11.06.2025-ITEMA_24163964-2016C3330S0121-NET_FC_F383C117-1969-4267-93F2-1BE3BF9703A1-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/une-vie-une-oeuvre/jean-racine-le-cameleon-1639-1699-9857847</guid>
+                <link>https://www.podcastics.com/podcast/episode/partir-permet-il-de-reprendre-le-pouvoir-sur-sa-vie-369365/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/6244/369365.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/partir-permet-il-de-reprendre-le-pouvoir-sur-sa-vie-369365/</guid>
                 
             </item>
         </channel>

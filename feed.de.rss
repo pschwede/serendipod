@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Jun 2025 04:30:37 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 15 Jun 2025 04:36:08 +0200</lastBuildDate>
             <item>
-                <title>Diego Maradona: Der Mythos, der sich selbst auffraß</title>
-                <description>Er kam aus dem Slum. Wurde Weltmeister. Messias von Neapel. Und Opfer jener Überhöhung, die ihn erst zur Legende machte. Malte Asmus erzählt nicht einfach die Geschichte von Diego Maradona  er erzählt, wie aus dem Menschen Diego ein überlebensgroßer Mythos wurde. Und wie der den Menchen Diego Stück für Stück auffraß...
-Feed: https://meinsportpodcast.de/fussball/100-fussballlegenden/feed/</description>
+                <title>Folge 63: Santino</title>
+                <description>Wir haben einen Live-Podcast aufgenommen im Rahmen eines Jugendfachtages. Inhaltlich geht es um den Fall Santino und die Zusammenarbeit zwischen verschiedenen Playern, die sich mit dem Thema Jugenddelinquenz befassen.
+Feed: https://podcast.jugendrecht.org/feed/mp3/</description>
                 
                 
-                <link>https://meinsportpodcast.de/100-fussballlegenden/diego-maradona-der-mythos-der-sich-selbst-auffrass</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/254537/diego-maradona-der-mythos-der-sich-selbst-auffrass.mp3?awCollectionId=10199&amp;awEpisodeId=254537"/>
-                <guid>https://meinsportpodcast.de/100-fussballlegenden/diego-maradona-der-mythos-der-sich-selbst-auffrass</guid>
+                <link>https://podcast.jugendrecht.org/folge-63-santino/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.jugendrecht.org/podlove/file/249/s/feed/c/mp3/folge63.mp3"/>
+                <guid>https://podcast.jugendrecht.org/folge-63-santino/</guid>
                 
             </item><item>
-                <title>DeepBrain Light - Mit Licht das Gehirn aktivieren</title>
-                <description>???? Was wäre, wenn Licht nicht nur sichtbar – sondern auch heilend wirken könnte? In dieser Folge tauche ich mit dir in die faszinierende Welt der Photobiomodulation ein – also der gezielten Lichtanwendung zur Aktivierung von Gehirnfunktionen....
-Feed: https://stefanrieth.libsyn.com/rss</description>
+                <title>1. Vesper | 14.06.25 | Dreifaltigkeitssonntag | Gemeinschaften von Jerusalem</title>
+                <description>Hier finden Sie die Texte zum Mitbeten:
+https://o…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:794938288/sounds.rss</description>
                 
                 
-                <link>https://stefanrieth.libsyn.com/deepbrain-light-mit-licht-das-gehirn-aktivieren</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/stefanrieth/deep_brain_light.mp3?dest-id=621504"/>
-                <guid>https://stefanrieth.libsyn.com/deepbrain-light-mit-licht-das-gehirn-aktivieren</guid>
+                <link>https://soundcloud.com/gross-sankt-martin-k-ln/1-vesper-140625-dreifaltigkeitssonntag-gemeinschaften-von-jerusalem</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2113400109-gross-sankt-martin-k-ln-1-vesper-140625-dreifaltigkeitssonntag-gemeinschaften-von-jerusalem.mp3"/>
+                <guid>https://soundcloud.com/gross-sankt-martin-k-ln/1-vesper-140625-dreifaltigkeitssonntag-gemeinschaften-von-jerusalem</guid>
                 
             </item>
         </channel>
