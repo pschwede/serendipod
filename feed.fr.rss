@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 15 Jun 2025 04:36:12 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 16 Jun 2025 04:37:29 +0200</lastBuildDate>
             <item>
-                <title>Bigames !</title>
-                <description>Bigames !
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16278.xml</description>
+                <title>Walter Benjamin, notre contemporain.</title>
+                <description>Walter Benjamin, notre contemporain.
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13094.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/bigames-6081239</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/c02b1c15-2c4e-450e-861d-39c43d97827d/16278-14.06.2025-ITEMA_24168188-2025C6278E0027-ITE_00151233_RSCE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/bigames-6081239</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/walter-benjamin-notre-contemporain-6715297</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/0ce147c9-7267-4f9e-b015-14e16bea9330/13094-15.06.2025-ITEMA_24168494-2024C21364E0045-NET_MFC_4D22F3E7-8278-4231-8B34-84CF3B266AEE-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/walter-benjamin-notre-contemporain-6715297</guid>
                 
             </item><item>
-                <title>Partir permet-il de reprendre le pouvoir sur sa vie ?</title>
-                <description>Quitter Paris pour la Sarthe
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/6244_88906e5c38fb51d5c8ec0dc4e87fa7ff.rss</description>
+                <title>[SPECIAL FINALE LDC 2025 PSG/INTER] Djorkaeff vs Leonardo : Qui fut le meilleur Parisien ? (Rediffusion)</title>
+                <description>La finale de la Ligue des Champions 2025 approche : Paris Saint Germain vs Inter Milan !
+Pour fêter ça, Les Libéros vous embarquent dans un retour exclusif sur ces deux clubs finalistes, avec 8 épisodes rediffusés jusqu’au 31 mai : 4 pour le PSG, 4 pour l’Inter Milan.
+On clôture cette série parisienne avec un duel de joueurs qui ont marqué l’histoire du PSG : Djorkaeff vs Leonardo...
+Feed: https://feeds.megaphone.fm/COMG8381830937</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/partir-permet-il-de-reprendre-le-pouvoir-sur-sa-vie-369365/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/6244/369365.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/partir-permet-il-de-reprendre-le-pouvoir-sur-sa-vie-369365/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6427626899.mp3?updated=1748644183"/>
+                <guid></guid>
                 
             </item>
         </channel>

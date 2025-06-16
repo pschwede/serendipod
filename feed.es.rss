@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 15 Jun 2025 04:36:17 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 16 Jun 2025 04:37:32 +0200</lastBuildDate>
             <item>
-                <title>Popcasting479</title>
-                <description>robert forster · tell it back to me :: la mesa junior high school vocal department · summer breeze :: rodney scott · bitter tears :: william tyler · held :: nell smith · billions of people :: tchotchke · did you hear? :: the beatles · that means a lot :: the troggs · cousin jane :: bob dylan visions of johanna (live) :: the hollies · he ain’t heavy (he’s my brother) :: teenage fanclub · sparky’s dream :: jeff and ellie · i know it’s alright :: nirvana · orange and blue :: jill bryson · three...
-Feed: https://feeds.feedburner.com/Popcasting</description>
+                <title>Islas de Robinson - Estanque sin fondo - 09/06/25</title>
+                <description>Estanque sin fondo
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/popcasting479-audios-mp3_rf_148905799_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting479_mf_148905799_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/popcasting479-audios-mp3_rf_148905799_1.html</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/estanque-sin-fondo-09-06-25/16616692/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16616692.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/estanque-sin-fondo-09-06-25/16616692/</guid>
                 
             </item><item>
-                <title>No es un día cualquiera - Acústico de German López</title>
-                <description>Acústico de German López
-Feed: http://api.rtve.es/api/programas/2054/audios.rss</description>
+                <title>Centralitas telefónicas. Locutores para grabación de mensajes para centralitas de teléfono</title>
+                <description>&lt;p&gt;Escena Digital:  Locutores. Locutores profesionales. Locutor. Spanish voice over. Spanish dubbing&lt;/p&gt;
+&lt;p&gt;Centralitas telefónicas. Locutores de grabación de mensajes para centralitas de teléfono. Su locutor para grabación de mensajes telefónicos&lt;/p&gt;
+&lt;p&gt;La entrada Centralitas telefónicas. Locutores para grabación de mensajes para centralitas de teléfono se publicó primero en Escena Digital Locutores:  Locutores profesionales.  Locutor. Locutoras.&lt;/p&gt;
+
+Feed: https://www.locutortv.es/feed/</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-acustico-german-lopez/16623442/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16623442.mp3"/>
-                <guid>https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-acustico-german-lopez/16623442/</guid>
+                <link>https://www.locutortv.es/centralitas-telefonicas-locutor-grabaciones/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.locutortv.es/sonido/2019-AGOSTO-LOCUTORES-VOICEOVER/martab-lesley-locutoras-sheraton-centralita-hotel-ivr-recording.mp3"/>
+                <guid>https://www.locutortv.es/centralitas-telefonicas-locutor-grabaciones/</guid>
                 
             </item>
         </channel>
