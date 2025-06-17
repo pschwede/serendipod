@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 16 Jun 2025 04:37:32 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 17 Jun 2025 04:34:19 +0200</lastBuildDate>
             <item>
-                <title>Islas de Robinson - Estanque sin fondo - 09/06/25</title>
-                <description>Estanque sin fondo
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>Mañana más - 2x192 - AUDIO: Isabel Cadenas Cañón y The Hives</title>
+                <description>2x192 - AUDIO: Isabel Cadenas Cañón y The Hives
+Feed: https://www.rtve.es/api/adapter/programas/175697/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/estanque-sin-fondo-09-06-25/16616692/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16616692.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/estanque-sin-fondo-09-06-25/16616692/</guid>
+                <link>https://www.rtve.es/play/audios/manana-mas/isabel-cadenas-canon-hives/16626915/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16626915.mp3"/>
+                <guid>https://www.rtve.es/play/audios/manana-mas/isabel-cadenas-canon-hives/16626915/</guid>
                 
             </item><item>
-                <title>Centralitas telefónicas. Locutores para grabación de mensajes para centralitas de teléfono</title>
-                <description>&lt;p&gt;Escena Digital:  Locutores. Locutores profesionales. Locutor. Spanish voice over. Spanish dubbing&lt;/p&gt;
-&lt;p&gt;Centralitas telefónicas. Locutores de grabación de mensajes para centralitas de teléfono. Su locutor para grabación de mensajes telefónicos&lt;/p&gt;
-&lt;p&gt;La entrada Centralitas telefónicas. Locutores para grabación de mensajes para centralitas de teléfono se publicó primero en Escena Digital Locutores:  Locutores profesionales.  Locutor. Locutoras.&lt;/p&gt;
-
-Feed: https://www.locutortv.es/feed/</description>
+                <title>Hoy empieza todo - No te enamores de Xavibo - 16/06/2025</title>
+                <description>No te enamores de Xavibo
+Feed: http://api.rtve.es/api/programas/59010/audios.rss</description>
                 
                 
-                <link>https://www.locutortv.es/centralitas-telefonicas-locutor-grabaciones/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.locutortv.es/sonido/2019-AGOSTO-LOCUTORES-VOICEOVER/martab-lesley-locutoras-sheraton-centralita-hotel-ivr-recording.mp3"/>
-                <guid>https://www.locutortv.es/centralitas-telefonicas-locutor-grabaciones/</guid>
+                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-1/hoy-empieza-todo-no-enamores-xavibo-16-06-2025/16626546/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16626546.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-1/hoy-empieza-todo-no-enamores-xavibo-16-06-2025/16626546/</guid>
                 
             </item>
         </channel>
