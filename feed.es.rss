@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 17 Jun 2025 04:34:19 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 18 Jun 2025 04:34:45 +0200</lastBuildDate>
             <item>
-                <title>Mañana más - 2x192 - AUDIO: Isabel Cadenas Cañón y The Hives</title>
-                <description>2x192 - AUDIO: Isabel Cadenas Cañón y The Hives
-Feed: https://www.rtve.es/api/adapter/programas/175697/audios.rss</description>
+                <title>Café del Sur - Las canciones del puerto - 15/06/25</title>
+                <description>Las canciones del puerto
+Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/manana-mas/isabel-cadenas-canon-hives/16626915/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16626915.mp3"/>
-                <guid>https://www.rtve.es/play/audios/manana-mas/isabel-cadenas-canon-hives/16626915/</guid>
+                <link>https://www.rtve.es/play/audios/cafe-del-sur/canciones-del-puerto-15-06-25/16625459/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16625459.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cafe-del-sur/canciones-del-puerto-15-06-25/16625459/</guid>
                 
             </item><item>
-                <title>Hoy empieza todo - No te enamores de Xavibo - 16/06/2025</title>
-                <description>No te enamores de Xavibo
-Feed: http://api.rtve.es/api/programas/59010/audios.rss</description>
+                <title>Star 80 del 14 de junio de 2025</title>
+                <description>Falco - Rock Me Amadeus
+Betty Miranda - Take Me To The Top
+Interface - Plastic Age
+Tommy - One Night
+Joy Peters - One Night In Love
+Beagle Music Ldt...
+Feed: https://www.ivoox.com/feed_fg_f144163_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-1/hoy-empieza-todo-no-enamores-xavibo-16-06-2025/16626546/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16626546.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-1/hoy-empieza-todo-no-enamores-xavibo-16-06-2025/16626546/</guid>
+                <link>https://www.ivoox.com/star-80-del-14-junio-2025-audios-mp3_rf_150194396_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-14-junio-2025_mf_150194396_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/star-80-del-14-junio-2025-audios-mp3_rf_150194396_1.html</guid>
                 
             </item>
         </channel>
