@@ -9,31 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 18 Jun 2025 04:34:45 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 19 Jun 2025 04:34:17 +0200</lastBuildDate>
             <item>
-                <title>Café del Sur - Las canciones del puerto - 15/06/25</title>
-                <description>Las canciones del puerto
-Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
+                <title>#305 Don Cotorra AUDIO</title>
+                <description>MANDA PREGUNTA/HISTORIA: LASLENGUACALVAS@GMAIL.COM
+ÚNETE AL PATREON Y A YOUTUBE LINK EN BIO
+#LENGUASCALVAS
+Feed: https://www.spreaker.com/show/6599505/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cafe-del-sur/canciones-del-puerto-15-06-25/16625459/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16625459.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cafe-del-sur/canciones-del-puerto-15-06-25/16625459/</guid>
+                <link>https://www.spreaker.com/episode/305-don-cotorra-audio--66569344</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66569344/305_don_cotorra_audio.mp3"/>
+                <guid>https://www.spreaker.com/episode/305-don-cotorra-audio--66569344</guid>
                 
             </item><item>
-                <title>Star 80 del 14 de junio de 2025</title>
-                <description>Falco - Rock Me Amadeus
-Betty Miranda - Take Me To The Top
-Interface - Plastic Age
-Tommy - One Night
-Joy Peters - One Night In Love
-Beagle Music Ldt...
-Feed: https://www.ivoox.com/feed_fg_f144163_filtro_1.xml</description>
+                <title>Webnovela vs Microdrama: 7 Diferencias Clave entre Univisión y ReelShort   | RATONA DE TV</title>
+                <description>&amp;#128155;&amp;#128250; &amp;iexcl;DESCUBRE M&amp;Aacute;S SOBRE EL PODER DE LA EMOCI&amp;Oacute;N EN TUS FICCIONES FAVORITAS CON ESTE CURSO! &amp;#10145;&amp;#65039; https://www.ratonadetv.com/melodrama En este nuevo episodio, desmenuzo las 7 diferencias radicales entre las webnovelas que se produjeron a principios del siglo XXI (Mi adorada Malena, Vidas cruzadas, Te presento a Valent&amp;iacute;n) y los microdramas chinos de ReelShort. &amp;#10024; Descubre c&amp;oacute;mo cambiaron los dramas audiovisuales.....
+Feed: https://feeds.feedburner.com/ratonapodcast</description>
                 
                 
-                <link>https://www.ivoox.com/star-80-del-14-junio-2025-audios-mp3_rf_150194396_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/star-80-del-14-junio-2025_mf_150194396_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/star-80-del-14-junio-2025-audios-mp3_rf_150194396_1.html</guid>
+                <link>https://www.ivoox.com/webnovela-vs-microdrama-7-diferencias-clave-entre-univision-audios-mp3_rf_148696136_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/webnovela-vs-microdrama-7-diferencias-clave-entre-univision_mf_148696136_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/webnovela-vs-microdrama-7-diferencias-clave-entre-univision-audios-mp3_rf_148696136_1.html</guid>
                 
             </item>
         </channel>
