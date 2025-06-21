@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 20 Jun 2025 04:33:42 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 21 Jun 2025 04:31:20 +0200</lastBuildDate>
             <item>
-                <title>Poemas de amor desesperados. Poesía de amor desesperada para separaciones. Soy río sin cauce</title>
-                <description>Poemas de amor desesperados. Poesía de amor desesperada para separaciones. Soy río sin cauce
-Poemas desesperados con voz. Poesías con voz para separaciones .Poemas románticos con voz para amores separados. Poesías románticas con voz. Poesías de amor...
-Feed: https://www.spreaker.com/show/5435375/episodes/feed</description>
+                <title>Postales de un viaje de fin de curso</title>
+                <description>Postales de un viaje de fin de curso
+Feed: http://api.rtve.es/api/adapter/programas/155130/audios.rss</description>
                 
                 
-                <link>https://www.locutortv.com/voice-actor-video-games-recording/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/66459465/soy_rio_poema_amorypoesia4_poema_amor_mus.mp3"/>
-                <guid>https://www.locutortv.com/voice-actor-video-games-recording/</guid>
+                <link>https://www.rtve.es/play/audios/esto-merece-una-explicacion/postales-viaje-fin-curso/16601238/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16601238.mp3"/>
+                <guid>https://www.rtve.es/play/audios/esto-merece-una-explicacion/postales-viaje-fin-curso/16601238/</guid>
                 
             </item><item>
-                <title>Turbo 3 - Kalorama 2025 - 19/06/25</title>
-                <description>Kalorama 2025
-Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
+                <title>Clase 44 - Ya estás realizado !! - Viviana Bonassi - De Un Corazón a Un Corazón - 10 jun 2025</title>
+                <description>LOS TRATADOS DE UN CURSO DE AMOR - EL SEGUNDO TRATADO - Cap. 5 y 6 .
+◕ Clase en vivo por Zoom desde AMORQUESANA -► https://www.youtube.com/@juky.91218
+Todos los martes a las 4 pm de Colombia / 6 pm de Argentina.
+Feed: https://www.spreaker.com/show/6353840/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/turbo-3/kalorama-2025-19-06-25/16632672/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16632672.mp3"/>
-                <guid>https://www.rtve.es/play/audios/turbo-3/kalorama-2025-19-06-25/16632672/</guid>
+                <link>https://www.spreaker.com/episode/clase-44-ya-estas-realizado-viviana-bonassi-de-un-corazon-a-un-corazon-10-jun-2025--66549708</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/66549708/de_un_corazon_a_un_corazon_clase_44.mp3"/>
+                <guid>https://www.spreaker.com/episode/clase-44-ya-estas-realizado-viviana-bonassi-de-un-corazon-a-un-corazon-10-jun-2025--66549708</guid>
                 
             </item>
         </channel>
