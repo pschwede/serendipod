@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 21 Jun 2025 04:31:20 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 22 Jun 2025 04:36:17 +0200</lastBuildDate>
             <item>
-                <title>Postales de un viaje de fin de curso</title>
-                <description>Postales de un viaje de fin de curso
-Feed: http://api.rtve.es/api/adapter/programas/155130/audios.rss</description>
+                <title>Problemas de comportamiento en mascotas - El Expresso de las 10 - Vi. 20 Junio 2025</title>
+                <description>https://podcastudg.com/ExpressoDeLas10/2025/Junio/ElExpresso20250620.mp3
+Feed: https://udgtv.com/podcast/guadalajara/el-expresso-de-las-1000/feed/457</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/esto-merece-una-explicacion/postales-viaje-fin-curso/16601238/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16601238.mp3"/>
-                <guid>https://www.rtve.es/play/audios/esto-merece-una-explicacion/postales-viaje-fin-curso/16601238/</guid>
+                <link>https://udgtv.com/podcast/guadalajara/el-expresso-de-las-10/problemas-de-comportamiento-en-mascotas/274677</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/ExpressoDeLas10/2025/Junio/ElExpresso20250620.mp3"/>
+                <guid>https://udgtv.com/podcast/guadalajara/el-expresso-de-las-10/problemas-de-comportamiento-en-mascotas/274677</guid>
                 
             </item><item>
-                <title>Clase 44 - Ya estás realizado !! - Viviana Bonassi - De Un Corazón a Un Corazón - 10 jun 2025</title>
-                <description>LOS TRATADOS DE UN CURSO DE AMOR - EL SEGUNDO TRATADO - Cap. 5 y 6 .
-◕ Clase en vivo por Zoom desde AMORQUESANA -► https://www.youtube.com/@juky.91218
-Todos los martes a las 4 pm de Colombia / 6 pm de Argentina.
-Feed: https://www.spreaker.com/show/6353840/episodes/feed</description>
+                <title>A golpe de bit - La ciencia española revela como perdió su agua Marte</title>
+                <description>La ciencia española revela como perdió su agua Marte
+Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/clase-44-ya-estas-realizado-viviana-bonassi-de-un-corazon-a-un-corazon-10-jun-2025--66549708</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/66549708/de_un_corazon_a_un_corazon_clase_44.mp3"/>
-                <guid>https://www.spreaker.com/episode/clase-44-ya-estas-realizado-viviana-bonassi-de-un-corazon-a-un-corazon-10-jun-2025--66549708</guid>
+                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-ciencia-espanola-revela-como-perdio-su-agua-marte/16633593/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16633593.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-ciencia-espanola-revela-como-perdio-su-agua-marte/16633593/</guid>
                 
             </item>
         </channel>
