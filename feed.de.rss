@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 22 Jun 2025 04:36:10 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 23 Jun 2025 04:38:51 +0200</lastBuildDate>
             <item>
-                <title>News News News</title>
-                <description>Nur eine kurze Durchsage bezüglich Discord und Steady! Hört rein!
- Mehr zur dieser Episode: 
-Direkt zum Newsletter!
-Heldendumm Discord
-Unterstützt uns auf Steady
-Feed: https://heldendumm.de/feed/podcast/heldendumm/</description>
+                <title>Heilung der Vaterwunde- Schluss mit dem Kampf um Liebe</title>
+                <description>Heilung der Vaterwunde: Werde die Priorität in deinem Leben Deine Vaterwunde prägt mehr in deinem Leben, als du denkst: Wie du über Männer denkst, wie du dich in Beziehungen verhältst, wie sehr du leisten musst, um dich geliebt zu fühlen. In...
+Feed: https://wunderdeswertes.libsyn.com/rss</description>
                 
                 
-                <link>https://heldendumm.de/podcast/news-news-news/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e/heldendumm.de/wp-content/uploads/2025/06/Heldendumm-S06B02-NewsNewsNews.mp3"/>
-                <guid>https://heldendumm.de/podcast/news-news-news/</guid>
+                <link>https://wunderdeswertes.libsyn.com/heilung-der-vaterwunde-schluss-mit-dem-kampf-um-liebe</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/wunderdeswertes/326FINALAUDIO.mp3?dest-id=754619"/>
+                <guid>https://wunderdeswertes.libsyn.com/heilung-der-vaterwunde-schluss-mit-dem-kampf-um-liebe</guid>
                 
             </item><item>
-                <title>#0092 - KPIs im ISMS – Teil 2: So interpretierst und nutzt du deine Kennzahlen richtig</title>
-                <description>&lt;p&gt;Kennzahlen sind nur so gut wie ihre Interpretation. In Teil 2 zeigen wir dir, &lt;strong&gt;wie du KPIs im ISMS richtig liest, analysierst und für Entscheidungen nutzt&lt;/strong&gt;. Ob Trends, Schwellenwerte oder Eskalationsmechanismen – hier wird aus Zahlen echte Sicherheit. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jetzt reinhören und Daten in Taten verwandeln!&lt;/strong&gt; ???????? #ISO27001 #ISMS #KPIs #CyberSecurity #Kennzahlen #SecurityMetrics&lt;/p&gt;
-
-Feed: https://anchor.fm/s/f1a62114/podcast/rss</description>
+                <title>Episode 108: Es ist mal grundsätzlich Musik</title>
+                <description>Thomas Anders im Gespräch mit Andreas Kunze
+Feed: https://feeds.acast.com/public/shows/62336c028b2c240014ea6301</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/cyber-rojo/episodes/0092---KPIs-im-ISMS--Teil-2-So-interpretierst-und-nutzt-du-deine-Kennzahlen-richtig-e348bup</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/f1a62114/podcast/play/104131993/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-14%2Fbbef0167-8359-dadb-7d4d-9d0ee1145c0e.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/cyber-rojo/episodes/0092---KPIs-im-ISMS--Teil-2-So-interpretierst-und-nutzt-du-deine-Kennzahlen-richtig-e348bup</guid>
+                <link>https://thomas-anders.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/62336c028b2c240014ea6301/e/6836f887998551779f961b81/media.mp3"/>
+                <guid>https://thomas-anders.com</guid>
                 
             </item>
         </channel>

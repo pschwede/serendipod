@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 22 Jun 2025 04:36:17 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 23 Jun 2025 04:39:00 +0200</lastBuildDate>
             <item>
-                <title>Problemas de comportamiento en mascotas - El Expresso de las 10 - Vi. 20 Junio 2025</title>
-                <description>https://podcastudg.com/ExpressoDeLas10/2025/Junio/ElExpresso20250620.mp3
-Feed: https://udgtv.com/podcast/guadalajara/el-expresso-de-las-1000/feed/457</description>
+                <title>Futuro abierto - Sobremedicación de la sociedad - 23/06/25</title>
+                <description>Sobremedicación de la sociedad
+Feed: http://api.rtve.es/api/programas/23731/audios.rss</description>
                 
                 
-                <link>https://udgtv.com/podcast/guadalajara/el-expresso-de-las-10/problemas-de-comportamiento-en-mascotas/274677</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/ExpressoDeLas10/2025/Junio/ElExpresso20250620.mp3"/>
-                <guid>https://udgtv.com/podcast/guadalajara/el-expresso-de-las-10/problemas-de-comportamiento-en-mascotas/274677</guid>
+                <link>https://www.rtve.es/play/audios/futuro-abierto/sobremedicacion-sociedad-23-06-25/16635727/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16635727.mp3"/>
+                <guid>https://www.rtve.es/play/audios/futuro-abierto/sobremedicacion-sociedad-23-06-25/16635727/</guid>
                 
             </item><item>
-                <title>A golpe de bit - La ciencia española revela como perdió su agua Marte</title>
-                <description>La ciencia española revela como perdió su agua Marte
-Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
+                <title>A hombros de gigantes - Inteligencia Artificial contra la enfermedad del sueño - 22/06/25</title>
+                <description>Inteligencia Artificial contra la enfermedad del sueño
+Feed: http://www.rtve.es/api/programas/1873/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-ciencia-espanola-revela-como-perdio-su-agua-marte/16633593/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16633593.mp3"/>
-                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-ciencia-espanola-revela-como-perdio-su-agua-marte/16633593/</guid>
+                <link>https://www.rtve.es/play/audios/a-hombros-de-gigantes/hombros-gigantes-inteligencia-artificial-contra-enfermedad-del-sueno-22-06-25/16631934/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16631934.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-hombros-de-gigantes/hombros-gigantes-inteligencia-artificial-contra-enfermedad-del-sueno-22-06-25/16631934/</guid>
                 
             </item>
         </channel>
