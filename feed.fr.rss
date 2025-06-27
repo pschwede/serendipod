@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 26 Jun 2025 04:35:52 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 27 Jun 2025 04:34:54 +0200</lastBuildDate>
             <item>
-                <title>Libre Pensée avec André Rosevegue - 23/06/2025</title>
-                <description>Épisode du 23/06/2025 : Libre Pensée avec André Rosevegue -- Le groupe Fred Zeller, par le biais de, autrefois Jean-Jacques Brière de l’Isle, maintenant Jean-Louis Bagault seulement, vous propose des discours autour de la Libre Pensée.
-Feed: https://www.radioslibresenperigord.com/rss/libre-pensee.xml</description>
+                <title>#009 - Rubrique &#34;6 Min. pour comprendre&#34;: le numérique, invisible, mais lourd de conséquences (FR)</title>
+                <description>#216 Midoricast - Pierre Léonard, facilitateur en développement durable
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7892_7576cac4dcce6c190b102f990bbe41d6.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.radioslibresenperigord.com/wp-content/podcasts/libre-pensee/2025.06.23%20Libre%20Pens%C3%A9e%20avec%20Andr%C3%A9%20Rosevegue.mp3"/>
-                <guid></guid>
+                <link>https://www.podcastics.com/podcast/episode/009-rubrique-6-min-pour-comprendre-le-numerique-invisible-mais-lourd-de-consequences-fr-370855/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/op3.dev/e/track.podcastics.com/7892/370855.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/009-rubrique-6-min-pour-comprendre-le-numerique-invisible-mais-lourd-de-consequences-fr-370855/</guid>
                 
             </item><item>
-                <title>[Le monde devant soi] Guerre Israël-Iran: jusqu&#39;où peut aller l&#39;escalade? </title>
-                <description>&lt;p&gt;Cette semaine, nous vous proposons d&#39;écouter le dernier épisode du «Monde devant soi», notre autre podcast politique, diffusé ce vendredi 20 juin. &lt;br/&gt;&lt;br/&gt;«New Deal» revient bientôt avec des hors-séries d&#39;été. Bonne écoute&lt;br/&gt;---------&lt;br/&gt;&lt;br/&gt;Cela fait désormais une semaine que la guerre ouverte entre Israël et l&#39;Iran&amp;nbsp;a débuté...
-Feed: https://feeds.360.audion.fm/6DEDYNDVuyDDA-xbBAq8y</description>
+                <title>Les criquets crinqués : Bonne St-Jean !</title>
+                <description>653-338913
+Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/23e4ffba-2fd7-4421-8a94-940eb4abcbbc.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/338913.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/338913.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/338913.mp3</guid>
                 
             </item>
         </channel>

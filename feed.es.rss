@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 26 Jun 2025 04:35:56 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 27 Jun 2025 04:34:58 +0200</lastBuildDate>
             <item>
-                <title>Sorpresas 2 | Hoy Toca</title>
-                <description>Carlos Iribarren | En esta nueva entrega de Hoy Toca, Carlos ha preparado un plato combinado con 7 platos que cree que pueden sorprender a Mario y a los oyentes del programa. Los motivos son diversos pero las piezas escogidas tienen algo en común y es que no van a dejarte indiferente. Algunas fueron compuestas por autores españoles como Tárrega, Gómez y Rodrigo y antes disfrutaremos de arreglos realmente especiales de música creada por genios de la talla de Johannes Brahms y Astor Piazzolla...
-Feed: https://www.ivoox.com/feed_fg_f1135497_filtro_1.xml</description>
+                <title>Sateli 3 - Los Danceflooramas Sr Lobezno (y 15) Summer Hits 2025 - 27/06/25</title>
+                <description>Los Danceflooramas Sr Lobezno (y 15) Summer Hits 2025
+Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/sorpresas-2-hoy-toca-audios-mp3_rf_150840325_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sorpresas-2-hoy-toca_mf_150840325_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/sorpresas-2-hoy-toca-audios-mp3_rf_150840325_1.html</guid>
+                <link>https://www.rtve.es/play/audios/sateli-3/danceflooramas-sr-lobezno-15-summer-hits-2025-27-06-25/16642297/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16642297.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sateli-3/danceflooramas-sr-lobezno-15-summer-hits-2025-27-06-25/16642297/</guid>
                 
             </item><item>
-                <title>Radioyentes 425 podcast de Podimo segunda parte</title>
-                <description>Comenzamos la segunda parte de nuestro repaso a espacios de la plataforma Podimo y lo hacemos hablando de Niño tenías que ser que es un podcast centrado en la crianza de los niños en el que Isabel Rodríguez y Sara Noguera hablan sin tapujos y desde el humor sobre la maternidad y todos los mitos que la rodean.
-Agradecimientos para:
-José Antonio Laboreo de Radio Villegas
-Sintonía: de Junior Menezes
-Feed: https://www.ivoox.com/feed_fg_f1463235_filtro_1.xml</description>
+                <title>No es un día cualquiera - Xosé &#34;por qué&#34;</title>
+                <description>Xosé &#34;por qué&#34;
+Feed: http://api.rtve.es/api/programas/2054/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/radioyentes-425-podcast-podimo-segunda-parte-audios-mp3_rf_137838257_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-425-podcast-podimo-segunda-parte_mf_137838257_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/radioyentes-425-podcast-podimo-segunda-parte-audios-mp3_rf_137838257_1.html</guid>
+                <link>https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-xose/16636666/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16636666.mp3"/>
+                <guid>https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-xose/16636666/</guid>
                 
             </item>
         </channel>
