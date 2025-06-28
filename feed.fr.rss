@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 27 Jun 2025 04:34:54 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 28 Jun 2025 04:32:16 +0200</lastBuildDate>
             <item>
-                <title>#009 - Rubrique &#34;6 Min. pour comprendre&#34;: le numérique, invisible, mais lourd de conséquences (FR)</title>
-                <description>#216 Midoricast - Pierre Léonard, facilitateur en développement durable
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7892_7576cac4dcce6c190b102f990bbe41d6.rss</description>
+                <title>Lexique LGBT+ : &#34;Découvrir tous ces termes à 20 ans, c&#39;est comme si j&#39;apprenais à respirer à nouveau.&#34;</title>
+                <description>Lexique LGBT+ : &#34;Découvrir tous ces termes à 20 ans, c&#39;est comme si j&#39;apprenais à respirer à nouveau.&#34;
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10078.xml</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/009-rubrique-6-min-pour-comprendre-le-numerique-invisible-mais-lourd-de-consequences-fr-370855/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/op3.dev/e/track.podcastics.com/7892/370855.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/009-rubrique-6-min-pour-comprendre-le-numerique-invisible-mais-lourd-de-consequences-fr-370855/</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/lexique-lgbt-decouvrir-tous-ces-termes-a-20-ans-c-est-comme-si-j-apprenais-a-respirer-a-nouveau-3247897</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a430f8dd-e18f-4342-87a9-db46888a072a/10078-28.06.2025-ITEMA_24181754-2019C6612S0255-NET_FC_90A16A0E-AFAE-4345-B2D5-09BC22EE590C-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/lexique-lgbt-decouvrir-tous-ces-termes-a-20-ans-c-est-comme-si-j-apprenais-a-respirer-a-nouveau-3247897</guid>
                 
             </item><item>
-                <title>Les criquets crinqués : Bonne St-Jean !</title>
-                <description>653-338913
-Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
+                <title>Qui veut une glace ?</title>
+                <description>&lt;p&gt;Cette semaine, Julie &amp;amp; Mag régalent tous ceux qui ont un besoin urgent de se rafraichir dans une émission glacée d&#39;ESSENTIEL academy ! &lt;/p&gt;
+Feed: https://feeds.captivate.fm/essentiel-radio-essentiel-academy/</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/338913.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/338913.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/338913.mp3</guid>
+                <link>https://essentielradio.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/e004eeae-7bc7-4d35-9c33-af8943cf6243.mp3"/>
+                <guid>https://essentielradio.com/</guid>
                 
             </item>
         </channel>

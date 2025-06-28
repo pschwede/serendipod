@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 27 Jun 2025 04:34:58 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 28 Jun 2025 04:32:19 +0200</lastBuildDate>
             <item>
-                <title>Sateli 3 - Los Danceflooramas Sr Lobezno (y 15) Summer Hits 2025 - 27/06/25</title>
-                <description>Los Danceflooramas Sr Lobezno (y 15) Summer Hits 2025
-Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
+                <title>La RAE informa - Acalorados - 26/06/25</title>
+                <description>Acalorados
+Feed: https://www.rtve.es/api/programas/128332/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sateli-3/danceflooramas-sr-lobezno-15-summer-hits-2025-27-06-25/16642297/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16642297.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sateli-3/danceflooramas-sr-lobezno-15-summer-hits-2025-27-06-25/16642297/</guid>
+                <link>https://www.rtve.es/play/audios/rae-informa/rae-informa-acalorados-26-06-25/16641688/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16641688.mp3"/>
+                <guid>https://www.rtve.es/play/audios/rae-informa/rae-informa-acalorados-26-06-25/16641688/</guid>
                 
             </item><item>
-                <title>No es un día cualquiera - Xosé &#34;por qué&#34;</title>
-                <description>Xosé &#34;por qué&#34;
-Feed: http://api.rtve.es/api/programas/2054/audios.rss</description>
+                <title>UCDM - Lección 173 con Claudio</title>
+                <description>Clase en vivo por Facebook desde AceptArte...
+Feed: https://www.spreaker.com/show/6357279/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-xose/16636666/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16636666.mp3"/>
-                <guid>https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-xose/16636666/</guid>
+                <link>https://www.spreaker.com/episode/ucdm-leccion-173-con-claudio--66695762</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/66695762/173.mp3"/>
+                <guid>https://www.spreaker.com/episode/ucdm-leccion-173-con-claudio--66695762</guid>
                 
             </item>
         </channel>
