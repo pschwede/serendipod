@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 28 Jun 2025 04:32:12 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Jun 2025 04:39:54 +0200</lastBuildDate>
             <item>
-                <title>SpinOff-Folge 67 - Zwischen Fanzine-Nostalgie, #pnpde-Bewegung und einmaligem Kunstprojekt: The CrunchFluff</title>
-                <description>Die Macher*innen hinter dem kuratierten Kunstprojekt zwischen Rollenspielkultur, Denkfreiraum &amp; dem Miteinander der Szene!
-Feed: https://dernerdigetrashtalk.podigee.io/feed/mp3</description>
+                <title>Data seine (musikalische) Sinuskurven-Zeitreise</title>
+                <description>Star Trek Prodigy “Time Amok” / Star Trek Serien-Titelmelodien
+Feed: https://data-sein-hals.der-sumpf.de/feed/mp3/</description>
                 
                 
-                <link>https://dernerdigetrashtalk.podigee.io/178-thecrunchfluff</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1987376-m-97fd94e270b2eebfa9bd82f08f672d3d.mp3?source=feed"/>
-                <guid>https://dernerdigetrashtalk.podigee.io/178-thecrunchfluff</guid>
+                <link>https://data-sein-hals.der-sumpf.de/2025/06/26/data-seine-musikalische-sinuskurven-zeitreise/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://data-sein-hals.der-sumpf.de/podlove/file/144/s/feed/c/mp3/128_dsh_time_amok.mp3"/>
+                <guid>https://data-sein-hals.der-sumpf.de/2025/06/26/data-seine-musikalische-sinuskurven-zeitreise/</guid>
                 
             </item><item>
-                <title>Habsburgs Erbe und Russlands Fluch:</title>
-                <description>Zwei Blicke auf (europäische) Geschichte
-Feed: https://aztuc0.podcaster.de/Robert-Jungk-Bibliothek.rss</description>
+                <title>#111 Meine Grundausstattung zum Backen </title>
+                <description>- die Schwabenfolge  
+Feed: https://nachtschicht-podcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://jungk-bibliothek.org/podcast/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aztuc0.podcaster.de/Robert-Jungk-Bibliothek/media/Pod_Habsburger_Russland_fin.mp3"/>
-                <guid>https://jungk-bibliothek.org/podcast/</guid>
+                <link>https://nachtschicht-podcast.podigee.io/111-meine-grundausstattung-zum-backen</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1961623-m-fc60436a0ae0e1df81d327ef804a5c80.mp3?source=feed"/>
+                <guid>https://nachtschicht-podcast.podigee.io/111-meine-grundausstattung-zum-backen</guid>
                 
             </item>
         </channel>

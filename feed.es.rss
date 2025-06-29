@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 28 Jun 2025 04:32:19 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Jun 2025 04:40:02 +0200</lastBuildDate>
             <item>
-                <title>La RAE informa - Acalorados - 26/06/25</title>
-                <description>Acalorados
-Feed: https://www.rtve.es/api/programas/128332/audios.rss</description>
+                <title>La rosa de los vientos 29/06/2025</title>
+                <description>Escucha el programa completo de &#39;La rosa de los vientos&#39;, Bruno Cardeñosa y Silvia Casasola.  Historia, misterio, investigación y relatos las madrugadas del sábado y del domingo en Onda Cero. 
+Feed: https://www.ondacero.es/rss/podcast/8502/podcast.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/rae-informa/rae-informa-acalorados-26-06-25/16641688/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16641688.mp3"/>
-                <guid>https://www.rtve.es/play/audios/rae-informa/rae-informa-acalorados-26-06-25/16641688/</guid>
+                <link>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/la-rosa-de-los-vientos-29062025_202506296860aeeb3be60c2da856924d.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LA_ROSA_DE_LOS_VIENTOS_P&amp;origen=/mp_audios4/2025/06/29/7BE4041C-E5FA-472D-97F3-2C9CBBF19AAE/7BE4041C-E5FA-472D-97F3-2C9CBBF19AAE.mp3&amp;audioId=6860aeb54f8a6743b7f42947"/>
+                <guid>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/la-rosa-de-los-vientos-29062025_202506296860aeeb3be60c2da856924d.html</guid>
                 
             </item><item>
-                <title>UCDM - Lección 173 con Claudio</title>
-                <description>Clase en vivo por Facebook desde AceptArte...
-Feed: https://www.spreaker.com/show/6357279/episodes/feed</description>
+                <title>Sateli 3 - Los Danceflooramas Sr Lobezno (y 15) Summer Hits 2025 - 27/06/25</title>
+                <description>Los Danceflooramas Sr Lobezno (y 15) Summer Hits 2025
+Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/ucdm-leccion-173-con-claudio--66695762</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/66695762/173.mp3"/>
-                <guid>https://www.spreaker.com/episode/ucdm-leccion-173-con-claudio--66695762</guid>
+                <link>https://www.rtve.es/play/audios/sateli-3/danceflooramas-sr-lobezno-15-summer-hits-2025-27-06-25/16642297/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16642297.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sateli-3/danceflooramas-sr-lobezno-15-summer-hits-2025-27-06-25/16642297/</guid>
                 
             </item>
         </channel>

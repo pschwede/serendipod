@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 28 Jun 2025 04:32:16 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Jun 2025 04:39:58 +0200</lastBuildDate>
             <item>
-                <title>Lexique LGBT+ : &#34;Découvrir tous ces termes à 20 ans, c&#39;est comme si j&#39;apprenais à respirer à nouveau.&#34;</title>
-                <description>Lexique LGBT+ : &#34;Découvrir tous ces termes à 20 ans, c&#39;est comme si j&#39;apprenais à respirer à nouveau.&#34;
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10078.xml</description>
+                <title>Festival Looping</title>
+                <description>Le festival Looping, édition 7, réunit les artistes en résidence et les habitants du cité Jacqueline Auriole à Coulounieix-Chamiers. Ensemble ils préparent les expositions, les concerts et les rencontres sur les thèmes du jardinage, vivre ensemble et de la poésie.
+Marc Pichelin, directeur de la compagnie Oui Dire et Tangui Jossic, dessinateur.
+
+Feed: https://www.radioslibresenperigord.com/rss/ma-radio-mon-quartier-ma-ville.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/lexique-lgbt-decouvrir-tous-ces-termes-a-20-ans-c-est-comme-si-j-apprenais-a-respirer-a-nouveau-3247897</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a430f8dd-e18f-4342-87a9-db46888a072a/10078-28.06.2025-ITEMA_24181754-2019C6612S0255-NET_FC_90A16A0E-AFAE-4345-B2D5-09BC22EE590C-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/lexique-lgbt-decouvrir-tous-ces-termes-a-20-ans-c-est-comme-si-j-apprenais-a-respirer-a-nouveau-3247897</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.radioslibresenperigord.com/wp-content/uploads/2025/06/2025-06-23-Looping-N-7-Marc-Pichelin-et-Tangui-Jossic.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Qui veut une glace ?</title>
-                <description>&lt;p&gt;Cette semaine, Julie &amp;amp; Mag régalent tous ceux qui ont un besoin urgent de se rafraichir dans une émission glacée d&#39;ESSENTIEL academy ! &lt;/p&gt;
-Feed: https://feeds.captivate.fm/essentiel-radio-essentiel-academy/</description>
+                <title>Qui a tué Maurice ? (3/5) : L&#39;ouverture du dossier</title>
+                <description>Comment un marteau a-t-il pu être utilisé pour as…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:29669516/sounds.rss</description>
                 
                 
-                <link>https://essentielradio.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/e004eeae-7bc7-4d35-9c33-af8943cf6243.mp3"/>
-                <guid>https://essentielradio.com/</guid>
+                <link>https://soundcloud.com/arte-radio-1/qui-a-tue-maurice-35-louverture-du-dossier</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/2119864014-arte-radio-1-qui-a-tue-maurice-35-louverture-du-dossier.mp3"/>
+                <guid>https://soundcloud.com/arte-radio-1/qui-a-tue-maurice-35-louverture-du-dossier</guid>
                 
             </item>
         </channel>
