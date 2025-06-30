@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 29 Jun 2025 04:40:02 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 30 Jun 2025 04:38:41 +0200</lastBuildDate>
             <item>
-                <title>La rosa de los vientos 29/06/2025</title>
-                <description>Escucha el programa completo de &#39;La rosa de los vientos&#39;, Bruno Cardeñosa y Silvia Casasola.  Historia, misterio, investigación y relatos las madrugadas del sábado y del domingo en Onda Cero. 
-Feed: https://www.ondacero.es/rss/podcast/8502/podcast.xml</description>
+                <title>SSF Jazz en el Cine 2a parte 11 abril 2025</title>
+                <description>Hoy te compartimos la segunda parte del episodio de Jazz en el cine
+Feed: https://www.ivoox.com/feed_fg_f1155767_filtro_1.xml</description>
                 
                 
-                <link>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/la-rosa-de-los-vientos-29062025_202506296860aeeb3be60c2da856924d.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LA_ROSA_DE_LOS_VIENTOS_P&amp;origen=/mp_audios4/2025/06/29/7BE4041C-E5FA-472D-97F3-2C9CBBF19AAE/7BE4041C-E5FA-472D-97F3-2C9CBBF19AAE.mp3&amp;audioId=6860aeb54f8a6743b7f42947"/>
-                <guid>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/la-rosa-de-los-vientos-29062025_202506296860aeeb3be60c2da856924d.html</guid>
+                <link>https://www.ivoox.com/ssf-jazz-cine-2a-parte-11-audios-mp3_rf_146031194_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/ssf-jazz-cine-2a-parte-11_mf_146031194_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/ssf-jazz-cine-2a-parte-11-audios-mp3_rf_146031194_1.html</guid>
                 
             </item><item>
-                <title>Sateli 3 - Los Danceflooramas Sr Lobezno (y 15) Summer Hits 2025 - 27/06/25</title>
-                <description>Los Danceflooramas Sr Lobezno (y 15) Summer Hits 2025
-Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
+                <title>Las mañanas de RNE - Mamen Asencio - LGTBIQ+: &#34;La mitad del planeta todavía nos considera ilegales&#34;</title>
+                <description>LGTBIQ+: &#34;La mitad del planeta todavía nos considera ilegales&#34;
+Feed: https://api2.rtve.es/api/adapter/programas/1000592/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sateli-3/danceflooramas-sr-lobezno-15-summer-hits-2025-27-06-25/16642297/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16642297.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sateli-3/danceflooramas-sr-lobezno-15-summer-hits-2025-27-06-25/16642297/</guid>
+                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-mamen-asencio/mananas-rne-mamen-asencio-lgtbiq-mitad-del-planeta-todavia-considera-ilegales/16642691/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16642691.mp3"/>
+                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-mamen-asencio/mananas-rne-mamen-asencio-lgtbiq-mitad-del-planeta-todavia-considera-ilegales/16642691/</guid>
                 
             </item>
         </channel>
