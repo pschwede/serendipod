@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 30 Jun 2025 04:38:41 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 01 Jul 2025 04:41:53 +0200</lastBuildDate>
             <item>
-                <title>SSF Jazz en el Cine 2a parte 11 abril 2025</title>
-                <description>Hoy te compartimos la segunda parte del episodio de Jazz en el cine
-Feed: https://www.ivoox.com/feed_fg_f1155767_filtro_1.xml</description>
+                <title>Nadie Sabe Nada | T12x43 | Camino de Santiago desde Sarrià</title>
+                <description>&lt;p&gt;Ep. 471: En este episodio de ‘Nadie Sabe Nada’, Berto sigue sin celebrar sus 50 años y Andreu sigue atendiendo llamadas mientras hace programa. En un pequeño viaje al pasado, se desgranan trapos sucios que ocurrieron en el programa de televisión ‘En el Aire’. 
+En otras muchas cosas, debatimos si es de mala educación bailar en conciertos tapando la visión de los que están sentado detrás, si la palabra ‘bro’ es para chicas también o si los dinosaurios se sentirían decepcionados con las palomas...
+Feed: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.ivoox.com/ssf-jazz-cine-2a-parte-11-audios-mp3_rf_146031194_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/ssf-jazz-cine-2a-parte-11_mf_146031194_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/ssf-jazz-cine-2a-parte-11-audios-mp3_rf_146031194_1.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20256/27/4530609.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Las mañanas de RNE - Mamen Asencio - LGTBIQ+: &#34;La mitad del planeta todavía nos considera ilegales&#34;</title>
-                <description>LGTBIQ+: &#34;La mitad del planeta todavía nos considera ilegales&#34;
-Feed: https://api2.rtve.es/api/adapter/programas/1000592/audios.rss</description>
+                <title>Futuro abierto - Economía circular - 30/06/25</title>
+                <description>Economía circular
+Feed: http://api.rtve.es/api/programas/23731/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-mamen-asencio/mananas-rne-mamen-asencio-lgtbiq-mitad-del-planeta-todavia-considera-ilegales/16642691/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16642691.mp3"/>
-                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-mamen-asencio/mananas-rne-mamen-asencio-lgtbiq-mitad-del-planeta-todavia-considera-ilegales/16642691/</guid>
+                <link>https://www.rtve.es/play/audios/futuro-abierto/economia-circular-30-06-25/16644978/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16644978.mp3"/>
+                <guid>https://www.rtve.es/play/audios/futuro-abierto/economia-circular-30-06-25/16644978/</guid>
                 
             </item>
         </channel>
