@@ -9,27 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 01 Jul 2025 04:41:53 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 02 Jul 2025 04:35:48 +0200</lastBuildDate>
             <item>
-                <title>Nadie Sabe Nada | T12x43 | Camino de Santiago desde Sarrià</title>
-                <description>&lt;p&gt;Ep. 471: En este episodio de ‘Nadie Sabe Nada’, Berto sigue sin celebrar sus 50 años y Andreu sigue atendiendo llamadas mientras hace programa. En un pequeño viaje al pasado, se desgranan trapos sucios que ocurrieron en el programa de televisión ‘En el Aire’. 
-En otras muchas cosas, debatimos si es de mala educación bailar en conciertos tapando la visión de los que están sentado detrás, si la palabra ‘bro’ es para chicas también o si los dinosaurios se sentirían decepcionados con las palomas...
-Feed: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml</description>
+                <title>La Corte Suprema ayuda a destruir Estados Unidos</title>
+                <description>&lt;p&gt;Estados Unidos va en decadencia gracias a una Corte Suprema que le ofrece una vez más, legitimidad a los caprichos de un intento de Dictador. De este y otros temas hablo en este episodio.&lt;/p&gt;
+&lt;p&gt;Te invito a debatir sobre este tema en el Foro de la Comunidad de TuPodcast https://foro.tupodcast.com&lt;/p&gt;
+&lt;p&gt;Y otras formas de contacto las encuentran en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/contacto.html&lt;/p&gt;
+&lt;p&gt;Todos los medios donde publico contenido los encuentras en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta...
+Feed: https://www.tupodcast.com/@sinpropaganda/feed.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20256/27/4530609.mp3"/>
-                <guid></guid>
+                <link>https://www.tupodcast.com/@sinpropaganda/episodes/la-corte-suprema-ayuda-a-destruir-estados-unidos</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=22497050-edc7-5e7e-aa35-88b889ddd920/www.tupodcast.com/audio/@sinpropaganda/la-corte-suprema-ayuda-a-destruir-estados-unidos.mp3?_from=fyyd.de"/>
+                <guid>https://www.tupodcast.com/@sinpropaganda/episodes/la-corte-suprema-ayuda-a-destruir-estados-unidos</guid>
                 
             </item><item>
-                <title>Futuro abierto - Economía circular - 30/06/25</title>
-                <description>Economía circular
-Feed: http://api.rtve.es/api/programas/23731/audios.rss</description>
+                <title>Café del sur - Corsario, herético y luterano - 29/06/25</title>
+                <description>Corsario, herético y luterano
+Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/futuro-abierto/economia-circular-30-06-25/16644978/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16644978.mp3"/>
-                <guid>https://www.rtve.es/play/audios/futuro-abierto/economia-circular-30-06-25/16644978/</guid>
+                <link>https://www.rtve.es/play/audios/cafe-del-sur/corsario-heretico-luterano-29-06-25/16644389/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16644389.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cafe-del-sur/corsario-heretico-luterano-29-06-25/16644389/</guid>
                 
             </item>
         </channel>

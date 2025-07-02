@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 01 Jul 2025 04:41:50 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 02 Jul 2025 04:35:44 +0200</lastBuildDate>
             <item>
-                <title>FORTES CHALEURS : les aliments à fuir (et ceux qui vous sauvent)</title>
-                <description>☀️ Fortes chaleurs : que manger et que boire quand il fait (très) chaud ?
-???? Go tout de suite télécharger les bonus dans ma newsletter : les aliments à fuir et ceux qui vous sauvent la mise !  (https://charlyskitchen.substack.com/p/chaud-devant-lediti...
-Feed: https://feed.ausha.co/BNOJQCA91d0q</description>
+                <title>WiNTeR SeSSioN</title>
+                <description>WiNTeR SeSSioN by Olivier Charles
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:1657103/sounds.rss</description>
                 
                 
-                <link>https://podcast.ausha.co/podcast-nutrition-dans-la-poire/fortes-chaleurs-les-aliments-a-fuir-et-ceux-qui-vous-sauvent</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/ykqKMfRZDVgx.mp3?t=1750461260"/>
-                <guid>https://podcast.ausha.co/podcast-nutrition-dans-la-poire/fortes-chaleurs-les-aliments-a-fuir-et-ceux-qui-vous-sauvent</guid>
+                <link>https://soundcloud.com/lanichemusic/winter-session</link>
+                <enclosure type="audio/mpeg" length="1" url="https://itunes.apple.com/fr/podcast/olivier-charles-podcast/id1017166511?l=en/http://feeds.soundcloud.com/stream/2121289344-lanichemusic-winter-session.mp3"/>
+                <guid>https://soundcloud.com/lanichemusic/winter-session</guid>
                 
             </item><item>
-                <title>Qui a tué Maurice ? (5/5) : Le complice silencieux</title>
-                <description>Dans la famille de Louise, la mort a sévi de faço…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:29669516/sounds.rss</description>
+                <title>La Voix des invisibles : Mamadou Hady Bah, le tirailleur sénégalais devenu héros de la Résistance</title>
+                <description>La Voix des invisibles : Mamadou Hady Bah, le tirailleur sénégalais devenu héros de la Résistance
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16278.xml</description>
                 
                 
-                <link>https://soundcloud.com/arte-radio-1/qui-a-tue-maurice-55-le-complice-silencieux</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/2120033733-arte-radio-1-qui-a-tue-maurice-55-le-complice-silencieux.mp3"/>
-                <guid>https://soundcloud.com/arte-radio-1/qui-a-tue-maurice-55-le-complice-silencieux</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-de/la-voix-des-invisibles-saison-2-episode-10-10-mamadou-hady-bah-le-tirailleur-senegalais-devenu-heros-de-la-resistance-7052712</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/bb1f7c4c-f240-44b7-bbb1-eb6cec34bf24/16278-25.06.2025-ITEMA_24145811-2025C42509E0020-ITE_00150114_RSCE-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-de/la-voix-des-invisibles-saison-2-episode-10-10-mamadou-hady-bah-le-tirailleur-senegalais-devenu-heros-de-la-resistance-7052712</guid>
                 
             </item>
         </channel>
