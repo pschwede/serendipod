@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 02 Jul 2025 04:35:44 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 03 Jul 2025 04:37:55 +0200</lastBuildDate>
             <item>
-                <title>WiNTeR SeSSioN</title>
-                <description>WiNTeR SeSSioN by Olivier Charles
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:1657103/sounds.rss</description>
+                <title>Podcast n°104 - À taaaaaaaaaaaaaaaaable !</title>
+                <description>Aujourd’hui, sortez les couverts en mithril et préparez vos estomacs : on s’attaque à un sujet au...
+Feed: https://elbakin.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://soundcloud.com/lanichemusic/winter-session</link>
-                <enclosure type="audio/mpeg" length="1" url="https://itunes.apple.com/fr/podcast/olivier-charles-podcast/id1017166511?l=en/http://feeds.soundcloud.com/stream/2121289344-lanichemusic-winter-session.mp3"/>
-                <guid>https://soundcloud.com/lanichemusic/winter-session</guid>
+                <link>https://www.podomatic.com/podcasts/elbakin/episodes/2025-05-27T04_54_57-07_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://elbakin.podomatic.com/enclosure/2025-05-27T04_54_57-07_00.mp3?_=1748346908.17421783"/>
+                <guid>https://www.podomatic.com/podcasts/elbakin/episodes/2025-05-27T04_54_57-07_00</guid>
                 
             </item><item>
-                <title>La Voix des invisibles : Mamadou Hady Bah, le tirailleur sénégalais devenu héros de la Résistance</title>
-                <description>La Voix des invisibles : Mamadou Hady Bah, le tirailleur sénégalais devenu héros de la Résistance
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16278.xml</description>
+                <title>De &#34;Gypsy&#34; aux &#34;Misérables&#34;, une saison de &#34;Cabaret 42e rue&#34;</title>
+                <description>De &#34;Gypsy&#34; aux &#34;Misérables&#34;, une saison de &#34;Cabaret 42e rue&#34;
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11392.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-de/la-voix-des-invisibles-saison-2-episode-10-10-mamadou-hady-bah-le-tirailleur-senegalais-devenu-heros-de-la-resistance-7052712</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/bb1f7c4c-f240-44b7-bbb1-eb6cec34bf24/16278-25.06.2025-ITEMA_24145811-2025C42509E0020-ITE_00150114_RSCE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-de/la-voix-des-invisibles-saison-2-episode-10-10-mamadou-hady-bah-le-tirailleur-senegalais-devenu-heros-de-la-resistance-7052712</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/de-gypsy-aux-miserables-une-saison-de-cabaret-42e-rue-1976444</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/fc0c7f8f-ddf9-4e8c-b8c0-619a7da3aaa4/11392-29.06.2025-ITEMA_24184030-2025M13793S0180-NET_MFM_93DFF179-3624-47AF-9BC1-38472A769E9C-21.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/de-gypsy-aux-miserables-une-saison-de-cabaret-42e-rue-1976444</guid>
                 
             </item>
         </channel>

@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 02 Jul 2025 04:35:48 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 03 Jul 2025 04:37:58 +0200</lastBuildDate>
             <item>
-                <title>La Corte Suprema ayuda a destruir Estados Unidos</title>
-                <description>&lt;p&gt;Estados Unidos va en decadencia gracias a una Corte Suprema que le ofrece una vez más, legitimidad a los caprichos de un intento de Dictador. De este y otros temas hablo en este episodio.&lt;/p&gt;
-&lt;p&gt;Te invito a debatir sobre este tema en el Foro de la Comunidad de TuPodcast https://foro.tupodcast.com&lt;/p&gt;
-&lt;p&gt;Y otras formas de contacto las encuentran en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta.me/contacto.html&lt;/p&gt;
-&lt;p&gt;Todos los medios donde publico contenido los encuentras en:&lt;/p&gt;
-&lt;p&gt;https://ernestoacosta...
-Feed: https://www.tupodcast.com/@sinpropaganda/feed.xml</description>
+                <title>Rincón Sportinguista 594. Especial cantera #PodcastSportiguista</title>
+                <description>Programa desde el espacio de Twitter donde analizamos la temporada en la Escuela de F&amp;uacute;tbol de Mareo.
+Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
                 
                 
-                <link>https://www.tupodcast.com/@sinpropaganda/episodes/la-corte-suprema-ayuda-a-destruir-estados-unidos</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=22497050-edc7-5e7e-aa35-88b889ddd920/www.tupodcast.com/audio/@sinpropaganda/la-corte-suprema-ayuda-a-destruir-estados-unidos.mp3?_from=fyyd.de"/>
-                <guid>https://www.tupodcast.com/@sinpropaganda/episodes/la-corte-suprema-ayuda-a-destruir-estados-unidos</guid>
+                <link>https://www.ivoox.com/rincon-sportinguista-594-especial-cantera-podcastsportiguista-audios-mp3_rf_149871542_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-594-especial-cantera-podcastsportiguista_mf_149871542_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/rincon-sportinguista-594-especial-cantera-podcastsportiguista-audios-mp3_rf_149871542_1.html</guid>
                 
             </item><item>
-                <title>Café del sur - Corsario, herético y luterano - 29/06/25</title>
-                <description>Corsario, herético y luterano
-Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
+                <title>Poniendo orden</title>
+                <description>Limpieza de canales de Slack, de repositorios de GitHub, de versiones de bases de datos, y las bases del desarrollo de IA son algunas de las propuestas de una semana en la que se ha querido poner orden en el proyecto WordPress.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cafe-del-sur/corsario-heretico-luterano-29-06-25/16644389/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16644389.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cafe-del-sur/corsario-heretico-luterano-29-06-25/16644389/</guid>
+                <link>https://www.wppodcast.es/podcast/poniendo-orden/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/315/s/feed/c/podcast/wordpress-podcast-e268.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/poniendo-orden/</guid>
                 
             </item>
         </channel>
