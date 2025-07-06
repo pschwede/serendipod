@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 03 Jul 2025 04:37:55 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 06 Jul 2025 04:37:41 +0200</lastBuildDate>
             <item>
-                <title>Podcast n°104 - À taaaaaaaaaaaaaaaaable !</title>
-                <description>Aujourd’hui, sortez les couverts en mithril et préparez vos estomacs : on s’attaque à un sujet au...
-Feed: https://elbakin.podomatic.com/rss2.xml</description>
+                <title>[???? Tchou Tchou] À bord du Tromsø (pas si) express : de Copenhague à Stockholm</title>
+                <description>
+Ce matin, embarquez avec moi à bord du Snälltåget, en direction de Stockholm, pour un voyage inoubliable à travers le pont de l’Øresund, entre mer et ciel. En 6 heures de train, nous passons du printemps lumineux de Copenhague à l’hiver enneigé de l...
+Feed: https://feeds.feedburner.com/LaFranceBaladeuse</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/elbakin/episodes/2025-05-27T04_54_57-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://elbakin.podomatic.com/enclosure/2025-05-27T04_54_57-07_00.mp3?_=1748346908.17421783"/>
-                <guid>https://www.podomatic.com/podcasts/elbakin/episodes/2025-05-27T04_54_57-07_00</guid>
+                <link>https://podcast.ausha.co/la-france-baladeuse-voyage-dans-l-hexagone/tchou-tchou-a-bord-du-tromso-pas-si-express-de-copenhague-a-stockholm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BxxNWIrnGa1p.mp3?t=1748332183"/>
+                <guid>https://podcast.ausha.co/la-france-baladeuse-voyage-dans-l-hexagone/tchou-tchou-a-bord-du-tromso-pas-si-express-de-copenhague-a-stockholm</guid>
                 
             </item><item>
-                <title>De &#34;Gypsy&#34; aux &#34;Misérables&#34;, une saison de &#34;Cabaret 42e rue&#34;</title>
-                <description>De &#34;Gypsy&#34; aux &#34;Misérables&#34;, une saison de &#34;Cabaret 42e rue&#34;
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11392.xml</description>
+                <title>Mix Franco : 07/05/2025 06:00</title>
+                <description>785-339623
+Feed: http://podcast.cism893.ca/radioshows/785/feed_itunes.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/de-gypsy-aux-miserables-une-saison-de-cabaret-42e-rue-1976444</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/fc0c7f8f-ddf9-4e8c-b8c0-619a7da3aaa4/11392-29.06.2025-ITEMA_24184030-2025M13793S0180-NET_MFM_93DFF179-3624-47AF-9BC1-38472A769E9C-21.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/de-gypsy-aux-miserables-une-saison-de-cabaret-42e-rue-1976444</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/339623.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/339623.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/339623.mp3</guid>
                 
             </item>
         </channel>

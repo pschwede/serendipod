@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 03 Jul 2025 04:37:58 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 06 Jul 2025 04:37:44 +0200</lastBuildDate>
             <item>
-                <title>Rincón Sportinguista 594. Especial cantera #PodcastSportiguista</title>
-                <description>Programa desde el espacio de Twitter donde analizamos la temporada en la Escuela de F&amp;uacute;tbol de Mareo.
-Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
+                <title>Las mañanas de RNE - Mamen Asencio - La realidad de la comedia con dos cracks de este género</title>
+                <description>La realidad de la comedia con dos cracks de este género
+Feed: https://api2.rtve.es/api/adapter/programas/1000592/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/rincon-sportinguista-594-especial-cantera-podcastsportiguista-audios-mp3_rf_149871542_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-594-especial-cantera-podcastsportiguista_mf_149871542_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/rincon-sportinguista-594-especial-cantera-podcastsportiguista-audios-mp3_rf_149871542_1.html</guid>
+                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-mamen-asencio/mananas-rne-mamen-asencio-realidad-comedia-dos-cracks-este-genero/16651724/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16651724.mp3"/>
+                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-mamen-asencio/mananas-rne-mamen-asencio-realidad-comedia-dos-cracks-este-genero/16651724/</guid>
                 
             </item><item>
-                <title>Poniendo orden</title>
-                <description>Limpieza de canales de Slack, de repositorios de GitHub, de versiones de bases de datos, y las bases del desarrollo de IA son algunas de las propuestas de una semana en la que se ha querido poner orden en el proyecto WordPress.
-Feed: https://www.wppodcast.es/feed/podcast/</description>
+                <title>El orden mundial 29/06/025</title>
+                <description>David Gómez y Eduardo Saldaña analizan la actualidad política mundial para entender por qué pasan las cosas
+Feed: https://www.ondacero.es/rss/podcast/786474/podcast.xml</description>
                 
                 
-                <link>https://www.wppodcast.es/podcast/poniendo-orden/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/315/s/feed/c/podcast/wordpress-podcast-e268.mp3"/>
-                <guid>https://www.wppodcast.es/podcast/poniendo-orden/</guid>
+                <link>https://www.ondacero.es/podcast/programas/julia-en-la-onda/orden-mundial/orden-mundial-2906025_20250629686120c7f887b0e4556f526b.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://triton-vod.ondacero.es/?programa=ATRESMEDIA_EL_ORDEN_MUNDIAL_P&amp;origen=/mp_audios4/2025/06/29/44D91046-B86B-4709-A568-7C1CC7E2E800/44D91046-B86B-4709-A568-7C1CC7E2E800.mp3&amp;audioId=686120c7f887b0e4556f526b"/>
+                <guid>https://www.ondacero.es/podcast/programas/julia-en-la-onda/orden-mundial/orden-mundial-2906025_20250629686120c7f887b0e4556f526b.html</guid>
                 
             </item>
         </channel>
