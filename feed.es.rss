@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 06 Jul 2025 04:37:44 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 10 Jul 2025 04:37:51 +0200</lastBuildDate>
             <item>
-                <title>Las mañanas de RNE - Mamen Asencio - La realidad de la comedia con dos cracks de este género</title>
-                <description>La realidad de la comedia con dos cracks de este género
-Feed: https://api2.rtve.es/api/adapter/programas/1000592/audios.rss</description>
+                <title>La rosa de los vientos 07/07/2025</title>
+                <description>Escucha el programa completo de &#39;La rosa de los vientos&#39;, Bruno Cardeñosa y Silvia Casasola. Historia, misterio, investigación y relatos las madrugadas del sábado y del domingo en Onda Cero.
+Feed: https://www.ondacero.es/rss/podcast/8502/podcast.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/las-mananas-de-rne-mamen-asencio/mananas-rne-mamen-asencio-realidad-comedia-dos-cracks-este-genero/16651724/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16651724.mp3"/>
-                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne-mamen-asencio/mananas-rne-mamen-asencio-realidad-comedia-dos-cracks-este-genero/16651724/</guid>
+                <link>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/rosa-vientos-07072025_20250707686b61b529f2a108e98030c9.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LA_ROSA_DE_LOS_VIENTOS_P&amp;origen=/mp_audios4/2025/07/07/0FFEE2BE-25E0-4774-85B5-E39B66623A2D/0FFEE2BE-25E0-4774-85B5-E39B66623A2D.mp3&amp;audioId=686b60e2d78ce9000721cb4a"/>
+                <guid>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/rosa-vientos-07072025_20250707686b61b529f2a108e98030c9.html</guid>
                 
             </item><item>
-                <title>El orden mundial 29/06/025</title>
-                <description>David Gómez y Eduardo Saldaña analizan la actualidad política mundial para entender por qué pasan las cosas
-Feed: https://www.ondacero.es/rss/podcast/786474/podcast.xml</description>
+                <title>Serendipias | Érase una vez</title>
+                <description>&lt;p&gt;Érase una vez un programa de ciencia que decidió adentrarse en la literatura. Lilian Bermejo y Adrián Villalba analizan desde la filosofía las implicaciones éticas de la ciencia ficción. Con Laura Toribio volvemos a Frankenstein para ver la ciencia desde la perspectiva de Mary Shelley y cómo cambiamos quimeras de infinita grandeza por realidades que apenas valían nada. Arcadi García nos invita a imaginar un mundo sin papel, poniendo en jaque a la literatura...
+Feed: https://fapi-top.prisasd.com/podcast/playser/serendipias/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.ondacero.es/podcast/programas/julia-en-la-onda/orden-mundial/orden-mundial-2906025_20250629686120c7f887b0e4556f526b.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://triton-vod.ondacero.es/?programa=ATRESMEDIA_EL_ORDEN_MUNDIAL_P&amp;origen=/mp_audios4/2025/06/29/44D91046-B86B-4709-A568-7C1CC7E2E800/44D91046-B86B-4709-A568-7C1CC7E2E800.mp3&amp;audioId=686120c7f887b0e4556f526b"/>
-                <guid>https://www.ondacero.es/podcast/programas/julia-en-la-onda/orden-mundial/orden-mundial-2906025_20250629686120c7f887b0e4556f526b.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/SERENDIPIAS_SER_PODCAST__3260_P/media/playser/audio/20256/05/4499833.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

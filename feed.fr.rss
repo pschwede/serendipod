@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 06 Jul 2025 04:37:41 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 10 Jul 2025 04:37:47 +0200</lastBuildDate>
             <item>
-                <title>[???? Tchou Tchou] À bord du Tromsø (pas si) express : de Copenhague à Stockholm</title>
-                <description>
-Ce matin, embarquez avec moi à bord du Snälltåget, en direction de Stockholm, pour un voyage inoubliable à travers le pont de l’Øresund, entre mer et ciel. En 6 heures de train, nous passons du printemps lumineux de Copenhague à l’hiver enneigé de l...
-Feed: https://feeds.feedburner.com/LaFranceBaladeuse</description>
+                <title>1, 2, 3, sommeil ! Dis-moi comment tu dors, je te dirai qui tu es 4/4 : Dis-moi où tu dors, je te dirai qui tu es</title>
+                <description>1, 2, 3, sommeil ! Dis-moi comment tu dors, je te dirai qui tu es 4/4 : Dis-moi où tu dors, je te dirai qui tu es
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10177.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/la-france-baladeuse-voyage-dans-l-hexagone/tchou-tchou-a-bord-du-tromso-pas-si-express-de-copenhague-a-stockholm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BxxNWIrnGa1p.mp3?t=1748332183"/>
-                <guid>https://podcast.ausha.co/la-france-baladeuse-voyage-dans-l-hexagone/tchou-tchou-a-bord-du-tromso-pas-si-express-de-copenhague-a-stockholm</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/dis-moi-ou-tu-dors-je-te-dirai-qui-tu-es-1664504</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/a7585b0b-1b0f-40e5-9d9e-0187a704a569/10177-07.07.2025-ITEMA_24190520-2022C26362E8261-ITE_00130544_RSCE-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/dis-moi-ou-tu-dors-je-te-dirai-qui-tu-es-1664504</guid>
                 
             </item><item>
-                <title>Mix Franco : 07/05/2025 06:00</title>
-                <description>785-339623
-Feed: http://podcast.cism893.ca/radioshows/785/feed_itunes.xml</description>
+                <title>Marilia Ajagama, une jeune connectée au Christ</title>
+                <description>Marilia a 24 ans, elle est travaille en alternance au service de la communication du diocèse de Belley-Ars et du sanctuaire d&#39;Ars dans le cadre de ses études. Elle est très engagée auprès de la pastorale des jeunes, notamment dans sa paroisse catholique d&#39;Ambéri...
+Feed: https://feeds.audiomeans.fr/feed/af6b50f8-2a22-4511-9afd-fd1339caa7be.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/339623.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/339623.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/339623.mp3</guid>
+                <link>https://rcf.fr/vie-spirituelle/eglises-en-marche?episode=599556</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/2b2fa8a7-b575-4182-a075-c1e621981364.mp3?_=1750947993"/>
+                <guid>https://rcf.fr/vie-spirituelle/eglises-en-marche?episode=599556</guid>
                 
             </item>
         </channel>
