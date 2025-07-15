@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 10 Jul 2025 04:38:01 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 15 Jul 2025 04:44:01 +0200</lastBuildDate>
             <item>
-                <title>The Volcanic Eruption Adventure</title>
-                <description>Would you fly to the top of a volcano that’s about to erupt at any moment? Volcanologist Helena Buurman did, and survived to tell the tale! In 2008, Helena was monitoring Mount Redoubt in Alaska, when the ground beneath the volcano began to shake. What follows is a tale of volcanic adventure, involving earthquakes, helicopters, and a massive eruption!
-Tumble is on our summer break right now, working on some exciting new projects...
-Feed: http://feeds.sciencepodcastforkids.com/tumblepodcast</description>
+                <title>Masquerade: The Scandalous 80s Treasure Hunt</title>
+                <description>&lt;p&gt;Will is joined by Meg and Jessica from Desperately Seeking the 80s. Will shares the unlikely, but true, story of Masquerade, the book that changed gaming.&lt;/p&gt;&lt;p&gt;In 1979, a seemingly innocuous picture book actually concealed clues to the location of a golden prize. Once the secret was out, it inspired a real-life treasure hunt, a decade-long scandal, and a genre of video games that followed...
+Feed: https://feeds.captivate.fm/80its/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/ARML3254073853.mp3?updated=1750971294"/>
-                <guid></guid>
+                <link>https://1980snow.com//masquerade-the-scandalous-80s-treasure-hunt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/3e751341-7d1b-46c4-abdd-e448944207e7.mp3"/>
+                <guid>https://1980snow.com//masquerade-the-scandalous-80s-treasure-hunt</guid>
                 
             </item><item>
-                <title>#123 Music in Unexpected Places (Part 2)</title>
-                <description>This is Part 2! For Part 1, check the feed!
-This week we’re discussing various tunes and music genres which popped up in surprising circumstances. We’ve got North Africa’s blues inspired Tuareg Rock, western music behind the iron curtain and modern attempts to recreate that original Tudor sound!
-Tom’s joined the rechargeable nasal hair remover revolution and we’re talking hair removal through history this week; we’re talking Norman Lamont, we’re talking Margaret Thatcher’s press secretary...
-Feed: https://rss.art19.com/oh-what-a-time</description>
+                <title>Ketones for Metabolic Health, Brain Function, &amp; Fertility with Latt Mansor</title>
+                <description>Latt Mansor explores the multifaceted role of ketones, particularly their influence on brain health, fertility, memory, and focus. The re-release of an episode from 2023 delves into their impact on serotonin receptors, blood glucose regulation, and...
+Feed: https://drmindypelz.libsyn.com/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/0dd8b036-1cae-46e7-b843-3875bb01f5d9.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://drmindypelz.com/ep296</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/drmindypelz/296-Resetter-LattMansor.mp3?dest-id=1820567"/>
+                <guid>https://drmindypelz.com/ep296</guid>
                 
             </item>
         </channel>

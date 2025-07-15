@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 10 Jul 2025 04:37:51 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 15 Jul 2025 04:43:47 +0200</lastBuildDate>
             <item>
-                <title>La rosa de los vientos 07/07/2025</title>
-                <description>Escucha el programa completo de &#39;La rosa de los vientos&#39;, Bruno Cardeñosa y Silvia Casasola. Historia, misterio, investigación y relatos las madrugadas del sábado y del domingo en Onda Cero.
-Feed: https://www.ondacero.es/rss/podcast/8502/podcast.xml</description>
+                <title>Café del sur - Confesiones de domingo - 13/07/25</title>
+                <description>Confesiones de domingo
+Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
                 
                 
-                <link>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/rosa-vientos-07072025_20250707686b61b529f2a108e98030c9.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://triton-vod.ondacero.es/?programa=ATRESMEDIA_LA_ROSA_DE_LOS_VIENTOS_P&amp;origen=/mp_audios4/2025/07/07/0FFEE2BE-25E0-4774-85B5-E39B66623A2D/0FFEE2BE-25E0-4774-85B5-E39B66623A2D.mp3&amp;audioId=686b60e2d78ce9000721cb4a"/>
-                <guid>https://www.ondacero.es/programas/la-rosa-de-los-vientos/programas-completos/rosa-vientos-07072025_20250707686b61b529f2a108e98030c9.html</guid>
+                <link>https://www.rtve.es/play/audios/cafe-del-sur/confesiones-domingo-13-07-25/16661931/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16661931.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cafe-del-sur/confesiones-domingo-13-07-25/16661931/</guid>
                 
             </item><item>
-                <title>Serendipias | Érase una vez</title>
-                <description>&lt;p&gt;Érase una vez un programa de ciencia que decidió adentrarse en la literatura. Lilian Bermejo y Adrián Villalba analizan desde la filosofía las implicaciones éticas de la ciencia ficción. Con Laura Toribio volvemos a Frankenstein para ver la ciencia desde la perspectiva de Mary Shelley y cómo cambiamos quimeras de infinita grandeza por realidades que apenas valían nada. Arcadi García nos invita a imaginar un mundo sin papel, poniendo en jaque a la literatura...
-Feed: https://fapi-top.prisasd.com/podcast/playser/serendipias/itunestfp/podcast.xml</description>
+                <title>La Guerra Fría</title>
+                <description>Bienvenidos y bienvenidas a este nuevo episodio de Historias para el mundo de hoy. En esta ocasión viajaremos por uno de los capítulos más intensos y determinantes del siglo XX: la Guerra Fría. Un conflicto sin batallas directas entre...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/SERENDIPIAS_SER_PODCAST__3260_P/media/playser/audio/20256/05/4499833.mp3"/>
-                <guid></guid>
+                <link>https://sites.libsyn.com/136379/la-guerra-fra</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/dianauribefm/La_Guerra_Fria.mp3?dest-id=844493"/>
+                <guid>https://sites.libsyn.com/136379/la-guerra-fra</guid>
                 
             </item>
         </channel>
