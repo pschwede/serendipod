@@ -9,26 +9,34 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 15 Jul 2025 04:43:47 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Jul 2025 04:43:01 +0200</lastBuildDate>
             <item>
-                <title>Café del sur - Confesiones de domingo - 13/07/25</title>
-                <description>Confesiones de domingo
-Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
+                <title>E310: La Anarquista Lucy Parsons</title>
+                <description>Lucy Parsons, anarquista y revolucionaria, fue una voz incansable por los derechos obreros y la justicia social. Esposa de uno de los mártires de Haymarket, dedicó su vida a la lucha contra la opresión y el capitalismo, desafiando las normas de su época con fuego y palabra.
+Síguenos y visita nuestro sitio oficial:
+https://www.instagram.com/eldollop
+https://twitter.com/eldollop
+https://www.facebook.com/eldolloppodcast
+Los Dollops: 
+@ninguneduardo 
+@bryanthemachine
+http://eldollop.com
+Feed: https://feeds.simplecast.com/YVUZ6yUE</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cafe-del-sur/confesiones-domingo-13-07-25/16661931/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16661931.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cafe-del-sur/confesiones-domingo-13-07-25/16661931/</guid>
+                <link>https://sonoromedia.com/ads.txt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sonoro.simplecastaudio.com/a36b72d3-9f91-4307-82a3-e773afc5a05d/episodes/530c8ed6-a011-4a8f-b269-6ab437a3b6fa/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=a36b72d3-9f91-4307-82a3-e773afc5a05d&amp;awEpisodeId=530c8ed6-a011-4a8f-b269-6ab437a3b6fa&amp;feed=YVUZ6yUE"/>
+                <guid>https://sonoromedia.com/ads.txt</guid>
                 
             </item><item>
-                <title>La Guerra Fría</title>
-                <description>Bienvenidos y bienvenidas a este nuevo episodio de Historias para el mundo de hoy. En esta ocasión viajaremos por uno de los capítulos más intensos y determinantes del siglo XX: la Guerra Fría. Un conflicto sin batallas directas entre...
-Feed: https://dianauribefm.libsyn.com/rss</description>
+                <title>Tania Rincón, la estrella mexicana que protagonizó un comercial de NFL</title>
+                <description>Tania pasó de disputar un torneo amateur a ser la protagonista de un comercial en el evento más mediático del mundo: el Super Bowl. En Latitudes te contamos su historia.
+Feed: https://gustavito.media/feed/podcast/</description>
                 
                 
-                <link>https://sites.libsyn.com/136379/la-guerra-fra</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/dianauribefm/La_Guerra_Fria.mp3?dest-id=844493"/>
-                <guid>https://sites.libsyn.com/136379/la-guerra-fra</guid>
+                <link>https://gustavito.media/2025/05/21/tania-rincon-la-estrella-mexicana-que-protagonizo-un-comercial-de-nfl/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://gustavito.media/wp-content/uploads/2025/05/Tania-Rincon.mp3"/>
+                <guid>https://gustavito.media/2025/05/21/tania-rincon-la-estrella-mexicana-que-protagonizo-un-comercial-de-nfl/</guid>
                 
             </item>
         </channel>

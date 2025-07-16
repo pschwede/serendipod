@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 15 Jul 2025 04:43:42 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Jul 2025 04:42:56 +0200</lastBuildDate>
             <item>
-                <title>ZQSDeux #38 - The Alters a-t-il touché notre égo ?</title>
-                <description>&lt;p&gt;Un ZQSDeux estival pour parler du nouveau jeu d&#39;11 Bits Studio : The Alters. Avec Pierre, Abi et Jika.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Si vous appréciez ZQSD, n&#39;hésitez pas à nous soutenir sur Patreon&lt;/strong&gt; &lt;strong&gt;!&lt;/strong&gt; ZQSD.fr | en train de créer des podcasts sur le jeu vidéo (et d&#39;autres tru | Patreon&lt;/p&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hébergé par Acast. Visitez acast.com/privacy pour plus d&#39;informations.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/674c3de3f6ece089ea1b129c</description>
+                <title>Série d’été (1/2) L’Occident et son devenir</title>
+                <description>
+Leur enchaînement, mois après mois, peut paraître hétéroclite, foisonnant, insaisissable, désordonné. 
+Voici donc quelques tentatives de nouer ces fils épars autour de certaines thématiques, de tirer de cette profusion quelques lignes directrices....
+Feed: https://feed.ausha.co/Aj2pdcL1pE8j</description>
                 
                 
-                <link>https://shows.acast.com/zqsd/episodes/6867cea30b3c0cca54f8e892</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/674c3de3f6ece089ea1b129c/e/6867cea30b3c0cca54f8e892/media.mp3"/>
-                <guid>https://shows.acast.com/zqsd/episodes/6867cea30b3c0cca54f8e892</guid>
+                <link>https://podcast.ausha.co/heretiques/serie-d-ete-1-2-l-occident-et-son-devenir</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/kkJ3kF6DrkDN.mp3?t=1751396628"/>
+                <guid>https://podcast.ausha.co/heretiques/serie-d-ete-1-2-l-occident-et-son-devenir</guid>
                 
             </item><item>
-                <title>&#34;Voyage avec un âne dans les Cévennes&#34; de Robert Louis Stevenson</title>
-                <description>&#34;Voyage avec un âne dans les Cévennes&#34; de Robert Louis Stevenson
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11496.xml</description>
+                <title>Communication visuelle : 5 outils pour gagner du temps et créer des visuels impactants</title>
+                <description>⏱️ Tu manques de temps pour créer des visuels percutants ? 
+Que ce soit pour organiser tes projets, planifier tes publications ou produire des contenus visuels rapidement, les bons outils peuvent faire toute la différence. Dans cet épisode de Com&#39; DU...
+Feed: https://feed.ausha.co/ErqWESzrPZW7</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/samedi-fiction/voyage-avec-un-ane-dans-les-cevennes-de-robert-louis-stevenson-5036105</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/0d090bea-beba-45c0-b07f-815b13b069ef/11496-28.06.2025-ITEMA_24183409-2023C3067E0009-ITE_00132342_RSCE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/samedi-fiction/voyage-avec-un-ane-dans-les-cevennes-de-robert-louis-stevenson-5036105</guid>
+                <link>https://podcast.ausha.co/cestcomdusirop/communication-visuelle-5-outils-pour-gagner-du-temps-et-creer-des-visuels-impactants</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BqPqlcdevQ35.mp3?t=1750421461"/>
+                <guid>https://podcast.ausha.co/cestcomdusirop/communication-visuelle-5-outils-pour-gagner-du-temps-et-creer-des-visuels-impactants</guid>
                 
             </item>
         </channel>
