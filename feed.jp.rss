@@ -9,26 +9,42 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 16 Jul 2025 04:43:27 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 17 Jul 2025 04:42:39 +0200</lastBuildDate>
             <item>
-                <title>Churchill War Rooms</title>
-                <description>&lt;p&gt;Bex goes behind the scenes of one of the UK&#39;s top tourist destinations and this time it&#39;s World War II themed. She&#39;s been allowed into the deep underground bunker that housed the likes of Prime Minister Winston Churchill during one of Britain&#39;s darkest times&amp;nbsp;&lt;/p&gt;&lt;p&gt;Join Fun Kids Podcasts+: https://funkidslive.com/plus&lt;/p&gt;&lt;p&gt;See omnystudio.com/listener for privacy information.&lt;/p&gt;
-Feed: https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/63d157bc-8b41-44b2-b851-ab5000aab6fa/22e8ed46-cfcc-449f-ba0d-ad120102d9a3/podcast.rss</description>
+                <title>HPR4424: How I use Newsboat for Podcasts and Reddit</title>
+                <description>
+Hello, this is your host, Archer72 for another episode of Hacker
+Public Radio
+In this episode, I talk about how I use Newsboat and Podboat for a
+couple of tasks.
+I don’t always use Podboat for podcasts, but it is useful when
+listening from my laptop
+For my other podcast listening, I used Antennapod
+Newsboat source of feeds is from a url list in
+~/.config/newsboat/urls
+Newsboat url list
+# (Bible)
+https://feeds.feedburner.com/hl-int-tv-en-kjv &amp;quot;Bible&amp;quot; (Bible)
+# (Reddit) 
+https://www...
+Feed: https://hackerpublicradio.org/hpr_rss.php</description>
                 
                 
-                <link>https://omny.fm/shows/activityquest/churchill-war-rooms</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.omny.fm/d/clips/289ceca7-bef3-48af-9f74-a4ba0095cab1/63d157bc-8b41-44b2-b851-ab5000aab6fa/815668f5-bab0-4bea-9537-b31a0085eb01/audio.mp3?utm_source=Podcast&amp;in_playlist=22e8ed46-cfcc-449f-ba0d-ad120102d9a3"/>
-                <guid>https://omny.fm/shows/activityquest/churchill-war-rooms</guid>
+                <link>https://hackerpublicradio.org/eps/hpr4424/index.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://hub.hackerpublicradio.org/ccdn.php?filename=/eps/hpr4424/hpr4424.mp3"/>
+                <guid>https://hackerpublicradio.org/eps/hpr4424/index.html</guid>
                 
             </item><item>
-                <title>413. ScamGPT – How AI Supercharges Fraud (ft. Alice Marwick)</title>
-                <description>We chat with Alice Marwick — director of research…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:861066976/sounds.rss</description>
+                <title>AI Exchanges: Where Will the Power Come From?</title>
+                <description>The AI boom is creating unprecedented demand for power. So where will this power come from? Goldman Sachs&#39; Rebecca Kruger, a partner in the Natural Resources Group in the firms&#39; investment banking business, joins Goldman Sachs Exchanges&#39; co-hosts Allison Nathan and George Lee to discuss why power may be the biggest bottleneck on delivering the promises of AI. For more, read &#34;Powering the AI Era&#34;
+This episode was recorded on July 9, 2025.
+Learn more about your ad choices. Visit megaphone...
+Feed: https://feeds.megaphone.fm/GLD9218176758</description>
                 
                 
-                <link>https://soundcloud.com/thismachinekillspod/413-scamgpt-how-ai-supercharges-fraud-ft-alice-marwick</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2126979891-thismachinekillspod-413-scamgpt-how-ai-supercharges-fraud-ft-alice-marwick.mp3"/>
-                <guid>https://soundcloud.com/thismachinekillspod/413-scamgpt-how-ai-supercharges-fraud-ft-alice-marwick</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD8153668254.mp3?updated=1752613058"/>
+                <guid></guid>
                 
             </item>
         </channel>
