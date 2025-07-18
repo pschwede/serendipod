@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 17 Jul 2025 04:42:26 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 18 Jul 2025 04:45:41 +0200</lastBuildDate>
             <item>
-                <title>Próxima b</title>
-                <description>Próxima b
-Feed: https://feeds.feedburner.com/MiradaCientfica</description>
+                <title>Sateli 3 - 30 Aniversario Naçao Zumbi (pioneros del Manguebeat) - 17/07/25</title>
+                <description>30 Aniversario Naçao Zumbi (pioneros del Manguebeat)
+Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
                 
                 
-                <link>https://www.jyestudio.com/mirada-cientifica/proxima-b/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.jyestudio.com/podlove/file/63/s/webplayer/mc_t03e02.mp3"/>
-                <guid>https://www.jyestudio.com/mirada-cientifica/proxima-b/</guid>
+                <link>https://www.rtve.es/play/audios/sateli-3/30-aniversario-nacao-zumbi-pioneros-del-manguebeat-17-07-25/16667568/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16667568.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sateli-3/30-aniversario-nacao-zumbi-pioneros-del-manguebeat-17-07-25/16667568/</guid>
                 
             </item><item>
-                <title>Unidad de vigilancia | El arte de hequivocarte</title>
-                <description>&lt;p&gt;Isaías Lafuente nos trae la última Unidad de Vigilancia de la temporada.&amp;nbsp;&lt;/p&gt;
-Feed: https://fapi-top.prisasd.com/podcast/playser/la_ventana_unidad_de_vigilancia/itunestfp/podcast.xml</description>
+                <title>Zeus Ñúñez</title>
+                <description>&lt;p&gt;Adelanto del nuevo MeÑú Zeustación de Zeta eÑe para la próxima temporada&lt;/p&gt;
+
+Feed: https://anchor.fm/s/68a2219c/podcast/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/LA_VENTANA_UNIDAD_DE_VIGILANCIA_SER_PODCAST_397_P/media/playser/audio/20257/11/4548292.mp3"/>
-                <guid></guid>
+                <link>https://podcasters.spotify.com/pod/show/steve-yogi-jr/episodes/Zeus-ez-e35evfk</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/68a2219c/podcast/play/105397172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-12%2F403778676-44100-2-516dd469d600b.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/steve-yogi-jr/episodes/Zeus-ez-e35evfk</guid>
                 
             </item>
         </channel>

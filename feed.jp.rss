@@ -9,42 +9,39 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 17 Jul 2025 04:42:39 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 18 Jul 2025 04:45:57 +0200</lastBuildDate>
             <item>
-                <title>HPR4424: How I use Newsboat for Podcasts and Reddit</title>
-                <description>
-Hello, this is your host, Archer72 for another episode of Hacker
-Public Radio
-In this episode, I talk about how I use Newsboat and Podboat for a
-couple of tasks.
-I don’t always use Podboat for podcasts, but it is useful when
-listening from my laptop
-For my other podcast listening, I used Antennapod
-Newsboat source of feeds is from a url list in
-~/.config/newsboat/urls
-Newsboat url list
-# (Bible)
-https://feeds.feedburner.com/hl-int-tv-en-kjv &amp;quot;Bible&amp;quot; (Bible)
-# (Reddit) 
-https://www...
-Feed: https://hackerpublicradio.org/hpr_rss.php</description>
+                <title>Masquerade: The Scandalous 80s Treasure Hunt</title>
+                <description>&lt;p&gt;Will is joined by Meg and Jessica from Desperately Seeking the 80s. Will shares the unlikely, but true, story of Masquerade, the book that changed gaming.&lt;/p&gt;&lt;p&gt;In 1979, a seemingly innocuous picture book actually concealed clues to the location of a golden prize. Once the secret was out, it inspired a real-life treasure hunt, a decade-long scandal, and a genre of video games that followed...
+Feed: https://feeds.captivate.fm/80its/</description>
                 
                 
-                <link>https://hackerpublicradio.org/eps/hpr4424/index.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://hub.hackerpublicradio.org/ccdn.php?filename=/eps/hpr4424/hpr4424.mp3"/>
-                <guid>https://hackerpublicradio.org/eps/hpr4424/index.html</guid>
+                <link>https://1980snow.com//masquerade-the-scandalous-80s-treasure-hunt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/3e751341-7d1b-46c4-abdd-e448944207e7.mp3"/>
+                <guid>https://1980snow.com//masquerade-the-scandalous-80s-treasure-hunt</guid>
                 
             </item><item>
-                <title>AI Exchanges: Where Will the Power Come From?</title>
-                <description>The AI boom is creating unprecedented demand for power. So where will this power come from? Goldman Sachs&#39; Rebecca Kruger, a partner in the Natural Resources Group in the firms&#39; investment banking business, joins Goldman Sachs Exchanges&#39; co-hosts Allison Nathan and George Lee to discuss why power may be the biggest bottleneck on delivering the promises of AI. For more, read &#34;Powering the AI Era&#34;
-This episode was recorded on July 9, 2025.
-Learn more about your ad choices. Visit megaphone...
-Feed: https://feeds.megaphone.fm/GLD9218176758</description>
+                <title>HPR4425: Introducing Linux Matters</title>
+                <description>
+    
+      About Linux Matters
+    
+      
+    
+    
+      Join 3 experienced Open Source professionals as they discuss the
+      impact Linux has in their daily lives. Upbeat family-friendly
+      banter, conversation and discussion for Linux enthusiasts and
+      casual observers of all ages. A new episode every two weeks
+      covering terminal productivity, desktop experience, development,
+      gaming, hosting, hardware, community, cloud-native and all the
+      Linux Matters that matter...
+Feed: https://hackerpublicradio.org/hpr_total_rss.php</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/F81DEC/traffic.megaphone.fm/GLD8153668254.mp3?updated=1752613058"/>
-                <guid></guid>
+                <link>https://hackerpublicradio.org/eps/hpr4425/index.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://hub.hackerpublicradio.org/ccdn.php?filename=/eps/hpr4425/hpr4425.mp3"/>
+                <guid>https://hackerpublicradio.org/eps/hpr4425/index.html</guid>
                 
             </item>
         </channel>
