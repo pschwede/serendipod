@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 18 Jul 2025 04:45:41 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 20 Jul 2025 04:48:27 +0200</lastBuildDate>
             <item>
-                <title>Sateli 3 - 30 Aniversario Naçao Zumbi (pioneros del Manguebeat) - 17/07/25</title>
-                <description>30 Aniversario Naçao Zumbi (pioneros del Manguebeat)
-Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
+                <title>El poder del ahora - Capítulo 264</title>
+                <description>Llegaron Los Ingobernables. Los insostenibles. La bicha fresca. ¿Qué es el poder del ahora? Un taxista que llevó a Paulo a su destino, le da el mejor consejo. EL PODER DEL AHORA. Hoy Don Jairo y Doña Irma... tienen un amorío? 
+La bicha! 
+Feed: https://www.spreaker.com/show/4081707/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sateli-3/30-aniversario-nacao-zumbi-pioneros-del-manguebeat-17-07-25/16667568/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16667568.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sateli-3/30-aniversario-nacao-zumbi-pioneros-del-manguebeat-17-07-25/16667568/</guid>
+                <link>https://www.spreaker.com/episode/el-poder-del-ahora-capitulo-264--67018038</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67018038/los_impopulares_cap_264.mp3"/>
+                <guid>https://www.spreaker.com/episode/el-poder-del-ahora-capitulo-264--67018038</guid>
                 
             </item><item>
-                <title>Zeus Ñúñez</title>
-                <description>&lt;p&gt;Adelanto del nuevo MeÑú Zeustación de Zeta eÑe para la próxima temporada&lt;/p&gt;
-
-Feed: https://anchor.fm/s/68a2219c/podcast/rss</description>
+                <title>Poemas de amor para bodas. Poesía erótica para bodas.  Llevo un reloj, de María Victoria Reyzabal</title>
+                <description>Poemas de amor para bodas. Poesía erótica para bodas.  Llevo un reloj, de María Victoria Reyzábal 
+Poesías erótica en español para bodas y celebraciones. Poemas de poetas españoles para eventos y matrimonios. Poesía erótica para matrimonios. Poesía e...
+Feed: https://www.spreaker.com/show/5869833/episodes/feed</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/steve-yogi-jr/episodes/Zeus-ez-e35evfk</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/68a2219c/podcast/play/105397172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-12%2F403778676-44100-2-516dd469d600b.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/steve-yogi-jr/episodes/Zeus-ez-e35evfk</guid>
+                <link>https://www.amorypoesia.es/poesias-espanol-poemas-espanol-poesias-recitadas-espanolas/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/66580606/maria_victoria_llevo_poema_amor.mp3"/>
+                <guid>https://www.amorypoesia.es/poesias-espanol-poemas-espanol-poesias-recitadas-espanolas/</guid>
                 
             </item>
         </channel>
