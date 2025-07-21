@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 20 Jul 2025 04:48:27 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 21 Jul 2025 04:49:47 +0200</lastBuildDate>
             <item>
-                <title>El poder del ahora - Capítulo 264</title>
-                <description>Llegaron Los Ingobernables. Los insostenibles. La bicha fresca. ¿Qué es el poder del ahora? Un taxista que llevó a Paulo a su destino, le da el mejor consejo. EL PODER DEL AHORA. Hoy Don Jairo y Doña Irma... tienen un amorío? 
-La bicha! 
-Feed: https://www.spreaker.com/show/4081707/episodes/feed</description>
+                <title>Futuro abierto - Alimentación insana y regulación de la publicidad - 21/07/25</title>
+                <description>Alimentación insana y regulación de la publicidad
+Feed: http://api.rtve.es/api/programas/23731/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/el-poder-del-ahora-capitulo-264--67018038</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67018038/los_impopulares_cap_264.mp3"/>
-                <guid>https://www.spreaker.com/episode/el-poder-del-ahora-capitulo-264--67018038</guid>
+                <link>https://www.rtve.es/play/audios/futuro-abierto/alimentacion-insana-regulacion-publicidad-21-07-25/16671480/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16671480.mp3"/>
+                <guid>https://www.rtve.es/play/audios/futuro-abierto/alimentacion-insana-regulacion-publicidad-21-07-25/16671480/</guid>
                 
             </item><item>
-                <title>Poemas de amor para bodas. Poesía erótica para bodas.  Llevo un reloj, de María Victoria Reyzabal</title>
-                <description>Poemas de amor para bodas. Poesía erótica para bodas.  Llevo un reloj, de María Victoria Reyzábal 
-Poesías erótica en español para bodas y celebraciones. Poemas de poetas españoles para eventos y matrimonios. Poesía erótica para matrimonios. Poesía e...
-Feed: https://www.spreaker.com/show/5869833/episodes/feed</description>
+                <title>18-07-2025 Directo MARCA Valladolid</title>
+                <description>Toda la actualidad del deporte vallisoletano de la mano de Chus Rodríguez y Jesús Pérez Baraja. Desde hoy con una hora de programación en la que tendremos Fútbol con toda la última hora del Real Valladolid, Balonmano y los oyentes.
+Feed: https://www.ivoox.com/feed_fg_f130892_filtro_1.xml</description>
                 
                 
-                <link>https://www.amorypoesia.es/poesias-espanol-poemas-espanol-poesias-recitadas-espanolas/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/66580606/maria_victoria_llevo_poema_amor.mp3"/>
-                <guid>https://www.amorypoesia.es/poesias-espanol-poemas-espanol-poesias-recitadas-espanolas/</guid>
+                <link>https://www.ivoox.com/18-07-2025-directo-marca-valladolid-audios-mp3_rf_153270681_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/18-07-2025-directo-marca-valladolid_mf_153270681_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/18-07-2025-directo-marca-valladolid-audios-mp3_rf_153270681_1.html</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 20 Jul 2025 04:48:20 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 21 Jul 2025 04:49:39 +0200</lastBuildDate>
             <item>
-                <title>Russland/Ukraine &amp; Co: Wenn man die Realität nicht sehen möchte ...</title>
-                <description>&lt;p&gt;Manchmal hat man den Eindruck, dass wir nicht mehr in der Lage sind, die Realit&amp;auml;t als solche wahrzunehmen. Leben wir schon so in einer Fremdwelt, dass wir &#34;des Kaisers neuen Kleider&#34; nicht mehr als das ansehen, was sie sind? Das scheint in der Politik so zu sein, wo viele anscheinend noch von einem Sieg des Westens &amp;uuml;ber Russland tr&amp;auml;umen...
-Feed: https://www.bibelpraxis.de/podcasts/bibelpraxis.xml</description>
+                <title>STP075: Prozessorarchitekturen im Vergleich</title>
+                <description>Nach einer sehr deutlichen Einordnung der Aufnahmezeit kommen wir im Wesentlichen zu den Unterschieden zwischen x86 und ARM. Natürlich wird auch geklärt, was das ist. Gegen Ende gibt es noch ein paar Meinungen und Weissagungen zum Thema KI.
+Feed: https://xyrillian.de/noises/stp/rss.xml</description>
                 
                 
-                <link>https://www.bibelpraxis.de/a9320.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.bibelpraxis.de/stream/audio/9320.mp3"/>
-                <guid>https://www.bibelpraxis.de/a9320.html</guid>
+                <link>https://schluesseltechnologie-podcast.de/075-prozessorarchitekturen-im-vergleich</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dl.xyrillian.de/noises/stp-075-prozessorarchitekturen-im-vergleich.opus"/>
+                <guid>https://schluesseltechnologie-podcast.de/075-prozessorarchitekturen-im-vergleich</guid>
                 
             </item><item>
-                <title>Was Audio-Interfaces bieten – Und worauf du achten solltest! #236</title>
-                <description>Geschichten aus dem Studio
-Feed: https://soundandrecording.podigee.io/feed/mp3</description>
+                <title>Nerdzig - Der Podcast #183 – Das Spielehalbjahr 2025 Januar bis Juni </title>
+                <description>&lt;p&gt;Games, Games, Games! Eine ganze Latte an Titeln müssen besprochen werden...
+Feed: https://anchor.fm/s/b4a57968/podcast/rss</description>
                 
                 
-                <link>https://soundandrecording.podigee.io/288-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2007727-m-2865c429366b69688fd3b8816810dfbb.mp3?source=feed"/>
-                <guid>https://soundandrecording.podigee.io/288-neue-episode</guid>
+                <link>https://podcasters.spotify.com/pod/show/nerdzig-radio-podcast/episodes/Nerdzig---Der-Podcast-183--Das-Spielehalbjahr-2025-Januar-bis-Juni-e35pgkm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/b4a57968/podcast/play/105742422/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-20%2F43218747-276d-9cef-6cfe-998771b51268.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/nerdzig-radio-podcast/episodes/Nerdzig---Der-Podcast-183--Das-Spielehalbjahr-2025-Januar-bis-Juni-e35pgkm</guid>
                 
             </item>
         </channel>

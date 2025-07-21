@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 20 Jul 2025 04:48:24 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 21 Jul 2025 04:49:43 +0200</lastBuildDate>
             <item>
-                <title>Le mot de l&#39;éco 17/40 : &#34;Usure&#34; : ramener l&#39;argent dans le droit chemin</title>
-                <description>Le mot de l&#39;éco 17/40 : &#34;Usure&#34; : ramener l&#39;argent dans le droit chemin
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10081.xml</description>
+                <title>Rémi Klein : interview, selecta et mini live ! </title>
+                <description>On est très prog rock dans le Nova Club ce soir
+ 
+ 
+ Jamila Woods (feat. Noname) - VRY BLK
+ Blood Orange, The Durutti Column, Tariq Al-Sabir, Caroline Polachek - The Field
+ Sofia Kourtesis - Canela Pura
+ Let the Music Use You - The ...
+Feed: https://feeds.audiomeans.fr/feed/7faf3b2a-f14f-4633-a89f-31566faf88d0.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/usure-etes-vous-un-bon-preteur-8836870</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/546c2ecf-52bc-4aec-ad56-f410aed2dedb/10081-17.07.2025-ITEMA_24178876-2024C29629S0353-NET_MFC_4B411528-752F-445E-B84D-92FD7D306693-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/usure-etes-vous-un-bon-preteur-8836870</guid>
+                <link>https://podcasts.audiomeans.fr/nova-club-31566faf88d0/remi-klein-interview-selecta-et-mini-live-97b85db5</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/OMoylHLeoU/97b85db5-6224-4b7a-89c7-e0cf5f264a29.mp3?_=1752141495"/>
+                <guid>https://podcasts.audiomeans.fr/nova-club-31566faf88d0/remi-klein-interview-selecta-et-mini-live-97b85db5</guid>
                 
             </item><item>
-                <title>103 Klubb - Maddix - 28 Juin 2025</title>
-                <description>Le mix de Maddix dans 103 Klubb le 28 Juin 2025 de 21H à 22H
-Feed: http://www.103radio.fr/103klubb.xml</description>
+                <title>Les criquets crinqués : 07/14/2025 21:00</title>
+                <description>653-340217
+Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
                 
                 
-                <link>https://www.103radio.fr/2317.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.103radio.fr/2317.mp3"/>
-                <guid>https://www.103radio.fr/2317.mp3</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/340217.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/340217.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/340217.mp3</guid>
                 
             </item>
         </channel>
