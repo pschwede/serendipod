@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 21 Jul 2025 04:49:47 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 22 Jul 2025 04:44:41 +0200</lastBuildDate>
             <item>
-                <title>Futuro abierto - Alimentación insana y regulación de la publicidad - 21/07/25</title>
-                <description>Alimentación insana y regulación de la publicidad
-Feed: http://api.rtve.es/api/programas/23731/audios.rss</description>
-                
-                
-                <link>https://www.rtve.es/play/audios/futuro-abierto/alimentacion-insana-regulacion-publicidad-21-07-25/16671480/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16671480.mp3"/>
-                <guid>https://www.rtve.es/play/audios/futuro-abierto/alimentacion-insana-regulacion-publicidad-21-07-25/16671480/</guid>
-                
-            </item><item>
-                <title>18-07-2025 Directo MARCA Valladolid</title>
-                <description>Toda la actualidad del deporte vallisoletano de la mano de Chus Rodríguez y Jesús Pérez Baraja. Desde hoy con una hora de programación en la que tendremos Fútbol con toda la última hora del Real Valladolid, Balonmano y los oyentes.
+                <title>21-07-2025 Directo MARCA Valladolid</title>
+                <description>Toda la actualidad del deporte vallisoletano de la mano de Chus Rodríguez y Jesús Pérez Baraja. Semana con programa especial desde Santiago de Chile con motivo de la pre temporada del Real Valladolid.
 Feed: https://www.ivoox.com/feed_fg_f130892_filtro_1.xml</description>
                 
                 
-                <link>https://www.ivoox.com/18-07-2025-directo-marca-valladolid-audios-mp3_rf_153270681_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/18-07-2025-directo-marca-valladolid_mf_153270681_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/18-07-2025-directo-marca-valladolid-audios-mp3_rf_153270681_1.html</guid>
+                <link>https://www.ivoox.com/21-07-2025-directo-marca-valladolid-audios-mp3_rf_153471649_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/21-07-2025-directo-marca-valladolid_mf_153471649_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/21-07-2025-directo-marca-valladolid-audios-mp3_rf_153471649_1.html</guid>
+                
+            </item><item>
+                <title>Pumas logró un acuerdo para fichar a Keylor Navas</title>
+                <description>Los Pumas de la UNAM llegaron a un acuerdo para hacerse de los servicios del portero costarricense Keylor Navas; Toluca es Campeón de Campeones tras vencer al América en Estados Unidos; ¿qué sencaciones dejó Chivas en su debut en el Apertura 2025?
+Learn more about your ad choices. Visit podcastchoices.com/adchoices
+Feed: https://feeds.megaphone.fm/ESP7136457638</description>
+                
+                
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2484582355.mp3?updated=1753132177"/>
+                <guid></guid>
                 
             </item>
         </channel>

@@ -9,32 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 21 Jul 2025 04:49:43 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 22 Jul 2025 04:44:34 +0200</lastBuildDate>
             <item>
-                <title>Rémi Klein : interview, selecta et mini live ! </title>
-                <description>On est très prog rock dans le Nova Club ce soir
- 
- 
- Jamila Woods (feat. Noname) - VRY BLK
- Blood Orange, The Durutti Column, Tariq Al-Sabir, Caroline Polachek - The Field
- Sofia Kourtesis - Canela Pura
- Let the Music Use You - The ...
-Feed: https://feeds.audiomeans.fr/feed/7faf3b2a-f14f-4633-a89f-31566faf88d0.xml</description>
+                <title>Quel est le premier génocide du XXe siècle ?</title>
+                <description>Le 28 mai 2025, le peuple Namibien célèbre pour la première fois la commémoration du génocide des Herero et des Nama. En Namibie sous occupation allemande, ce massacre avait à l’époque tué 80% et 50 % de la population respective de ces deux peuples, entre 1904 et 1908. 
+Pour s’emparer de leurs terres en 1904, le Kaiser Wilhelm II envoie 14 000 soldats...
+Feed: https://feeds.megaphone.fm/BABA4781584394</description>
                 
                 
-                <link>https://podcasts.audiomeans.fr/nova-club-31566faf88d0/remi-klein-interview-selecta-et-mini-live-97b85db5</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/OMoylHLeoU/97b85db5-6224-4b7a-89c7-e0cf5f264a29.mp3?_=1752141495"/>
-                <guid>https://podcasts.audiomeans.fr/nova-club-31566faf88d0/remi-klein-interview-selecta-et-mini-live-97b85db5</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA8896372266.mp3?updated=1750758237"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Les criquets crinqués : 07/14/2025 21:00</title>
-                <description>653-340217
-Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
+                <title>[Hors-série #7] Fluidité, responsabilité et agilité : une conversation sur Kanban - Code, Café et Agilité - Olivier My</title>
+                <description>(Re)penser le travail comme un flux, pas comme une charge
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/8392_eb3497ce420dd6d4764b3fc8b7a90b24.rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/340217.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/340217.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/340217.mp3</guid>
+                <link>https://www.podcastics.com/podcast/episode/hors-serie-7-fluidite-responsabilite-et-agilite-une-conversation-sur-kanban-code-cafe-et-agilite-olivier-my-376788/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/op3.dev/e/track.podcastics.com/8392/376788.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/hors-serie-7-fluidite-responsabilite-et-agilite-une-conversation-sur-kanban-code-cafe-et-agilite-olivier-my-376788/</guid>
                 
             </item>
         </channel>
