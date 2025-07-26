@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 23 Jul 2025 04:47:39 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 26 Jul 2025 04:40:58 +0200</lastBuildDate>
             <item>
-                <title>Se avecina la &#34;Keylor-Manía&#34; El nuevo portero de Pumas ha llegado</title>
-                <description>Keylor Navas arribó a México; el exarquero del Real Madrid arribó por la madrugada a la CDMX, pero no tuvo contacto con los aficionados; será presentado el jueves con Pumas.
-Learn more about your ad choices. Visit podcastchoices.com/adchoices
-Feed: https://feeds.megaphone.fm/ESP7136457638</description>
+                <title>Hora 25 Castilla y León (25/07/2025)</title>
+                <description>La información de carácter regional es una pieza esencial de nuestra programación. Durante toda la jornada miramos al resto de la comunidad para seguir de cerca toda la actualidad de Castilla y León.
+Feed: https://fapi-top.prisasd.com/podcast/playser/radio_valladolid.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2314371744.mp3?updated=1753217437"/>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/RADIO_VALLADOLID_CADENASER_470_P/media/2025/7/25/ser_castillayleon_hora25castillayleon_20250725_202506_203000.mp3"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Próxima b</title>
-                <description>Próxima b
-Feed: https://feeds.feedburner.com/MiradaCientfica</description>
+                <title>Hoy empieza todo - La controversia eléctrica de Bob Dylan - 25/07/2025</title>
+                <description>La controversia eléctrica de Bob Dylan
+Feed: http://api.rtve.es/api/programas/59010/audios.rss</description>
                 
                 
-                <link>https://www.jyestudio.com/mirada-cientifica/proxima-b/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.jyestudio.com/podlove/file/63/s/webplayer/mc_t03e02.mp3"/>
-                <guid>https://www.jyestudio.com/mirada-cientifica/proxima-b/</guid>
+                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-1/hoy-empieza-todo-controversia-electrica-bob-dylan-25-07-2025/16677091/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16677091.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-1/hoy-empieza-todo-controversia-electrica-bob-dylan-25-07-2025/16677091/</guid>
                 
             </item>
         </channel>

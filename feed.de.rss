@@ -9,27 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 23 Jul 2025 04:47:28 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 26 Jul 2025 04:40:50 +0200</lastBuildDate>
             <item>
-                <title>Tierisch gute Freund:innen: Symbiosen</title>
-                <description>“Ey Kroko-Mama, Deine Eier schreien nach Security. Komm schnell rüber und zeig dem Eindringling mal, wo der Reptilienrambo die Revolverzähne hat!” - Was ist denn diese Woche schon wieder bei Jule und ihrem besten Freund Schlauschwein Sparky los? Ganz einfach: es geht um aller aller aller beste Freundschaften...
-Feed: https://sos.podigee.io/feed/mp3</description>
+                <title>#394 8 Jahre, eine Rückschau, Tränen, eure Lieblingsfolgen und Feedback</title>
+                <description>Leute, haltet euch fest – ich hab meine allererste Podcastfolge noch mal angehört. Cringe-Level: 1000. Und gleichzeitig so schön zu sehen, wie viel sich seitdem getan hat. In mir. In euch. In uns. 
+In dieser allerletzten Folge feiern wir „Glück in Worten“, graben Highlights aus acht Jahren Podcastgeschichte aus (Spoiler: Einschlafmeditation forever!) und ich lese euch ein paar Nachrichten vor – inklusive dem vollen Package an Emotionen, Rotz und Wasser. 
+Diese Folge ist eine Liebeserklärung...
+Feed: https://glueck-in-worten.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://sos.podigee.io/87-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2009826-m-5bd12023e44f4b802e856ac9efd9ac4d.mp3?source=feed"/>
-                <guid>https://sos.podigee.io/87-new-episode</guid>
+                <link>https://glueck-in-worten.podigee.io/408-8-jahre-eine-rueckschau-traenen-eure-lieblingsfolgen-und-feedback</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/1950741-m-ab3fc2a29d8565fee8d7d2cfe3377f9c.mp3?source=feed"/>
+                <guid>https://glueck-in-worten.podigee.io/408-8-jahre-eine-rueckschau-traenen-eure-lieblingsfolgen-und-feedback</guid>
                 
             </item><item>
-                <title>Backhaus Weekly 179 Nicht unsere Kultur</title>
-                <description>Nicht unsere Kultur
-
-Feed: https://ekwbzp.podcaster.de/julienbackhaus.rss</description>
+                <title>Extreme Hitze in der Schweiz: Was ist heute schon möglich?</title>
+                <description>Temperaturen von 40 Grad und mehr wurden nördlich der Alpen noch nie gemessen. In wenigen Jahrzehnten dürfte das aber Teil des Schweizer Wetters werden. Ein neuer Forschungszweig hinterfragt, ob das wirklich noch Zukunftsmusik ist. 
+Feed: https://www.srf.ch/feed/podcast/sd/5a8a2441-2695-4a7d-bf87-1a4c2ff6aeeb.xml</description>
                 
                 
-                <link>https://ekwbzp.podcaster.de/julienbackhaus/media/Nicht_unsere_Kultur.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ekwbzp.podcaster.de/julienbackhaus/media/Nicht_unsere_Kultur.mp3"/>
-                <guid>https://ekwbzp.podcaster.de/julienbackhaus/media/Nicht_unsere_Kultur.mp3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://download-media.srf.ch/world/audio/Wetterbox_radio/2025/07/Wetterbox_radio_AUDI20250719_RS_0010_029e2bf238ef46ddab9961073d968e97.mp3?d=ap&amp;assetId=35b3acba-829d-3d6f-8fdc-7faa9cc420dd"/>
+                <guid></guid>
                 
             </item>
         </channel>
