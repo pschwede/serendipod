@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 26 Jul 2025 04:40:58 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 27 Jul 2025 04:49:35 +0200</lastBuildDate>
             <item>
-                <title>Hora 25 Castilla y León (25/07/2025)</title>
-                <description>La información de carácter regional es una pieza esencial de nuestra programación. Durante toda la jornada miramos al resto de la comunidad para seguir de cerca toda la actualidad de Castilla y León.
-Feed: https://fapi-top.prisasd.com/podcast/playser/radio_valladolid.xml</description>
+                <title>10.000 lugares para viajar con Ángela Gonzalo - Riqueza natural y cultural como motor turístico de Colombia - 19/07/25</title>
+                <description>Riqueza natural y cultural como motor turístico de Colombia
+Feed: http://www.rtve.es/api/programas/131510/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/RADIO_VALLADOLID_CADENASER_470_P/media/2025/7/25/ser_castillayleon_hora25castillayleon_20250725_202506_203000.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/10000-lugares-para-viajar-con-angela-gonzalo/10000-lugares-para-viajar-angela-gonzalo-riqueza-natural-cultural-como-motor-turistico-colombia/16671738/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16671738.mp3"/>
+                <guid>https://www.rtve.es/play/audios/10000-lugares-para-viajar-con-angela-gonzalo/10000-lugares-para-viajar-angela-gonzalo-riqueza-natural-cultural-como-motor-turistico-colombia/16671738/</guid>
                 
             </item><item>
-                <title>Hoy empieza todo - La controversia eléctrica de Bob Dylan - 25/07/2025</title>
-                <description>La controversia eléctrica de Bob Dylan
-Feed: http://api.rtve.es/api/programas/59010/audios.rss</description>
+                <title>Episodio nº153: The Whereabouts - The Rising - The High Learys</title>
+                <description>Contenido del episodio
+M&amp;uacute;sica de cabecera: The Grassy Knoll - The Kids Want A Little Action
+Tema n&amp;ordm;1: The Whereabouts - Twenty Thirty Three
+Tema n&amp;ordm;2: The Rising - My Small Faces And My Kinks Cd&#39;s
+Tema n&amp;ordm;3: The High Learys - Idolise Your Woman
+@Todos los derechos de autor y de explotaci&amp;oacute;n comercial pertenecen a los artistas y sus correspondientes sellos discogr&amp;aacute;ficos.
+Feed: https://www.ivoox.com/feed_fg_f11788708_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-1/hoy-empieza-todo-controversia-electrica-bob-dylan-25-07-2025/16677091/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16677091.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-1/hoy-empieza-todo-controversia-electrica-bob-dylan-25-07-2025/16677091/</guid>
+                <link>https://www.ivoox.com/episodio-n-153-the-whereabouts-the-rising-audios-mp3_rf_153620201_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/episodio-n-153-the-whereabouts-the-rising_mf_153620201_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/episodio-n-153-the-whereabouts-the-rising-audios-mp3_rf_153620201_1.html</guid>
                 
             </item>
         </channel>
