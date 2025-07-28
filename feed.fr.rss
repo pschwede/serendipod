@@ -9,27 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 27 Jul 2025 04:49:32 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 28 Jul 2025 04:52:23 +0200</lastBuildDate>
             <item>
-                <title>4 ans, le moment de se réinventer ? ⦗EPISODE ANNIVERSAIRE⦘</title>
-                <description>Le podcast L’autruche et le colibri fête ses 4 ans, 4 ans déjà à faire sa part en éveillant les consciences, en tout cas en essayant !
- Chers auditeurs, votre avis compte ! Vous qui écoutez ces épisodes, pourriez-vous donner votre avis ?  
-Feed: https://feeds.audiomeans.fr/feed/23144c93-96b3-4d18-b5b8-0b5749448e3a.xml</description>
+                <title>Les criquets crinqués : 07/21/2025 21:00</title>
+                <description>653-340652
+Feed: http://podcast.cism893.ca/radioshows/653/feed_itunes.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/7ee5008e-409b-460c-b0de-68a76c9ecbbb.mp3?_=1752512769"/>
-                <guid></guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/340652.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/340652.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/340652.mp3</guid>
                 
             </item><item>
-                <title>Joie et éternité</title>
-                <description>Joie et éternité
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15537.xml</description>
+                <title>Hors série : Interview Anne-Claire Gagnon</title>
+                <description>&lt;p&gt;Dans cet épisode Hors-Série du « Mystère Miaou », je reçois Anne-Claire Gagnon, vétérinaire, Comportementaliste, Auteure et Présidente de l&#39;Association contre la Maltraitance Animale et Humaine.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Crédit Photo Raynald Delfolie.&lt;/p&gt;
+
+Feed: https://anchor.fm/s/ea8770e0/podcast/rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/deleuze-retrouve-16-lecons-de-philosophie/joie-et-eternite-2776826</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/9c9f1410-bad2-4aab-8165-970fb2cc9fd0/15537-26.07.2025-ITEMA_24181688-2025C54314E0016-NET_MFC_30A309C9-D343-4D27-8887-AE4474DE81EE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/deleuze-retrouve-16-lecons-de-philosophie/joie-et-eternite-2776826</guid>
+                <link>https://podcasters.spotify.com/pod/show/felis-catus/episodes/Hors-srie--Interview-Anne-Claire-Gagnon-e35uvl2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/ea8770e0/podcast/play/105921634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-24%2F404451591-44100-2-8b438f5804e2a.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/felis-catus/episodes/Hors-srie--Interview-Anne-Claire-Gagnon-e35uvl2</guid>
                 
             </item>
         </channel>
