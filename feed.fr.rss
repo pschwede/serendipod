@@ -9,27 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 30 Jul 2025 04:50:47 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 01 Aug 2025 04:57:16 +0200</lastBuildDate>
             <item>
-                <title>Comment mieux adapter les villes aux familles monoparentales ?</title>
-                <description>Comment mieux adapter les villes aux familles monoparentales ?
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10175.xml</description>
+                <title>103 Klubb - Maddix - 28 Juin 2025</title>
+                <description>Le mix de Maddix dans 103 Klubb le 28 Juin 2025 de 21H à 22H
+Feed: http://www.103radio.fr/103klubb.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-d-ete/comment-mieux-adapter-les-villes-aux-familles-monoparentales-4464661</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/aaeaee95-787e-4382-85f6-d2be5063730b/10175-29.07.2025-ITEMA_24206592-2025C36267S0210-NET_MFC_8B850146-3EEA-4E70-9F7D-7DDB55E5D726-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-d-ete/comment-mieux-adapter-les-villes-aux-familles-monoparentales-4464661</guid>
+                <link>https://www.103radio.fr/2317.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.103radio.fr/2317.mp3"/>
+                <guid>https://www.103radio.fr/2317.mp3</guid>
                 
             </item><item>
-                <title>Quoi de Libre ? Actualités et annonces concernant l&#39;April et le monde du libre</title>
-                <description> Les références : &lt;ul class=&#34;spip&#34; role=&#34;list&#34;&gt;&lt;li&gt; Nous avons besoin d&#39;aide, Rejoignez l&#39;équipe « Libre à vous ! » :
-&lt;ul class=&#34;spip&#34; role=&#34;list&#34;&gt;&lt;li&gt; L&#39;équipe régie recrute&lt;/li&gt;&lt;li&gt; L&#39;équipe podcast recrute&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; Assises Francophones de l&#39;art libre du mercredi 9 juillet 2025 à 09h00 au jeudi 10 juillet 2025 à 17h00 à Neuchâtel (Suisse). L&#39;April y sera présente avec un stand mercredi 9 juillet après-midi...
-Feed: https://april.org/lav.xml</description>
+                <title>Héritage des JO 2024: la biodiversité de la Seine en nette progression [9/10]</title>
+                <description>
+Il y a un an, Paris vibrait au rythme des Jeux olympiques et paralympiques.  Aujourd&#39;hui, il est désormais possible de se baigner dans la Seine, et ce, depuis le 5 juillet dernier. La qualité de l’eau du fleuve est en bien meilleur état qu’il y a 50 ans…
+Feed: https://www.rfi.fr/fr/podcasts/reportage-france/podcast</description>
                 
                 
-                <link>https://www.libreavous.org/252-april-un-peu-d-historique-et-quelques-grandes-actions</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20250708/libre-a-vous-20250708-annonces.ogg"/>
-                <guid>https://www.libreavous.org/252-april-un-peu-d-historique-et-quelques-grandes-actions</guid>
+                <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250731-h%C3%A9ritage-des-jo-2024-la-biodiversit%C3%A9-de-la-seine-en-nette-progression-9-10?GJlXzGgqHj</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/aod-rfi.akamaized.net/rfi/francais/audio/modules/actu/202507/REP_FRA_01-08-25_heritage_JO_biodiversite_Seine.mp3?guid=720ce512-6e2e-11f0-a666-5f99d80309f5&amp;source=GJlXzGgqHj"/>
+                <guid>https://www.rfi.fr/fr/podcasts/reportage-france/20250731-h%C3%A9ritage-des-jo-2024-la-biodiversit%C3%A9-de-la-seine-en-nette-progression-9-10?GJlXzGgqHj</guid>
                 
             </item>
         </channel>

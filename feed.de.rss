@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 30 Jul 2025 04:50:42 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 01 Aug 2025 04:57:11 +0200</lastBuildDate>
             <item>
-                <title>Schlagen bis ins Loch</title>
-                <description>Urlaub ist in Gesicht
-Feed: https://feeds.acast.com/public/shows/67850d473f68018e6aec837d</description>
+                <title>Die Borussia-Historie: 50 Jahre Double-Saison 1974/75 #11</title>
+                <description>Die Borussia-Historie: 50 Jahre Double-Saison 197…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:326255888/sounds.rss</description>
                 
                 
-                <link>https://shows.acast.com/sprechstunde/episodes/schlagen-bis-in-loch</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/67850d473f68018e6aec837d/e/6880ece1f6d4262b07cf397c/media.mp3"/>
-                <guid>https://shows.acast.com/sprechstunde/episodes/schlagen-bis-in-loch</guid>
+                <link>https://soundcloud.com/fohlenpodcast/die-borussia-historie</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2127492093-fohlenpodcast-die-borussia-historie.mp3"/>
+                <guid>https://soundcloud.com/fohlenpodcast/die-borussia-historie</guid>
                 
             </item><item>
-                <title>Shortleg - World Matchplay 2025 Analyse</title>
-                <description>&lt;p&gt;Mit nur 18 Jahren holt sich Luke Littler durch seinen Sieg beim World Matchplay als fünfter Spieler die Triple Crown und sorgt im Halbfinale zudem in einem sensationellen Leg gegen Josh Rock für einen 9-Darter. In der neuen Folge von Shortleg analysieren Marvin van den Boom, Kevin Barth und Moritz Käthner das Turnier aus Blackpool und ordnen auch die deutsche Bilanz ein...
-Feed: https://anchor.fm/s/1001cbf0/podcast/rss</description>
+                <title>Das BFSG ist da: Was jetzt für Online-Shops gilt</title>
+                <description>Im Juni gab es kein Thema, das mehr Einordnung benötigte, als das BFSG. Darum haben wir uns Expertin Yvonne Bachmann, Volljuristin und Kollegin in der juristischen Fachredaktion, als Gast eingeladen. Kaum jemand hat sich in den vergangenen Monaten so intensiv mit dem BFSG beschäftigt wie Yvonne. Eure Hosts Ricarda und Christoph haben die Fragen, Yvonne die Antworten.
+Wir wünschen viel Spaß beim Hören – überall dort, wo es Podcasts gibt!
+
+Feed: https://onlinehaendler-news.podcaster.de/ohnpodcast.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/shortleg/episodes/Shortleg---World-Matchplay-2025-Analyse-e36575t</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1001cbf0/podcast/play/106125949/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-28%2Fd814a098-84e6-1450-6846-acc2c375c68c.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/shortleg/episodes/Shortleg---World-Matchplay-2025-Analyse-e36575t</guid>
+                <link>https://onlinehaendler-news.podcaster.de/ohnpodcast/media/OHN_Podcast_Sonderfolge_Das_BFSG_ist_da-_Was_fu--r_Online-Shops_jetzt_gilt.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://onlinehaendler-news.podcaster.de/ohnpodcast/media/OHN_Podcast_Sonderfolge_Das_BFSG_ist_da-_Was_fu--r_Online-Shops_jetzt_gilt.mp3"/>
+                <guid>https://onlinehaendler-news.podcaster.de/ohnpodcast/media/OHN_Podcast_Sonderfolge_Das_BFSG_ist_da-_Was_fu--r_Online-Shops_jetzt_gilt.mp3</guid>
                 
             </item>
         </channel>
