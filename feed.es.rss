@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 01 Aug 2025 04:57:20 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 02 Aug 2025 04:40:15 +0200</lastBuildDate>
             <item>
-                <title>Rincón Sportinguista 594. Especial cantera #PodcastSportiguista</title>
-                <description>Programa desde el espacio de Twitter donde analizamos la temporada en la Escuela de F&amp;uacute;tbol de Mareo.
-Feed: https://www.ivoox.com/feed_fg_f16326_filtro_1.xml</description>
+                <title>Documentar con inteligencia artificial</title>
+                <description>El equipo de Documentación propone la creación de documentación con ayuda de inteligencia artificial, pero siempre con un factor humano intermedio que ayude en su supervisión.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>https://www.ivoox.com/rincon-sportinguista-594-especial-cantera-podcastsportiguista-audios-mp3_rf_149871542_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/rincon-sportinguista-594-especial-cantera-podcastsportiguista_mf_149871542_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/rincon-sportinguista-594-especial-cantera-podcastsportiguista-audios-mp3_rf_149871542_1.html</guid>
+                <link>https://www.wppodcast.es/podcast/documentar-con-inteligencia-artificial/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/319/s/feed/c/podcast/wordpress-podcast-e272.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/documentar-con-inteligencia-artificial/</guid>
                 
             </item><item>
-                <title>Cosa Publica 2.0 - Mi. 30 Jul 2025</title>
-                <description>https://podcastudg.com/CosaPublica20250730.mp3
-Feed: https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/feed/19</description>
+                <title>Lo Que Más Suena Cap. 364 (25-07-25)</title>
+                <description>Nueva edición de &#39;Lo Que Más Suena&#39;, que contiene las últimas novedades, temazos del recuerdo y vuestras peticiones mediante nota de voz a nuestro número de WhatsApp. Incluye una entrevista a Marilia Monzón.
+WhatsApp: 633 865 801
+Facebook: http://www.facebook.com/loqmassuena
+Twitter: @loquemassuena
+Instagram: https://www.instagram.com/loquemassuena/
+E-mail: loquemassuena@gmail.com
+Feed: https://feeds.feedburner.com/loquemassuena</description>
                 
                 
-                <link>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---mi-30-jul-2025/279251</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/CosaPublica20250730.mp3"/>
-                <guid>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---mi-30-jul-2025/279251</guid>
+                <link>https://www.ivoox.com/lo-que-mas-suena-cap-364-25-07-25-audios-mp3_rf_153850484_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/lo-que-mas-suena-cap-364-25-07-25_mf_153850484_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/lo-que-mas-suena-cap-364-25-07-25-audios-mp3_rf_153850484_1.html</guid>
                 
             </item>
         </channel>
