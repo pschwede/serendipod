@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 02 Aug 2025 04:40:15 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 04 Aug 2025 05:01:09 +0200</lastBuildDate>
             <item>
-                <title>Documentar con inteligencia artificial</title>
-                <description>El equipo de Documentación propone la creación de documentación con ayuda de inteligencia artificial, pero siempre con un factor humano intermedio que ayude en su supervisión.
-Feed: https://www.wppodcast.es/feed/podcast/</description>
+                <title>#203 Fernando Buscema y la ciencia del buen vino</title>
+                <description>&lt;p&gt;El vino es una bebida con miles de años de historia, que casi todos conocemos y hemos probado. Pero no son tantos los que realmente saben de vinos: reconocerlos, distinguir uno bueno de uno malo, descubrir qué notas tienen y por qué. Y son menos todavía los que saben hacer buenos vinos. Por su historia, por lo que representa en nuestra cultura y porque tenía muchas ganas de aprender, me dieron muchas ganas de conversar con Fernando Buscema...
+Feed: https://anchor.fm/s/fd284b0c/podcast/rss</description>
                 
                 
-                <link>https://www.wppodcast.es/podcast/documentar-con-inteligencia-artificial/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/319/s/feed/c/podcast/wordpress-podcast-e272.mp3"/>
-                <guid>https://www.wppodcast.es/podcast/documentar-con-inteligencia-artificial/</guid>
+                <link>https://podcasters.spotify.com/pod/show/gerrygarbulsky/episodes/203-Fernando-Buscema-y-la-ciencia-del-buen-vino-e368jog</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/fd284b0c/podcast/play/106237136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-31%2F404857666-44100-2-f2a3cde8e87fc.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/gerrygarbulsky/episodes/203-Fernando-Buscema-y-la-ciencia-del-buen-vino-e368jog</guid>
                 
             </item><item>
-                <title>Lo Que Más Suena Cap. 364 (25-07-25)</title>
-                <description>Nueva edición de &#39;Lo Que Más Suena&#39;, que contiene las últimas novedades, temazos del recuerdo y vuestras peticiones mediante nota de voz a nuestro número de WhatsApp. Incluye una entrevista a Marilia Monzón.
-WhatsApp: 633 865 801
-Facebook: http://www.facebook.com/loqmassuena
-Twitter: @loquemassuena
-Instagram: https://www.instagram.com/loquemassuena/
-E-mail: loquemassuena@gmail.com
-Feed: https://feeds.feedburner.com/loquemassuena</description>
+                <title>Los conciertos de Radio 3 - Versiones de verano 4 - 18/07/25</title>
+                <description>Versiones de verano 4
+Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/lo-que-mas-suena-cap-364-25-07-25-audios-mp3_rf_153850484_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/lo-que-mas-suena-cap-364-25-07-25_mf_153850484_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/lo-que-mas-suena-cap-364-25-07-25-audios-mp3_rf_153850484_1.html</guid>
+                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/versiones-verano-4-18-07-25/16669181/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16669181.mp3"/>
+                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/versiones-verano-4-18-07-25/16669181/</guid>
                 
             </item>
         </channel>
