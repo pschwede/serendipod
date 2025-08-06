@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 04 Aug 2025 05:01:09 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 06 Aug 2025 04:52:01 +0200</lastBuildDate>
             <item>
-                <title>#203 Fernando Buscema y la ciencia del buen vino</title>
-                <description>&lt;p&gt;El vino es una bebida con miles de años de historia, que casi todos conocemos y hemos probado. Pero no son tantos los que realmente saben de vinos: reconocerlos, distinguir uno bueno de uno malo, descubrir qué notas tienen y por qué. Y son menos todavía los que saben hacer buenos vinos. Por su historia, por lo que representa en nuestra cultura y porque tenía muchas ganas de aprender, me dieron muchas ganas de conversar con Fernando Buscema...
-Feed: https://anchor.fm/s/fd284b0c/podcast/rss</description>
+                <title>Hoy empieza todo 2 - &#39;Chanclazo&#39;, el juego de mesa de Pablo Santé - 5/8/25</title>
+                <description>&#39;Chanclazo&#39;, el juego de mesa de Pablo Santé
+Feed: http://api.rtve.es/api/programas/59011/audios.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/gerrygarbulsky/episodes/203-Fernando-Buscema-y-la-ciencia-del-buen-vino-e368jog</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/fd284b0c/podcast/play/106237136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-31%2F404857666-44100-2-f2a3cde8e87fc.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/gerrygarbulsky/episodes/203-Fernando-Buscema-y-la-ciencia-del-buen-vino-e368jog</guid>
+                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-2/hoy-empieza-todo-2-chanclazo-juego-mesa-pablo-sante-5-8-25/16687806/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16687806.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-2/hoy-empieza-todo-2-chanclazo-juego-mesa-pablo-sante-5-8-25/16687806/</guid>
                 
             </item><item>
-                <title>Los conciertos de Radio 3 - Versiones de verano 4 - 18/07/25</title>
-                <description>Versiones de verano 4
-Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
+                <title>Radioyentes 431 podcast sobre filosofía</title>
+                <description>¡Hola a todos y bienvenidos a esta edición de Radioyentes en la que os recomendamos diferentes podcast en este caso sobre filosofía, todo ello basándonos en la informacion que nos ofrecía Pedro Martínez en un artículo en iVoox. Así que comenzamos hablando del espacio titulado El Estoico, que es un podcast que nos sumerge en los principios del estoicismo, esa filosofía milenaria que nos enseña a vivir con serenidad y propósito...
+Feed: https://www.ivoox.com/feed_fg_f1463235_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/versiones-verano-4-18-07-25/16669181/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16669181.mp3"/>
-                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/versiones-verano-4-18-07-25/16669181/</guid>
+                <link>https://www.ivoox.com/radioyentes-431-podcast-sobre-filosofia-audios-mp3_rf_138786188_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-431-podcast-sobre-filosofia_mf_138786188_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/radioyentes-431-podcast-sobre-filosofia-audios-mp3_rf_138786188_1.html</guid>
                 
             </item>
         </channel>

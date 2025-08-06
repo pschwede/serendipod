@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 04 Aug 2025 05:01:06 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 06 Aug 2025 04:51:57 +0200</lastBuildDate>
             <item>
-                <title>Les fées de Cottingley 2/2 : La fin du mensonge</title>
-                <description>Les fées de Cottingley 2/2 : La fin du mensonge
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16408.xml</description>
+                <title>Une histoire de la mode 6/10 : Les années 1960 (1/2)</title>
+                <description>Une histoire de la mode 6/10 : Les années 1960 (1/2)
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14435.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/la-fin-du-mensonge-4626046</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/971b28c4-969b-45d5-98bf-f01aedc9a851/16408-02.08.2025-ITEMA_24209380-2023C26160E0244-ITE_00137388_RSCE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/la-fin-du-mensonge-4626046</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/une-histoire-de-la-mode/les-annees-1960-1-2-9032429</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/08ae3983-7d57-4553-9554-b3efd6a3aed9/14435-03.08.2025-ITEMA_24180339-2009F14777S0213-NET_MFI_8B95F162-5D39-4D12-8E1B-C0390AC7C6FC-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/une-histoire-de-la-mode/les-annees-1960-1-2-9032429</guid>
                 
             </item><item>
-                <title>Mix 25 : 08/01/2025 09:00</title>
-                <description>647-341290
-Feed: http://podcast.cism893.ca/radioshows/647/feed_itunes.xml</description>
+                <title>Brise tes chaînes intérieures : De la blessure à la liberté avec Marilyn Pellier</title>
+                <description>
+Marilyn Pellier est l&#39;invitée du 205ème épisode du podcast C&#39;est quoi le bonheur pour vous? Je suis coach émotionnelle, mentale et thérapeute spécialisée en thérapies brèves, passionnée par la transformation intérieure et la puissance de l’être humain...
+Feed: https://feed.ausha.co/Bx64mfq9vlKW</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/341290.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/341290.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/341290.mp3</guid>
+                <link>https://podcast.ausha.co/c-est-quoi-le-bonheur-pour-vous/brise-tes-chaines-interieures-de-la-blessure-a-la-liberte-avec-marilyn-pellier</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ausha.tsbluebox.com/bzp58fQO3m53.mp3?externalgroupid=65408&amp;stationid=c-est-quoi-le-bonheur-pour-vous&amp;externalid=52382&amp;contentformat-applepodcast=Health+%26+Fitness&amp;tmax=2000"/>
+                <guid>https://podcast.ausha.co/c-est-quoi-le-bonheur-pour-vous/brise-tes-chaines-interieures-de-la-blessure-a-la-liberte-avec-marilyn-pellier</guid>
                 
             </item>
         </channel>

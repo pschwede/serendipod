@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 04 Aug 2025 05:01:02 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 06 Aug 2025 04:51:54 +0200</lastBuildDate>
             <item>
-                <title>Blues als religiöse Praxis (W) (4/6)</title>
-                <description>Blues ist weit mehr als ein Musikgenre. Er beschreibt eine Lebenseinstellung, manchmal sogar eine religiöse Praxis. Dann drückt Blues eine Sehnsucht aus, wie das gute Leben sein könnte. 
-Feed: https://www.srf.ch/feed/podcast/sd/8c3fd307-ed87-4b6c-87cc-a62323f63fb9.xml</description>
+                <title>Frischer Fisch vom Weißensee – mit Berufsfischer Markus Limarutti -#72</title>
+                <description>Köchin Paula Bründl besucht den Berufsfischer Markus Limarutti am Weissensee. Erst lehrt er ihr das Angeln, anschließend bereiten sie frischen Fisch zu, wobei Paula sich experimentierfreudig zeigt und sich einer regionalen Säure bedient: dem Sanddorn.
+Im Kärntner Weißensee schwimmen Reinanken, Seeforellen, Zander und noch viel mehr. Wie man die besonders feinen Fische aus dem höchstgelegenen Badesee der Alpen fischt, das zeigt der Berufsfischer Markus Limarutti der jungen Köchin Paula Bründl...
+Feed: https://feeds.megaphone.fm/REDBULLMEDIAHOUSE8817333933</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://download-media.srf.ch/world/audio/Perspektiven_radio/2025/08/Perspektiven_radio_AUDI20250802_NR_0004_6c96d3db16794a788881b20e1c3b025e.mp3?d=ap&amp;assetId=c371d0ed-48fc-32b6-8d2a-855aa68cde3a"/>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/REDBULLMEDIAHOUSE4473732974.mp3?updated=1753284263"/>
                 <guid></guid>
                 
             </item><item>
-                <title>554. Sendung mit Stefan Hierländer, Lukas Grgic und Peter Pacult</title>
-                <description>554. Sendung mit Stefan Hierländer, Lukas Grgic und Peter Pacult
-Feed: https://talkundtore.podigee.io/feed/mp3</description>
+                <title>MW #208: Leben, Reisen und ein neuer politischer Weg</title>
+                <description>Dieser Podcastauszug behandelt mehrere Themen, die Michaela in den letzten anderthalb Jahren erlebt hat. Zunächst erklärt sie technische Schwierigkeiten mit ihrem Podcast-Host und die Umstellung auf SoundCloud, wobei einige ältere Folgen verloren gingen. Sie berichtet dann von persönlichen Reisen, darunter ein Besuch einer Fotoausstellung in der Schweiz und eine Reise nach Tokio, bei der sie mit Fußschmerzen zu kämpfen hatte und sich aktuell in Behandlung befindet...
+Feed: https://michaelas-welt.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://talkundtore.podigee.io/555-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2047793-m-add7aebe35dcaa40759c3778a24f09c0.mp3?source=feed"/>
-                <guid>https://talkundtore.podigee.io/555-neue-episode</guid>
+                <link>https://michaelas-welt.podigee.io/208-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2045397-m-6c2e077836df55082dd1f2bec08473cb.mp3?source=feed"/>
+                <guid>https://michaelas-welt.podigee.io/208-neue-episode</guid>
                 
             </item>
         </channel>
