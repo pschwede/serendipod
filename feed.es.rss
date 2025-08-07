@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 06 Aug 2025 04:52:01 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 07 Aug 2025 04:52:00 +0200</lastBuildDate>
             <item>
-                <title>Hoy empieza todo 2 - &#39;Chanclazo&#39;, el juego de mesa de Pablo Santé - 5/8/25</title>
-                <description>&#39;Chanclazo&#39;, el juego de mesa de Pablo Santé
-Feed: http://api.rtve.es/api/programas/59011/audios.rss</description>
+                <title>DEXconexión 08x03</title>
+                <description>En este DexConexi&amp;oacute;n de verano os traigo cuatro historias que demuestran que vivimos tiempos verdaderamente extra&amp;ntilde;os. Primero, el misterio de por qu&amp;eacute; en la vida real no me encuentro con el nivel de podredumbre mental que inunda las redes sociales...
+Feed: https://www.ivoox.com/feed_fg_f1413939_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-2/hoy-empieza-todo-2-chanclazo-juego-mesa-pablo-sante-5-8-25/16687806/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16687806.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-2/hoy-empieza-todo-2-chanclazo-juego-mesa-pablo-sante-5-8-25/16687806/</guid>
+                <link>https://www.ivoox.com/dexconexion-08x03-audios-mp3_rf_154432376_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/dexconexion-08x03_mf_154432376_feed_1.mp3?d=1754220420"/>
+                <guid>https://www.ivoox.com/dexconexion-08x03-audios-mp3_rf_154432376_1.html</guid>
                 
             </item><item>
-                <title>Radioyentes 431 podcast sobre filosofía</title>
-                <description>¡Hola a todos y bienvenidos a esta edición de Radioyentes en la que os recomendamos diferentes podcast en este caso sobre filosofía, todo ello basándonos en la informacion que nos ofrecía Pedro Martínez en un artículo en iVoox. Así que comenzamos hablando del espacio titulado El Estoico, que es un podcast que nos sumerge en los principios del estoicismo, esa filosofía milenaria que nos enseña a vivir con serenidad y propósito...
-Feed: https://www.ivoox.com/feed_fg_f1463235_filtro_1.xml</description>
+                <title>Acontece que no es poco | El Grand Tour, cuando viajar alimentaba el cerebro</title>
+                <description>&lt;p&gt;Nieves Concostrina habla de &#39;El grand tour&#39;, el viaje que todo jovencito británico tenía que hacer para acabar su formación.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+Feed: https://fapi-top.prisasd.com/podcast/playser/acontece_que_no_es_poco_1478/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.ivoox.com/radioyentes-431-podcast-sobre-filosofia-audios-mp3_rf_138786188_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-431-podcast-sobre-filosofia_mf_138786188_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/radioyentes-431-podcast-sobre-filosofia-audios-mp3_rf_138786188_1.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/LA_VENTANA_ACONTECE_QUE_NO_ES_POCO_SER_PODCAST_1478_P/media/playser/audio/20257/08/4542768.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
