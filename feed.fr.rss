@@ -9,8 +9,20 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 07 Aug 2025 04:51:56 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 08 Aug 2025 04:51:44 +0200</lastBuildDate>
             <item>
+                <title>#140 – Patrice Lagisquet, l’Express au long cours - Bâtir et guider</title>
+                <description>
+En bon enfant du Bassin d&#39;Arcachon, Patrice est fils d&#39;ostréiculteur ! Très énergique, il teste divers sports, dont le foot et l&#39;athlétisme, avant de s&#39;essayer au rugby et de parapher sa première licence à Gujan Mestras !
+Rapidement sollicité par de g...
+Feed: https://feed.ausha.co/yv1mvfdd4lr2</description>
+                
+                
+                <link>https://podcast.ausha.co/la-cravate/patrice-lagisquet</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/ype2OuRnePqb.mp3?t=1753918091"/>
+                <guid>https://podcast.ausha.co/la-cravate/patrice-lagisquet</guid>
+                
+            </item><item>
                 <title>Ramirez, CEO Trayle, Bob Marlich, So La lune, Vald - Récolte</title>
                 <description>&lt;p&gt;Déjà l’avant-dernière émission de la saison. Spotify continue de strike les épisodes que l’on publie au bout de deux jours. Mais les sommeliers sont toujours là pour servir une délicieuse récolte. Le rap français est à nouveau à l’honneur dans cet épisode. Au menu, Bob Marlich au top de sa forme, un feat improbable entre So La Lune et Guizmo, Kekra l’esthete de l’autotune (notre Future à nous) et enfin le V...
 Feed: https://api.substack.com/feed/podcast/1440631.rss</description>
@@ -19,16 +31,6 @@ Feed: https://api.substack.com/feed/podcast/1440631.rss</description>
                 <link>https://www.lesbonscrus.fr/p/ramirez-ceo-trayle-bob-marlich-so</link>
                 <enclosure type="audio/mpeg" length="1" url="https://api.substack.com/feed/podcast/166534524/c255f9f014cef7dc8d5dfca68f94dc8d.mp3"/>
                 <guid>https://www.lesbonscrus.fr/p/ramirez-ceo-trayle-bob-marlich-so</guid>
-                
-            </item><item>
-                <title>Une histoire de la mode 6/10 : Les années 1960 (1/2)</title>
-                <description>Une histoire de la mode 6/10 : Les années 1960 (1/2)
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14435.xml</description>
-                
-                
-                <link>https://www.radiofrance.fr/franceinter/podcasts/une-histoire-de-la-mode/les-annees-1960-1-2-9032429</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/08ae3983-7d57-4553-9554-b3efd6a3aed9/14435-03.08.2025-ITEMA_24180339-2009F14777S0213-NET_MFI_8B95F162-5D39-4D12-8E1B-C0390AC7C6FC-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/une-histoire-de-la-mode/les-annees-1960-1-2-9032429</guid>
                 
             </item>
         </channel>

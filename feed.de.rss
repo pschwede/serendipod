@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 07 Aug 2025 04:51:52 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 08 Aug 2025 04:51:40 +0200</lastBuildDate>
             <item>
-                <title>#278 Vor dem großen DM-Hindernis-Showdown zu Hause - zu Gast: Karl Bebendorf</title>
-                <description>Über Karls beeindruckende Konstanz, eine bewusste Karriere über Hindernisse &amp; die Bedeutung der LA-DM zuhhause in Dresden
-Feed: https://bestzeit.podigee.io/feed/aac</description>
+                <title>Die katholische Soziallehre, 2. Teil.</title>
+                <description>Prof. Dr. Peter Schallenberg https://www.thf-paderborn.de/website-verwaltung/ansprechpersonen/lehrende-an-der-thf/professoren/peter-schallenberg/
+Dies ist die Wiederholung vom 24.07. Die ursprünglich für diesen Abend vorgesehene Livesendung &#34;Seelsorgesprechstunde&#34; musste leider entfallen.
+
+Feed: http://www.horeb.org/xyz/podcast/credo/credo.xml</description>
                 
                 
-                <link>https://bestzeit.podigee.io/278-vor-dem-grossen-dm-hindernis-showdown-zuhause-zu-gast-karl-bebendorf</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2038625-m-9c7098fa269c38d293eceaaa7f241126.m4a?source=feed"/>
-                <guid>https://bestzeit.podigee.io/278-vor-dem-grossen-dm-hindernis-showdown-zuhause-zu-gast-karl-bebendorf</guid>
+                <link>https://www.horeb.org/xyz/podcast/credo/20250724cr.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.horeb.org/xyz/podcast/credo/20250724cr.mp3"/>
+                <guid>https://www.horeb.org/xyz/podcast/credo/20250724cr.mp3</guid>
                 
             </item><item>
-                <title>#72 Urlaub haben und selbstständig sein, geht das wirklich? | (Un)Vereinbarkeitscheck im Juni mit Caro &amp;amp; Lisa</title>
-                <description>Während Lisa 2 Wochen Urlaub gemacht und trotzdem gearbeitet hat, hat Caro mehr Abwechslung gehabt und es genossen. Wie bereiten wir unsere &#34;Abwesenheiten&#34; vor?
-Feed: https://mama-macht-business.de/feed/mp3/</description>
+                <title>Welcher Wettkampftyp bist du?</title>
+                <description>mit Lilly Mann
+Feed: https://feeds.acast.com/public/shows/a99d635c-58f3-41b9-8353-c917e64a47ca</description>
                 
                 
-                <link>https://mama-macht-business.de/72-unvereinbarkeitscheck-im-juni/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mama-macht-business.de/podlove/file/145/s/feed/c/mp3/MMB-072-Unvereinbarkeitscheck-Juni-2025.mp3"/>
-                <guid>https://mama-macht-business.de/72-unvereinbarkeitscheck-im-juni/</guid>
+                <link>https://shows.acast.com/achilles-running-shorts/episodes/welcher-wettkampftyp-bist-du-laufen</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/achilles-running-shorts/e/688b6adf6bbbf6afc75934cf/media.mp3"/>
+                <guid>https://shows.acast.com/achilles-running-shorts/episodes/welcher-wettkampftyp-bist-du-laufen</guid>
                 
             </item>
         </channel>
