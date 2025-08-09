@@ -9,28 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 08 Aug 2025 04:51:40 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 09 Aug 2025 04:35:12 +0200</lastBuildDate>
             <item>
-                <title>Die katholische Soziallehre, 2. Teil.</title>
-                <description>Prof. Dr. Peter Schallenberg https://www.thf-paderborn.de/website-verwaltung/ansprechpersonen/lehrende-an-der-thf/professoren/peter-schallenberg/
-Dies ist die Wiederholung vom 24.07. Die ursprünglich für diesen Abend vorgesehene Livesendung &#34;Seelsorgesprechstunde&#34; musste leider entfallen.
-
-Feed: http://www.horeb.org/xyz/podcast/credo/credo.xml</description>
+                <title>Lernen neu denken - Future Skills</title>
+                <description>Welches sind die Anforderungen der Zukunft und wie können wir sie erreichen. Der Future Skills Day bei Fraunhofer war höchst informativ und inspirierend und ist Anlass für diese Podcast-Episode. Lernen neu denken? Ja wie denn? Und worauf kommt es...
+Feed: https://chance.libsyn.com/rss</description>
                 
                 
-                <link>https://www.horeb.org/xyz/podcast/credo/20250724cr.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.horeb.org/xyz/podcast/credo/20250724cr.mp3"/>
-                <guid>https://www.horeb.org/xyz/podcast/credo/20250724cr.mp3</guid>
+                <link>https://chance.libsyn.com/lernen-neu-denken-future-skills</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/chance/365_-_Lernen_neu_denken_-_Future_Skills.mp3?dest-id=1097480"/>
+                <guid>https://chance.libsyn.com/lernen-neu-denken-future-skills</guid>
                 
             </item><item>
-                <title>Welcher Wettkampftyp bist du?</title>
-                <description>mit Lilly Mann
-Feed: https://feeds.acast.com/public/shows/a99d635c-58f3-41b9-8353-c917e64a47ca</description>
+                <title>Summer at Ecclesia | Teil 1 | Hast du Jesus verpasst?</title>
+                <description>
+#AlexandraRobison #EcclesiaChurch #OnlineGottesdienst
+⬇️ HIER FINDEST DU WEITERE INFOS UND RESSOURCEN ⬇️
+▬ MITSCHRIFT und NACHBESPRECHUNG ▬
+Die Bibelstellen zur Predigt und eine Möglichkeit aktiv mitzuschreiben, findest du in der digitalen Predigtmitschrift. Einen Download der Predigt findest du unter den Ressourcen.
+✍️ Mitschrift: https://bible.com/events/49471778YouTube: https://youtube...
+Feed: https://ecclesia.church/ecclesia-nuernberg-podcast/</description>
                 
                 
-                <link>https://shows.acast.com/achilles-running-shorts/episodes/welcher-wettkampftyp-bist-du-laufen</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/achilles-running-shorts/e/688b6adf6bbbf6afc75934cf/media.mp3"/>
-                <guid>https://shows.acast.com/achilles-running-shorts/episodes/welcher-wettkampftyp-bist-du-laufen</guid>
+                <link>https://ecclesia.church/predigt/summer-at-ecclesia-teil-1-hast-du-jesus-verpasst/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ecclesia.church/wp-content/uploads/ec_2025-08-03_Alexandra-Robison_Hast-du-Jesus-verpasst_Teil-1.mp3"/>
+                <guid>https://ecclesia.church/predigt/summer-at-ecclesia-teil-1-hast-du-jesus-verpasst/</guid>
                 
             </item>
         </channel>
