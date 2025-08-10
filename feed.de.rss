@@ -9,31 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 09 Aug 2025 04:35:12 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 10 Aug 2025 04:46:25 +0200</lastBuildDate>
             <item>
-                <title>Lernen neu denken - Future Skills</title>
-                <description>Welches sind die Anforderungen der Zukunft und wie können wir sie erreichen. Der Future Skills Day bei Fraunhofer war höchst informativ und inspirierend und ist Anlass für diese Podcast-Episode. Lernen neu denken? Ja wie denn? Und worauf kommt es...
-Feed: https://chance.libsyn.com/rss</description>
+                <title>GEFRAGT mit Manni Manta</title>
+                <description>Manni Manta ist nicht nur einer von Nicos ältesten und engsten Freunden – er ist auch der Mensch, mit dem ich er in frühen Tagen die meisten Filmprojekte gestemmt hat. Inzwischen hat er sich ganz der Musik verschrieben und bringt regelmäßig den Megapark auf Mallorca zum Beben.
+Doch seine Liebe zum Kino brennt weiter – und darüber sprechen wir in dieser neuen Episode von GEFRAGT!
+www.instagram.com/schauplatzpodcast
+www.instagram.com/mannimantamucke
+
+Feed: https://z6zpum.podcaster.de/schauplatz.rss</description>
                 
                 
-                <link>https://chance.libsyn.com/lernen-neu-denken-future-skills</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/chance/365_-_Lernen_neu_denken_-_Future_Skills.mp3?dest-id=1097480"/>
-                <guid>https://chance.libsyn.com/lernen-neu-denken-future-skills</guid>
+                <link>https://z6zpum.podcaster.de/schauplatz/media/GEFRAGT_mit_Manni_Manta.m4a</link>
+                <enclosure type="audio/mpeg" length="1" url="https://main.podcast-hosting.org/z6zpum.podcaster.de/schauplatz/media/GEFRAGT_mit_Manni_Manta.m4a?awCollectionId=at-epc8e&amp;awEpisodeId=at-epc8e-7ef2d2303d025a49dab27255197398cf49b391fa&amp;origin=feed&amp;v=1753998903"/>
+                <guid>https://z6zpum.podcaster.de/schauplatz/media/GEFRAGT_mit_Manni_Manta.m4a</guid>
                 
             </item><item>
-                <title>Summer at Ecclesia | Teil 1 | Hast du Jesus verpasst?</title>
-                <description>
-#AlexandraRobison #EcclesiaChurch #OnlineGottesdienst
-⬇️ HIER FINDEST DU WEITERE INFOS UND RESSOURCEN ⬇️
-▬ MITSCHRIFT und NACHBESPRECHUNG ▬
-Die Bibelstellen zur Predigt und eine Möglichkeit aktiv mitzuschreiben, findest du in der digitalen Predigtmitschrift. Einen Download der Predigt findest du unter den Ressourcen.
-✍️ Mitschrift: https://bible.com/events/49471778YouTube: https://youtube...
-Feed: https://ecclesia.church/ecclesia-nuernberg-podcast/</description>
+                <title>#428: Eat the Frog first: Wie Du Deine Energie richtig einsetzt</title>
+                <description>Bianca und Korbinian über Prioritäten, Produktivität und das Pareto-Prinzip.
+Feed: https://academyforliberty.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://ecclesia.church/predigt/summer-at-ecclesia-teil-1-hast-du-jesus-verpasst/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ecclesia.church/wp-content/uploads/ec_2025-08-03_Alexandra-Robison_Hast-du-Jesus-verpasst_Teil-1.mp3"/>
-                <guid>https://ecclesia.church/predigt/summer-at-ecclesia-teil-1-hast-du-jesus-verpasst/</guid>
+                <link>https://academyforliberty.podigee.io/800-eat-the-frog</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2033881-m-0d1bf8283d0d6ca73e15c155c68b1cb3.mp3?source=feed"/>
+                <guid>https://academyforliberty.podigee.io/800-eat-the-frog</guid>
                 
             </item>
         </channel>
