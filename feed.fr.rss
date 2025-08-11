@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 10 Aug 2025 04:46:31 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 11 Aug 2025 04:50:54 +0200</lastBuildDate>
             <item>
-                <title>Baburu バブル 35 : Kiwi FM 76.3 Dimanche 21 Juillet 1991</title>
-                <description>Baburu バブル 35 : Kiwi FM 76.3 Dimanche 21 Juillet 1991
-00:45 Tatsuro Yamashita : loveland Island (1982)
-03:45 Tm Network 8月の長い夜...
-Feed: https://feeds.feedburner.com/TheSynthSquad</description>
+                <title>EXTRAIT | « La fake news du Titanic »</title>
+                <description>Extrait de l&#39;épisode 46 de la saison 3
+Feed: https://feeds.acast.com/public/shows/4-quarts-dheure</description>
                 
                 
-                <link>https://baburu.lepodcast.fr/baburu-baburu-35-kiwi-fm-76-point-3-dimanche-21-juillet-1991</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/baburu/baburu-baburu-35-kiwi-fm-76-point-3-dimanche-21-juillet-1991/enclosure.af3fbe821af5f6bc837575896196a384e79ff79102c40ce85c20df112b96d3c4.mp3?p=f"/>
-                <guid>https://baburu.lepodcast.fr/baburu-baburu-35-kiwi-fm-76-point-3-dimanche-21-juillet-1991</guid>
+                <link>https://shows.acast.com/4-quarts-dheure/episodes/extrait-la-fake-news-du-titanic</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/632090bb4d259900133e31a5/e/6889f4aac6d705dd3acd31db/media.mp3"/>
+                <guid>https://shows.acast.com/4-quarts-dheure/episodes/extrait-la-fake-news-du-titanic</guid>
                 
             </item><item>
-                <title>Le journal de 13h00 du vendredi 08 août 2025</title>
-                <description>Le journal de 13h00 du vendredi 08 août 2025
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11673.xml</description>
+                <title>Dargilan, la grotte rose</title>
+                <description>Dargilan, la grotte rose
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10006.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/le-13-14/le-journal-de-13h00-du-vendredi-08-aout-2025-6820628</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/418ebb24-dd80-4195-891b-22249442eca1/11673-08.08.2025-ITEMA_24213080-2025F10491S0220-NET_MFI_15395E29-A4CD-4C93-BDAB-D40FC7FAD2F0-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-13-14/le-journal-de-13h00-du-vendredi-08-aout-2025-6820628</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-22-juin-2025-9106500</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/d6e9fb45-9499-465c-aba9-911a75f565cd/10006-22.06.2025-ITEMA_24176189-2025F5147S0173-NET_MFI_2E56B44C-CA28-4A3D-835A-529B9586FC93-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-22-juin-2025-9106500</guid>
                 
             </item>
         </channel>

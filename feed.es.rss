@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 10 Aug 2025 04:46:36 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 11 Aug 2025 04:50:58 +0200</lastBuildDate>
             <item>
-                <title>E314: Billy Sipple: El Marine Gay que Salvó al Presidente Ford</title>
-                <description>Esta es una de las historias más inesperadas de heroísmo y controversia en la historia de Estados Unidos. Descubre la increíble hazaña de Billy Sipple, el marine gay que, contra todo pronóstico, se convirtió en el improbable salvador del presidente Gerald Ford, desafiando las normas de una era.
-Síguenos y visita nuestro sitio oficial:
-https://www.instagram.com/eldollop
-https://twitter.com/eldollop
-https://www.facebook...
-Feed: https://feeds.simplecast.com/YVUZ6yUE</description>
+                <title>elite</title>
+                <description>&lt;p&gt;elite:Ordubete irauten duten punk musiken nahasketak&lt;/p&gt;
+Feed: https://punkirratia.net/rss.xml</description>
                 
                 
-                <link>https://sonoromedia.com/ads.txt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sonoro.simplecastaudio.com/a36b72d3-9f91-4307-82a3-e773afc5a05d/episodes/bd58c8bf-dd7d-47e6-9906-64d47d2b5f5b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=a36b72d3-9f91-4307-82a3-e773afc5a05d&amp;awEpisodeId=bd58c8bf-dd7d-47e6-9906-64d47d2b5f5b&amp;feed=YVUZ6yUE"/>
-                <guid>https://sonoromedia.com/ads.txt</guid>
+                <link>https://punkirratia.net/nahaste/elite.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/punkirratia-elite/20250808--punkirratia-elite.mp3"/>
+                <guid>https://punkirratia.net/nahaste/elite.html</guid>
                 
             </item><item>
-                <title>AC/DC, calor y despistes | El Francotirarock</title>
-                <description>Álex Clavero confundió el calendario tras ver a AC/DC y apareció en antena sin guion… pero con risas
-Feed: https://www.rockfm.fm/api/es/programas/el-pirata-y-su-banda/el-francotirarock/audios/rss.xml</description>
+                <title>Mañana más - &#34;Tiro colchoneta&#34; de altura</title>
+                <description>&#34;Tiro colchoneta&#34; de altura
+Feed: https://www.rtve.es/api/adapter/programas/175697/audios.rss</description>
                 
                 
-                <link>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/episodios/ac-dc-calor-despistes-francotirarock-20250717_61206.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.rockfm.fm/uploads/2025/07/17/g6otXFs5qAmtzRdIxBVy0.mp3"/>
-                <guid>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/episodios/ac-dc-calor-despistes-francotirarock-20250717_61206.html</guid>
+                <link>https://www.rtve.es/play/audios/manana-mas/manana-mas-tiro-colchoneta-altura/16690327/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16690327.mp3"/>
+                <guid>https://www.rtve.es/play/audios/manana-mas/manana-mas-tiro-colchoneta-altura/16690327/</guid>
                 
             </item>
         </channel>
