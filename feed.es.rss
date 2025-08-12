@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 11 Aug 2025 04:50:58 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Aug 2025 04:34:39 +0200</lastBuildDate>
             <item>
-                <title>elite</title>
-                <description>&lt;p&gt;elite:Ordubete irauten duten punk musiken nahasketak&lt;/p&gt;
-Feed: https://punkirratia.net/rss.xml</description>
+                <title>Introducción</title>
+                <description>gS MP3 Núm. 1, 2025 - 01
+Feed: https://apps.jw.org/S_sFFZRQVNZNT?rln=S&amp;rmn=g&amp;rfm=mp3</description>
                 
                 
-                <link>https://punkirratia.net/nahaste/elite.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/punkirratia-elite/20250808--punkirratia-elite.mp3"/>
-                <guid>https://punkirratia.net/nahaste/elite.html</guid>
+                <link>https://cfp2.jw-cdn.org/a/84a9b2/1/o/g_S_202511_01.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cfp2.jw-cdn.org/a/84a9b2/1/o/g_S_202511_01.mp3"/>
+                <guid>https://cfp2.jw-cdn.org/a/84a9b2/1/o/g_S_202511_01.mp3</guid>
                 
             </item><item>
-                <title>Mañana más - &#34;Tiro colchoneta&#34; de altura</title>
-                <description>&#34;Tiro colchoneta&#34; de altura
-Feed: https://www.rtve.es/api/adapter/programas/175697/audios.rss</description>
+                <title>Pat Metheny &amp; Lyle Mays: Fabricantes de Sueños</title>
+                <description>Pat Metheny y Lyle Mays, dos jóvenes nacidos en el medioeste americano que compartían similares inquietudes artísticas y una concepción creativa simbiótica, fértil y complementaria. El destino los unió en el festival de jazz de Wichita de 1978 y juntos crearon la banda de fusión más innovadora de su época, con la que, durante varias décadas, alcanzaron como ninguna otra, el difícil equilibrio entre la sonoridad orgánica de los instrumentos acústicos y la de los sintetizadores...
+Feed: https://www.ivoox.com/feed_fg_f1136231_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/manana-mas/manana-mas-tiro-colchoneta-altura/16690327/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16690327.mp3"/>
-                <guid>https://www.rtve.es/play/audios/manana-mas/manana-mas-tiro-colchoneta-altura/16690327/</guid>
+                <link>https://www.ivoox.com/pat-metheny-lyle-mays-fabricantes-suenos-audios-mp3_rf_154315280_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/pat-metheny-lyle-mays-fabricantes-suenos_mf_154315280_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/pat-metheny-lyle-mays-fabricantes-suenos-audios-mp3_rf_154315280_1.html</guid>
                 
             </item>
         </channel>

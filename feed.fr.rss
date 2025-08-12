@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 11 Aug 2025 04:50:54 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 12 Aug 2025 04:34:35 +0200</lastBuildDate>
             <item>
-                <title>EXTRAIT | « La fake news du Titanic »</title>
-                <description>Extrait de l&#39;épisode 46 de la saison 3
-Feed: https://feeds.acast.com/public/shows/4-quarts-dheure</description>
+                <title>Doit-on aimer sa famille ? [COUP DE ♥️]</title>
+                <description>&lt;p&gt;REDIFFUSION. Cet été, Émotions prend des vacances et vous propose de (re)découvrir certains de nos épisodes favoris. Bonne écoute !&lt;/p&gt;&lt;br&gt;&lt;p&gt;Synonyme d’amour ou de rancœur, animée par des cris, ou plongée dans le silence, la famille, est ce lieu que l’on ne choisit pas mais que l’on croit devoir aimer malgré tout. Parce que ne pas aimer sa famille c’est renoncer au seul espace sur terre qui nous “appartient”...
+Feed: https://feeds.acast.com/public/shows/8fb79794-2f6a-41f0-9ae1-d7766f4e4092</description>
                 
                 
-                <link>https://shows.acast.com/4-quarts-dheure/episodes/extrait-la-fake-news-du-titanic</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/632090bb4d259900133e31a5/e/6889f4aac6d705dd3acd31db/media.mp3"/>
-                <guid>https://shows.acast.com/4-quarts-dheure/episodes/extrait-la-fake-news-du-titanic</guid>
+                <link>https://shows.acast.com/emotions/episodes/aimer-sa-famille</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/emotions/e/6863b9e7edbf5df5a1902c42/media.mp3"/>
+                <guid>https://shows.acast.com/emotions/episodes/aimer-sa-famille</guid>
                 
             </item><item>
-                <title>Dargilan, la grotte rose</title>
-                <description>Dargilan, la grotte rose
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10006.xml</description>
+                <title>Ep 142 : Super Cover Battle 43 (2ème partie) A côté, Laurent Voulzy, c&#39;est Buckethead</title>
+                <description>
+Personne ne s&#39;est plaint de ma dernière description qui était une copie éhontée de celle de Maxime. De deux choses l&#39;une : soit vous vous en foutez, soit j&#39;écris (ou je copie) dans le vide parce que vous ne lisez pas. Je ne vous jette pas la pierre, j...
+Feed: https://ecoutecapodcast.lepodcast.fr/rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-22-juin-2025-9106500</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/d6e9fb45-9499-465c-aba9-911a75f565cd/10006-22.06.2025-ITEMA_24176189-2025F5147S0173-NET_MFI_2E56B44C-CA28-4A3D-835A-529B9586FC93-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-22-juin-2025-9106500</guid>
+                <link>https://podcast.ausha.co/ecoute-ca/ep-142-super-cover-battle-43-2eme-partie-a-cote-laurent-voulzy-c-est-buckethead</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/oLY0U7ZEpgZy.mp3?t=1753742033"/>
+                <guid>https://podcast.ausha.co/ecoute-ca/ep-142-super-cover-battle-43-2eme-partie-a-cote-laurent-voulzy-c-est-buckethead</guid>
                 
             </item>
         </channel>
