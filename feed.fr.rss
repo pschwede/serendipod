@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 12 Aug 2025 04:34:35 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 13 Aug 2025 04:36:21 +0200</lastBuildDate>
             <item>
-                <title>Doit-on aimer sa famille ? [COUP DE ♥️]</title>
-                <description>&lt;p&gt;REDIFFUSION. Cet été, Émotions prend des vacances et vous propose de (re)découvrir certains de nos épisodes favoris. Bonne écoute !&lt;/p&gt;&lt;br&gt;&lt;p&gt;Synonyme d’amour ou de rancœur, animée par des cris, ou plongée dans le silence, la famille, est ce lieu que l’on ne choisit pas mais que l’on croit devoir aimer malgré tout. Parce que ne pas aimer sa famille c’est renoncer au seul espace sur terre qui nous “appartient”...
-Feed: https://feeds.acast.com/public/shows/8fb79794-2f6a-41f0-9ae1-d7766f4e4092</description>
+                <title>Isabella Lenarduzzi - L&#39;état du sexisme </title>
+                <description>&lt;p&gt;Avec &lt;strong&gt;Isabella Lenarduzzi&lt;/strong&gt;, fondatrice de JUMP, on a exploré en profondeur le sexisme dans le monde professionnel et ses ramifications systémiques. Elle a partagé des constats édifiants issus de sa nouvelle enquête, révélant que presque toutes les femmes subissent du sexisme au travail, tandis que la majorité des hommes en sont témoins ou auteurs, souvent sans intervenir...
+Feed: https://anchor.fm/s/b43f59a8/podcast/rss</description>
                 
                 
-                <link>https://shows.acast.com/emotions/episodes/aimer-sa-famille</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/emotions/e/6863b9e7edbf5df5a1902c42/media.mp3"/>
-                <guid>https://shows.acast.com/emotions/episodes/aimer-sa-famille</guid>
+                <link>https://podcasters.spotify.com/pod/show/septante-minutes-avec/episodes/Isabella-Lenarduzzi---Ltat-du-sexisme-e35ll2v</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/b43f59a8/podcast/play/105615903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-17%2Fae96ff09-2d19-3daf-65bf-deda1aede7f4.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/septante-minutes-avec/episodes/Isabella-Lenarduzzi---Ltat-du-sexisme-e35ll2v</guid>
                 
             </item><item>
-                <title>Ep 142 : Super Cover Battle 43 (2ème partie) A côté, Laurent Voulzy, c&#39;est Buckethead</title>
-                <description>
-Personne ne s&#39;est plaint de ma dernière description qui était une copie éhontée de celle de Maxime. De deux choses l&#39;une : soit vous vous en foutez, soit j&#39;écris (ou je copie) dans le vide parce que vous ne lisez pas. Je ne vous jette pas la pierre, j...
-Feed: https://ecoutecapodcast.lepodcast.fr/rss</description>
+                <title>Les films à voir au ciné dès aujourd&#39;hui !</title>
+                <description>Cette semaine vous pouvez voir &#34; Freaky Friday 2 &#34;, un retour très attendu par les fans ! Autres sorties : &#34; Y’a pas de réseau &#34; et &#34; Evanouis &#34;.
+Feed: https://aod.nrjaudio.fm/xml/152.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/ecoute-ca/ep-142-super-cover-battle-43-2eme-partie-a-cote-laurent-voulzy-c-est-buckethead</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/oLY0U7ZEpgZy.mp3?t=1753742033"/>
-                <guid>https://podcast.ausha.co/ecoute-ca/ep-142-super-cover-battle-43-2eme-partie-a-cote-laurent-voulzy-c-est-buckethead</guid>
+                <link>https://www.cheriefm.fr/podcasts/cherie-fm-cinema/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.nrjaudio.fm/podcasts/fr/2/152/a6574eb5-164d-4ea7-b83f-d9a216f89811.mp3?awCollectionId=152&amp;awEpisodeId=1072499"/>
+                <guid>https://www.cheriefm.fr/podcasts/cherie-fm-cinema/</guid>
                 
             </item>
         </channel>

@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 12 Aug 2025 04:34:30 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 13 Aug 2025 04:36:16 +0200</lastBuildDate>
             <item>
-                <title>Mal wieder Sport</title>
-                <description>Das Sporttagebuch mit Michael Knöppel - 10. August 2025
-E-Mail: sporttagebuch.michael@gmail.com
-Instagram: @das_sporttagebuch
-Feed: https://feeds.simplecast.com/ATLMV4uF</description>
+                <title>Michael Mann – Teil 4 (2009-2023)</title>
+                <description>All good things must come to an end – und was für eines! Wir lassen es noch einmal richtig krachen im vierten und letzten Teil unserer Michael-Mann-Retrospektive. Vroomm!!
+Feed: https://spielfilmen.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://das-sporttagebuch.simplecast.com/episodes/mal-wieder-sport-ERYxDCGA</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.simplecast.com/audio/b586f855-233f-4315-a73a-629a8e06480d/episodes/8573bf24-0551-400a-b8c3-80848cd4deb7/audio/f6700883-0704-4e40-88c4-f7ab8afde608/default_tc.mp3?aid=rss_feed&amp;feed=ATLMV4uF"/>
-                <guid>https://das-sporttagebuch.simplecast.com/episodes/mal-wieder-sport-ERYxDCGA</guid>
+                <link>https://spielfilmen.podigee.io/68-mann4</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2006443-m-ff3a4b86f870a02910ddf0a1ce77ede7.mp3?source=feed"/>
+                <guid>https://spielfilmen.podigee.io/68-mann4</guid>
                 
             </item><item>
-                <title>Elektrotechnik Podcast # 216 – Diese Technik könnte unser Energieproblem lösen – aber keiner will sie haben!</title>
-                <description>Elektrotechnik Podcast # 216 – Diese Technik könnte unser Energieproblem lösen – aber keiner will sie haben!
-Feed: https://feeds.redcircle.com/89770731-4660-47ca-a340-82e9fec2873e</description>
+                <title>#100 Folgen-Party: Toasts &amp; Tscheburaschka-Kuchen</title>
+                <description>Was? 100. Folgen njette Mädchen? Das gibt’s doch nicht!? Walerija und Vika haben mehrere Gründe zum Strahlen. Luftballons, Geschenke, Überraschungen und Torten! Nach 4 Jahren möchten wir uns die Zeit nehmen, um gemeinsam mit euch auf die letzte Zeit zu blicken: Von Live-Aufzeichnungen, über unseren eigenen Identitätsfindungsprozess, über eure berührenden Nachrichten, gibt es so viele Momente, die sehr viel mit uns gemacht haben...
+Feed: https://www.dasding.de/~podcast/podcasts/podcast-njette-maedchen-100.xml</description>
                 
                 
-                <link>https://elektrotechnik-podcast.jimdosite.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio3.redcircle.com/episodes/fe55e7fe-f3f1-4ffb-8da3-474c9b05bb6d/stream.mp3"/>
-                <guid>https://elektrotechnik-podcast.jimdosite.com/</guid>
+                <link>https://www.dasding.de/podcasts/100-folgen-party-toasts-tscheburaschka-kuchen-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/dasding/podcasts/njette-maedchen/2256748.mp3"/>
+                <guid>https://www.dasding.de/podcasts/100-folgen-party-toasts-tscheburaschka-kuchen-100.html</guid>
                 
             </item>
         </channel>
