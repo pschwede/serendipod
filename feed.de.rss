@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 13 Aug 2025 04:36:16 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 14 Aug 2025 04:36:03 +0200</lastBuildDate>
             <item>
-                <title>Michael Mann – Teil 4 (2009-2023)</title>
-                <description>All good things must come to an end – und was für eines! Wir lassen es noch einmal richtig krachen im vierten und letzten Teil unserer Michael-Mann-Retrospektive. Vroomm!!
-Feed: https://spielfilmen.podigee.io/feed/mp3</description>
+                <title>Das älteste Lokal der Welt</title>
+                <description>&lt;p&gt;Viele Lokale auf der ganzen Welt beanspruchen den Titel des „ältesten Lokals der Welt“.  Mit den Jahren denkt man sich Legenden aus, um mehr Besucher anzulocken. Es ist natürlich sehr wichtig, wenn du sagen kannst, dass du auf dem Stuhl gesessen bist, wo auch Mozart oder Hemingway gesessen ist. &#34;Mit Akzent&#34;, eine Kolumne von Todor Ovtcharov. Sendungshinweis: Sounds like FM4, 13.8.2025, 14 Uhr&lt;/p&gt;
+Feed: https://podcast.orf.at/podcast/fm4/fm4_mitakzent/fm4_mitakzent.xml</description>
                 
                 
-                <link>https://spielfilmen.podigee.io/68-mann4</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2006443-m-ff3a4b86f870a02910ddf0a1ce77ede7.mp3?source=feed"/>
-                <guid>https://spielfilmen.podigee.io/68-mann4</guid>
+                <link>https://sound.orf.at/podcast/fm4/fm4-mit-akzent/das-aelteste-lokal-der-welt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/fm4/fm4_mitakzent/items/di_fm4_mitakzent_clk_e5066fa1d4fb4bb48c2313ca0a5a3e07.mp3?etag=e672725f47ffa926b4281d695f9a6630"/>
+                <guid>https://sound.orf.at/podcast/fm4/fm4-mit-akzent/das-aelteste-lokal-der-welt</guid>
                 
             </item><item>
-                <title>#100 Folgen-Party: Toasts &amp; Tscheburaschka-Kuchen</title>
-                <description>Was? 100. Folgen njette Mädchen? Das gibt’s doch nicht!? Walerija und Vika haben mehrere Gründe zum Strahlen. Luftballons, Geschenke, Überraschungen und Torten! Nach 4 Jahren möchten wir uns die Zeit nehmen, um gemeinsam mit euch auf die letzte Zeit zu blicken: Von Live-Aufzeichnungen, über unseren eigenen Identitätsfindungsprozess, über eure berührenden Nachrichten, gibt es so viele Momente, die sehr viel mit uns gemacht haben...
-Feed: https://www.dasding.de/~podcast/podcasts/podcast-njette-maedchen-100.xml</description>
+                <title>Warum ich 15 Jahre auf das GO meiner Seele gewartet habe, um meinen Seelenpartner zu heiraten ???? | 373</title>
+                <description>Seelenpartner Weisheiten von ANNETT &amp; LUTZ
+Feed: https://ankommenimleben.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.dasding.de/podcasts/100-folgen-party-toasts-tscheburaschka-kuchen-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://avdlswr-a.akamaihd.net/dasding/podcasts/njette-maedchen/2256748.mp3"/>
-                <guid>https://www.dasding.de/podcasts/100-folgen-party-toasts-tscheburaschka-kuchen-100.html</guid>
+                <link>https://ankommenimleben.podigee.io/373-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2061542-m-5978aa2360d0619a8a360dbdc174873b.mp3?source=feed"/>
+                <guid>https://ankommenimleben.podigee.io/373-neue-episode</guid>
                 
             </item>
         </channel>

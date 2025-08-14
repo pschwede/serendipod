@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 13 Aug 2025 04:36:10 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 14 Aug 2025 04:35:59 +0200</lastBuildDate>
             <item>
-                <title>Walking by Faith</title>
-                <description>Preacher: Pastor Martin Erhardt
-Isaiah 1:1, 10-20; Hebrews 11:1-3, 8-16; Luke 12:32-40
-Feed: http://www.princetonlutheranchurch.org/feed/podcast/</description>
+                <title>Episode 147: Whitely Nightly</title>
+                <description>&lt;p&gt;&lt;strong&gt;Chat with Félim • Fairubds XL • Fiber internet • Shane&#39;s game • Bluefin • ThinkPad • CachyOS • LLMs • Kids and tech&lt;/strong&gt;&lt;/p&gt;
+Feed: https://linuxlads.com/feed_mp3.rss</description>
                 
                 
-                <link>http://www.princetonlutheranchurch.org/sermons/walking-by-faith/</link>
-                <enclosure type="audio/mpeg" length="1" url="http://media.blubrry.com/princetonlutheranchurch/www.princetonlutheranchurch.org/audio/sermon_250810.mp3"/>
-                <guid>http://www.princetonlutheranchurch.org/sermons/walking-by-faith/</guid>
+                <link>https://linuxlads.com/episodes/147</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/linuxlads.com/podcast/audio/147/linuxlads_e147.mp3"/>
+                <guid>https://linuxlads.com/episodes/147</guid>
                 
             </item><item>
-                <title>314 | Foreplay For Days: Lady C’s Sex Stories</title>
-                <description>&lt;p&gt;Butt rub orgasms, week-long sexting, and a love of blowjobs—Lady C shares how open communication transformed her long-term relationship into a kinky, pleasure-filled partnership...
-Feed: https://feeds.simplecast.com/aMUJLztT</description>
+                <title>The Greatest Worship Leaders Aren&#39;t Always the Most Talented (Here&#39;s What They Do Instead) w/ Dan Dean</title>
+                <description>What if the greatest worship leaders aren&#39;t the ones with the best voices?    Dan Dean from Phillips, Craig &amp; Dean drops a truth bomb that will change how you think about worship leadership forever. After 50 years in ministry—20 as a...
+Feed: https://worshiponline.libsyn.com/rss</description>
                 
                 
-                <link>https://sexstoriespodcast.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/afp-555361-injected.calisto.simplecastaudio.com/0d78640f-b297-4d60-9fe6-56269d1e9cdc/episodes/2cf60c10-214f-4a03-a878-e188f173b894/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0d78640f-b297-4d60-9fe6-56269d1e9cdc&amp;awEpisodeId=2cf60c10-214f-4a03-a878-e188f173b894&amp;feed=aMUJLztT"/>
-                <guid>https://sexstoriespodcast.com</guid>
+                <link>https://worshiponline.com/podcasts/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/worshiponline/ep.362_FINAL.mp3?dest-id=626586"/>
+                <guid>https://worshiponline.com/podcasts/</guid>
                 
             </item>
         </channel>
