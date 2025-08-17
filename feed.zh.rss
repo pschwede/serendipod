@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 15 Aug 2025 04:37:08 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 17 Aug 2025 04:38:11 +0200</lastBuildDate>
             <item>
-                <title>London Calling</title>
-                <description>*Last Chance for Merch!* http://badfriendsmerch.com Get MORE Bad Friends at our Patreon!! https://www.patreon.com/c/badfriends  
-Thank you to our Sponsors: HelloFresh, BlueChew, Rocket Money, Shopify
-• Go to https://HelloFresh.com/badfriends10fm now to Get 10 Free Meals + a Free Item for Life!
-• Try your first month of BlueChew FREE when you use promo code BADFRIENDS -- just pay $5 shipping. 
-• Cancel your unwanted subscriptions and reach your financial goals faster with Rocket Money...
-Feed: https://feeds.megaphone.fm/TPC1602991613</description>
+                <title>Picnic</title>
+                <description>It’s a beautiful day for a picnic, so grab your basket and head to Recipe Club! Marc Johnson brought a royally tasty coronation chicken salad. Mandy Roberts put together a lovely fattoush salad. And Scott Clark of Dad’s Luncheonette brought his delectable, homemade onboard Oreos...
+Feed: https://feeds.megaphone.fm/dave-chang-recipe-club</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/u8u9X/mgln.ai/e/1118/arttrk.com/p/YMH00/clrtpod.com/m/traffic.megaphone.fm/YMH6203563358.mp3?updated=1754682231"/>
+                <enclosure type="audio/mpeg" length="1" url="https://chrt.fm/track/DE611C/traffic.megaphone.fm/GLT6647006665.mp3?updated=1750810754"/>
                 <guid></guid>
                 
             </item><item>
-                <title>Debasement Meter - Lower-Cost MacBooks Coming?</title>
-                <description>Lower-Cost MacBooks Coming?
-Feed: https://feeds.twit.tv/mbw_video_hd.xml</description>
+                <title>Staying Safe Online Part 2 with Troy Hunt (440)</title>
+                <description>In part two with Online Safety Consultant Troy Hunt (Have I Been Pwned), we unpack the risks of online age verification in light of Australia’s social media ban, including the personal data (often times photos or government documents) sites may...
+Feed: https://shirtloadsofscience.libsyn.com/rss</description>
                 
                 
-                <link>https://twit.tv/shows/macbreak-weekly/episodes/985</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/cdn.twit.tv/video/mbw/mbw0985/mbw0985_h264m_1920x1080.mp4"/>
-                <guid>https://twit.tv/shows/macbreak-weekly/episodes/985</guid>
+                <link>https://shirtloadsofscience.libsyn.com/part-2-troy-hunt-440</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/shirtloadsofscience/SOS_439_TH_Cyber_Security_Part_2.mp3?dest-id=436327"/>
+                <guid>https://shirtloadsofscience.libsyn.com/part-2-troy-hunt-440</guid>
                 
             </item>
         </channel>

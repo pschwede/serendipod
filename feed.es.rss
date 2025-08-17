@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 15 Aug 2025 04:36:59 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 17 Aug 2025 04:38:01 +0200</lastBuildDate>
             <item>
-                <title>Tarataña - Tiempo de despedirse - 20/07/25</title>
-                <description>Tiempo de despedirse
-Feed: http://api.rtve.es/api/programas/22393/audios.rss</description>
+                <title>De película - De Los Muértimer a Uno equis dos - 16/08/25</title>
+                <description>De Los Muértimer a Uno equis dos
+Feed: http://api.rtve.es/api/programas/1921/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/taratana/tiempo-despedirse-20-07-25/16670864/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16670864.mp3"/>
-                <guid>https://www.rtve.es/play/audios/taratana/tiempo-despedirse-20-07-25/16670864/</guid>
+                <link>https://www.rtve.es/play/audios/de-pelicula-rne/muertimer-uno-equis-dos-16-08-25/16697867/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16697867.mp3"/>
+                <guid>https://www.rtve.es/play/audios/de-pelicula-rne/muertimer-uno-equis-dos-16-08-25/16697867/</guid>
                 
             </item><item>
-                <title>English Listening - Wants and Needs</title>
-                <description>Practice your English listening as I talk about wants and needs.
-Feed: https://feeds.simplecast.com/obaHfEr1</description>
+                <title>Documentos RNE - 20 años de matrimonio igualitario, el orgullo de España - 27/06/25</title>
+                <description>20 años de matrimonio igualitario, el orgullo de España
+Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
                 
                 
-                <link>https://sonoromedia.com/ads.txt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/sonoro.simplecastaudio.com/93c48962-af4a-4b78-82d8-2f6e668e895a/episodes/e41d5b51-28ff-454b-b7cb-4811baefc2fa/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=93c48962-af4a-4b78-82d8-2f6e668e895a&amp;awEpisodeId=e41d5b51-28ff-454b-b7cb-4811baefc2fa&amp;feed=obaHfEr1"/>
-                <guid>https://sonoromedia.com/ads.txt</guid>
+                <link>https://www.rtve.es/play/audios/documentos-rne/20-anos-matrimonio-igualitario-orgullo-espana-27-06-25/16643985/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16643985.mp3"/>
+                <guid>https://www.rtve.es/play/audios/documentos-rne/20-anos-matrimonio-igualitario-orgullo-espana-27-06-25/16643985/</guid>
                 
             </item>
         </channel>
