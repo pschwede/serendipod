@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 Aug 2025 04:38:01 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 21 Aug 2025 04:30:30 +0200</lastBuildDate>
             <item>
-                <title>De película - De Los Muértimer a Uno equis dos - 16/08/25</title>
-                <description>De Los Muértimer a Uno equis dos
-Feed: http://api.rtve.es/api/programas/1921/audios.rss</description>
+                <title>Islas de Robinson - A este lado de la isla - 18/08/25</title>
+                <description>A este lado de la isla
+Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/de-pelicula-rne/muertimer-uno-equis-dos-16-08-25/16697867/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16697867.mp3"/>
-                <guid>https://www.rtve.es/play/audios/de-pelicula-rne/muertimer-uno-equis-dos-16-08-25/16697867/</guid>
+                <link>https://www.rtve.es/play/audios/islas-de-robinson/este-lado-isla-18-08-25/16699375/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16699375.mp3"/>
+                <guid>https://www.rtve.es/play/audios/islas-de-robinson/este-lado-isla-18-08-25/16699375/</guid>
                 
             </item><item>
-                <title>Documentos RNE - 20 años de matrimonio igualitario, el orgullo de España - 27/06/25</title>
-                <description>20 años de matrimonio igualitario, el orgullo de España
-Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
+                <title>Podría ser peor - Alexsinos nos enseña las canciones que todos cantamos mal</title>
+                <description>Alexsinos nos enseña las canciones que todos cantamos mal
+Feed: https://api2.rtve.es/api/adapter/programas/1000588/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/documentos-rne/20-anos-matrimonio-igualitario-orgullo-espana-27-06-25/16643985/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16643985.mp3"/>
-                <guid>https://www.rtve.es/play/audios/documentos-rne/20-anos-matrimonio-igualitario-orgullo-espana-27-06-25/16643985/</guid>
+                <link>https://www.rtve.es/play/audios/podria-ser-peor/canciones-todos-cantamos-mal/16702477/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16702477.mp3"/>
+                <guid>https://www.rtve.es/play/audios/podria-ser-peor/canciones-todos-cantamos-mal/16702477/</guid>
                 
             </item>
         </channel>

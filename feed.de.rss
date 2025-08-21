@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 Aug 2025 04:37:52 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 21 Aug 2025 04:30:21 +0200</lastBuildDate>
             <item>
-                <title>555. Sendung mit Maximilan Senft und Joachim Standfest</title>
-                <description>555. Sendung mit Maximilan Senft und Joachim Standfest
-Feed: https://talkundtore.podigee.io/feed/mp3</description>
+                <title>#154 ???? Getreide-Broker Hendrik ten Hoff zur globalen Ernte 2025 + Marktausblick</title>
+                <description>Folge 154: USDA stockt die Märkte und Getreide-Broker Hendrik Tenhoff gibt Überblick über die weltweite Ernte 2025
+Feed: https://feeds.acast.com/public/shows/63121209ae5d13001250a063</description>
                 
                 
-                <link>https://talkundtore.podigee.io/556-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2058086-m-428c30381dd3b092c00752643c952f00.mp3?source=feed"/>
-                <guid>https://talkundtore.podigee.io/556-neue-episode</guid>
+                <link>https://shows.acast.com/agrarmarktpodcast/episodes/154-getreide-broker-hendrik-ten-hoff-zur-globalen-ernte-2025</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/63121209ae5d13001250a063/e/689cd42066f126ae3f57a4cc/media.mp3"/>
+                <guid>https://shows.acast.com/agrarmarktpodcast/episodes/154-getreide-broker-hendrik-ten-hoff-zur-globalen-ernte-2025</guid>
                 
             </item><item>
-                <title>???? Folge 27 – 144: Eine Frage der Ehre, Ozzy, Alice &amp; Bad Griesbach</title>
-                <description>Wie in der letzten Folge angekündigt, nehme ich euch diesmal mit zu meinen Erlebnissen beim Turnier 144 – Eine Frage der Ehre.Aber bevor wir auf den Abschlag gehen, landen wir erstmal bei der legendären, und leider kürzlich verstorbenen, Rock-Ikone Ozzy Osbourne. ????Über ihn stolpere ich auf charmanten Umwegen zu Alice Cooper … und wer sich jetzt fragt: Was hat das bitte mit Golf zu tun?Einiges! Okay, Ozzy so ziemlich gar nichts, aber Alice dafür umso mehr...
-Feed: https://d34pn6.podcaster.de/whiskyundgolf.rss</description>
+                <title>Roman schreiben: Release &amp; Promo</title>
+                <description>Wie Marketing und Veröffentlichung geht
+Feed: https://1bo9y4f.podcaster.de/SchreibenundLeben.rss</description>
                 
                 
-                <link>https://d34pn6.podcaster.de/whiskyundgolf/media/Folge_27_144_-_11-08-25-_13-24.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://d34pn6.podcaster.de/whiskyundgolf/media/Folge_27_144_-_11-08-25-_13-24.mp3"/>
-                <guid>https://d34pn6.podcaster.de/whiskyundgolf/media/Folge_27_144_-_11-08-25-_13-24.mp3</guid>
+                <link>https://schreiben-und-leben.de/podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://1bo9y4f.podcaster.de/SchreibenundLeben/media/00_-_Roman_schreiben_Reihe_-_Roman_schreiben_5_Marketing_Veroeffentlichung_Master.mp3"/>
+                <guid>https://schreiben-und-leben.de/podcast</guid>
                 
             </item>
         </channel>

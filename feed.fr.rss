@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 Aug 2025 04:37:57 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 21 Aug 2025 04:30:26 +0200</lastBuildDate>
             <item>
-                <title>Un final en beauté !</title>
-                <description>Un final en beauté !
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14497.xml</description>
+                <title>Ministre à temps plein</title>
+                <description>
+Au Gondwana, le rôle d’un ministre change quand arrive l’élection présidentielle. Elle est aux politiques, ce que la course au ballon d’or est aux joueurs de football : tous y pensent en se rasant le matin. Et chacun surveille l’autre, chacun soupçonne …
+Feed: https://www.rfi.fr/fr/podcasts/chronique-mamane/podcast</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/allegretto/un-final-en-beaute-9455365</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rf.proxycast.org/2e33d610-f7de-4b22-93d3-2e03c102ca9d/14497-27.06.2025-ITEMA_24182309-2025M26220E0025-ITE_00151604_RSCE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/allegretto/un-final-en-beaute-9455365</guid>
+                <link>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20250820-ministre-%C3%A0-temps-plein?GJlXzGgqHj</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/aod-rfi.akamaized.net/rfi/francais/audio/modules/actu/202508/CHR_MAMANE_20-08-25_Ministre_a_temps_plein.mp3?guid=fb3f3524-7d79-11f0-bb08-a591fddff1ab&amp;source=GJlXzGgqHj"/>
+                <guid>https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20250820-ministre-%C3%A0-temps-plein?GJlXzGgqHj</guid>
                 
             </item><item>
-                <title>Une histoire de la mode 7/10 : Les années 1960 (2/2)</title>
-                <description>Une histoire de la mode 7/10 : Les années 1960 (2/2)
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14435.xml</description>
+                <title>???? Rencontre avec l’aviatrice Dorine Bourneton : « J’ai fait de l’impossible... un possible ! »</title>
+                <description>[SPONSORISÉ] &lt;p&gt;Dans ce sixième épisode de la saison 3 de PAROLES DE FEMMES, Dorine Bourneton&amp;nbsp;se confie&amp;nbsp;avec passion et émotion&amp;nbsp;au&amp;nbsp;micro de Clémence de Bernis. Pour Dorine Bourneton, les limites ne sont faites que pour être repoussées. À 16 ans, à la suite d’un accident d’avion, dont elle est la seule survivante, elle perd l’usage de ses jambes. Celle qui dès son plus jeune âge se rêvait pionnière de l’aviation, a réussi son pari en transformant son drame en opportunité...
+Feed: https://feeds.360.audion.fm/8Kimy_YgBmF8xaOaf3I6z</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/une-histoire-de-la-mode/les-annees-1960-2-2-2070594</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/f4450c34-b257-4f29-aa32-527d941091f0/14435-10.08.2025-ITEMA_24180340-2009F14777E0221-NET_1AA1122F-7607-4C15-ABC0-9C0A204BB112-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/une-histoire-de-la-mode/les-annees-1960-2-2-2070594</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/redirect.mp3?r=v2CjRodHRwczovL2F1ZGlvLmF1c2hhLmNvL0dBVjVyczdwNERRQS5tcDM%252FdD0xNzQ3MDUzOTg0EiQyYWY1N2VjNS1hYzc1LTRiNGEtYTY0Ni03ZDE4ZTZlN2QwNzEaJGZjOWIyMmQxLTJiOTMtNGU3ZC05NTg4LWJiYTJmNjE3Y2YyOSAyKgNyc3MyBEZ5eWRCEGF1ZGlvbl9mZWVkX2Ryb3A%253D&amp;t=audion"/>
+                <guid></guid>
                 
             </item>
         </channel>
