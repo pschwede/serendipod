@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 21 Aug 2025 04:30:30 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 22 Aug 2025 04:29:35 +0200</lastBuildDate>
             <item>
-                <title>Islas de Robinson - A este lado de la isla - 18/08/25</title>
-                <description>A este lado de la isla
-Feed: http://api.rtve.es/api/programas/1998/audios.rss</description>
+                <title>A hombros de gigantes - Historia de la ciencia a través de 70 grandes personajes e hitos científicos - 17/08/25</title>
+                <description>Historia de la ciencia a través de 70 grandes personajes e hitos científicos
+Feed: http://www.rtve.es/api/programas/1873/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/islas-de-robinson/este-lado-isla-18-08-25/16699375/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16699375.mp3"/>
-                <guid>https://www.rtve.es/play/audios/islas-de-robinson/este-lado-isla-18-08-25/16699375/</guid>
+                <link>https://www.rtve.es/play/audios/a-hombros-de-gigantes/hombros-gigantes-historia-ciencia-traves-70-grandes-personajes-hitos-cientificos-17-08-25/16684678/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16684678.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-hombros-de-gigantes/hombros-gigantes-historia-ciencia-traves-70-grandes-personajes-hitos-cientificos-17-08-25/16684678/</guid>
                 
             </item><item>
-                <title>Podría ser peor - Alexsinos nos enseña las canciones que todos cantamos mal</title>
-                <description>Alexsinos nos enseña las canciones que todos cantamos mal
-Feed: https://api2.rtve.es/api/adapter/programas/1000588/audios.rss</description>
+                <title>Café del sur - Gino Paoli y Ornella Vanoni - 20/07/25</title>
+                <description>Gino Paoli y Ornella Vanoni
+Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/podria-ser-peor/canciones-todos-cantamos-mal/16702477/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16702477.mp3"/>
-                <guid>https://www.rtve.es/play/audios/podria-ser-peor/canciones-todos-cantamos-mal/16702477/</guid>
+                <link>https://www.rtve.es/play/audios/cafe-del-sur/gino-paoli-ornella-vanoni-20-07-25/16670870/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16670870.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cafe-del-sur/gino-paoli-ornella-vanoni-20-07-25/16670870/</guid>
                 
             </item>
         </channel>
