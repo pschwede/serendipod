@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 25 Aug 2025 04:33:27 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 26 Aug 2025 04:30:32 +0200</lastBuildDate>
             <item>
-                <title>87. Harvey Milk y las fotos de Dan Nicoletta</title>
-                <description>&lt;p&gt;Este episodio en vídeo con público en directo durante la semana del Orgullo LGTBIQ+ en Madrid no va sobre las restauraciones de la Macarena (aunque debería)...
-Feed: https://anchor.fm/s/1659e76c/podcast/rss</description>
+                <title>808 Radio #414 / Fin de temporada: Daphni x Deetron, Quivver, Floating Points… / Radio CLM – 28/6/25</title>
+                <description>El viaje sonoro de esta temporada llega a su últi…
+Feed: https://feeds.feedburner.com/808Recordings</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/arte-compacto/episodes/87--Harvey-Milk-y-las-fotos-de-Dan-Nicoletta-e354vik</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1659e76c/podcast/play/105069588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-5%2F403361398-44100-2-181e298f2074d.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/arte-compacto/episodes/87--Harvey-Milk-y-las-fotos-de-Dan-Nicoletta-e354vik</guid>
+                <link>https://soundcloud.com/808recordings/808-radio-414-fin-de-temporada-daphni-x-deetron-quivver-floating-points-radio-clm-28625</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2121133002-808recordings-808-radio-414-fin-de-temporada-daphni-x-deetron-quivver-floating-points-radio-clm-28625.mp3"/>
+                <guid>https://soundcloud.com/808recordings/808-radio-414-fin-de-temporada-daphni-x-deetron-quivver-floating-points-radio-clm-28625</guid>
                 
             </item><item>
-                <title>Trópico utópico - É hoje - 21/08/25</title>
-                <description>É hoje
-Feed: http://api.rtve.es/api/programas/2096/audios.rss</description>
+                <title>WordCamp US 2025</title>
+                <description>Esta semana se celebra la WordCamp US 2025, con invitados de gran prestigio y con la vista puesta en el lanzamiento de WordPress 6.9.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/tropico-utopico/hoje-21-08-25/16702628/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16702628.mp3"/>
-                <guid>https://www.rtve.es/play/audios/tropico-utopico/hoje-21-08-25/16702628/</guid>
+                <link>https://www.wppodcast.es/podcast/wordcamp-us-2025/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/323/s/feed/c/podcast/wordpress-podcast-e276.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/wordcamp-us-2025/</guid>
                 
             </item>
         </channel>
