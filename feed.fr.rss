@@ -9,27 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 26 Aug 2025 04:30:26 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 27 Aug 2025 04:29:34 +0200</lastBuildDate>
             <item>
-                <title>Les états d&#39;âme du Bon Dieu</title>
-                <description>Les états d&#39;âme du Bon Dieu
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11531.xml</description>
+                <title>RadioCSIRT – Votre actu Cybersécurité du Mardi 26 Août 2025 (Ép. 400)</title>
+                <description>&lt;p&gt;&lt;strong&gt;???? Au programme aujourd’hui :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;???????? Campagne de phishing « Zipline » exploitant Google Classroom&lt;/strong&gt;&lt;br /&gt;
+Check Point Research révèle une opération massive ayant diffusé plus de 115 000 e-mails malveillants ciblant 13 500 organisations à travers le monde.&lt;br /&gt;
+???? https://research.checkpoint...
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7830_715fc0df79e689d2aaf12925f9e0b427.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-morel/le-billet-de-francois-morel-du-vendredi-18-octobre-2024-2828986</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/0843f871-5bc2-40ab-b5c1-99397e0ba6ac/11531-11.08.2025-ITEMA_24214566-2024F16250S0292-NET_MFI_C1542B7D-8FF1-4DA0-A76B-DE1AFD2B8CBB-22.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-morel/le-billet-de-francois-morel-du-vendredi-18-octobre-2024-2828986</guid>
+                <link>https://www.radiocsirt.org/podcast/votre-actu-cybersecurite-du-mardi-26-aout-2025-ep-400/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/7830/381000.mp3"/>
+                <guid>https://www.radiocsirt.org/podcast/votre-actu-cybersecurite-du-mardi-26-aout-2025-ep-400/</guid>
                 
             </item><item>
-                <title>⦗SPÉCIAL ÉTÉ⦘Faut pas pousser mémé dans les orties - Perpète les oies</title>
-                <description>Connaissez-vous l’origine et le sens de nos chères expressions françaises ? 
- Cet été, je vous partage un épisode du nouveau podcast “Perpète les oies” dans lequel Sophie Herrouet et Rémi Gutton, deux amis fans d‘expressions françaises, décortiquent le...
-Feed: https://feeds.audiomeans.fr/feed/23144c93-96b3-4d18-b5b8-0b5749448e3a.xml</description>
+                <title>Les Frites (Rediffusion)</title>
+                <description>&lt;p&gt;&lt;strong&gt;Pourquoi on adore les frites ?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ah, les frites ! Croustillantes, fondantes, salées… mais pourquoi les aime-t-on autant ? Dans cet épisode savoureux, on parle de batailles épiques pour des frites, de records de gloutonnerie, d&amp;#39;un musée belge, et même de frites envoyées dans l’espace ! Entre anecdotes croustillantes et histoires fascinantes, on découvre pourquoi les frites font tant de bien à nos papilles… et à notre cerveau...
+Feed: https://anchor.fm/s/e8c21454/podcast/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/7204c2cf-4934-4e94-91af-f19fa10c9493.mp3?_=1755676025"/>
-                <guid></guid>
+                <link>https://podcasters.spotify.com/pod/show/mamanpourquoi/episodes/Les-Frites-Rediffusion-e372v2r</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/e8c21454/podcast/play/107100699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-20%2F405964862-44100-2-1fe2ab71f1199.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/mamanpourquoi/episodes/Les-Frites-Rediffusion-e372v2r</guid>
                 
             </item>
         </channel>
