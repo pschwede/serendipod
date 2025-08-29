@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 27 Aug 2025 04:29:39 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 29 Aug 2025 04:29:27 +0200</lastBuildDate>
             <item>
-                <title>Bonus Track 2: Crónica de los conciertos de Oasis en Londres</title>
-                <description>&lt;p&gt;Interrumpimos las vacaciones, para ofreceros un nuevo episodio especial para comentar los dos conciertos que vimos de Oasis los días 25 de julio y 2 de agosto en el Wembley Stadium de Londres. Enjoy!&lt;/p&gt;
-
-Feed: https://anchor.fm/s/37ca67b4/podcast/rss</description>
+                <title>Nadie Sabe Nada | Los mejores momentos de la temporada 12xE7</title>
+                <description>&lt;p&gt;Un verano más (a este lado del hemisferio) hemos hecho lo más difícil: recopilar los mejores momentos del ‘Nadie Sabe Nada’ para no dejaros con síndrome de abstinencia. ‘Nadie Sabe Nada’ con Andreu Buenafuente y Berto Romero regresan en septiembre de 2025, los sábados a las 12:00h. (GMT+2) en la Cadena SER y posteriormente en podcast en SER Podcast, iVoox, Spotify, Apple Podcast, Amazon Music, Podimo… y en vídeo en nuestro canal en YouTube...
+Feed: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/rockzone/episodes/Bonus-Track-2-Crnica-de-los-conciertos-de-Oasis-en-Londres-e36g24u</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/37ca67b4/podcast/play/106481246/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-5%2Fb6f6f464-4b66-0598-6231-8418dd05df86.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/rockzone/episodes/Bonus-Track-2-Crnica-de-los-conciertos-de-Oasis-en-Londres-e36g24u</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20257/23/4561404.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Café del sur - Gino Paoli y Ornella Vanoni - 20/07/25</title>
-                <description>Gino Paoli y Ornella Vanoni
-Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
+                <title>Crónica internacional -    El enviado especial de EEUU para Oriente Próximo, Steve Witkoff, visita en Gaza los puntos de distribución de alimentos de la polémica Fundación Humanitaria, gestionada por mercenarios estadounidenses</title>
+                <description>El enviado especial de EEUU para Oriente Próximo, Steve Witkoff, visita en Gaza los puntos de distribución de alimentos de la polémica Fundación Humanitaria, gestionada por mercenarios estadounidenses
+Feed: https://www.rtve.es/api/programas/130031/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cafe-del-sur/gino-paoli-ornella-vanoni-20-07-25/16670870/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16670870.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cafe-del-sur/gino-paoli-ornella-vanoni-20-07-25/16670870/</guid>
+                <link>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-enviado-especial-eeuu-para-oriente-proximo-steve-witkoff-visita-gaza-puntos-distribucion-alimentos-polemica-fundacion-humanitaria-gestionada-mercenarios-estadounidenses/16684443/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16684443.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-enviado-especial-eeuu-para-oriente-proximo-steve-witkoff-visita-gaza-puntos-distribucion-alimentos-polemica-fundacion-humanitaria-gestionada-mercenarios-estadounidenses/16684443/</guid>
                 
             </item>
         </channel>

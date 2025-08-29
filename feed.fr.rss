@@ -9,29 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 27 Aug 2025 04:29:34 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 29 Aug 2025 04:29:23 +0200</lastBuildDate>
             <item>
-                <title>RadioCSIRT – Votre actu Cybersécurité du Mardi 26 Août 2025 (Ép. 400)</title>
-                <description>&lt;p&gt;&lt;strong&gt;???? Au programme aujourd’hui :&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;???????? Campagne de phishing « Zipline » exploitant Google Classroom&lt;/strong&gt;&lt;br /&gt;
-Check Point Research révèle une opération massive ayant diffusé plus de 115 000 e-mails malveillants ciblant 13 500 organisations à travers le monde.&lt;br /&gt;
-???? https://research.checkpoint...
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7830_715fc0df79e689d2aaf12925f9e0b427.rss</description>
+                <title>CQEP - 199 - La course MotoGP de Hongrie (HON)</title>
+                <description>Bonjour à toutes et à tous,
+Ophélie et Olivier accueillent un petit nouveau pour cet épisode sur le GP d&#39;Hongrie, en la personne de Nicolas, qui nous vient du podcast d&#39;en face (aka LBAC).
+Nous revenons sur la domination de Marc Marquez (oui oui, encore), la grosse tête étonnante de Zarco et les belles perfs de Jorge Martin.
+Egalement au programme: MotoE, Moto3 et Moto2!
+Bonne écoute
+Twitter: @cqep_pod
+Discord: https://discord...
+Feed: https://cqeppod.lepodcast.fr/rss</description>
                 
                 
-                <link>https://www.radiocsirt.org/podcast/votre-actu-cybersecurite-du-mardi-26-aout-2025-ep-400/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/7830/381000.mp3"/>
-                <guid>https://www.radiocsirt.org/podcast/votre-actu-cybersecurite-du-mardi-26-aout-2025-ep-400/</guid>
+                <link>https://cqeppod.lepodcast.fr/cqep-199-la-course-motogp-de-hongrie-hon</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/cqeppod/cqep-199-la-course-motogp-de-hongrie-hon/enclosure.d286b50b5f9ed50aa07f01895aa17996ec950afaf3c1ceec3965c76a033e992f.mp3?p=f"/>
+                <guid>https://cqeppod.lepodcast.fr/cqep-199-la-course-motogp-de-hongrie-hon</guid>
                 
             </item><item>
-                <title>Les Frites (Rediffusion)</title>
-                <description>&lt;p&gt;&lt;strong&gt;Pourquoi on adore les frites ?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ah, les frites ! Croustillantes, fondantes, salées… mais pourquoi les aime-t-on autant ? Dans cet épisode savoureux, on parle de batailles épiques pour des frites, de records de gloutonnerie, d&amp;#39;un musée belge, et même de frites envoyées dans l’espace ! Entre anecdotes croustillantes et histoires fascinantes, on découvre pourquoi les frites font tant de bien à nos papilles… et à notre cerveau...
-Feed: https://anchor.fm/s/e8c21454/podcast/rss</description>
+                <title>Redécouvrir Paula Padani  : Une pionnière de la danse moderne 2/2</title>
+                <description>Redécouvrir Paula Padani  : Une pionnière de la danse moderne 2/2
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13094.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/mamanpourquoi/episodes/Les-Frites-Rediffusion-e372v2r</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/e8c21454/podcast/play/107100699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-20%2F405964862-44100-2-1fe2ab71f1199.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/mamanpourquoi/episodes/Les-Frites-Rediffusion-e372v2r</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/redecouvrir-paula-padani-une-pionniere-de-la-danse-moderne-2-2-6516328</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/62f7e968-9a7c-482a-bdd1-ca0577fff6be/13094-24.08.2025-ITEMA_24223622-2025C21364E0024-NET_MFC_D14F3719-35FC-431F-AFE4-127BC126652D-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/talmudiques/redecouvrir-paula-padani-une-pionniere-de-la-danse-moderne-2-2-6516328</guid>
                 
             </item>
         </channel>
