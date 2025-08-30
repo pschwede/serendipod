@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 29 Aug 2025 04:29:27 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 30 Aug 2025 04:27:36 +0200</lastBuildDate>
             <item>
-                <title>Nadie Sabe Nada | Los mejores momentos de la temporada 12xE7</title>
-                <description>&lt;p&gt;Un verano más (a este lado del hemisferio) hemos hecho lo más difícil: recopilar los mejores momentos del ‘Nadie Sabe Nada’ para no dejaros con síndrome de abstinencia. ‘Nadie Sabe Nada’ con Andreu Buenafuente y Berto Romero regresan en septiembre de 2025, los sábados a las 12:00h. (GMT+2) en la Cadena SER y posteriormente en podcast en SER Podcast, iVoox, Spotify, Apple Podcast, Amazon Music, Podimo… y en vídeo en nuestro canal en YouTube...
-Feed: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml</description>
-                
-                
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20257/23/4561404.mp3"/>
-                <guid></guid>
-                
-            </item><item>
                 <title>Crónica internacional -    El enviado especial de EEUU para Oriente Próximo, Steve Witkoff, visita en Gaza los puntos de distribución de alimentos de la polémica Fundación Humanitaria, gestionada por mercenarios estadounidenses</title>
                 <description>El enviado especial de EEUU para Oriente Próximo, Steve Witkoff, visita en Gaza los puntos de distribución de alimentos de la polémica Fundación Humanitaria, gestionada por mercenarios estadounidenses
 Feed: https://www.rtve.es/api/programas/130031/audios.rss</description>
@@ -29,6 +19,16 @@ Feed: https://www.rtve.es/api/programas/130031/audios.rss</description>
                 <link>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-enviado-especial-eeuu-para-oriente-proximo-steve-witkoff-visita-gaza-puntos-distribucion-alimentos-polemica-fundacion-humanitaria-gestionada-mercenarios-estadounidenses/16684443/</link>
                 <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16684443.mp3"/>
                 <guid>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-enviado-especial-eeuu-para-oriente-proximo-steve-witkoff-visita-gaza-puntos-distribucion-alimentos-polemica-fundacion-humanitaria-gestionada-mercenarios-estadounidenses/16684443/</guid>
+                
+            </item><item>
+                <title>87. Harvey Milk y las fotos de Dan Nicoletta</title>
+                <description>&lt;p&gt;Este episodio en vídeo con público en directo durante la semana del Orgullo LGTBIQ+ en Madrid no va sobre las restauraciones de la Macarena (aunque debería)...
+Feed: https://anchor.fm/s/1659e76c/podcast/rss</description>
+                
+                
+                <link>https://podcasters.spotify.com/pod/show/arte-compacto/episodes/87--Harvey-Milk-y-las-fotos-de-Dan-Nicoletta-e354vik</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1659e76c/podcast/play/105069588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-5%2F403361398-44100-2-181e298f2074d.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/arte-compacto/episodes/87--Harvey-Milk-y-las-fotos-de-Dan-Nicoletta-e354vik</guid>
                 
             </item>
         </channel>
