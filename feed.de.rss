@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 02 Sep 2025 04:29:51 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 06 Sep 2025 04:27:51 +0200</lastBuildDate>
             <item>
-                <title>DANIEL IN DER LÖWENGRUBE</title>
-                <description>
-Feed: https://feeds.feedburner.com/Gnadenkirche-VS</description>
+                <title>Folge 99.5: Goldfinger</title>
+                <description>&lt;p&gt;So viel Goldstaub in der Luft, dass Gelato doch erst am Freitag kommt (dann aber wirklich, wirklich)...
+Feed: https://feeds.acast.com/public/shows/685d689fe36cea9c161707da</description>
                 
                 
-                <link>https://gnadenkirche-vs.de/sermons/daniel-in-der-loewengrube/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://gnadenkirche-vs.de/wp-content/uploads/2025/08/capture-31-August-2025-10-29-07-.1.mp3"/>
-                <guid>https://gnadenkirche-vs.de/sermons/daniel-in-der-loewengrube/</guid>
+                <link>https://shows.acast.com/verbrechen-fuer-weicheier-true-crime-podcast-ohne-mord/episodes/folge-995-goldfinger</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/685d689fe36cea9c161707da/e/68b702aeb4b4b9b3d2898456/media.mp3"/>
+                <guid>https://shows.acast.com/verbrechen-fuer-weicheier-true-crime-podcast-ohne-mord/episodes/folge-995-goldfinger</guid>
                 
             </item><item>
-                <title>RT SPECIAL – The Journey of TYDIRIUM (Teil I)</title>
-                <description>2 Jahrzehnte purer Wahnsinn! Der Beitrag RT SPECIAL &amp;#8211; The Journey of TYDIRIUM (Teil I) erschien zuerst auf Weltenfunk.
-Feed: https://feeds.feedburner.com/RadioTatooinePodcastFeed</description>
+                <title>TdH304 - Nie daran gezweifelt</title>
+                <description>In der Folge 304 besprechen wir folgende Themen, …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:333072576/sounds.rss</description>
                 
                 
-                <link>https://www.weltenfunk.de/2025/08/25/rt-special-the-journey-of-tydirium-teil-i/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.weltenfunk.de/podcast/radiotatooine/rt-tydirium-01.mp3"/>
-                <guid>https://www.weltenfunk.de/2025/08/25/rt-special-the-journey-of-tydirium-teil-i/</guid>
+                <link>https://soundcloud.com/trotzdemhier/tdh304-nie-daran-gezweifelt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2163154023-trotzdemhier-tdh304-nie-daran-gezweifelt.mp3"/>
+                <guid>https://soundcloud.com/trotzdemhier/tdh304-nie-daran-gezweifelt</guid>
                 
             </item>
         </channel>

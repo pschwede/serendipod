@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 02 Sep 2025 04:29:58 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 06 Sep 2025 04:28:01 +0200</lastBuildDate>
             <item>
-                <title>jueves, 28 de agosto de 2025</title>
-                <description>jueves, 28 de agosto de 2025
-Feed: https://feeds.feedburner.com/RepasoNoticioso</description>
+                <title>Al Cronómetro se le terminó el tiempo</title>
+                <description>Adal Franco y Ricardo Puig conducen una edición llena de nostalgia.
+Feed: https://feeds.megaphone.fm/ESP8797132003</description>
                 
                 
-                <link>https://repasonoticioso.com/jueves-28-de-agosto-de-2025/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://repasonoticioso.com/podlove/file/671/s/webplayer/RN_28agosto2025.mp3"/>
-                <guid>https://repasonoticioso.com/jueves-28-de-agosto-de-2025/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP9020407973.mp3?updated=1754698830"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Subterranea Outtakes 7x12 The Kenso Jupiter Master´s - Episodio exclusivo para mecenas</title>
-                <description>Agradece a este podcast tantas horas de entretenimiento y disfruta de episodios exclusivos como éste. ¡Apóyale en iVoox! El último Subterranea Outtakes de la temporada siete se centra en cuatro trabajos extraordinarios de latitudes tan dispares como Grecia o Japón. 
-David Pintos nos hablará de los discos más recientes de Jupiter Fungus, Kenso y The Master´s Brew, pero dedicará más atención al fabuloso disco de los finlandeses, Octopie.
-Está es la música que necesitabas...
-Feed: https://www.ivoox.com/feed_fg_f117710_filtro_1.xml</description>
+                <title>UCDM - Lección 240 con Claudio</title>
+                <description>Clase en vivo por Facebook desde AceptArte...
+Feed: https://www.spreaker.com/show/6357279/episodes/feed</description>
                 
                 
-                <link>https://www.ivoox.com/subterranea-outtakes-7x12-the-kenso-jupiter-master-s-audios-mp3_rf_155695444_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/subterranea-outtakes-7x12-the-kenso-jupiter-master-s_mf_155695444_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/subterranea-outtakes-7x12-the-kenso-jupiter-master-s-audios-mp3_rf_155695444_1.html</guid>
+                <link>https://www.spreaker.com/episode/ucdm-leccion-240-con-claudio--67544437</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/67544437/240.mp3"/>
+                <guid>https://www.spreaker.com/episode/ucdm-leccion-240-con-claudio--67544437</guid>
                 
             </item>
         </channel>
