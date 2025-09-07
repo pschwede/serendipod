@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 06 Sep 2025 04:27:56 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 07 Sep 2025 04:27:22 +0200</lastBuildDate>
             <item>
-                <title>[Capsule] - Engagement, entretien et focus</title>
-                <description>Petit épisode en pleine nature où j&#39;aborde plusieurs thèmes qui font la différence dans la vie.
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/54_30992b45a07b6164e23dd005ea57f08c.rss</description>
+                <title>Emission Sensation rock du vendredi 5 septembre 2025</title>
+                <description>Biffy Clyro, The Struts, Miles Kane, Suede, Alter Bridge, Rob Thomas, Of Monsters Of Men, The Last Dinner…
+Feed: https://www.sensationrock.net/category/podcast/podcasts-sensation-rock/feed/</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/capsule-engagement-entretien-et-focus-381615/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/54/381615.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/capsule-engagement-entretien-et-focus-381615/</guid>
+                <link>https://www.sensationrock.net/2025/09/05/emission-sensation-rock-du-vendredi-5-septembre-2025/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/emission_sensation_rock/www.sensationrock.net/wp-content/uploads/2025/09/sr05septembre2025.mp3"/>
+                <guid>https://www.sensationrock.net/2025/09/05/emission-sensation-rock-du-vendredi-5-septembre-2025/</guid>
                 
             </item><item>
-                <title>GemGeneve&#39;s Universes #14 The unique Green Tanzanite by Brieuc Taymans - Taymans Fine Gems and Daniel Nyfeler - Gübelin Gem Lab</title>
-                <description>
-In the cosmos of the world of jewelry, subjects are as various and diverse as the galaxies that gravitate together in the jewellery planetary system that GemGenève (https://digital.gemgeneve.com/) has built. GemGenève, which has become a cultural even...
-Feed: https://feed.ausha.co/oaNrdC0xxe8j</description>
+                <title>Quelle musique entendez-vous sur le tableau &#34;Les Joueurs de dés&#34; de Georges de La Tour ?</title>
+                <description>Quelle musique entendez-vous sur le tableau &#34;Les Joueurs de dés&#34; de Georges de La Tour ?
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14497.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/il-etait-une-fois-le-bijou/gemgeneve-s-universes-14-the-unique-green-tanzanite-by-brieuc-taymans-taymans-fine-gems-and-daniel-nyfeler-guebelin</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/B621gfmRArRg.mp3?t=1754398649"/>
-                <guid>https://podcast.ausha.co/il-etait-une-fois-le-bijou/gemgeneve-s-universes-14-the-unique-green-tanzanite-by-brieuc-taymans-taymans-fine-gems-and-daniel-nyfeler-guebelin</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/allegretto/quelle-musique-entendez-vous-sur-le-tableau-les-joueurs-de-des-de-georges-de-la-tour-6776893</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/21d312af-76ac-41f2-97d3-57890d343b0e/14497-05.09.2025-ITEMA_24236974-2025M26220E0026-ITE_00152923_RSCE-21.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/allegretto/quelle-musique-entendez-vous-sur-le-tableau-les-joueurs-de-des-de-georges-de-la-tour-6776893</guid>
                 
             </item>
         </channel>

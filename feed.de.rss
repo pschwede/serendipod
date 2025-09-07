@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 06 Sep 2025 04:27:51 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 07 Sep 2025 04:27:18 +0200</lastBuildDate>
             <item>
-                <title>Folge 99.5: Goldfinger</title>
-                <description>&lt;p&gt;So viel Goldstaub in der Luft, dass Gelato doch erst am Freitag kommt (dann aber wirklich, wirklich)...
-Feed: https://feeds.acast.com/public/shows/685d689fe36cea9c161707da</description>
+                <title>Highlightfolge: Spurlose Rache</title>
+                <description>Jürgen Volke wird durch seine Haustür erschossen – vom Täter keine Spur. Die Polizei hat eine Vermutung, aber keine Beweise. Bis verdeckte Ermittler eingesetzt werden. Jahre nach der Tat dann eine Festnahme. Doch der Gerichtsprozess läuft anders als erwartet. Im Podcast spricht Judith Johne und ihr Kollege Berndt Fischer, die damals die Ermittlungen leiteten.
+Hinweis: Diese Folge stammt aus der elften Staffel von Spurensuche...
+Feed: https://proxyfeed.svmaudio.com/aa/stern-crime-spurensuche</description>
                 
                 
-                <link>https://shows.acast.com/verbrechen-fuer-weicheier-true-crime-podcast-ohne-mord/episodes/folge-995-goldfinger</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/685d689fe36cea9c161707da/e/68b702aeb4b4b9b3d2898456/media.mp3"/>
-                <guid>https://shows.acast.com/verbrechen-fuer-weicheier-true-crime-podcast-ohne-mord/episodes/folge-995-goldfinger</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://stern-crime-spurensuche.cdn.svmaudio.com/episodes/996b5a82-21ba-449f-8e13-a5d5e827fe37.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>TdH304 - Nie daran gezweifelt</title>
-                <description>In der Folge 304 besprechen wir folgende Themen, …
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:333072576/sounds.rss</description>
+                <title>Ihre Frage an Klenk + Reiter!</title>
+                <description>Sie fragen – Christian Reiter und Florian Klenk antworten.
+Feed: https://feeds.acast.com/public/shows/6332f5b140179e001274bb37</description>
                 
                 
-                <link>https://soundcloud.com/trotzdemhier/tdh304-nie-daran-gezweifelt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2163154023-trotzdemhier-tdh304-nie-daran-gezweifelt.mp3"/>
-                <guid>https://soundcloud.com/trotzdemhier/tdh304-nie-daran-gezweifelt</guid>
+                <link>https://shows.acast.com/klenkreiter-der-falter-podcast-aus-der-gerichtsmedizin/episodes/ihre-frage-an-klenk-reiter</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6332f5b140179e001274bb37/e/6888c6452a38d6f5cbd2bb60/media.mp3"/>
+                <guid>https://shows.acast.com/klenkreiter-der-falter-podcast-aus-der-gerichtsmedizin/episodes/ihre-frage-an-klenk-reiter</guid>
                 
             </item>
         </channel>

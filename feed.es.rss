@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 06 Sep 2025 04:28:01 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 07 Sep 2025 04:27:26 +0200</lastBuildDate>
             <item>
-                <title>Al Cronómetro se le terminó el tiempo</title>
-                <description>Adal Franco y Ricardo Puig conducen una edición llena de nostalgia.
-Feed: https://feeds.megaphone.fm/ESP8797132003</description>
+                <title>Sergio y Estívaliz en Platicando podcast</title>
+                <description>Sergio y Estíbaliz fue un dúo musical español formado por Sergio Blanco Rivas (San Sebastián, 1948 ? ?2015) y Estíbaliz Uranga Amézaga (Bilbao, 1952), ambos cantantes vascos y pareja tanto en lo artístico como en la vida real.
+? Orígenes:
+- Ambos formaron parte del grupo Mocedades en sus inicios, junto a otros miembros de la familia Uranga.
+- En 1972, se independizaron para formar su propio dúo, Sergio y Estíbaliz, apostando por un estilo más íntimo y melódico...
+Feed: https://eiberoamerica.com/feed/platicando.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP9020407973.mp3?updated=1754698830"/>
-                <guid></guid>
+                <link>http://eiberoamerica.com/podcast/platicando/0864_SergioYEstivaliz.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0864_SergioYEstivaliz.mp3"/>
+                <guid>http://eiberoamerica.com/podcast/platicando/0864_SergioYEstivaliz.mp3</guid>
                 
             </item><item>
-                <title>UCDM - Lección 240 con Claudio</title>
-                <description>Clase en vivo por Facebook desde AceptArte...
-Feed: https://www.spreaker.com/show/6357279/episodes/feed</description>
+                <title>Noosfera 253 - Hagamos memoria | Jorge Romero-Castillo</title>
+                <description>Hablemos sobre la memoria y aprovechemos para evocar todos aquellos neuromitos que hemos almacenado al respecto, que es hora de modificarlos y almacenarlos como es debido. ¿Cómo se forman los recuerdos? ¿Cómo podemos mejorar nuestra memoria? ¿Está...
+Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
                 
                 
-                <link>https://www.spreaker.com/episode/ucdm-leccion-240-con-claudio--67544437</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/67544437/240.mp3"/>
-                <guid>https://www.spreaker.com/episode/ucdm-leccion-240-con-claudio--67544437</guid>
+                <link>https://www.spreaker.com/episode/noosfera-253-hagamos-memoria-jorge-romero-castillo--67552441</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67552441/noosfera_253.mp3"/>
+                <guid>https://www.spreaker.com/episode/noosfera-253-hagamos-memoria-jorge-romero-castillo--67552441</guid>
                 
             </item>
         </channel>
