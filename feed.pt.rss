@@ -9,31 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 07 Sep 2025 04:27:31 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 10 Sep 2025 04:27:14 +0200</lastBuildDate>
             <item>
-                <title>NerdTech 112 - VFX: De Charles Chaplin à Infinitude de Interestelar</title>
-                <description>No NerdTech de hoje, Alexandre Ottoni, Azaghal, Tiago Velasque e Yuri Daglian vão falar de toda a evolução da computação gráfica no cinema da época dos Irmãos Lumierè até os impressionantes efeitos da oitava arte atualmente!
-Siga as redes sociais da Intel Brasil:
-  Instagram: https://jovemnerd.page.link/Intel_Brasil_Instagram_NerdTech
-  Facebook: https://jovemnerd.page.link/Intel_Brasil_Facebook_NerdCast
-  Twitter: https://jovemnerd.page.link/Intel_Brasil_X_NerdTech
-  Youtube: https://jovemnerd...
-Feed: https://feeds.megaphone.fm/JNPD6227286900</description>
+                <title>&#39;O que aprendi ao viver um ano sozinho com um gato em uma ilha remota&#39;</title>
+                <description>Bob Kull decidiu viver sozinho em lugar inóspito de clima hostil para testar limites.
+Feed: https://podcasts.files.bbci.co.uk/p09qw1cn.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/traffic.megaphone.fm/JNPD2361769628.mp3"/>
-                <guid></guid>
+                <link>http://www.bbc.co.uk/programmes/p0m0t92w</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0m0t7jr.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/p0m0t92w</guid>
                 
             </item><item>
-                <title>Grachorra</title>
-                <description>&lt;p&gt;Um animal que parece cachorro, mas também lembra uma raposa, foi encontrado no Rio Grande do Sul e logo chamou a atenção dos cientistas. &lt;/p&gt;&lt;p&gt;Separe trinta minutinhos do seu dia e descubra, com Mila Massuda, como a grachorra, meio graxaim, meio cachorra, se tornou um marco para a ciência e um alerta para a conservação...
-Feed: https://anchor.fm/s/da10dcd8/podcast/rss</description>
+                <title>ENTENDA O CASO RAFAEL MIGUEL #523</title>
+                <description>&lt;p&gt;Rafael Miguel e seus pais foram assassinados pelo pai de sua namorada, que fugiu e ficou foragido por anos até ser encontrado.#523&lt;/p&gt;
+
+Feed: https://anchor.fm/s/1f0086c8/podcast/rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/biologia-em-meia-ho/episodes/Grachorra-e37pgk6</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO9955593808.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/biologia-em-meia-ho/episodes/Grachorra-e37pgk6</guid>
+                <link>https://podcasters.spotify.com/pod/show/jaqueline-guerreiro/episodes/ENTENDA-O-CASO-RAFAEL-MIGUEL-523-e37vfcf</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO4960738543.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/jaqueline-guerreiro/episodes/ENTENDA-O-CASO-RAFAEL-MIGUEL-523-e37vfcf</guid>
                 
             </item>
         </channel>
