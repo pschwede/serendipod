@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 10 Sep 2025 04:27:11 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 14 Sep 2025 04:27:05 +0200</lastBuildDate>
             <item>
-                <title>LA MUSICA DE TUS SUEÑOS 26 AGOSTO 2025 ESPECIAL DONNA SUMMER</title>
-                <description>LA MUSICA DE TUS SUE&amp;Ntilde;OS 26 AGOSTO 2025 ESPECIAL DONNA SUMMER
-Feed: https://www.ivoox.com/feed_fg_f1126262_filtro_1.xml</description>
+                <title>Entrevista en directo con el guitarrista Ángel Velarde en Platicando de Eiberoamerica.com</title>
+                <description>Paqui Sánchez charla con el guitarrista Ángel Velarde, quien nos cuenta su trayectoria musical en sus diferentes grupos, a lo largo de 40 años 
+Feed: https://eiberoamerica.com/feed/platicando.xml</description>
                 
                 
-                <link>https://www.ivoox.com/musica-de-tus-suenos-26-agosto-2025-audios-mp3_rf_156391644_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/musica-de-tus-suenos-26-agosto-2025_mf_156391644_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/musica-de-tus-suenos-26-agosto-2025-audios-mp3_rf_156391644_1.html</guid>
+                <link>http://eiberoamerica.com/podcast/platicando/0865_AngelVelarde.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0865_AngelVelarde.mp3"/>
+                <guid>http://eiberoamerica.com/podcast/platicando/0865_AngelVelarde.mp3</guid>
                 
             </item><item>
-                <title>Popcasting 492</title>
-                <description>the rfd · take me home  ::  benee · zero to hero  ::  herman’s hermits · i’m henery the eighth i am  ::  van morrison · sweet thing  ::  tim buckley · it happens every time  ::  elastica · stutter  ::  the mystery lights · sorry forgot your name  ::  loyle carner · time to go  ::  rosie flores · my own kind of hat  ::  encarnita ortiz · morena de verde luna  ::  bruce springsteen · little girl like you / between heaven and earth  ::  bruce springsteen · janie, don’t you lose heart  ::  the cure...
-Feed: https://feeds.feedburner.com/Popcasting</description>
+                <title>Café del sur - Un domingo al sur - 07/09/25</title>
+                <description>Un domingo al sur
+Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/popcasting-492-audios-mp3_rf_156609956_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting-492_mf_156609956_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/popcasting-492-audios-mp3_rf_156609956_1.html</guid>
+                <link>https://www.rtve.es/play/audios/cafe-del-sur/domingo-sur-07-09-25/16719484/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16719484.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cafe-del-sur/domingo-sur-07-09-25/16719484/</guid>
                 
             </item>
         </channel>

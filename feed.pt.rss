@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 10 Sep 2025 04:27:14 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 14 Sep 2025 04:27:09 +0200</lastBuildDate>
             <item>
-                <title>&#39;O que aprendi ao viver um ano sozinho com um gato em uma ilha remota&#39;</title>
-                <description>Bob Kull decidiu viver sozinho em lugar inóspito de clima hostil para testar limites.
-Feed: https://podcasts.files.bbci.co.uk/p09qw1cn.rss</description>
+                <title>Momento China #26: Equipe de Punhobol fez dobradinha de ouro nos Jogos Mundiais da China</title>
+                <description>Brasil conquista ouro no Punhobol masculino e no feminino em Chengdu, na China, e atletas compartilham suas experiências inéditas no país asiático
+Feed: https://jornal.usp.br/feed-podcasts/usp_podcasts_xml_all/all.xml</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0m0t92w</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0m0t7jr.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0m0t92w</guid>
+                <link>https://jornal.usp.br/podcast/momento-china-26-equipe-de-punhobol-fez-dobradinha-de-ouro-nos-jogos-mundiais-da-china/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://jornal.usp.br/wp-content/uploads/2025/09/Momento-China-26-Punhobol.mp3"/>
+                <guid>https://jornal.usp.br/podcast/momento-china-26-equipe-de-punhobol-fez-dobradinha-de-ouro-nos-jogos-mundiais-da-china/</guid>
                 
             </item><item>
-                <title>ENTENDA O CASO RAFAEL MIGUEL #523</title>
-                <description>&lt;p&gt;Rafael Miguel e seus pais foram assassinados pelo pai de sua namorada, que fugiu e ficou foragido por anos até ser encontrado.#523&lt;/p&gt;
-
-Feed: https://anchor.fm/s/1f0086c8/podcast/rss</description>
+                <title>O homem criou Deus</title>
+                <description>&lt;p&gt;Imagine os primeiros seres humanos sobre a face da Terra. Nossos antepassados se encontravam em uma constante luta pela vida, buscando a todo momento comida, abrigo e proteção contra os perigos da natureza. Neste cenário de tantos perigos e preocupações, por que então os primeiros seres humanos criaram religiões? Neste episódio de hoje vamos tentar compreender as raízes antropológicas da religião com o filósofo alemão Ludwig Feuerbach...
+Feed: https://anchor.fm/s/fa5acc24/podcast/rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/jaqueline-guerreiro/episodes/ENTENDA-O-CASO-RAFAEL-MIGUEL-523-e37vfcf</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO4960738543.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/jaqueline-guerreiro/episodes/ENTENDA-O-CASO-RAFAEL-MIGUEL-523-e37vfcf</guid>
+                <link>https://podcasters.spotify.com/pod/show/filosofiavermelha/episodes/O-homem-criou-Deus-e37had2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO6245574654.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/filosofiavermelha/episodes/O-homem-criou-Deus-e37had2</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 10 Sep 2025 04:27:07 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 14 Sep 2025 04:27:00 +0200</lastBuildDate>
             <item>
-                <title>Le Graal, l’objet mythique des légendes du Moyen-Âge</title>
-                <description>À l&#39;origine un simple récipient, le Graal est devenu par la suite une coupe sacrée contenant le sang de Jésus-Christ. Il a depuis fait l’objet d’une quête mystique, mais en vain. « Le coup de génie, il est là. C’est d’avoir pris un mot qui est un mot rare pour désigner un objet commun », dit l’historien médiéviste Francis Gingras.
-Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
+                <title>178. Santé mentale et respiration avec Stéphane Janssoone de la Breathing Academy France</title>
+                <description>
+Bienvenue sur « S’ouvrir à l’amour » le podcast qui va t’aider à t’ouvrir à l’amour et à transformer ta vie amoureuse.
+ 
+On sous-estime l’impact de notre manière de respirer sur notre santé mentale (et système nerveux) Pour l’épisode 178 j’ai voulu in...
+Feed: https://feed.ausha.co/bjPkYiPMPlqo</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/4d4266d7-97cf-431b-bf77-56cb6327124a/2025-09-05_20_06_00_aujourdhuilhistoirebalado_0000.mp3"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/s-ouvrir-a-l-amour/178-sante-mentale-et-respiration-avec-stephane-janssoone-de-la-breathing-academy-france</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/yeaY1c6Y63Ad.mp3?t=1750781209"/>
+                <guid>https://podcast.ausha.co/s-ouvrir-a-l-amour/178-sante-mentale-et-respiration-avec-stephane-janssoone-de-la-breathing-academy-france</guid>
                 
             </item><item>
-                <title>Les amis de Vivaldi</title>
-                <description>Les amis de Vivaldi
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14497.xml</description>
+                <title>RadioCSIRT – Votre actu Cybersécurité du Samedi 13 Septembre 2025 (Ép. 420)</title>
+                <description>&lt;p&gt;&lt;strong&gt;???? Au programme de cet épisode :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;???? Un audit du DHS pointe une mauvaise gestion par la CISA de son programme d’incitations financières à la rétention des talents cyber.&lt;/strong&gt;&lt;br /&gt;
+Source : The Record&lt;br /&gt;
+???? https://therecord...
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7830_715fc0df79e689d2aaf12925f9e0b427.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/allegretto/allegretto-du-mardi-09-septembre-2025-6287082</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/a5c72ed8-84aa-495d-a9b2-e2c7c94a0abc/14497-09.09.2025-ITEMA_24240749-2025M26220S0252-NET_MFM_4B74D8D6-C2D3-49BA-B8B9-CF0498355031-21.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/allegretto/allegretto-du-mardi-09-septembre-2025-6287082</guid>
+                <link>https://www.radiocsirt.org/podcast/votre-actu-cybersecurite-du-samedi-13-septembre-2025-ep-420/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/7830/383195.mp3"/>
+                <guid>https://www.radiocsirt.org/podcast/votre-actu-cybersecurite-du-samedi-13-septembre-2025-ep-420/</guid>
                 
             </item>
         </channel>
