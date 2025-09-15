@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 14 Sep 2025 04:27:19 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 15 Sep 2025 04:29:58 +0200</lastBuildDate>
             <item>
-                <title>Flavour: The potato chip story</title>
-                <description>Ruth Alexander looks at why crisps are one of world&#39;s most enduring and popular snacks.
-Feed: https://podcasts.files.bbci.co.uk/p028z2z0.rss</description>
+                <title>50th Anniversary of Patti Smith&#39;s &#34;Horses&#34; Plus Opinions on Margo Price</title>
+                <description>Hosts Jim DeRogatis and Greg Kot celebrate 50 years of Patti Smith’s “Horses” with a classic album dissection.
+Feed: https://rss.art19.com/sound-opinions</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/w3ct70yy</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0m1xxbs.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w3ct70yy</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/c89c491a-2acd-410f-8bd5-c26769f0750e.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Podcasting Mourns Todd Cochrane, Creators Leverage CTV, &amp; More</title>
-                <description>This week in the business of podcasting: the industry mourns Todd Cochrane, what&#39;s happening at IAB Podcast Upfront, what Amazon&#39;s Wondery downscaling means for creative value, and how creatives are using CTV deals to increase sponsorship rates....
-Feed: https://www.spreaker.com/show/6060119/episodes/feed</description>
+                <title>When God Says Go by Apostle Arome Osayi</title>
+                <description>&lt;p&gt;Telegram Channel: https://t.me/Apostlearome&lt;/p&gt;&lt;p&gt;Youtube Channel: https://www.youtube.com/@ApostleAromeOsayi&lt;/p&gt;
+
+Feed: https://anchor.fm/s/a8003dc4/podcast/rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/podcasting-mourns-todd-cochrane-creators-leverage-ctv-more--67725774</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/67725774/25_09_12_download_recap.mp3"/>
-                <guid>https://www.spreaker.com/episode/podcasting-mourns-todd-cochrane-creators-leverage-ctv-more--67725774</guid>
+                <link>https://podcasters.spotify.com/pod/show/message-of-the-day-motd/episodes/When-God-Says-Go-by-Apostle-Arome-Osayi-e385avm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/a8003dc4/podcast/play/108226998/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-12%2F9ec97bb0-f0ce-f6b1-b1bd-e2b809d6b820.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/message-of-the-day-motd/episodes/When-God-Says-Go-by-Apostle-Arome-Osayi-e385avm</guid>
                 
             </item>
         </channel>
