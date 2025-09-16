@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 15 Sep 2025 04:29:41 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 16 Sep 2025 04:28:19 +0200</lastBuildDate>
             <item>
-                <title>Mölling zu Drohnenangriff: &#34;Das ist ein Test Putins&#34;</title>
-                <description>Nach Ansicht des Politologen Mölling testet Moskau mit dem Drohnenangriff auf Polen die Wehrhaftigkeit der Nato. In einem Punkt sei Putins Kalkül bereits aufgegangen.
-+++
-Unsere allgemeinen Datenschutzrichtlinien finden Sie unter https://datenschutz.ad-alliance.de/podcast.html +++
-Wir verarbeiten im Zusammenhang mit dem Angebot unserer Podcasts Daten. Wenn Sie der automatischen Übermittlung der Daten widersprechen wollen, klicken Sie hier: https://datenschutz.ad-alliance.de/podcast.html +++
-Feed: https://proxyfeed.svmaudio.com/aa/ukraine-die-lage</description>
+                <title>Flucht aus der Ukraine: Hoffnung und Sehnsucht</title>
+                <description>Mateo (13) ist aus der Ukraine in die Schweiz geflüchtet. In den «SRF Kids News» erzählt er, was er an seiner Heimat am meisten vermisst und welche Hoffnungen er hat. Und was bedeutet eigentlich «Waffenruhe» im Krieg? Ausserdem: die Klasse P6c aus Len ...
+Feed: https://www.srf.ch/feed/podcast/sd/99e0b828-1704-41d5-b275-e061324cb5f0.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://ukraine-die-lage.cdn.svmaudio.com/episodes/c65fcb91-d0c1-4bef-965f-c955381e0e4b.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://download-media.srf.ch/world/video/kindernews/2025/09/kindernews_20250910_173013_13124796_v_webcast_h264_q60.mp4"/>
                 <guid></guid>
                 
             </item><item>
-                <title>FREIHEIT</title>
-                <description>Folge 10 – Freiheit Was bedeutet Freiheit? Ist sie ein Geschenk oder eine Herausforderung? In dieser Folge gehen Rebecca und Alex den verschiedenen Dimensionen von Freiheit nach: politisch, spirituell, persönlich. Alex sehnt sich nach absoluter...
-Feed: https://p-day.libsyn.com/rss</description>
+                <title>Lesbisch, trans &amp; asexuell - Elinor in Evangelikalien und wie ihr niemand den Glauben nahm</title>
+                <description>Bewertet diesen Podcast, um uns helfen, unsere Reichweite und Sichtbarkeit zu behalten und zu vergrößern. - Das geht auf Spotify so: Auf die Hauptseite unseres Podcasts. Dort findet ihr drei Punkte untereinander und wenn ihr dort drauf klickt, erscheinen Menüpunkte und unter anderem steht da &#34;Show bewerten&#34;. Wenn ihr da drauf klickt, könnt ihr Sterne an uns vergeben und das hilft uns enorm weiter. Vielen Dank 
+Feed: https://cdn.julephosting.de/podcasts/1260-fck-purity/feed.rss</description>
                 
                 
-                <link>https://p-day.libsyn.com/freiheit</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/p-day/Groe_Themen_10_Freiheit_.mp3?dest-id=626021"/>
-                <guid>https://p-day.libsyn.com/freiheit</guid>
+                <link>https://fck-purity.blogs.audiorella.com/28-elinorglaubt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.julephosting.de/podcasts/1260-fck-purity/212176-elinorglaubt.mp3?v=1"/>
+                <guid>https://fck-purity.blogs.audiorella.com/28-elinorglaubt</guid>
                 
             </item>
         </channel>

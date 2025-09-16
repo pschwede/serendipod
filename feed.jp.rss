@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 15 Sep 2025 04:29:58 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 16 Sep 2025 04:28:41 +0200</lastBuildDate>
             <item>
-                <title>50th Anniversary of Patti Smith&#39;s &#34;Horses&#34; Plus Opinions on Margo Price</title>
-                <description>Hosts Jim DeRogatis and Greg Kot celebrate 50 years of Patti Smith’s “Horses” with a classic album dissection.
-Feed: https://rss.art19.com/sound-opinions</description>
+                <title>Architects of Perspective: How Ancient History Was Fabricated, Not Found, with Michael Alberta</title>
+                <description>What if history wasn’t discovered… but designed?
+Feed: https://feeds.acast.com/public/shows/5a7e6d34b56c94b1216394e3</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://s.gum.fm/s-5faacd45811dda0026e0832a/rss.art19.com/episodes/c89c491a-2acd-410f-8bd5-c26769f0750e.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://www.innerversepodcast.com/season-11/michael-alberta</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5a7e6d34b56c94b1216394e3/e/68a5fa1ee2f63983a7ba0eec/media.mp3"/>
+                <guid>https://www.innerversepodcast.com/season-11/michael-alberta</guid>
                 
             </item><item>
-                <title>When God Says Go by Apostle Arome Osayi</title>
-                <description>&lt;p&gt;Telegram Channel: https://t.me/Apostlearome&lt;/p&gt;&lt;p&gt;Youtube Channel: https://www.youtube.com/@ApostleAromeOsayi&lt;/p&gt;
-
-Feed: https://anchor.fm/s/a8003dc4/podcast/rss</description>
+                <title>Joe’s Big Announcement</title>
+                <description>Joe finally tells Mike about his secret project!   Preorder:
+Feed: https://feeds.libsyn.com/565190/rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/message-of-the-day-motd/episodes/When-God-Says-Go-by-Apostle-Arome-Osayi-e385avm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/a8003dc4/podcast/play/108226998/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-12%2F9ec97bb0-f0ce-f6b1-b1bd-e2b809d6b820.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/message-of-the-day-motd/episodes/When-God-Says-Go-by-Apostle-Arome-Osayi-e385avm</guid>
+                <link>http://sites.libsyn.com/565190/joes-big-announcement</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/f7dbbd94-0f1a-48b4-9f70-42a1ecaf1776/POSCAST091025_FINAL.mp3?dest-id=4886485"/>
+                <guid>http://sites.libsyn.com/565190/joes-big-announcement</guid>
                 
             </item>
         </channel>
