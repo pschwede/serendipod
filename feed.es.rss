@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 18 Sep 2025 04:29:17 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Sep 2025 04:28:42 +0200</lastBuildDate>
             <item>
                 <title>Viñetas y bocadillos - Cristina Oñoro &amp; Ana Jarén &#34;Jane. Una biografía literaria de Jane Austen&#34; - 15/09/25</title>
                 <description>Cristina Oñoro &amp; Ana Jarén &#34;Jane. Una biografía literaria de Jane Austen&#34;
@@ -21,14 +21,14 @@ Feed: http://api.rtve.es/api/programas/1946/audios.rss</description>
                 <guid>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-cristina-onoro-ana-jaren-jane-biografia-literaria-jane-austen-15-09-25/16726415/</guid>
                 
             </item><item>
-                <title>#633: Leer en tiempos de dopamina: ¿puede la lectura salvarnos del algoritmo?</title>
-                <description>&lt;p&gt;En este episodio especial, el poeta y promotor cultural &lt;strong&gt;Luis Perozo Cervantes&lt;/strong&gt; ofrece una conferencia frontal y reveladora sobre los desafíos de leer en la era de la hiperestimulación digital. Desde la Escuela de Trabajo Social de la Universidad del Zulia, nos invita a repensar la lectura como una herramienta de emancipación mental y emocional frente al dominio de las redes sociales y los algoritmos...
-Feed: https://anchor.fm/s/26d7ff48/podcast/rss</description>
+                <title>De película - Del drama y la pasión literaria al romance y la melancolía - 13/09/25</title>
+                <description>Del drama y la pasión literaria al romance y la melancolía
+Feed: http://api.rtve.es/api/programas/1921/audios.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/libreriaradio/episodes/633-Leer-en-tiempos-de-dopamina-puede-la-lectura-salvarnos-del-algoritmo-e35qbi7</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO2944403998.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/libreriaradio/episodes/633-Leer-en-tiempos-de-dopamina-puede-la-lectura-salvarnos-del-algoritmo-e35qbi7</guid>
+                <link>https://www.rtve.es/play/audios/de-pelicula-rne/del-drama-pasion-literaria-romance-melancolia-13-09-25/16727617/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16727617.mp3"/>
+                <guid>https://www.rtve.es/play/audios/de-pelicula-rne/del-drama-pasion-literaria-romance-melancolia-13-09-25/16727617/</guid>
                 
             </item>
         </channel>

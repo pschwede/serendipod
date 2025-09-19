@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 18 Sep 2025 04:29:12 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Sep 2025 04:28:37 +0200</lastBuildDate>
             <item>
-                <title>Book Club Fragîle - Entretien avec Claire Deya, scénariste et autrice</title>
-                <description>Bienvenue dans le Book Club Fragîle !  Cette semaine je vous propose un épisode un peu spécial. L’entretien de Claire Deya, scénariste et autrice, invitée de la 10ème édition des rencontres littéraires de Port Cros, organisée par l’association des amis de Port-Cros. Interrogée par Emmanuelle Pouquet, journaliste indépendante, puis par moi-même, Claire Deya, autrice très remarquée pour son premier roman « Un monde à refaire, paru aux Editions de l’Observatoire est remontée avec nous à la ...
-Feed: https://feeds.buzzsprout.com/771368.rss</description>
+                <title>103 Klubb - Yves V - 06 Septembre 2025</title>
+                <description>Le mix de Yves V dans 103 Klubb le 06 Septembre 2025 de 21H à 22H
+Feed: http://www.103radio.fr/103klubb.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/771368/episodes/15341679-book-club-fragile-entretien-avec-claire-deya-scenariste-et-autrice.mp3"/>
-                <guid></guid>
+                <link>https://www.103radio.fr/2321.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.103radio.fr/2321.mp3"/>
+                <guid>https://www.103radio.fr/2321.mp3</guid>
                 
             </item><item>
-                <title>Emission du 01/09/2025</title>
-                <description>Après nous avoir raconté l’histoire extraordinaire de son maître dans&amp;nbsp; » Le pianiste aux 50 ...
-Feed: https://kitschetnet.podomatic.com/rss2.xml</description>
+                <title>Feu! Chatterton &amp; Marguerite en live dans &#34;Le Grand Studio RTL&#34;</title>
+                <description>Ecoutez Le Grand Studio RTL avec Éric Jean-Jean du 13 septembre 2025.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d&#39;informations.
+ 
+Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
                 
                 
-                <link>https://www.podomatic.com/podcasts/kitschetnet/episodes/2025-09-15T17_32_16-07_00</link>
-                <enclosure type="audio/mpeg" length="1" url="https://kitschetnet.podomatic.com/enclosure/2025-09-15T17_32_16-07_00.mp3?_=1757983052.17533183"/>
-                <guid>https://www.podomatic.com/podcasts/kitschetnet/episodes/2025-09-15T17_32_16-07_00</guid>
+                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/b4d28123-aeb5-4152-9cae-1a106b312357.mp3?_=1757604786"/>
+                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
                 
             </item>
         </channel>

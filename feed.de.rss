@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 18 Sep 2025 04:29:07 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Sep 2025 04:28:32 +0200</lastBuildDate>
             <item>
-                <title>#90 Zug ins Nichts</title>
-                <description>Eine einfache News-Folge mit einem fachkundigem Gast
-Feed: https://feed.zugfunk-podcast.de/podcastrss.xml</description>
+                <title>#122 Frühe Bildung für alle? Kita-Zugang für geflüchtete Familien gerecht gestalten.</title>
+                <description>Wie Integration schon im Kindergarten beginnt – Psychologin, Wissenschaftlerin und Coachin Stepanka Busuleanu über strukturelle Hürden, gesellschaftliche Mythen und konkrete Lösungen.
+Feed: https://equality365.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://zugfunk-podcast.de/2025/08/31/zf90/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feed.zugfunk-podcast.de/zf90.mp3"/>
-                <guid>https://zugfunk-podcast.de/2025/08/31/zf90/</guid>
+                <link>https://equality365.podigee.io/124-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2102324-m-13b3d7e637d154288a79d79d79f610e8.mp3?source=feed"/>
+                <guid>https://equality365.podigee.io/124-neue-episode</guid>
                 
             </item><item>
-                <title>EP 199 // Der Film-Look</title>
-                <description>&lt;p&gt;Flo´s Miniserie zur analogen Fotografie geht zu Ende: Heute mit allen Gedanken zum &amp;quot;Filmlook&amp;quot;. In der Preshow spricht er noch über seine neueste Blitz-Errungenschaft. In der Hauptshow geht´s in sämtlichen Details darum, weshalb der Filmlook so einmalig ist. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Viel Spaß mit Folge 199 von ISO400!&lt;/p&gt;&lt;p&gt;&lt;br&gt;SPONSORING: Schnapp dir 5% Rabatt mit &amp;quot;#ISO400&amp;quot; für deine nächste Filmentwicklung + Scan → urbanfilmlab...
-Feed: https://anchor.fm/s/6e676ac4/podcast/rss</description>
+                <title>Erntedank: Wir feiern den Herbst</title>
+                <description>Im Herbst kommen einem die Lieblingsgerichte aus der Kindheit in den Sinn. Erinnern Sie sich noch an Birnen, Bohnen und Speck? Oder gefüllte Schmorgurken?
+Feed: https://www1.wdr.de/mediathek/video/podcast/channel-kochen-mit-martina-und-moritz-100.podcast</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/iso400podcast/episodes/EP-199--Der-Film-Look-e386q2v</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/6e676ac4/podcast/play/108275231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-14%2F9ffe10cc-865a-9a33-255e-0a5b1b6a676f.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/iso400podcast/episodes/EP-199--Der-Film-Look-e386q2v</guid>
+                <link>https://www1.wdr.de/mediathek/video/sendungen/kochen-mit-martina-und-moritz/video-erntedank-wir-feiern-den-herbst-102.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/225/2255876/kochenmitmartinaundmoritz_2023-09-23_erntedankwirfeierndenherbst_wdr.mp4"/>
+                <guid>https://www1.wdr.de/mediathek/video/sendungen/kochen-mit-martina-und-moritz/video-erntedank-wir-feiern-den-herbst-102.html</guid>
                 
             </item>
         </channel>
