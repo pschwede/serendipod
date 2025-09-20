@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 19 Sep 2025 04:28:42 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 20 Sep 2025 04:27:43 +0200</lastBuildDate>
             <item>
-                <title>Viñetas y bocadillos - Cristina Oñoro &amp; Ana Jarén &#34;Jane. Una biografía literaria de Jane Austen&#34; - 15/09/25</title>
-                <description>Cristina Oñoro &amp; Ana Jarén &#34;Jane. Una biografía literaria de Jane Austen&#34;
-Feed: http://api.rtve.es/api/programas/1946/audios.rss</description>
+                <title>Noosfera 255 - Contar con los dedos | Francisco González Redondo</title>
+                <description>&#34;Cuando pensamos en la prehistoria nos viene a la mente el arte rupestre, pero que le llamemos arte no significa que respondiera a los mismos propósitos que responde el arte a día de hoy. A veces especulamos posibles funciones mágicas y proponemos...
+Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-cristina-onoro-ana-jaren-jane-biografia-literaria-jane-austen-15-09-25/16726415/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16726415.mp3"/>
-                <guid>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-cristina-onoro-ana-jaren-jane-biografia-literaria-jane-austen-15-09-25/16726415/</guid>
+                <link>https://www.spreaker.com/episode/noosfera-255-contar-con-los-dedos-francisco-gonzalez-redondo--67726765</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67726765/noosfera_255.mp3"/>
+                <guid>https://www.spreaker.com/episode/noosfera-255-contar-con-los-dedos-francisco-gonzalez-redondo--67726765</guid>
                 
             </item><item>
-                <title>De película - Del drama y la pasión literaria al romance y la melancolía - 13/09/25</title>
-                <description>Del drama y la pasión literaria al romance y la melancolía
-Feed: http://api.rtve.es/api/programas/1921/audios.rss</description>
+                <title>Hoy empieza todo 1 - Despedida y nueva etapa - 29/08/25</title>
+                <description>Despedida y nueva etapa
+Feed: http://api.rtve.es/api/programas/59010/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/de-pelicula-rne/del-drama-pasion-literaria-romance-melancolia-13-09-25/16727617/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16727617.mp3"/>
-                <guid>https://www.rtve.es/play/audios/de-pelicula-rne/del-drama-pasion-literaria-romance-melancolia-13-09-25/16727617/</guid>
+                <link>https://www.rtve.es/play/audios/hoy-empieza-todo-1/despedida-nueva-etapa-29-08-25/16710521/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16710521.mp3"/>
+                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo-1/despedida-nueva-etapa-29-08-25/16710521/</guid>
                 
             </item>
         </channel>

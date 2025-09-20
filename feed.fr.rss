@@ -9,28 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 19 Sep 2025 04:28:37 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 20 Sep 2025 04:27:39 +0200</lastBuildDate>
             <item>
-                <title>103 Klubb - Yves V - 06 Septembre 2025</title>
-                <description>Le mix de Yves V dans 103 Klubb le 06 Septembre 2025 de 21H à 22H
-Feed: http://www.103radio.fr/103klubb.xml</description>
+                <title>EP 75 Élise Giraudau: Quand le cancer prend Louise, les mots d’Élise la font renaître</title>
+                <description>
+ATTENTION : cet épisode aborde le cancer, le décès et le deuil. Je vous invite donc à l’écouter dans les meilleures conditions.
+En ce mois de septembre turquoise, consacré aux cancers gynécologiques, j’ai l’honneur de recevoir Élise, autrice du livr...
+Feed: https://feed.ausha.co/o9jgRUnMK5Pp</description>
                 
                 
-                <link>https://www.103radio.fr/2321.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.103radio.fr/2321.mp3"/>
-                <guid>https://www.103radio.fr/2321.mp3</guid>
+                <link>https://podcast.ausha.co/virage/ep-75-elise-giraudau-quand-le-cancer-prend-louise-les-mots-d-elise-la-font-renaitre</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BxvpaFdOWMwN.mp3?t=1758132950"/>
+                <guid>https://podcast.ausha.co/virage/ep-75-elise-giraudau-quand-le-cancer-prend-louise-les-mots-d-elise-la-font-renaitre</guid>
                 
             </item><item>
-                <title>Feu! Chatterton &amp; Marguerite en live dans &#34;Le Grand Studio RTL&#34;</title>
-                <description>Ecoutez Le Grand Studio RTL avec Éric Jean-Jean du 13 septembre 2025.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d&#39;informations.
- 
-Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
+                <title>aux Rousses | 5</title>
+                <description>aux Rousses | 5
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10206.xml</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/b4d28123-aeb5-4152-9cae-1a106b312357.mp3?_=1757604786"/>
-                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/le-jeu-des-1-000/le-jeu-des-1000-du-vendredi-19-septembre-2025-7588169</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/a25f3962-81c0-4f79-9cad-a124b9bc0682/10206-19.09.2025-ITEMA_24252100-2025F4004S0262-NET_MFI_7C4E71F1-F357-4BB7-B208-FDC623D43B8E-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-jeu-des-1-000/le-jeu-des-1000-du-vendredi-19-septembre-2025-7588169</guid>
                 
             </item>
         </channel>
