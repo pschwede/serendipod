@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 24 Sep 2025 04:28:39 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 25 Sep 2025 04:28:39 +0200</lastBuildDate>
             <item>
-                <title>Soyons in ! #5</title>
-                <description>Suzanne, des mains pour voir !
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/2783_93224113bb02889844c36fbe50e781ed.rss</description>
+                <title>Le billet sciences Muséum</title>
+                <description>Le billet sciences Muséum
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20339.xml</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/soyons-in-5-384644/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/2783/384644.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/soyons-in-5-384644/</guid>
+                <link>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-sciences</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/800cbdf8-0710-4a97-9520-f1b9873ae6a0/20339-23.09.2025-ITEMA_24255531-2025I36368S0267-NET_MFO_A055A469-E55E-476D-A812-24F501B786DA-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-sciences</guid>
                 
             </item><item>
-                <title>Héroïne, le temps des seringues 4/4 : Une lente redescente</title>
-                <description>Héroïne, le temps des seringues 4/4 : Une lente redescente
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10177.xml</description>
+                <title>On prend toujours un micro pour la vie : 09/24/2025 16:00</title>
+                <description>673-344720
+Feed: http://podcast.cism893.ca/radioshows/673/feed_itunes.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/une-lente-redescente-5001628</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/3d1af6d9-4065-414a-a1b7-c12971ae4053/10177-22.09.2025-ITEMA_24254807-2025C26362E0100-ITE_00152316_RSCE-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/une-lente-redescente-5001628</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/344720.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/344720.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/344720.mp3</guid>
                 
             </item>
         </channel>
