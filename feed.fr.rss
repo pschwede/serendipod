@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 25 Sep 2025 04:28:39 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 26 Sep 2025 04:28:55 +0200</lastBuildDate>
             <item>
-                <title>Le billet sciences Muséum</title>
-                <description>Le billet sciences Muséum
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20339.xml</description>
+                <title>London café : Émission du 23 septembre</title>
+                <description>665-344668
+Feed: http://podcast.cism893.ca/radioshows/665/feed_itunes.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-sciences</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/800cbdf8-0710-4a97-9520-f1b9873ae6a0/20339-23.09.2025-ITEMA_24255531-2025I36368S0267-NET_MFO_A055A469-E55E-476D-A812-24F501B786DA-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/le-billet-sciences</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/344668.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/344668.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/344668.mp3</guid>
                 
             </item><item>
-                <title>On prend toujours un micro pour la vie : 09/24/2025 16:00</title>
-                <description>673-344720
-Feed: http://podcast.cism893.ca/radioshows/673/feed_itunes.xml</description>
+                <title>Métissages</title>
+                <description>Le mix de Otavio
+Feed: https://www.rts.ch/couleur3/programmes/metissages/podcast/?flux=rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/344720.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/344720.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/344720.mp3</guid>
+                <link>https://www.rts.ch/audio-podcast/2025/audio/metissages-29009596.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/a0b0f517-a992-3fd7-ac30-b4ad24357bfe/16d5bb64-7fe8-3090-a3aa-43c281127657.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2025/audio/metissages-29009596.html</guid>
                 
             </item>
         </channel>

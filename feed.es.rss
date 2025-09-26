@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 25 Sep 2025 04:28:43 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 26 Sep 2025 04:29:00 +0200</lastBuildDate>
             <item>
-                <title>No es un día cualquiera - Del hecho al dicho</title>
-                <description>Hablamos de refranes en Del hecho al dicho
-Feed: http://api.rtve.es/api/programas/2054/audios.rss</description>
+                <title>A golpe de bit - La &#39;caja negra&#39; del cáncer que desvela su procedencia - 25/09/25</title>
+                <description>La &#39;caja negra&#39; del cáncer que desvela su procedencia
+Feed: http://www.rtve.es/api/programas/121130/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-del-hecho-dicho/16737952/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16737952.mp3"/>
-                <guid>https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-del-hecho-dicho/16737952/</guid>
+                <link>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-caja-negra-del-cancer-desvela-su-procedencia/16743774/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16743774.mp3"/>
+                <guid>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-caja-negra-del-cancer-desvela-su-procedencia/16743774/</guid>
                 
             </item><item>
-                <title>Noosfera 255 - Contar con los dedos | Francisco González Redondo</title>
-                <description>&#34;Cuando pensamos en la prehistoria nos viene a la mente el arte rupestre, pero que le llamemos arte no significa que respondiera a los mismos propósitos que responde el arte a día de hoy. A veces especulamos posibles funciones mágicas y proponemos...
-Feed: https://www.spreaker.com/show/4437368/episodes/feed</description>
+                <title>Documentos RNE - Genio y delirio, creadores en la tormenta - 22/09/25</title>
+                <description>Genio y delirio, creadores en la tormenta
+Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
                 
                 
-                <link>https://www.spreaker.com/episode/noosfera-255-contar-con-los-dedos-francisco-gonzalez-redondo--67726765</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67726765/noosfera_255.mp3"/>
-                <guid>https://www.spreaker.com/episode/noosfera-255-contar-con-los-dedos-francisco-gonzalez-redondo--67726765</guid>
+                <link>https://www.rtve.es/play/audios/documentos-rne/genio-delirio-creadores-tormenta/16737015/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16737015.mp3"/>
+                <guid>https://www.rtve.es/play/audios/documentos-rne/genio-delirio-creadores-tormenta/16737015/</guid>
                 
             </item>
         </channel>
