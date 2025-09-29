@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 26 Sep 2025 04:28:55 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 29 Sep 2025 04:30:05 +0200</lastBuildDate>
             <item>
-                <title>London café : Émission du 23 septembre</title>
-                <description>665-344668
-Feed: http://podcast.cism893.ca/radioshows/665/feed_itunes.xml</description>
+                <title>Féminicides, crimes contre une moitié du monde (2/2)</title>
+                <description>Loin d’être des anomalies ou des drames individuels perpétrés par des monstres, les féminicides et toutes les violences sexistes qui gravitent autour sont bel et bien systémiques : elles structurent nos sociétés depuis la Préhistoire. Preuve que...
+Feed: https://feeds.audiomeans.fr/feed/d9cd7538-7491-4873-b0c4-90ccba60ccf6.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/344668.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/344668.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/344668.mp3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/8523438b-988a-4a0b-ad48-fb4981aae97f.mp3?_=1758297968"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Métissages</title>
-                <description>Le mix de Otavio
-Feed: https://www.rts.ch/couleur3/programmes/metissages/podcast/?flux=rss</description>
+                <title>RadioCSIRT - Edition Spéciale du Dimanche 28 Septembre 2025 (Ép. 436)</title>
+                <description>NDR Vs EDR
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7830_715fc0df79e689d2aaf12925f9e0b427.rss</description>
                 
                 
-                <link>https://www.rts.ch/audio-podcast/2025/audio/metissages-29009596.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/a0b0f517-a992-3fd7-ac30-b4ad24357bfe/16d5bb64-7fe8-3090-a3aa-43c281127657.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2025/audio/metissages-29009596.html</guid>
+                <link>https://www.radiocsirt.org/podcast/edition-speciale-du-dimanche-28-septembre-2025-ep-436/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/7830/385561.mp3"/>
+                <guid>https://www.radiocsirt.org/podcast/edition-speciale-du-dimanche-28-septembre-2025-ep-436/</guid>
                 
             </item>
         </channel>
