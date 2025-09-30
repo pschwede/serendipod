@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 29 Sep 2025 04:30:08 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 30 Sep 2025 04:29:17 +0200</lastBuildDate>
             <item>
-                <title>Documentos RNE - La España afro, un legado oculto - 29/09/25</title>
-                <description>La España afro, un legado oculto
-Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
+                <title>&#39;Furtivos&#39;: 50 años de la película que sacudió al cine español</title>
+                <description>&#39;Furtivos&#39; (1975) es la gran obra maestra de José Luis Borau, una crónica de la España negra que sirve lo mismo como thriller que como alegoría de la ya moribunda dictadura franquista. Un análisis de la película, Se cumplen 50 años del estreno en el Festival de San Sebastián de
+Feed: https://www.ivoox.com/feed_fg_f11972327_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/documentos-rne/espana-afro-legado-oculto/16746639/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16746639.mp3"/>
-                <guid>https://www.rtve.es/play/audios/documentos-rne/espana-afro-legado-oculto/16746639/</guid>
+                <link>https://www.ivoox.com/furtivos-50-anos-pelicula-sacudio-audios-mp3_rf_158151282_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/furtivos-50-anos-pelicula-sacudio_mf_158151282_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/furtivos-50-anos-pelicula-sacudio-audios-mp3_rf_158151282_1.html</guid>
                 
             </item><item>
-                <title>Episodio 154: Detestados, con Alex @PodcastPS1CM</title>
-                <description>Hola hola gente people, bienvenidas y bienhallados seáis al Bar Bedel, vuestro Bar de confianza, vuestro Bar en formato podcast. Es un axioma totalmente comprobado que no hay nada que una más a un colectivo que un enemigo común. Y en este episodio 154 inauguramos el formato formulario para preguntar a la clientela VIP la canción y el artista (grupo o solista) que más detestan, que más odian, que no aguantan. Y nada menos que 24 clientes VIP nos han contestado...
-Feed: https://feeds.feedburner.com/BarBedel</description>
+                <title>Turbo 3 - Franz Bauer | Nova Twins | Tame Impala - 29/09/25</title>
+                <description>Franz Bauer | Nova Twins | Tame Impala
+Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/episodio-154-detestados-alex-apodcastps1cm-audios-mp3_rf_156569056_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/episodio-154-detestados-alex-apodcastps1cm_mf_156569056_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/episodio-154-detestados-alex-apodcastps1cm-audios-mp3_rf_156569056_1.html</guid>
+                <link>https://www.rtve.es/play/audios/turbo-3/franz-bauer-nova-twins-tame-impala-29-09-25/16749629/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16749629.mp3"/>
+                <guid>https://www.rtve.es/play/audios/turbo-3/franz-bauer-nova-twins-tame-impala-29-09-25/16749629/</guid>
                 
             </item>
         </channel>

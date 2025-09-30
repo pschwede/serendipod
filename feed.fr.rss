@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 29 Sep 2025 04:30:05 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 30 Sep 2025 04:29:14 +0200</lastBuildDate>
             <item>
-                <title>Féminicides, crimes contre une moitié du monde (2/2)</title>
-                <description>Loin d’être des anomalies ou des drames individuels perpétrés par des monstres, les féminicides et toutes les violences sexistes qui gravitent autour sont bel et bien systémiques : elles structurent nos sociétés depuis la Préhistoire. Preuve que...
-Feed: https://feeds.audiomeans.fr/feed/d9cd7538-7491-4873-b0c4-90ccba60ccf6.xml</description>
+                <title>Top 222 Kaorin, partie 10 ~ Present Day, Present Time (Kaorin #264)</title>
+                <description>Conclusion du top 222 ♪ Merci à vous pour ces dix années de Kaorin !
+Feed: https://kaorin.fr/podcast_kaorin.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/8523438b-988a-4a0b-ad48-fb4981aae97f.mp3?_=1758297968"/>
-                <guid></guid>
+                <link>https://kaorin.fr/podcast/kaorin-264/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/kaorin.fr/dl/Kaorin264.mp3"/>
+                <guid>https://kaorin.fr/podcast/kaorin-264/</guid>
                 
             </item><item>
-                <title>RadioCSIRT - Edition Spéciale du Dimanche 28 Septembre 2025 (Ép. 436)</title>
-                <description>NDR Vs EDR
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7830_715fc0df79e689d2aaf12925f9e0b427.rss</description>
+                <title>Pythagore a-t-il inventé le végétarisme ?</title>
+                <description>Cuisinons l&#39;histoire
+Feed: https://api.octopus.saooti.com/rss/emission/1566.rss</description>
                 
                 
-                <link>https://www.radiocsirt.org/podcast/edition-speciale-du-dimanche-28-septembre-2025-ep-436/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/7830/385561.mp3"/>
-                <guid>https://www.radiocsirt.org/podcast/edition-speciale-du-dimanche-28-septembre-2025-ep-436/</guid>
+                <link>https://octopus.saooti.com/main/pub/podcast/1747857</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.octopus.saooti.com/podcast/download/1747857.mp3?origin=rss"/>
+                <guid>https://octopus.saooti.com/main/pub/podcast/1747857</guid>
                 
             </item>
         </channel>
