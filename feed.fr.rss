@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 30 Sep 2025 04:29:14 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 Oct 2025 04:29:03 +0200</lastBuildDate>
             <item>
-                <title>Top 222 Kaorin, partie 10 ~ Present Day, Present Time (Kaorin #264)</title>
-                <description>Conclusion du top 222 ♪ Merci à vous pour ces dix années de Kaorin !
-Feed: https://kaorin.fr/podcast_kaorin.xml</description>
+                <title>à Aurec-sur-Loire | 2</title>
+                <description>à Aurec-sur-Loire | 2
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10206.xml</description>
                 
                 
-                <link>https://kaorin.fr/podcast/kaorin-264/</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/kaorin.fr/dl/Kaorin264.mp3"/>
-                <guid>https://kaorin.fr/podcast/kaorin-264/</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/le-jeu-des-1-000/le-jeu-des-1000-du-mardi-30-septembre-2025-5642868</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/55fe2d16-b21f-424b-abbe-4c53d24724eb/10206-30.09.2025-ITEMA_24263342-2025F4004S0273-NET_MFI_5329A4A8-4D44-408F-9D73-3A3202641F44-22.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-jeu-des-1-000/le-jeu-des-1000-du-mardi-30-septembre-2025-5642868</guid>
                 
             </item><item>
-                <title>Pythagore a-t-il inventé le végétarisme ?</title>
-                <description>Cuisinons l&#39;histoire
-Feed: https://api.octopus.saooti.com/rss/emission/1566.rss</description>
+                <title>Exil aux îles avec Emile Omar et Anthony Joseph</title>
+                <description>
+Un diggeur passionné des Caraïbes talonné par un poète anglo-trinidadien qui slame la mémoire des afro-descendants. (Rediffusion)
+
+Feed: https://www.rfi.fr/fr/podcasts/musiques-monde/podcast</description>
                 
                 
-                <link>https://octopus.saooti.com/main/pub/podcast/1747857</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.octopus.saooti.com/podcast/download/1747857.mp3?origin=rss"/>
-                <guid>https://octopus.saooti.com/main/pub/podcast/1747857</guid>
+                <link>https://www.rfi.fr/fr/podcasts/musiques-du-monde/20250928-exil-aux-%C3%AEles-avec-emile-omar-et-anthony-joseph?GJlXzGgqHj</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/aod-rfi.akamaized.net/rfi/francais/audio/modules/actu/202509/MUSIQUES_DU_MONDE_28-09-25_rediff_Exil_aux_iles_avec_Emile_Omar_et_9_26_2025-13.mp3?guid=49d47864-9a41-11f0-b2de-81530b87e66b&amp;source=GJlXzGgqHj"/>
+                <guid>https://www.rfi.fr/fr/podcasts/musiques-du-monde/20250928-exil-aux-%C3%AEles-avec-emile-omar-et-anthony-joseph?GJlXzGgqHj</guid>
                 
             </item>
         </channel>
