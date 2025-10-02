@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 01 Oct 2025 04:28:53 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 02 Oct 2025 04:27:39 +0200</lastBuildDate>
             <item>
-                <title>Jennifer Hsiao, MD - Don’t Miss Hidradenitis Suppurativa: Providing Timely Diagnosis and Management Using Novel Agents</title>
-                <description>Go online to PeerView.com/TZU860 to view the activity, download slides and practice aids, and complete the post-test to earn credit.
-Feed: https://c.peerview.com/podcast/xml/clinicalpharmacology_video.xml</description>
+                <title>My House is at the Maximum Level of Smart</title>
+                <description>Amazon&#39;s new hardware rollouts, the health tech we use, our favorite third-party apps, and Google&#39;s new home ecosystem.
+Feed: https://www.relay.fm/clockwise/feed</description>
                 
                 
-                <link>https://PeerView.com/TZU860</link>
-                <enclosure type="audio/mpeg" length="1" url="https://peerview.com/150209725-1TZU.m4v?ProjectNumber=150209725-1&amp;Promocode=862&amp;AudienceID=PVI"/>
-                <guid>https://PeerView.com/TZU860</guid>
+                <link>http://relay.fm/clockwise/625</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/clockwiserelay/clockwise625.mp3"/>
+                <guid>http://relay.fm/clockwise/625</guid>
                 
             </item><item>
-                <title>A Kitchen Garden, The Trossachs Explorer and 200 Years of the Modern Railway</title>
-                <description>Mark Stephen and Rachel Stewart with stories from the great outdoors.
-Feed: https://podcasts.files.bbci.co.uk/p02nrtq1.rss</description>
+                <title>ritchey - coffee n bass : cup442</title>
+                <description>Recorded 2025-09-19 14:00:06
+Feed: https://feeds.feedburner.com/ritcheydnb</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0m5bcl1</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m5bbhm.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0m5bcl1</guid>
+                <link>https://dnbradio.com/listen?mix=56596</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dnbradio.com/recordings/56596/play.mp3?download=1"/>
+                <guid>https://dnbradio.com/listen?mix=56596</guid>
                 
             </item>
         </channel>
