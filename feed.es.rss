@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 02 Oct 2025 04:27:52 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 03 Oct 2025 04:28:24 +0200</lastBuildDate>
             <item>
-                <title>Sateli 3 - This is Funky Jazz / This is The Breaks (BGP/Ace, 2024-25) - 01/10/25</title>
-                <description>This is Funky Jazz / This is The Breaks (BGP/Ace, 2024-25)
-Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
+                <title>El resurgir de los falsos autónomos</title>
+                <description>El resurgir de los falsos autónomos
+Feed: https://www.rtve.es/api/programas/1000671/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sateli-3/this-is-funky-jazz-this-is-breaks-bgp-ace-2024-25-01-10-25/16751403/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16751403.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sateli-3/this-is-funky-jazz-this-is-breaks-bgp-ace-2024-25-01-10-25/16751403/</guid>
+                <link>https://www.rtve.es/play/audios/fin-de-mes/resurgir-falsos-autonomos/16754622/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16754622.mp3"/>
+                <guid>https://www.rtve.es/play/audios/fin-de-mes/resurgir-falsos-autonomos/16754622/</guid>
                 
             </item><item>
-                <title>Un universo simulado para la misión Euclid. Hablamos con Pablo Fosalba.</title>
-                <description>El universo que vemos, las estrellas, planetas y galaxias representa solo un 5% de todo lo que existe. El resto está formado por materia y energía oscuras, componentes misteriosos que los científicos intentan comprender. Para enfrentarse a este reto, el consorcio que agrupa a centenares de investigadores alrededor de la misión espacial Euclid de la Agencia Espacial Europea ha creado el mayor catálogo de galaxias simuladas de la historia: 3...
-Feed: https://feeds.feedburner.com/HablandoConCientficos</description>
+                <title>Podcast dedicado a Arsenio Rodríguez</title>
+                <description>Ignacio de Loyola Rodríguez Scull, conocido como Arsenio Rodríguez (Güira de Macurijes, Matanzas, Cuba, 30 de agosto de 1911 - Los Ángeles, California, Estados Unidos, 31 de diciembre de 1970) fue un compositor e intérprete de tres cubano con un importante papel en el desarrollo del llamado son montuno.  Su formación de conjunto con varias trompetas, definió un sonido que, visto en perspectiva, sentó las bases para el desarrollo de lo que hoy se conoce como salsa...
+Feed: https://eiberoamerica.com/feed/platicando.xml</description>
                 
                 
-                <link>http://cienciaes.com/entrevistas/2025/09/28/univ_euclid/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/cienciaes/hc_532_euclid.mp3"/>
-                <guid>http://cienciaes.com/entrevistas/2025/09/28/univ_euclid/</guid>
+                <link>http://eiberoamerica.com/podcast/platicando/0868_ArsenioRodriguez.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0868_ArsenioRodriguez.mp3"/>
+                <guid>http://eiberoamerica.com/podcast/platicando/0868_ArsenioRodriguez.mp3</guid>
                 
             </item>
         </channel>

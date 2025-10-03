@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 02 Oct 2025 04:27:47 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 03 Oct 2025 04:28:20 +0200</lastBuildDate>
             <item>
-                <title>Ep 105 Romeo Oh, créateur coréen de OhTop</title>
-                <description>
- 
- - Soutenir Tatousenti :· Faire un don pour soutenir et encourager Tatousenti à continuer, cliquez i...
-Feed: https://feeds.audiomeans.fr/feed/668b6919-1acc-45b7-a38e-08f6be8e9878.xml</description>
+                <title>Se développer avec un label d&#39;artiste, avec Odalie (part 1)</title>
+                <description>&lt;p&gt;Signer en label, c&#39;est bien, mais est-ce que signer dans un label monté par un-e artiste, c&#39;est mieux? On tente de répondre à cette question dans un épisode en deux parties – la première se voit inaugurée avec Odalie qui a signé en licence sur le label MESH, fondé par Max Cooper.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Signer en licence signifie avoir la charge de la production de ses disques, et déléguer la promotion et la distribution à un label...
+Feed: https://feeds.acast.com/public/shows/66c34af3a294c7a6627f2bb5</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/49033e61-ed15-49a6-a2f1-9c2b7be752df.mp3?_=1757522864"/>
-                <guid></guid>
+                <link>https://shows.acast.com/parcoursdindes/episodes/68c12e980fa00b5817d94fcd</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/66c34af3a294c7a6627f2bb5/e/68c12e980fa00b5817d94fcd/media.mp3"/>
+                <guid>https://shows.acast.com/parcoursdindes/episodes/68c12e980fa00b5817d94fcd</guid>
                 
             </item><item>
-                <title>On sème FORT ! - Biocontrôle, biostimulants, produits &#34;phyto&#34; bio, vraiment inoffensifs ? - Emission du 26 septembre</title>
-                <description>
-Au programme de cette émission :
-Repiquages et bouturages au programme pour nos amis jardiniers.
-Attention, après les fortes pluies, attendez un peu avant d&#39;aller au jardin...
-Puis nous répondrons à toutes les questions que vous nous avez envoyé sur o...
-Feed: https://feed.ausha.co/oRdQLT4qD569</description>
+                <title>Opération spéciale d&#39;Hyperdrive au Star&#39;s Up 2025 !</title>
+                <description>Programme dans la description !
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/1834_1e7e6c5baea3577304717f426bc38a97.rss</description>
                 
                 
-                <link>https://podcast.ausha.co/monjardinbio-podcast-jardinage-bio/on-seme-fort-biocontrole-biostimulants-produits-phyto-bio-vraiment-inoffensifs-emission-du-26-septembre</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/BQQJOf9Ll1Yr.mp3?t=1758829831"/>
-                <guid>https://podcast.ausha.co/monjardinbio-podcast-jardinage-bio/on-seme-fort-biocontrole-biostimulants-produits-phyto-bio-vraiment-inoffensifs-emission-du-26-septembre</guid>
+                <link>https://starsupfestival.fr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/1834/385978.mp3"/>
+                <guid>https://starsupfestival.fr/</guid>
                 
             </item>
         </channel>
