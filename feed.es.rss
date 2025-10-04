@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 03 Oct 2025 04:28:24 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 04 Oct 2025 04:27:36 +0200</lastBuildDate>
             <item>
-                <title>El resurgir de los falsos autónomos</title>
-                <description>El resurgir de los falsos autónomos
-Feed: https://www.rtve.es/api/programas/1000671/audios.rss</description>
+                <title>No necesitaba saber esto - El fin del mundo y la IA - 30/09/25</title>
+                <description>El fin del mundo y la IA
+Feed: http://www.rtve.es/api/programas/134678/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/fin-de-mes/resurgir-falsos-autonomos/16754622/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16754622.mp3"/>
-                <guid>https://www.rtve.es/play/audios/fin-de-mes/resurgir-falsos-autonomos/16754622/</guid>
+                <link>https://www.rtve.es/play/audios/no-necesitaba-saber-esto/no-necesitaba-saber-esto-fin-del-mundo-ia-30-09-25/16748386/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16748386.mp3"/>
+                <guid>https://www.rtve.es/play/audios/no-necesitaba-saber-esto/no-necesitaba-saber-esto-fin-del-mundo-ia-30-09-25/16748386/</guid>
                 
             </item><item>
-                <title>Podcast dedicado a Arsenio Rodríguez</title>
-                <description>Ignacio de Loyola Rodríguez Scull, conocido como Arsenio Rodríguez (Güira de Macurijes, Matanzas, Cuba, 30 de agosto de 1911 - Los Ángeles, California, Estados Unidos, 31 de diciembre de 1970) fue un compositor e intérprete de tres cubano con un importante papel en el desarrollo del llamado son montuno.  Su formación de conjunto con varias trompetas, definió un sonido que, visto en perspectiva, sentó las bases para el desarrollo de lo que hoy se conoce como salsa...
-Feed: https://eiberoamerica.com/feed/platicando.xml</description>
+                <title>Viernes, 10 de octubre</title>
+                <description>Lc 11, 15-26
+Feed: https://rezandovoy.org/podcast</description>
                 
                 
-                <link>http://eiberoamerica.com/podcast/platicando/0868_ArsenioRodriguez.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0868_ArsenioRodriguez.mp3"/>
-                <guid>http://eiberoamerica.com/podcast/platicando/0868_ArsenioRodriguez.mp3</guid>
+                <link>https://rezandovoy.org/reproductor/2025-10-10</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rezando.es/public/rezandovoy/oraciones/5963/o.mp3"/>
+                <guid>https://rezandovoy.org/reproductor/2025-10-10</guid>
                 
             </item>
         </channel>

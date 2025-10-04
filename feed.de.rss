@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 03 Oct 2025 04:28:15 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 04 Oct 2025 04:27:27 +0200</lastBuildDate>
             <item>
-                <title>&#34;Der Barmann des Ritz&#34; von Philippe Collin</title>
-                <description>Für Ernest Hemingway war es das Paradies: das Pariser Hotel Ritz. Hier erfüllt man seit der Eröffnung 1898 jeden Wunsch.
-Feed: https://www1.wdr.de/mediathek/audio/wdr4/wdr4-buecher/wdr4-buecher-100.podcast</description>
+                <title>In Christus neu geboren</title>
+                <description>Taufgottesdienst
+Feed: https://lebensbrot.podcaster.de/predigten-und-mehr.rss</description>
                 
                 
-                <link>https://www1.wdr.de/mediathek/audio/wdr4/wdr4-buecher/audio-der-barmann-des-ritz-von-philippe-collin-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/336/3366480/3366480_64144651.mp3"/>
-                <guid>https://www1.wdr.de/mediathek/audio/wdr4/wdr4-buecher/audio-der-barmann-des-ritz-von-philippe-collin-100.html</guid>
+                <link>http://lebensbrot.de</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lebensbrot.podcaster.de/predigten-und-mehr/media/In_Christus_neu_geboren.m4a"/>
+                <guid>http://lebensbrot.de</guid>
                 
             </item><item>
-                <title>Dieses Bedürfnis beschränkt jeden 2ten von uns! &#34;Marketing, Mindset &amp; More&#34; - EPISODE 224</title>
-                <description>&lt;p&gt;Wieso werden Top-Mitarbeitende zu bremsenden Nervensägen? Weshalb hält das ständige Lästern hinter dem Rücken an? Warum tun meine Praxis Mitarbeitenden einfach nicht das, was ich will? Dieses Problem kennen wir aus der Denta 1 Clinic nur zu gut. Was wir getan haben? Vieles - Doch die besten 3 Tipps, gebe ich dir heute mit!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;➡️ Hier geht&amp;#39;s zu unserer brandneuen Academy: https://lp.denta1-academy...
-Feed: https://anchor.fm/s/ff742354/podcast/rss</description>
+                <title>Das NDR 2 Update um 12</title>
+                <description>In Saarbrücken startet in ein paar Minuten die zentrale Feier zum Tag der deutschen Einheit ++ Nach der Drohnensichtung über dem Münchner Flughafen - läuft der Betrieb dort wieder
+Feed: http://www.ndr.de/podcast/podcast2974.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/denta-1-media/episodes/Dieses-Bedrfnis-beschrnkt-jeden-2ten-von-uns--Marketing--Mindset--More---EPISODE-224-e38l1si</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/ff742354/podcast/play/108741970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-24%2F408051167-44100-2-145838e39eae7.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/denta-1-media/episodes/Dieses-Bedrfnis-beschrnkt-jeden-2ten-von-uns--Marketing--Mindset--More---EPISODE-224-e38l1si</guid>
+                <link>https://www.ndr.de/ndr2/programm/das-ndr-2-update-um-12,audio-298318.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2025/1003/AU-20251003-1212-0300.mp3"/>
+                <guid>https://www.ndr.de/ndr2/programm/das-ndr-2-update-um-12,audio-298318.html</guid>
                 
             </item>
         </channel>
