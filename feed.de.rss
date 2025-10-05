@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 04 Oct 2025 04:27:27 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 Oct 2025 04:26:41 +0200</lastBuildDate>
             <item>
-                <title>In Christus neu geboren</title>
-                <description>Taufgottesdienst
-Feed: https://lebensbrot.podcaster.de/predigten-und-mehr.rss</description>
+                <title>Eine Familie – verschiedene Kulturen Álvaro Soler</title>
+                <description>Der Vater Deutscher, die Mutter Spanisch-Belgisch, eine Kindheit in Spanien und Japan… Der international bekannte Sänger Àlvaro Soler kann nicht nur ein Lied über multikulturelles Familienleben singen. Mit Christine spricht er über Kulturchlashs innerhalb der eigenen vier Wände, für die man nicht einmal mehrere Nationalitäten braucht, und erzählt, wie er als frischgebackener Papa mit den verschiedenen Kulturen umgeht, die zuhause aufeinandertreffen...
+Feed: https://proxyfeed.svmaudio.com/aa/elterngespraech</description>
                 
                 
-                <link>http://lebensbrot.de</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lebensbrot.podcaster.de/predigten-und-mehr/media/In_Christus_neu_geboren.m4a"/>
-                <guid>http://lebensbrot.de</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://elterngespraech.cdn.svmaudio.com/episodes/2085d044-702b-4dde-b4f7-daccab15656e.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Das NDR 2 Update um 12</title>
-                <description>In Saarbrücken startet in ein paar Minuten die zentrale Feier zum Tag der deutschen Einheit ++ Nach der Drohnensichtung über dem Münchner Flughafen - läuft der Betrieb dort wieder
-Feed: http://www.ndr.de/podcast/podcast2974.xml</description>
+                <title>Christus - der Spross (Sach 3,8; 6,12.13)</title>
+                <description>&lt;p&gt;Der Herr Jesus ist der wahre Spross - der Knecht und zugleich der Mensch Jesus. Als solcher wird Er als Priester auf dem Thron sitzen, um in Herrlichkeit zu regieren. Wir d&amp;uuml;rfen sogar dabei sein ...&lt;/p&gt;
+Feed: https://www.bibelpraxis.de/podcasts/bibelexegese.xml</description>
                 
                 
-                <link>https://www.ndr.de/ndr2/programm/das-ndr-2-update-um-12,audio-298318.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2025/1003/AU-20251003-1212-0300.mp3"/>
-                <guid>https://www.ndr.de/ndr2/programm/das-ndr-2-update-um-12,audio-298318.html</guid>
+                <link>https://www.bibelpraxis.de/a9096.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.bibelpraxis.de/stream/audio/9096.mp3"/>
+                <guid>https://www.bibelpraxis.de/a9096.html</guid>
                 
             </item>
         </channel>

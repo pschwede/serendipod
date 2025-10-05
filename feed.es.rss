@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 04 Oct 2025 04:27:36 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 05 Oct 2025 04:26:50 +0200</lastBuildDate>
             <item>
-                <title>No necesitaba saber esto - El fin del mundo y la IA - 30/09/25</title>
-                <description>El fin del mundo y la IA
-Feed: http://www.rtve.es/api/programas/134678/audios.rss</description>
+                <title>Frontera - 28/09/25</title>
+                <description>Frontera - 28/09/25
+Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/no-necesitaba-saber-esto/no-necesitaba-saber-esto-fin-del-mundo-ia-30-09-25/16748386/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16748386.mp3"/>
-                <guid>https://www.rtve.es/play/audios/no-necesitaba-saber-esto/no-necesitaba-saber-esto-fin-del-mundo-ia-30-09-25/16748386/</guid>
+                <link>https://www.rtve.es/play/audios/frontera/28-09-25/16747305/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16747305.mp3"/>
+                <guid>https://www.rtve.es/play/audios/frontera/28-09-25/16747305/</guid>
                 
             </item><item>
-                <title>Viernes, 10 de octubre</title>
-                <description>Lc 11, 15-26
-Feed: https://rezandovoy.org/podcast</description>
+                <title>¿El duelo entre Chivas y Pumas será un punto de inflexión para ambos?</title>
+                <description>Miguel Briseño, Desireé Monsiváis, Adriana Maldonado y Dionisio Estrada debtaten previo al arranque de la Jornada 12 del futbol mexicano. 
+Learn more about your ad choices. Visit podcastchoices.com/adchoices
+Feed: https://feeds.megaphone.fm/ESP7136457638</description>
                 
                 
-                <link>https://rezandovoy.org/reproductor/2025-10-10</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rezando.es/public/rezandovoy/oraciones/5963/o.mp3"/>
-                <guid>https://rezandovoy.org/reproductor/2025-10-10</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2988519442.mp3?updated=1727809678"/>
+                <guid></guid>
                 
             </item>
         </channel>
