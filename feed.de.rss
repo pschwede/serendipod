@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 05 Oct 2025 04:26:41 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 06 Oct 2025 04:28:27 +0200</lastBuildDate>
             <item>
-                <title>Eine Familie – verschiedene Kulturen Álvaro Soler</title>
-                <description>Der Vater Deutscher, die Mutter Spanisch-Belgisch, eine Kindheit in Spanien und Japan… Der international bekannte Sänger Àlvaro Soler kann nicht nur ein Lied über multikulturelles Familienleben singen. Mit Christine spricht er über Kulturchlashs innerhalb der eigenen vier Wände, für die man nicht einmal mehrere Nationalitäten braucht, und erzählt, wie er als frischgebackener Papa mit den verschiedenen Kulturen umgeht, die zuhause aufeinandertreffen...
-Feed: https://proxyfeed.svmaudio.com/aa/elterngespraech</description>
+                <title>Anti-Aging von innen: Was, wenn Altern kein Zufall ist?</title>
+                <description>Ist Altern wirklich nur eine Frage der Gene – oder haben wir es doch selbst in der Hand, wie schnell unsere Zellen altern? In dieser Folge erfährst du, wie Altern auf Zellebene wirklich abläuft, welchen Einfluss dein Lebensstil darauf hat und wie du deinen Alltag ganz einfach “zellfreundlicher” gestalten kannst.
+Feed: https://vitamoment-podcast.podigee.io/feed/mp3</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://elterngespraech.cdn.svmaudio.com/episodes/2085d044-702b-4dde-b4f7-daccab15656e.mp3"/>
-                <guid></guid>
+                <link>https://vitamoment-podcast.podigee.io/270-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2014920-m-3d29b277e7d847dc55b9bd9bd06df4aa.mp3?source=feed"/>
+                <guid>https://vitamoment-podcast.podigee.io/270-neue-episode</guid>
                 
             </item><item>
-                <title>Christus - der Spross (Sach 3,8; 6,12.13)</title>
-                <description>&lt;p&gt;Der Herr Jesus ist der wahre Spross - der Knecht und zugleich der Mensch Jesus. Als solcher wird Er als Priester auf dem Thron sitzen, um in Herrlichkeit zu regieren. Wir d&amp;uuml;rfen sogar dabei sein ...&lt;/p&gt;
-Feed: https://www.bibelpraxis.de/podcasts/bibelexegese.xml</description>
+                <title>Guten Morgen, Gisèle Pelicot!</title>
+                <description>Herzlich Willkonmen in einer neuen Woche mit Ab17!&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/666b02fe6312350012f9ce18</description>
                 
                 
-                <link>https://www.bibelpraxis.de/a9096.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.bibelpraxis.de/stream/audio/9096.mp3"/>
-                <guid>https://www.bibelpraxis.de/a9096.html</guid>
+                <link>https://shows.acast.com/kathrin-und-tommy/episodes/guten-morgen-gisele-pelicot</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/666b02fe6312350012f9ce18/e/68e2bb8d8ade82e20e1a7b8b/media.mp3"/>
+                <guid>https://shows.acast.com/kathrin-und-tommy/episodes/guten-morgen-gisele-pelicot</guid>
                 
             </item>
         </channel>
