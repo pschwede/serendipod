@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 06 Oct 2025 04:28:30 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 07 Oct 2025 04:29:17 +0200</lastBuildDate>
             <item>
-                <title>#241 - Maintenance et soin des choses avec Jérôme Denis - Directeur du Centre de sociologie de l&#39;innovation (Mines Paris PSL)</title>
-                <description>Après le prisme du « temps-paysage » avec la philosophe Bernadette Bensaude Vincent (épisode 240), nous voilà parti au cœur d’un autre double prisme passionnant : celui d...
-Feed: https://feeds.audiomeans.fr/feed/02370dad-ef66-4252-9a2b-e3661bd93b5f.xml</description>
+                <title>Mix Franco : Mix franco 6 oct 2025</title>
+                <description>785-345477
+Feed: http://podcast.cism893.ca/radioshows/785/feed_itunes.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/45956f75-15ce-406e-bd37-6de614413aa6.mp3?_=1759313302"/>
-                <guid></guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/345477.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/345477.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/345477.mp3</guid>
                 
             </item><item>
-                <title>Fabienne Lecoanet et la Parole qui coud sa vie</title>
-                <description>Fabienne Lecoanet est membre de la Paroisse Protestante Unie en Bresse Bugey Dombes, dont elle fut présidente du conseil presbytéral. La lecture de la Bible l&#39;accompagne depuis son enfance par ses parents et grands-parents, des années marquées par le psaume 23 &#34;...
-Feed: https://feeds.audiomeans.fr/feed/af6b50f8-2a22-4511-9afd-fd1339caa7be.xml</description>
+                <title>Dominique A, de l&#39;avant-garde au classicisme</title>
+                <description>Dominique A, de l&#39;avant-garde au classicisme
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11454.xml</description>
                 
                 
-                <link>https://rcf.fr/vie-spirituelle/eglises-en-marche?episode=618104</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/37b1f3d9-c6e7-4135-ab8c-b2952f73ff97.mp3?_=1759234581"/>
-                <guid>https://rcf.fr/vie-spirituelle/eglises-en-marche?episode=618104</guid>
+                <link>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu/dominique-a-de-l-avant-garde-au-classicisme-6661624</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/6bc8afce-eaf9-429e-abb9-53d34d45a7f2/11454-05.10.2025-ITEMA_24268804-2025I24148S0278-NET_MFO_F439A5B7-340B-433F-A824-2E88EEB643BC-21.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu/dominique-a-de-l-avant-garde-au-classicisme-6661624</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 06 Oct 2025 04:28:46 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 07 Oct 2025 04:29:35 +0200</lastBuildDate>
             <item>
-                <title>Game of the Century Watch Begins!</title>
-                <description>Halo 2, GTA San Andreas, Half-Life 2, Metroid Prime, and more. It&#39;s Game of the Century Watch!
-Feed: https://feeds.megaphone.fm/gamescoop</description>
+                <title>Kaitlyn Bernard on Playing Rachel Jeffs in Surviving My Father</title>
+                <description>Kaitlyn Bernard joins Pop Culture Unplugged to discuss her powerful performance as Rachel Jeffs in Lifetime’s Surviving My Father: The Rachel Jeffs Story.
+Based on Rachel Jeffs’ real-life memoir Breaking Free, the film follows her courageous escape from the control of her father, convicted cult leader Warren Jeffs...
+Feed: https://feed.podbean.com/popcultureunplugged/feed.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/495/chrt.fm/track/FGADCC/pscrb.fm/rss/p/tracking.swap.fm/track/bwUd3PHC9DH3VTlBXDTt/traffic.megaphone.fm/SBP4818523613.mp3?updated=1759351265"/>
-                <guid></guid>
+                <link>https://popcultureunplugged.podbean.com/e/kaitlyn-bernard-on-playing-rachel-jeffs-in-surviving-my-father/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/mvgq4v8pgcb5b93n/kaitlyn_bernand_podcast85mes.mp3"/>
+                <guid>https://popcultureunplugged.podbean.com/e/kaitlyn-bernard-on-playing-rachel-jeffs-in-surviving-my-father/</guid>
                 
             </item><item>
-                <title>Mohammad AZ Al-Ani, MD, FACC, FSCMR - Moving HCM Excellence Into the Fast Lane: Harnessing Technology to Reconfigure Clinical Workflows in an Academic Medical Center</title>
-                <description>Go online to PeerView.com/XBK860 to view the activity, download slides and practice aids, and complete the post-test to earn credit.
-Feed: https://c.peerview.com/podcast/xml/primarycare_video.xml</description>
+                <title>Flightcast Launches, 8/10 Spaniards Listen to Podcasts, &amp; More</title>
+                <description>Today in the business of podcasting: Flightcast debuts, ICE ads appearing more places that one wouldn&#39;t expect, PodcastOne&#39;s fiscal Q2 report is live, 8 out of 10 people in Spain listen to podcasts regularly, and what videos AI search engines seem to...
+Feed: https://www.spreaker.com/show/6060119/episodes/feed</description>
                 
                 
-                <link>https://PeerView.com/XBK860</link>
-                <enclosure type="audio/mpeg" length="1" url="https://peerview.com/150209198XBK.m4v?ProjectNumber=150209198&amp;Promocode=862&amp;AudienceID=PVI"/>
-                <guid>https://PeerView.com/XBK860</guid>
+                <link>https://www.spreaker.com/episode/flightcast-launches-8-10-spaniards-listen-to-podcasts-more--68035531</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/68035531/25_10_06_download_daily.mp3"/>
+                <guid>https://www.spreaker.com/episode/flightcast-launches-8-10-spaniards-listen-to-podcasts-more--68035531</guid>
                 
             </item>
         </channel>
