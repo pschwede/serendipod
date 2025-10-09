@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 07 Oct 2025 04:29:17 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 09 Oct 2025 04:29:29 +0200</lastBuildDate>
             <item>
-                <title>Mix Franco : Mix franco 6 oct 2025</title>
-                <description>785-345477
-Feed: http://podcast.cism893.ca/radioshows/785/feed_itunes.xml</description>
+                <title>Quels sont les effets de la solitude sur le cerveau ?</title>
+                <description>Être seul pour recharger sa batterie sociale, ça peut faire du bien, surtout que nous n&#39;avons pas tous le même rapport aux contacts sociaux. 
+Mais à trop forte dose, la solitude aurait un impact négatif sur notre cerveau. Ce qui entraîne souvent une baisse de la motivation et de l’humeur. 
+Quand la solitude devient chronique, quelles en sont les conséquences ? Comment expliquer la solitude ?
+Un podcast Bababam Originals écrit et réalisé par Fanny Sauveplane...
+Feed: https://feeds.megaphone.fm/BABA2900401712</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/345477.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/345477.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/345477.mp3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA9633644545.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Dominique A, de l&#39;avant-garde au classicisme</title>
-                <description>Dominique A, de l&#39;avant-garde au classicisme
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11454.xml</description>
+                <title>Exoplanètes : 30 ans d&#39;une révolution scientifique</title>
+                <description>Exoplanètes : 30 ans d&#39;une révolution scientifique
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10212.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu/dominique-a-de-l-avant-garde-au-classicisme-6661624</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/6bc8afce-eaf9-429e-abb9-53d34d45a7f2/11454-05.10.2025-ITEMA_24268804-2025I24148S0278-NET_MFO_F439A5B7-340B-433F-A824-2E88EEB643BC-21.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinfo/podcasts/ces-chansons-qui-font-l-actu/dominique-a-de-l-avant-garde-au-classicisme-6661624</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-mercredi-08-octobre-2025-7949876</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/93737edf-635a-4c7d-a3d9-b56b99796011/10212-08.10.2025-ITEMA_24271994-2025F10732S0281-NET_MFI_3F63A64C-13A9-4071-BB2F-BB5EE4B7A73E-22-764dedea5629abae9f904f7dc0715fca.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-mercredi-08-octobre-2025-7949876</guid>
                 
             </item>
         </channel>

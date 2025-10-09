@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 07 Oct 2025 04:29:11 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 09 Oct 2025 04:29:24 +0200</lastBuildDate>
             <item>
-                <title>Wallfahrtsort Mariahilf</title>
-                <description>Ref.: P. Martin Villagran IVE, Wallfahrtsrektor, Neumarkt in der Oberpfalz
-Feed: http://www.horeb.org/xyz/podcast/spiri/spiritualitaet.xml</description>
+                <title>Die Kunst, die richtigen Fragen zu stellen – Im Gespräch mit Karin Kuschik (Folge 551)</title>
+                <description>   Heute ist Karin Kuschik zu Gast. Karin ist eine wirkliche Welt-Bestsellerautorin und Senkrechtstarterin in der Caoching-Branche. Ihr Buch „50 Sätze, die das Leben leichter machen“ steht seit Jahren auf der Bestsellerliste, wurde in...
+Feed: https://christianbischoff.libsyn.com/rss</description>
                 
                 
-                <link>https://www.horeb.org/xyz/podcast/spiri/20251006sp.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.horeb.org/xyz/podcast/spiri/20251006sp.mp3"/>
-                <guid>https://www.horeb.org/xyz/podcast/spiri/20251006sp.mp3</guid>
+                <link>https://christianbischoff.libsyn.com/die-kunst-die-richtigen-fragen-zu-stellen-im-gesprch-mit-karin-kuschik-folge-551</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/christianbischoff/Die_Kunst_die_richtigen_Fragen_zu_stellen.mp3?dest-id=376245"/>
+                <guid>https://christianbischoff.libsyn.com/die-kunst-die-richtigen-fragen-zu-stellen-im-gesprch-mit-karin-kuschik-folge-551</guid>
                 
             </item><item>
-                <title>Was kannst du eigentlich alles für Instrumente spielen?</title>
-                <description>Es fing, wie so oft, ganz harmlos an: „Ich wollte nur mal kurz gucken, wie unser beliebtes KI-Intro klingen würde, wenn es echte Musiker spielen.“ Zwei Klicks später war Teddy in einem YouTube-Tutorial über orchestrale Sample-Libraries gefangen und wusste: Jetzt gibt’s kein Zurück mehr.
-Tage, Nächte, Tabs. Er las sich durch Foren, in denen Leute über Instrumente diskutierten, als wären es Weinnoten. Er lernte, dass ein echtes Orchester aus 60 Menschen besteht – oder aus 40 Gigabyte Strings...
-Feed: https://www.esel-und-teddy.de/feed/mp3/</description>
+                <title>Episode 214 - Die 10 Gebote der Agenten-Ökonomie: Wunschdenken oder Wegweiser?</title>
+                <description>Send us a text Sigurd Schacht und Carsten Lanquillon nehmen das Paper &#34;Ten Principles of AI Agent Economics&#34; kritisch unter die Lupe. Sind KI-Agenten wirklich dabei, unsere Wirtschaft und Gesellschaft grundlegend zu verändern? Die beiden Hosts diskutieren, wie Agenten Entscheidungen treffen, welche gesellschaftlichen Auswirkungen drohen und warum das wichtigste Prinzip – AI Alignment – zwar richtig, aber viel zu allgemein formuliert ist. Eine spannende Episode über notwendige Regulierung und ...
+Feed: https://feeds.buzzsprout.com/1687822.rss</description>
                 
                 
-                <link>https://www.esel-und-teddy.de/2025/10/06/was-kannst-du-eigentlich-alles-fuer-instrumente-spielen/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.esel-und-teddy.de/podlove/file/3107/s/feed/c/mp3/2025-10-06-eut797-was-kannst-du-eigentlich-alles-fuer-instrumente-spielen.mp3"/>
-                <guid>https://www.esel-und-teddy.de/2025/10/06/was-kannst-du-eigentlich-alles-fuer-instrumente-spielen/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1687822/episodes/17958334-episode-214-die-10-gebote-der-agenten-okonomie-wunschdenken-oder-wegweiser.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
