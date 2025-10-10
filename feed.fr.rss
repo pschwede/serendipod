@@ -9,29 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 09 Oct 2025 04:29:29 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 10 Oct 2025 04:29:03 +0200</lastBuildDate>
             <item>
-                <title>Quels sont les effets de la solitude sur le cerveau ?</title>
-                <description>Être seul pour recharger sa batterie sociale, ça peut faire du bien, surtout que nous n&#39;avons pas tous le même rapport aux contacts sociaux. 
-Mais à trop forte dose, la solitude aurait un impact négatif sur notre cerveau. Ce qui entraîne souvent une baisse de la motivation et de l’humeur. 
-Quand la solitude devient chronique, quelles en sont les conséquences ? Comment expliquer la solitude ?
-Un podcast Bababam Originals écrit et réalisé par Fanny Sauveplane...
-Feed: https://feeds.megaphone.fm/BABA2900401712</description>
+                <title>Votre jardin</title>
+                <description>Votre jardin
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA9633644545.mp3"/>
-                <guid></guid>
+                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/5f6874ca-414f-49d4-9fcd-2aba5492fd80/15376-04.10.2025-ITEMA_24268390-2025B20690S0277-NET_2BA_D63AF026-EA10-4757-BE1A-54BCC845537C-21.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
                 
             </item><item>
-                <title>Exoplanètes : 30 ans d&#39;une révolution scientifique</title>
-                <description>Exoplanètes : 30 ans d&#39;une révolution scientifique
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10212.xml</description>
+                <title>Meditation quotidienne du 9 octobre 2023 avec la soeur Archer</title>
+                <description>&lt;p&gt;Meditation quotidienne du 9 octobre 2023 avec la soeur Archer&lt;/p&gt;
+
+Feed: https://anchor.fm/s/85922a4/podcast/rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-mercredi-08-octobre-2025-7949876</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/93737edf-635a-4c7d-a3d9-b56b99796011/10212-08.10.2025-ITEMA_24271994-2025F10732S0281-NET_MFI_3F63A64C-13A9-4071-BB2F-BB5EE4B7A73E-22-764dedea5629abae9f904f7dc0715fca.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-mercredi-08-octobre-2025-7949876</guid>
+                <link>https://podcasters.spotify.com/pod/show/radioadventistebethanie/episodes/Meditation-quotidienne-du-9-octobre-2023-avec-la-soeur-Archer-e39a2h8</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/85922a4/podcast/play/109430760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-9%2F408945676-44100-2-bd9b64e8263dc.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/radioadventistebethanie/episodes/Meditation-quotidienne-du-9-octobre-2023-avec-la-soeur-Archer-e39a2h8</guid>
                 
             </item>
         </channel>

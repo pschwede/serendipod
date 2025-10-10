@@ -9,26 +9,41 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 09 Oct 2025 04:29:34 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 10 Oct 2025 04:29:07 +0200</lastBuildDate>
             <item>
-                <title>Viñetas y bocadillos - Nacho Fernández &#34;Dragon Fall Returns&#34; - 06/10/25</title>
-                <description>Nacho Fernández &#34;Dragon Fall Returns&#34;
-Feed: http://api.rtve.es/api/programas/1946/audios.rss</description>
+                <title>Ep527_B: Premios Nobel; Escutoides; Encélado</title>
+                <description>La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Escutoides: la forma de las células de los epitelios curvados (00:00)
+-Premio Nobel de Fïsica (45:00)
+-Las moléculas orgánicas en los chorros de Encelado (1:12:40)
+-Premio Nobel de Química (1:24:40)
+-Señales de los Oyentes (1:53:40)
+Este episodio es continuación de la Cara A.
+Contertulios: Francis Villatoro, Juan Carlos, Gastón Giribet, Borja Tosar...
+Feed: https://www.ivoox.com/feed_fg_f1172891_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-nacho-fernandez-dragon-fall-returns-06-10-25/16749964/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16749964.mp3"/>
-                <guid>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-nacho-fernandez-dragon-fall-returns-06-10-25/16749964/</guid>
+                <link>https://www.ivoox.com/ep527-b-premios-nobel-escutoides-encelado-audios-mp3_rf_160441550_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/ep527-b-premios-nobel-escutoides-encelado_mf_160441550_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/ep527-b-premios-nobel-escutoides-encelado-audios-mp3_rf_160441550_1.html</guid>
                 
             </item><item>
-                <title>Como lo oyes - Javier Vargas, Blues Panibérico - 05/10/25</title>
-                <description>Javier Vargas, Blues Panibérico
-Feed: http://api.rtve.es/api/programas/22290/audios.rss</description>
+                <title>Historias del Más Acá 240 - Camioneta VS Guardia Nacional</title>
+                <description>Notas Macabrosas
+- Realizan supuesto ritual satánico en Playa Miramar
+- Empleada de Ecología en Ciudad Juárez es atacada por abejas
+- Se incendia parque Chamizal por culpa de pirotecnia en Ciudad Juárez
+- Hombre muere en pelea durante Biker Fest en Ciudad Juárez 
+- Conductor de Suburban se lleva de “corbata” a Guardia Nacional en cruce internacional en Ciudad Juárez
+- Un joven brasileño de 21 años pasó cuatro días de fiesta con una bala alojada en la cabeza 
+- Influencer arrestado por tener...
+Feed: https://feeds.simplecast.com/TjkG2gz_</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/como-lo-oyes/javier-vargas-blues-paniberico-05-10-25/16757551/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16757551.mp3"/>
-                <guid>https://www.rtve.es/play/audios/como-lo-oyes/javier-vargas-blues-paniberico-05-10-25/16757551/</guid>
+                <link>https://leyendaslegendarias.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/4BC23E/dts.podtrac.com/redirect.mp3/sonoro.simplecastaudio.com/dbec5f4b-b96f-4769-985b-443ac21ea0a8/episodes/4bc39b62-e21a-41cf-a219-1c9af98e606c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=dbec5f4b-b96f-4769-985b-443ac21ea0a8&amp;awEpisodeId=4bc39b62-e21a-41cf-a219-1c9af98e606c&amp;feed=TjkG2gz_"/>
+                <guid>https://leyendaslegendarias.com/</guid>
                 
             </item>
         </channel>

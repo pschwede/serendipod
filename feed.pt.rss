@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 09 Oct 2025 04:29:38 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 10 Oct 2025 04:29:11 +0200</lastBuildDate>
             <item>
-                <title>Tokucast #283 – O Trem Bala (1975)</title>
-                <description>Você conhece o filme, que tem tokusatsu envolvido, e que inspirou produções de ação no mundo todo e antecipou até ideias que Hollywood usaria anos depois? O Tokucast de hoje mergulha em Shinkansen Daibakuha (新幹線大爆破),
-Feed: https://feeds.feedburner.com/tkbrtokucast</description>
+                <title>Longa Vida a Digi Ping</title>
+                <description>Na semana que passou o Diogo andou a arrumar tudo em caixotes e aumentou o PIB Chinês em 127%! Toda a Glória ao Celestial Comprador de Electrónica dos Povos! E num verdadeiro Pro-Dígio de velocidade, brincou com RJ45, sfp+, OpenWRT e demais jigajogas para espremer 10 Gbps até ao último bit. Ainda trouxemos muitas novidades do Firefox 143, Questing Quokka, Gnome 49, Ubuntu Touch e coisas com nomes esquisitos, como Dracut, Cuda, Loupe, Rust e Ptyxis (pronuncia-se «Ptyxis»).
+Feed: https://podcastubuntuportugal.org/feed/podcast/index.xml</description>
                 
                 
-                <link>https://tokucast.com.br/?p=3679</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/tkbrtokucast/tokucast.com.br/tokucast/Tokucast_Episodio_283.mp3"/>
-                <guid>https://tokucast.com.br/?p=3679</guid>
+                <link>https://podcastubuntuportugal.org/e363/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://hub.podcastubuntuportugal.org/s/eYXEygmJjofZJ5C/download/e363.mp3"/>
+                <guid>https://podcastubuntuportugal.org/e363/</guid>
                 
             </item><item>
-                <title>450: Pedaço de Gente no Vinco</title>
-                <description>O Rambo comprou um iPhone, a Intel está com saudades da Apple, e será que a Gigahertz vai ter novos podcasts?
-Feed: https://gigahertz.fm/podcasts/adt/feed.rss</description>
+                <title>Ep 773 - Consumo, individualismo, narcisismo, livros e espírito crítico - conversa com Jéssica</title>
+                <description>Apeadeiros da conversa:
+Consumo, individualismo,…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:386738054/sounds.rss</description>
                 
                 
-                <link>https://gigahertz.fm/podcasts/adt/450</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.gigahertz.fm/ADT/ADT-450.mp3"/>
-                <guid>https://gigahertz.fm/podcasts/adt/450</guid>
+                <link>https://soundcloud.com/tuneldevento/ep-773-consumo-individualismo-narcisismo-livros-e-espirito-critico-conversa-com-jessica</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2182815719-tuneldevento-ep-773-consumo-individualismo-narcisismo-livros-e-espirito-critico-conversa-com-jessica.mp3"/>
+                <guid>https://soundcloud.com/tuneldevento/ep-773-consumo-individualismo-narcisismo-livros-e-espirito-critico-conversa-com-jessica</guid>
                 
             </item>
         </channel>
