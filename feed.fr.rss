@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 10 Oct 2025 04:29:03 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 13 Oct 2025 04:30:21 +0200</lastBuildDate>
             <item>
-                <title>Votre jardin</title>
-                <description>Votre jardin
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
+                <title>Mix 25 : Mix 25 5 sept 2025</title>
+                <description>647-343459
+Feed: http://podcast.cism893.ca/radioshows/647/feed_itunes.xml</description>
                 
                 
-                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/5f6874ca-414f-49d4-9fcd-2aba5492fd80/15376-04.10.2025-ITEMA_24268390-2025B20690S0277-NET_2BA_D63AF026-EA10-4757-BE1A-54BCC845537C-21.mp3"/>
-                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/343459.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/343459.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/343459.mp3</guid>
                 
             </item><item>
-                <title>Meditation quotidienne du 9 octobre 2023 avec la soeur Archer</title>
-                <description>&lt;p&gt;Meditation quotidienne du 9 octobre 2023 avec la soeur Archer&lt;/p&gt;
-
-Feed: https://anchor.fm/s/85922a4/podcast/rss</description>
+                <title>Opérations très chirurgicales</title>
+                <description>Opérations très chirurgicales
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10078.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/radioadventistebethanie/episodes/Meditation-quotidienne-du-9-octobre-2023-avec-la-soeur-Archer-e39a2h8</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/85922a4/podcast/play/109430760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-9%2F408945676-44100-2-bd9b64e8263dc.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/radioadventistebethanie/episodes/Meditation-quotidienne-du-9-octobre-2023-avec-la-soeur-Archer-e39a2h8</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/operations-tres-chirurgicales-7696538</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/568df332-9d50-426f-8bce-8fd62f33440f/10078-10.10.2025-ITEMA_24274675-2025C6612S0283-NET_MFC_835B68A9-9D71-442A-8847-B75C74B5FCD2-21-e5be98cc23686556eb1994a7438177a9.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/operations-tres-chirurgicales-7696538</guid>
                 
             </item>
         </channel>
