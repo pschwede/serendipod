@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 13 Oct 2025 04:30:21 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 15 Oct 2025 04:29:02 +0200</lastBuildDate>
             <item>
-                <title>Mix 25 : Mix 25 5 sept 2025</title>
-                <description>647-343459
-Feed: http://podcast.cism893.ca/radioshows/647/feed_itunes.xml</description>
+                <title>De soeur à maman</title>
+                <description>[PARTENAIRE] Votre microbiote mérite le meilleur ✨ Découvrez FS-3B, le tribiotique le plus complet signé Cuure : digestion, peau, humeur, immunité… -10% avec le code LAPETITEVOIX10 sur
+ 
+Feed: https://feeds.audiomeans.fr/feed/0ba1a9f3-63ea-4084-a406-043e6094e957.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/343459.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/343459.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/343459.mp3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/01c70fff-ddda-4359-bca7-7452e203d976.mp3?_=1760215901"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Opérations très chirurgicales</title>
-                <description>Opérations très chirurgicales
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10078.xml</description>
+                <title>à Albertville | 2</title>
+                <description>à Albertville | 2
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10206.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/operations-tres-chirurgicales-7696538</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/568df332-9d50-426f-8bce-8fd62f33440f/10078-10.10.2025-ITEMA_24274675-2025C6612S0283-NET_MFC_835B68A9-9D71-442A-8847-B75C74B5FCD2-21-e5be98cc23686556eb1994a7438177a9.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/operations-tres-chirurgicales-7696538</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/le-jeu-des-1-000/le-jeu-des-1000-du-mardi-14-octobre-2025-6616589</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/37c9c919-c057-417c-a7c1-332bbba09023/10206-14.10.2025-ITEMA_24278123-2025F4004S0287-NET_MFI_AD9FCA5F-4A02-41EC-9885-89DF17221562-22-833a3f4ed397264435b55babdfc0b5aa.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-jeu-des-1-000/le-jeu-des-1000-du-mardi-14-octobre-2025-6616589</guid>
                 
             </item>
         </channel>

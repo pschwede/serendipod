@@ -9,29 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 13 Oct 2025 04:30:14 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 15 Oct 2025 04:28:58 +0200</lastBuildDate>
             <item>
-                <title>#87 - Interview mit Elke zum Online-Mentoring &#34;Zusammen.Finden&#34;</title>
-                <description>Wie ich Anfang 60 erwachsen wurde und meinen Koffer voller Kummer losgeworden bin
-Feed: https://zusammen-sein.podigee.io/feed/mp3</description>
+                <title>Der Komponist Mieczyslaw Weinberg</title>
+                <description>Weinbergs Leben liest sich wie das Drehbuch zu einem Hollywood-Film: Er musste vor den Nazis fliehen, heiratete in eine einflussreiche Moskauer Familie ein, geriet dann aber zwischen die Mühlräder des Stalin-Terrors...
+Feed: https://feeds.br.de/zoom-musikgeschichte-und-was-sonst-geschah/feed.xml</description>
                 
                 
-                <link>https://zusammen-sein.podigee.io/88-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2156271-m-9b477c73e496fa7d353921c62f21854d.mp3?source=feed"/>
-                <guid>https://zusammen-sein.podigee.io/88-neue-episode</guid>
+                <link>https://www.br.de/mediathek/podcast/zoom-musikgeschichte-und-was-sonst-geschah/der-komponist-mieczyslaw-weinberg/2111268</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.neuland.br.de/file/2111268/c/feed/der-komponist-mieczyslaw-weinberg.mp3"/>
+                <guid>https://www.br.de/mediathek/podcast/zoom-musikgeschichte-und-was-sonst-geschah/der-komponist-mieczyslaw-weinberg/2111268</guid>
                 
             </item><item>
-                <title>Predigt zum 28. Sonntag i.J., 12.10.2025</title>
-                <description>1.Lesung 2 Kön 5, 14-17
-2.Lesung 2 Tim 2, 8-13
-Ev. Lk 17, 11-19
-Folge direkt herunterladen
-Feed: https://predigten.podcaster.de/geistliches-zentrum-kloster-heiligkreuztal.rss</description>
+                <title>MW312 – Krieg der Medien, die &#34;Osterweiterung&#34; der Berliner Zeitung, Klimawarnung und Donald Trump (zu Gast: Medienwissenschaftler Martin Andree)</title>
+                <description>Die Medien-Woche Ausgabe 312 vom 2. Oktober 2025
+Mit Christian Meier. Zu Gast ist in dieser Ausgabe der Medienwissenschaftler und Autor Martin Andree. Er ist Professor an der Universität zu Köln und hat gerade sein neues Buch &#34;Krieg der Medien&#34; (Campus Verlag) veröffentlicht. 
+https://mekuwi.phil-fak.uni-koeln.de/personen/wissenschaftliche-mitarbeiter-innen/dr-martin-andree
+https://martinandree.com/
+https://www.campus...
+Feed: https://feeds.megaphone.fm/ASD9165304242</description>
                 
                 
-                <link>https://predigten.podcaster.de/geistliches-zentrum-kloster-heiligkreuztal/media/2025-10-12.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://predigten.podcaster.de/geistliches-zentrum-kloster-heiligkreuztal/media/2025-10-12.mp3"/>
-                <guid>https://predigten.podcaster.de/geistliches-zentrum-kloster-heiligkreuztal/media/2025-10-12.mp3</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/WWG9511836305.mp3?updated=1759326546"/>
+                <guid></guid>
                 
             </item>
         </channel>

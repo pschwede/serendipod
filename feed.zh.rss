@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 13 Oct 2025 04:30:36 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 15 Oct 2025 04:29:12 +0200</lastBuildDate>
             <item>
-                <title>Sister Bliss In Session - 26/09/25</title>
-                <description>
-Sister Bliss is one of the true pioneers of modern dance music and the musical force behind multi-million selling ionic British band Faithless. Each week Sister Bliss In Session showcases the worlds best new upfront electronic music, spinning world exclusives, a live DJ mix, A List artists and DJs on the phone, and a run down of the taste-making Cool Cuts Chart...
-Feed: http://feeds.thisisdistorted.com/xml/sister-bliss-in-session</description>
+                <title>The Smashing Machine (Teaser)</title>
+                <description>&lt;p&gt;This week, James, Jerah, and Jon are covering The Smashing Machine, written and directed by Benny Safdie, based on the 2002 documentary The Smashing Machine: The Life and Times of Extreme Fighter Mark Kerr, starring Dwayne Johnson, Emily Blunt, Ryan Bader, Bas Rutten, and Oleksander Usyk...
+Feed: https://feeds.redcircle.com/7655b7ec-dc57-47c9-ab96-1a8fa02f6573</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.thisisdistorted.com/repository/audio/episodes/Sister_Bliss_In_Session_26-09-25_192-1758903814669946062-NDE2NDMtODY0MDcyMDg=.mp3"/>
-                <guid></guid>
+                <link>http://blackmenpodcast.com/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio3.redcircle.com/episodes/a56d32e0-bf4c-4106-9941-e9f057c983c8/stream.mp3"/>
+                <guid>http://blackmenpodcast.com/</guid>
                 
             </item><item>
-                <title>Building a Vital Earth for Everyone with President of Environmental Defense Fund’s EDF Action DAVID KIEVE</title>
-                <description>Environmental defense fund, David Kieve, climate change, environmental justice, clean energy, renewable energy, solar power, wind power, energy policy, economy, one planet podcast, creative process podcast, biodiversity, environment, climate change, nature, creativity, Mia Funk, creative process
-Feed: https://thecreativeprocess.squarespace.com/oneplanet1?format=rss</description>
+                <title>Laptop Rescue Service AKA &#34;Send us your stuff!&#34;</title>
+                <description>First up in the news: LMDE 7 ‘Gigi” release imminent, Mint Monthly News, Ubuntu 25.10 is out and breaking stuff, Firefox shaking is loved by TIME, Windows 10 is officially dead and lots more!   In security and privacy:  Charles has some interesting new...
+Feed: https://mintcast.org/category/mp3/feed/</description>
                 
                 
-                <link>https://www.creativeprocess.info/oneplanet1/david-kieve-edf-action-mia-funk</link>
-                <enclosure type="audio/mpeg" length="1" url="https://static1.squarespace.com/static/5745d9f137013b9d0a627c60/t/68ae026789a8e51dbd6eed4d/1756234511641/David+Kieve-EDF-FULL.mp3"/>
-                <guid>https://www.creativeprocess.info/oneplanet1/david-kieve-edf-action-mia-funk</guid>
+                <link>https://mintcast.org/470-laptop-rescue-service-aka-send-us-your-stuff/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/mp3-470/mp3-470.mp3"/>
+                <guid>https://mintcast.org/470-laptop-rescue-service-aka-send-us-your-stuff/</guid>
                 
             </item>
         </channel>
