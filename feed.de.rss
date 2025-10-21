@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 20 Oct 2025 04:31:03 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 21 Oct 2025 04:29:48 +0200</lastBuildDate>
             <item>
-                <title>KATERFOLGE ????????????????</title>
-                <description>HINWEIS: Die Videos zum Podcast bekommst Du hier: https://plus.rtl.de/video-tv/shows/dick-doof-der-video-podcast-979059/2025-1-1020240
-Während Sandra sich mit Muskelkater durch die Folge schleppt, sitzt Luca mit Wiesnkater eingekauert wie ein Shrimp neben ihr... es geht um Rauchen, Alkohol, Ätna und die Zahl 2 ... viel Spaß!
-+++ Alle Rabattcodes und Infos zu unseren Werbepartnern findet ihr hier: https://linktr...
-Feed: https://proxyfeed.svmaudio.com/aa/dick-und-doof</description>
+                <title>Über den Mut, ein Buch zu schreiben</title>
+                <description>Es gibt diesen Moment, in dem Reden nicht mehr reicht. Der Traum bleibt, die Zweifel bleiben – und irgendwann triffst Du eine Entscheidung. Genau darüber spreche ich mit Anja: warum aus „Ich schreibe mal ein Buch“ jetzt ein Manuskript geworden...
+Feed: https://yvonnes-podcast.libsyn.com/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://dick-und-doof.cdn.svmaudio.com/episodes/e15ff523-e2d5-4021-b759-d42d869ebfe7.mp3"/>
-                <guid></guid>
+                <link>https://yvonnes-podcast.libsyn.com/ber-den-mut-ein-buch-zu-schreiben</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/yvonnes-podcast/Uber_den_Mut_ein_Buch_zu_schreiben.mp3?dest-id=635580"/>
+                <guid>https://yvonnes-podcast.libsyn.com/ber-den-mut-ein-buch-zu-schreiben</guid>
                 
             </item><item>
-                <title>Diese Fehler machen viele bei gesunder Ernährung, ohne es zu merken</title>
-                <description>Gesund essen, ohne zu verzichten: so geht’s wirklich   Viele Menschen denken, sie ernähren sich bereits gesund. Doch in der Praxis zeigt sich oft: Es gibt einige hartnäckige Fehlannahmen.In dieser Podcastfolge deckt Julia Gruber die...
-Feed: https://darmglueck.libsyn.com/rss</description>
+                <title>20.10.25 Okdower Wahnsinn</title>
+                <description> &lt;br&gt; 
+Feed: https://sr-mediathek.de/pcast/feeds/SR3_SE_P/feed.xml</description>
                 
                 
-                <link>https://darmglueck.libsyn.com/diese-fehler-machen-viele-bei-gesunder-ernhrung-ohne-es-zu-merken</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/darmglueck/DG163_Edited.mp3?dest-id=774384"/>
-                <guid>https://darmglueck.libsyn.com/diese-fehler-machen-viele-bei-gesunder-ernhrung-ohne-es-zu-merken</guid>
+                <link>https://storage01.sr.de/podcast/SR3_SE_P/SR3_SE_P_40819_20251020_064449.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://storage01.sr.de/podcast/SR3_SE_P/SR3_SE_P_40819_20251020_064449.mp3"/>
+                <guid>https://storage01.sr.de/podcast/SR3_SE_P/SR3_SE_P_40819_20251020_064449.mp3</guid>
                 
             </item>
         </channel>

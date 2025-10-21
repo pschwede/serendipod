@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 20 Oct 2025 04:31:15 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 21 Oct 2025 04:30:04 +0200</lastBuildDate>
             <item>
-                <title>É correto dizer ‘haja visto’?</title>
-                <description>Uma ouvinte pergunta sobre o uso correto da expressão ‘haja vista’ e se ‘haja visto’ está certo. Para responder, o professor Pasquale conta com os auxílios luxuosos ‘Com Você’, de Isolda, com Ronnie Von, e ‘Os Números’, de Raul Seixas e Paulo Coelho.
-Learn more about your ad choices. Visit megaphone.fm/adchoices
-Feed: https://audio.globoradio.globo.com/podcast/feed/331/nossa-lingua-de-todo-dia</description>
+                <title>Noticiário (17:00 CET)</title>
+                <description>
+Feed: https://www.vaticannews.va/pt/podcast/programa-brasileiro.podcast.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/GLOBO8453466534.mp3"/>
-                <guid></guid>
+                <link>https://www.vaticannews.va/pt/podcast/programa-brasileiro/noticiario-17-00-cet.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.vaticannews.va/media2/audio/program/2805/brasiliano_3_201025.mp3"/>
+                <guid>https://www.vaticannews.va/pt/podcast/programa-brasileiro/noticiario-17-00-cet.html</guid>
                 
             </item><item>
-                <title>Teologia confusa gera polarização política? - BTPapo 098</title>
-                <description>Você que pula o preto e branco, esteja avisado: vai perder uma discussão profunda sobre cultura e revelação de Deus! Afinal, o que acontece quando a teologia é feita pela metade? Neste episódio, Bibo e Cacau mergulham na polêmica relação entre fé e pol...
-Feed: https://bibotalk.com/categoria/podcast/feed/</description>
+                <title>#158: Isso pertence a um museu!</title>
+                <description>&lt;p&gt;⁠⁠Adriano Brandão⁠⁠ e Danilo Silvestre⁠⁠ resolveram fazer a arqueologia do arqueólogo mais famoso do mundo: Indiana Jones! Falamos sobre cinema, é claro, mas falamos mais ainda sobre video game. E tem muito jogo para comentar: Indiana Jones é presente em arcades, computadores e consoles desde 1982, e nunca mais saiu de cena, nem mesmo durante o longo período em que novos filmes não eram mais produzidos...
+Feed: https://anchor.fm/s/6cfe134/podcast/rss</description>
                 
                 
-                <link>https://bibotalk.com/podcast/teologia-confusa-gera-polarizacao-politica-btpapo-098/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/bibotalk/bibotalk.com/btcast/098_teologia_confusa_polarizacao_politica.mp3"/>
-                <guid>https://bibotalk.com/podcast/teologia-confusa-gera-polarizacao-politica-btpapo-098/</guid>
+                <link>https://podcasters.spotify.com/pod/show/poucopixel/episodes/158-Isso-pertence-a-um-museu-e38khgi</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/6cfe134/podcast/play/108725202/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-23%2F8fb50c77-9a98-a681-0de9-4f0bf808d17e.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/poucopixel/episodes/158-Isso-pertence-a-um-museu-e38khgi</guid>
                 
             </item>
         </channel>
