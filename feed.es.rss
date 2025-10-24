@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 21 Oct 2025 04:29:59 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 24 Oct 2025 04:29:46 +0200</lastBuildDate>
             <item>
-                <title>SSF El Jazz que nos gusta w8 1a parte 21 febrero 2025</title>
-                <description>SSF  El Jazz que nos gusta w8 1a parte 21 febrero 20205
-Feed: https://www.ivoox.com/feed_fg_f1155767_filtro_1.xml</description>
+                <title>Esta noche... un clásico - El Padrino III - 20/10/25</title>
+                <description>El Padrino III
+Feed: https://www.rtve.es/api/programas/142750/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/ssf-el-jazz-nos-gusta-w8-1a-audios-mp3_rf_160445065_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/ssf-el-jazz-nos-gusta-w8-1a_mf_160445065_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/ssf-el-jazz-nos-gusta-w8-1a-audios-mp3_rf_160445065_1.html</guid>
+                <link>https://www.rtve.es/play/audios/esta-noche-un-clasico/padrino-iii-20-10-25/16778039/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16778039.mp3"/>
+                <guid>https://www.rtve.es/play/audios/esta-noche-un-clasico/padrino-iii-20-10-25/16778039/</guid>
                 
             </item><item>
-                <title>La tristibuidora de Maizenosky - Capítulo 273</title>
-                <description>Luego de comparar este podcast con el 20% del río Bogotá, logramos un extasis de idiotez al tener los errores, las fallas, los mistakes. Bienvenidos a la tristibuidora atendida por la señora más triste que jamás verán. ¿Saben ruso? Hay lecciones...
-Feed: https://www.spreaker.com/show/4081707/episodes/feed</description>
+                <title>Hoy es 23 octubre 2025 - Rezamos los Misterios Luminosos</title>
+                <description>Hoy es 23 octubre 2025 - Rezamos los Misterios Luminosos del Santo Rosario - Deja tus intenciones de oración en la sección de comentrios #Rosario #Guatemala #Escuintla #SantoRosario #RosarioDeHoy #SantoRosarioDeHoy https://diocesisdeescuintla.com
+Feed: http://feed.quechilero.com/SantoRosarioEscuintla</description>
                 
                 
-                <link>https://www.spreaker.com/episode/la-tristibuidora-de-maizenosky-capitulo-273--68082263</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/68082263/los_impopulares_cap_273.mp3"/>
-                <guid>https://www.spreaker.com/episode/la-tristibuidora-de-maizenosky-capitulo-273--68082263</guid>
+                <link>https://quechilero.com/rosario/rosario/Misterios_Luminosos_23_octubre_2025.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://quechilero.com/rosario/rosario/Misterios_Luminosos_23_octubre_2025.mp3"/>
+                <guid>https://quechilero.com/rosario/rosario/Misterios_Luminosos_23_octubre_2025.mp3</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 21 Oct 2025 04:29:48 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 24 Oct 2025 04:29:36 +0200</lastBuildDate>
             <item>
-                <title>Über den Mut, ein Buch zu schreiben</title>
-                <description>Es gibt diesen Moment, in dem Reden nicht mehr reicht. Der Traum bleibt, die Zweifel bleiben – und irgendwann triffst Du eine Entscheidung. Genau darüber spreche ich mit Anja: warum aus „Ich schreibe mal ein Buch“ jetzt ein Manuskript geworden...
-Feed: https://yvonnes-podcast.libsyn.com/rss</description>
+                <title>Bonus: Good old Times: 15# G.O.T. Roadtrip</title>
+                <description>Im fünfzehnten Stock des elften Wolkenkratzers unterhalten wir uns über die Good-Old-Times.
+Feed: https://letscast.fm/podcasts/sumscity-podcasts-c62e75cf/feed</description>
                 
                 
-                <link>https://yvonnes-podcast.libsyn.com/ber-den-mut-ein-buch-zu-schreiben</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/yvonnes-podcast/Uber_den_Mut_ein_Buch_zu_schreiben.mp3?dest-id=635580"/>
-                <guid>https://yvonnes-podcast.libsyn.com/ber-den-mut-ein-buch-zu-schreiben</guid>
+                <link>sumscity.de</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/73595d5f/episode/ce644bb1.mp3?t=1760360134"/>
+                <guid>sumscity.de</guid>
                 
             </item><item>
-                <title>20.10.25 Okdower Wahnsinn</title>
-                <description> &lt;br&gt; 
-Feed: https://sr-mediathek.de/pcast/feeds/SR3_SE_P/feed.xml</description>
+                <title>Das kleine Glück #96: Zukunftsfrust oder Zukunftslust? Interview mit Tristan Horx</title>
+                <description>Stellt euch vor, ihr trefft jemanden, der die Zukunft vorhersagt – und zwar nicht mit Glaskugel oder Tarotkarten, sondern mit Weitblick, Humor und einem Soziologiestudium in der Tasche. In dieser Podcastfolge trifft Glücksministerin Gina auf den Zukunftsforscher Tristan Horx, der mit spitzer Zunge und einem Augenzwinkern wichtige Themen unserer Gesellschaft, Zukunftsvisionen und Trendanalysen cool und begeisternd rüberbringt...
+Feed: https://1hchwpk.podcaster.de/ministeriumfuerglueck.rss</description>
                 
                 
-                <link>https://storage01.sr.de/podcast/SR3_SE_P/SR3_SE_P_40819_20251020_064449.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://storage01.sr.de/podcast/SR3_SE_P/SR3_SE_P_40819_20251020_064449.mp3"/>
-                <guid>https://storage01.sr.de/podcast/SR3_SE_P/SR3_SE_P_40819_20251020_064449.mp3</guid>
+                <link>https://1hchwpk.podcaster.de/ministeriumfuerglueck/media/MfG_TristanHorx_Mastered.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://1hchwpk.podcaster.de/ministeriumfuerglueck/media/MfG_TristanHorx_Mastered.mp3"/>
+                <guid>https://1hchwpk.podcaster.de/ministeriumfuerglueck/media/MfG_TristanHorx_Mastered.mp3</guid>
                 
             </item>
         </channel>

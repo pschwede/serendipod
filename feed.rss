@@ -9,32 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 21 Oct 2025 04:29:44 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 24 Oct 2025 04:29:31 +0200</lastBuildDate>
             <item>
-                <title>The Moment of Truth: The Moth Podcast</title>
-                <description>This episode originally aired on April 17, 2020
-This week&#39;s episode is all about moments of truth. Our three slam stories are about awakenings, life-changing choices and everything in between. Hosted by The Moth’s Executive Producer, Sarah Austin Jenness.
-Storytellers: Tim Sommers, Emma Becker, Kathleen Sheffer
- 
-To learn more about listener data and our privacy practices visit: https://www.audacyinc.com/privacy-policy
-  
- Learn more about your ad choices. Visit https://podcastchoices...
-Feed: http://feeds.themoth.org/themothpodcast</description>
+                <title>“Did Millennials Ruin Dating for Gen Z?”</title>
+                <description>&lt;p&gt;In this week’s episode of the Love Life Podcast, we’re exploring how Gen Z is rewriting the playbook on love and relationships. Is romance really taking a back seat to mental health and ambition, or is the story more complicated than that? We talk about:&lt;/p&gt;&lt;br&gt;&lt;p&gt;• Why Gen Z might be stepping away from traditional dating norms, and whether it’s a pushback against toxic dating culture or something deeper...
+Feed: https://feeds.acast.com/public/shows/68bee481b494ca82a27a3434</description>
+                
+                
+                <link>https://shows.acast.com/love-life-with-matthew-hussey/episodes/did-millennials-ruin-dating-for-gen-z</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/68bee481b494ca82a27a3434/e/68f85f6edbf5027e495638d7/media.mp3"/>
+                <guid>https://shows.acast.com/love-life-with-matthew-hussey/episodes/did-millennials-ruin-dating-for-gen-z</guid>
+                
+            </item><item>
+                <title>142. Stu Cook - Creedence Clearwater Revival</title>
+                <description>He was a member of one of America’s most iconic rock bands — and in this exclusive interview, Stu Cook takes us deep into the story of Creedence Clearwater Revival.
+From the band’s humble beginnings as a high school trio to headlining Woodstock, scoring a UK No.1 with Bad Moon Rising and releasing six albums in just over two years — Stu shares a front-row perspective on the meteoric rise of CCR...
+Feed: https://feeds.megaphone.fm/vrp</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/traffic.megaphone.fm/CAD9798764207.mp3?updated=1758907036"/>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/traffic.megaphone.fm/PAN3065927472.mp3?updated=1760285210"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Laptop Rescue Service AKA &#34;Send us your stuff!&#34;</title>
-                <description>First up in the news: LMDE 7 ‘Gigi” release imminent, Mint Monthly News, Ubuntu 25.10 is out and breaking stuff, Firefox shaking is loved by TIME, Windows 10 is officially dead and lots more!   In security and privacy:  Charles has some interesting new...
-Feed: https://mintcast.org/category/mp3/feed/</description>
-                
-                
-                <link>https://mintcast.org/470-laptop-rescue-service-aka-send-us-your-stuff/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/mp3-470/mp3-470.mp3"/>
-                <guid>https://mintcast.org/470-laptop-rescue-service-aka-send-us-your-stuff/</guid>
                 
             </item>
         </channel>
