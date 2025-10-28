@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Oct 2025 04:29:36 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 Oct 2025 04:29:53 +0200</lastBuildDate>
             <item>
-                <title>Bonus: Good old Times: 15# G.O.T. Roadtrip</title>
-                <description>Im fünfzehnten Stock des elften Wolkenkratzers unterhalten wir uns über die Good-Old-Times.
-Feed: https://letscast.fm/podcasts/sumscity-podcasts-c62e75cf/feed</description>
+                <title>Der Jetlag des kleinen Mannes</title>
+                <description>&#34;Kerl! Müller! Dass er mir morgen nicht wieder die Gas- und Wasseruhr umstellt wie letzten Herbst…!&#34;
+&#34;Jaja, Majestät…&#34; - 
+&#34;…und auch nicht die Waage!&#34;
+Feed: http://www.antennebrandenburg.de/programm/hoeren/podcasts/Podcast_Friedrich/podcast.xml/feed=podcast.xml</description>
                 
                 
-                <link>sumscity.de</link>
-                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/73595d5f/episode/ce644bb1.mp3?t=1760360134"/>
-                <guid>sumscity.de</guid>
+                <link>https://rbbmediapmdp-a.akamaihd.net/content/e6/09/e609b836-85e7-426c-a95d-c1c638bf2d04/88db9bc9-f170-4b9e-80b2-f8b244aeefd8_ef4ae2be-55b9-451a-a890-a756433a6fec_256k.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rbbmediapmdp-a.akamaihd.net/content/e6/09/e609b836-85e7-426c-a95d-c1c638bf2d04/88db9bc9-f170-4b9e-80b2-f8b244aeefd8_ef4ae2be-55b9-451a-a890-a756433a6fec_256k.mp3"/>
+                <guid>https://rbbmediapmdp-a.akamaihd.net/content/e6/09/e609b836-85e7-426c-a95d-c1c638bf2d04/88db9bc9-f170-4b9e-80b2-f8b244aeefd8_ef4ae2be-55b9-451a-a890-a756433a6fec_256k.mp3</guid>
                 
             </item><item>
-                <title>Das kleine Glück #96: Zukunftsfrust oder Zukunftslust? Interview mit Tristan Horx</title>
-                <description>Stellt euch vor, ihr trefft jemanden, der die Zukunft vorhersagt – und zwar nicht mit Glaskugel oder Tarotkarten, sondern mit Weitblick, Humor und einem Soziologiestudium in der Tasche. In dieser Podcastfolge trifft Glücksministerin Gina auf den Zukunftsforscher Tristan Horx, der mit spitzer Zunge und einem Augenzwinkern wichtige Themen unserer Gesellschaft, Zukunftsvisionen und Trendanalysen cool und begeisternd rüberbringt...
-Feed: https://1hchwpk.podcaster.de/ministeriumfuerglueck.rss</description>
+                <title>411. Die Wahrheit über Klammern und warum es jede Frau wegtreibt</title>
+                <description>Warum du sie nie zurückbekommst, wenn du sie brauchst wie Luft zum Atmen
+Feed: https://beyondbreakup.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://1hchwpk.podcaster.de/ministeriumfuerglueck/media/MfG_TristanHorx_Mastered.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://1hchwpk.podcaster.de/ministeriumfuerglueck/media/MfG_TristanHorx_Mastered.mp3"/>
-                <guid>https://1hchwpk.podcaster.de/ministeriumfuerglueck/media/MfG_TristanHorx_Mastered.mp3</guid>
+                <link>https://beyondbreakup.podigee.io/413-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2114018-m-1a9862ee999cef1a3ec00e22de2aa69c.mp3?source=feed"/>
+                <guid>https://beyondbreakup.podigee.io/413-neue-episode</guid>
                 
             </item>
         </channel>

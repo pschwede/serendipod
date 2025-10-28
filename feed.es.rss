@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Oct 2025 04:29:46 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 Oct 2025 04:29:59 +0200</lastBuildDate>
             <item>
-                <title>Esta noche... un clásico - El Padrino III - 20/10/25</title>
-                <description>El Padrino III
-Feed: https://www.rtve.es/api/programas/142750/audios.rss</description>
+                <title>Poemas eróticos para amar. Poemas eróticos para hacer el amor.  Canción, poema de Eugenio Montejo</title>
+                <description>Poemas eróticos para amar. Poemas eróticos para hacer el amor.  Canción, poema de Eugenio Montejo. Poemas eróticos para hacer el amor con sonidos y voz.  Poemas eróticos para enamorar. Poesía erótica para,enamorar de...
+Feed: https://www.spreaker.com/show/5869833/episodes/feed</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/esta-noche-un-clasico/padrino-iii-20-10-25/16778039/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16778039.mp3"/>
-                <guid>https://www.rtve.es/play/audios/esta-noche-un-clasico/padrino-iii-20-10-25/16778039/</guid>
+                <link>https://www.locutortv.es/english-dubbing-dubbing-in-english-english-dubbing-movies-english-dubbing-films/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/67645815/eugenio_montejo_cancion1eq_mus.mp3"/>
+                <guid>https://www.locutortv.es/english-dubbing-dubbing-in-english-english-dubbing-movies-english-dubbing-films/</guid>
                 
             </item><item>
-                <title>Hoy es 23 octubre 2025 - Rezamos los Misterios Luminosos</title>
-                <description>Hoy es 23 octubre 2025 - Rezamos los Misterios Luminosos del Santo Rosario - Deja tus intenciones de oración en la sección de comentrios #Rosario #Guatemala #Escuintla #SantoRosario #RosarioDeHoy #SantoRosarioDeHoy https://diocesisdeescuintla.com
-Feed: http://feed.quechilero.com/SantoRosarioEscuintla</description>
+                <title>De película - ‘De película&#39; visita la 70 Edición de la Seminci - 25/10/25</title>
+                <description>‘De película&#39; visita la 70 Edición de la Seminci
+Feed: http://api.rtve.es/api/programas/1921/audios.rss</description>
                 
                 
-                <link>https://quechilero.com/rosario/rosario/Misterios_Luminosos_23_octubre_2025.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://quechilero.com/rosario/rosario/Misterios_Luminosos_23_octubre_2025.mp3"/>
-                <guid>https://quechilero.com/rosario/rosario/Misterios_Luminosos_23_octubre_2025.mp3</guid>
+                <link>https://www.rtve.es/play/audios/de-pelicula-rne/pelicula-visita-70-edicion-seminci-25-10-25/16786186/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16786186.mp3"/>
+                <guid>https://www.rtve.es/play/audios/de-pelicula-rne/pelicula-visita-70-edicion-seminci-25-10-25/16786186/</guid>
                 
             </item>
         </channel>
