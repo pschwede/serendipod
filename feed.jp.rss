@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 29 Oct 2025 04:32:48 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 30 Oct 2025 04:30:14 +0200</lastBuildDate>
             <item>
-                <title>Kim jest Leon XIV? Europejska prawica obiecywała więcej</title>
-                <description>Kim jest Leon XIV? Europejska prawica obiecywała więcej
-Feed: https://yt2podcast.com/WojciechCejrowski.xml</description>
+                <title>The world&#39;s first &#34;nature superpower&#34;</title>
+                <description>&lt;p&gt;Over the last 40 years, Brazil has lost an area larger than California to deforestation — and 90 percent of the clear-cutting has been illegal, all part of a multi-billion-dollar global environmental crime economy. Civic entrepreneur Ilona Szabó de Carvalho sees this crisis as an opportunity...
+Feed: https://feeds.feedburner.com/iTunesPodcastTTBusiness</description>
                 
                 
-                <link>https://youtube.com/watch?v=wmVppuLVps0</link>
-                <enclosure type="audio/mpeg" length="1" url="http://yt2podcast.com:8080/WojciechCejrowski/wmVppuLVps0.mp3"/>
-                <guid>https://youtube.com/watch?v=wmVppuLVps0</guid>
+                <link>http://go.ted.com/ilonaszabodecarvalho</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/675727607205a5bc68e57057/e/68fbab9c71a7e8ab34a2aa02/media.mp3"/>
+                <guid>http://go.ted.com/ilonaszabodecarvalho</guid>
                 
             </item><item>
-                <title>The Wood File with Murray Wood - October 28, 2025</title>
-                <description>The Wood File Commentary - Murray Wood
-Feed: https://iono.fm/rss/chan/4851</description>
+                <title>Episode 451 - Southern Vangard Radio</title>
+                <description>BANG! @southernvangard radio Ep451! If you would …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:92325505/sounds.rss</description>
                 
                 
-                <link>https://iono.fm/e/1611877</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_519/epi_1611877_medium.m4a?p=rss"/>
-                <guid>https://iono.fm/e/1611877</guid>
+                <link>https://soundcloud.com/southernvangard/ep451</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2196642791-southernvangard-ep451.mp3"/>
+                <guid>https://soundcloud.com/southernvangard/ep451</guid>
                 
             </item>
         </channel>

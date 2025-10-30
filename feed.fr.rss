@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 29 Oct 2025 04:32:32 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 30 Oct 2025 04:29:58 +0200</lastBuildDate>
             <item>
-                <title>La réforme des retraites (Pension Reform)</title>
-                <description>Le 14 octobre 2025, le Premier ministre a annoncé que l’augmentation de l’âge légal de départ à la retraite sera suspendue jusqu’à après l’élection présidentielle de 2027.
-Feed: https://feeds.acast.com/public/shows/66068dc22d276f001657edb1</description>
+                <title>Boulevard des Airs &amp; Léman en live dans &#34;Le Grand Studio RTL&#34;</title>
+                <description>Ecoutez Le Grand Studio RTL avec Éric Jean-Jean du 25 octobre 2025.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d&#39;informations.
+ 
+Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
                 
                 
-                <link>https://shows.acast.com/learn-french-with-daily-podcasts/episodes/la-reforme-des-retraites-pension-refor</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/66068dc22d276f001657edb1/e/68fad82d8e51ce908977476d/media.mp3"/>
-                <guid>https://shows.acast.com/learn-french-with-daily-podcasts/episodes/la-reforme-des-retraites-pension-refor</guid>
+                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/f11125ad-9e8b-48e9-b09d-94deb6eff90c.mp3?_=1761317288"/>
+                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
                 
             </item><item>
-                <title>Hors-série 37 - L&#39;histoire du cloître de Notre-Dame-en-Vaux</title>
-                <description>Découvrez le cloître de Notre-Dame-en-Vaux de Cha…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:147058082/sounds.rss</description>
+                <title>Le remake américain de &#34;The Office&#34; : un monument de malaise et d&#39;humour noir, série mythique qui fête ses 20 ans</title>
+                <description>Le remake américain de &#34;The Office&#34; : un monument de malaise et d&#39;humour noir, série mythique qui fête ses 20 ans
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_18327.xml</description>
                 
                 
-                <link>https://soundcloud.com/fannycomo/hs37-cloitre-notre-dame-en-vaux</link>
-                <enclosure type="audio/mpeg" length="1" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/2197795067-fannycomo-hs37-cloitre-notre-dame-en-vaux.mp3"/>
-                <guid>https://soundcloud.com/fannycomo/hs37-cloitre-notre-dame-en-vaux</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/capture-d-ecrans/capture-d-ecrans-du-mercredi-29-octobre-2025-6212822</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/c86c54f9-3423-438b-810a-bee0671d644d/18327-29.10.2025-ITEMA_24294075-2025F29967S0302-NET_MFI_58833A27-C4FA-4ED1-A5CF-94C423558496-22-9fdb2dd08852dccbfd1acaf42a80347b.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/capture-d-ecrans/capture-d-ecrans-du-mercredi-29-octobre-2025-6212822</guid>
                 
             </item>
         </channel>

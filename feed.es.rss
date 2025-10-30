@@ -9,26 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 29 Oct 2025 04:32:36 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 30 Oct 2025 04:30:02 +0200</lastBuildDate>
             <item>
-                <title>Sonidos y Sonados 2025-10-23</title>
-                <description>Otra semana, otra propuesta del Sonidos y Sonados. En esta ocasión, dejamos un programa temático como el de la semana pasada (Órgano Hammond), para irnos a uno de novedades. Eso sí, como siempre, dos temas del recuerdo, uno de aquí y otro de fuera, empezamos con Manolo Gas &amp;#38; The Tinto Band Bang, de fuera, [&amp;#8230;]
-Feed: https://feeds.feedburner.com/sonidosysonados</description>
+                <title>Mujeres y podcasting ¿qué está pasando? #Opinión</title>
+                <description>&lt;p&gt;A falta de un título mejor solo digo que este episodio trata sobre mi opinión de algunas cosas que se comentaron alrededor del PodWoman, este evento de podcasting para Mujeres en Español.&lt;/p&gt;
+&lt;p&gt;Te invito a debatir sobre este tema en el Foro de la Comunidad de TuPodcast https://foro.tupodcast.com&lt;/p&gt;
+&lt;p&gt;Y otras formas de contacto las encuentran en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/contacto.html&lt;/p&gt;
+&lt;p&gt;Todos los medios donde publico contenido los encuentras en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta...
+Feed: https://www.tupodcast.com/@comopiensodigo/feed.xml</description>
                 
                 
-                <link>https://sonidosysonados.com/2025/10/23/sonidos-y-sonados-2025-10-23/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/SonidosySonados20251023Neu.mp3"/>
-                <guid>https://sonidosysonados.com/2025/10/23/sonidos-y-sonados-2025-10-23/</guid>
+                <link>https://www.tupodcast.com/@comopiensodigo/episodes/mujeres-y-podcasting-que-esta-pasando</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=fca9a628-07fc-5904-864a-41644b4c3dc8/www.tupodcast.com/audio/@comopiensodigo/mujeres-y-podcasting-que-esta-pasando.mp3?_from=fyyd.de"/>
+                <guid>https://www.tupodcast.com/@comopiensodigo/episodes/mujeres-y-podcasting-que-esta-pasando</guid>
                 
             </item><item>
-                <title>Territorio comanche: Cierra la MTV y acaba una época</title>
-                <description>Con Nuria Torreblanca, Miqui Otero y Santi Segurola recordamos el auge y caida de la MTV; la cadena musical que cambio el consumo de musica y su comercializacion en los anos 80 y 90. Recordamos canciones que tienen una segunda vida, y la historia de un...
-Feed: https://www.ondacero.es/rss/podcast/mount/ATRESMEDIA_JULIA_EN_LA_ONDA_P/fastly</description>
+                <title>Desdemoniados En-angelados</title>
+                <description>Errar es de humanos, perseverar en el error es demon&amp;iacute;aco.
+Giorgio Nardone en&amp;ldquo;La estupidez estrat&amp;eacute;gica&amp;rdquo;
+Hicimos trabajos sobre como nos hablan los virus y a trav&amp;eacute;s de neurot&amp;oacute;xinas modifican el comportamiento cerebro. Estos virus y toxinas se  comunican por resonancia con seres que han sido adictos a intoxicar los cuerpos de alguna manera como los que han sido drogadicto alcohol pero tambi&amp;eacute;n a la adrenalina o al drama...
+Feed: https://www.ivoox.com/feed_fg_f11026236_filtro_1.xml</description>
                 
                 
-                <link>https://www.ondacero.es/podcast/programas/julia-en-la-onda/territorio-comanche/territorio-comanche-cierra-mtv-acaba-epoca_2025102668fdff6f7b4eda4ec0cf6712.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://triton-vod.ondacero.es/?programa=ATRESMEDIA_JULIA_EN_LA_ONDA_P&amp;origen=/mp_audios4/2025/10/26/731B1154-E71A-44EE-9129-B0956A47020A/731B1154-E71A-44EE-9129-B0956A47020A.mp3&amp;audioId=68fdff6f7b4eda4ec0cf6712"/>
-                <guid>https://www.ondacero.es/podcast/programas/julia-en-la-onda/territorio-comanche/territorio-comanche-cierra-mtv-acaba-epoca_2025102668fdff6f7b4eda4ec0cf6712.html</guid>
+                <link>https://www.ivoox.com/desdemoniados-en-angelados-audios-mp3_rf_161387694_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/desdemoniados-en-angelados_mf_161387694_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/desdemoniados-en-angelados-audios-mp3_rf_161387694_1.html</guid>
                 
             </item>
         </channel>
