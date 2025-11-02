@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 30 Oct 2025 04:29:58 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 02 Nov 2025 04:29:12 +0200</lastBuildDate>
             <item>
-                <title>Boulevard des Airs &amp; Léman en live dans &#34;Le Grand Studio RTL&#34;</title>
-                <description>Ecoutez Le Grand Studio RTL avec Éric Jean-Jean du 25 octobre 2025.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d&#39;informations.
- 
-Feed: https://feeds.audiomeans.fr/feed/e2e1c637-ea9a-4357-befe-5c628087982d.xml</description>
+                <title>S21E06 - La Matiere Noire</title>
+                <description>Et si la matière noire existe réellement : des pr…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:161771999/sounds.rss</description>
                 
                 
-                <link>https://www.rtl.fr/programmes/le-grand-studio-rtl</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/f11125ad-9e8b-48e9-b09d-94deb6eff90c.mp3?_=1761317288"/>
-                <guid>https://www.rtl.fr/programmes/le-grand-studio-rtl</guid>
+                <link>https://soundcloud.com/albireo78/s21e06-la-matiere-noire</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2201383299-albireo78-s21e06-la-matiere-noire.mp3"/>
+                <guid>https://soundcloud.com/albireo78/s21e06-la-matiere-noire</guid>
                 
             </item><item>
-                <title>Le remake américain de &#34;The Office&#34; : un monument de malaise et d&#39;humour noir, série mythique qui fête ses 20 ans</title>
-                <description>Le remake américain de &#34;The Office&#34; : un monument de malaise et d&#39;humour noir, série mythique qui fête ses 20 ans
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_18327.xml</description>
+                <title>Elkin Polo El Show : 11/01/2025 13:00</title>
+                <description>709-347252
+Feed: http://podcast.cism893.ca/radioshows/709/feed_itunes.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceinter/podcasts/capture-d-ecrans/capture-d-ecrans-du-mercredi-29-octobre-2025-6212822</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/c86c54f9-3423-438b-810a-bee0671d644d/18327-29.10.2025-ITEMA_24294075-2025F29967S0302-NET_MFI_58833A27-C4FA-4ED1-A5CF-94C423558496-22-9fdb2dd08852dccbfd1acaf42a80347b.mp3"/>
-                <guid>https://www.radiofrance.fr/franceinter/podcasts/capture-d-ecrans/capture-d-ecrans-du-mercredi-29-octobre-2025-6212822</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/347252.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/347252.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/347252.mp3</guid>
                 
             </item>
         </channel>

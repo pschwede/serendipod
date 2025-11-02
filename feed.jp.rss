@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 30 Oct 2025 04:30:14 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 02 Nov 2025 04:29:31 +0200</lastBuildDate>
             <item>
-                <title>The world&#39;s first &#34;nature superpower&#34;</title>
-                <description>&lt;p&gt;Over the last 40 years, Brazil has lost an area larger than California to deforestation — and 90 percent of the clear-cutting has been illegal, all part of a multi-billion-dollar global environmental crime economy. Civic entrepreneur Ilona Szabó de Carvalho sees this crisis as an opportunity...
-Feed: https://feeds.feedburner.com/iTunesPodcastTTBusiness</description>
+                <title>It’s Always DNS: Lessons from the AWS Outage</title>
+                <description>This episode explores the recent AWS DNS outage, the importance of business continuity planning, cloud dependency, and failover strategies, all wrapped in humor and insightful discussion.
+Feed: https://sharedsecurity.net/feed/podcast/</description>
                 
                 
-                <link>http://go.ted.com/ilonaszabodecarvalho</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/675727607205a5bc68e57057/e/68fbab9c71a7e8ab34a2aa02/media.mp3"/>
-                <guid>http://go.ted.com/ilonaszabodecarvalho</guid>
+                <link>https://sharedsecurity.net/2025/10/27/its-always-dns-lessons-from-the-aws-outage/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/socialmediasec/Shared_Security_E404.mp3"/>
+                <guid>https://sharedsecurity.net/2025/10/27/its-always-dns-lessons-from-the-aws-outage/</guid>
                 
             </item><item>
-                <title>Episode 451 - Southern Vangard Radio</title>
-                <description>BANG! @southernvangard radio Ep451! If you would …
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:92325505/sounds.rss</description>
+                <title>11/1/25 - Trump&#39;s Asia Trip Tops This Week&#39;s List</title>
+                <description>11/1/25 - Trump&#39;s Asia Trip Tops This Week&#39;s List
+Host Doug Stephan along with Michael Harrison, Editor/Publisher of Talkers Magazine, review the most talked about stories and people on news/talk radio for the week of October 27th, 2025 through...
+Feed: https://feeds.feedburner.com/TalkradioCountDown</description>
                 
                 
-                <link>https://soundcloud.com/southernvangard/ep451</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2196642791-southernvangard-ep451.mp3"/>
-                <guid>https://soundcloud.com/southernvangard/ep451</guid>
+                <link>https://www.spreaker.com/episode/11-1-25-trump-s-asia-trip-tops-this-week-s-list--68371503</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/68371503/trcs_110125_podcast.mp3"/>
+                <guid>https://www.spreaker.com/episode/11-1-25-trump-s-asia-trip-tops-this-week-s-list--68371503</guid>
                 
             </item>
         </channel>
