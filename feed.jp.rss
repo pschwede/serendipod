@@ -9,27 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 02 Nov 2025 04:29:31 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 03 Nov 2025 04:34:32 +0200</lastBuildDate>
             <item>
-                <title>It’s Always DNS: Lessons from the AWS Outage</title>
-                <description>This episode explores the recent AWS DNS outage, the importance of business continuity planning, cloud dependency, and failover strategies, all wrapped in humor and insightful discussion.
-Feed: https://sharedsecurity.net/feed/podcast/</description>
+                <title>Friday, October 31, 2025</title>
+                <description>Coming up, we tag along as KMUW&#39;s Tom Shine visits a Field of Screams. He…
+Feed: https://www.kmuw.org/podcast/wichitas-early-edition/rss.xml</description>
                 
                 
-                <link>https://sharedsecurity.net/2025/10/27/its-always-dns-lessons-from-the-aws-outage/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/socialmediasec/Shared_Security_E404.mp3"/>
-                <guid>https://sharedsecurity.net/2025/10/27/its-always-dns-lessons-from-the-aws-outage/</guid>
+                <link>https://www.kmuw.org/podcast/wichitas-early-edition/2025-10-31/friday-october</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cpa.ds.npr.org/s103/audio/2025/10/wee-10.31.25.mp3"/>
+                <guid>https://www.kmuw.org/podcast/wichitas-early-edition/2025-10-31/friday-october</guid>
                 
             </item><item>
-                <title>11/1/25 - Trump&#39;s Asia Trip Tops This Week&#39;s List</title>
-                <description>11/1/25 - Trump&#39;s Asia Trip Tops This Week&#39;s List
-Host Doug Stephan along with Michael Harrison, Editor/Publisher of Talkers Magazine, review the most talked about stories and people on news/talk radio for the week of October 27th, 2025 through...
-Feed: https://feeds.feedburner.com/TalkradioCountDown</description>
+                <title>The TRUTH About Ouija </title>
+                <description>Ouija expert Karen A. Dahlman joins Jim to explore the mysteries of the Ouija board. Karen shares the fascinating origins of the board, from its 19th-century spiritualist roots to its rise as a pop culture icon.
+She explains why she feels the Ouija itself isn’t dangerous, and discusses how she’s used it for decades as a tool for channeling and self-discovery...
+Feed: https://feeds.megaphone.fm/JIMHAROLDMEDIALLC5311493271</description>
                 
                 
-                <link>https://www.spreaker.com/episode/11-1-25-trump-s-asia-trip-tops-this-week-s-list--68371503</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/68371503/trcs_110125_podcast.mp3"/>
-                <guid>https://www.spreaker.com/episode/11-1-25-trump-s-asia-trip-tops-this-week-s-list--68371503</guid>
+                <link>https://jimharold.com/the-truth-about-ouija-the-paranormal-podcast-910/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/819/traffic.megaphone.fm/JIMHAROLDMEDIALLC6608270477.mp3?updated=1761658093"/>
+                <guid>https://jimharold.com/the-truth-about-ouija-the-paranormal-podcast-910/</guid>
                 
             </item>
         </channel>

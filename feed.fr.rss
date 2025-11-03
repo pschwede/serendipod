@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 02 Nov 2025 04:29:12 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 03 Nov 2025 04:34:18 +0200</lastBuildDate>
             <item>
-                <title>S21E06 - La Matiere Noire</title>
-                <description>Et si la matière noire existe réellement : des pr…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:161771999/sounds.rss</description>
+                <title>Quand la géologie nous conte les Alpes-de-Haute-Provence </title>
+                <description>Quand la géologie nous conte les Alpes-de-Haute-Provence 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10006.xml</description>
                 
                 
-                <link>https://soundcloud.com/albireo78/s21e06-la-matiere-noire</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2201383299-albireo78-s21e06-la-matiere-noire.mp3"/>
-                <guid>https://soundcloud.com/albireo78/s21e06-la-matiere-noire</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-02-novembre-2025-3255270</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/1fa0f68c-729d-43f0-9d8e-66bc36b68de2/10006-02.11.2025-ITEMA_24298272-2025F5147S0306-NET_MFI_4086813E-3010-4B47-BA0B-B2FC65953E60-22-32af97925603bdcbf49337ce5f3cece9.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/co2-mon-amour/co2-mon-amour-du-dimanche-02-novembre-2025-3255270</guid>
                 
             </item><item>
-                <title>Elkin Polo El Show : 11/01/2025 13:00</title>
-                <description>709-347252
-Feed: http://podcast.cism893.ca/radioshows/709/feed_itunes.xml</description>
+                <title>&#34;Océan&#34; de Cécile Wajsbrot</title>
+                <description>&#34;Océan&#34; de Cécile Wajsbrot
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11496.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/347252.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/347252.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/347252.mp3</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/samedi-fiction/ocean-de-cecile-wajsbrot-6099040</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/04311d69-aed4-4aec-bbe9-7ac6e61d7676/11496-25.10.2025-ITEMA_24290263-2025C3067E0019-ITE_00151416_RSCE-21-90a46154d774972e44b9916db36d1fcf.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/samedi-fiction/ocean-de-cecile-wajsbrot-6099040</guid>
                 
             </item>
         </channel>

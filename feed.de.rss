@@ -9,27 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 02 Nov 2025 04:29:06 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 03 Nov 2025 04:34:15 +0200</lastBuildDate>
             <item>
-                <title>#292 Schundschinken</title>
-                <description>&lt;p&gt;Link zum Discord: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://discord.gg/lcbrain⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/p&gt;&lt;p&gt;Link zur Spotify-Playlist: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://open.spotify.com/playlist/3tf6uIjYQM7wHKtgQYJOcq?si=zl6stYe_SpmwqSBzBEt5vQ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/p&gt;&lt;p&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://endlichkaufen.de/⁠&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-
-Feed: https://anchor.fm/s/fc784748/podcast/rss</description>
+                <title>Ich bin ein Millenial | Philipp Potthast | Best of Poetry Slam Day 2025</title>
+                <description>
+&lt;p&gt;by Kampf der Künste
+Kampf der Künste - das ist euer Zugang zu allem, was mit Spoken Word zu tun hat. Clips, Podcasts, Specials, Audio, Video, Bild &amp;amp; Ton!
+Wir bündeln das alles, zünden ein Feuerwerk an Spoken Word, Stories, Lyrik, Satire und Comedy und knallen die Rakete aus unserer Homebase in Hamburg in die weiten Himmel des Internets...
+Feed: https://slamaufsohr.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/yannick168/episodes/292-Schundschinken-e3a68sf</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/fc784748/podcast/play/110354767/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-28%2F9f193837-3e81-5d9e-1ed9-20b1147fe1a7.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/yannick168/episodes/292-Schundschinken-e3a68sf</guid>
+                <link>https://slamaufsohr.podigee.io/s3e155-millenials</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2187566-m-34cfc1c1ec27578816250e44d50ff632.mp3?source=feed"/>
+                <guid>https://slamaufsohr.podigee.io/s3e155-millenials</guid>
                 
             </item><item>
-                <title>EP233 | Shocktober Special: WEAPONS, TOGETHER und BRING HER BACK</title>
-                <description>Das es im Blockbuster Segment jeden Monat oder nahezu jede Woche einen neuen Hype gibt, ist vollkommen normal. Im Horror-Sektor ist es eher die Ausnahme.   Doch einige Filme konnten die letzten Wochen einen regelrechten Hype generieren, also werfen wir mal einen Blick darauf.
-Feed: https://www.ruheimsaal.de/ruheimsaal?format=rss</description>
+                <title>Klimaschutz? Klar, aber nicht mit mir! - Philipp Staab im Gespräch</title>
+                <description>Die Krisen unserer Zeit fordern die Politik. Doch zieht sie Konsequenzen, wird ihr Bevormundung vorgeworfen. Ein Dilemma.
+Feed: http://www.ndr.de/podcast/podcast3020.xml</description>
                 
                 
-                <link>https://www.ruheimsaal.de/ruheimsaal/ep233-shocktober-special</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/static1.squarespace.com/static/5ff4c83d68269b5823aacfdf/t/68dbe0f9d7df3f2df936f5de/1759240537636/ruheimsaal-233-shocktober_96kbps.mp3"/>
-                <guid>https://www.ruheimsaal.de/ruheimsaal/ep233-shocktober-special</guid>
+                <link>https://www.ndr.de/kultur/sendungen/klimaschutz-klar-aber-nicht-mit-mir-philipp-staab-im-gespraech,audio-317574.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2025/1029/AU-20251029-1530-2700.mp3"/>
+                <guid>https://www.ndr.de/kultur/sendungen/klimaschutz-klar-aber-nicht-mit-mir-philipp-staab-im-gespraech,audio-317574.html</guid>
                 
             </item>
         </channel>
