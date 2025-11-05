@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 03 Nov 2025 04:34:15 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 05 Nov 2025 04:30:39 +0200</lastBuildDate>
             <item>
-                <title>Ich bin ein Millenial | Philipp Potthast | Best of Poetry Slam Day 2025</title>
-                <description>
-&lt;p&gt;by Kampf der Künste
-Kampf der Künste - das ist euer Zugang zu allem, was mit Spoken Word zu tun hat. Clips, Podcasts, Specials, Audio, Video, Bild &amp;amp; Ton!
-Wir bündeln das alles, zünden ein Feuerwerk an Spoken Word, Stories, Lyrik, Satire und Comedy und knallen die Rakete aus unserer Homebase in Hamburg in die weiten Himmel des Internets...
-Feed: https://slamaufsohr.podigee.io/feed/mp3</description>
+                <title>5.103 - Der Käfer in der Klemme (Teil 2)</title>
+                <description>&lt;p&gt;Happy Mystery&lt;/p&gt;&lt;br&gt;&lt;p&gt;Eine neue Kategorie hält Einzug in die Happy Potter Welt. Herzlich willkommen Happy Mystery. In Folge eins besprechen wir die ornitomantik. Wusstet ihr was das ist? Und auf einer ganz anderen Note: stand das Zaubereiministerium während des letzten Zaubererkonflikts unter der Herrschaft von Voldemort ? (Frage für einen Freund) Aber ich greife zu sehr voraus. Wir befinden uns nämlich in dieser Folge in einem von Angst umspülten Hogwarts...
+Feed: https://feeds.acast.com/public/shows/61a4cf1e8c22e4001a275dde</description>
                 
                 
-                <link>https://slamaufsohr.podigee.io/s3e155-millenials</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2187566-m-34cfc1c1ec27578816250e44d50ff632.mp3?source=feed"/>
-                <guid>https://slamaufsohr.podigee.io/s3e155-millenials</guid>
+                <link>https://shows.acast.com/happy-potter/episodes/103-der-kafer-in-der-klemme-teil-2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/61a4cf1e8c22e4001a275dde/e/690a054ceb22ceaaf11baff5/media.mp3"/>
+                <guid>https://shows.acast.com/happy-potter/episodes/103-der-kafer-in-der-klemme-teil-2</guid>
                 
             </item><item>
-                <title>Klimaschutz? Klar, aber nicht mit mir! - Philipp Staab im Gespräch</title>
-                <description>Die Krisen unserer Zeit fordern die Politik. Doch zieht sie Konsequenzen, wird ihr Bevormundung vorgeworfen. Ein Dilemma.
-Feed: http://www.ndr.de/podcast/podcast3020.xml</description>
+                <title>WOW 02.11.2025</title>
+                <description>
+Feed: https://podcast.orf.at/podcast/wie/wie_wow/wie_wow.xml</description>
                 
                 
-                <link>https://www.ndr.de/kultur/sendungen/klimaschutz-klar-aber-nicht-mit-mir-philipp-staab-im-gespraech,audio-317574.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2025/1029/AU-20251029-1530-2700.mp3"/>
-                <guid>https://www.ndr.de/kultur/sendungen/klimaschutz-klar-aber-nicht-mit-mir-philipp-staab-im-gespraech,audio-317574.html</guid>
+                <link>https://sound.orf.at/podcast/wie/radio-wien-wow/wow-02112025</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/wie/wie_wow/items/di_wie_wow_cdk_7d2af96d110e4e3c9555afb3490bff4f.mp3?etag=257a0ee72aa6e52a1ade6e040bea5873"/>
+                <guid>https://sound.orf.at/podcast/wie/radio-wien-wow/wow-02112025</guid>
                 
             </item>
         </channel>

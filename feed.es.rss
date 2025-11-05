@@ -9,36 +9,33 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 03 Nov 2025 04:34:22 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 05 Nov 2025 04:30:51 +0200</lastBuildDate>
             <item>
-                <title>Predica: Corazón por la casa | Ps. Jeff Duncan</title>
+                <title>Predica: Corazón por la casa | Pt.2 | Ps. Jeff Duncan</title>
                 <description>Bienvenido a Iglesia Árbol de Vida León! ????
  
 Cada familia necesita un hogar — y cada creyente necesita una casa. Este domingo el mensaje “Corazón por la Casa” trata sobre amar, servir e invertir en el lugar donde Dios transforma vidas. 
  
  Aprendamos juntos como hacer de la casa de Dios nuestro hogar.
- 
-???? Conéctate con nosotros:
- 
-???? Iglesia Árbol de Vida León
-???? Reuniones presenciales: Domingos 10:00 am y 12:30 pm 
-???? Dirección: Blvd...
 Feed: https://arboldevida.podbean.com/feed.xml</description>
                 
                 
-                <link>https://arboldevida.podbean.com/e/predica-corazon-por-la-casa-ps-jeff-duncan/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/7wyd8365s8ytt8v7/YT_Y_PODaj9tl.mp3"/>
-                <guid>https://arboldevida.podbean.com/e/predica-corazon-por-la-casa-ps-jeff-duncan/</guid>
+                <link>https://arboldevida.podbean.com/e/predica-corazon-por-la-casa-pt2-ps-jeff-duncan/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/6tm2367u6j64xi7q/YT_Y_POD8q993.mp3"/>
+                <guid>https://arboldevida.podbean.com/e/predica-corazon-por-la-casa-pt2-ps-jeff-duncan/</guid>
                 
             </item><item>
-                <title>Melodías pizarras - Las clásicas Melodías Pizarras - 04/10/25</title>
-                <description>Las clásicas Melodías Pizarra
-Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
+                <title>Aquí todo lo resuelven con pensamientos y oraciones #Opinión</title>
+                <description>&lt;p&gt;Thoughts and prayers, o sea, pensamientos y oraciones, es lo que vas a encontrar en todos los comentarios de norteamericanos en redes sociales frente a una desgracia, incluso, cuando ya no hay nada que se pueda hacer.&lt;/p&gt;
+&lt;p&gt;Te invito a debatir sobre este tema en el Foro de la Comunidad de TuPodcast https://foro.tupodcast.com&lt;/p&gt;
+&lt;p&gt;Y otras formas de contacto las encuentran en:&lt;/p&gt;
+&lt;p&gt;https://ernestoacosta.me/contacto...
+Feed: https://www.tupodcast.com/@comopiensodigo/feed.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/melodias-pizarras/clasicas-melodias-pizarras-04-10-25/16756566/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16756566.mp3"/>
-                <guid>https://www.rtve.es/play/audios/melodias-pizarras/clasicas-melodias-pizarras-04-10-25/16756566/</guid>
+                <link>https://www.tupodcast.com/@comopiensodigo/episodes/aqui-todo-lo-resuelven-con-pensamientos-y-oraciones</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=fca9a628-07fc-5904-864a-41644b4c3dc8/www.tupodcast.com/audio/@comopiensodigo/aqui-todo-lo-resuelven-con-pensamientos-y-oraciones.mp3?_from=fyyd.de"/>
+                <guid>https://www.tupodcast.com/@comopiensodigo/episodes/aqui-todo-lo-resuelven-con-pensamientos-y-oraciones</guid>
                 
             </item>
         </channel>
