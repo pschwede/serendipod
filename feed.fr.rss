@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 07 Nov 2025 04:29:36 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 08 Nov 2025 04:28:59 +0200</lastBuildDate>
             <item>
-                <title>Vieillir n&#39;est pas un crime !</title>
-                <description>&lt;p&gt;Le look 80&#39;s n&#39;a pris aucune ride avec Julie &amp;amp; Mag ! &lt;/p&gt;&lt;p&gt;Retrouve-les cette semaine dans une édition inédite d&#39;ESSENTIEL academy sur notre nouvelle radio vintage ESSENTIEL Gold ! &lt;/p&gt;
-Feed: https://feeds.captivate.fm/essentiel-radio-essentiel-academy/</description>
+                <title>Catholiques de France, la tentation radicale   4/4 : Nouvelles utopies </title>
+                <description>Catholiques de France, la tentation radicale   4/4 : Nouvelles utopies 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10177.xml</description>
                 
                 
-                <link>https://essentielradio.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/2c20f772-ccdf-40c7-9c65-27db0632920f.mp3"/>
-                <guid>https://essentielradio.com/</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/nouvelles-utopies-3186145</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/cd4c04e6-b236-4bc7-ace1-af349f49f7ff/10177-03.11.2025-ITEMA_24299232-2025C26362E0116-ITE_00153365_RSCE-21-50656a0465cb53980ed34b4bab712e58.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/nouvelles-utopies-3186145</guid>
                 
             </item><item>
-                <title>ZQSDeux #44 - FF Tactics, Dragon Quest Remake : parlons JRPG</title>
-                <description>&lt;p&gt;Dans ce nouveau ZQSDeux, Pierre et Jika évoquent les dernières sorties de chez Square-Enix, deux approches très différentes du remake et du remaster. D&#39;un côté Dragon Quest I&amp;amp;II HD-2D Remake et de l&#39;autre Final Fantasy Tactics - The Ivalice Chronicles. Deux JRPG &#34;dans leur jus&#34; qui nécessitaient une bonne couche de  modernité versus un classique du tactical-RPG presque intouché et intouchable...
-Feed: https://feeds.acast.com/public/shows/674c3de3f6ece089ea1b129c</description>
+                <title>#030 - Rubrique KAYA : Parole d’Écopreneur - Quentin de Crayencour, Le Germoir des fontaines (FR)</title>
+                <description>“Parole d’Écopreneur”, les parcours inspirants de celles et ceux qui entreprennent autrement
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7892_7576cac4dcce6c190b102f990bbe41d6.rss</description>
                 
                 
-                <link>https://shows.acast.com/zqsd/episodes/6909f68c41fa633117d99f8e</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/674c3de3f6ece089ea1b129c/e/6909f68c41fa633117d99f8e/media.mp3"/>
-                <guid>https://shows.acast.com/zqsd/episodes/6909f68c41fa633117d99f8e</guid>
+                <link>https://whatsyourstory.be/root/fr/quentin-de-crayencour-le-germoir-des-fontaines-kaya-parole-d-ecopreneur-e-podcast-midoricast-podibuz-the-podcast-factory-org</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/op3.dev/e/track.podcastics.com/7892/390151.mp3"/>
+                <guid>https://whatsyourstory.be/root/fr/quentin-de-crayencour-le-germoir-des-fontaines-kaya-parole-d-ecopreneur-e-podcast-midoricast-podibuz-the-podcast-factory-org</guid>
                 
             </item>
         </channel>

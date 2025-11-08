@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 07 Nov 2025 04:29:32 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 08 Nov 2025 04:28:55 +0200</lastBuildDate>
             <item>
-                <title>Yoga</title>
-                <description>Atem, Bewegung und Geist in Einklang
-Feed: https://feeds.acast.com/public/shows/685287280bed216db7334e3e</description>
+                <title>Tagessegen - 8. November 2025 </title>
+                <description>Bruder Paulus sieht sich eher als „Mann fürs Grobe“. Aber er hat große Wertschätzung für die, die im Hintergrund die kleinen Dinge tun.
+Feed: https://podcast.katholisch.de/1/1-tagessegen.xml</description>
                 
                 
-                <link>https://shows.acast.com/einschlafen-mit-wikipedia/episodes/690cbf447728b8766c74454d</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/685287280bed216db7334e3e/e/690cbf447728b8766c74454d/media.mp3"/>
-                <guid>https://shows.acast.com/einschlafen-mit-wikipedia/episodes/690cbf447728b8766c74454d</guid>
+                <link>https://www.katholisch.de/podcast/1-tagessegen/34558-tagessegen-8-november-2025</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.katholisch.de/1/media/0e188a54-4057-4399-a078-731d4ab4d243.mp3"/>
+                <guid>https://www.katholisch.de/podcast/1-tagessegen/34558-tagessegen-8-november-2025</guid>
                 
             </item><item>
-                <title>Peter Kirchberger im Interview: Schauspieler, Sprecher Wallace (Wallace und Gromit); EUROPA</title>
-                <description>&lt;p&gt;In dieser besonderen Ausgabe von Diggytalk zu Gast: Peter Kirchberger! &lt;/p&gt;&lt;br&gt;&lt;p&gt;Seit über 30 Jahren ist seine Stimme ein fester Begleiter in Serien, Hörspielen und Filmen. Er spricht als Wallace in „Wallace und Gromit“, bringt Ernie in der Sesamstraße zum Leben und synchronisiert Adam West in den Kultepisoden von „Batman“...
-Feed: https://feeds.acast.com/public/shows/6318c63f6c187b00135fb38b</description>
+                <title>Folge 140 - Onlyfans</title>
+                <description>Storno, Abbruch, Ende! Marisas Laptop geht baden und wir müssen uns anderweitig umschauen. Wo und wie genau erfahrt ihr hier in der Podcastfolge.
+Feed: https://cdn.julephosting.de/podcasts/772-umgotteswillen/feed.rss</description>
                 
                 
-                <link>https://shows.acast.com/diggytalk/episodes/peter-kirchberger-im-interview</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6318c63f6c187b00135fb38b/e/68f4f33a4c07b133bf5bf4c0/media.mp3"/>
-                <guid>https://shows.acast.com/diggytalk/episodes/peter-kirchberger-im-interview</guid>
+                <link>https://um-gotteswillen.blogs.audiorella.com/142-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.julephosting.de/podcasts/772-umgotteswillen/214380-new-episode.mp3?v=1"/>
+                <guid>https://um-gotteswillen.blogs.audiorella.com/142-new-episode</guid>
                 
             </item>
         </channel>
