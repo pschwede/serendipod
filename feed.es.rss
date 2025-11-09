@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 08 Nov 2025 04:29:03 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 09 Nov 2025 04:28:51 +0200</lastBuildDate>
             <item>
-                <title>HistoCast 326 - Roger de Lauria</title>
-                <description>¡Vótame en los Premios iVoox 2025! &lt;br&gt;Esto es HistoCast. No es Esparta pero casi. Viajamos a Cocentaina para hablar del gran almirante de la corona de Arag&amp;oacute;n, Roger de Lauria. Y lo hacemos gracias a Naxo Belda, al que escoltamos @cerveranavas, @tamtamveramendi y @goyix_salduero. Os recordamos que nos pod&amp;eacute;is seguir a trav&amp;eacute;s de nuestra cuenta de twitter @histocast y en facebook...
-Feed: https://www.ivoox.com/feed_fg_f132047_filtro_1.xml</description>
+                <title>Crónica internacional - En Sudán, pendientes de si los paramilitares de las Fuerzas de Apoyo Rápido aceptan o no la propuesta de alto el fuego sugerida por EEUU.</title>
+                <description>En Sudán, pendientes de si los paramilitares de las Fuerzas de Apoyo Rápido aceptan o no la propuesta de alto el fuego sugerida por EEUU.
+Feed: https://www.rtve.es/api/programas/130031/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/histocast-326-roger-lauria-audios-mp3_rf_161272465_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/histocast-326-roger-lauria_mf_161272465_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/histocast-326-roger-lauria-audios-mp3_rf_161272465_1.html</guid>
+                <link>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-sudan-pendientes-si-paramilitares-fuerzas-apoyo-rapido-aceptan-no-propuesta-alto-fuego-sugerida-eeuu/16805432/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16805432.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-sudan-pendientes-si-paramilitares-fuerzas-apoyo-rapido-aceptan-no-propuesta-alto-fuego-sugerida-eeuu/16805432/</guid>
                 
             </item><item>
-                <title>Mañana más - 3x41 - AUDIO: Fito y &#34;Sáhara, la barca del desierto&#34;</title>
-                <description>3x41 - AUDIO: Fito y &#34;Sáhara, la barca del desierto&#34;
-Feed: https://www.rtve.es/api/adapter/programas/175697/audios.rss</description>
+                <title>Melodías pizarras - Las clásicas Melodías Pizarras - 04/10/25</title>
+                <description>Las clásicas Melodías Pizarra
+Feed: http://api.rtve.es/api/programas/22332/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/manana-mas/manana-mas-3x41-audio-fito-sahara-barca-del-desierto/16803545/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16803545.mp3"/>
-                <guid>https://www.rtve.es/play/audios/manana-mas/manana-mas-3x41-audio-fito-sahara-barca-del-desierto/16803545/</guid>
+                <link>https://www.rtve.es/play/audios/melodias-pizarras/clasicas-melodias-pizarras-04-10-25/16756566/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16756566.mp3"/>
+                <guid>https://www.rtve.es/play/audios/melodias-pizarras/clasicas-melodias-pizarras-04-10-25/16756566/</guid>
                 
             </item>
         </channel>

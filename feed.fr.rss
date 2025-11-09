@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 08 Nov 2025 04:28:59 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 09 Nov 2025 04:28:47 +0200</lastBuildDate>
             <item>
-                <title>Catholiques de France, la tentation radicale   4/4 : Nouvelles utopies </title>
-                <description>Catholiques de France, la tentation radicale   4/4 : Nouvelles utopies 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10177.xml</description>
+                <title>LES AUDACIEUSES avec Marine Barnérias, animatrice, productrice et réalisatrice </title>
+                <description>&lt;p&gt;Depuis fin 2023, avec Céline FERRARY et SOAZIG CASTELNERAC, nous avons créé Les Audacieuses : des événements féminins uniques, alliant podcasts live, networking et inspiration, dans des lieux d’exception.&lt;/p&gt;&lt;br&gt;&lt;p&gt;En 2025, notre ambition est claire : avoir plus d’impact, multiplier les rendez-vous au féminin et inspirer encore plus de femmes à devenir actrices de leur succès...
+Feed: https://feeds.acast.com/public/shows/61969132f2a68400119b1827</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/nouvelles-utopies-3186145</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/cd4c04e6-b236-4bc7-ace1-af349f49f7ff/10177-03.11.2025-ITEMA_24299232-2025C26362E0116-ITE_00153365_RSCE-21-50656a0465cb53980ed34b4bab712e58.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/nouvelles-utopies-3186145</guid>
+                <link>https://shows.acast.com/l-alea-par-laura-pouliquen/episodes/les-audacieuses-avec-marine-barnerias-animatrice-productrice</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/61969132f2a68400119b1827/e/68ecaa82d798804c9e53d7a5/media.mp3"/>
+                <guid>https://shows.acast.com/l-alea-par-laura-pouliquen/episodes/les-audacieuses-avec-marine-barnerias-animatrice-productrice</guid>
                 
             </item><item>
-                <title>#030 - Rubrique KAYA : Parole d’Écopreneur - Quentin de Crayencour, Le Germoir des fontaines (FR)</title>
-                <description>“Parole d’Écopreneur”, les parcours inspirants de celles et ceux qui entreprennent autrement
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7892_7576cac4dcce6c190b102f990bbe41d6.rss</description>
+                <title>Leon Fleisher, 1928-2020 (2)</title>
+                <description>Leon Fleisher, 1928-2020 (2)
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14503.xml</description>
                 
                 
-                <link>https://whatsyourstory.be/root/fr/quentin-de-crayencour-le-germoir-des-fontaines-kaya-parole-d-ecopreneur-e-podcast-midoricast-podibuz-the-podcast-factory-org</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/op3.dev/e/track.podcastics.com/7892/390151.mp3"/>
-                <guid>https://whatsyourstory.be/root/fr/quentin-de-crayencour-le-germoir-des-fontaines-kaya-parole-d-ecopreneur-e-podcast-midoricast-podibuz-the-podcast-factory-org</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/portraits-de-famille/leon-fleisher-1928-2020-2-7832832</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/c2331cd6-dc64-4603-bd36-da45f327c613/14503-08.11.2025-ITEMA_24305104-2025M23831E0027-ITE_00153613_RSCE-21-038edf500841473eecb807cb1a8d4177.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/portraits-de-famille/leon-fleisher-1928-2020-2-7832832</guid>
                 
             </item>
         </channel>
