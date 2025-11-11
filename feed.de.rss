@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 10 Nov 2025 04:33:10 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Nov 2025 04:31:27 +0200</lastBuildDate>
             <item>
-                <title>Rundschau 07.11.25</title>
-                <description> &lt;br&gt; 
-Feed: https://sr-mediathek.de/pcast/feeds/SR3_RU13_P/feed.xml</description>
+                <title>Zerstört Künstliche Intelligenz die Fotografie?</title>
+                <description>&lt;p&gt;Zur Akademie: ⁠https://fotografie-akademie.eu/⁠&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Tägliche Tipps auf Instagram: ⁠@matthiasbutz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Klar, ist die Fotografie im Wandel. Das war sie immer und wird sie immer sein. Der Einzug von KI sorgt in vielen Bereichen für viel Wirbel und Unsicherheit. Ich will mit dieser Folge etwas Klarheit und Linie in die Sache bringen. &lt;/p&gt;
+
+Feed: https://anchor.fm/s/55243d8/podcast/rss</description>
                 
                 
-                <link>https://storage01.sr.de/podcast/SR3_RU13_P/SR3_RU13_P_40948_20251107_133953.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://storage01.sr.de/podcast/SR3_RU13_P/SR3_RU13_P_40948_20251107_133953.mp3"/>
-                <guid>https://storage01.sr.de/podcast/SR3_RU13_P/SR3_RU13_P_40948_20251107_133953.mp3</guid>
+                <link>https://podcasters.spotify.com/pod/show/matthiasbutz/episodes/Zerstrt-Knstliche-Intelligenz-die-Fotografie-e3akt6h</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/55243d8/podcast/play/110834321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-7%2F1a60941f-0bf6-66cd-8b1c-582c34f1fb0d.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/matthiasbutz/episodes/Zerstrt-Knstliche-Intelligenz-die-Fotografie-e3akt6h</guid>
                 
             </item><item>
-                <title>Dora Heldt trifft - Moritz Netenjakob</title>
-                <description>&lt;p&gt;&#34;Es darf gelacht werden!&#34; Für die 100. Interviewfolge hat sich Bestsellerautorin Dora Heldt einen ganz besonders lustigen Gast in den Buch-Podcast eingeladen: Moritz Netenjakob, seines Zeichens Autor, Kabarettist, Drehbuchautor, Satiriker, der u.a. in seinem neuen Buch &#34;Der beste Papa der Welt&#34; über den Alltag mit seiner angeheirateten türkischen Familie berichtet...
-Feed: https://feeds.acast.com/public/shows/64906f1107f9cb0011aae044</description>
+                <title>Nr. 67 - Sales Automation – Zauber oder Alltagswerkzeug?</title>
+                <description>Warum erfolgreiche Unternehmer Prozesse statt Tools optimieren – über Sogverkauf, Kundenbindung und ethische Skalierung.
+Feed: https://letscast.fm/podcasts/doppelerfolg-mein-unternehmen-und-ich-ed322831/feed</description>
                 
                 
-                <link>https://www.dtv.de/special/dora-heldt-trifft</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/64906f1107f9cb0011aae044/e/68e8ceb0f513ad2b81fffabc/media.mp3"/>
-                <guid>https://www.dtv.de/special/dora-heldt-trifft</guid>
+                <link>https://doppelerfolg.letscast.fm/episode/nr-67-sales-automation-zauber-oder-alltagswerkzeug</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/ed322831/episode/db0d565f.mp3?t=1762003212"/>
+                <guid>https://doppelerfolg.letscast.fm/episode/nr-67-sales-automation-zauber-oder-alltagswerkzeug</guid>
                 
             </item>
         </channel>
