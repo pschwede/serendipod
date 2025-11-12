@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Nov 2025 04:31:44 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 12 Nov 2025 04:31:43 +0200</lastBuildDate>
             <item>
-                <title>#521 Hvor mye vil Høyre vokse med Ine Eriksen Søreide som leder?</title>
-                <description>Hvor mye vil Høyre vokse med Ine Eriksen Søreide som leder? Noe, men kanskje ikke voldsomt?
-Feed: https://feeds.acast.com/public/shows/1af3d254-4066-5b32-937e-72bab2299f16</description>
+                <title>17H33 ECR Sport</title>
+                <description>Stay up-to-date with the latest sports news from KwaZulu-Natal, South Africa and around the world.
+Feed: https://iono.fm/rss/chan/3025</description>
                 
                 
-                <link>https://www.liberaleren.no</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/liberaleren/e/6910daffc1ed8717c55ad2b8/media.mp3"/>
-                <guid>https://www.liberaleren.no</guid>
+                <link>https://iono.fm/e/1617134</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dl.iono.fm/epi/prov_151/epi_1617134_medium.m4a?p=rss"/>
+                <guid>https://iono.fm/e/1617134</guid>
                 
             </item><item>
-                <title>#326 - Best 25 in the 21st: SINNERS</title>
-                <description>This week, we continue our exploration of the 25 best films of the 21st century (so far). We take a look at our 5th and most recently released film: 2025&#39;s Sinners. We are putting this list together based on the rankings of our Patrons. You can check...
-Feed: https://dalyplanetfilms.libsyn.com/</description>
+                <title>Small Feces: Jerry A of Poison Idea loves Turbojugend</title>
+                <description>In this episode, TJ Radio´s Erik the Rad caught up with the hardcore legend Jerry A of the Portla...
+Feed: https://turbojugendradio.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://dalyplanetfilms.libsyn.com/326-best-25-in-the-21st-sinners</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/dalyplanetfilms/326.mp3?dest-id=454446"/>
-                <guid>https://dalyplanetfilms.libsyn.com/326-best-25-in-the-21st-sinners</guid>
+                <link>https://www.podomatic.com/podcasts/turbojugendradio/episodes/2025-10-31T03_00_00-07_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/turbojugendradio.podomatic.com/enclosure/2025-10-31T03_00_00-07_00.m4a?_=1761904838.17581413"/>
+                <guid>https://www.podomatic.com/podcasts/turbojugendradio/episodes/2025-10-31T03_00_00-07_00</guid>
                 
             </item>
         </channel>

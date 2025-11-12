@@ -9,29 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Nov 2025 04:31:34 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 12 Nov 2025 04:31:33 +0200</lastBuildDate>
             <item>
-                <title>ÚLTIMA HORA 22:00 P.M. del domingo 2 de Noviembre de 2025</title>
-                <description>&lt;p&gt;Resumen informativo con las noticias más destacadas de Colombia y el mundo del domingo 2 de noviembre.&lt;/p&gt;
-Feed: http://fapi-top.prisasd.com/podcast/caracol/el_personaje_de_la_semana/itunestfp/podcast.xml</description>
+                <title>UCDM - Lección 310 con Claudio</title>
+                <description>
+Feed: https://www.spreaker.com/show/6357279/episodes/feed</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-co.mc.tritondigital.com/EL_PERSONAJE_DE_LA_SEMANA_CARACOL_RADIO_1188_P/media/mcv/caracol/multimedia/20251103/4688733_030928_audio_128.mp3?dest=el_personaje_de_la_semana"/>
-                <guid></guid>
+                <link>https://www.spreaker.com/episode/ucdm-leccion-310-con-claudio--68451362</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/68451362/310.mp3"/>
+                <guid>https://www.spreaker.com/episode/ucdm-leccion-310-con-claudio--68451362</guid>
                 
             </item><item>
-                <title>El Registro Akáshico como oráculo por Rafael Rishi</title>
-                <description>Nuestro colaborador Rafael Rishi nos habla en este interesante video de la fuerza de los registros ak&amp;aacute;shicos como &amp;oacute;raculos y nos invita a comprenderlo desde el curso programado para el 13 y 14 de diciembre 2025.  &amp;iexcl;Esperemos que os guste!
-Informaci&amp;oacute;n: https://www.solahimsa.org/curso/registros-akashicos/
-Consultas: https://www.solahimsa.org/consultas-2/
-NUEVO CANAL DIRECTOS: https://www.youtube...
-Feed: https://feeds.ivoox.com/feed_fg_f1407362_filtro_1.xml</description>
+                <title>ESO NO ESTABA EN MI LIBRO DE HISTORIA DEL BLUES</title>
+                <description>Hoy vamos a sumergirnos, con todas las de la ley, en el corazón de la música blues, ese género musical que tanto suena por aquí abajo.
+Y para hacerlo, no estamos solos. Hoy tenemos una tertulia de lujo, un encuentro con dos mentes que saben mucho sobre este género. Nos acompaña Mariano Minuesa autor del reciente Eso no estaba en mi libro de Historia del blues editado por Almuzara...
+Feed: https://feeds.ivoox.com/feed_fg_f11184888_filtro_1.xml</description>
                 
                 
-                <link>https://www.ivoox.com/registro-akashico-como-oraculo-rafael-rishi-audios-mp3_rf_158007873_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/registro-akashico-como-oraculo-rafael-rishi_mf_158007873_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/registro-akashico-como-oraculo-rafael-rishi-audios-mp3_rf_158007873_1.html</guid>
+                <link>https://www.ivoox.com/eso-no-estaba-en-mi-libro-de-historia-audios-mp3_rf_161760758_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/eso-no-estaba-en-mi-libro-de-historia_mf_161760758_feed_1.mp3?d=1762189556"/>
+                <guid>https://www.ivoox.com/eso-no-estaba-en-mi-libro-de-historia-audios-mp3_rf_161760758_1.html</guid>
                 
             </item>
         </channel>

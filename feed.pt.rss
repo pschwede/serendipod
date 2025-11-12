@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Nov 2025 04:31:37 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 12 Nov 2025 04:31:36 +0200</lastBuildDate>
             <item>
-                <title>Reflexões Filosóficas sobre o Filme: Dias Perfeitos</title>
-                <description>&lt;p&gt;No coração frenético e tecnológico de Tóquio, surge o senhor Hirayama. Um homem simples que transforma o ato de limpar banheiros públicos em um ritual de beleza, dignidade, ordem e primor. Em meio ao ruído e à velocidade da metrópole, ele nos revela uma forma contemplativa, silenciosa, atenta e profundamente humana de estar no mundo...
-Feed: https://rss.libsyn.com/shows/122663/destinations/721875.xml</description>
+                <title>Domina a IA: Prompts, Algoritmos e Criatividade</title>
+                <description>“Educar” a IA pode soar estranho… mas tudo começa na forma como fazemos perguntas, estruturamos prompts e entendemos os algoritmos que moldam as nossas interações digitais. Neste episódio do podcast da Bosch, exploramos, por isso, como interagir de forma inteligente com a Inteligência Artificial generativa.
+A conversa é conduzida por Catarina Barata (Bosch Digital) e tem como convidado Rui Lourenço, diretor criativo na Mindtree e criador de conteúdos digitais com recurso a IA...
+Feed: https://fala-me-de-tecnologia.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://nova-acropole.libsyn.com/reflexes-filosficas-sobre-o-filme-dias-perfeitos</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/nova-acropole/NA_Filme_Dias_Perfeitos.mp3?dest-id=721875"/>
-                <guid>https://nova-acropole.libsyn.com/reflexes-filosficas-sobre-o-filme-dias-perfeitos</guid>
+                <link>https://fala-me-de-tecnologia.podigee.io/53-domina-a-ia-prompts-algoritmos-e-criatividade</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2184503-m-3959e9b57b86c0039c484504504bce1a.mp3?source=feed"/>
+                <guid>https://fala-me-de-tecnologia.podigee.io/53-domina-a-ia-prompts-algoritmos-e-criatividade</guid>
                 
             </item><item>
-                <title>COMUNICADO IMPORTANTE - VENUS #044</title>
-                <description>Salve, salve viajantes! Hoje temos um comunicado importante para passar pra vocês.
-Feed: https://anchor.fm/s/a5676948/podcast/rss</description>
+                <title>Profetas na Academia - BTCast ABC2 082</title>
+                <description>Muito bem (3x), está no ar mais um BTCast ABC2! Neste episódio, Bibo, Tiago Pereira, Guilherme de Carvalho e Raoni Bagno exploram os três ofícios de Cristo e como eles moldam a presença e a vocação do cristão no ambiente acadêmico. Jesus, o nosso,
+Feed: https://bibotalk.com/categoria/podcast/btcast-abc2/feed/</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/venus-podcast0/episodes/COMUNICADO-IMPORTANTE---VENUS-044-e3a0n0i</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO7316652326.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/venus-podcast0/episodes/COMUNICADO-IMPORTANTE---VENUS-044-e3a0n0i</guid>
+                <link>https://bibotalk.com/podcast/profetas-na-academia-btcast-abc2-082/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/bibotalk/bibotalk.com/btcast/btcast_abc2_082.mp3"/>
+                <guid>https://bibotalk.com/podcast/profetas-na-academia-btcast-abc2-082/</guid>
                 
             </item>
         </channel>
