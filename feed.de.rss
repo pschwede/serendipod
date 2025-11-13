@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 12 Nov 2025 04:31:26 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 13 Nov 2025 04:31:38 +0200</lastBuildDate>
             <item>
-                <title>Retro-TV der 60er Jahre: Peter Thomas und seine legendären Soundtracks</title>
-                <description>Peter Thomas ist der Klang-Architekt des Kino und Fernsehfilms der 60er Jahre
-Feed: https://podcast.hr.de/hr-info_kulturlust/podcast.xml</description>
+                <title>Folge 55: Etwas analog, etwas digitale Emotion und der Sinn von neuen Kameras.</title>
+                <description>Ich teste eure Kamera Link
+Feed: https://fotodepri.de/feed/podcast/fotodepri/mp3/</description>
                 
                 
-                <link>https://mp3podcasthr-a.akamaihd.net/mp3/podcast/hr-info_kulturlust/hr-info_kulturlust_20251106_104697674.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mp3podcasthr-a.akamaihd.net/mp3/podcast/hr-info_kulturlust/hr-info_kulturlust_20251106_104697674.mp3"/>
-                <guid>https://mp3podcasthr-a.akamaihd.net/mp3/podcast/hr-info_kulturlust/hr-info_kulturlust_20251106_104697674.mp3</guid>
+                <link>https://fotodepri.de/podcast/folge-55-etwas-analog-etwas-digitale-emotion-und-der-sinn-von-neuen-kameras/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://fotodepri.de/podcast-download/503/folge-55-etwas-analog-etwas-digitale-emotion-und-der-sinn-von-neuen-kameras.mp3"/>
+                <guid>https://fotodepri.de/podcast/folge-55-etwas-analog-etwas-digitale-emotion-und-der-sinn-von-neuen-kameras/</guid>
                 
             </item><item>
-                <title>Wake up mit dem Sänger Paul Parese und den Songwriter David Strauss [live]</title>
-                <description>08.11.2025 - Über Paul Parese &amp;#8230; Ich bin Paul Parese und stelle mich hier nun vor! Mein Name ist Paul Parese und ich singe. Eigentlich schon lange aber nun erscheint mein erstes, fertig produziertes Lied und daher war mir klar, dass ich mich einfach...
-Feed: https://cba.media/podcast/wakeup-orange/feed</description>
+                <title>516: Kleine Helden, große Stärke. Wie das Jugendwerk Kinder nach Unfällen begleitet</title>
+                <description>Ein Unfall verändert alles – besonders, wenn Kinder betroffen sind. Doch wer hilft ihnen, wieder ins Leben zurückzufinden? In dieser Folge spreche ich mit Merle Reichelt vom Jugendwerk Unfallgeschädigter Kinder Hamburg – einer Organisation, die seit über 60 Jahren Kindern und ihren Familien nach schweren Unfällen beisteht.Merle erzählt, wie das Jugendwerk entstanden ist, welche Kinder sie besonders erreichen wollen – und warum Hilfe hier weit über medizinische Versorgung hinausgeht...
+Feed: https://letscast.fm/podcasts/hamburg-aktuell-der-stadtnachrichten-podcast-von-radio-hamburg-und-hamburg-zwei-eb890ef9/feed</description>
                 
                 
-                <link>https://cba.media/743163</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/1/6/0000743161/2025-11-08-11-00-00.mp3"/>
-                <guid>https://cba.media/743163</guid>
+                <link>https://letscast.fm/sites/hamburg-aktuell-der-stadtnachrichten-podcast-von-radio-hamburg-und-hamburg-zwei-eb890ef9/episode/516-kleine-helden-grosse-staerke-wie-das-jugendwerk-kinder-nach-unfaellen-begleitet</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/eb890ef9/episode/6e01b897.mp3?t=1762519286"/>
+                <guid>https://letscast.fm/sites/hamburg-aktuell-der-stadtnachrichten-podcast-von-radio-hamburg-und-hamburg-zwei-eb890ef9/episode/516-kleine-helden-grosse-staerke-wie-das-jugendwerk-kinder-nach-unfaellen-begleitet</guid>
                 
             </item>
         </channel>
