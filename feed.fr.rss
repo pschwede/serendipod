@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 13 Nov 2025 04:31:41 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 14 Nov 2025 04:30:53 +0200</lastBuildDate>
             <item>
-                <title>La statue du sergent Blandan, le fantôme colonial de mon père</title>
-                <description>&amp;lt;p&amp;gt;Dorothée Myriam interroge le fantôme colonial de son père, la statue du sergent Blandan, qu’il croisait petit à Boufarik, et qui hante ses cauchemars depuis qu&amp;#x27;il l&amp;#x27;a retrouvée, un beau jour, à Nancy.&amp;lt;/p&amp;gt;
-Feed: https://www.arteradio.com/xml_flux?fluxname=%22Profils%22</description>
+                <title>Silent Jenny : Mathieu Bablet plonge le futur à hauteur d’abeille</title>
+                <description>Quand une BD de science-fiction interroge sur notre présent
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/1562_0fea13d0c38a6e2187ab788875727fcf.rss</description>
                 
                 
-                <link>https://www.arteradio.com/sons/la-statue-du-sergent-blandan</link>
-                <enclosure type="audio/mpeg" length="1" url="https://flex2.acast.com/s/profils/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/4le_fantome_du_sergent_blandan_hq_fr.mp3"/>
-                <guid>https://www.arteradio.com/sons/la-statue-du-sergent-blandan</guid>
+                <link>https://www.podcastics.com/podcast/episode/silent-jenny-mathieu-bablet-plonge-le-futur-a-hauteur-dabeille-391112/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/1562/391112.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/silent-jenny-mathieu-bablet-plonge-le-futur-a-hauteur-dabeille-391112/</guid>
                 
             </item><item>
-                <title>Paul Charpentier -  Jour de la grenade</title>
-                <description>The Orb - Khàron - Cooking Vinyl
-Mother Mallard&#39;s Portable Masterpiece Company - Ceres Motion - Soul Jazz
-Balaphonic - Sunflowers in Dub (Deep Summer Mix) - NuNorthernSoul
-Gene Harris - Losalamitoslatinfunklovesong - Blue Note
-Eddie Henderson -...
-Feed: https://www.choq.ca/emissions/mutations/rss</description>
+                <title>Quoi de Libre ? Actualités et annonces concernant l&#39;April et le monde du libre</title>
+                <description> Les références : &lt;ul class=&#34;spip&#34; role=&#34;list&#34;&gt;&lt;li&gt; Campagne de soutien financier à l&#39;April Le Lama déchaîné&lt;/li&gt;&lt;li&gt; Portail Adieu Windows, bonjour le libre !&lt;/li&gt;&lt;li&gt; Soirée radio ouverte vendredi 7 novembre à partir de 19 h 30, au studio de Cause Commune (Paris, 18e)&lt;/li&gt;&lt;li&gt; Consulter l&#39;Agenda du Libre pour les autres événements en lien avec le logiciel libre&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Vous pouvez mettre un commentaire pour l&#39;épisode. Et même mettre une note sur 5 étoiles si vous le souhaitez...
+Feed: https://april.org/lav.xml</description>
                 
                 
-                <link>https://www.choq.ca/balados/mutations/emission-du-9-novembre-2025</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mp3.choq.ca//mp3/episode/56425/Mutations-episode-du-9-novembre-2025.mp3"/>
-                <guid>https://www.choq.ca/balados/mutations/emission-du-9-novembre-2025</guid>
+                <link>https://www.libreavous.org/259-numericoop-numericloud-chronique-de-laurent-et-lorette-costy-libre-et</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20251028/libre-a-vous-20251028-annonces.ogg"/>
+                <guid>https://www.libreavous.org/259-numericoop-numericloud-chronique-de-laurent-et-lorette-costy-libre-et</guid>
                 
             </item>
         </channel>
