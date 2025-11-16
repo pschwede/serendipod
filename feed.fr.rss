@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 15 Nov 2025 04:29:17 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 16 Nov 2025 04:31:31 +0200</lastBuildDate>
             <item>
-                <title>Fan de funk Radio show du 07-11-2025</title>
-                <description>**Fan de funk Radio show du 07-11-2025**
-Retrouvez Le site officiel Fan de funk  - [https://www.fandefunk.com](https://www.fandefunk.com)
-Retrouvez le groupe des amis de l&#39;émission Fan de funk sur FACEBOOK - [Cliquez-ici pour être membre de la page](https://www.facebook.com/groups/lesamisdefandefunk)
-Retrouvez Fan de funk sur Twiter - [Cliquez-ici pour être membre de la page](https://twitter.com/fandefunk)
-Feed: https://hearthis.at/fandefunk/podcast/rss/</description>
+                <title>Rencontre avec les nouvelles coqueluches de Broadway et de Hollywood : Benj Pasek et Justin Paul (1ere partie)</title>
+                <description>Rencontre avec les nouvelles coqueluches de Broadway et de Hollywood : Benj Pasek et Justin Paul (1ere partie)
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11392.xml</description>
                 
                 
-                <link>https://hearthis.at/fandefunk/fandefunk-semaine-46-2025/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://hearthis.at/fandefunk/fandefunk-semaine-46-2025/listen.mp3?s=02i"/>
-                <guid>https://hearthis.at/fandefunk/fandefunk-semaine-46-2025/</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/rencontre-avec-les-nouvelles-coqueluches-de-broadway-et-de-hollywood-benj-pasek-et-justin-paul-1ere-partie-5512190</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/307a3381-89c7-416d-9551-97fb6bf44df8/11392-09.11.2025-ITEMA_24305724-2025M13793E0016-ITE_00154827_RSCE-21-2eabd5e956780c8bd4ecd2862a491b94.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/rencontre-avec-les-nouvelles-coqueluches-de-broadway-et-de-hollywood-benj-pasek-et-justin-paul-1ere-partie-5512190</guid>
                 
             </item><item>
-                <title>[LES PIONNIÈRES] Joséphine Baker, du ghetto américain au Panthéon</title>
-                <description>[REDIFFUSION]
-Cette semaine, dans Les Fabuleux Destins, nous mettons en lumière ces femmes oubliées de l’Histoire — des pionnières, des artistes, des savantes, dont le courage et la vision ont façonné notre monde sans toujours recevoir la reconnaissance qu’elles méritaient.
-Joséphine Baker, du ghetto américain au Panthéon
-Plongez dans la vie fascinante de Joséphine Baker, danseuse iconique, résistante et militante infatigable...
-Feed: https://feeds.megaphone.fm/BABA8011696838</description>
+                <title>Quoi de Libre ? Actualités et annonces concernant l&#39;April et le monde du libre</title>
+                <description> Les références : &lt;ul class=&#34;spip&#34; role=&#34;list&#34;&gt;&lt;li&gt; Campagne de soutien financier à l&#39;April Le Lama déchaîné&lt;/li&gt;&lt;li&gt; Portail Adieu Windows, bonjour le libre !&lt;/li&gt;&lt;li&gt; Soirée radio ouverte vendredi 7 novembre à partir de 19 h 30, au studio de Cause Commune (Paris, 18e)&lt;/li&gt;&lt;li&gt; Consulter l&#39;Agenda du Libre pour les autres événements en lien avec le logiciel libre&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Vous pouvez mettre un commentaire pour l&#39;épisode. Et même mettre une note sur 5 étoiles si vous le souhaitez...
+Feed: https://april.org/lav.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA9339051576.mp3?updated=1762876593"/>
-                <guid></guid>
+                <link>https://www.libreavous.org/259-numericoop-numericloud-chronique-de-laurent-et-lorette-costy-libre-et</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.april.org/audio/radio-cause-commune/libre-a-vous/emissions/20251028/libre-a-vous-20251028-annonces.ogg"/>
+                <guid>https://www.libreavous.org/259-numericoop-numericloud-chronique-de-laurent-et-lorette-costy-libre-et</guid>
                 
             </item>
         </channel>
