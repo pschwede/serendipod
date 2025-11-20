@@ -9,26 +9,39 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 18 Nov 2025 04:31:34 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 20 Nov 2025 04:30:16 +0200</lastBuildDate>
             <item>
-                <title>482: Labels for our job</title>
-                <description>Joël and Sally analyse their job titles as they try to figure out exactly which borrowed labels best define their work at thoughtbot. 
-Feed: https://feeds.fireside.fm/bikeshed/rss</description>
+                <title>Remix Picks vol 17</title>
+                <description>REMIX PICKS from Danny Meyers and Ilan Fong
+&#34;Black Hole Sun&#34; Soundgarden (DJ Zebra Remix)
+“ 6 Inch” Beyonce ft The Weeknd (DJ Paimon Remix)
+&#34;CHOP SUEY&#34; System Of A Down (OSIVE x THNK PNK EDIT)
+ “Slave” Tyga (Stacy Mier remix)
+“Break Stuff”  Limp Bizkit (Morty UKG Bootleg)
+“Boo&#39;d Up” Ella Mai (Mr. Collipark remix)
+&#34;Ms...
+Feed: https://feeds.megaphone.fm/panda</description>
                 
                 
-                <link>https://bikeshed.thoughtbot.com/482</link>
-                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/167c01a1-0eb9-4640-b488-c2f6d6866650/01bff721-1851-4f14-8cd3-98e9541b82cb.mp3"/>
-                <guid>https://bikeshed.thoughtbot.com/482</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/PAN3082342411.mp3?updated=1763222137"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Podcast Audiences Still Listen, Evolving Live Events, &amp; More</title>
-                <description>Today in the business of podcasting: audio remains the primary mode of podcast consumption, how loyal is your podcast audience?, PAVE teams up with Katheryn Nicolai for special live event, the State of Podcast Business, and CRA announces CRA Audio...
-Feed: https://www.spreaker.com/show/6060119/episodes/feed</description>
+                <title>Risky Business #815 -- Anthropic&#39;s AI APT report is a big deal</title>
+                <description>
+                In this week’s show Patrick Gray and Adam Boileau discuss the week’s cybersecurity news, including:
+  Anthropic says a Chinese APT orchestrated attacks using its AI
+  It’s a day ending in -y, so of course there are shamefully bad Fortinet exploits in the wild
+  Turns out slashing CISA was a bad idea, now it’s time for a hiring spree
+  Researchers brute force entire phone number space against Whatsapp contact discovery API
+  DOJ figures out how to make SpaceX turn off scam...
+Feed: https://risky.biz/feeds/risky-business/</description>
                 
                 
-                <link>https://www.spreaker.com/episode/podcast-audiences-still-listen-evolving-live-events-more--68607705</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/download/episode/68607705/25_11_17_download_daily.mp3"/>
-                <guid>https://www.spreaker.com/episode/podcast-audiences-still-listen-evolving-live-events-more--68607705</guid>
+                <link>https://risky.biz/RB815/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB815.mp3"/>
+                <guid>https://risky.biz/RB815/</guid>
                 
             </item>
         </channel>
