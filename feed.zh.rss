@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 20 Nov 2025 04:30:12 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 21 Nov 2025 04:31:15 +0200</lastBuildDate>
             <item>
-                <title>The Way to Build Collective Power, with Ruchika T. Malhotra</title>
-                <description>Ruchika T. Malhotra: Uncompete Ruchika T. Malhotra is the founder of Candour, a global inclusion strategy firm that has worked with some of the world’s biggest organizations. She’s been recognized multiple times by Thinkers50 and co-wrote one of Harva...
-Feed: https://feeds.podcastmirror.com/coaching-for-leaders</description>
+                <title>The Breakfast Club Challenge</title>
+                <description>Jaega Wise finds out how the roll out of free school breakfast clubs is going.
+Feed: https://podcasts.files.bbci.co.uk/b006qnx3.rss</description>
                 
                 
-                <link>https://coachingforleaders.com/podcast/build-collective-power-ruchika-malhotra/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/coaching_for_leaders/content.blubrry.com/coaching_for_leaders/CFL759.mp3"/>
-                <guid>https://coachingforleaders.com/podcast/build-collective-power-ruchika-malhotra/</guid>
+                <link>http://www.bbc.co.uk/programmes/m002lpnk</link>
+                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mf3483.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/m002lpnk</guid>
                 
             </item><item>
-                <title>Buried: Inside the John Wayne Gacy Investigation.  The story you never knew - until now</title>
-                <description> The story you never knew - until now
-See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.
-Feed: https://rss.art19.com/defense-diaries</description>
+                <title>Why Snowflake’s CIO Rebranded IT for the AI Era</title>
+                <description>1030: What does it take to evolve IT into a forward-looking innovation engine? Mike Blandina, CIO of Snowflake, shares how he&#39;s reimagined IT as &#34;Enterprise Technology&#34; as a way to describe what &#39;IT&#39; really does: lead a solutions-first mindset at Snowflake designed for the AI era. In this conversation, Mike reflects on his first eight months leading tech at one of the world’s most AI-forward data cloud companies.
+Feed: https://www.metisstrategy.com/interview/feed/podcast/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://m.pfxes.com/RINfi9qZ/mgln.ai/e/211/rss.art19.com/episodes/9ffc3960-6f7f-4db4-9a35-47cf93312e69.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://www.metisstrategy.com/interview/mike-blandina/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-blandina</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/metis_strategy/media.blubrry.com/metis_strategy/content.blubrry.com/metis_strategy/1030_Mike_Blandina_vF.mp3"/>
+                <guid>https://www.metisstrategy.com/interview/mike-blandina/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mike-blandina</guid>
                 
             </item>
         </channel>

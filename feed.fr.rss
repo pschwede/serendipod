@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 20 Nov 2025 04:30:02 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 21 Nov 2025 04:31:03 +0200</lastBuildDate>
             <item>
-                <title>Qui est l’homme derrière le tableau « Le Cri » d’Edvard Munch ?</title>
-                <description>Réalisé entre 1893 et 1917, ce tableau est l’une des œuvres les plus connues au monde, certainement la plus reconnaissable par le grand public après La Joconde de Léonard de Vinci. Peint par le norvégien Edvard Munch, le tableau interpelle par le côté angoissant et anxiogène qui en ressort. 
-Chacun peut se faire son interprétation, entre horreur, mythologie ou même cauchemar...
-Feed: https://feeds.megaphone.fm/BABA4781584394</description>
+                <title>Rythmologie : 11/13/2025 20:00</title>
+                <description>686-348077
+Feed: http://podcast.cism893.ca/radioshows/686/feed_itunes.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA9568747187.mp3"/>
-                <guid></guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/348077.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/348077.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/348077.mp3</guid>
                 
             </item><item>
-                <title>Portrait d&#39;une journaliste sportif</title>
-                <description>
-Le journalisme sportif reste un milieu où les femmes sont encore trop rares. 
-Dans cet épisode, nous découvrons Stéphanie, journaliste sportive, qui nous raconte son parcours, ses défis et sa vision du métier.
-Une plongée inspirante dans un univers...
-Feed: https://feed.ausha.co/yXLR6GcOYnZp</description>
+                <title>Oumuamua : le mystérieux objet interstellaire</title>
+                <description>Oumuamua : le mystérieux objet interstellaire
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10212.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/femmes-et-sport-au-dela-des-stereotypes/portrait-d-une-journaliste-sportive</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/QQj6RTLv9n1d.mp3?t=1761553582"/>
-                <guid>https://podcast.ausha.co/femmes-et-sport-au-dela-des-stereotypes/portrait-d-une-journaliste-sportive</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-jeudi-20-novembre-2025-2886570</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/d6803247-b908-4f91-8b49-44d50a9372c6/10212-20.11.2025-ITEMA_24317105-2025F10732S0324-NET_MFI_32A1EC2C-1FD0-4A9A-9658-69F6B24BB64A-22-3613bf7720dcd599d5f235b7f4aa8e13.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-jeudi-20-novembre-2025-2886570</guid>
                 
             </item>
         </channel>

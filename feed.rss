@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 20 Nov 2025 04:29:54 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 21 Nov 2025 04:30:54 +0200</lastBuildDate>
             <item>
+                <title>956: Should I Keep Using WordPress?</title>
+                <description>In this potluck episode, Wes and Scott answer your questions about paid vs...
+Feed: https://feed.syntax.fm/rss</description>
+                
+                
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/FSI2962532444.mp3"/>
+                <guid></guid>
+                
+            </item><item>
                 <title>Downstream: Ex-World Bank Insider on Western Decline &amp; the Chinese World Order w/ Branko Milanovic</title>
                 <description>At Novara, we focus on the trends that are remaking the world and affecting our lives: technological development and automation, multipolarity, the demise of an American-led world order and the rise of China.
 Feed: https://feeds.feedburner.com/NovaraMediaPodcast</description>
@@ -19,16 +29,6 @@ Feed: https://feeds.feedburner.com/NovaraMediaPodcast</description>
                 <link>https://podcast.novaramedia.com/2025/11/downstream-ex-world-bank-insider-on-western-decline-the-chinese-world-order-w-branko-milanovic/</link>
                 <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/novarafm_radio_for_a/storage.googleapis.com/audiofiles.novara.io/downstream/2025/11/251117_Downstream_Ex-World_Bank_Insider_on_Western_Decline_and_The_Chinese_World_Order_w_Branko_Milanovic.mp3"/>
                 <guid>https://podcast.novaramedia.com/2025/11/downstream-ex-world-bank-insider-on-western-decline-the-chinese-world-order-w-branko-milanovic/</guid>
-                
-            </item><item>
-                <title>Dealing with Difficult People</title>
-                <description>Osher UC San Diego Distinguished Lecture Series
-Feed: https://podcast.uctv.tv/uctv_health.rss</description>
-                
-                
-                <link>https://www.uctv.tv/shows/40599</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.uctv.tv/mp3/40599.mp3"/>
-                <guid>https://www.uctv.tv/shows/40599</guid>
                 
             </item>
         </channel>
