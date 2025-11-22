@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 21 Nov 2025 04:30:54 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 22 Nov 2025 04:28:44 +0200</lastBuildDate>
             <item>
-                <title>956: Should I Keep Using WordPress?</title>
-                <description>In this potluck episode, Wes and Scott answer your questions about paid vs...
-Feed: https://feed.syntax.fm/rss</description>
+                <title>Greece’s economic and digital transformation: in conversation with Kyriakos Pierrakakis</title>
+                <description>Contributor(s): Kyriakos Pierrakakis | Join us for a discussion with Kyriakos Pierrakakis, Greece&#39;s Minister of the Economy and Finance, on the key challenges shaping the country’s future.
+From public debt and inflation to growth and innovation, to education reform and the digital transition, the conversation will explore how past reforms and new policies that can support Greece’s economic resilience and competitiveness.
+Feed: https://www.lse.ac.uk/assets/richmedia/webFeeds/publicLecturesAndEvents_iTunesStore.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/FSI2962532444.mp3"/>
-                <guid></guid>
+                <link>http://www.lse.ac.uk/lse-player?id=1d920d4e-58df-4f47-8568-ab7449836ff6</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.rawvoice.com/lse_publicLecturesAndEvents/richmedia.lse.ac.uk/publiclecturesandevents/20251114_1830_greece_sEconomicAndDigitalTransformationInConversationWithKyriakosPierrakakis.mp3"/>
+                <guid>http://www.lse.ac.uk/lse-player?id=1d920d4e-58df-4f47-8568-ab7449836ff6</guid>
                 
             </item><item>
-                <title>Downstream: Ex-World Bank Insider on Western Decline &amp; the Chinese World Order w/ Branko Milanovic</title>
-                <description>At Novara, we focus on the trends that are remaking the world and affecting our lives: technological development and automation, multipolarity, the demise of an American-led world order and the rise of China.
-Feed: https://feeds.feedburner.com/NovaraMediaPodcast</description>
+                <title>G20 in South Africa: Can grassroots change global policy?</title>
+                <description>As the G20 Summit kicks off in Johannesburg, civil society groups and NGOs are pushing for a people-first agenda — on issues like climate justice, debt relief, and social equity. But can grassroots voices truly impact the world&#39;s most powerful economies? DW&#39;s Eddy Micah Jr. speaks to Sekoetlane Phamodi, Director, New Economy Hub at the African Climate Foundation and DW correspondent Dianne Hawker
+Feed: https://rss.dw.com/xml/podcast_africalink</description>
                 
                 
-                <link>https://podcast.novaramedia.com/2025/11/downstream-ex-world-bank-insider-on-western-decline-the-chinese-world-order-w-branko-milanovic/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/novarafm_radio_for_a/storage.googleapis.com/audiofiles.novara.io/downstream/2025/11/251117_Downstream_Ex-World_Bank_Insider_on_Western_Decline_and_The_Chinese_World_Order_w_Branko_Milanovic.mp3"/>
-                <guid>https://podcast.novaramedia.com/2025/11/downstream-ex-world-bank-insider-on-western-decline-the-chinese-world-order-w-branko-milanovic/</guid>
+                <link>https://www.dw.com/en/g20-in-south-africa-can-grassroots-change-global-policy/audio-74822790?maca=en-podcast_africalink-8027-xml-mrss</link>
+                <enclosure type="audio/mpeg" length="1" url="https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/8027_podcast_africalink/3D868B70_2-podcast-8027-74822790.mp3"/>
+                <guid>https://www.dw.com/en/g20-in-south-africa-can-grassroots-change-global-policy/audio-74822790?maca=en-podcast_africalink-8027-xml-mrss</guid>
                 
             </item>
         </channel>

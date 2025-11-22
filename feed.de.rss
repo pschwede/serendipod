@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 21 Nov 2025 04:30:58 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 22 Nov 2025 04:28:49 +0200</lastBuildDate>
             <item>
-                <title>Von Model T bis Formel 1</title>
-                <description>BrickCast vom 17.11.25
-Feed: https://der-spielwareninvestor.podigee.io/feed/mp3</description>
+                <title>#125 - Erik Schmitt | Das Leben der Wünsche</title>
+                <description>Heute mit Steven, Sandro und unserem Gast Erik Schmitt
+Feed: https://stevenspoilberg.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://der-spielwareninvestor.podigee.io/913-von-model-t-bis-formel-1</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2213474-m-f97570e848c01fb924e4b29591286e65.mp3?source=feed"/>
-                <guid>https://der-spielwareninvestor.podigee.io/913-von-model-t-bis-formel-1</guid>
+                <link>https://stevenspoilberg.podigee.io/497-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2211473-m-259266ff7939463446ac4ef5f74c70a6.mp3?source=feed"/>
+                <guid>https://stevenspoilberg.podigee.io/497-neue-episode</guid>
                 
             </item><item>
-                <title>Zwischen Hype und Fragezeichen: Magic und Hawks</title>
-                <description>Ein Blick auf den Start der NBA-Saison in Orlando und Atlanta
-Feed: https://1esweby.podcaster.de/talkinthegame.rss</description>
+                <title>Aufzugsanlage</title>
+                <description>Schneller vertikaler Transport
+Feed: https://feeds.acast.com/public/shows/685287280bed216db7334e3e</description>
                 
                 
-                <link>http://www.ttg-podcast.de/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://1esweby.podcaster.de/talkinthegame/media/TTG_Magic_Hawks_final.mp3"/>
-                <guid>http://www.ttg-podcast.de/</guid>
+                <link>https://shows.acast.com/einschlafen-mit-wikipedia/episodes/691de16f7886054fec059012</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/685287280bed216db7334e3e/e/691de16f7886054fec059012/media.mp3"/>
+                <guid>https://shows.acast.com/einschlafen-mit-wikipedia/episodes/691de16f7886054fec059012</guid>
                 
             </item>
         </channel>
