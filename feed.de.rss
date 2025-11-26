@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 22 Nov 2025 04:28:49 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 26 Nov 2025 04:32:56 +0200</lastBuildDate>
             <item>
-                <title>#125 - Erik Schmitt | Das Leben der Wünsche</title>
-                <description>Heute mit Steven, Sandro und unserem Gast Erik Schmitt
-Feed: https://stevenspoilberg.podigee.io/feed/mp3</description>
+                <title>Sharenting und Kinderinfluencer – Kommerzialisierung von Kindheit</title>
+                <description>Fachgespräch der Kinderkommission (Teil 2)
+Feed: http://webtv.bundestag.de/player/macros/_v_q_514_de/_s_podcast_skin/_x_s-144277506/podcast/podcast.xml?playlist_param=160858260&amp;pagingLength=50</description>
                 
                 
-                <link>https://stevenspoilberg.podigee.io/497-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2211473-m-259266ff7939463446ac4ef5f74c70a6.mp3?source=feed"/>
-                <guid>https://stevenspoilberg.podigee.io/497-neue-episode</guid>
+                <link>http://dbtg.tv/fvid/7643795</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7643795/7643795_h264_512_288_514kb_baseline_de_514.mp4"/>
+                <guid>http://dbtg.tv/fvid/7643795</guid>
                 
             </item><item>
-                <title>Aufzugsanlage</title>
-                <description>Schneller vertikaler Transport
-Feed: https://feeds.acast.com/public/shows/685287280bed216db7334e3e</description>
+                <title>Kultur heute 20.11.2025, komplette Sendung</title>
+                <description> Köhler, Michael www.deutschlandfunk.de, Kultur heute 
+Feed: https://www.deutschlandfunk.de/kultur-heute-102.xml</description>
                 
                 
-                <link>https://shows.acast.com/einschlafen-mit-wikipedia/episodes/691de16f7886054fec059012</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/685287280bed216db7334e3e/e/691de16f7886054fec059012/media.mp3"/>
-                <guid>https://shows.acast.com/einschlafen-mit-wikipedia/episodes/691de16f7886054fec059012</guid>
+                <link>https://www.deutschlandfunk.de/kultur-heute-20-11-2025-komplette-sendung-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2025/11/20/kultur_heute_20112025_komplette_sendung_dlf_20251120_1735_c14546d9.mp3?refId=kultur-heute-102"/>
+                <guid>https://www.deutschlandfunk.de/kultur-heute-20-11-2025-komplette-sendung-100.html</guid>
                 
             </item>
         </channel>

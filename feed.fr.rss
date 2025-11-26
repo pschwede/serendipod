@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 22 Nov 2025 04:28:55 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 26 Nov 2025 04:33:02 +0200</lastBuildDate>
             <item>
-                <title>Benoît Bordier | Instinct à la carte</title>
-                <description>Benoît Bordier | Instinct à la carte
-Feed: https://feeds.acast.com/public/shows/633c24cdb8e4730011a3807c</description>
+                <title>Les meilleurs comeback dans le rap - Cuvée Rap</title>
+                <description>&lt;p&gt;Dans “J’ai mal au mic” Oxmo Puccino écrivait “J’suis jamais parti, mais toujours de retour”. Dans le rap jeu, le comeback du rappeur est art, l’art de créer l’attente ou la surprise. Mais les retours gagnants sont rares et depuis l’ère des mixtapes suivi de celle du streaming, encore plus rares sont les rappeurs qui prennent une pause.&lt;/p&gt;&lt;p&gt;Dans cet épisode, les Sommeliers du rap ont choisi chacun un album rap qui marque le comeback réussi d’un rappeur absent depuis plusieurs années...
+Feed: https://api.substack.com/feed/podcast/1440631.rss</description>
                 
                 
-                <link>https://businessofbouffe.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/633c24cdb8e4730011a3807c/e/69163851e42e3466f2e4ba0d/media.mp3"/>
-                <guid>https://businessofbouffe.com/</guid>
+                <link>https://www.lesbonscrus.fr/p/les-meilleurs-comeback-dans-le-rap</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.substack.com/feed/podcast/178989019/1597219e626920222bc437b587ab51a3.mp3"/>
+                <guid>https://www.lesbonscrus.fr/p/les-meilleurs-comeback-dans-le-rap</guid>
                 
             </item><item>
-                <title>Valérie Masson-Delmotte, pour le climat 5/5 : Combats d’aujourd’hui et de demain</title>
-                <description>Valérie Masson-Delmotte, pour le climat 5/5 : Combats d’aujourd’hui et de demain
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10351.xml</description>
+                <title>Episode 88. Des regrets et de l&#39;impuissance</title>
+                <description>
+Feed: https://desmotsetdebats.lepodcast.fr/rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/a-voix-nue/combats-d-aujourd-hui-et-de-demain-7407449</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/a106bd80-2112-46c4-a768-da2011e2fd2c/10351-16.11.2025-ITEMA_24312869-2025C3500E0177-ITE_00154460_RSCE-21-7ccac9916874f2ae364ca38e883ae6f0.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/a-voix-nue/combats-d-aujourd-hui-et-de-demain-7407449</guid>
+                <link>https://desmotsetdebats.lepodcast.fr/episode-88-des-regrets-et-de-limpuissance</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/desmotsetdebats/episode-88-des-regrets-et-de-limpuissance/enclosure.c0d8f4a07539597172a5934f19b01ecc24b33ad795bc0cdd5fda54f1296e9e38.mp3?p=f"/>
+                <guid>https://desmotsetdebats.lepodcast.fr/episode-88-des-regrets-et-de-limpuissance</guid>
                 
             </item>
         </channel>
