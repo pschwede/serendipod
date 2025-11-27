@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 26 Nov 2025 04:33:02 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 27 Nov 2025 04:32:48 +0200</lastBuildDate>
             <item>
-                <title>Les meilleurs comeback dans le rap - Cuvée Rap</title>
-                <description>&lt;p&gt;Dans “J’ai mal au mic” Oxmo Puccino écrivait “J’suis jamais parti, mais toujours de retour”. Dans le rap jeu, le comeback du rappeur est art, l’art de créer l’attente ou la surprise. Mais les retours gagnants sont rares et depuis l’ère des mixtapes suivi de celle du streaming, encore plus rares sont les rappeurs qui prennent une pause.&lt;/p&gt;&lt;p&gt;Dans cet épisode, les Sommeliers du rap ont choisi chacun un album rap qui marque le comeback réussi d’un rappeur absent depuis plusieurs années...
-Feed: https://api.substack.com/feed/podcast/1440631.rss</description>
+                <title>Les entreprises face au retour de la géopolitique</title>
+                <description>Invité : Thomas Gomart, directeur de l’Ifri 
+ 
+ Une recherche au long cours de 10 ans (3:00)
+ Le logiciel intellectuel du business (15:00)
+ La relation public-privé (22:30)
+ La prise de conscience du changement de donne géopolitique (28:...
+Feed: https://feeds.audiomeans.fr/feed/64ee3763-1a46-44c2-8640-3a69405a3ad8.xml</description>
                 
                 
-                <link>https://www.lesbonscrus.fr/p/les-meilleurs-comeback-dans-le-rap</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.substack.com/feed/podcast/178989019/1597219e626920222bc437b587ab51a3.mp3"/>
-                <guid>https://www.lesbonscrus.fr/p/les-meilleurs-comeback-dans-le-rap</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/6889495a-9bdb-464d-93d4-15b21deefd1a.mp3?_=1764002122"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Episode 88. Des regrets et de l&#39;impuissance</title>
-                <description>
-Feed: https://desmotsetdebats.lepodcast.fr/rss</description>
+                <title>Votre jardin</title>
+                <description>Votre jardin
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
                 
                 
-                <link>https://desmotsetdebats.lepodcast.fr/episode-88-des-regrets-et-de-limpuissance</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/desmotsetdebats/episode-88-des-regrets-et-de-limpuissance/enclosure.c0d8f4a07539597172a5934f19b01ecc24b33ad795bc0cdd5fda54f1296e9e38.mp3?p=f"/>
-                <guid>https://desmotsetdebats.lepodcast.fr/episode-88-des-regrets-et-de-limpuissance</guid>
+                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/e8832a36-51f8-4489-8d76-48a0a1219f32/15376-22.11.2025-ITEMA_24319729-2025B20690S0326-NET_2BA_F2FC3056-0D81-40CF-A8DE-177F8A73FE39-21-fce41d6f850bd592809cabf1e9c4d13a.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 26 Nov 2025 04:32:56 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 27 Nov 2025 04:32:42 +0200</lastBuildDate>
             <item>
-                <title>Sharenting und Kinderinfluencer – Kommerzialisierung von Kindheit</title>
-                <description>Fachgespräch der Kinderkommission (Teil 2)
-Feed: http://webtv.bundestag.de/player/macros/_v_q_514_de/_s_podcast_skin/_x_s-144277506/podcast/podcast.xml?playlist_param=160858260&amp;pagingLength=50</description>
+                <title>Christkönig, Jahr C</title>
+                <description>&lt;p&gt;Dankt dem Vater mit Freude!&lt;/p&gt;&lt;p&gt;Er hat euch fähig gemacht,&lt;/p&gt;&lt;p&gt;Anteil zu haben am Los der Heiligen, die im Licht sind.&lt;/p&gt;&lt;p&gt;Er hat uns der Macht der Finsternis entrissen&lt;/p&gt;&lt;p&gt;und aufgenommen in das Reich seines geliebten Sohnes.&lt;/p&gt;&lt;p&gt;- Kol 1,12f&lt;/p&gt;
+
+Feed: https://anchor.fm/s/1456b080/podcast/rss</description>
                 
                 
-                <link>http://dbtg.tv/fvid/7643795</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7643795/7643795_h264_512_288_514kb_baseline_de_514.mp4"/>
-                <guid>http://dbtg.tv/fvid/7643795</guid>
+                <link>https://podcasters.spotify.com/pod/show/dilatato-corde/episodes/Christknig--Jahr-C-e3bah35</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1456b080/podcast/play/111542821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-22%2F412956383-44100-2-14986d23fea9f.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/dilatato-corde/episodes/Christknig--Jahr-C-e3bah35</guid>
                 
             </item><item>
-                <title>Kultur heute 20.11.2025, komplette Sendung</title>
-                <description> Köhler, Michael www.deutschlandfunk.de, Kultur heute 
-Feed: https://www.deutschlandfunk.de/kultur-heute-102.xml</description>
+                <title>HÖRmahl Nummer 202: Strategen am Werk: Wie sich Früchte und Samen eigentlich verbreiten. (43:46 Min.)</title>
+                <description>Jetzt im Herbst fallen sie wieder überall: die Früchte und Samen. Doch wie verbreiten sie sich eigentlich und welche von ihnen sind besonders gewiefte Strategen? Naturexperte Manfred Braun klärt uns in diesem Podcast-Beitrag auf und entführt uns in die zauberhafte Natur des Herbstes. Viel Spaß!
+Feed: https://hoerlokal.podigee.io/feed/aac</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/kultur-heute-20-11-2025-komplette-sendung-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2025/11/20/kultur_heute_20112025_komplette_sendung_dlf_20251120_1735_c14546d9.mp3?refId=kultur-heute-102"/>
-                <guid>https://www.deutschlandfunk.de/kultur-heute-20-11-2025-komplette-sendung-100.html</guid>
+                <link>https://hoerlokal.podigee.io/306-neue-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2001509-m-3ad326a0e5552393ceae0808b1d79e3d.m4a?source=feed"/>
+                <guid>https://hoerlokal.podigee.io/306-neue-episode</guid>
                 
             </item>
         </channel>
