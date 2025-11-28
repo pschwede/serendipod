@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 27 Nov 2025 04:32:42 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 28 Nov 2025 04:32:00 +0200</lastBuildDate>
             <item>
-                <title>Christkönig, Jahr C</title>
-                <description>&lt;p&gt;Dankt dem Vater mit Freude!&lt;/p&gt;&lt;p&gt;Er hat euch fähig gemacht,&lt;/p&gt;&lt;p&gt;Anteil zu haben am Los der Heiligen, die im Licht sind.&lt;/p&gt;&lt;p&gt;Er hat uns der Macht der Finsternis entrissen&lt;/p&gt;&lt;p&gt;und aufgenommen in das Reich seines geliebten Sohnes.&lt;/p&gt;&lt;p&gt;- Kol 1,12f&lt;/p&gt;
-
-Feed: https://anchor.fm/s/1456b080/podcast/rss</description>
+                <title>Matthias Klissenbauer - Wenn zwei sich streiten</title>
+                <description>Was ist Collaborative Law?
+Feed: https://mitmilchundzucker.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/dilatato-corde/episodes/Christknig--Jahr-C-e3bah35</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1456b080/podcast/play/111542821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-22%2F412956383-44100-2-14986d23fea9f.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/dilatato-corde/episodes/Christknig--Jahr-C-e3bah35</guid>
+                <link>https://mitmilchundzucker.podigee.io/305-matthias-klissenbauer</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2219675-m-78fe9ee563fd9bdce687151055493879.mp3?source=feed"/>
+                <guid>https://mitmilchundzucker.podigee.io/305-matthias-klissenbauer</guid>
                 
             </item><item>
-                <title>HÖRmahl Nummer 202: Strategen am Werk: Wie sich Früchte und Samen eigentlich verbreiten. (43:46 Min.)</title>
-                <description>Jetzt im Herbst fallen sie wieder überall: die Früchte und Samen. Doch wie verbreiten sie sich eigentlich und welche von ihnen sind besonders gewiefte Strategen? Naturexperte Manfred Braun klärt uns in diesem Podcast-Beitrag auf und entführt uns in die zauberhafte Natur des Herbstes. Viel Spaß!
-Feed: https://hoerlokal.podigee.io/feed/aac</description>
+                <title>Die Kur-Oase: Fakeshop-Trauma</title>
+                <description>Wenn das Schnäppchen besonders verlockend ist, werfen wir schnell mal alle unsere Prinzipien über Bord - und fallen auf den simpelsten Betrug herum . Was bleibt ist Scham. Warum? In der „Kur-Oase“ arbeitet Psychologin Dr. Lina Peppmöller mit drei glaubwürdigen Vertretern der Halbprominenz. Sie versuchen, mit einem massiven Bedeutungsverlust halbwegs klarzukommen. Der &#34;Stuhlkreis mit Spritz&#34; mit Promis am Limit - jeden Tag um 7:17 Uhr im &#34;NDR 2 Morgen&#34; bei Elke und Jens...
+Feed: https://www.ndr.de/ndr2/podcasts/podcast5816.xml</description>
                 
                 
-                <link>https://hoerlokal.podigee.io/306-neue-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2001509-m-3ad326a0e5552393ceae0808b1d79e3d.m4a?source=feed"/>
-                <guid>https://hoerlokal.podigee.io/306-neue-episode</guid>
+                <link>https://www.ndr.de/ndr2/podcasts/die-kur-oase-fakeshop-trauma,audio-339596.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2025/1126/AU-20251126-1110-4400.mp3"/>
+                <guid>https://www.ndr.de/ndr2/podcasts/die-kur-oase-fakeshop-trauma,audio-339596.html</guid>
                 
             </item>
         </channel>

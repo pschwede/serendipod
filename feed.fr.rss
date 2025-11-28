@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 27 Nov 2025 04:32:48 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 28 Nov 2025 04:32:07 +0200</lastBuildDate>
             <item>
-                <title>Les entreprises face au retour de la géopolitique</title>
-                <description>Invité : Thomas Gomart, directeur de l’Ifri 
- 
- Une recherche au long cours de 10 ans (3:00)
- Le logiciel intellectuel du business (15:00)
- La relation public-privé (22:30)
- La prise de conscience du changement de donne géopolitique (28:...
-Feed: https://feeds.audiomeans.fr/feed/64ee3763-1a46-44c2-8640-3a69405a3ad8.xml</description>
+                <title>Michel Portal, le souffle poétique de l’inspiration</title>
+                <description>Michel Portal, le souffle poétique de l’inspiration
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20332.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/6889495a-9bdb-464d-93d4-15b21deefd1a.mp3?_=1764002122"/>
-                <guid></guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/stars-du-classique/michel-portal-le-souffle-poetique-de-l-inspiration-4875551</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/0e7123eb-6c97-4394-ac8f-08a81fe9d65e/20332-27.11.2025-ITEMA_24324641-2025M49077S0331-NET_MFM_A28BCCD5-154C-40FB-B801-3C9E7C352292-21-a676b86cb8f25d218ef37cdc1cca750c.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/stars-du-classique/michel-portal-le-souffle-poetique-de-l-inspiration-4875551</guid>
                 
             </item><item>
-                <title>Votre jardin</title>
-                <description>Votre jardin
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
+                <title>Alexandre Douguine : de la &#34;slavophilie&#34; au nationalisme radical, au cœur de la pensée impérialiste russe</title>
+                <description>Alexandre Douguine : de la &#34;slavophilie&#34; au nationalisme radical, au cœur de la pensée impérialiste russe
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10183.xml</description>
                 
                 
-                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/e8832a36-51f8-4489-8d76-48a0a1219f32/15376-22.11.2025-ITEMA_24319729-2025B20690S0326-NET_2BA_F2FC3056-0D81-40CF-A8DE-177F8A73FE39-21-fce41d6f850bd592809cabf1e9c4d13a.mp3"/>
-                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/soft-power/douguine-de-la-slavophilie-au-nationalisme-radical-au-coeur-de-la-pensee-imperialiste-russe-4659740</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/b31efa3f-5b12-4f83-a6fb-0f002d420d7f/10183-23.11.2025-ITEMA_24320217-2025C22976S0327-NET_MFC_0E27E3EE-DE7D-40EE-A279-3D193B92C044-21-4ff39f5cabb1af6d7ce4f7b1594dd572.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/soft-power/douguine-de-la-slavophilie-au-nationalisme-radical-au-coeur-de-la-pensee-imperialiste-russe-4659740</guid>
                 
             </item>
         </channel>
