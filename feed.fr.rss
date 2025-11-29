@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 28 Nov 2025 04:32:07 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 29 Nov 2025 04:31:14 +0200</lastBuildDate>
             <item>
-                <title>Michel Portal, le souffle poétique de l’inspiration</title>
-                <description>Michel Portal, le souffle poétique de l’inspiration
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20332.xml</description>
+                <title>#143 - Vive les Smiths</title>
+                <description>&lt;p&gt;SOMMAIRE :&lt;/p&gt;&lt;ol&gt;&lt;li&gt;PATTI SMITH - Gloria&lt;/li&gt;&lt;li&gt;SMITH - Take A Look Around&lt;/li&gt;&lt;li&gt;THE FALL - Totally Wired&lt;/li&gt;&lt;li&gt;YARD ACT - Witness&lt;/li&gt;&lt;li&gt;MC5 - Looking At You&lt;/li&gt;&lt;li&gt;MAC DEMARCO - Freakin&#39; Out The Neighbourhood&lt;/li&gt;&lt;li&gt;HOLLY GOLIGHTLY - Satan Is His Name&lt;/li&gt;&lt;li&gt;ELLIOTT SMITH - Son Of Sam&lt;/li&gt;&lt;li&gt;MAXIMO PARK - Graffiti&lt;/li&gt;&lt;li&gt;THE GLOVE - Mr Alphabet Says&lt;/li&gt;&lt;li&gt;THE XX - Crystallized&lt;/li&gt;&lt;li&gt;OPAL - Supernova&lt;/li&gt;&lt;li&gt;EZ BAND - This Charming Man&lt;/li&gt;&lt;/ol&gt;
+
+Feed: https://canalb.fr/rss/40/rss.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/stars-du-classique/michel-portal-le-souffle-poetique-de-l-inspiration-4875551</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/0e7123eb-6c97-4394-ac8f-08a81fe9d65e/20332-27.11.2025-ITEMA_24324641-2025M49077S0331-NET_MFM_A28BCCD5-154C-40FB-B801-3C9E7C352292-21-a676b86cb8f25d218ef37cdc1cca750c.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/stars-du-classique/michel-portal-le-souffle-poetique-de-l-inspiration-4875551</guid>
+                <link>https://canalb.fr/index.php/node/8646</link>
+                <enclosure type="audio/mpeg" length="1" url="https://canalb.fr/sites/default/files/podcasts/takeitorleaveit/takeitorleaveit_2025.11.17_8646.mp3"/>
+                <guid>https://canalb.fr/index.php/node/8646</guid>
                 
             </item><item>
-                <title>Alexandre Douguine : de la &#34;slavophilie&#34; au nationalisme radical, au cœur de la pensée impérialiste russe</title>
-                <description>Alexandre Douguine : de la &#34;slavophilie&#34; au nationalisme radical, au cœur de la pensée impérialiste russe
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_10183.xml</description>
+                <title>Stop ou encore du 23 novembre 2025</title>
+                <description>Ecoutez Stop ou encore avec Éric Jean-Jean du 23 novembre 2025.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d&#39;informations.
+ 
+Feed: https://feeds.audiomeans.fr/feed/923c454c-9a6c-4dd3-987f-159bda81d36f.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/soft-power/douguine-de-la-slavophilie-au-nationalisme-radical-au-coeur-de-la-pensee-imperialiste-russe-4659740</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/b31efa3f-5b12-4f83-a6fb-0f002d420d7f/10183-23.11.2025-ITEMA_24320217-2025C22976S0327-NET_MFC_0E27E3EE-DE7D-40EE-A279-3D193B92C044-21-4ff39f5cabb1af6d7ce4f7b1594dd572.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/soft-power/douguine-de-la-slavophilie-au-nationalisme-radical-au-coeur-de-la-pensee-imperialiste-russe-4659740</guid>
+                <link>https://www.rtl.fr/programmes/stop-ou-encore</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/5bdabe69-c77c-4de4-ae69-a85b55af7965.mp3?_=1763897887"/>
+                <guid>https://www.rtl.fr/programmes/stop-ou-encore</guid>
                 
             </item>
         </channel>

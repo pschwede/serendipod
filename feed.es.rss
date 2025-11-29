@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 28 Nov 2025 04:32:13 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 29 Nov 2025 04:31:20 +0200</lastBuildDate>
             <item>
-                <title>Sapiens - El ingenio de tejer palabras, con Carlota de Benito - 24/11/25</title>
-                <description>El ingenio de tejer palabras, con Carlota de Benito
-Feed: http://www.rtve.es/api/programas/128073/audios.rss</description>
+                <title>Café del sur - Elogio de la lentitud - 23/11/25</title>
+                <description>Elogio de la lentitud
+Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/sapiens/ingenio-tejer-palabras-carlota-benito-24-11-25/16827950/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16827950.mp3"/>
-                <guid>https://www.rtve.es/play/audios/sapiens/ingenio-tejer-palabras-carlota-benito-24-11-25/16827950/</guid>
+                <link>https://www.rtve.es/play/audios/cafe-del-sur/elogio-lentitud-23-11-25/16827332/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16827332.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cafe-del-sur/elogio-lentitud-23-11-25/16827332/</guid>
                 
             </item><item>
-                <title>90. Modernismo sin Gaudí (y dónde encontrar marido rico), con Brontesbien</title>
-                <description>&lt;p&gt;En este episodio &lt;strong&gt;descubrimos que se liga más en un café modernista que en cualquier app, que Gaudí podría ser el típico niño repelente de clase y que los suelos modernistas tienen más personalidad que mucha gente&lt;/strong&gt;...
-Feed: https://anchor.fm/s/1659e76c/podcast/rss</description>
+                <title>Viernes, 5 de diciembre</title>
+                <description>Sal 27
+Feed: https://rezandovoy.org/podcast</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/arte-compacto/episodes/90--Modernismo-sin-Gaud-y-dnde-encontrar-marido-rico--con-Brontesbien-e3amkue</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1659e76c/podcast/play/110891406/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-8%2F412097245-44100-2-2bb1a8006b6ac.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/arte-compacto/episodes/90--Modernismo-sin-Gaud-y-dnde-encontrar-marido-rico--con-Brontesbien-e3amkue</guid>
+                <link>https://rezandovoy.org/reproductor/2025-12-05</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rezando.es/public/rezandovoy/oraciones/6019/o.mp3"/>
+                <guid>https://rezandovoy.org/reproductor/2025-12-05</guid>
                 
             </item>
         </channel>
