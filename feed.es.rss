@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 29 Nov 2025 04:31:20 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 30 Nov 2025 04:37:55 +0200</lastBuildDate>
             <item>
-                <title>Café del sur - Elogio de la lentitud - 23/11/25</title>
-                <description>Elogio de la lentitud
-Feed: http://api.rtve.es/api/programas/33153/audios.rss</description>
+                <title>Si hubo vida en Marte, su ADN ha podido sobrevivir. Hablamos con María Paz Zorzano.</title>
+                <description>No sabemos si existe vida más allá de la Tierra, pero, si la hubo o aún persiste en algún rincón del Sistema Solar, uno de los lugares más prometedores para buscarla es Marte. A lo largo de las últimas décadas, numerosas misiones han descendido sobre su superficie y, en la actualidad, dos rovers —Curiosity y Perseverance— exploran regiones donde, en tiempos remotos, abundó el agua líquida, un ingrediente esencial para la vida...
+Feed: https://feeds.feedburner.com/HablandoConCientficos</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/cafe-del-sur/elogio-lentitud-23-11-25/16827332/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16827332.mp3"/>
-                <guid>https://www.rtve.es/play/audios/cafe-del-sur/elogio-lentitud-23-11-25/16827332/</guid>
+                <link>http://cienciaes.com/entrevistas/2025/11/24/adn-marte/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/cienciaes/hc_539_adn_marte.mp3"/>
+                <guid>http://cienciaes.com/entrevistas/2025/11/24/adn-marte/</guid>
                 
             </item><item>
-                <title>Viernes, 5 de diciembre</title>
-                <description>Sal 27
-Feed: https://rezandovoy.org/podcast</description>
+                <title>Un suceso corriente</title>
+                <description>Un suceso corriente
+Feed: http://api.rtve.es/api/adapter/programas/155130/audios.rss</description>
                 
                 
-                <link>https://rezandovoy.org/reproductor/2025-12-05</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rezando.es/public/rezandovoy/oraciones/6019/o.mp3"/>
-                <guid>https://rezandovoy.org/reproductor/2025-12-05</guid>
+                <link>https://www.rtve.es/play/audios/esto-merece-una-explicacion/suceso-corriente-fosa-franquista/16827388/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16827388.mp3"/>
+                <guid>https://www.rtve.es/play/audios/esto-merece-una-explicacion/suceso-corriente-fosa-franquista/16827388/</guid>
                 
             </item>
         </channel>
