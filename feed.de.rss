@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 30 Nov 2025 04:37:47 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 01 Dec 2025 04:53:51 +0200</lastBuildDate>
             <item>
-                <title>Der Talk #78 Yannik Engelhardt</title>
-                <description>Die 78. Ausgabe des „FohlenPodcast – Der Talk“ is…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:326255888/sounds.rss</description>
+                <title>AUA MEIN BEIN IST GEBROCHEN!</title>
+                <description>&lt;p&gt;In der 143. Episode beichtet Elina, wie sie eine arme verletzte Frau am Flughafen umgeschmissen hat. Außerdem sprechen wir auch über die schöne Spendenaktion in Fressnapf und über die Awareness von Bodenleitsystemen.&lt;/p&gt;
+
+Feed: https://anchor.fm/s/fb708d9c/podcast/rss</description>
                 
                 
-                <link>https://soundcloud.com/fohlenpodcast/der-talk-78-yannik-engelhardt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2206227883-fohlenpodcast-der-talk-78-yannik-engelhardt.mp3"/>
-                <guid>https://soundcloud.com/fohlenpodcast/der-talk-78-yannik-engelhardt</guid>
+                <link>https://podcasters.spotify.com/pod/show/diedreirabauken/episodes/AUA-MEIN-BEIN-IST-GEBROCHEN-e3bgnrv</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/APO6262589755.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/diedreirabauken/episodes/AUA-MEIN-BEIN-IST-GEBROCHEN-e3bgnrv</guid>
                 
             </item><item>
-                <title>Be like Bethlehem</title>
-                <description>Mathias Nell
-Feed: https://www.czb-bensheim.de/feed/mp3/</description>
+                <title>Wiederholungszwang in Beziehungen – warum suche ich immer dasselbe?</title>
+                <description>+++ !Wichtige Info: Stahl aber Herzlich könnt ihr ab nun kostenfrei bei RTL+ hören. Dort hört ihr neue Folgen exklusiv bereits eine Woche früher. Alle Folgen sind aber auch weiterhin auf allen anderen Plattformen verfügbar! +++
+Eva kommt mit Beziehungsproblemen. Sie scheint sich immer wieder schwierige Partner auszusuchen, die ihre Bedürfnisse nicht akzeptieren, doch Eva macht das alles trotzdem mit und setzt überhaupt keine Grenzen...
+Feed: https://proxyfeed.svmaudio.com/aa/stahl-aber-herzlich</description>
                 
                 
-                <link>https://www.czb-bensheim.de/2025/11/23/be-like-bethlehem/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.czb-bensheim.de/podlove/file/1003/s/feed/c/mp3/2025-11-23_Mathias-Nell_Be-like-Bethlehem.mp3"/>
-                <guid>https://www.czb-bensheim.de/2025/11/23/be-like-bethlehem/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://stahl-aber-herzlich.cdn.svmaudio.com/episodes/3c839933-10fb-4008-b94b-ed27e1b1d51f.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

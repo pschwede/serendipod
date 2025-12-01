@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 30 Nov 2025 04:37:55 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 01 Dec 2025 04:54:01 +0200</lastBuildDate>
             <item>
-                <title>Si hubo vida en Marte, su ADN ha podido sobrevivir. Hablamos con María Paz Zorzano.</title>
-                <description>No sabemos si existe vida más allá de la Tierra, pero, si la hubo o aún persiste en algún rincón del Sistema Solar, uno de los lugares más prometedores para buscarla es Marte. A lo largo de las últimas décadas, numerosas misiones han descendido sobre su superficie y, en la actualidad, dos rovers —Curiosity y Perseverance— exploran regiones donde, en tiempos remotos, abundó el agua líquida, un ingrediente esencial para la vida...
-Feed: https://feeds.feedburner.com/HablandoConCientficos</description>
+                <title>Cosa Publica 2.0 - Vi. 28 Nov 2025</title>
+                <description>https://podcastudg.com/CosaPublica20251128.mp3
+Feed: https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/feed/19</description>
                 
                 
-                <link>http://cienciaes.com/entrevistas/2025/11/24/adn-marte/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/cienciaes/hc_539_adn_marte.mp3"/>
-                <guid>http://cienciaes.com/entrevistas/2025/11/24/adn-marte/</guid>
+                <link>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---vi-28-nov-2025/295618</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/CosaPublica20251128.mp3"/>
+                <guid>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---vi-28-nov-2025/295618</guid>
                 
             </item><item>
-                <title>Un suceso corriente</title>
-                <description>Un suceso corriente
-Feed: http://api.rtve.es/api/adapter/programas/155130/audios.rss</description>
+                <title>Serie: Corazón por la casa | Pt. 4 &#34;Corazón por esta generación&#34;  | Ps. Jeff Duncan</title>
+                <description>
+Feed: https://arboldevida.podbean.com/feed.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/esto-merece-una-explicacion/suceso-corriente-fosa-franquista/16827388/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16827388.mp3"/>
-                <guid>https://www.rtve.es/play/audios/esto-merece-una-explicacion/suceso-corriente-fosa-franquista/16827388/</guid>
+                <link>https://arboldevida.podbean.com/e/serie-corazon-por-la-casa-pt-4-corazon-por-esta-generacion-ps-jeff-duncan/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/b55fw26vvhhhrz72/CYP_YOUTUBE_Y_PODBEAN_7wjst.mp3"/>
+                <guid>https://arboldevida.podbean.com/e/serie-corazon-por-la-casa-pt-4-corazon-por-esta-generacion-ps-jeff-duncan/</guid>
                 
             </item>
         </channel>
