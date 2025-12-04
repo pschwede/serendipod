@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 01 Dec 2025 04:54:01 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 04 Dec 2025 04:36:22 +0200</lastBuildDate>
             <item>
-                <title>Cosa Publica 2.0 - Vi. 28 Nov 2025</title>
-                <description>https://podcastudg.com/CosaPublica20251128.mp3
+                <title>Armando manzanero en Platicando de eiberoamerica.com</title>
+                <description>Armando Manzanero Canché (Ticul, Yucatán, 7 de diciembre de 1935-Ciudad de México, 28 de diciembre de 2020),???? fue un compositor, cantante, actor, músico y productor discográfico mexicano, considerado por parte de especialistas, prensa y músicos como uno de los compositores más exitosos de la historia.?? 
+Escribió más de cuatrocientas canciones, de las cuales más de cincuenta han alcanzado fama internacional, como «Somos novios», «Esta tarde vi llover», «Contigo aprendí» y «Adoro»...
+Feed: https://eiberoamerica.com/feed/platicando.xml</description>
+                
+                
+                <link>http://eiberoamerica.com/podcast/platicando/0876_ArmandoManzanero.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0876_ArmandoManzanero.mp3"/>
+                <guid>http://eiberoamerica.com/podcast/platicando/0876_ArmandoManzanero.mp3</guid>
+                
+            </item><item>
+                <title>Cosa Pública 2.0 - Ma. 02 Dic 2025 - Desde  la @FILGuadalajara</title>
+                <description>https://podcastudg.com/CosaPublica20251202.mp3
 Feed: https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/feed/19</description>
                 
                 
-                <link>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---vi-28-nov-2025/295618</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/CosaPublica20251128.mp3"/>
-                <guid>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---vi-28-nov-2025/295618</guid>
-                
-            </item><item>
-                <title>Serie: Corazón por la casa | Pt. 4 &#34;Corazón por esta generación&#34;  | Ps. Jeff Duncan</title>
-                <description>
-Feed: https://arboldevida.podbean.com/feed.xml</description>
-                
-                
-                <link>https://arboldevida.podbean.com/e/serie-corazon-por-la-casa-pt-4-corazon-por-esta-generacion-ps-jeff-duncan/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/b55fw26vvhhhrz72/CYP_YOUTUBE_Y_PODBEAN_7wjst.mp3"/>
-                <guid>https://arboldevida.podbean.com/e/serie-corazon-por-la-casa-pt-4-corazon-por-esta-generacion-ps-jeff-duncan/</guid>
+                <link>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---ma-02-dic-2025---desde-la-filguadalajara/296133</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/CosaPublica20251202.mp3"/>
+                <guid>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---ma-02-dic-2025---desde-la-filguadalajara/296133</guid>
                 
             </item>
         </channel>
