@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 04 Dec 2025 04:36:22 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 05 Dec 2025 04:35:52 +0200</lastBuildDate>
             <item>
-                <title>Armando manzanero en Platicando de eiberoamerica.com</title>
-                <description>Armando Manzanero Canché (Ticul, Yucatán, 7 de diciembre de 1935-Ciudad de México, 28 de diciembre de 2020),???? fue un compositor, cantante, actor, músico y productor discográfico mexicano, considerado por parte de especialistas, prensa y músicos como uno de los compositores más exitosos de la historia.?? 
-Escribió más de cuatrocientas canciones, de las cuales más de cincuenta han alcanzado fama internacional, como «Somos novios», «Esta tarde vi llover», «Contigo aprendí» y «Adoro»...
-Feed: https://eiberoamerica.com/feed/platicando.xml</description>
+                <title>Ars canendi - Un aniversario: Wozzeck - 30/11/25</title>
+                <description>Un aniversario: Wozzeck
+Feed: http://api.rtve.es/api/programas/1888/audios.rss</description>
                 
                 
-                <link>http://eiberoamerica.com/podcast/platicando/0876_ArmandoManzanero.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0876_ArmandoManzanero.mp3"/>
-                <guid>http://eiberoamerica.com/podcast/platicando/0876_ArmandoManzanero.mp3</guid>
+                <link>https://www.rtve.es/play/audios/ars-canendi/aniversario-wozzeck-30-11-25/16838682/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16838682.mp3"/>
+                <guid>https://www.rtve.es/play/audios/ars-canendi/aniversario-wozzeck-30-11-25/16838682/</guid>
                 
             </item><item>
-                <title>Cosa Pública 2.0 - Ma. 02 Dic 2025 - Desde  la @FILGuadalajara</title>
-                <description>https://podcastudg.com/CosaPublica20251202.mp3
-Feed: https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/feed/19</description>
+                <title>Lo Que Más Suena Cap. 375 (22-11-25)</title>
+                <description>Nueva edición de &#39;Lo Que Más Suena&#39;, que contiene las últimas novedades, temazos del recuerdo y vuestras peticiones mediante nota de voz a nuestro número de WhatsApp. Incluye una entrevista a Macaco. WhatsApp: 633 865 801 Facebook: http://www.facebook.com/loqmassuena Twitter: @loquemassuena Instagram: https://www.instagram.com/loquemassuena/ E-mail: loquemassuena@gmail.com
+Feed: https://feeds.feedburner.com/loquemassuena</description>
                 
                 
-                <link>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---ma-02-dic-2025---desde-la-filguadalajara/296133</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/CosaPublica20251202.mp3"/>
-                <guid>https://udgtv.com/podcast/guadalajara/cosa-publica-2-0/cosa-publica-2-0---ma-02-dic-2025---desde-la-filguadalajara/296133</guid>
+                <link>https://www.ivoox.com/lo-que-mas-suena-cap-375-22-11-25-audios-mp3_rf_163087808_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/lo-que-mas-suena-cap-375-22-11-25_mf_163087808_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/lo-que-mas-suena-cap-375-22-11-25-audios-mp3_rf_163087808_1.html</guid>
                 
             </item>
         </channel>

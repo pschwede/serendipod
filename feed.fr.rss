@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 04 Dec 2025 04:36:16 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 05 Dec 2025 04:35:46 +0200</lastBuildDate>
             <item>
-                <title>Congé pour décès : ce que prévoit la loi, en 120 Secondes</title>
-                <description>&lt;p&gt;Aujourd’hui, 120 Secondes Essentiel passe en revue les modalités du congé pour décès. Accordé aux salariés qui perdent un membre de leur famille, sa durée dépend du lien de parenté avec le défunt. Capital fait le point.&amp;nbsp;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt; &lt;br /&gt;Hébergé par Audion. Visitez https://www.audion.fm/fr/privacy-policy pour plus d’informations.&lt;/p&gt;
-Feed: https://feeds.360.audion.fm/zT-3whGEUszDEIbdR5aVu</description>
+                <title>Parcours d&#39;une Jeune Badass | Candice Pondevie, attachée de presse, Bouygues Construction | Ep 183</title>
+                <description>
+Candice Pondevie ne s’imaginait pas forcément dans la communication. Elle voulait être journaliste, avant de bifurquer vers une école de commerce. C’est au fil des expériences et des rencontres qu’elle découvre la com, puis qu’elle s’y épanouit. Son p...
+Feed: https://feed.ausha.co/blnJrf635QNe</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/54fbc3d3-3bd9-4bb9-b77e-eee765b674d6.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://podcast.ausha.co/decodeur-de-la-communication/parcours-d-une-jeune-badass-candice-pondevie-attachee-de-presse-bouygues-construction</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bzvrziaRd9Rb.mp3?t=1764713122"/>
+                <guid>https://podcast.ausha.co/decodeur-de-la-communication/parcours-d-une-jeune-badass-candice-pondevie-attachee-de-presse-bouygues-construction</guid>
                 
             </item><item>
-                <title>Radu Lupu, concerts inédits</title>
-                <description>Radu Lupu, concerts inédits
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14503.xml</description>
+                <title>Héritage : est-ce que ça compte entre ami·e·s ?</title>
+                <description>&lt;p&gt;Quand on aime beaucoup quelqu’un, qu’on rit avec, qu’on a l’impression de partager à la fois des valeurs et des souvenirs, la question de l&#39;argent et du patrimoine semble un peu mesquine. On se dit qu’on vaut mieux que ça, que ces questions bassement matérielles ne peuvent pas entraver une amitié. On vaut mieux que ça, mais ça ne nous empêche pas de remarquer que cet·te ami·e qui n’a jamais payé de loyer de sa vie n’offre jamais non plus sa tournée.....
+Feed: https://feeds.acast.com/public/shows/8fb79794-2f6a-41f0-9ae1-d7766f4e4092</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/portraits-de-famille/radu-lupu-concerts-inedits-4409241</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/301a09a6-68cf-487d-914c-81d0ad73b0b9/14503-29.11.2025-ITEMA_24326915-2025M23831S0333-NET_MFM_9FD36519-5A68-42BB-99C2-9AECA729B369-21-2a396f280d96b48f35ba47a248adf538.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/portraits-de-famille/radu-lupu-concerts-inedits-4409241</guid>
+                <link>https://shows.acast.com/emotions/episodes/heritage-amitie</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/emotions/e/69146223830e2623bfb2b673/media.mp3"/>
+                <guid>https://shows.acast.com/emotions/episodes/heritage-amitie</guid>
                 
             </item>
         </channel>
