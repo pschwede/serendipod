@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 05 Dec 2025 04:35:52 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 06 Dec 2025 04:30:16 +0200</lastBuildDate>
             <item>
-                <title>Ars canendi - Un aniversario: Wozzeck - 30/11/25</title>
-                <description>Un aniversario: Wozzeck
-Feed: http://api.rtve.es/api/programas/1888/audios.rss</description>
+                <title>Primeros experimentos IA</title>
+                <description>Gracias al lanzamiento del AI Experiments Plugin ya se pueden comenzar a probar algunos experimentos simples en conjunto con el MCP Adapter.
+Feed: https://www.wppodcast.es/feed/podcast/</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/ars-canendi/aniversario-wozzeck-30-11-25/16838682/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16838682.mp3"/>
-                <guid>https://www.rtve.es/play/audios/ars-canendi/aniversario-wozzeck-30-11-25/16838682/</guid>
+                <link>https://www.wppodcast.es/podcast/primeros-experimentos-ia/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/338/s/feed/c/podcast/wordpress-podcast-e291.mp3"/>
+                <guid>https://www.wppodcast.es/podcast/primeros-experimentos-ia/</guid>
                 
             </item><item>
-                <title>Lo Que Más Suena Cap. 375 (22-11-25)</title>
-                <description>Nueva edición de &#39;Lo Que Más Suena&#39;, que contiene las últimas novedades, temazos del recuerdo y vuestras peticiones mediante nota de voz a nuestro número de WhatsApp. Incluye una entrevista a Macaco. WhatsApp: 633 865 801 Facebook: http://www.facebook.com/loqmassuena Twitter: @loquemassuena Instagram: https://www.instagram.com/loquemassuena/ E-mail: loquemassuena@gmail.com
-Feed: https://feeds.feedburner.com/loquemassuena</description>
+                <title>El Francotirarock y la nueva moda china</title>
+                <description>El Francotirarock de &#39;El Pirata y su banda&#39; analiza la última excentricidad asiática que, según él, tiene un sorprendente parecido con ser autónomo en España
+Feed: https://www.rockfm.fm/api/es/programas/el-pirata-y-su-banda/el-francotirarock/audios/rss.xml</description>
                 
                 
-                <link>https://www.ivoox.com/lo-que-mas-suena-cap-375-22-11-25-audios-mp3_rf_163087808_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/lo-que-mas-suena-cap-375-22-11-25_mf_163087808_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/lo-que-mas-suena-cap-375-22-11-25-audios-mp3_rf_163087808_1.html</guid>
+                <link>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/episodios/francotirarock-nueva-moda-china-20251204_65109.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.rockfm.fm/uploads/2025/12/04/GoOjGOBqMwBHTzMH7cWmy.mp3"/>
+                <guid>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/episodios/francotirarock-nueva-moda-china-20251204_65109.html</guid>
                 
             </item>
         </channel>

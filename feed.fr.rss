@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 05 Dec 2025 04:35:46 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 06 Dec 2025 04:30:12 +0200</lastBuildDate>
             <item>
-                <title>Parcours d&#39;une Jeune Badass | Candice Pondevie, attachée de presse, Bouygues Construction | Ep 183</title>
-                <description>
-Candice Pondevie ne s’imaginait pas forcément dans la communication. Elle voulait être journaliste, avant de bifurquer vers une école de commerce. C’est au fil des expériences et des rencontres qu’elle découvre la com, puis qu’elle s’y épanouit. Son p...
-Feed: https://feed.ausha.co/blnJrf635QNe</description>
+                <title>Rebelles soniques : Rebelles soniques - C&#39;est l&#39;hiver 2025!</title>
+                <description>693-349545
+Feed: http://podcast.cism893.ca/radioshows/693/feed_itunes.xml</description>
                 
                 
-                <link>https://podcast.ausha.co/decodeur-de-la-communication/parcours-d-une-jeune-badass-candice-pondevie-attachee-de-presse-bouygues-construction</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bzvrziaRd9Rb.mp3?t=1764713122"/>
-                <guid>https://podcast.ausha.co/decodeur-de-la-communication/parcours-d-une-jeune-badass-candice-pondevie-attachee-de-presse-bouygues-construction</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/349545.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/349545.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/349545.mp3</guid>
                 
             </item><item>
-                <title>Héritage : est-ce que ça compte entre ami·e·s ?</title>
-                <description>&lt;p&gt;Quand on aime beaucoup quelqu’un, qu’on rit avec, qu’on a l’impression de partager à la fois des valeurs et des souvenirs, la question de l&#39;argent et du patrimoine semble un peu mesquine. On se dit qu’on vaut mieux que ça, que ces questions bassement matérielles ne peuvent pas entraver une amitié. On vaut mieux que ça, mais ça ne nous empêche pas de remarquer que cet·te ami·e qui n’a jamais payé de loyer de sa vie n’offre jamais non plus sa tournée.....
-Feed: https://feeds.acast.com/public/shows/8fb79794-2f6a-41f0-9ae1-d7766f4e4092</description>
+                <title>Votre jardin</title>
+                <description>Votre jardin
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_15376.xml</description>
                 
                 
-                <link>https://shows.acast.com/emotions/episodes/heritage-amitie</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/emotions/e/69146223830e2623bfb2b673/media.mp3"/>
-                <guid>https://shows.acast.com/emotions/episodes/heritage-amitie</guid>
+                <link>https://www.francebleu.fr/emissions/votre-jardin/rcfm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/e8832a36-51f8-4489-8d76-48a0a1219f32/15376-22.11.2025-ITEMA_24319729-2025B20690S0326-NET_2BA_F2FC3056-0D81-40CF-A8DE-177F8A73FE39-21-fce41d6f850bd592809cabf1e9c4d13a.mp3"/>
+                <guid>https://www.francebleu.fr/emissions/votre-jardin/rcfm</guid>
                 
             </item>
         </channel>
