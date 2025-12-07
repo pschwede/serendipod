@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 06 Dec 2025 04:30:16 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 07 Dec 2025 04:36:44 +0200</lastBuildDate>
             <item>
-                <title>Primeros experimentos IA</title>
-                <description>Gracias al lanzamiento del AI Experiments Plugin ya se pueden comenzar a probar algunos experimentos simples en conjunto con el MCP Adapter.
-Feed: https://www.wppodcast.es/feed/podcast/</description>
+                <title>Los conciertos de Radio 3 - Antonio Serrano - 05/12/25</title>
+                <description>Antonio Serrano
+Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
                 
                 
-                <link>https://www.wppodcast.es/podcast/primeros-experimentos-ia/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/338/s/feed/c/podcast/wordpress-podcast-e291.mp3"/>
-                <guid>https://www.wppodcast.es/podcast/primeros-experimentos-ia/</guid>
+                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/antonio-serrano-05-12-25/16845695/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16845695.mp3"/>
+                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/antonio-serrano-05-12-25/16845695/</guid>
                 
             </item><item>
-                <title>El Francotirarock y la nueva moda china</title>
-                <description>El Francotirarock de &#39;El Pirata y su banda&#39; analiza la última excentricidad asiática que, según él, tiene un sorprendente parecido con ser autónomo en España
-Feed: https://www.rockfm.fm/api/es/programas/el-pirata-y-su-banda/el-francotirarock/audios/rss.xml</description>
+                <title>Lola Dinamita</title>
+                <description>Lola Dinamita, campeona de lucha libre con 50 años de trayectoria, cuenta cómo venció prohibiciones, machismo y violencia para seguir arriba del cuadrilátero. Caídas, empoderamiento y su paso a dar cursos de lucha libre en la UNAM y la UAM. Una historia que golpea donde más importa.
+Feed: https://feeds.simplecast.com/bDacRxP4</description>
                 
                 
-                <link>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/episodios/francotirarock-nueva-moda-china-20251204_65109.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.rockfm.fm/uploads/2025/12/04/GoOjGOBqMwBHTzMH7cWmy.mp3"/>
-                <guid>https://www.rockfm.fm/programas/el-pirata-y-su-banda/el-francotirarock/episodios/francotirarock-nueva-moda-china-20251204_65109.html</guid>
+                <link>https://asicomosuena.mx/asi-como-suena</link>
+                <enclosure type="audio/mpeg" length="1" url="https://afp-922698-injected.calisto.simplecastaudio.com/2b3ff73a-9968-4604-8ea9-bf738f02d0e3/episodes/10d3c234-0bdc-4dc1-a3fb-7c56c3e7b666/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2b3ff73a-9968-4604-8ea9-bf738f02d0e3&amp;awEpisodeId=10d3c234-0bdc-4dc1-a3fb-7c56c3e7b666&amp;feed=bDacRxP4"/>
+                <guid>https://asicomosuena.mx/asi-como-suena</guid>
                 
             </item>
         </channel>

@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 06 Dec 2025 04:30:07 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 07 Dec 2025 04:36:33 +0200</lastBuildDate>
             <item>
-                <title>433: Hinter den Kulissen eines Zierfischverkäufers – Alltag, Verantwortung und echte Beratung im Zoofachhandel (Kay Albach)</title>
-                <description>Zu Gast heute: Kay Albach - mit dem Thema &#34;Hinter den Kulissen eines Zierfischverkäufers – Alltag, Verantwortung und echte Beratung im Zoofachhandel.&#34;
-In dieser rund 21‑minütigen Podcast-Episode von my-fish.org werfen wir einen Blick hinter die Kulissen eines Berufs, den viele Aquarianer spannend finden, aber kaum jemand wirklich kennt: den Zierfischverkäufer im Zoofachhandel...
-Feed: https://my-fish.org/feed/mp3/</description>
+                <title>NightJazz: ATS 2 (Serie 1454: Jazz-Zeit)</title>
+                <description>Teil 2 des zweiten Teils über das österreichische Independent-Label ATS Records aus Molln.  Ganz hervorragende Sachen, u.a. Saxofour und Zweimaurer.
+Feed: https://www.freie-radios.net/portal/podcast.php?radio=54&amp;rss</description>
                 
                 
-                <link>https://my-fish.org/episode433/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://my-fish.org/podlove/file/1721/s/feed/c/mp3/myfish-podcast-433.mp3"/>
-                <guid>https://my-fish.org/episode433/</guid>
+                <link>http://www.freie-radios.net/139656</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.freie-radios.net/mp3/20251205-nightjazzats-139656.mp3"/>
+                <guid>http://www.freie-radios.net/139656</guid>
                 
             </item><item>
-                <title>Ohne Journalismus keine Demokratie &amp;#8211; HAK Perg</title>
-                <description>01.12.2025 - Am 11.und 12. November veranstaltete der OÖ. Presseclub und die OÖ. Bildungsdirektion Medienworkshops zum Thema „Ohne Journalismus keine Demokratie“ für Schülerinnen und Schüler, um Einblicke in den journalistischen Alltag und die...
-Feed: https://cba.media/podcast/open-space-im-freien-radio-freistadt/feed</description>
+                <title>Kündigung vom Vermieter: Ihre Rechte und die nächsten Schritte</title>
+                <description>So vermeidest du Sperrzeit und sicherst deine Chancen
+Feed: https://letscast.fm/podcasts/herrdenis-das-mandantengespraech-ab3aab2a/feed</description>
                 
                 
-                <link>https://cba.media/747458</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/7/5/0000747457/20251204-ohne-journalismus-keine-demokratie-workshop-hak-perg-25-41.mp3"/>
-                <guid>https://cba.media/747458</guid>
+                <link>https://herrdenis.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://lcdn.letscast.fm/media/podcast/ab3aab2a/episode/75777ba7.mp3?t=1764501836"/>
+                <guid>https://herrdenis.com</guid>
                 
             </item>
         </channel>
