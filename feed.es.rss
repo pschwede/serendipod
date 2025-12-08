@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 07 Dec 2025 04:36:44 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 08 Dec 2025 04:38:41 +0200</lastBuildDate>
             <item>
-                <title>Los conciertos de Radio 3 - Antonio Serrano - 05/12/25</title>
-                <description>Antonio Serrano
-Feed: http://api.rtve.es/api/programas/2022/audios.rss</description>
+                <title>Crónica internacional -  La instalación de un nuevo sistema de radar estadounidense de largo alcance en Trinidad y Tobago genera alarma en la región</title>
+                <description>La instalación de un nuevo sistema de radar estadounidense de largo alcance en Trinidad y Tobago genera alarma en la región
+Feed: https://www.rtve.es/api/programas/130031/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/antonio-serrano-05-12-25/16845695/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16845695.mp3"/>
-                <guid>https://www.rtve.es/play/audios/los-conciertos-de-radio-3/antonio-serrano-05-12-25/16845695/</guid>
+                <link>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-instalacion-nuevo-sistema-radar-estadounidense-largo-alcance-trinidad-tobago-genera-alarma-region/16846303/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16846303.mp3"/>
+                <guid>https://www.rtve.es/play/audios/cronica-internacional/cronica-internacional-instalacion-nuevo-sistema-radar-estadounidense-largo-alcance-trinidad-tobago-genera-alarma-region/16846303/</guid>
                 
             </item><item>
-                <title>Lola Dinamita</title>
-                <description>Lola Dinamita, campeona de lucha libre con 50 años de trayectoria, cuenta cómo venció prohibiciones, machismo y violencia para seguir arriba del cuadrilátero. Caídas, empoderamiento y su paso a dar cursos de lucha libre en la UNAM y la UAM. Una historia que golpea donde más importa.
-Feed: https://feeds.simplecast.com/bDacRxP4</description>
+                <title>Cómo prepararse para las dificultades que vengan después del bautismo (27 de abril-3 de mayo)</title>
+                <description>wS MP3 Febrero de 2026 - 04
+Feed: https://apps.jw.org/E_sFFZRQVNZNT?rln=S&amp;rmn=w&amp;rfm=mp3</description>
                 
                 
-                <link>https://asicomosuena.mx/asi-como-suena</link>
-                <enclosure type="audio/mpeg" length="1" url="https://afp-922698-injected.calisto.simplecastaudio.com/2b3ff73a-9968-4604-8ea9-bf738f02d0e3/episodes/10d3c234-0bdc-4dc1-a3fb-7c56c3e7b666/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2b3ff73a-9968-4604-8ea9-bf738f02d0e3&amp;awEpisodeId=10d3c234-0bdc-4dc1-a3fb-7c56c3e7b666&amp;feed=bDacRxP4"/>
-                <guid>https://asicomosuena.mx/asi-como-suena</guid>
+                <link>https://cfp2.jw-cdn.org/a/ebb690/1/o/w_S_202602_04.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cfp2.jw-cdn.org/a/ebb690/1/o/w_S_202602_04.mp3"/>
+                <guid>https://cfp2.jw-cdn.org/a/ebb690/1/o/w_S_202602_04.mp3</guid>
                 
             </item>
         </channel>

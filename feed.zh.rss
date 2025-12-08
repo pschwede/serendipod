@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 07 Dec 2025 04:36:55 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 08 Dec 2025 04:38:53 +0200</lastBuildDate>
             <item>
-                <title>But Have You Tried... Cranberry Relish</title>
-                <description>Ally has Nic try an old family recipe, plus talk …
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:198935715/sounds.rss</description>
+                <title>The Backup Operator from Hell: Why Your Azure Backups Aren’t as Safe as You Think</title>
+                <description>Administrator… do you hear that? The silence is lying to you. Your Azure backups look healthy. Vaults are green. Jobs say Completed. No alerts. No smoke. But one overpowered identity, one leaked token, or one panicked admin can quietly erase every...
+Feed: https://www.spreaker.com/show/6704921/episodes/feed</description>
                 
                 
-                <link>https://soundcloud.com/allthebooks/but-have-you-tried-cranberry-relish</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2212181903-allthebooks-but-have-you-tried-cranberry-relish.mp3"/>
-                <guid>https://soundcloud.com/allthebooks/but-have-you-tried-cranberry-relish</guid>
+                <link>https://www.spreaker.com/episode/the-backup-operator-from-hell-why-your-azure-backups-aren-t-as-safe-as-you-think--68797119</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/68797119/the_backup_operator_from_hell_why_your_azure_backups_aren_t_as_safe_as_you_think.mp3"/>
+                <guid>https://www.spreaker.com/episode/the-backup-operator-from-hell-why-your-azure-backups-aren-t-as-safe-as-you-think--68797119</guid>
                 
             </item><item>
-                <title>Skyjacks: Episode 294</title>
-                <description>Gable, Orimar and Christopher find their way through the smoke and flames only to come to an unexpected obstacle. Lucas enjoys a light workout and snack before making a deal with a shocking figure from the crew&#39;s past...
-Feed: https://feeds.megaphone.fm/OSPN2193291028</description>
+                <title>Premiere: Milio - Erosie [Flores]</title>
+                <description>♫ Info + Buy ♫
+https://www.beatport.com/release/e…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:15904471/sounds.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/OSPN1114781565.mp3?updated=1764739247"/>
-                <guid></guid>
+                <link>https://soundcloud.com/deep-house-amsterdam/premiere-milio-erosie-flores</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2215290128-deep-house-amsterdam-premiere-milio-erosie-flores.mp3"/>
+                <guid>https://soundcloud.com/deep-house-amsterdam/premiere-milio-erosie-flores</guid>
                 
             </item>
         </channel>
