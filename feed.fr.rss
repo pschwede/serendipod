@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 08 Dec 2025 04:38:36 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 10 Dec 2025 04:38:22 +0200</lastBuildDate>
             <item>
-                <title>Le char de marge : 12/07/2025 18:00</title>
-                <description>637-349666
-Feed: http://podcast.cism893.ca/radioshows/637/feed_itunes.xml</description>
+                <title>CHRO25073 - Supercondensateur</title>
+                <description>Une impressionnante alternative aux batteries : l…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:161771999/sounds.rss</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/349666.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/349666.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/349666.mp3</guid>
+                <link>https://soundcloud.com/albireo78/chro25073-supercondensateur</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2225420096-albireo78-chro25073-supercondensateur.mp3"/>
+                <guid>https://soundcloud.com/albireo78/chro25073-supercondensateur</guid>
                 
             </item><item>
-                <title>Rebelles soniques : Rebelles soniques - C&#39;est l&#39;hiver 2025!</title>
-                <description>693-349545
-Feed: http://podcast.cism893.ca/radioshows/693/feed_itunes.xml</description>
+                <title>London café : Émission du 2 décembre</title>
+                <description>665-349342
+Feed: http://podcast.cism893.ca/radioshows/665/feed_itunes.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/349545.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/349545.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/349545.mp3</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/349342.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/349342.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/349342.mp3</guid>
                 
             </item>
         </channel>

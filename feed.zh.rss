@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 08 Dec 2025 04:38:53 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 10 Dec 2025 04:38:44 +0200</lastBuildDate>
             <item>
-                <title>The Backup Operator from Hell: Why Your Azure Backups Aren’t as Safe as You Think</title>
-                <description>Administrator… do you hear that? The silence is lying to you. Your Azure backups look healthy. Vaults are green. Jobs say Completed. No alerts. No smoke. But one overpowered identity, one leaked token, or one panicked admin can quietly erase every...
-Feed: https://www.spreaker.com/show/6704921/episodes/feed</description>
+                <title>What life’s like as a football club CEO in Saudi Arabia</title>
+                <description>Esteve Calzada, CEO of Saudi Pro League giant Al Hilal, assesses the evolution of football in the Kingdom, as he welcomes Leaders’ Content Director David Cushnan to the club’s corporate office in Riyadh. Al-Hilal SC is Saudi Arabia’s most successful football team, and has clubs in over 20 sports...
+Feed: https://feeds.blubrry.com/feeds/leaders_podcast.xml</description>
                 
                 
-                <link>https://www.spreaker.com/episode/the-backup-operator-from-hell-why-your-azure-backups-aren-t-as-safe-as-you-think--68797119</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/68797119/the_backup_operator_from_hell_why_your_azure_backups_aren_t_as_safe_as_you_think.mp3"/>
-                <guid>https://www.spreaker.com/episode/the-backup-operator-from-hell-why-your-azure-backups-aren-t-as-safe-as-you-think--68797119</guid>
+                <link>https://blubrry.com/leaders_podcast/150459728/what-lifes-like-as-a-football-club-ceo-in-saudi-arabia/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/leaders_podcast/content.blubrry.com/leaders_podcast/LP-2025-12-04-332.mp3"/>
+                <guid>https://blubrry.com/leaders_podcast/150459728/what-lifes-like-as-a-football-club-ceo-in-saudi-arabia/</guid>
                 
             </item><item>
-                <title>Premiere: Milio - Erosie [Flores]</title>
-                <description>♫ Info + Buy ♫
-https://www.beatport.com/release/e…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:15904471/sounds.rss</description>
+                <title>587- The Empathy Playbook for Parents: Helping Kids (and You) Navigate Unfair Treatment and Tough Relationships</title>
+                <description>&lt;p&gt;Sharon Saline, Psy.D., helps parents understand how to talk with our kids about ADHD in a supportive, empowering way; establish boundaries and protect their self-esteem; and help them navigate unfair treatment from family members, teachers, and peers...
+Feed: https://additudemag.libsyn.com/rss</description>
                 
                 
-                <link>https://soundcloud.com/deep-house-amsterdam/premiere-milio-erosie-flores</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2215290128-deep-house-amsterdam-premiere-milio-erosie-flores.mp3"/>
-                <guid>https://soundcloud.com/deep-house-amsterdam/premiere-milio-erosie-flores</guid>
+                <link>https://additudemag.libsyn.com/587-the-empathy-playbook-for-parents-helping-kids-and-you-navigate-unfair-treatment-and-tough-relationships</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/additudemag/587-saline-empathy-playbook-parenting-talk-about-adhd-navigate-tough-relationships.mp3?dest-id=142543"/>
+                <guid>https://additudemag.libsyn.com/587-the-empathy-playbook-for-parents-helping-kids-and-you-navigate-unfair-treatment-and-tough-relationships</guid>
                 
             </item>
         </channel>
