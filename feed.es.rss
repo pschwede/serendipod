@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 10 Dec 2025 04:38:29 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 11 Dec 2025 04:41:03 +0200</lastBuildDate>
             <item>
-                <title>Planeta Vivo - La Biomarató batiendo récords - 03/12/25</title>
-                <description>La Biomarató batiendo récords
-Feed: http://api.rtve.es/api/programas/8893/audios.rss</description>
+                <title>226: Frases para sonar más natural en español</title>
+                <description>Pau y Harry hablan sobre 8 palabras, o expresiones idiomáticas, que te podrían ayudar a sonar más natural cuando hablas español.
+Feed: https://www.easyspanish.fm/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-biomarato-batiendo-records/16846262/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16846262.mp3"/>
-                <guid>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-biomarato-batiendo-records/16846262/</guid>
+                <link>https://www.easyspanish.fm/226</link>
+                <enclosure type="audio/mpeg" length="1" url="https://aphid.fireside.fm/d/1437767933/40524848-bf9c-4d5e-b211-62c1a0a887c1/cd9f05b7-6880-407a-acbb-ef279420426b.mp3"/>
+                <guid>https://www.easyspanish.fm/226</guid>
                 
             </item><item>
-                <title>Lola Dinamita</title>
-                <description>Lola Dinamita, campeona de lucha libre con 50 años de trayectoria, cuenta cómo venció prohibiciones, machismo y violencia para seguir arriba del cuadrilátero. Caídas, empoderamiento y su paso a dar cursos de lucha libre en la UNAM y la UAM. Una historia que golpea donde más importa.
-Feed: https://feeds.simplecast.com/bDacRxP4</description>
+                <title>Lunes, 15 de diciembre</title>
+                <description>Mt 21, 23-27
+Feed: https://rezandovoy.org/podcast</description>
                 
                 
-                <link>https://asicomosuena.mx/asi-como-suena</link>
-                <enclosure type="audio/mpeg" length="1" url="https://afp-922698-injected.calisto.simplecastaudio.com/2b3ff73a-9968-4604-8ea9-bf738f02d0e3/episodes/10d3c234-0bdc-4dc1-a3fb-7c56c3e7b666/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2b3ff73a-9968-4604-8ea9-bf738f02d0e3&amp;awEpisodeId=10d3c234-0bdc-4dc1-a3fb-7c56c3e7b666&amp;feed=bDacRxP4"/>
-                <guid>https://asicomosuena.mx/asi-como-suena</guid>
+                <link>https://rezandovoy.org/reproductor/2025-12-15</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rezando.es/public/rezandovoy/oraciones/6029/o.mp3"/>
+                <guid>https://rezandovoy.org/reproductor/2025-12-15</guid>
                 
             </item>
         </channel>
