@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 13 Dec 2025 04:33:05 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 14 Dec 2025 04:40:23 +0200</lastBuildDate>
             <item>
-                <title>Narichten op Platt 12.12.2025</title>
-                <description>Ut Hamborg und de wiede Welt vun maandaags bet sünnavends: Die aktuellen Nachrichten auf Plattdeutsch.
-Feed: http://www.ndr.de/podcast/podcast3070.xml</description>
+                <title>Ö1 Talentestipendium: Ruth Größwang</title>
+                <description>&lt;p&gt;Die junge Linzerin Ruth Größwang ist Gewinnerin des Ö1 Talentestipendiums 2025 für bildende Kunst. Alle Nominierten präsentieren ihre eingereichten Werke aktuell in der einwöchigen Ausstellung „Tender Matters“ in der Ovalhalle des Wiener Museumsquartiers. – Sendung vom 12.12.2025&lt;/p&gt;
+Feed: https://podcast.orf.at/podcast/oe1/oe1_leporello/oe1_leporello.xml</description>
                 
                 
-                <link>https://www.ndr.de/903/narichten-op-platt-12122025,audio-356360.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2025/1212/AU-20251212-0959-2500.mp3"/>
-                <guid>https://www.ndr.de/903/narichten-op-platt-12122025,audio-356360.html</guid>
+                <link>https://sound.orf.at/podcast/oe1/oe1-leporello/oe1-talentestipendium-ruth-groesswang</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/oe1/oe1_leporello/items/di_oe1_leporello_clk_ab341952f8b641cb91bb4bdcdf66eb5b.mp3?etag=d6c7f971ecaa40fc6aa17a7eb1e644b1"/>
+                <guid>https://sound.orf.at/podcast/oe1/oe1-leporello/oe1-talentestipendium-ruth-groesswang</guid>
                 
             </item><item>
-                <title>#238 - Lernplan vs. Wiederholer Lernplan</title>
-                <description>In dieser spannenden Folge erklärt Marlo Steinecke, welche Unterschiede es zwischen dem Lernplan für den Erstversuch und dem für Wiederholer in der Steuerberaterprüfung gibt – und wie du deinen Plan optimal an deine Situation anpasst. Melde dich auf ein kostenloses Beratungsgespräch unter: https://esh-stbexamensvorbereitung.de  Du wolltest schon immer wissen, was wir bei der ESH Examensvorbereitung machen? Dann sichere dir kostenfrei unseren Report &#34;STEUERBERATEREXAMEN ERFOLGREICH BESTEHEN&#34; u...
-Feed: https://rss.buzzsprout.com/1792426.rss</description>
+                <title>Diagnose: Liebe zum Sport | #125</title>
+                <description>
+        Mailo Grühn - Ein Leben mit Krebs und Mountainbikes
+Mailo Grühn ist gerade 7 Jahre alt, als er die Diagnose Krebs bekommt. Später tritt der Radsport in sein Leben und verändert seinen Blick auf die Welt. Unseren Hosts erzählt er seine Geschichte von einer ganz anderen Ausdauert, Durchhalten und von seiner positiven Einstellung. Er erklärt Martin und Alex welche Mountainbikes er fährt, wie die Voraussetzungen in Thüringen sind und wie seine Zukunft aussehen soll...
+Feed: https://meinsportpodcast.de/radsport/feed/</description>
                 
                 
-                <link>https://www.esh-stbexamensvorbereitung.de/?utm_source=sp&amp;utm_medium=folge&amp;utm_campaign=LernplanvsWiederholerLernplan&amp;utm_id=887&amp;utm_term=organisch&amp;utm_content=238</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1792426/episodes/18163762-238-lernplan-vs-wiederholer-lernplan.mp3"/>
-                <guid>https://www.esh-stbexamensvorbereitung.de/?utm_source=sp&amp;utm_medium=folge&amp;utm_campaign=LernplanvsWiederholerLernplan&amp;utm_id=887&amp;utm_term=organisch&amp;utm_content=238</guid>
+                <link>https://meinsportpodcast.de/radsport/diagnose-liebe-zum-sport-125/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/https://meinsportpodcast.de/podcast-download/258717/diagnose-liebe-zum-sport-125.mp3"/>
+                <guid>https://meinsportpodcast.de/radsport/diagnose-liebe-zum-sport-125/</guid>
                 
             </item>
         </channel>
