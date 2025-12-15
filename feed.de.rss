@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 14 Dec 2025 04:40:23 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 15 Dec 2025 04:47:30 +0200</lastBuildDate>
             <item>
-                <title>Ö1 Talentestipendium: Ruth Größwang</title>
-                <description>&lt;p&gt;Die junge Linzerin Ruth Größwang ist Gewinnerin des Ö1 Talentestipendiums 2025 für bildende Kunst. Alle Nominierten präsentieren ihre eingereichten Werke aktuell in der einwöchigen Ausstellung „Tender Matters“ in der Ovalhalle des Wiener Museumsquartiers. – Sendung vom 12.12.2025&lt;/p&gt;
-Feed: https://podcast.orf.at/podcast/oe1/oe1_leporello/oe1_leporello.xml</description>
+                <title>tagesschau 20:00 Uhr, 14.12.2025</title>
+                <description>Antisemitischer Anschlag im australischen Bondi mit 12 Toten, Weltweites Entsetzen über Anschlag am Chanukka-Fest im australischen Bondi, Verhandlungen über Waffenruhe mit Ukraines Präsident Selenskyj und dem US-Sonderbeauftragten Witkoff in Berlin, Russlands Bevölkerung befürwortet Putins harten Kurs gegen die Ukraine, Bundesinnenminister Dobrindt im &#34;Bericht aus Berlin&#34;: Europa muss bei Friedensverhandlungen mit der Ukraine mitreden, Festnahmen in Bayern wegen mutmaßlicher Anschlagspläne auf...
+Feed: https://www.tagesschau.de/export/video-podcast/webxl/tagesschau/</description>
                 
                 
-                <link>https://sound.orf.at/podcast/oe1/oe1-leporello/oe1-talentestipendium-ruth-groesswang</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/oe1/oe1_leporello/items/di_oe1_leporello_clk_ab341952f8b641cb91bb4bdcdf66eb5b.mp3?etag=d6c7f971ecaa40fc6aa17a7eb1e644b1"/>
-                <guid>https://sound.orf.at/podcast/oe1/oe1-leporello/oe1-talentestipendium-ruth-groesswang</guid>
+                <link>https://www.tagesschau.de/tagesschau_20_uhr/video-1535540.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2025/1214/TV-20251214-2024-5400.webxl.h264.mp4"/>
+                <guid>https://www.tagesschau.de/tagesschau_20_uhr/video-1535540.html</guid>
                 
             </item><item>
-                <title>Diagnose: Liebe zum Sport | #125</title>
-                <description>
-        Mailo Grühn - Ein Leben mit Krebs und Mountainbikes
-Mailo Grühn ist gerade 7 Jahre alt, als er die Diagnose Krebs bekommt. Später tritt der Radsport in sein Leben und verändert seinen Blick auf die Welt. Unseren Hosts erzählt er seine Geschichte von einer ganz anderen Ausdauert, Durchhalten und von seiner positiven Einstellung. Er erklärt Martin und Alex welche Mountainbikes er fährt, wie die Voraussetzungen in Thüringen sind und wie seine Zukunft aussehen soll...
-Feed: https://meinsportpodcast.de/radsport/feed/</description>
+                <title>Depotrückblick November: MongoDB ????, Pure Storage, Bayer-Turnaround &amp; „Boomer-Candy“ ETFs</title>
+                <description>Depotrückblick November 2025 mit Marcel &amp; Philipp
+Feed: https://cdn.audiorella.com/podcasts/1515-aktien-buddies-by-mvi/feed.rss</description>
                 
                 
-                <link>https://meinsportpodcast.de/radsport/diagnose-liebe-zum-sport-125/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/https://meinsportpodcast.de/podcast-download/258717/diagnose-liebe-zum-sport-125.mp3"/>
-                <guid>https://meinsportpodcast.de/radsport/diagnose-liebe-zum-sport-125/</guid>
+                <link>https://aktien-buddies-by-mvi.blogs.audiorella.com/373-new-episode</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ais.audiorella.com/podcasts/1515-aktien-buddies-by-mvi/223422-new-episode.mp3?v=1&amp;awCollectionId=julephosting_67fe4bf7d9daf&amp;awEpisodeId=223422"/>
+                <guid>https://aktien-buddies-by-mvi.blogs.audiorella.com/373-new-episode</guid>
                 
             </item>
         </channel>

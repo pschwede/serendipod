@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 14 Dec 2025 04:40:34 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 15 Dec 2025 04:47:41 +0200</lastBuildDate>
             <item>
-                <title>Hoy empieza todo - Podría haber pasado en Murcia: Custodio Pérez - 12/12/25</title>
-                <description>Podría haber pasado en Murcia: Custodio Pérez
-Feed: http://api.rtve.es/api/programas/59011/audios.rss</description>
+                <title>Los Fantasmas de Mary Shelley: El destino que dio vida a Frankenstein</title>
+                <description>&lt;p&gt;Una exploración histórica de las experiencias que marcaron a Mary Shelley y la condujeron a crear la primera novela de ciencia ficción en los últimos días del Romanticismo. Un recorrido por las ideas, pérdidas y tensiones de su época que terminó empujando a la literatura hacia una nueva era que sigue vigente dos siglos después.&lt;/p&gt;&lt;p&gt;Para más historias extrañas y detalles perturbadores… apóyame en Patreon.com/PeorCaso si te atreves.&lt;/p&gt;
+
+Feed: https://anchor.fm/s/7e239f14/podcast/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/hoy-empieza-todo/hoy-empieza-todo-podria-haber-pasado-murcia-custodio-perez-12-12-25/16855755/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16855755.mp3"/>
-                <guid>https://www.rtve.es/play/audios/hoy-empieza-todo/hoy-empieza-todo-podria-haber-pasado-murcia-custodio-perez-12-12-25/16855755/</guid>
+                <link>https://podcasters.spotify.com/pod/show/peorcaso/episodes/Los-Fantasmas-de-Mary-Shelley-El-destino-que-dio-vida-a-Frankenstein-e3b2him</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/7e239f14/podcast/play/111281174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-17%2F412608087-44100-2-3f731446948bd.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/peorcaso/episodes/Los-Fantasmas-de-Mary-Shelley-El-destino-que-dio-vida-a-Frankenstein-e3b2him</guid>
                 
             </item><item>
-                <title>Regreso al presente - Louis Braille - 13/12/25</title>
-                <description>Louis Braille
-Feed: https://api.rtve.es/api/programas/1001399/audios.rss</description>
+                <title>E336: Billy Martin: El Mánager Loco de los Yankees (Parte 2) con Juan Carlos Vargas</title>
+                <description>El &#34;retiro&#34; de 1978 no fue el fin, sino el comienzo de la broma más larga y retorcida en la historia del béisbol. Esta segunda parte narra el descenso de Billy a la anarquía total: desde la invención del agresivo &#34;Billy Ball&#34; con los Oakland A&#39;s, hasta convertir la oficina del mánager de los Yankees en una puerta giratoria con cuatro contrataciones y despidos adicionales...
+Feed: https://feeds.simplecast.com/YVUZ6yUE</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/regreso-al-presente/regreso-presente-louis-braille-13-12-25/16856460/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16856460.mp3"/>
-                <guid>https://www.rtve.es/play/audios/regreso-al-presente/regreso-presente-louis-braille-13-12-25/16856460/</guid>
+                <link>https://sonoromedia.com/ads.txt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/sonoro.simplecastaudio.com/a36b72d3-9f91-4307-82a3-e773afc5a05d/episodes/23ff2521-9769-4128-b9d8-140fe87be863/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=a36b72d3-9f91-4307-82a3-e773afc5a05d&amp;awEpisodeId=23ff2521-9769-4128-b9d8-140fe87be863&amp;feed=YVUZ6yUE"/>
+                <guid>https://sonoromedia.com/ads.txt</guid>
                 
             </item>
         </channel>

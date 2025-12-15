@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 14 Dec 2025 04:40:28 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 15 Dec 2025 04:47:37 +0200</lastBuildDate>
             <item>
-                <title>S11 épisode 13 : La citadelle, l&#39;étoile de Québec!</title>
-                <description>&lt;p&gt;Dans cette entrevue, nous abordons plusieurs question de gestion et de structure avec Luc Berthiaume, le directeur générale de la Citadelle de Québec. Nous parlons également du Royal 22ième régiment qui occupe la Citadelle. Une entrevue qui permet de comprendre d&#39;autres facettes de la gestion publique.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Animation: Benoit Rochefort&lt;/p&gt;
-Feed: https://baladoquebec.ca/benlala/rss</description>
+                <title>Cabaret 42e rue : le Grand Orchestre du Splendid, la troupe du &#34;Magicien d&#39;Oz&#34; et &#34;#Atlantide SOS Terre&#34; en concert</title>
+                <description>Cabaret 42e rue : le Grand Orchestre du Splendid, la troupe du &#34;Magicien d&#39;Oz&#34; et &#34;#Atlantide SOS Terre&#34; en concert
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11392.xml</description>
                 
                 
-                <link>https://baladoquebec.ca/benlala/s11-episode-13-la-citadelle-letoile-de-quebec</link>
-                <enclosure type="audio/mpeg" length="1" url="https://baladoquebec.ca/media/benlala/s11-episode-13-la-citadelle-letoile-de-quebec.mp3"/>
-                <guid>https://baladoquebec.ca/benlala/s11-episode-13-la-citadelle-letoile-de-quebec</guid>
+                <link>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/cabaret-42e-rue-le-grand-orchestre-du-splendid-la-troupe-du-magicien-d-oz-et-atlantide-sos-terre-en-concert-7125686</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/ea8611f1-dbf9-4215-8ef5-27e3f72c303d/11392-14.12.2025-ITEMA_24342400-2025M13793S0348-NET_MFM_DADB0304-57E2-4C83-A9A1-DA13F3424622-21-b721fee661689d73583d8d78ab57eac1.mp3"/>
+                <guid>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/cabaret-42e-rue-le-grand-orchestre-du-splendid-la-troupe-du-magicien-d-oz-et-atlantide-sos-terre-en-concert-7125686</guid>
                 
             </item><item>
-                <title>Un jour sans fin</title>
-                <description>Entre tambours électoraux et doutes intimes : dernière plongée dans les grandes manœuvres d’un mandat local.L’élection approche, la tension monte, les visages changent.Entre ambitions, doutes, et nuits trop courtes, cet épisode explore la drôle de mécanique qui précède les campagnes...
-Feed: https://audioblog.arteradio.com/blog/229193/rss</description>
+                <title>La Lada, la petite voiture soviétique à la qualité discutable</title>
+                <description>Malgré son acier de mauvaise qualité, son assemblage et sa technologie désuète, la Lada a su gagner le cœur des automobilistes au Canada. L’historien Jean Lévesque raconte comment l’Union soviétique a réussi à exporter cette voiture.
+Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
                 
                 
-                <link>https://audioblog.arteradio.com/blog/229193/podcast/262484</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sons-audioblogs.arte.tv/audioblogs/v2/sons/229193/262484/podcast_262484_aIoFi.mp3"/>
-                <guid>https://audioblog.arteradio.com/blog/229193/podcast/262484</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/483dfd32-bb72-43ec-9351-8c0f3bf59aa3/2025-12-12_20_00_00_aujourdhuilhistoirebalado_0000.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
