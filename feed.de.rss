@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 15 Dec 2025 04:47:30 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 16 Dec 2025 04:40:18 +0200</lastBuildDate>
             <item>
-                <title>tagesschau 20:00 Uhr, 14.12.2025</title>
-                <description>Antisemitischer Anschlag im australischen Bondi mit 12 Toten, Weltweites Entsetzen über Anschlag am Chanukka-Fest im australischen Bondi, Verhandlungen über Waffenruhe mit Ukraines Präsident Selenskyj und dem US-Sonderbeauftragten Witkoff in Berlin, Russlands Bevölkerung befürwortet Putins harten Kurs gegen die Ukraine, Bundesinnenminister Dobrindt im &#34;Bericht aus Berlin&#34;: Europa muss bei Friedensverhandlungen mit der Ukraine mitreden, Festnahmen in Bayern wegen mutmaßlicher Anschlagspläne auf...
-Feed: https://www.tagesschau.de/export/video-podcast/webxl/tagesschau/</description>
+                <title>Schrottwichteln</title>
+                <description>&lt;p&gt;Sendungshinweis: FM4 Morning Show, 15.12.2025, 6 Uhr&lt;/p&gt;
+Feed: https://podcast.orf.at/podcast/fm4/fm4_ombudsmann/fm4_ombudsmann.xml</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_20_uhr/video-1535540.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2025/1214/TV-20251214-2024-5400.webxl.h264.mp4"/>
-                <guid>https://www.tagesschau.de/tagesschau_20_uhr/video-1535540.html</guid>
+                <link>https://sound.orf.at/podcast/fm4/fm4-ombudsmann/schrottwichteln</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.orf.at/podcast/fm4/fm4_ombudsmann/items/di_fm4_ombudsmann_clk_48a95834130540578df803b3e711fa2d.mp3?etag=01abedb585a8f2d5d41d760215deb778"/>
+                <guid>https://sound.orf.at/podcast/fm4/fm4-ombudsmann/schrottwichteln</guid>
                 
             </item><item>
-                <title>Depotrückblick November: MongoDB ????, Pure Storage, Bayer-Turnaround &amp; „Boomer-Candy“ ETFs</title>
-                <description>Depotrückblick November 2025 mit Marcel &amp; Philipp
-Feed: https://cdn.audiorella.com/podcasts/1515-aktien-buddies-by-mvi/feed.rss</description>
+                <title>Kurt Tucholsky: 400 000 Invaliden und 1 Gesunder (1925)</title>
+                <description>Gelesen von Frank Dittmer
+Feed: https://wrobel.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://aktien-buddies-by-mvi.blogs.audiorella.com/373-new-episode</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ais.audiorella.com/podcasts/1515-aktien-buddies-by-mvi/223422-new-episode.mp3?v=1&amp;awCollectionId=julephosting_67fe4bf7d9daf&amp;awEpisodeId=223422"/>
-                <guid>https://aktien-buddies-by-mvi.blogs.audiorella.com/373-new-episode</guid>
+                <link>https://wrobel.podigee.io/364-vierhunderttausend-invaliden</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2223169-m-d3304aec3365a0837f61f3d2d1884a43.mp3?source=feed"/>
+                <guid>https://wrobel.podigee.io/364-vierhunderttausend-invaliden</guid>
                 
             </item>
         </channel>

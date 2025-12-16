@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 15 Dec 2025 04:47:37 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 16 Dec 2025 04:40:23 +0200</lastBuildDate>
             <item>
-                <title>Cabaret 42e rue : le Grand Orchestre du Splendid, la troupe du &#34;Magicien d&#39;Oz&#34; et &#34;#Atlantide SOS Terre&#34; en concert</title>
-                <description>Cabaret 42e rue : le Grand Orchestre du Splendid, la troupe du &#34;Magicien d&#39;Oz&#34; et &#34;#Atlantide SOS Terre&#34; en concert
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11392.xml</description>
+                <title>Le bookclub s&#39;interroge : la romantasy est-elle feministe ?</title>
+                <description>
+Aujourd&#39;hui on essaie de répondre à une question épineuse : la romantasy, la fantasy moderne, sont ils des genres plus feministe que leur grand frères écrits par des hommes? Au Bookclub on un au  moins un début de réponse, prenez vos bloc-notes, vos s...
+Feed: https://feed.ausha.co/kgxM5SR0adLZ</description>
                 
                 
-                <link>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/cabaret-42e-rue-le-grand-orchestre-du-splendid-la-troupe-du-magicien-d-oz-et-atlantide-sos-terre-en-concert-7125686</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/ea8611f1-dbf9-4215-8ef5-27e3f72c303d/11392-14.12.2025-ITEMA_24342400-2025M13793S0348-NET_MFM_DADB0304-57E2-4C83-A9A1-DA13F3424622-21-b721fee661689d73583d8d78ab57eac1.mp3"/>
-                <guid>https://www.radiofrance.fr/francemusique/podcasts/42e-rue/cabaret-42e-rue-le-grand-orchestre-du-splendid-la-troupe-du-magicien-d-oz-et-atlantide-sos-terre-en-concert-7125686</guid>
+                <link>https://podcast.ausha.co/le-fond-du-chaudron/le-bookclub-s-interroge-la-romantasy-est-elle-feministe</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/v3vavTAWv0L6.mp3?t=1764941232"/>
+                <guid>https://podcast.ausha.co/le-fond-du-chaudron/le-bookclub-s-interroge-la-romantasy-est-elle-feministe</guid>
                 
             </item><item>
-                <title>La Lada, la petite voiture soviétique à la qualité discutable</title>
-                <description>Malgré son acier de mauvaise qualité, son assemblage et sa technologie désuète, la Lada a su gagner le cœur des automobilistes au Canada. L’historien Jean Lévesque raconte comment l’Union soviétique a réussi à exporter cette voiture.
-Feed: https://feeds.feedburner.com/radio-canada/aujourdhuilhistoire</description>
+                <title>173. Chargée ou productive ? La vraie différence qui change ton quotidien</title>
+                <description>**15% de réduction avec mon code  promo ANDY15 sur le site de [Moania](https://moania.com/), outil astro qui te propose ton thème natal à petit prix...
+Feed: https://feelpositive.lepodcast.fr/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://src.mc.tritondigital.com/SRC_AUJOURDHUI_LHISTOIRE_MOUNT_P/media/mp3/483dfd32-bb72-43ec-9351-8c0f3bf59aa3/2025-12-12_20_00_00_aujourdhuilhistoirebalado_0000.mp3"/>
-                <guid></guid>
+                <link>https://feelpositive.lepodcast.fr/173-chargee-ou-productive-la-vraie-difference-qui-change-ton-quotidien</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/feelpositive/173-chargee-ou-productive-la-vraie-difference-qui-change-ton-quotidien/enclosure.959e15f5d21d8bbe98c36cacb2acb51ac34065a04a80d59b5d6a82373df75261.mp3?p=f"/>
+                <guid>https://feelpositive.lepodcast.fr/173-chargee-ou-productive-la-vraie-difference-qui-change-ton-quotidien</guid>
                 
             </item>
         </channel>
