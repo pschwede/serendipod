@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 17 Dec 2025 04:38:14 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 18 Dec 2025 04:39:16 +0200</lastBuildDate>
             <item>
-                <title>#226 - Comment accueillir les critiques sans souffrir ? (rediffusion d&#39;un épisode best-of)</title>
-                <description>Et si grâce à cet épisode, tu comprenais comment ne plus souffrir quand on te critique.
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/54_30992b45a07b6164e23dd005ea57f08c.rss</description>
+                <title>{ENTREVUE} - David Cohen : comprendre et reprendre le contrôle de sa citoyenneté numérique</title>
+                <description>David Cohen présente son livre &#34;Citoyenneté numér…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:248510865/sounds.rss</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/226-comment-accueillir-les-critiques-sans-souffrir-rediffusion-dun-episode-best-of-395365/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://track.podcastics.com/54/395365.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/226-comment-accueillir-les-critiques-sans-souffrir-rediffusion-dun-episode-best-of-395365/</guid>
+                <link>https://soundcloud.com/moncarnet/entrevue-david-cohen-comprendre-et-reprendre-le-controle-de-sa-citoyennete-numerique</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2230693040-moncarnet-entrevue-david-cohen-comprendre-et-reprendre-le-controle-de-sa-citoyennete-numerique.mp3"/>
+                <guid>https://soundcloud.com/moncarnet/entrevue-david-cohen-comprendre-et-reprendre-le-controle-de-sa-citoyennete-numerique</guid>
                 
             </item><item>
-                <title>REUPLOAD JE NE PEUX PAS BOUGER  - Histoire Creepy</title>
-                <description>&lt;p&gt;Dans cet épisode terrifiant de Dans Le Noir, découvrez l’histoire d’un homme totalement paralysé, enfermé dans son propre corps après un accident qui aurait dû le tuer. Incapable de bouger ou de parler, il n’a pour tout univers qu’un lit, un plafond… et Emily, la femme qui veille sur lui jour et nuit.&lt;br/&gt;Ce qui semblait être de la dévotion se transforme lentement en cauchemar...
-Feed: https://feeds.360.audion.fm/bEo2jn91D_RKmmJ27myYW</description>
+                <title>[Jeux du mois] Bullet Star et Tag Team</title>
+                <description>Bullet Star et Tag Team sont au menu des Jeux du Mois de décembre 2025, présentés par barTouf et Le Pionfesseur.
+Feed: https://podcast.proxi-jeux.fr:443/category/podcast-2/feed/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/fcc82301-9ce2-4846-becc-45e5633659d4.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://podcast.proxi-jeux.fr/2025/12/jeux-du-mois-bullet-star-et-tag-team/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.proxi-jeux.fr/trac/28722/2025/12/JDM_202512_Bullet_Star_et_Tag_Team.mp3"/>
+                <guid>https://podcast.proxi-jeux.fr/2025/12/jeux-du-mois-bullet-star-et-tag-team/</guid>
                 
             </item>
         </channel>
