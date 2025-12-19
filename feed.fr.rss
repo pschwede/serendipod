@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 18 Dec 2025 04:39:16 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 19 Dec 2025 04:39:06 +0200</lastBuildDate>
             <item>
-                <title>{ENTREVUE} - David Cohen : comprendre et reprendre le contrôle de sa citoyenneté numérique</title>
-                <description>David Cohen présente son livre &#34;Citoyenneté numér…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:248510865/sounds.rss</description>
+                <title>Les audiovisuels publics sur la sellette  :  Aux États-Unis, des médias publics... sans argent public </title>
+                <description>Les audiovisuels publics sur la sellette  :  Aux États-Unis, des médias publics... sans argent public 
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11701.xml</description>
                 
                 
-                <link>https://soundcloud.com/moncarnet/entrevue-david-cohen-comprendre-et-reprendre-le-controle-de-sa-citoyennete-numerique</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2230693040-moncarnet-entrevue-david-cohen-comprendre-et-reprendre-le-controle-de-sa-citoyennete-numerique.mp3"/>
-                <guid>https://soundcloud.com/moncarnet/entrevue-david-cohen-comprendre-et-reprendre-le-controle-de-sa-citoyennete-numerique</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/aux-etats-unis-des-medias-publics-sans-argent-public-9109970</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/4de9ecda-f7a3-4e67-85a4-f2ecff588739/11701-18.12.2025-ITEMA_24347006-2025C16756S0352-NET_MFC_A0D1DEA2-4021-4669-A902-99EA4623D83D-21-a2b1ddfd8bef9bffd0ad6fe4f1c42b6f.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/aux-etats-unis-des-medias-publics-sans-argent-public-9109970</guid>
                 
             </item><item>
-                <title>[Jeux du mois] Bullet Star et Tag Team</title>
-                <description>Bullet Star et Tag Team sont au menu des Jeux du Mois de décembre 2025, présentés par barTouf et Le Pionfesseur.
-Feed: https://podcast.proxi-jeux.fr:443/category/podcast-2/feed/</description>
+                <title>#389 - Interview - Amin Belghazi - responsable secteur chez Moët Hennessy </title>
+                <description>&lt;p&gt;???? Luxe, Nuit &amp;amp; Marketing : Les coulisses de la distribution chez LVMH (Moët Hennessy) avec Amin Belghazi&lt;/p&gt;&lt;br&gt;&lt;p&gt;Travailler dans le monde de la nuit tout en représentant les plus grandes maisons de luxe (Moët &amp;amp; Chandon, Dom Pérignon, ...), cela intrigue. Mais derrière les paillettes et la convivialité, quelle est la réalité du métier ?&lt;/p&gt;&lt;br&gt;&lt;p&gt;Dans cet épisode de Mark &amp;amp; Ting, nous recevons Amin Belghazi Responsable de Secteur &#34;High Energy&#34; chez Moët Hennessy (groupe LVMH)...
+Feed: https://feeds.acast.com/public/shows/mark-et-ting</description>
                 
                 
-                <link>https://podcast.proxi-jeux.fr/2025/12/jeux-du-mois-bullet-star-et-tag-team/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.proxi-jeux.fr/trac/28722/2025/12/JDM_202512_Bullet_Star_et_Tag_Team.mp3"/>
-                <guid>https://podcast.proxi-jeux.fr/2025/12/jeux-du-mois-bullet-star-et-tag-team/</guid>
+                <link>https://shows.acast.com/mark-et-ting/episodes/69412c04cc3f4b4c7382e598</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/620e78e488e4890016aed370/e/69412c04cc3f4b4c7382e598/media.mp3"/>
+                <guid>https://shows.acast.com/mark-et-ting/episodes/69412c04cc3f4b4c7382e598</guid>
                 
             </item>
         </channel>
