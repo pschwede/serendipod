@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 19 Dec 2025 04:38:59 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 20 Dec 2025 04:33:04 +0200</lastBuildDate>
             <item>
-                <title>Folge 323: Eure Psycho-Fragen</title>
-                <description>Jetzt unseren Podcast hören: Psychologie fürs Leben, nicht fürs Lehrbuch...
-Feed: https://therathiel.podigee.io/feed/mp3</description>
+                <title>Zur Gewalt  6 - ist keine Lösung</title>
+                <description>Leo Hemetsberger spricht bei Scenery III
+Feed: https://oeksy1.podcaster.de/Gedanken-und-Toene.rss</description>
                 
                 
-                <link>https://therathiel.podigee.io/333-folge-323-eure-psychofragen</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2257958-m-c7277162af14d6b58e197b3256526c38.mp3?source=feed"/>
-                <guid>https://therathiel.podigee.io/333-folge-323-eure-psychofragen</guid>
+                <link>https://www.philprax.at</link>
+                <enclosure type="audio/mpeg" length="1" url="https://oeksy1.podcaster.de/gedanken-und-toene/media/47_Zur_Gewalt_-_ist_keine_Lo--sung_6.mp3?origin=feed"/>
+                <guid>https://www.philprax.at</guid>
                 
             </item><item>
-                <title>Ungarn - Deutsche Auswanderer in Orbáns Paradies</title>
-                <description> Götzke, Manfred www.deutschlandfunk.de, Gesichter Europas 
-Feed: https://www.deutschlandfunk.de/podcast-gesichter-europas-100.xml</description>
+                <title>#5.49 Zu Gast: Maitland</title>
+                <description>In der ersten Folge im neuen Jahr ist die selbsternannte Dark- Pop Band MAITLAND aus Münster zu Gast.
+Patty, Alex und Marcel erzählen über ihr Album &#34;Falling into Place&#34;Dieser Podcast wird vermarktet von der Podcastbude.www.podcastbu.de - Full-Service-Podcast-Agentur - Konzeption, Produktion, Vermarktung, Distribution und Hosting.Du möchtest deinen Podcast auch kostenlos hosten und damit Geld verdienen?Dann schaue auf www.kostenlos-hosten.de und informiere dich...
+Feed: https://meinmusikpodcast.de/7-tage-7-songs/feed/</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/ungarn-deutsche-auswanderer-in-orb-ns-paradies-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2025/12/13/ungarn_deutsche_auswanderer_in_orbans_paradies_dlf_20251213_1105_d816e911.mp3?refId=podcast-gesichter-europas-100"/>
-                <guid>https://www.deutschlandfunk.de/ungarn-deutsche-auswanderer-in-orb-ns-paradies-100.html</guid>
+                <link>https://meinmusikpodcast.de/7-tage-7-songs/6-1-zu-gast-maitland</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinmusikpodcast.de/podcast-download/21014/6-1-zu-gast-maitland-mmp.mp3?awCollectionId=20000124&amp;awEpisodeId=21014"/>
+                <guid>https://meinmusikpodcast.de/7-tage-7-songs/6-1-zu-gast-maitland</guid>
                 
             </item>
         </channel>

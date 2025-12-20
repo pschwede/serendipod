@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 19 Dec 2025 04:39:12 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 20 Dec 2025 04:33:14 +0200</lastBuildDate>
             <item>
-                <title>Música y Letra: &#39;Luz que agoniza&#39;</title>
-                <description>Andrés Amorós habla sobre la banda sonora de la película Luz que agoniza, conocida originalmente como Gaslight.
-Feed: https://esradio.libertaddigital.com/musica-y-letra/podcast.xml</description>
+                <title>El colegio invisible 19/12/2025</title>
+                <description>Escucha &#39;El Colegio invisible&#39;, el programa de misterio con Lorenzo Fernandez Bueno y Laura Falco en Onda Cero.
+Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
                 
                 
-                <link>https://esradio.libertaddigital.com/musica-y-letra/2025-11-29/luz-que-agoniza-7314324/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=M%C3%BAsica+y+Letra</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.spreaker.com/v2/episodes/68541468/download.mp3?aw_0_1st.collectionid=musica-y-letra&amp;aw_0_1st.subcat=67"/>
-                <guid>https://esradio.libertaddigital.com/musica-y-letra/2025-11-29/luz-que-agoniza-7314324/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=M%C3%BAsica+y+Letra</guid>
+                <link>https://www.ondacero.es/podcast/programas/colegio-invisible/colegio-invisible-19122025_202512196944b4218ef6644aa313d834.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://triton-vod.ondacero.es/?programa=ATRESMEDIA_EL_COLEGIO_INVISIBLE_P&amp;origen=/mp_audios4/2025/12/19/25544193-375C-4ED3-B588-FBE01456AB8B/25544193-375C-4ED3-B588-FBE01456AB8B.mp3&amp;audioId=6944b4218ef6644aa313d834"/>
+                <guid>https://www.ondacero.es/podcast/programas/colegio-invisible/colegio-invisible-19122025_202512196944b4218ef6644aa313d834.html</guid>
                 
             </item><item>
-                <title>Sonidos y Sonados 2025-12-18</title>
-                <description>El último del año 2025. Pues si, acabamos el año porque empezamos nuestras vacaciones navideñas, eso sí, iremos poniendo programas de anteriores temporadas, antes de los nuevo de enero. Si la semana pasada recordamos a Robe con Extremoduro, hoy nos acordamos de Jorge Martinez y sus Ilegales, los dos nos dejaron la semana pasada. Sonidos [&amp;#8230;]
-Feed: https://feeds.feedburner.com/sonidosysonados</description>
+                <title>Radioyentes 444 suspiros, sombras y horrores</title>
+                <description>Hola de nuevo y gracias por escuchar este podcast que hoy comienza hablando de ElenIA Francis que es un espacio que regresa en estos tiempos extraños, en los que hasta los muertos pueden volver… digitalmente. Hablamos de una propuesta que pretende entender el mundo que ella nunca conoció.
+Agradecimientos para:
+José Antonio Laboreo 
+Sintonía: de Junior Menezes
+Feed: https://feeds.ivoox.com/feed_fg_f1463235_filtro_1.xml</description>
                 
                 
-                <link>https://sonidosysonados.com/2025/12/18/sonidos-y-sonados-2025-12-18/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/SonidosySonados20251218Neu.mp3"/>
-                <guid>https://sonidosysonados.com/2025/12/18/sonidos-y-sonados-2025-12-18/</guid>
+                <link>https://www.ivoox.com/radioyentes-444-suspiros-sombras-horrores-audios-mp3_rf_153921427_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-444-suspiros-sombras-horrores_mf_153921427_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/radioyentes-444-suspiros-sombras-horrores-audios-mp3_rf_153921427_1.html</guid>
                 
             </item>
         </channel>
