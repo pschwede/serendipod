@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 20 Dec 2025 04:33:14 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 21 Dec 2025 04:40:58 +0200</lastBuildDate>
             <item>
-                <title>El colegio invisible 19/12/2025</title>
-                <description>Escucha &#39;El Colegio invisible&#39;, el programa de misterio con Lorenzo Fernandez Bueno y Laura Falco en Onda Cero.
-Feed: https://www.ondacero.es/rss/podcast/4216464/podcast.xml</description>
+                <title>HistoCast 329 - Esparta</title>
+                <description>Esto es HistoCast. No es Esparta pero casi. Por fin llega Esparta, a HistoCast con su Historia, sus mitos y su legado, gracias a C&amp;eacute;sar Fornis Vaquero, escoltado por @goyix_salduero. Os recordamos que nos pod&amp;eacute;is seguir a trav&amp;eacute;s de nuestra cuenta de twitter @histocast y en facebook...
+Feed: https://feeds.ivoox.com/feed_fg_f132047_filtro_1.xml</description>
                 
                 
-                <link>https://www.ondacero.es/podcast/programas/colegio-invisible/colegio-invisible-19122025_202512196944b4218ef6644aa313d834.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://triton-vod.ondacero.es/?programa=ATRESMEDIA_EL_COLEGIO_INVISIBLE_P&amp;origen=/mp_audios4/2025/12/19/25544193-375C-4ED3-B588-FBE01456AB8B/25544193-375C-4ED3-B588-FBE01456AB8B.mp3&amp;audioId=6944b4218ef6644aa313d834"/>
-                <guid>https://www.ondacero.es/podcast/programas/colegio-invisible/colegio-invisible-19122025_202512196944b4218ef6644aa313d834.html</guid>
+                <link>https://www.ivoox.com/histocast-329-esparta-audios-mp3_rf_163840789_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/histocast-329-esparta_mf_163840789_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/histocast-329-esparta-audios-mp3_rf_163840789_1.html</guid>
                 
             </item><item>
-                <title>Radioyentes 444 suspiros, sombras y horrores</title>
-                <description>Hola de nuevo y gracias por escuchar este podcast que hoy comienza hablando de ElenIA Francis que es un espacio que regresa en estos tiempos extraños, en los que hasta los muertos pueden volver… digitalmente. Hablamos de una propuesta que pretende entender el mundo que ella nunca conoció.
-Agradecimientos para:
-José Antonio Laboreo 
-Sintonía: de Junior Menezes
-Feed: https://feeds.ivoox.com/feed_fg_f1463235_filtro_1.xml</description>
+                <title>jueves, 4 de diciembre de 2025</title>
+                <description>jueves, 4 de diciembre de 2025
+Feed: https://feeds.feedburner.com/RepasoNoticioso</description>
                 
                 
-                <link>https://www.ivoox.com/radioyentes-444-suspiros-sombras-horrores-audios-mp3_rf_153921427_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/radioyentes-444-suspiros-sombras-horrores_mf_153921427_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/radioyentes-444-suspiros-sombras-horrores-audios-mp3_rf_153921427_1.html</guid>
+                <link>https://repasonoticioso.com/jueves-4-de-diciembre-de-2025/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://repasonoticioso.com/podlove/file/698/s/webplayer/RN_4diciembre2025.mp3"/>
+                <guid>https://repasonoticioso.com/jueves-4-de-diciembre-de-2025/</guid>
                 
             </item>
         </channel>
