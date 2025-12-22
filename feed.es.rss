@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 21 Dec 2025 04:40:58 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 22 Dec 2025 04:46:51 +0200</lastBuildDate>
             <item>
-                <title>HistoCast 329 - Esparta</title>
-                <description>Esto es HistoCast. No es Esparta pero casi. Por fin llega Esparta, a HistoCast con su Historia, sus mitos y su legado, gracias a C&amp;eacute;sar Fornis Vaquero, escoltado por @goyix_salduero. Os recordamos que nos pod&amp;eacute;is seguir a trav&amp;eacute;s de nuestra cuenta de twitter @histocast y en facebook...
-Feed: https://feeds.ivoox.com/feed_fg_f132047_filtro_1.xml</description>
+                <title>Turbo 3 - Canciones Favoritas 2025. Internacional vol. II - 18/12/25</title>
+                <description>Canciones Favoritas 2025. Internacional vol. II
+Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/histocast-329-esparta-audios-mp3_rf_163840789_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/histocast-329-esparta_mf_163840789_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/histocast-329-esparta-audios-mp3_rf_163840789_1.html</guid>
+                <link>https://www.rtve.es/play/audios/turbo-3/canciones-favoritas-2025-internacional-vol-ii-18-12-25/16865499/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16865499.mp3"/>
+                <guid>https://www.rtve.es/play/audios/turbo-3/canciones-favoritas-2025-internacional-vol-ii-18-12-25/16865499/</guid>
                 
             </item><item>
-                <title>jueves, 4 de diciembre de 2025</title>
-                <description>jueves, 4 de diciembre de 2025
-Feed: https://feeds.feedburner.com/RepasoNoticioso</description>
+                <title>Documentos RNE - Dorotea Barnés, luz en la ciencia - 15/12/25</title>
+                <description>Dorotea Barnés, luz en la ciencia
+Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
                 
                 
-                <link>https://repasonoticioso.com/jueves-4-de-diciembre-de-2025/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://repasonoticioso.com/podlove/file/698/s/webplayer/RN_4diciembre2025.mp3"/>
-                <guid>https://repasonoticioso.com/jueves-4-de-diciembre-de-2025/</guid>
+                <link>https://www.rtve.es/play/audios/documentos-rne/dorotea-barnes-luz-ciencia/16855111/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16855111.mp3"/>
+                <guid>https://www.rtve.es/play/audios/documentos-rne/dorotea-barnes-luz-ciencia/16855111/</guid>
                 
             </item>
         </channel>
