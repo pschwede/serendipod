@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 22 Dec 2025 04:46:47 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 23 Dec 2025 04:42:22 +0200</lastBuildDate>
             <item>
-                <title>[FORMAT POCHE] Kim Kardashian et Kanye West : une histoire médiatisée</title>
-                <description>2012, Paris. La Fashion Week attire les médias du monde entier dans la capitale. Autour des podiums, sur les tapis rouges, devant les hôtels de luxes, les stars sont partout et les potins vont bon train. Une rumeur est plus bruyante que les autres. Kim Kardashian et Kanye West seraient ensemble, pour de bon, après des années d&#39;une amitié ambiguë qui a déjà fait couler beaucoup d&#39;encre. Pour preuve, ils assistent à tous les shows ensemble, posent bras dessous devant les photographes...
-Feed: https://feeds.megaphone.fm/BABA7112846821</description>
+                <title>Michel Devoret, prix Nobel de physique 2025</title>
+                <description>Michel Devoret, prix Nobel de physique 2025
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13957.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA7137777105.mp3?updated=1764859532"/>
-                <guid></guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/la-conversation-scientifique/michel-devoret-prix-nobel-de-physique-2025-7308363</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/e99a577a-9046-4c1c-945e-36338743525c/13957-20.12.2025-ITEMA_24349494-2025C22785E0044-NET_MFC_81664F06-0D4F-4C2F-B6D0-6D5FE399B722-21-fa16e8dbbc1eaf782d0d050b4efcbe7a.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/la-conversation-scientifique/michel-devoret-prix-nobel-de-physique-2025-7308363</guid>
                 
             </item><item>
-                <title>UN BEAU CADEAU : ça change tout !</title>
-                <description>&lt;p&gt;EA006-podcast&lt;/p&gt;
-Feed: https://feeds.captivate.fm/essentiel-radio-essentiel-academy/</description>
+                <title>On prend toujours un micro pour la vie : 12/10/2025 16:00</title>
+                <description>673-349867
+Feed: http://podcast.cism893.ca/radioshows/673/feed_itunes.xml</description>
                 
                 
-                <link>https://essentielradio.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/3f5c886f-7d45-427d-a1f8-61c11a12a7ab.mp3"/>
-                <guid>https://essentielradio.com/</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/349867.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/349867.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/349867.mp3</guid>
                 
             </item>
         </channel>

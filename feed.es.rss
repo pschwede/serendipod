@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 22 Dec 2025 04:46:51 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 23 Dec 2025 04:42:27 +0200</lastBuildDate>
             <item>
-                <title>Turbo 3 - Canciones Favoritas 2025. Internacional vol. II - 18/12/25</title>
-                <description>Canciones Favoritas 2025. Internacional vol. II
-Feed: https://api.rtve.es/api/adapter/programas/60890/audios.rss</description>
+                <title>PRIMER PLANO con MARINA HEREDIA</title>
+                <description>Esta semana hablamos de un viaje, de una secuencia de episodios en la historia y en la m&amp;uacute;sica que van a conformar un disco emocionante e intenso. Marina Heredia se encarga de ponerle voz a un trabajo con un espectacular corte sinf&amp;oacute;nico. No te pierdas este encuentro en exclusiva con una de esas artistas que ha llevado el flamenco a otro nivel.
+Feed: https://feeds.ivoox.com/feed_fg_f1237454_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/turbo-3/canciones-favoritas-2025-internacional-vol-ii-18-12-25/16865499/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16865499.mp3"/>
-                <guid>https://www.rtve.es/play/audios/turbo-3/canciones-favoritas-2025-internacional-vol-ii-18-12-25/16865499/</guid>
+                <link>https://www.ivoox.com/primer-plano-marina-heredia-audios-mp3_rf_164752168_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-marina-heredia_mf_164752168_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/primer-plano-marina-heredia-audios-mp3_rf_164752168_1.html</guid>
                 
             </item><item>
-                <title>Documentos RNE - Dorotea Barnés, luz en la ciencia - 15/12/25</title>
-                <description>Dorotea Barnés, luz en la ciencia
-Feed: http://www.rtve.es/api/programas/1938/audios.rss</description>
+                <title>Jamafrica - Sa.13 Dic 2025</title>
+                <description>https://podcastudg.com/Jamafrica20251213.mp3
+Feed: https://udgtv.com/podcast/guadalajara/jamafrica/feed/238</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/documentos-rne/dorotea-barnes-luz-ciencia/16855111/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16855111.mp3"/>
-                <guid>https://www.rtve.es/play/audios/documentos-rne/dorotea-barnes-luz-ciencia/16855111/</guid>
+                <link>https://udgtv.com/podcast/guadalajara/jamafrica/jamafrica---sa-13-dic-2025/297851</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcastudg.com/Jamafrica20251213.mp3"/>
+                <guid>https://udgtv.com/podcast/guadalajara/jamafrica/jamafrica---sa-13-dic-2025/297851</guid>
                 
             </item>
         </channel>
