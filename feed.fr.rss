@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 23 Dec 2025 04:42:22 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 24 Dec 2025 04:40:41 +0200</lastBuildDate>
             <item>
-                <title>Michel Devoret, prix Nobel de physique 2025</title>
-                <description>Michel Devoret, prix Nobel de physique 2025
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13957.xml</description>
+                <title>Vieillir dans le rap - Cuvée Rap</title>
+                <description>&lt;p&gt;Comment bien vieillir dans le rap ? C’est la question à laquelle l’équipe des Sommeliers du rap tente de répondre dans cette nouvelle cuvée rap. En prenant pour point de départ, le retour inattendu de Slick Rick à l’âge de 65 ans, cet épisode explore les différentes façon dont les rappeurs parviennent à conserver leur saveur comme un bon vin de garde. &lt;/p&gt;&lt;p&gt;Tracklist :&lt;/p&gt;&lt;p&gt;* Slick Rick, Nas - Documents (VICTORY)&lt;/p&gt;&lt;p&gt;* Juicy J, Yung Nudy - I Ain&#39;t Havin&#39; It (feat...
+Feed: https://api.substack.com/feed/podcast/1440631.rss</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/la-conversation-scientifique/michel-devoret-prix-nobel-de-physique-2025-7308363</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/e99a577a-9046-4c1c-945e-36338743525c/13957-20.12.2025-ITEMA_24349494-2025C22785E0044-NET_MFC_81664F06-0D4F-4C2F-B6D0-6D5FE399B722-21-fa16e8dbbc1eaf782d0d050b4efcbe7a.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/la-conversation-scientifique/michel-devoret-prix-nobel-de-physique-2025-7308363</guid>
+                <link>https://www.lesbonscrus.fr/p/vieillir-dans-le-rap-cuvee-rap</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.substack.com/feed/podcast/182307098/7b94df07154bfc940b516635daee2004.mp3"/>
+                <guid>https://www.lesbonscrus.fr/p/vieillir-dans-le-rap-cuvee-rap</guid>
                 
             </item><item>
-                <title>On prend toujours un micro pour la vie : 12/10/2025 16:00</title>
-                <description>673-349867
-Feed: http://podcast.cism893.ca/radioshows/673/feed_itunes.xml</description>
+                <title>VISION #88 — OLIVIER KERVERN | Une photographie sans hiérarchie</title>
+                <description>
+Pour ce dernier épisode de la saison — et le tout dernier épisode de Vision —, j’ai le plaisir de recevoir un photographe dont le travail éveille ma curiosité depuis longtemps : Olivier Kervern.
+Nous enregistrons dans son appartement du 20ᵉ arrondisse...
+Feed: https://feed.ausha.co/bYK62tPMjRp9</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/349867.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/349867.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/349867.mp3</guid>
+                <link>https://podcast.ausha.co/podcastvisions/olivier-kervern</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.ausha.co/bPdrgf2Nj6qE.mp3?t=1765636563"/>
+                <guid>https://podcast.ausha.co/podcastvisions/olivier-kervern</guid>
                 
             </item>
         </channel>
