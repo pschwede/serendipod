@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 24 Dec 2025 04:40:59 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 25 Dec 2025 04:42:24 +0200</lastBuildDate>
             <item>
-                <title>Rams Weekly: Are the Rams back on track?</title>
-                <description>Malcolm Christie, Dominic Dietrich and Ed Dawes discuss all latest Derby County stories.
-Feed: https://podcasts.files.bbci.co.uk/p001d7rd.rss</description>
+                <title>The Awe of the Shepherds</title>
+                <description>The Awe of the Shepherds by 
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:205060925/sounds.rss</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/p0mp713y</link>
-                <enclosure type="audio/mpeg" length="1" url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mp6yyg.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/p0mp713y</guid>
+                <link>https://soundcloud.com/user-162353300/the-awe-of-the-shepherds</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2231271338-user-162353300-the-awe-of-the-shepherds.mp3"/>
+                <guid>https://soundcloud.com/user-162353300/the-awe-of-the-shepherds</guid>
                 
             </item><item>
-                <title>144. Brian Vollmer - Helix</title>
-                <description>In this episode of VRP Rocks, Paul chats with the voice of Canadian hard rock legends Helix – frontman Brian Vollmer.
-With a career spanning over 50 years, Helix have lived through the highs and lows of the rock world — and Brian’s been there for every single step. From the band&#39;s humble beginnings in 1974, through their breakthrough success with Heavy Metal Love, to tours alongside Motörhead, Kiss, Aerosmith and Mötley Crüe — Brian shares it all...
-Feed: https://feeds.megaphone.fm/vrp</description>
+                <title>FOUR WRIGHTS DON&#39;T MAKE A WRONG: FRED EN FAMILLE</title>
+                <description>&lt;p&gt;Ned spends a festive hour in the company of Fred, Brian, Becca and Phile Wright.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Redeem your AG1 offer here!&lt;/p&gt;&lt;br&gt;&lt;p&gt;Register your support for NSF Live In France.....every sign up helps!&lt;/p&gt;&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/62ce78e40964ca00129fbf3a</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/traffic.megaphone.fm/PAN8423264963.mp3?updated=1766412941"/>
-                <guid></guid>
+                <link>https://shows.acast.com/never-strays-far/episodes/four-wrights-dont-make-a-wrong-fred-en-famille</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/62ce78e40964ca00129fbf3a/e/694c1b9744fae3e8022352f9/media.mp3"/>
+                <guid>https://shows.acast.com/never-strays-far/episodes/four-wrights-dont-make-a-wrong-fred-en-famille</guid>
                 
             </item>
         </channel>
