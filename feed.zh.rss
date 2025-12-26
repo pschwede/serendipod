@@ -9,28 +9,39 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 25 Dec 2025 04:42:19 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 26 Dec 2025 04:39:34 +0200</lastBuildDate>
             <item>
-                <title>Best of 2025: Part One</title>
-                <description>It&#39;s that time of year again, when we count down some of our favorites in film, TV, music, books, and more! 
-Feed: https://rss.art19.com/its-a-fandom-thing</description>
+                <title>What&#39;s Bruin Show - Mike Talks About Stuff!</title>
+                <description>Enjoy the What&#39;s Bruin Show Network!Multiple shows to entertain you on one feed:Support WBS at Pa...
+Feed: https://whatsbruinpodcast.podomatic.com/rss2.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/11233487-d3d6-4aac-a34c-5e6ef04cc277.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://www.podomatic.com/podcasts/whatsbruinpodcast/episodes/2025-12-17T10_30_02-08_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://whatsbruinpodcast.podomatic.com/enclosure/2025-12-17T10_30_02-08_00.mp3?_=1765996206.17633617"/>
+                <guid>https://www.podomatic.com/podcasts/whatsbruinpodcast/episodes/2025-12-17T10_30_02-08_00</guid>
                 
             </item><item>
-                <title>Abbe&#39;s Snoozy News ????️ ???? Christmas Minisode! </title>
-                <description>In tonight’s Snoozy News, we’re getting extra festive! Christmas is only a few days away, which means twinkly lights, cozy blankets and a sleigh-full of magical Koala Moon stories! 
-From sunny Christmas adventures in Playa Del Moon, to Prickles’ cosy Hanukkah, Koko’s Christmas compilations and brand new Koko Club treats including a sparkling New Year’s special — there’s so much to snuggle up with this Christmas ????✨
-If you love our Christmas stories, please tap subscribe ???? &amp; leave us a five...
-Feed: https://feeds.megaphone.fm/HAPPY1668236391</description>
+                <title>Linux After Dark – Episode 111</title>
+                <description>&lt;p&gt;We tell stories from some of the tech support nightmares we&amp;#8217;ve found ourselves in. This is a short episode because Joe is having a break for the Christmas period.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Support us on Patreon and get an ad-free RSS feed with early episodes sometimes&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;See our contact page for ways to get in touch.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Subscribe to the RSS feed.&lt;/p&gt;
+Feed: https://linuxafterdark.net/feed/podcast</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://tracking.swap.fm/track/b1miBGggR4bxQD43weED/traffic.megaphone.fm/HLKK9996750505.mp3?updated=1765554511"/>
-                <guid></guid>
+                <link>https://linuxafterdark.net/linux-after-dark-episode-111/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/latenightlinux/LAD111.mp3"/>
+                <guid>https://linuxafterdark.net/linux-after-dark-episode-111/</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 25 Dec 2025 04:42:09 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 26 Dec 2025 04:39:24 +0200</lastBuildDate>
             <item>
-                <title>Navidad 2025</title>
-                <description>Festejamos un año más la Navidad desde Eiberoamerica.com y para ello hemos preparado un podcast con 6 villancicos, 3 interpretados por Abril Gálvez Avilés y 3 cantados por Paqui Sánchez Galbarro, siendo los autores de estos últimos: Hilario Alonso de la música, Antonio Perán de las letras y Julio Gálvez de los arreglos musicales. 
-Feed: https://eiberoamerica.com/feed/platicando.xml</description>
+                <title>antipatillas</title>
+                <description>&lt;p&gt;antipatillas:Ordubete irauten duten punk musiken nahasketak&lt;/p&gt;
+Feed: https://punkirratia.net/rss.xml</description>
                 
                 
-                <link>http://eiberoamerica.com/podcast/platicando/0879_PodcastDeNavidad2025.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0879_PodcastDeNavidad2025.mp3"/>
-                <guid>http://eiberoamerica.com/podcast/platicando/0879_PodcastDeNavidad2025.mp3</guid>
+                <link>https://punkirratia.net/nahaste/antipatillas.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/punkirratia-antipatillas/20251219--punkirratia-antipatillas.mp3"/>
+                <guid>https://punkirratia.net/nahaste/antipatillas.html</guid>
                 
             </item><item>
-                <title>Las mañanas de RNE - Kiko Veneno: Directo en la Carbonería</title>
-                <description>Kiko Veneno: Directo en la Carbonería
-Feed: http://api2.rtve.es/api/programas/119312/audios.rss</description>
+                <title>Hora 25 Castilla y León (25/12/2025)</title>
+                <description>La información de carácter regional es una pieza esencial de nuestra programación. Durante toda la jornada miramos al resto de la comunidad para seguir de cerca toda la actualidad de Castilla y León.
+Feed: https://fapi-top.prisasd.com/podcast/playser/radio_valladolid.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/las-mananas-de-rne/kiko-veneno-directo-carboneria/16873070/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16873070.mp3"/>
-                <guid>https://www.rtve.es/play/audios/las-mananas-de-rne/kiko-veneno-directo-carboneria/16873070/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/RADIO_VALLADOLID_CADENASER_470_P/media/999/2025/12/25/ser_castillayleon_hora25castillayleon_20251225_202503_203000.mp3?dest=radio_valladolid"/>
+                <guid></guid>
                 
             </item>
         </channel>
