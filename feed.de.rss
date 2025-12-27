@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 26 Dec 2025 04:39:08 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 27 Dec 2025 04:37:23 +0200</lastBuildDate>
             <item>
-                <title>Anfänge und Enden #225</title>
-                <description>Nun ist wieder ein Jahr zu Ende und ein neues beg…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:585150567/sounds.rss</description>
+                <title>Tobi Krell, wie bleibt man ein Leben lang neugierig?</title>
+                <description>Wie würdet ihr einem Kind erklären, was der Holocaust ist? Warum Menschen ins Gefängnis müssen? Oder wie ein Knochen funktioniert? Ich wäre da erstmal ziemlich blank - im Gegensatz zu Tobi Krell. Als “Checker Tobi” erklärt er im Bayerischen Rundfunk, auf YouTube, Tourbühnen und in Podcasts die Welt. Er ist zu einem der größten Stars für Kinder in Deutschland geworden: Manche Checker Tobi-Folgen sind alleine auf YouTube elf, zwölf Millionen Mal angeklickt worden...
+Feed: https://www.ndr.de/n-joy//podcast/podcast4504.xml</description>
                 
                 
-                <link>https://soundcloud.com/faltenrockfm/anfaenge-und-enden</link>
-                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/EE34G/http://feeds.soundcloud.com/stream/2234993669-faltenrockfm-anfaenge-und-enden.mp3"/>
-                <guid>https://soundcloud.com/faltenrockfm/anfaenge-und-enden</guid>
+                <link>https://www.ndr.de/n-joy/tobi-krell-wie-bleibt-man-ein-leben-lang-neugierig,audio-360450.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2025/1216/AU-20251216-1601-0400.mp3"/>
+                <guid>https://www.ndr.de/n-joy/tobi-krell-wie-bleibt-man-ein-leben-lang-neugierig,audio-360450.html</guid>
                 
             </item><item>
-                <title>#102 Der große Jahresrückblick 2025!</title>
-                <description>Highlights 2025 - was kommt 2026? - Gewinnspielauflösung
-Feed: https://exposure.cologne/feed/mp3/</description>
+                <title>#147 Dr. Robert Rupp - Bewegung in der Lehre</title>
+                <description>Wie lässt sich Bewegung in die Lehre integrieren, ohne dass daraus Sportunterricht wird?
+Dr. Robert Rupp ist Forscher und Entwickler im Bereich gesundheitsfördernder und körperlich aktiver Hochschullehre. An der Pädagogischen Hochschule Heidelberg hat er gemeinsam mit Kolleg:innen das Heidelberger Modell der bewegten Lehre entwickelt. Ein Ansatz, der zeigt, wie Bewegung, Didaktik und Gesundheit auf inspirierende Weise zusammenwirken...
+Feed: https://education-minds-podcast.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://exposure.cologne/102-der-grosse-jahresrueckblick-2025/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://exposure.cologne/podlove/file/108/s/feed/c/mp3/Exp-Col-102_mixdown-final1.mp3"/>
-                <guid>https://exposure.cologne/102-der-grosse-jahresrueckblick-2025/</guid>
+                <link>https://education-minds-podcast.podigee.io/169-147-dr-robert-rupp-bewegung-in-der-lehre</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2279083-m-3c193413728929720de61dd6d617a491.mp3?source=feed"/>
+                <guid>https://education-minds-podcast.podigee.io/169-147-dr-robert-rupp-bewegung-in-der-lehre</guid>
                 
             </item>
         </channel>

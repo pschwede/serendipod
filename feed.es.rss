@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 26 Dec 2025 04:39:24 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 27 Dec 2025 04:37:41 +0200</lastBuildDate>
             <item>
-                <title>antipatillas</title>
-                <description>&lt;p&gt;antipatillas:Ordubete irauten duten punk musiken nahasketak&lt;/p&gt;
-Feed: https://punkirratia.net/rss.xml</description>
-                
-                
-                <link>https://punkirratia.net/nahaste/antipatillas.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/punkirratia-antipatillas/20251219--punkirratia-antipatillas.mp3"/>
-                <guid>https://punkirratia.net/nahaste/antipatillas.html</guid>
-                
-            </item><item>
-                <title>Hora 25 Castilla y León (25/12/2025)</title>
+                <title>Hora 25 Castilla y León (26/12/2025)</title>
                 <description>La información de carácter regional es una pieza esencial de nuestra programación. Durante toda la jornada miramos al resto de la comunidad para seguir de cerca toda la actualidad de Castilla y León.
 Feed: https://fapi-top.prisasd.com/podcast/playser/radio_valladolid.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/RADIO_VALLADOLID_CADENASER_470_P/media/999/2025/12/25/ser_castillayleon_hora25castillayleon_20251225_202503_203000.mp3?dest=radio_valladolid"/>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/RADIO_VALLADOLID_CADENASER_470_P/media/999/2025/12/26/ser_castillayleon_hora25castillayleon_20251226_202511_203000.mp3?dest=radio_valladolid"/>
                 <guid></guid>
+                
+            </item><item>
+                <title>Planeta vivo - Raíces profundas - 17/12/25</title>
+                <description>Raíces profundas
+Feed: http://api.rtve.es/api/programas/8893/audios.rss</description>
+                
+                
+                <link>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-raices-profundas/16863304/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16863304.mp3"/>
+                <guid>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-raices-profundas/16863304/</guid>
                 
             </item>
         </channel>

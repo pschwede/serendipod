@@ -9,7 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 26 Dec 2025 04:39:34 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 27 Dec 2025 04:37:51 +0200</lastBuildDate>
             <item>
                 <title>What&#39;s Bruin Show - Mike Talks About Stuff!</title>
                 <description>Enjoy the What&#39;s Bruin Show Network!Multiple shows to entertain you on one feed:Support WBS at Pa...
@@ -21,27 +21,14 @@ Feed: https://whatsbruinpodcast.podomatic.com/rss2.xml</description>
                 <guid>https://www.podomatic.com/podcasts/whatsbruinpodcast/episodes/2025-12-17T10_30_02-08_00</guid>
                 
             </item><item>
-                <title>Linux After Dark – Episode 111</title>
-                <description>&lt;p&gt;We tell stories from some of the tech support nightmares we&amp;#8217;ve found ourselves in. This is a short episode because Joe is having a break for the Christmas period.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Support us on Patreon and get an ad-free RSS feed with early episodes sometimes&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;See our contact page for ways to get in touch.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Subscribe to the RSS feed.&lt;/p&gt;
-Feed: https://linuxafterdark.net/feed/podcast</description>
+                <title>PodPast :  CONTENT: Jordan Harbinger&#39;s Key to Podcast Success</title>
+                <description>In this episode I interview one of the biggest names in podcasting, Jordan Harbinger!  We delve into the art of preparing for podcast interviews.   Jordan, whose podcast has millions of downloads, shares his journey from being a Wall Street lawyer to a renowned podcaster. He discusses the importance of extensive preparation, including reading entire books, taking notes, and adjusting interview flow in real-time.   Jordan emphasizes a structured approach to creating engaging content ...
+Feed: https://rss.buzzsprout.com/2220199.rss</description>
                 
                 
-                <link>https://linuxafterdark.net/linux-after-dark-episode-111/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/latenightlinux/LAD111.mp3"/>
-                <guid>https://linuxafterdark.net/linux-after-dark-episode-111/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/2220199/episodes/18086373-podpast-content-jordan-harbinger-s-key-to-podcast-success.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
