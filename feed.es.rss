@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 27 Dec 2025 04:37:41 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 28 Dec 2025 04:49:43 +0200</lastBuildDate>
             <item>
-                <title>Hora 25 Castilla y León (26/12/2025)</title>
-                <description>La información de carácter regional es una pieza esencial de nuestra programación. Durante toda la jornada miramos al resto de la comunidad para seguir de cerca toda la actualidad de Castilla y León.
-Feed: https://fapi-top.prisasd.com/podcast/playser/radio_valladolid.xml</description>
+                <title>Navidad 2025</title>
+                <description>Festejamos un año más la Navidad desde Eiberoamerica.com y para ello hemos preparado un podcast con 6 villancicos, 3 interpretados por Abril Gálvez Avilés y 3 cantados por Paqui Sánchez Galbarro, siendo los autores de estos últimos: Hilario Alonso de la música, Antonio Perán de las letras y Julio Gálvez de los arreglos musicales. 
+Feed: https://eiberoamerica.com/feed/platicando.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/RADIO_VALLADOLID_CADENASER_470_P/media/999/2025/12/26/ser_castillayleon_hora25castillayleon_20251226_202511_203000.mp3?dest=radio_valladolid"/>
-                <guid></guid>
+                <link>http://eiberoamerica.com/podcast/platicando/0879_PodcastDeNavidad2025.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="http://eiberoamerica.com/podcast/platicando/0879_PodcastDeNavidad2025.mp3"/>
+                <guid>http://eiberoamerica.com/podcast/platicando/0879_PodcastDeNavidad2025.mp3</guid>
                 
             </item><item>
-                <title>Planeta vivo - Raíces profundas - 17/12/25</title>
-                <description>Raíces profundas
-Feed: http://api.rtve.es/api/programas/8893/audios.rss</description>
+                <title>Vuelo 191: La Maldición Que Aterrorizó A Los Cielos, con Iván Castro</title>
+                <description>En plenas fechas de loter&amp;iacute;a navide&amp;ntilde;a, cuando todos buscan n&amp;uacute;meros de la suerte, nuestro experto en misterios a&amp;eacute;reos Iv&amp;aacute;n Castro nos revela el n&amp;uacute;mero m&amp;aacute;s gafe de la historia de la aviaci&amp;oacute;n: el 191. Desde el experimental X-15 que se desintegr&amp;oacute; a m&amp;aacute;s de 80...
+Feed: https://feeds.ivoox.com/feed_fg_f1413939_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-raices-profundas/16863304/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16863304.mp3"/>
-                <guid>https://www.rtve.es/play/audios/planeta-vivo/planeta-vivo-raices-profundas/16863304/</guid>
+                <link>https://www.ivoox.com/vuelo-191-la-maldicion-que-aterrorizo-a-los-audios-mp3_rf_165124570_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/vuelo-191-la-maldicion-que-aterrorizo-a-los_mf_165124570_feed_1.mp3?d=1766674576"/>
+                <guid>https://www.ivoox.com/vuelo-191-la-maldicion-que-aterrorizo-a-los-audios-mp3_rf_165124570_1.html</guid>
                 
             </item>
         </channel>
