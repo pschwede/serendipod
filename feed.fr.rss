@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 28 Dec 2025 04:49:39 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 29 Dec 2025 04:54:09 +0200</lastBuildDate>
             <item>
-                <title>Jeunesse cosmique : 12/25/2025 00:00</title>
-                <description>678-350839
-Feed: http://podcast.cism893.ca/radioshows/678/feed_itunes.xml</description>
+                <title>Joseph Kessel, sans frontières 3/5 : Le vol noir des corbeaux</title>
+                <description>Joseph Kessel, sans frontières 3/5 : Le vol noir des corbeaux
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_14373.xml</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/350839.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/350839.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/350839.mp3</guid>
+                <link>https://www.radiofrance.fr/franceculture/podcasts/les-grandes-traversees/le-vol-noir-des-corbeaux-7025000</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/019b4ca1-1efb-48eb-bf38-bb99d1d75491/14373-28.12.2025-ITEMA_24355997-2023C49904E0158-ITE_00134323_RSCE-21-b934c1267fc1ffd90f34e7db04644831.mp3"/>
+                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-grandes-traversees/le-vol-noir-des-corbeaux-7025000</guid>
                 
             </item><item>
-                <title>CQEP - 209 - Debrief saison 2025 : Moto2</title>
-                <description>Bonjour et bienvenue pour ce débrief de fin de saison 2025,
-Une nouvelle formule cette année pour cet épisode de récap, où l&#39;on va découper en plusieurs partie le débrief...
-Feed: https://cqeppod.lepodcast.fr/rss</description>
+                <title>174. Noël autrement: 3 traditions auxquelles on ne pense pas mais qui font vraiment du bien</title>
+                <description>**15% de réduction avec mon code  promo ANDY15 sur le site de [Moania](https://moania.com/), outil astro qui te propose ton thème natal à petit prix...
+Feed: https://feelpositive.lepodcast.fr/rss</description>
                 
                 
-                <link>https://cqeppod.lepodcast.fr/cqep-209-debrief-saison-2025-moto2</link>
-                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/cqeppod/cqep-209-debrief-saison-2025-moto2/enclosure.f5efdfe4c370a74e0a8217dd8adec21943442d628ce36452dbed16d22b153ba5.mp3?p=f"/>
-                <guid>https://cqeppod.lepodcast.fr/cqep-209-debrief-saison-2025-moto2</guid>
+                <link>https://feelpositive.lepodcast.fr/174-noel-autrement-3-traditions-auxquelles-on-ne-pense-pas-mais-qui-font-vraiment-du-bien</link>
+                <enclosure type="audio/mpeg" length="1" url="https://stats.podcloud.fr/feelpositive/174-noel-autrement-3-traditions-auxquelles-on-ne-pense-pas-mais-qui-font-vraiment-du-bien/enclosure.34e07e94432957d48fd85905df39b7cf57a87fe59d9b36af2f882ee9494def76.mp3?p=f"/>
+                <guid>https://feelpositive.lepodcast.fr/174-noel-autrement-3-traditions-auxquelles-on-ne-pense-pas-mais-qui-font-vraiment-du-bien</guid>
                 
             </item>
         </channel>
