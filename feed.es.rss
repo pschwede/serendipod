@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 29 Dec 2025 04:54:13 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 30 Dec 2025 04:44:58 +0200</lastBuildDate>
             <item>
-                <title>Popcasting500</title>
-                <description>roberto c...
-Feed: https://feeds.feedburner.com/Popcasting</description>
+                <title>Sateli 3 - Louis Armstrong (4) Meets O.Peterson/Sings the Blues - 29/12/25</title>
+                <description>Louis Armstrong (4) Meets O.Peterson/Sings the Blues
+Feed: http://api.rtve.es/api/programas/2077/audios.rss</description>
                 
                 
-                <link>https://www.ivoox.com/popcasting500-audios-mp3_rf_164656533_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/popcasting500_mf_164656533_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/popcasting500-audios-mp3_rf_164656533_1.html</guid>
+                <link>https://www.rtve.es/play/audios/sateli-3/louis-armstrong-4-meets-opeterson-sings-blues-29-12-25/16876362/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16876362.mp3"/>
+                <guid>https://www.rtve.es/play/audios/sateli-3/louis-armstrong-4-meets-opeterson-sings-blues-29-12-25/16876362/</guid>
                 
             </item><item>
-                <title>Fin de mes - El año en el campo</title>
-                <description>El año en el campo
-Feed: https://www.rtve.es/api/programas/1000671/audios.rss</description>
+                <title>SD Contra 48: Auge y ocaso de las guerrillas latinoamericanas; testimonio de mossa herida el17A de 2017 en Barcelona</title>
+                <description>En #SierraDelta Contra #SDContra #SDContra48 Gaizka Fern&amp;aacute;ndez entrevista al profesor de la UCM Jer&amp;oacute;nimo R&amp;iacute;os acerca de la obra colectiva que acaba de coeditar: &#34;Guerrillas en Am&amp;eacute;rica Latina&#34;...
+Feed: https://feeds.ivoox.com/feed_fg_f1507669_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/fin-de-mes/fin-mes-ano-campo/16875158/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16875158.mp3"/>
-                <guid>https://www.rtve.es/play/audios/fin-de-mes/fin-mes-ano-campo/16875158/</guid>
+                <link>https://www.ivoox.com/sd-contra-48-auge-ocaso-las-audios-mp3_rf_163817059_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/sd-contra-48-auge-ocaso-las_mf_163817059_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/sd-contra-48-auge-ocaso-las-audios-mp3_rf_163817059_1.html</guid>
                 
             </item>
         </channel>
