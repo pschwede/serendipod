@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 30 Dec 2025 04:44:52 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 31 Dec 2025 04:43:00 +0200</lastBuildDate>
             <item>
-                <title>Un cerveau, comment ça marche ? </title>
-                <description>Un cerveau, comment ça marche ? 
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13957.xml</description>
+                <title>Dominique Manotti : c&amp;#x27;est Marseille mémé ! (3/3)</title>
+                <description>Plongée dans la fabrique des personnages de Dominique Manotti, qui veut « humaniser [ses] salauds ». Rien que ça.
+Feed: https://www.arteradio.com/xml_sound_serie?seriename=%22BOOKMAKERS%22</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/la-conversation-scientifique/un-cerveau-comment-ca-marche-1919905</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/5a9bdc51-7ee0-4004-8f26-d3720eec4a92/13957-27.12.2025-ITEMA_24355683-2025C22785E0045-NET_MFC_2B2C8EF7-CED0-4BB4-A20E-F748752D9441-21-64b2ba757f852a2f2b61b3091295375d.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/la-conversation-scientifique/un-cerveau-comment-ca-marche-1919905</guid>
+                <link>https://www.arteradio.com/sons/dominique-manotti-c-est-marseille-meme-3-3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://flex2.acast.com/s/bookmakers/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/19Bookmakers-Dominique-Manotti3_hq_fr.mp3"/>
+                <guid>https://www.arteradio.com/sons/dominique-manotti-c-est-marseille-meme-3-3</guid>
                 
             </item><item>
-                <title>À la recherche du sommeil perdu</title>
-                <description>À la recherche du sommeil perdu
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11192.xml</description>
+                <title>Elkin Polo El Show : 12/27/2025 13:00</title>
+                <description>709-350998
+Feed: http://podcast.cism893.ca/radioshows/709/feed_itunes.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/a-la-recherche-du-sommeil-perdu-9107378</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/61aad26a-56d4-4af0-a3be-029dc381e340/11192-24.12.2025-ITEMA_24352939-2025C14993E0008-NET_MFC_A7AE3F91-9817-4324-920D-AD5BCEC76A72-21-2b89ad21c334da4932c63be97184b834.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/a-la-recherche-du-sommeil-perdu-9107378</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/350998.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/350998.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/350998.mp3</guid>
                 
             </item>
         </channel>
