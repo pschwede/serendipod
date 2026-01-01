@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 31 Dec 2025 04:43:06 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 01 Jan 2026 04:52:44 +0200</lastBuildDate>
             <item>
-                <title>Viñetas y bocadillos - Anna Aparicio Catalá &#34;La Ondina del estanque&#34; - 29/12/25</title>
-                <description>Anna Aparicio Catalá &#34;La Ondina del estanque&#34;
-Feed: http://api.rtve.es/api/programas/1946/audios.rss</description>
+                <title>PRIMER PLANO con RAFAEL MACHUCA</title>
+                <description>Rafael Machuca deja claro que no lleg&amp;oacute; a la m&amp;uacute;sica por casualidad, que su romance con las siete notas ha sido un encuentro trabajado, elaborado y de esas a los que se llega con las ideas claras. Ha hecho flamenco, rock, canci&amp;oacute;n de autor&amp;hellip; y ahora aborda con ilusi&amp;oacute;n una nueva etapa en su carrera en la que asume m&amp;aacute;s riesgo y a&amp;uacute;n m&amp;aacute;s protagonismo...
+Feed: https://feeds.ivoox.com/feed_fg_f1237454_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-anna-aparicio-catala-ondina-del-estanque-29-12-25/16877399/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16877399.mp3"/>
-                <guid>https://www.rtve.es/play/audios/vinetas-y-bocadillos/vinetas-bocadillos-anna-aparicio-catala-ondina-del-estanque-29-12-25/16877399/</guid>
+                <link>https://www.ivoox.com/primer-plano-rafael-machuca-audios-mp3_rf_165271643_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/primer-plano-rafael-machuca_mf_165271643_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/primer-plano-rafael-machuca-audios-mp3_rf_165271643_1.html</guid>
                 
             </item><item>
-                <title>Cinefagia FM · Episodio 339 · 24-12-2025 · ESPECIAL &#34;Tu mito de Navidad&#34;</title>
-                <description>Tu programa de cine en Radio Kras. Con la ayuda de oyentes, compis de emisora y dem&amp;aacute;s familia, hacemos un repaso a esa actriz o actor imprescindible en estas fechas. Ese mito cinematogr&amp;aacute;fico o esa rara avis no tan conocida que te pones a&amp;ntilde;o tras a&amp;ntilde;o para ubicarte bien con el arbolito navide&amp;ntilde;o y las miles (millones) de &amp;ldquo;lucecicas&amp;rdquo;...
-Feed: https://feeds.ivoox.com/feed_fg_f1127454_filtro_1.xml</description>
+                <title>La Navidad a través del cine</title>
+                <description>&lt;p dir=&#34;ltr&#34;&gt;Aquí está nuestro especial navideño del 2025: un viaje por las películas de la Navidad. Desde sus inicios, el cine ha encontrado en la Navidad el escenario perfecto para narrar historias que giran alrededor de uno de los espíritus que más nos convocan...
+Feed: https://dianauribefm.libsyn.com/rss</description>
                 
                 
-                <link>https://www.ivoox.com/cinefagia-fm-episodio-339-24-12-2025-audios-mp3_rf_165069504_1.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/cinefagia-fm-episodio-339-24-12-2025_mf_165069504_feed_1.mp3"/>
-                <guid>https://www.ivoox.com/cinefagia-fm-episodio-339-24-12-2025-audios-mp3_rf_165069504_1.html</guid>
+                <link>https://dianauribefm.libsyn.com/la-navidad-a-travs-del-cine</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/dianauribefm/Navidad_Podcast.mp3?dest-id=844493"/>
+                <guid>https://dianauribefm.libsyn.com/la-navidad-a-travs-del-cine</guid>
                 
             </item>
         </channel>

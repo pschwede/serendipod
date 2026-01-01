@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 31 Dec 2025 04:43:00 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 01 Jan 2026 04:52:40 +0200</lastBuildDate>
             <item>
-                <title>Dominique Manotti : c&amp;#x27;est Marseille mémé ! (3/3)</title>
-                <description>Plongée dans la fabrique des personnages de Dominique Manotti, qui veut « humaniser [ses] salauds ». Rien que ça.
-Feed: https://www.arteradio.com/xml_sound_serie?seriename=%22BOOKMAKERS%22</description>
+                <title>SuMMeR Session</title>
+                <description>Mix 294 - Special Edition Summer Mix ! Enjoy !
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:1657103/sounds.rss</description>
                 
                 
-                <link>https://www.arteradio.com/sons/dominique-manotti-c-est-marseille-meme-3-3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://flex2.acast.com/s/bookmakers/u/cdn.arteradio.com/permanent/arteradio/sites/default/files/19Bookmakers-Dominique-Manotti3_hq_fr.mp3"/>
-                <guid>https://www.arteradio.com/sons/dominique-manotti-c-est-marseille-meme-3-3</guid>
+                <link>https://soundcloud.com/lanichemusic/summer-session</link>
+                <enclosure type="audio/mpeg" length="1" url="https://itunes.apple.com/fr/podcast/olivier-charles-podcast/id1017166511?l=en/http://feeds.soundcloud.com/stream/2231115878-lanichemusic-summer-session.mp3"/>
+                <guid>https://soundcloud.com/lanichemusic/summer-session</guid>
                 
             </item><item>
-                <title>Elkin Polo El Show : 12/27/2025 13:00</title>
-                <description>709-350998
-Feed: http://podcast.cism893.ca/radioshows/709/feed_itunes.xml</description>
+                <title>2025 : la MEILLEURE ANNÉE du GAMING ? </title>
+                <description>Kirby Air Riders, Hades II, Arc Raiders, Crunch GTA 6, Steam Machine, The Outer Worlds 2... 
+Feed: https://feed.pippa.io/public/shows/5c743053851dddbe3c88ab02</description>
                 
                 
-                <link>https://podcast.cism893.ca/podcast/download_mp3/350998.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/350998.mp3"/>
-                <guid>https://podcast.cism893.ca/podcast/download_mp3/350998.mp3</guid>
+                <link>https://shows.acast.com/radiolibrius/episodes/2025-la-meilleure-annee-du-gaming</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/5c743053851dddbe3c88ab02/e/6939abb3a9d003889c00162a/media.mp3"/>
+                <guid>https://shows.acast.com/radiolibrius/episodes/2025-la-meilleure-annee-du-gaming</guid>
                 
             </item>
         </channel>
