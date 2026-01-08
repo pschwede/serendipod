@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 05 Jan 2026 05:00:24 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 08 Jan 2026 04:45:46 +0200</lastBuildDate>
             <item>
-                <title>صاحب الظل الثالث</title>
-                <description>&lt;p style=&#34;text-align:right;&#34;&gt;&lt;strong&gt;&#34;في سكون الليل، حيث تتوقف الحركة وتطبق الظلمة على الأنفاس.. هل شعرت يوماً أن ظلك ليس ملكك 
-Feed: https://media.podeo.co/rss/MjM2MTI</description>
+                <title>Frontera - 04/01/26</title>
+                <description>Frontera - 04/01/26
+Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
                 
                 
-                <link>https://podeo.co</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.podeo.co/episodes/ODczNzY/audio.mp3"/>
-                <guid>https://podeo.co</guid>
+                <link>https://www.rtve.es/play/audios/frontera/04-01-26/16884626/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16884626.mp3"/>
+                <guid>https://www.rtve.es/play/audios/frontera/04-01-26/16884626/</guid>
                 
             </item><item>
-                <title>من القوائم المالية إلى القيادة: الدليل التطبيقي لـ 20 مهمة حاسمة في عمل المدير المالي</title>
-                <description>&lt;p&gt;هل أنت مستعد للانتقال بدورك كمدير مالي من مجرد مسجل للأحداث إلى قائد استراتيجي يقود شركتك نحو النمو والربحية المستدامة؟في هذه الحلقة الاس
-Feed: https://media.podeo.co/rss/MTM3Mjk</description>
+                <title>El animal que hace preguntas</title>
+                <description>&lt;p&gt;Filosofar para aprobar es el nuevo podcast adyacente a Un poco de todo. Comenzó como una necesidad, y ahora se convirtió en una pasión por el saber. Anda a chequearlo en Spotify.!&lt;/p&gt;
+
+Feed: https://anchor.fm/s/1acb900c/podcast/rss</description>
                 
                 
-                <link>https://podeo.co</link>
-                <enclosure type="audio/mpeg" length="1" url="https://media.podeo.co/episodes/ODQyODE/audio.mp3"/>
-                <guid>https://podeo.co</guid>
+                <link>https://podcasters.spotify.com/pod/show/justo-velarde/episodes/El-animal-que-hace-preguntas-e3c0suo</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1acb900c/podcast/play/112275864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-7%2F413926368-44100-2-d86e52b1ddbe7.m4a"/>
+                <guid>https://podcasters.spotify.com/pod/show/justo-velarde/episodes/El-animal-que-hace-preguntas-e3c0suo</guid>
                 
             </item>
         </channel>

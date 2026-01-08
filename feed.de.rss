@@ -9,7 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 05 Jan 2026 05:00:14 +0200</lastBuildDate>
-            
+            <lastBuildDate>Thu, 08 Jan 2026 04:45:37 +0200</lastBuildDate>
+            <item>
+                <title>Geheimrezept gegen Schreibkrisen</title>
+                <description>8 Methoden, die wirklich helfen
+Feed: https://1bo9y4f.podcaster.de/SchreibenundLeben.rss</description>
+                
+                
+                <link>https://schreiben-und-leben.de/podcast/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://1bo9y4f.podcaster.de/schreibenundleben/media/00_-_Podcast_aufnahmen_-_Schreibkrisen_Geheimrezept_Master.mp3"/>
+                <guid>https://schreiben-und-leben.de/podcast/</guid>
+                
+            </item><item>
+                <title>IONOS Summit 2025: Twin4Road</title>
+                <description>Wie KI und Cloud die Straßenunterhaltung revolutionieren
+Feed: https://inside.ionos.de/feed/mp3</description>
+                
+                
+                <link>https://inside.ionos.de/72-ionos-summit-2025-twin4road</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2277377-m-ea7584be4c5f88d2f20e5b0ccbf39b78.mp3?source=feed"/>
+                <guid>https://inside.ionos.de/72-ionos-summit-2025-twin4road</guid>
+                
+            </item>
         </channel>
 </rss>
