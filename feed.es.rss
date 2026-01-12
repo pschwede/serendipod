@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 08 Jan 2026 04:45:46 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 12 Jan 2026 04:55:28 +0200</lastBuildDate>
             <item>
-                <title>Frontera - 04/01/26</title>
-                <description>Frontera - 04/01/26
-Feed: http://api.rtve.es/api/programas/1982/audios.rss</description>
+                <title>Coronando la vida</title>
+                <description>Si nos fijamos en el autentico origen de las coronas se corresponde a un momento de la humanidad donde los lideres realmente aportaban informaci&amp;oacute;n relevante y energ&amp;iacute;a al servicio de la humanidad. El anillo alrededor del sexto chakra y los cuarzos hac&amp;iacute;an de transmisores para que un dirigente benevolente mandara informaci&amp;oacute;n al conjunto de la humanidad...
+Feed: https://feeds.ivoox.com/feed_fg_f11026236_filtro_1.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/frontera/04-01-26/16884626/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16884626.mp3"/>
-                <guid>https://www.rtve.es/play/audios/frontera/04-01-26/16884626/</guid>
+                <link>https://www.ivoox.com/coronando-vida-audios-mp3_rf_166262725_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/coronando-vida_mf_166262725_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/coronando-vida-audios-mp3_rf_166262725_1.html</guid>
                 
             </item><item>
-                <title>El animal que hace preguntas</title>
-                <description>&lt;p&gt;Filosofar para aprobar es el nuevo podcast adyacente a Un poco de todo. Comenzó como una necesidad, y ahora se convirtió en una pasión por el saber. Anda a chequearlo en Spotify.!&lt;/p&gt;
-
-Feed: https://anchor.fm/s/1acb900c/podcast/rss</description>
+                <title>Sonidos y Sonados 2026-01-08</title>
+                <description>Segunda entrega de los años 70. Segundas partes, sí fueron buenas. En el programa de la pasada semana, el libro «1001discos que hay que escuchar antes de morir» nos sirvió para seleccionar 28 de los 172 discos de la primera mitad de los años 70 que su autor, Robert Dimery, recomendaba oír. Pues bien esta [&amp;#8230;]
+Feed: https://feeds.feedburner.com/sonidosysonados</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/justo-velarde/episodes/El-animal-que-hace-preguntas-e3c0suo</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/1acb900c/podcast/play/112275864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-7%2F413926368-44100-2-d86e52b1ddbe7.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/justo-velarde/episodes/El-animal-que-hace-preguntas-e3c0suo</guid>
+                <link>https://sonidosysonados.com/2026/01/08/sonidos-y-sonados-2026-01-08/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://media.blubrry.com/sonidosysonados/sonidosysonados.fra1.cdn.digitaloceanspaces.com/SonidosySonados2026010820090430Old.mp3"/>
+                <guid>https://sonidosysonados.com/2026/01/08/sonidos-y-sonados-2026-01-08/</guid>
                 
             </item>
         </channel>

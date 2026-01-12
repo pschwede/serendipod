@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 08 Jan 2026 04:45:37 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 12 Jan 2026 04:55:17 +0200</lastBuildDate>
             <item>
-                <title>Geheimrezept gegen Schreibkrisen</title>
-                <description>8 Methoden, die wirklich helfen
-Feed: https://1bo9y4f.podcaster.de/SchreibenundLeben.rss</description>
+                <title>Was ich heute anders essen würde, wenn ich wieder 20 wäre.</title>
+                <description>&lt;p&gt;In der heutigen Folge nimmt Luke dich mit in seine 20ger: Was hätte er anders gemacht.&lt;/p&gt;&lt;p&gt;Hier findest du alle Empfehlungen: &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;☀️ Bei ForYou findest du wie immer den Vitamin D Test. Der Code Luke gilt auf alles was du dort kaufst, damit sparst du 15%: https://www.foryouehealth.de/for-you-vitamin-d3-k2-test-bluttest-fur-zuhause.html&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;???? Liposomales Eisen: Hier sparst du auch 10% auf alles mit dem Code Luke: https://purazell...
+Feed: https://anchor.fm/s/529ec800/podcast/rss</description>
                 
                 
-                <link>https://schreiben-und-leben.de/podcast/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://1bo9y4f.podcaster.de/schreibenundleben/media/00_-_Podcast_aufnahmen_-_Schreibkrisen_Geheimrezept_Master.mp3"/>
-                <guid>https://schreiben-und-leben.de/podcast/</guid>
+                <link>https://podcasters.spotify.com/pod/show/luke-jaque-rodney/episodes/Was-ich-heute-anders-essen-wrde--wenn-ich-wieder-20-wre-e3d28sk</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/529ec800/podcast/play/113369428/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-1%2F7749b28a-f6a4-d468-8f77-221f252daefa.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/luke-jaque-rodney/episodes/Was-ich-heute-anders-essen-wrde--wenn-ich-wieder-20-wre-e3d28sk</guid>
                 
             </item><item>
-                <title>IONOS Summit 2025: Twin4Road</title>
-                <description>Wie KI und Cloud die Straßenunterhaltung revolutionieren
-Feed: https://inside.ionos.de/feed/mp3</description>
+                <title>Wer nicht hören will muss sterben - Eiskalte Mordserie</title>
+                <description>Kaum ist Kommissarin Karla Noll zurück von einer Schulung zu Täter-Profiling und die Psychologie von Serienmördern an der FBI-Akademie in den USA, kann sie ihr frisches Wissen in einer Mordserie anwenden, in der alle Opfer Kampfhundbesitzer sind und der Täter mit chirurgischer Gefühlskälte zu Werke geht.
+Von Holger Siemann 
+Mit Gerd Wameling, Hans-Uwe Bauer, Jens-Uwe Bogadtke, Udo Kroschwald u.a. 
+Regie: Christa Kowalski 
+BR 2001 
+Podcast-Tipp: Wolf of Cannabis
+https://1.ard...
+Feed: https://www1.wdr.de/mediathek/audio/1live/1live-krimi/krimi-podcast-102.podcast</description>
                 
                 
-                <link>https://inside.ionos.de/72-ionos-summit-2025-twin4road</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2277377-m-ea7584be4c5f88d2f20e5b0ccbf39b78.mp3?source=feed"/>
-                <guid>https://inside.ionos.de/72-ionos-summit-2025-twin4road</guid>
+                <link>https://www1.wdr.de/mediathek/audio/knallhart/audio-wer-nicht-hoeren-will-muss-sterben---eiskalte-mordserie-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/medp/podcast/weltweit/fsk0/338/3387182/3387182_64679511.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/knallhart/audio-wer-nicht-hoeren-will-muss-sterben---eiskalte-mordserie-100.html</guid>
                 
             </item>
         </channel>
