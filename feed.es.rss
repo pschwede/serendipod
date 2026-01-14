@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 13 Jan 2026 04:47:59 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 14 Jan 2026 04:50:43 +0200</lastBuildDate>
             <item>
-                <title>CANADÁ en PELIGRO: ¿Puede el petróleo VENEZOLANO arruinar su ECONOMÍA?</title>
-                <description>&lt;p&gt;¿Quieres aprender de inversión????? &lt;/p&gt;&lt;p&gt;Por: VisualEconomik&lt;/p&gt;&lt;p&gt;Link original: https://www.youtube.com/watch?v=_6l8AjHEpAw&lt;/p&gt;&lt;p&gt;~&lt;/p&gt;&lt;p&gt;Escucha más episodios en: https://fountain.fm/show/n9y2IOmZcJHPxqsvUcVL&lt;/p&gt;&lt;p&gt;Propinas: https://plisio.net/donate/GevVszjz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-Feed: https://anchor.fm/s/7dab9500/podcast/rss</description>
+                <title>De película - De la Nouvelle Vague a la realidad de Belén - 10/01/26</title>
+                <description>De la Nouvelle Vague a la realidad de Belén
+Feed: http://api.rtve.es/api/programas/1921/audios.rss</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/chascas-largas/episodes/CANAD-en-PELIGRO-Puede-el-petrleo-VENEZOLANO-arruinar-su-ECONOMA-e3dif6g</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/7dab9500/podcast/play/113900176/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2F388236e1-897b-0b98-8c95-f4bc2a244c80.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/chascas-largas/episodes/CANAD-en-PELIGRO-Puede-el-petrleo-VENEZOLANO-arruinar-su-ECONOMA-e3dif6g</guid>
+                <link>https://www.rtve.es/play/audios/de-pelicula-rne/pelicula-nouvelle-vague-realidad-belen-10-01-26/16889320/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16889320.mp3"/>
+                <guid>https://www.rtve.es/play/audios/de-pelicula-rne/pelicula-nouvelle-vague-realidad-belen-10-01-26/16889320/</guid>
                 
             </item><item>
-                <title>Feliz año 2026 con amor de Phoronix</title>
-                <description>&lt;p&gt;Primer episodio del año que empieza como acabo, lleno de noticias y un buen recopilatorio. Hablamos de lo más viso en Phoronix, del Fundraising de KDE, 30 razones por las que amar KDE, actualizaciones presentes y futuras y MPV como invitado FLOSS general.&lt;/p&gt;
-&lt;p&gt;Si no ves nada tras esta linea, es que tu app no sabe leer bien el feed RSS, avisales o prueba otra ;)&lt;/p&gt;
-Feed: https://kdeexpress.gitlab.io/feed</description>
+                <title>Al margen de la ley - Juan Rada: &#34;Se vendieron 480.000 ejemplares en una mañana&#34;</title>
+                <description>Juan Rada: &#34;Se vendieron 480.000 ejemplares en una mañana&#34;
+Feed: http://www.rtve.es/api/programas/1000618/audios.rss</description>
                 
                 
-                <link>https://kdeexpress.gitlab.io/posts/kdeexpress/64-kde-express/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e,pg=a9a56b87-575a-5f6f-9636-cdf7b73e6230/archive.org/download/64-kde-express/64-KDE_Express.mp3"/>
-                <guid>https://kdeexpress.gitlab.io/posts/kdeexpress/64-kde-express/</guid>
+                <link>https://www.rtve.es/play/audios/al-margen-de-la-ley/juan-rada-caso-monchito/16882826/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16882826.mp3"/>
+                <guid>https://www.rtve.es/play/audios/al-margen-de-la-ley/juan-rada-caso-monchito/16882826/</guid>
                 
             </item>
         </channel>
