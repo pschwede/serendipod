@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 14 Jan 2026 04:50:43 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 16 Jan 2026 04:46:29 +0200</lastBuildDate>
             <item>
-                <title>De película - De la Nouvelle Vague a la realidad de Belén - 10/01/26</title>
-                <description>De la Nouvelle Vague a la realidad de Belén
-Feed: http://api.rtve.es/api/programas/1921/audios.rss</description>
+                <title>Mañana más - Ale Acosta, primera gira en solitario</title>
+                <description>Ale Acosta, primera gira en solitario
+Feed: https://www.rtve.es/api/adapter/programas/175697/audios.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/de-pelicula-rne/pelicula-nouvelle-vague-realidad-belen-10-01-26/16889320/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16889320.mp3"/>
-                <guid>https://www.rtve.es/play/audios/de-pelicula-rne/pelicula-nouvelle-vague-realidad-belen-10-01-26/16889320/</guid>
+                <link>https://www.rtve.es/play/audios/manana-mas/manana-mas-ale-acosta-primera-gira-solitario/16895277/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16895277.mp3"/>
+                <guid>https://www.rtve.es/play/audios/manana-mas/manana-mas-ale-acosta-primera-gira-solitario/16895277/</guid>
                 
             </item><item>
-                <title>Al margen de la ley - Juan Rada: &#34;Se vendieron 480.000 ejemplares en una mañana&#34;</title>
-                <description>Juan Rada: &#34;Se vendieron 480.000 ejemplares en una mañana&#34;
-Feed: http://www.rtve.es/api/programas/1000618/audios.rss</description>
+                <title>La píldora de Tallón | Un momento terrorífico</title>
+                <description>&lt;p&gt;Sería extraño, aunque bello, levantarse por las mañanas, pongamos, y resoplar aliviado y después sonreír feliz porque resulta que el sol ha vuelto a salir, y la Tierra continúa girando a su alrededor sin variar su trayectoria respecto al año pasado por estas fechas.&amp;nbsp;&lt;/p&gt;
+Feed: https://fapi-top.prisasd.com/podcast/playser/a_vivir_que_son_dos_dias/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/al-margen-de-la-ley/juan-rada-caso-monchito/16882826/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16882826.mp3"/>
-                <guid>https://www.rtve.es/play/audios/al-margen-de-la-ley/juan-rada-caso-monchito/16882826/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/A_VIVIR_QUE_SON_DOS_DIAS_SEC_PILDORA_DE_TALLON_SER_PODCAST_1510_P/media/playser/audio/20261/11/4777522.mp3?dest=a_vivir_que_son_dos_dias"/>
+                <guid></guid>
                 
             </item>
         </channel>
