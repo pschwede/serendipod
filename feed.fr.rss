@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 17 Jan 2026 04:37:06 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 18 Jan 2026 04:47:13 +0200</lastBuildDate>
             <item>
-                <title>Cadeaux en or, jeux de pouvoir</title>
-                <description>Une horloge en or, une couronne, un Boeing… Donald Trump a été couvert de cadeaux dans le récent ballet de rencontres officielles ou en marge. La préparation de présents diplomatiques relève d&#39;une pratique aussi ancienne que codifiée. Quelle est la front…
-Feed: https://www.rts.ch/emissions/geopolitis/podcasts/?format=rss/podcast</description>
+                <title>L&#39;échec de la carte &#34;jeunes&#34; en Coupe de France</title>
+                <description>Sans Contrôle, le podcast 100 % FC Nantes
+Feed: https://api.octopus.saooti.com/rss/emission/82.rss</description>
                 
                 
-                <link>https://www.rts.ch/emissions/geopolitis/2025/video/cadeaux-en-or-jeux-de-pouvoir-29089072.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-vod-dd.akamaized.net/ww/0f3cf9cb-415b-30af-8a61-fbfad36d2b52/83d0bff3-3b95-38d1-a80a-5908510ed683.mp4"/>
-                <guid>https://www.rts.ch/emissions/geopolitis/2025/video/cadeaux-en-or-jeux-de-pouvoir-29089072.html</guid>
+                <link>https://octopus.saooti.com/main/pub/podcast/2262514</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.octopus.saooti.com/podcast/download/2262514.mp3?origin=rss"/>
+                <guid>https://octopus.saooti.com/main/pub/podcast/2262514</guid>
                 
             </item><item>
-                <title>Anaïs à Hollywood #4: Débrief des Golden Globes (live Twitch)</title>
-                <description>&lt;p&gt;En attendant le nouvel épisode du podcast, on vous propose d&#39;écouter ou de réécouter le débrief d&#39;Anaïs sur la cérémonie des Golden Globes diffusé en direct sur Twitch le lundi 12 janvier. Bonne écoute!&lt;br/&gt;&lt;br/&gt;Suivez le podcast sur Twitch : https://www.twitch.tv/anaissefaitdesfilms&amp;nbsp;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt; &lt;br /&gt;Hébergé par Audion. Visitez https://www.audion.fm/fr/privacy-policy pour plus d’informations.&lt;/p&gt;
-Feed: https://feeds.360.audion.fm/HRmYIhh-6qRBWl5pbgQsw</description>
+                <title>#532 Anaëlle, Nathalie &amp; Stéphanie - Feedback de la soirée Humana d&#39;Octobre 2025 (FR)</title>
+                <description>Neurodiversité &amp; Inclusion
+Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7891_9516cba54f422f2adaabab0e64eed731.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/b1ed258e-72a5-491c-8b98-356a6c502943.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://www.podcastics.com/podcast/episode/532-anaelle-nathalie-stephanie-feedback-de-la-soiree-humana-doctobre-2025-fr-393943/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/op3.dev/e/track.podcastics.com/7891/393943.mp3"/>
+                <guid>https://www.podcastics.com/podcast/episode/532-anaelle-nathalie-stephanie-feedback-de-la-soiree-humana-doctobre-2025-fr-393943/</guid>
                 
             </item>
         </channel>
