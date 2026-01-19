@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 18 Jan 2026 04:47:13 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 19 Jan 2026 04:56:34 +0200</lastBuildDate>
             <item>
-                <title>L&#39;échec de la carte &#34;jeunes&#34; en Coupe de France</title>
-                <description>Sans Contrôle, le podcast 100 % FC Nantes
-Feed: https://api.octopus.saooti.com/rss/emission/82.rss</description>
+                <title>Pourquoi les jeunes hommes ne supportent-ils pas leur fragilité ? (1/3)｜Des mecs solides</title>
+                <description>&lt;p&gt;Quand Jules redouble sa L2, il arrête de parler et commence à soulever de la fonte. Six mois plus tard : des kilos de muscles en plus, zéro conversation sur ce qu&#39;il ressent vraiment. À 20 ans, il incarne une génération d&#39;hommes qui transforment leur mal-être en abdos...
+Feed: https://feeds.acast.com/public/shows/8fb79794-2f6a-41f0-9ae1-d7766f4e4092</description>
                 
                 
-                <link>https://octopus.saooti.com/main/pub/podcast/2262514</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.octopus.saooti.com/podcast/download/2262514.mp3?origin=rss"/>
-                <guid>https://octopus.saooti.com/main/pub/podcast/2262514</guid>
+                <link>https://shows.acast.com/emotions/episodes/pourquoi-les-jeunes-hommes-ne-supportent-ils-pas-leur-fragil</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/emotions/e/6964cb1e1f21449d6db5da3d/media.mp3"/>
+                <guid>https://shows.acast.com/emotions/episodes/pourquoi-les-jeunes-hommes-ne-supportent-ils-pas-leur-fragil</guid>
                 
             </item><item>
-                <title>#532 Anaëlle, Nathalie &amp; Stéphanie - Feedback de la soirée Humana d&#39;Octobre 2025 (FR)</title>
-                <description>Neurodiversité &amp; Inclusion
-Feed: https://feeds.podcastics.com/podcastics/podcasts/rss/7891_9516cba54f422f2adaabab0e64eed731.rss</description>
+                <title>L&#39;identité musulmane en France</title>
+                <description>Dans cet épisode, je parle de l&#39;identité de la femme musulmane en France et du rapport à l&#39;ostentation.
+Feed: https://feed.podbean.com/theinnerjourney/feed.xml</description>
                 
                 
-                <link>https://www.podcastics.com/podcast/episode/532-anaelle-nathalie-stephanie-feedback-de-la-soiree-humana-doctobre-2025-fr-393943/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/op3.dev/e/track.podcastics.com/7891/393943.mp3"/>
-                <guid>https://www.podcastics.com/podcast/episode/532-anaelle-nathalie-stephanie-feedback-de-la-soiree-humana-doctobre-2025-fr-393943/</guid>
+                <link>https://theinnerjourney.podbean.com/e/lidentite-musulmane-en-france/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/pudsrxhycrcwu6wr/Identite_musulmane80xau.mp3"/>
+                <guid>https://theinnerjourney.podbean.com/e/lidentite-musulmane-en-france/</guid>
                 
             </item>
         </channel>

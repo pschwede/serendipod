@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 18 Jan 2026 04:47:06 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 19 Jan 2026 04:56:27 +0200</lastBuildDate>
             <item>
+                <title>Episode 441: The Most Stinkiest Celebs</title>
+                <description>P.U. ain’t just a university anymore, folks! It’s the premiere destination online for stinky celeb rankings, and honestly now that I’m typing it out I’m pretty mad I didn’t just make the site and paywall it instead of making a joke about it. I wanna make some money off stink freaks! Well, whoever does it just put me in the credits of the site, but like, make it clear I’m not into it. I just helped with the idea and vibe coded the CSS...
+Feed: https://rss.art19.com/your-kickstarter-sucks</description>
+                
+                
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://s.gum.fm/s-5e1f6e259813ce00536763d5/pscrb.fm/rss/p/mgln.ai/e/209/rss.art19.com/episodes/3d87103a-f8df-45f6-8a08-b387b96d0822.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
+                
+            </item><item>
                 <title>End of year language boost</title>
                 <description>&lt;p&gt;In this episode, I share an update on my end of year language boost after a very multilingual December. I talk about how I fully reactivated my Irish through local meetups in my hometown, without needing to travel to a major city, and how focused time plus the right books helped refresh the language quickly...
 Feed: https://feeds.transistor.fm/language-hacking</description>
@@ -19,16 +29,6 @@ Feed: https://feeds.transistor.fm/language-hacking</description>
                 <link>https://share.transistor.fm/s/94369bfe</link>
                 <enclosure type="audio/mpeg" length="1" url="https://media.transistor.fm/94369bfe/8fe0f9f3.mp3"/>
                 <guid>https://share.transistor.fm/s/94369bfe</guid>
-                
-            </item><item>
-                <title>S7 E7 A Bug in Pitch</title>
-                <description>Jeff Ingram discusses his experiences with dissociative amnesia, where memory loss leads him to wander, unable to recall past events. Dr. David Spiegel provides insights into the disorder&#39;s link to trauma. Gloria, whose husband Ian Indridson is missing, wonders if Ian may have experienced this kind of episode on the morning he disappeared. She shares her ongoing hope and emotional struggle as the episode marks 4 years since Ian vanished in January 2022.&lt;p style=&#39;color:grey; font-size:0...
-Feed: https://feeds.acast.com/public/shows/675b33c6619022857c8fd06a</description>
-                
-                
-                <link>https://shows.acast.com/island-crime/episodes/s7-e7-a-bug-in-pitch</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/675b33c6619022857c8fd06a/e/6954118f5d6f68f3bfe54fc5/media.mp3"/>
-                <guid>https://shows.acast.com/island-crime/episodes/s7-e7-a-bug-in-pitch</guid>
                 
             </item>
         </channel>
