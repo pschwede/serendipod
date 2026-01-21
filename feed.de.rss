@@ -9,26 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 20 Jan 2026 04:51:52 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 Jan 2026 04:50:59 +0200</lastBuildDate>
             <item>
-                <title>Die Diskussion: Trevanian, Collins, Osman</title>
-                <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;3 Werke, 3 Empfehlungen! Kann das neue Jahr besser beginnen? Wir lobpreisen diesmal “Shibumi” von Trevanian, “So ist das nie passiert” von Sarah Easter Collings und die 5. Folge des Thursday Murder Clubs: “The Impossible Fortune” von Richard Osman.&lt;/p&gt;&lt;p&gt;Wegen eines technischen SNAFUs ist die Qualität leicht eingeschränkt, wir machen das beim nächsten mal wieder besser. Sorry!&lt;/p&gt;&lt;p&gt;&lt;/p&gt; &lt;br/&gt;&lt;br/&gt;This is a public episode...
-Feed: https://api.substack.com/feed/podcast/300673/s/666.rss</description>
+                <title>Naruhodo #458 - Por que temos enxaqueca?</title>
+                <description>Estima-se que em torno de 15% da população mundial sofra de enxaqueca, com maior prevalência nas mulheres - e muitos sintomas, tais como aura, além de hipersensibilidade à luz, ao som e ao cheiro... Afinal, o que a ciência tem a dizer sobre o tema?
+Confira o papo entre o leigo curioso, Ken Fujioka, e o cientista PhD, Altay de Souza.
+&gt;&gt; OUÇA (60min 43s)
+Convidado: Dr...
+Feed: https://feeds.simplecast.com/hwQVm5gy</description>
                 
                 
-                <link>https://lobundverriss.substack.com/p/die-diskussion-osman-trevanian-collins</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.substack.com/feed/podcast/183807135/9ba943b5c3a977c10d56c0aab327de8f.mp3"/>
-                <guid>https://lobundverriss.substack.com/p/die-diskussion-osman-trevanian-collins</guid>
+                <link>http://naruhodo.b9.com.br</link>
+                <enclosure type="audio/mpeg" length="1" url="https://chtbl.com/track/BC6GF7/cdn.simplecast.com/audio/ab2964e7-bcad-4f2f-9698-45cb681f0d69/episodes/49dd628a-d73c-4bb4-8c17-fa4c6c97dadf/audio/d41fd9a4-00dd-4429-ad39-34b7b645ec7f/default_tc.mp3?aid=rss_feed&amp;feed=hwQVm5gy"/>
+                <guid>http://naruhodo.b9.com.br</guid>
                 
             </item><item>
-                <title>DIY-Studioschätze, echter Analog-Sound &amp; Legend Espresso - Martin Zobel, analogvibey</title>
-                <description>&lt;p&gt;DIY-Studio-Hardware, legendäre Analog-Klassiker und die Liebe zum Detail: In dieser Live-Episode spricht Marc mit Martin Zobel über analogvibes, den originalgetreuen Nachbau von LA-2A, 1176 &amp;amp; Pultec, über Selbstbauen als kreativen Prozess – und warum man Klang erst richtig versteht, wenn man ihn löten kann...
-Feed: https://anchor.fm/s/108b0cff8/podcast/rss</description>
+                <title>Camille Charvet, « Les personnalités addictes, que je vois dans mes consultations sont un miroir de notre époque »</title>
+                <description>Camille Charvet, « Les personnalités addictes, que je vois dans mes consultations sont un miroir de notre époque »
+Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_18558.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/marc-bohn8/episodes/DIY-Studioschtze--echter-Analog-Sound--Legend-Espresso---Martin-Zobel--analogvibey-e3c8sg4</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/108b0cff8/podcast/play/112537540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-12%2F414262097-44100-2-410b045baaf54.m4a"/>
-                <guid>https://podcasters.spotify.com/pod/show/marc-bohn8/episodes/DIY-Studioschtze--echter-Analog-Sound--Legend-Espresso---Martin-Zobel--analogvibey-e3c8sg4</guid>
+                <link>https://www.radiofrance.fr/franceinter/podcasts/le-grand-face-a-face/le-grand-face-a-face-du-samedi-17-janvier-2026-9618265</link>
+                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/92cd7bfd-146a-4a51-aee4-ed4271b0c808/18558-17.01.2026-ITEMA_24376944-2026F30378S0017-NET_MFI_DA8E8C9C-9169-441A-8B1B-6F99D59AD092-22-1b2034fc799e5be595f1220969fbdcf0.mp3"/>
+                <guid>https://www.radiofrance.fr/franceinter/podcasts/le-grand-face-a-face/le-grand-face-a-face-du-samedi-17-janvier-2026-9618265</guid>
                 
             </item>
         </channel>

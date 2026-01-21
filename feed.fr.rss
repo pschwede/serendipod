@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 20 Jan 2026 04:51:57 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 Jan 2026 04:51:03 +0200</lastBuildDate>
             <item>
-                <title>Les États-Unis débutent 2026 entre crise intérieure et désordre mondial</title>
-                <description>&lt;p&gt;En ce début d&#39;année 2026, l&#39;actualité est toujours aussi chargée aux États-Unis...
-Feed: https://feeds.360.audion.fm/6DEDYNDVuyDDA-xbBAq8y</description>
+                <title>S11 Épisode 14: Joyeux Noël</title>
+                <description>&lt;p&gt;Un épisode qui vous accompagnera durant la route du temps des fêtes !&lt;/p&gt;&lt;p&gt;Avec la collaboration de Sylvain Carbonneau et de Marc Privé, nous abordons plusieurs sujets qui ont marqué l&#39;année 2025 !&lt;/p&gt;&lt;p&gt;Toute l&#39;équipe et, en mon nom personnel, nous vous souhaitons un très joyeux temps des fêtes !&lt;/p&gt;
+Feed: https://baladoquebec.ca/benlala/rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.360.audion.fm/aa2fcd51-6546-47fb-9b27-202006c35941.mp3?from=Fyyd"/>
-                <guid></guid>
+                <link>https://baladoquebec.ca/benlala/s11-episode-14-joyeux-noel</link>
+                <enclosure type="audio/mpeg" length="1" url="https://baladoquebec.ca/media/benlala/s11-episode-14-joyeux-noel.mp3"/>
+                <guid>https://baladoquebec.ca/benlala/s11-episode-14-joyeux-noel</guid>
                 
             </item><item>
-                <title>Soudan : que devient la population dans la guerre des généraux ?</title>
-                <description>Soudan : que devient la population dans la guerre des généraux ?
-Feed: https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_13305.xml</description>
+                <title>Le char de marge : 01/18/2026 18:00</title>
+                <description>637-352428
+Feed: http://podcast.cism893.ca/radioshows/637/feed_itunes.xml</description>
                 
                 
-                <link>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/soudan-que-devient-la-population-dans-la-guerre-des-generaux-1630191</link>
-                <enclosure type="audio/mpeg" length="1" url="https://proxycast.radiofrance.fr/fe65e175-3106-4dd4-a45c-47905feac516/13305-19.01.2026-ITEMA_24378568-2026C3305S0019-NET_MFC_43B1C69B-CA05-4040-AA10-72889C07E9E4-21-225a98ecee931f36e45da1831c1b53a0.mp3"/>
-                <guid>https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/soudan-que-devient-la-population-dans-la-guerre-des-generaux-1630191</guid>
+                <link>https://podcast.cism893.ca/podcast/download_mp3/352428.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast.cism893.ca/podcast/download_mp3/352428.mp3"/>
+                <guid>https://podcast.cism893.ca/podcast/download_mp3/352428.mp3</guid>
                 
             </item>
         </channel>
