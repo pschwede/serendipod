@@ -9,27 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 21 Jan 2026 04:51:07 +0200</lastBuildDate>
-            <item>
-                <title>Al margen de la ley - Promoción del 18 de enero</title>
-                <description>Promoción del 18 de enero
-Feed: http://www.rtve.es/api/programas/1000618/audios.rss</description>
-                
-                
-                <link>https://www.rtve.es/play/audios/al-margen-de-la-ley/promocion-juan-manuel-garcia-comportamiento/16894530/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16894530.mp3"/>
-                <guid>https://www.rtve.es/play/audios/al-margen-de-la-ley/promocion-juan-manuel-garcia-comportamiento/16894530/</guid>
-                
-            </item><item>
-                <title>WP-Bench: cuánto sabe la IA de WordPress</title>
-                <description>WP-Bench es una nueva herramienta de referencia para evaluar cómo los modelos de inteligencia artificial comprenden y trabajan con el ecosistema de WordPress.
-Feed: https://www.wppodcast.es/feed/podcast/</description>
-                
-                
-                <link>https://www.wppodcast.es/podcast/wp-bench-cuanto-sabe-la-ia-de-wordpress/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.wppodcast.es/podlove/file/344/s/feed/c/podcast/wordpress-podcast-e297.mp3"/>
-                <guid>https://www.wppodcast.es/podcast/wp-bench-cuanto-sabe-la-ia-de-wordpress/</guid>
-                
-            </item>
+            <lastBuildDate>Thu, 22 Jan 2026 04:53:10 +0200</lastBuildDate>
+            
         </channel>
 </rss>
