@@ -9,7 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 23 Jan 2026 04:50:00 +0200</lastBuildDate>
-            
+            <lastBuildDate>Sun, 25 Jan 2026 04:55:45 +0200</lastBuildDate>
+            <item>
+                <title>GR di venerdì 16/01 07:30 </title>
+                <description>GR di venerdì 16/01 07:30 
+Feed: http://www.radiopopolare.it/poplive/onair/podcast_rpondemand_gr.xml</description>
+                
+                
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pod.radiopopolare.it/notiziario-giornaleradio_16_01_2026_07_30.mp3"/>
+                <guid></guid>
+                
+            </item><item>
+                <title>Aus Open Tag 2: Swiatek und Andreeva mit Schwierigkeiten - Wawrinka verlängert Australien-Aufenthalt</title>
+                <description>Willkommen zur neuen Ausgabe von Chip &amp; Charge, dieses Mal mit dem zweiten Tag von den Australian Open 2026.
+Heute gab es in Melbourne weniger spektakuläre Matches als noch am Tag zuvor, lediglich einige kleinere und größere Überraschungen. Bei den Damen hatte Iga Swiatek ein paar Probleme mit ihrer Gegnerin Yue Yuan, vor allem beim zweiten Aufschlag. Letztlich gewann sie jedoch in zwei Sätzen. Nun geht es gegen Marie Bouzkova...
+Feed: https://meinsportpodcast.de/feed/</description>
+                
+                
+                <link>https://meinsportpodcast.de/chip-charge/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260364/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt.mp3?awCollectionId=10015&amp;awEpisodeId=260364"/>
+                <guid>https://meinsportpodcast.de/chip-charge/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt</guid>
+                
+            </item>
         </channel>
 </rss>

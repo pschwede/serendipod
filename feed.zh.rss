@@ -9,7 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 23 Jan 2026 04:50:03 +0200</lastBuildDate>
-            
+            <lastBuildDate>Sun, 25 Jan 2026 04:55:58 +0200</lastBuildDate>
+            <item>
+                <title>Die Arabella Nachrichten vom Sonntag, 25.01.2026 um 05:12 Uhr</title>
+                <description>Die aktuellen Nachrichten zum Nachhören
+Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
+                
+                
+                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-sonntag-25-01-2026-um-0512-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3065160_v9w53hh2vm716_lo4w7v2knuk22.mp3"/>
+                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-sonntag-25-01-2026-um-0512-uhr/</guid>
+                
+            </item><item>
+                <title>Le Best-of de Super Moscato Show du 1er janvier – 16h/17h</title>
+                <description>C’est le retour du Super Moscato en mode Coupe du Monde de Rugby avec Vincent Moscato, Stephen Brun, Éric Di Meco, Denis Charvet et Marion Bartoli. Au programme de cette deuxième heure: les meilleurs débats foot, rugby et omni sans oublier le Moscazap et la deuxième édition du Journal Moyen.
+Feed: https://feeds.simplecast.com/8bxI9MLf</description>
+                
+                
+                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/752ea657-14c4-4c22-a68c-bd9ab612a433/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=752ea657-14c4-4c22-a68c-bd9ab612a433&amp;category=Sports&amp;episode_published_at=2026-01-01T16%3A11%3A52&amp;episode_title=Le+Best-of+de+Super+Moscato+Show+du+1er+janvier+%E2%80%93+16h%2F17h&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
+                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
+                
+            </item>
         </channel>
 </rss>

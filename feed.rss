@@ -9,7 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 23 Jan 2026 04:49:56 +0200</lastBuildDate>
-            
+            <lastBuildDate>Sun, 25 Jan 2026 04:55:29 +0200</lastBuildDate>
+            <item>
+                <title>NDR 1 Radio MV Nachrichten</title>
+                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
+Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
+                
+                
+                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-396536.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0124/AU-20260124-1903-0900.mp3"/>
+                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-396536.html</guid>
+                
+            </item><item>
+                <title>本土野生捕捞还是亚洲人工养殖？科学家追溯“澳产海鲜”真实来源</title>
+                <description>在澳大利亚日长周末期间，海鲜销量大幅攀升，特别是在悉尼新开张的鱼市场。但我们付的钱，真的能买到名副其实的产品吗？每年，全球有数以百万计的人因食用不安全或受污染的食品而生病。其中一部分原因来自“食品欺诈”，即为牟取经济利益，故意销售假冒、标签不实或被替换的食品。澳大利亚科学家已经研发出新的技术手段，以应对这一规模达数十亿澳元的国际性问题。点击音频，收听完整报道。
+Feed: https://sbs-ondemand.streamguys1.com/sbs-mandarin/</description>
+                
+                
+                <link>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/do-you-know-where-your-food-is-really-from-this-australian-scientist-does/72f545gc9</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-mandarin/20260125130011-mandarin-07324dc4-3dbf-460d-80bc-560a5d2e29e4.mp3?awCollectionId=sbs-mandarin&amp;awGenre=News&amp;awEpisodeId=0000019b-f217-d46c-a9df-f2970be80000&amp;dur_cat=2"/>
+                <guid>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/do-you-know-where-your-food-is-really-from-this-australian-scientist-does/72f545gc9</guid>
+                
+            </item>
         </channel>
 </rss>

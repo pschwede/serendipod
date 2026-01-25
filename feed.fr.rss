@@ -9,7 +9,29 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 23 Jan 2026 04:49:59 +0200</lastBuildDate>
-            
+            <lastBuildDate>Sun, 25 Jan 2026 04:55:39 +0200</lastBuildDate>
+            <item>
+                <title>NDR Info Nachrichten</title>
+                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
+Feed: https://www.ndr.de/nachrichten/info/podcast4370.xml</description>
+                
+                
+                <link>https://www.ndr.de/nachrichten/info/ndr-info-nachrichten,audio-396730.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0125/AU-20260125-0534-2700.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/ndr-info-nachrichten,audio-396730.html</guid>
+                
+            </item><item>
+                <title>39c3 - Dresscodes</title>
+                <description>Sorry, leider immer noch krank und diese Woche gar keine Stimme.
+Also hier die Audio Version meines Klamotten Talks. Glaube mit Video besser: 
+https://media.ccc.de/v/39c3-och-menno-mode-power-cycles-power-suit-dresscodes-wtf
+Feed: https://www.ochmenno.cloud/feed.xml</description>
+                
+                
+                <link>https://www.ochmenno.cloud/e/39c3-dresscodes/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/85sju45v3szsqvh6/39c3-83757-deu-Och_Menno_Mode_Power_Cycles_Power_Suit_Dresscodes_WTF_mp3.mp3"/>
+                <guid>https://www.ochmenno.cloud/e/39c3-dresscodes/</guid>
+                
+            </item>
         </channel>
 </rss>
