@@ -9,28 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 25 Jan 2026 04:55:39 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 01 Feb 2026 05:24:26 +0200</lastBuildDate>
             <item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4370.xml</description>
+                <title>CrowdStrike: All Systems Down | Guarding the Cloud</title>
+                <description>In 2011, CrowdStrike launched with an innovative vision: using cloud-based software to provide cybersecurity. They attracted big clients, including Fortune 500 companies and critical government agencies. And along the way, they investigated notorious hacks, like the North Korean breach of Sony Pictures, and the 2016 hack of the Democratic National Committee. 
+But in 2024, they faced their biggest test of all, when a bug in their own software created the largest I.T outage in world history...
+Feed: https://rss.art19.com/business-wars</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/ndr-info-nachrichten,audio-396730.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0125/AU-20260125-0534-2700.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/ndr-info-nachrichten,audio-396730.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/9b4772d5-73d4-4e4d-af79-736f5f46c32c.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item><item>
-                <title>39c3 - Dresscodes</title>
-                <description>Sorry, leider immer noch krank und diese Woche gar keine Stimme.
-Also hier die Audio Version meines Klamotten Talks. Glaube mit Video besser: 
-https://media.ccc.de/v/39c3-och-menno-mode-power-cycles-power-suit-dresscodes-wtf
-Feed: https://www.ochmenno.cloud/feed.xml</description>
+                <title>Beyond Belief - Sunday 1st February 2026</title>
+                <description>Fr Brendan Quinlivan presents this Sunday&#39;s Beyon…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
                 
                 
-                <link>https://www.ochmenno.cloud/e/39c3-dresscodes/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/85sju45v3szsqvh6/39c3-83757-deu-Och_Menno_Mode_Power_Cycles_Power_Suit_Dresscodes_WTF_mp3.mp3"/>
-                <guid>https://www.ochmenno.cloud/e/39c3-dresscodes/</guid>
+                <link>https://soundcloud.com/clarefm/beyond-belief-sunday-1st</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2256481508-clarefm-beyond-belief-sunday-1st.mp3"/>
+                <guid>https://soundcloud.com/clarefm/beyond-belief-sunday-1st</guid>
                 
             </item>
         </channel>

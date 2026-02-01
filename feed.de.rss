@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 25 Jan 2026 04:55:35 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 01 Feb 2026 05:24:22 +0200</lastBuildDate>
             <item>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                
+                
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-403412.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0131/AU-20260131-1804-4300.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-403412.html</guid>
+                
+            </item><item>
                 <title>Das Masters kann endlich wieder Masters</title>
                 <description>Die letzten beiden Halbfinalplätze beim Masters gehen an Wu Yize und Kyren Wilson. Das Masters kann endlich wieder tolle Matches produzieren. Wu gewann mit 6:0 nach einer Sternstunde gegen Xiao Guodong, während sich Kyren Wilson am Abend gegen Neil Robertson durchbeißen musste. Das Match ging in einen Decider. Kathi und Chris fassen die gestrigen Duelle in London zusammen und schauen auf ein tolles Halbfinal-Lineup voraus.&lt;br&gt;&lt;p&gt;&lt;br&gt;Dieser Podcast wird vermarktet von der Podcastbude.&lt;br&gt;www...
 Feed: https://meinsportpodcast.de/fussball/druebergehalten/feed/</description>
@@ -19,16 +29,6 @@ Feed: https://meinsportpodcast.de/fussball/druebergehalten/feed/</description>
                 <link>https://meinsportpodcast.de/total-clearance/das-masters-kann-endlich-wieder-masters</link>
                 <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260078/das-masters-kann-endlich-wieder-masters.mp3?awCollectionId=10055&amp;awEpisodeId=260078"/>
                 <guid>https://meinsportpodcast.de/total-clearance/das-masters-kann-endlich-wieder-masters</guid>
-                
-            </item><item>
-                <title>Conquering Polio | The Cutter Fiasco</title>
-                <description>In April 1954, a group of first graders lined up in the gymnasium of an elementary school in McLean, Virginia for the start of the Salk polio vaccine trials. In an era before widespread federal government involvement in public health, the National Institute of Infantile Paralysis executed an unprecedented experiment involving nearly 2 million children and tens of thousands of doctors, nurses, and volunteers. It was the largest peacetime mobilization in American history...
-Feed: https://rss.art19.com/american-history-tellers</description>
-                
-                
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/mgln.ai/e/4/rss.art19.com/episodes/b23c9a0b-f290-434e-ad04-1709b1722cdd.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
                 
             </item>
         </channel>

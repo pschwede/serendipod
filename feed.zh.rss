@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 25 Jan 2026 04:55:58 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 01 Feb 2026 05:24:45 +0200</lastBuildDate>
             <item>
-                <title>Die Arabella Nachrichten vom Sonntag, 25.01.2026 um 05:12 Uhr</title>
-                <description>Die aktuellen Nachrichten zum Nachhören
-Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
+                <title>Une star de Ozark rejoint Charlize Theron dans un film à la Whiplash</title>
+                <description>Charlize Theron va donner la réplique à une star de Ozark dans son prochain film, entre drame et thriller, pour Prime Video.
+Feed: https://www.cineserie.com/feed/</description>
                 
                 
-                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-sonntag-25-01-2026-um-0512-uhr/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3065160_v9w53hh2vm716_lo4w7v2knuk22.mp3"/>
-                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-sonntag-25-01-2026-um-0512-uhr/</guid>
+                <link>https://www.cineserie.com/a-la-une/une-star-de-ozark-rejoint-charlize-theron-dans-un-film-a-la-whiplash-8652674/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://imgsrc.cineserie.com/2025/10/2676642-charlize-theron.png?width=&amp;height=&amp;aspect_ratio=:"/>
+                <guid>https://www.cineserie.com/a-la-une/une-star-de-ozark-rejoint-charlize-theron-dans-un-film-a-la-whiplash-8652674/</guid>
                 
             </item><item>
-                <title>Le Best-of de Super Moscato Show du 1er janvier – 16h/17h</title>
-                <description>C’est le retour du Super Moscato en mode Coupe du Monde de Rugby avec Vincent Moscato, Stephen Brun, Éric Di Meco, Denis Charvet et Marion Bartoli. Au programme de cette deuxième heure: les meilleurs débats foot, rugby et omni sans oublier le Moscazap et la deuxième édition du Journal Moyen.
-Feed: https://feeds.simplecast.com/8bxI9MLf</description>
+                <title>Das Masters kann endlich wieder Masters</title>
+                <description>Die letzten beiden Halbfinalplätze beim Masters gehen an Wu Yize und Kyren Wilson. Das Masters kann endlich wieder tolle Matches produzieren. Wu gewann mit 6:0 nach einer Sternstunde gegen Xiao Guodong, während sich Kyren Wilson am Abend gegen Neil Robertson durchbeißen musste. Das Match ging in einen Decider. Kathi und Chris fassen die gestrigen Duelle in London zusammen und schauen auf ein tolles Halbfinal-Lineup voraus.&lt;br&gt;&lt;p&gt;&lt;br&gt;Dieser Podcast wird vermarktet von der Podcastbude.&lt;br&gt;www...
+Feed: https://meinsportpodcast.de/fussball/druebergehalten/feed/</description>
                 
                 
-                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/752ea657-14c4-4c22-a68c-bd9ab612a433/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=752ea657-14c4-4c22-a68c-bd9ab612a433&amp;category=Sports&amp;episode_published_at=2026-01-01T16%3A11%3A52&amp;episode_title=Le+Best-of+de+Super+Moscato+Show+du+1er+janvier+%E2%80%93+16h%2F17h&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
-                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
+                <link>https://meinsportpodcast.de/total-clearance/das-masters-kann-endlich-wieder-masters</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260078/das-masters-kann-endlich-wieder-masters.mp3?awCollectionId=10055&amp;awEpisodeId=260078"/>
+                <guid>https://meinsportpodcast.de/total-clearance/das-masters-kann-endlich-wieder-masters</guid>
                 
             </item>
         </channel>
