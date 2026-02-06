@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 01 Feb 2026 05:24:39 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 06 Feb 2026 05:18:21 +0200</lastBuildDate>
             <item>
-                <title>Le Journal horaire de 5h00</title>
-                <description>
-Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29136557.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/60a887c5-f9b9-3967-9be1-93dfadd8d6a9/22dbdb18-3639-345e-921a-f8eb0cb42ead.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29136557.html</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-408762.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0206/AU-20260206-0502-4100.mp3"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-408762.html</guid>
                 
             </item><item>
-                <title>#170 Triathlon Chat: Die 20-Meter-Regel: Warum für Fred heute schon Weihnachten ist</title>
-                <description>Fred Funk ist zurück im Triathlonchat! Direkt aus dem Trainingslager auf Lanzarote schaltet sich Fred zu Nils (Fuerteventura) und Nick (Kölle), um über die wohl größte Neuigkeit der Woche zu sprechen: Die Einführung der 20-Meter-Regel bei Ironman.Fred verrät, warum diese Regeländerung für ihn wie „Weihnachten“ ist und wie sie die Renndynamik – besonders gegen die starken Norweger – komplett verändern könnte...
-Feed: https://meinsportpodcast.de/mixed-sport/feed/</description>
+                <title>Zukunft der Northeimer Wallanlagen: Bürger planen mit</title>
+                <description>Northeims grüner Gürtel soll ein neues Gesicht bekommen. Am Mittwoch, dem 4. Februar, fand dazu in der Stadthalle eine große Bürgerbeteiligung statt. Das Thema: Wie können die historischen Wallanlagen modernisiert und für die Zukunft fit gemacht werden? Charline Rekewitsch war bei der Veranstaltung vor Ort und hat mit dem beauftragten Planungsbüro LILASp über erste Konzeptideen gesprochen und nachgefragt, was den Northeimer*innen bei der Neugestaltung ihres Walls besonders wichtig ...
+Feed: http://www.stadtradio-goettingen.de/srg/podcast.xml</description>
                 
                 
-                <link>https://meinsportpodcast.de/mixed-sport/170-triathlon-chat-die-20-meter-regel-warum-fuer-fred-heute-schon-weihnachten-ist/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260715/170-triathlon-chat-die-20-meter-regel-warum-fuer-fred-heute-schon-weihnachten-ist.mp3?awCollectionId=00010035&amp;awEpisodeId=260715"/>
-                <guid>https://meinsportpodcast.de/mixed-sport/170-triathlon-chat-die-20-meter-regel-warum-fuer-fred-heute-schon-weihnachten-ist/</guid>
+                <link>https://www.stadtradio-goettingen.de/../beitraege/umwelt_und_verkehr/zukunft_der_northeimer_wallanlagen_buerger_planen_mit</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.stadtradio-goettingen.de/../beitraege/umwelt_und_verkehr/zukunft_der_northeimer_wallanlagen_buerger_planen_mit/fetchMP3playout.mp3"/>
+                <guid>https://www.stadtradio-goettingen.de/../beitraege/umwelt_und_verkehr/zukunft_der_northeimer_wallanlagen_buerger_planen_mit</guid>
                 
             </item>
         </channel>

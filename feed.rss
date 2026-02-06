@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 01 Feb 2026 05:24:15 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 06 Feb 2026 05:17:56 +0200</lastBuildDate>
             <item>
-                <title>Die Nachrichten vom 01.02.2026, 05:00 Uhr</title>
-                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
-Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
+                <title>TWiRT Ep. 786 - Ice Storm Recovery with Stan Carter &amp; Gibson Prichard</title>
+                <description>&lt;p&gt;Episode 786 of This Week in Radio Tech dives into the real-world engineering challenges and recoveries following a severe ice storm that slammed Mississippi, Tennessee, and northern Alabama. Host Kirk Harnack is joined by Stan Carter of K-LOVE and Air1 as well as Gibson Pritchard, Director of Engine....&lt;/p&gt;&lt;p&gt;This item belongs to: audio/gfqnetwork...
+Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/nachrichten-26372.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/02/01/nachrichten_dlf_20260201_0500_e35b8616.mp3?refId=nachrichten-108"/>
-                <guid>https://www.deutschlandfunk.de/nachrichten-26372.html</guid>
+                <link>https://archive.org/details/twirt786</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/twirt786/format=VBR+MP3&amp;ignore=x.mp3"/>
+                <guid>https://archive.org/details/twirt786</guid>
                 
             </item><item>
-                <title>Cathares, la foi traquée - 2/6</title>
-                <description>
-Pour écouter en une fois et sans pub, abonnez-vous ici : https://m.audiomeans.fr/s/S-tavkjvmo
- 
-2/6 - Cathares, la foi traquéeAu Moyen Âge, une foi chr...
-Feed: https://feeds.audiomeans.fr/feed/37944b5d-a1e1-466f-afe7-50ef2fa97d0c.xml</description>
+                <title>皇家鑄幣廠推英女王紀念幣 設計引熱議</title>
+                <description>皇家鑄幣廠（Royal Australian Mint）本星期推出兩款已故英女王伊利沙伯二世（Queen Elizabeth II）的新紀念幣，但其設計引起熱議。
+Feed: https://sbs-ondemand.streamguys1.com/sbs-cantonese/</description>
                 
                 
-                <link>https://podcasts.audiomeans.fr/timeline-5000-ans-dhistoire-integral-b4de9333/cathares-la-foi-traquee-26-4474f11d</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/4474f11d-3a01-47a4-bd62-e20ac1b65956.mp3?_=1769698349&amp;ps=37944b5d-a1e1-466f-afe7-50ef2fa97d0c"/>
-                <guid>https://podcasts.audiomeans.fr/timeline-5000-ans-dhistoire-integral-b4de9333/cathares-la-foi-traquee-26-4474f11d</guid>
+                <link>https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/queen-elizabeth-ii-commemorative-coins-met-with-mixed-response/wxaleh7fo</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-cantonese/20260206145212-cantonese-da5681f2-0fa9-40c0-a426-1f58ce6e9688.mp3?awCollectionId=sbs-cantonese&amp;awGenre=News&amp;awEpisodeId=0000019c-30ed-d092-abfd-78fdf2c10000&amp;dur_cat=2"/>
+                <guid>https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/queen-elizabeth-ii-commemorative-coins-met-with-mixed-response/wxaleh7fo</guid>
                 
             </item>
         </channel>
