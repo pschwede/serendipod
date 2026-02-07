@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 06 Feb 2026 05:18:25 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 07 Feb 2026 05:09:09 +0200</lastBuildDate>
             <item>
-                <title>Informativo Castilla y León Tarde 19:50 05/02/2026</title>
-                <description>null
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>China’s Climate and Air Quality Governance and EU-China Cooperation</title>
+                <description>When it comes to the global challenges posed by climate change and environmental issues, China has been presented both as a source of problems and a provider of solutions. In this episode, we examine the current state of China’s climate and environmental policies with Dr. Hermann Aubié, whose research focuses on China’s climate and air quality governance and its policy relevance for EU-China relations...
+Feed: https://feeds.megaphone.fm/LIT4543917034</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-castilla-leon-tarde-19-50-05-02-2026/16925651/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16925651.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-castilla-leon-tarde-19-50-05-02-2026/16925651/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NBNK9801599414.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>The quietest weapon in America’s loudest strike.</title>
-                <description>Cyber weapons knock out Iranian air defenses during strikes on nuclear sites. ShinyHunters dump more than a million stolen records from Harvard and Penn. Betterment confirms a breach exposing data from roughly 1.4 million accounts. Researchers uncover a sprawling scam network impersonating law firms. Italy blocks cyberattacks aimed at Olympics infrastructure. Critical bugs put n8n and Google Looker servers at risk of full takeover. A state-backed Shadow Campaign hits governments worldwide...
-Feed: https://feeds.megaphone.fm/cyberwire-daily-podcast</description>
+                <title>Kyren Wilson holt den zweiten Zacken der Krone</title>
+                <description>Kyren Wilson hat erstmals das Masters in London und damit seinen zweiten Titel bei einem Triple-Crown-Event gewonnen. Der Warrior behielt gegen Altmeister John Higgins mit 10:6 die Oberhand und krönte sich zum Champion des Einladungsturniers der Top 16. Im nicht immer hochklassigen und bisweilen seltsamen Match konnte Wilson stets ein Stück weit präsenter und souveräner agieren als sein Kontrahent. Higgins verpasste damit seine Chance auf einen dritten Titel beim Prestigeturnier...
+Feed: https://meinsportpodcast.de/motorsport/der-formel-1-podcast-diepodcastbros/feed/</description>
                 
                 
-                <link>https://www.thecyberwire.com/podcasts/daily-podcast/2483/notes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW7035325638.mp3?updated=1770324799"/>
-                <guid>https://www.thecyberwire.com/podcasts/daily-podcast/2483/notes</guid>
+                <link>https://meinsportpodcast.de/total-clearance/kyren-wilson-holt-den-zweiten-zacken-der-krone</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260115/kyren-wilson-holt-den-zweiten-zacken-der-krone.mp3?awCollectionId=10055&amp;awEpisodeId=260115"/>
+                <guid>https://meinsportpodcast.de/total-clearance/kyren-wilson-holt-den-zweiten-zacken-der-krone</guid>
                 
             </item>
         </channel>

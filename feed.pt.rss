@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 06 Feb 2026 05:18:21 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 07 Feb 2026 05:09:02 +0200</lastBuildDate>
             <item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
+                <title>Nachrichten 18:00 Uhr - 06.02.2026</title>
+                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
+Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-408762.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0206/AU-20260206-0502-4100.mp3"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-408762.html</guid>
+                <link>https://www.ndr.de/wellenord/nachrichten-1800-uhr-06022026,audio-409674.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0206/AU-20260206-1806-3000.mp3"/>
+                <guid>https://www.ndr.de/wellenord/nachrichten-1800-uhr-06022026,audio-409674.html</guid>
                 
             </item><item>
-                <title>Zukunft der Northeimer Wallanlagen: Bürger planen mit</title>
-                <description>Northeims grüner Gürtel soll ein neues Gesicht bekommen. Am Mittwoch, dem 4. Februar, fand dazu in der Stadthalle eine große Bürgerbeteiligung statt. Das Thema: Wie können die historischen Wallanlagen modernisiert und für die Zukunft fit gemacht werden? Charline Rekewitsch war bei der Veranstaltung vor Ort und hat mit dem beauftragten Planungsbüro LILASp über erste Konzeptideen gesprochen und nachgefragt, was den Northeimer*innen bei der Neugestaltung ihres Walls besonders wichtig ...
-Feed: http://www.stadtradio-goettingen.de/srg/podcast.xml</description>
+                <title>Patch or pull the plug.</title>
+                <description>CISA cracks down on aging edge devices. Congress looks to sure up energy sector security. DHS facial recognition software may fall short. Romania’s national oil pipeline operator suffers a cyberattack. The European Commission may fine TikTok for being addictive. DKnife is a China-linked threat actor operating a long-running adversary-in-the-middle framework. Researchers say OpenClaw is being abused at scale...
+Feed: https://feeds.megaphone.fm/cyberwire-daily-podcast</description>
                 
                 
-                <link>https://www.stadtradio-goettingen.de/../beitraege/umwelt_und_verkehr/zukunft_der_northeimer_wallanlagen_buerger_planen_mit</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.stadtradio-goettingen.de/../beitraege/umwelt_und_verkehr/zukunft_der_northeimer_wallanlagen_buerger_planen_mit/fetchMP3playout.mp3"/>
-                <guid>https://www.stadtradio-goettingen.de/../beitraege/umwelt_und_verkehr/zukunft_der_northeimer_wallanlagen_buerger_planen_mit</guid>
+                <link>https://www.thecyberwire.com/podcasts/daily-podcast/2484/notes</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW8070132806.mp3?updated=1770406311"/>
+                <guid>https://www.thecyberwire.com/podcasts/daily-podcast/2484/notes</guid>
                 
             </item>
         </channel>
