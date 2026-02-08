@@ -9,8 +9,18 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 07 Feb 2026 05:08:44 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 08 Feb 2026 05:26:41 +0200</lastBuildDate>
             <item>
+                <title>Ανταπόκριση-Δυτική Αυστραλία: Δωρεάν εγγραφές για το πιστοποιητικό μάθησης Ελληνικής γλώσσας</title>
+                <description>Ακούστε την ανταπόκριση από την Πέρθη
+Feed: https://sbs-ondemand.streamguys1.com/sbs-greek/</description>
+                
+                
+                <link>https://www.sbs.com.au/language/greek/el/podcast-episode/perth-greek-report-0802026/r80qx5p60</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-greek/20260208131413-greek-71038c64-e4d9-4e26-8b78-05a92fda9672.mp3?awCollectionId=sbs-greek&amp;awGenre=News&amp;awEpisodeId=0000019c-3af9-daff-a19e-3bfbb9e20000&amp;dur_cat=2"/>
+                <guid>https://www.sbs.com.au/language/greek/el/podcast-episode/perth-greek-report-0802026/r80qx5p60</guid>
+                
+            </item><item>
                 <title>Der Sumpf scheint kein Ende zu haben</title>
                 <description>Die Epstein-Akten
 Feed: https://feeds.acast.com/public/shows/45033096-220b-4490-b648-7e822e82ccde</description>
@@ -19,16 +29,6 @@ Feed: https://feeds.acast.com/public/shows/45033096-220b-4490-b648-7e822e82ccde<
                 <link>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/der-sumpf-scheint-kein-ende-zu-haben</link>
                 <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/mahlersmeinung-diepodcastkolumne/e/69847cce0489892b87d9f167/media.mp3"/>
                 <guid>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/der-sumpf-scheint-kein-ende-zu-haben</guid>
-                
-            </item><item>
-                <title>Clare FM Sideline View Friday February 6th</title>
-                <description>Coming up on the show, we look ahead to Clare&#39;s N…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
-                
-                
-                <link>https://soundcloud.com/clarefm/clare-fm-sideline-557170056</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2261419805-clarefm-clare-fm-sideline-557170056.mp3"/>
-                <guid>https://soundcloud.com/clarefm/clare-fm-sideline-557170056</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 07 Feb 2026 05:09:02 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 08 Feb 2026 05:27:01 +0200</lastBuildDate>
             <item>
-                <title>Nachrichten 18:00 Uhr - 06.02.2026</title>
-                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
-Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
+                <title>Buchkritik: &#34;Bauch, Beine, Poesie&#34; von Bettina Roßfeldt (Hg.)</title>
+                <description> von Billerbeck, Liane www.deutschlandfunkkultur.de, Studio 9 
+Feed: https://www.deutschlandfunkkultur.de/studio-102.xml</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/nachrichten-1800-uhr-06022026,audio-409674.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0206/AU-20260206-1806-3000.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-1800-uhr-06022026,audio-409674.html</guid>
+                <link>https://www.deutschlandfunkkultur.de/buchkritik-bauch-beine-poesie-von-bettina-rossfeldt-hg-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/02/07/buchkritik_bauch_beine_poesie_von_bettina_rossfeldt_hg_drk_20260207_0850_c21cd3a5.mp3?refId=studio-102"/>
+                <guid>https://www.deutschlandfunkkultur.de/buchkritik-bauch-beine-poesie-von-bettina-rossfeldt-hg-100.html</guid>
                 
             </item><item>
-                <title>Patch or pull the plug.</title>
-                <description>CISA cracks down on aging edge devices. Congress looks to sure up energy sector security. DHS facial recognition software may fall short. Romania’s national oil pipeline operator suffers a cyberattack. The European Commission may fine TikTok for being addictive. DKnife is a China-linked threat actor operating a long-running adversary-in-the-middle framework. Researchers say OpenClaw is being abused at scale...
-Feed: https://feeds.megaphone.fm/cyberwire-daily-podcast</description>
+                <title>Meet The Beat am Samstag, 07. Februar 2026</title>
+                <description>&lt;p&gt;This Is The Motown Sound - &lt;strong&gt;Folge 246&lt;/strong&gt;  Am 7. April 1981 erscheint in den USA das fünfte und erfolgreichste Album von &lt;strong&gt;Rick James&lt;/strong&gt; - &#34;&lt;strong&gt;Street Songs&lt;/strong&gt;&#34; wird mit Tracks wie &#34;Ghetto Life&#34; oder &#34;&lt;strong&gt;Super Freak&lt;/strong&gt;&#34; zu einer der meistverkauften Funk-LPs der frühen 80er Jahre. Ebenfalls aktuell im Plattenladen Ihrer Wahl: Neues von der &lt;strong&gt;Dazz Band&lt;/strong&gt; und das Debut der später noch sehr erfolgreichen Gruppe &lt;strong&gt;Debarge&lt;/strong&gt;...
+Feed: https://rdl.de/podcast</description>
                 
                 
-                <link>https://www.thecyberwire.com/podcasts/daily-podcast/2484/notes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW8070132806.mp3?updated=1770406311"/>
-                <guid>https://www.thecyberwire.com/podcasts/daily-podcast/2484/notes</guid>
+                <link>https://rdl.de/beitrag/meet-beat-am-samstag-07-februar-2026</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/02/20260207-meetthebeata-a25710.mp3"/>
+                <guid>https://rdl.de/beitrag/meet-beat-am-samstag-07-februar-2026</guid>
                 
             </item>
         </channel>

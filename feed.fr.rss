@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 07 Feb 2026 05:08:52 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 08 Feb 2026 05:26:46 +0200</lastBuildDate>
             <item>
-                <title>Nachrichten 18:00 Uhr - 06.02.2026</title>
-                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
-Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
+                <title> Kula Shaker ‘Lucky Number’ </title>
+                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
+Feed: https://feeds.kcrw.com/podcast/show/tu</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/nachrichten-1800-uhr-06022026,audio-409674.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0206/AU-20260206-1806-3000.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-1800-uhr-06022026,audio-409674.html</guid>
+                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
+                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
                 
             </item><item>
-                <title>Harrison Ford aime tellement Shrinking qu’il serait satisfait de finir sa carrière sur ce rôle</title>
-                <description>Harrison Ford a révélé qu’il serait satisfait de terminer sa carrière sur son rôle dans &#34;Shrinking&#34; tant il porte la série dans son cœur.
-Feed: https://www.cineserie.com/feed/</description>
+                <title>Europa! Europa Film Festival is back, con film italiani di ieri e di oggi (audio in inglese)</title>
+                <description>Torna il festival dedicato al cinema europeo contemporaneo, con 43 film provenienti da 22 Paesi europei. Ne abbiamo parlato con il direttore artistico Spiro Economopulos.
+Feed: https://sbs-ondemand.streamguys1.com/sbs-italian/</description>
                 
                 
-                <link>https://www.cineserie.com/news/series/harrison-ford-aime-tellement-shrinking-quil-serait-satisfait-de-finir-sa-carriere-sur-ce-role-8656647/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://imgsrc.cineserie.com/2026/02/shrinking_photo_030204.photo_modal_show_home_large.jpg?width=&amp;height=&amp;aspect_ratio=:"/>
-                <guid>https://www.cineserie.com/news/series/harrison-ford-aime-tellement-shrinking-quil-serait-satisfait-de-finir-sa-carriere-sur-ce-role-8656647/</guid>
+                <link>https://www.sbs.com.au/language/italian/it/podcast-episode/europa-europa-festival-is-back-con-film-italiani-di-ieri-e-di-oggi-audio-in-inglese/vvi4kkeev</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-italian/20260208100106-italian-2a929eba-6270-47e5-82b9-138d710275ca.mp3?awCollectionId=sbs-italian&amp;awGenre=News&amp;awEpisodeId=0000019c-3168-d092-abfd-79f8167f0003&amp;dur_cat=3"/>
+                <guid>https://www.sbs.com.au/language/italian/it/podcast-episode/europa-europa-festival-is-back-con-film-italiani-di-ieri-e-di-oggi-audio-in-inglese/vvi4kkeev</guid>
                 
             </item>
         </channel>
