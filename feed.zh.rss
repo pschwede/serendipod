@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Feb 2026 05:12:42 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 15 Feb 2026 05:22:08 +0200</lastBuildDate>
             <item>
-                <title>ERF Plus - Aktuell Fotoausstellung: Kampf gegen moderne Sklaverei</title>
-                <description>Fotograf Dietmar Roller bringt Licht in eine finstere Schattenwelt. (Autor: Miri Langenbach)
-Feed: https://feedpress.me/erf-plus-podcast</description>
+                <title>A.I. Images with Rick Smolan</title>
+                <description>Rick Smolan made his name in photography. While that’s not how he spends his time today, he’s got thoughts on image generation through A.I. He...
+Feed: https://www.macobserver.com/rss/dailyobservations_mp3.xml</description>
                 
                 
-                <link>https://feedpress.me/link/19281/17276097/6719-9088</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/19281/17276098/1120653.mp3"/>
-                <guid>https://feedpress.me/link/19281/17276097/6719-9088</guid>
+                <link>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/mp3.macobserver.com/podcast/dailyobservations/TMOShow-20240830.mp3"/>
+                <guid>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</guid>
                 
             </item><item>
-                <title>Total defense meets total threat.</title>
-                <description>Global leaders call for collaboration at the Munich Cyber Security Conference. Phishing campaigns exploit fake video conference invitations. Italian authorities say cyber attacks on the Winter Olympics have met overall mitigation. AI reshapes the economics of ransomware attacks. CISA tags a critical Microsoft Configuration Manager vulnerability. Foxveil is a new malware loader targeting legitimate platforms. Researchers examine macOS infostealers. California fines Disney $2...
-Feed: https://feeds.megaphone.fm/cyberwire-daily-podcast</description>
+                <title>The Buy Now Pay Later Takeover | No Interest</title>
+                <description>In the early 2000s, Sebastian Siemiatkowski identified a gap in Europe’s burgeoning ecommerce market — consumers were hesitant to buy products sight unseen. Siemiatkowski’s new company would front the bill and give consumers 30 days to pay. The concept caught on and helped kick off the modern Buy Now, Pay Later industry. And after conquering Europe, Siemiatkowski’s Klarna set its sights on the U.S., determined to disrupt the credit card industry.  
+See Privacy Policy at https://art19...
+Feed: https://rss.art19.com/business-wars</description>
                 
                 
-                <link>https://www.thecyberwire.com/podcasts/daily-podcast/2489/notes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW9990618987.mp3?updated=1771012807"/>
-                <guid>https://www.thecyberwire.com/podcasts/daily-podcast/2489/notes</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/40ade21c-7ed9-4764-a8d0-cdbd980632d5.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item>
         </channel>

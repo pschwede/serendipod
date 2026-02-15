@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Feb 2026 05:12:17 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 15 Feb 2026 05:21:49 +0200</lastBuildDate>
             <item>
-                <title>»Über das Lieben in unruhigen Zeiten«, Sondersendung Valentinstag</title>
-                <description>14.02.2026 - Statt klassischer Valentins-Romantik Analyse der Aufmerksamkeit
-Feed: https://cba.media/feed</description>
+                <title>Nachrichten 18:00 Uhr - 14.02.2026</title>
+                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
+Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
                 
                 
-                <link>https://cba.media/758298</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/5/9/0000758295/2026-sondersendung-valentinstag.mp3"/>
-                <guid>https://cba.media/758298</guid>
+                <link>https://www.ndr.de/wellenord/nachrichten-1800-uhr-14022026,audio-416830.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0214/AU-20260214-1805-2900.mp3"/>
+                <guid>https://www.ndr.de/wellenord/nachrichten-1800-uhr-14022026,audio-416830.html</guid>
                 
             </item><item>
-                <title>«Перший міністр оборони, який озвучив проблеми»: політолог про призначення Михайла Федорова</title>
-                <description>Михайло Федоров – новий міністр оборони, а Денис …
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:55012225/sounds.rss</description>
+                <title> Kula Shaker ‘Lucky Number’ </title>
+                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
+Feed: https://feeds.kcrw.com/podcast/show/tu</description>
                 
                 
-                <link>https://soundcloud.com/hromadske-radio/pershij-ministr-oboroni-yakij</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2261938775-hromadske-radio-pershij-ministr-oboroni-yakij.mp3"/>
-                <guid>https://soundcloud.com/hromadske-radio/pershij-ministr-oboroni-yakij</guid>
+                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
+                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
                 
             </item>
         </channel>

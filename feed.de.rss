@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Feb 2026 05:12:26 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 15 Feb 2026 05:21:53 +0200</lastBuildDate>
             <item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
+                <title>Beyond Belief - Sunday 15th February 2025</title>
+                <description>Stephen Fletcher presents Beyond Belief for this …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/ndr-info-nachrichten,audio-416426.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0214/AU-20260214-0503-2800.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/ndr-info-nachrichten,audio-416426.html</guid>
+                <link>https://soundcloud.com/clarefm/beyond-belief-sunday-15th</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2266659683-clarefm-beyond-belief-sunday-15th.mp3"/>
+                <guid>https://soundcloud.com/clarefm/beyond-belief-sunday-15th</guid>
                 
             </item><item>
-                <title>Kyren Wilson holt den zweiten Zacken der Krone</title>
-                <description>Kyren Wilson hat erstmals das Masters in London und damit seinen zweiten Titel bei einem Triple-Crown-Event gewonnen. Der Warrior behielt gegen Altmeister John Higgins mit 10:6 die Oberhand und krönte sich zum Champion des Einladungsturniers der Top 16. Im nicht immer hochklassigen und bisweilen seltsamen Match konnte Wilson stets ein Stück weit präsenter und souveräner agieren als sein Kontrahent. Higgins verpasste damit seine Chance auf einen dritten Titel beim Prestigeturnier...
-Feed: https://meinsportpodcast.de/motorsport/der-formel-1-podcast-diepodcastbros/feed/</description>
+                <title>The Librarians: Censorship Comes for Democracy</title>
+                <description>Inside the fight over books, schools, and power: A conversation with Kim Snyder, director of ⁠The Librarians⁠
+Feed: https://flux.community/podcasts/all-shows/resources/xml/flux.xml</description>
                 
                 
-                <link>https://meinsportpodcast.de/total-clearance/kyren-wilson-holt-den-zweiten-zacken-der-krone</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260115/kyren-wilson-holt-den-zweiten-zacken-der-krone.mp3?awCollectionId=10055&amp;awEpisodeId=260115"/>
-                <guid>https://meinsportpodcast.de/total-clearance/kyren-wilson-holt-den-zweiten-zacken-der-krone</guid>
+                <link>https://www.electorette.com/podcast</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/ELECTORETTE7186119919.mp3"/>
+                <guid>https://www.electorette.com/podcast</guid>
                 
             </item>
         </channel>

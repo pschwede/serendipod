@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Feb 2026 05:12:34 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 15 Feb 2026 05:22:01 +0200</lastBuildDate>
             <item>
-                <title>NDR 1 Radio MV Nachrichten</title>
-                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
-Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
+                <title>&#34;Quando arrivai, non sapevo niente della cultura australiana&#34;</title>
+                <description>Seconda parte del racconto di vita di Alessandra Golisano, in Australia da quasi sessant&#39;anni, che ai microfoni di SBS Italian riflette su quanto i giovani oggi arrivino più preparati e con strumenti migliori.
+Feed: https://sbs-ondemand.streamguys1.com/sbs-italian/</description>
                 
                 
-                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-416216.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0213/AU-20260213-1904-4600.mp3"/>
-                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-416216.html</guid>
+                <link>https://www.sbs.com.au/language/italian/it/podcast-episode/quando-arrivai-non-sapevo-niente-della-cultura-australiana/lj4f4njgx</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/a-life-a-story/20260215112913-italian-85d2e00e-2bb1-49ef-9385-8960461d2186.mp3?awCollectionId=sbs-italian&amp;awGenre=NEWS&amp;awEpisodeId=0000019c-4fd1-d2a3-a1ff-4ff37d910000&amp;dur_cat=3"/>
+                <guid>https://www.sbs.com.au/language/italian/it/podcast-episode/quando-arrivai-non-sapevo-niente-della-cultura-australiana/lj4f4njgx</guid>
                 
             </item><item>
-                <title>Safe and Sound Strategies for a Liver Cleansing</title>
-                <description>&lt;p&gt;So lots of our fitness troubles currently have their root reasons in a poor health liver that&#39;s congested. Our structures are genuinely swamped with poisonous materials on a day by day foundation, and when you consider that the primary activity with the liver is to purge some of these poisons, for almost all people specifically as we begin to become older the liver turns into swamped from this accumulation of sludge...
-Feed: https://media.rss.com/nutri-management/feed.xml</description>
+                <title>NDR Info Nachrichten</title>
+                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
+Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
                 
                 
-                <link>https://rss.com/podcasts/nutri-management/2449431</link>
-                <enclosure type="audio/mpeg" length="1" url="https://content.rss.com/episodes/222882/2449431/nutri-management/2026_01_09_10_18_09_ed707422-4dc4-435f-9695-daad2282a5af.mp3"/>
-                <guid>https://rss.com/podcasts/nutri-management/2449431</guid>
+                <link>https://www.ndr.de/nachrichten/info/ndr-info-nachrichten,audio-416994.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0215/AU-20260215-0503-2600.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/ndr-info-nachrichten,audio-416994.html</guid>
                 
             </item>
         </channel>
