@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 15 Feb 2026 05:21:49 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 17 Feb 2026 05:23:57 +0200</lastBuildDate>
             <item>
-                <title>Nachrichten 18:00 Uhr - 14.02.2026</title>
-                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
-Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
+                <title>A.I. Images with Rick Smolan</title>
+                <description>Rick Smolan made his name in photography. While that’s not how he spends his time today, he’s got thoughts on image generation through A.I. He...
+Feed: https://www.macobserver.com/rss/dailyobservations_mp3.xml</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/nachrichten-1800-uhr-14022026,audio-416830.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0214/AU-20260214-1805-2900.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-1800-uhr-14022026,audio-416830.html</guid>
+                <link>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/mp3.macobserver.com/podcast/dailyobservations/TMOShow-20240830.mp3"/>
+                <guid>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</guid>
                 
             </item><item>
-                <title> Kula Shaker ‘Lucky Number’ </title>
-                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
-Feed: https://feeds.kcrw.com/podcast/show/tu</description>
+                <title>Bert Herzog: Der Sprecher als Hörer</title>
+                <description>Aus den Kindertagen des Radios
+Feed: https://letscast.fm/podcasts/zeitrisse-4798c07b/feed</description>
                 
                 
-                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
-                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
+                <link>https://letscast.fm/sites/zeitrisse-4798c07b/episode/bert-herzog-der-sprecher-als-hoerer</link>
+                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/a075a7ba/episode/c9e9bfcd.mp3?t=1770755101&amp;awCollectionId=80000179&amp;awEpisodeId=c9e9bfcd"/>
+                <guid>https://letscast.fm/sites/zeitrisse-4798c07b/episode/bert-herzog-der-sprecher-als-hoerer</guid>
                 
             </item>
         </channel>

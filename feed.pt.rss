@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 15 Feb 2026 05:22:05 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 17 Feb 2026 05:24:19 +0200</lastBuildDate>
             <item>
-                <title>Πέρθη-Ανταπόκριση: Η ελληνική γλώσσα στο επίκεντρο των παροικιακών δράσεων</title>
-                <description>Η διαχρονική αξία της ελληνικής γλώσσας και ο ρόλος της ως θεμέλιο πολιτισμού, ταυτότητας και συνέχειας της ομογένειας αναδείχθηκαν σε εκδήλωση στο Περθ.
-Feed: https://sbs-ondemand.streamguys1.com/sbs-greek/</description>
+                <title>In The Garden: Making A Wild Flower Garden</title>
+                <description>Judy Beck from Clonroad Garden Centre joined Sall…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
                 
                 
-                <link>https://www.sbs.com.au/language/greek/el/podcast-episode/the-greek-language-at-the-heart-of-community-activities/1sy9nmbbl</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-greek/20260215153902-greek-97c203a8-a9ba-4cd2-83e7-bc88329f9a8d.mp3?awCollectionId=sbs-greek&amp;awGenre=News&amp;awEpisodeId=0000019c-5f85-d2a3-a1ff-5fe747570005&amp;dur_cat=2"/>
-                <guid>https://www.sbs.com.au/language/greek/el/podcast-episode/the-greek-language-at-the-heart-of-community-activities/1sy9nmbbl</guid>
+                <link>https://soundcloud.com/clarefm/in-the-garden-making-a-wild</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2267561684-clarefm-in-the-garden-making-a-wild.mp3"/>
+                <guid>https://soundcloud.com/clarefm/in-the-garden-making-a-wild</guid>
                 
             </item><item>
-                <title>NDR 1 Radio MV Nachrichten</title>
-                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
-Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
+                <title>Bert Herzog: Der Sprecher als Hörer</title>
+                <description>Aus den Kindertagen des Radios
+Feed: https://letscast.fm/podcasts/zeitrisse-4798c07b/feed</description>
                 
                 
-                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-416848.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0214/AU-20260214-1904-5500.mp3"/>
-                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-416848.html</guid>
+                <link>https://letscast.fm/sites/zeitrisse-4798c07b/episode/bert-herzog-der-sprecher-als-hoerer</link>
+                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/a075a7ba/episode/c9e9bfcd.mp3?t=1770755101&amp;awCollectionId=80000179&amp;awEpisodeId=c9e9bfcd"/>
+                <guid>https://letscast.fm/sites/zeitrisse-4798c07b/episode/bert-herzog-der-sprecher-als-hoerer</guid>
                 
             </item>
         </channel>
