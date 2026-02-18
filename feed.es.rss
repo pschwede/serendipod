@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 17 Feb 2026 05:24:16 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 18 Feb 2026 05:25:45 +0200</lastBuildDate>
             <item>
-                <title>A.I. Images with Rick Smolan</title>
-                <description>Rick Smolan made his name in photography. While that’s not how he spends his time today, he’s got thoughts on image generation through A.I. He...
-Feed: https://www.macobserver.com/rss/dailyobservations_mp3.xml</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/mp3.macobserver.com/podcast/dailyobservations/TMOShow-20240830.mp3"/>
-                <guid>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-419786.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0218/AU-20260218-0605-5700.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-419786.html</guid>
                 
             </item><item>
-                <title>【SBS新闻快报】先涨价再打折 Coles虚假折扣案进入庭审第二天</title>
-                <description>2026年2月17日午间：Coles被指在245种商品上提供“虚假”折扣、误导消费者，相关案件于本周在澳大利亚联邦法院开庭审理。若败诉，Coles可能面临巨额罚款，但公司已强烈否认相关指控（收听播客，了解详情）。
-Feed: https://sbs-ondemand.streamguys1.com/sbs-mandarin/</description>
+                <title>Nouveauté : les prods de Susan du mardi 17 février</title>
+                <description>Tous les soirs, retrouvez le meilleur des productions à but humoristiques de notre réalisatrice
+
+Feed: https://feeds.simplecast.com/8bxI9MLf</description>
                 
                 
-                <link>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/sbs-news-flash-in-mandarin-accc-coles-misleading-discounts-allegations-federal-court-case/8c97gt87q</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/mandarin-news-flash/20260217123037-mandarin-a3d42ca7-5f84-47e0-9b6b-24b5cfb1099e.mp3?awCollectionId=sbs-mandarin&amp;awGenre=News&amp;awEpisodeId=0000019c-68a5-d75b-a5fe-7be516610000&amp;dur_cat=2"/>
-                <guid>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/sbs-news-flash-in-mandarin-accc-coles-misleading-discounts-allegations-federal-court-case/8c97gt87q</guid>
+                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/9730cfe8-e253-4c9d-9933-8e88de9ab75a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=9730cfe8-e253-4c9d-9933-8e88de9ab75a&amp;category=Sports&amp;episode_published_at=2026-02-17T17%3A40%3A01&amp;episode_title=Nouveaut%C3%A9+%3A+les+prods+de+Susan+du+mardi+17+f%C3%A9vrier&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
+                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
                 
             </item>
         </channel>

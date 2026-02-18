@@ -9,34 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 17 Feb 2026 05:24:26 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 18 Feb 2026 05:26:07 +0200</lastBuildDate>
             <item>
-                <title>Echoes 006 mixed by Gerry Verano</title>
-                <description>17.02.2026 - Episode 6 of Echoes delivers another powerful two-hour journey through the emotional landscapes of Melodic House &amp;amp; Techno. Deep grooves, evolving melodies, and driving rhythms come together in a seamless flow that builds intensity while...
-Feed: https://cba.media/feed</description>
+                <title>Le Journal horaire de 5h00</title>
+                <description>
+Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
                 
                 
-                <link>https://cba.media/758993</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/2/9/0000758992/echoes-006.mp3"/>
-                <guid>https://cba.media/758993</guid>
+                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29155372.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/f1b62035-0af5-368c-90c1-4d2a8aa75faa/e8189d6e-cbdc-3b70-83c5-120aabdb3450.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29155372.html</guid>
                 
             </item><item>
-                <title>Die Nachrichten für Leipzig (16.02.2026, 18 Uhr)</title>
-                <description>Aktuelle Nachrichten für Leipzig, gesendet bei mephisto 97.6 am 16.02.2026 um 18 Uhr.
-Redaktion: Victoria Rehmuß, Klara Binning
-Sprecher: Fabian Schaar
-Falls ihr mehr von uns hören wollt, schaut gerne auf unseren Social-Media-Kanälen vorbei:
-Instagram: instagram.com/mephisto976
-Threads: www.threads.com/@mephisto976
-Mastodon: mastodon.social/@mephisto976
-Bluesky: bsky.app/profile/mephisto976.bsky.social
-
-Feed: https://mephisto976.podcaster.de/mephisto976-nachrichten.rss</description>
+                <title>NDR 1 Radio MV Nachrichten</title>
+                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
+Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
                 
                 
-                <link>https://mephisto976.podcaster.de/mephisto976-nachrichten/die-nachrichten-fuer-leipzig-16022026-18-uhr/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mephisto976.podcaster.de/mephisto976-nachrichten/media/1602_Nachrichten_1800.mp3"/>
-                <guid>https://mephisto976.podcaster.de/mephisto976-nachrichten/die-nachrichten-fuer-leipzig-16022026-18-uhr/</guid>
+                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-419728.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0218/AU-20260218-0502-1200.mp3"/>
+                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-419728.html</guid>
                 
             </item>
         </channel>

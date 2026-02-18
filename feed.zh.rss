@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 17 Feb 2026 05:24:22 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 18 Feb 2026 05:25:55 +0200</lastBuildDate>
             <item>
-                <title>St. Valentines Day Massacre | Public Enemy No. 1</title>
-                <description>On Valentine’s Day 1929, seven men were gunned down in a Chicago garage in an attack that stunned the nation. Photographs of the bloody scene appeared on front pages across the country, and the public reacted with horror. Even in Chicago—a city hardened by daily gang violence—the message was clear: this was different.
-City officials were under intense pressure to respond, and suspicion quickly fell on the city’s most powerful gang leader, Al Capone...
-Feed: https://rss.art19.com/american-history-tellers</description>
+                <title>Bert Herzog: Der Sprecher als Hörer</title>
+                <description>Aus den Kindertagen des Radios
+Feed: https://letscast.fm/podcasts/zeitrisse-4798c07b/feed</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/mgln.ai/e/4/rss.art19.com/episodes/45d01778-595a-4779-8b79-0cb29433d081.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://letscast.fm/sites/zeitrisse-4798c07b/episode/bert-herzog-der-sprecher-als-hoerer</link>
+                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/a075a7ba/episode/c9e9bfcd.mp3?t=1770755101&amp;awCollectionId=80000179&amp;awEpisodeId=c9e9bfcd"/>
+                <guid>https://letscast.fm/sites/zeitrisse-4798c07b/episode/bert-herzog-der-sprecher-als-hoerer</guid>
                 
             </item><item>
-                <title>The Librarians: Censorship Comes for Democracy</title>
-                <description>Inside the fight over books, schools, and power: A conversation with Kim Snyder, director of ⁠The Librarians⁠
-Feed: https://flux.community/podcasts/all-shows/resources/xml/flux.xml</description>
+                <title>Bessere Mobilität und Kinderbetreuung, lebendige Innenstadt und Modernisierung der Stadtverwaltung: René Kopka tritt für die SPD zur Bürgermeisterwahl in Einbeck an</title>
+                <description>Einbeck steht politisch vor einer wichtigen Entscheidung: Bei der Bürgermeisterwahl im September wird Amtsinhaberin Dr. Sabine Michalek nicht nochmal antreten. Für die SPD wird René Kopka ins Rennen gehen. Der 48- Jährige ist in Einbeck aufgewachsen, war viele Jahre kommunalpolitisch aktiv und sitzt seit 2022 als Abgeordneter im Niedersächsischen Landtag. Im Gespräch mit Carolin Zarske erzählt er von seiner Motivation, seinen Pläne für Einbeck und wofür er sich als Bürgermeister ...
+Feed: http://www.stadtradio-goettingen.de/srg/podcast.xml</description>
                 
                 
-                <link>https://www.electorette.com/podcast</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/ELECTORETTE7186119919.mp3"/>
-                <guid>https://www.electorette.com/podcast</guid>
+                <link>https://www.stadtradio-goettingen.de/../beitraege/politik/bessere_mobilitaet_und_kinderbetreuung_lebendige_innenstadt_und_modernisierung_der_stadtverwaltung_ren_kopka_tritt_fuer_die_spd_zur_buergermeisterwahl_in_einbeck_an</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.stadtradio-goettingen.de/../beitraege/politik/bessere_mobilitaet_und_kinderbetreuung_lebendige_innenstadt_und_modernisierung_der_stadtverwaltung_ren_kopka_tritt_fuer_die_spd_zur_buergermeisterwahl_in_einbeck_an/fetchMP3playout.mp3"/>
+                <guid>https://www.stadtradio-goettingen.de/../beitraege/politik/bessere_mobilitaet_und_kinderbetreuung_lebendige_innenstadt_und_modernisierung_der_stadtverwaltung_ren_kopka_tritt_fuer_die_spd_zur_buergermeisterwahl_in_einbeck_an</guid>
                 
             </item>
         </channel>

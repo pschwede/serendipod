@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 17 Feb 2026 05:24:12 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 18 Feb 2026 05:25:40 +0200</lastBuildDate>
             <item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>ERF Plus - Anstoß Lichtblicke im Februar</title>
+                <description>Gedanken von Ellen Hörder-Knop zum Bibeltext 1. Petrus 2,9 (Autor: Ellen Hörder-Knop)
+Feed: https://feedpress.me/erf-plus-podcast</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-418330.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0216/AU-20260216-1808-2000.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-418330.html</guid>
+                <link>https://feedpress.me/link/19281/17278221/72-8064</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/19281/17278222/1120428.mp3"/>
+                <guid>https://feedpress.me/link/19281/17278221/72-8064</guid>
                 
             </item><item>
-                <title>Rosenmontag im Schnee: Die Narren stürmen das Historische Rathaus in Duderstadt</title>
-                <description>Rosenmontag in der Region. Traditionell ist da in Duderstadt beim Rathaussturm viel los. Nico Mader war vor Ort, als die Schlüssel gerade an die Narren gegangen sind.
-Feed: http://www.stadtradio-goettingen.de/srg/podcast.xml</description>
+                <title>Safe and Sound Strategies for a Liver Cleansing</title>
+                <description>&lt;p&gt;So lots of our fitness troubles currently have their root reasons in a poor health liver that&#39;s congested. Our structures are genuinely swamped with poisonous materials on a day by day foundation, and when you consider that the primary activity with the liver is to purge some of these poisons, for almost all people specifically as we begin to become older the liver turns into swamped from this accumulation of sludge...
+Feed: https://media.rss.com/nutri-management/feed.xml</description>
                 
                 
-                <link>https://www.stadtradio-goettingen.de/beitraege/kultur/rosenmontag_im_schnee_die_narren_stuermen_das_historische_rathaus_in_duderstadt/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.stadtradio-goettingen.de/beitraege/kultur/rosenmontag_im_schnee_die_narren_stuermen_das_historische_rathaus_in_duderstadt//fetchMP3playout.mp3"/>
-                <guid>https://www.stadtradio-goettingen.de/beitraege/kultur/rosenmontag_im_schnee_die_narren_stuermen_das_historische_rathaus_in_duderstadt/</guid>
+                <link>https://rss.com/podcasts/nutri-management/2449431</link>
+                <enclosure type="audio/mpeg" length="1" url="https://content.rss.com/episodes/222882/2449431/nutri-management/2026_01_09_10_18_09_ed707422-4dc4-435f-9695-daad2282a5af.mp3"/>
+                <guid>https://rss.com/podcasts/nutri-management/2449431</guid>
                 
             </item>
         </channel>

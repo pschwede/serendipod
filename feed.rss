@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 17 Feb 2026 05:23:57 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 18 Feb 2026 05:25:30 +0200</lastBuildDate>
             <item>
-                <title>A.I. Images with Rick Smolan</title>
-                <description>Rick Smolan made his name in photography. While that’s not how he spends his time today, he’s got thoughts on image generation through A.I. He...
-Feed: https://www.macobserver.com/rss/dailyobservations_mp3.xml</description>
+                <title>Informativo Castilla y León Tarde 19:50 17/02/2026</title>
+                <description>null
+Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
                 
                 
-                <link>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/mp3.macobserver.com/podcast/dailyobservations/TMOShow-20240830.mp3"/>
-                <guid>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</guid>
+                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-castilla-leon-tarde-19-50-17-02-2026/16942534/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16942534.mp3"/>
+                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-castilla-leon-tarde-19-50-17-02-2026/16942534/</guid>
                 
             </item><item>
-                <title>Bert Herzog: Der Sprecher als Hörer</title>
-                <description>Aus den Kindertagen des Radios
-Feed: https://letscast.fm/podcasts/zeitrisse-4798c07b/feed</description>
+                <title>Orbán Bori: &amp;#8222;amikor az Ő dalait énekelem&amp;#8230;&amp;#8220;</title>
+                <description>17.02.2026 - Orbán Bori a szentendrei Vujicsics Tihamér Zeneiskolában 7 éven keresztül Szvorák Katalin tanítványa volt. Ezt követően a váci Pikéthy Tibor Konzervatóriumban jazz ének szakon végzett. Gyerekként évekig énekelt a Kecskés...
+Feed: https://cba.media/feed</description>
                 
                 
-                <link>https://letscast.fm/sites/zeitrisse-4798c07b/episode/bert-herzog-der-sprecher-als-hoerer</link>
-                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/a075a7ba/episode/c9e9bfcd.mp3?t=1770755101&amp;awCollectionId=80000179&amp;awEpisodeId=c9e9bfcd"/>
-                <guid>https://letscast.fm/sites/zeitrisse-4798c07b/episode/bert-herzog-der-sprecher-als-hoerer</guid>
+                <link>https://cba.media/759370</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/7/6/0000759367/0221-1000-az-ajto-orban-bori.mp3"/>
+                <guid>https://cba.media/759370</guid>
                 
             </item>
         </channel>
