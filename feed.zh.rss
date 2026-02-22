@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 18 Feb 2026 05:25:55 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 22 Feb 2026 05:18:26 +0200</lastBuildDate>
             <item>
-                <title>Bert Herzog: Der Sprecher als Hörer</title>
-                <description>Aus den Kindertagen des Radios
-Feed: https://letscast.fm/podcasts/zeitrisse-4798c07b/feed</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://letscast.fm/sites/zeitrisse-4798c07b/episode/bert-herzog-der-sprecher-als-hoerer</link>
-                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/a075a7ba/episode/c9e9bfcd.mp3?t=1770755101&amp;awCollectionId=80000179&amp;awEpisodeId=c9e9bfcd"/>
-                <guid>https://letscast.fm/sites/zeitrisse-4798c07b/episode/bert-herzog-der-sprecher-als-hoerer</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-423724.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0222/AU-20260222-0446-4400.mp3"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-423724.html</guid>
                 
             </item><item>
-                <title>Bessere Mobilität und Kinderbetreuung, lebendige Innenstadt und Modernisierung der Stadtverwaltung: René Kopka tritt für die SPD zur Bürgermeisterwahl in Einbeck an</title>
-                <description>Einbeck steht politisch vor einer wichtigen Entscheidung: Bei der Bürgermeisterwahl im September wird Amtsinhaberin Dr. Sabine Michalek nicht nochmal antreten. Für die SPD wird René Kopka ins Rennen gehen. Der 48- Jährige ist in Einbeck aufgewachsen, war viele Jahre kommunalpolitisch aktiv und sitzt seit 2022 als Abgeordneter im Niedersächsischen Landtag. Im Gespräch mit Carolin Zarske erzählt er von seiner Motivation, seinen Pläne für Einbeck und wofür er sich als Bürgermeister ...
-Feed: http://www.stadtradio-goettingen.de/srg/podcast.xml</description>
+                <title>20 qualities for a successful life</title>
+                <description>&lt;p dir=&#34;ltr&#34;&gt;We often wonder how a person can be so successful in life! Is it because he inherited the success or is it because of his unique character? There are certain traits that we can adopt in order to be successful in life. These are:&lt;/p&gt; &lt;p&gt; &lt;/p&gt;
+Feed: https://feeds.libsyn.com/585395/rss</description>
                 
                 
-                <link>https://www.stadtradio-goettingen.de/../beitraege/politik/bessere_mobilitaet_und_kinderbetreuung_lebendige_innenstadt_und_modernisierung_der_stadtverwaltung_ren_kopka_tritt_fuer_die_spd_zur_buergermeisterwahl_in_einbeck_an</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.stadtradio-goettingen.de/../beitraege/politik/bessere_mobilitaet_und_kinderbetreuung_lebendige_innenstadt_und_modernisierung_der_stadtverwaltung_ren_kopka_tritt_fuer_die_spd_zur_buergermeisterwahl_in_einbeck_an/fetchMP3playout.mp3"/>
-                <guid>https://www.stadtradio-goettingen.de/../beitraege/politik/bessere_mobilitaet_und_kinderbetreuung_lebendige_innenstadt_und_modernisierung_der_stadtverwaltung_ren_kopka_tritt_fuer_die_spd_zur_buergermeisterwahl_in_einbeck_an</guid>
+                <link>https://389a70c0-7718-4643-9a79-5d57764e5f01.libsyn.com/20-qualities-for-a-successful-life</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/389a70c0-7718-4643-9a79-5d57764e5f01/20_qualities_for_a_successful_life.mp3?dest-id=5078915"/>
+                <guid>https://389a70c0-7718-4643-9a79-5d57764e5f01.libsyn.com/20-qualities-for-a-successful-life</guid>
                 
             </item>
         </channel>

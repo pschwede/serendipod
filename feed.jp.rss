@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 18 Feb 2026 05:26:07 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 22 Feb 2026 05:18:30 +0200</lastBuildDate>
             <item>
-                <title>Le Journal horaire de 5h00</title>
-                <description>
-Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
+                <title>SBS廣東話新聞（2026 年 2 月 22 日）</title>
+                <description>2026 年 2 月 22 日 SBS 廣東話節目詳盡早晨新聞報道。
+Feed: https://sbs-ondemand.streamguys1.com/sbs-cantonese/</description>
                 
                 
-                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29155372.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/f1b62035-0af5-368c-90c1-4d2a8aa75faa/e8189d6e-cbdc-3b70-83c5-120aabdb3450.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29155372.html</guid>
+                <link>https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantponese-new-bulletin-20260222/gy380ks6l</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-cantonese/20260222113104-cantonese-3a0622fd-4700-4d7f-b448-f75850e9e625.mp3?awCollectionId=sbs-cantonese&amp;awGenre=News&amp;awEpisodeId=0000019c-8298-d75b-a5fe-dbfc36050006&amp;dur_cat=3"/>
+                <guid>https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantponese-new-bulletin-20260222/gy380ks6l</guid>
                 
             </item><item>
-                <title>NDR 1 Radio MV Nachrichten</title>
-                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
-Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-419728.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0218/AU-20260218-0502-1200.mp3"/>
-                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-419728.html</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-423724.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0222/AU-20260222-0446-4400.mp3"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-423724.html</guid>
                 
             </item>
         </channel>

@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 18 Feb 2026 05:25:36 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 22 Feb 2026 05:18:02 +0200</lastBuildDate>
             <item>
-                <title>„Für eine humanitäre, solidarische Asylpolitik“ | Eindrücke von der Demonstration am 31. Januar in Erfurt</title>
-                <description>Am Samstag, dem 31. Januar, demonstrierten mehrere hundert Menschen in der Erfurter Innenstadt unter dem Motto „Gemeinsam für eine solidarische Asylpolitik“. Ein breites thüringenweites Netzwerk – darunter das Bündnis „Nein zur Bezahlkarte“
-Feed: https://www.freie-radios.net/portal/podcast.php?rss</description>
+                <title>Beyond Belief - Sunday 22nd February 2026</title>
+                <description>Fr Brendan Quinlivan presents Beyond Belief for t…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
                 
                 
-                <link>http://www.freie-radios.net/140890</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.radio-frei.de/podcast/Unterdessen/2026/02%20Februar/20260211_demoasyl_eindruecke.mp3"/>
-                <guid>http://www.freie-radios.net/140890</guid>
+                <link>https://soundcloud.com/clarefm/beyond-belief-sunday-22nd</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2270104538-clarefm-beyond-belief-sunday-22nd.mp3"/>
+                <guid>https://soundcloud.com/clarefm/beyond-belief-sunday-22nd</guid>
                 
             </item><item>
-                <title>Che Cos&#39;è la Vita? Speciale Darwin Day 2025 | Redazione STEM con R. Bizzarri</title>
-                <description>Celebriamo l&#39;anniversario della nascita di Darwin spiegando come la teoria dell&#39;evoluzione abbia restituito valore scientifico alla biologa e ci permetta di affrontare scientificamente la domanda: che cosa è la vita?
-Oggi 12 Febbraio è l&#39;anniversario della nascita di Charles darwin e nel mondo si celebra il Darwin Day. Questa live proporrà una &#34;lezione&#34; su un tema affascinante: come si risponde alla domanda &#34;cosa è la vita?&#34;...
-Feed: https://creator-rss.listenbox.app/qM3DDfgToBqa/audio.xml</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://www.youtube.com/watch?v=GRRRR-2ov7A</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.listenbox.app/a/mxChv0VYGyP.m4a?show_id=qM3DDfgToBqa&amp;v=3"/>
-                <guid>https://www.youtube.com/watch?v=GRRRR-2ov7A</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-423724.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0222/AU-20260222-0446-4400.mp3"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-423724.html</guid>
                 
             </item>
         </channel>

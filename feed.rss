@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 18 Feb 2026 05:25:30 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 22 Feb 2026 05:17:58 +0200</lastBuildDate>
             <item>
-                <title>Informativo Castilla y León Tarde 19:50 17/02/2026</title>
-                <description>null
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>Die Nachrichten vom 22.02.2026, 05:00 Uhr</title>
+                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
+Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-castilla-leon-tarde-19-50-17-02-2026/16942534/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16942534.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-castilla-leon-tarde-19-50-17-02-2026/16942534/</guid>
+                <link>https://www.deutschlandfunk.de/nachrichten-27822.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/02/22/nachrichten_dlf_20260222_0500_e38115fe.mp3?refId=nachrichten-108"/>
+                <guid>https://www.deutschlandfunk.de/nachrichten-27822.html</guid>
                 
             </item><item>
-                <title>Orbán Bori: &amp;#8222;amikor az Ő dalait énekelem&amp;#8230;&amp;#8220;</title>
-                <description>17.02.2026 - Orbán Bori a szentendrei Vujicsics Tihamér Zeneiskolában 7 éven keresztül Szvorák Katalin tanítványa volt. Ezt követően a váci Pikéthy Tibor Konzervatóriumban jazz ének szakon végzett. Gyerekként évekig énekelt a Kecskés...
-Feed: https://cba.media/feed</description>
+                <title>Der Bruder des Königs, die Epstein-Files und die Krise in Großbritannien</title>
+                <description> Heuer, Christine www.deutschlandfunkkultur.de, Studio 9 
+Feed: https://www.deutschlandfunkkultur.de/studio-102.xml</description>
                 
                 
-                <link>https://cba.media/759370</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/7/6/0000759367/0221-1000-az-ajto-orban-bori.mp3"/>
-                <guid>https://cba.media/759370</guid>
+                <link>https://www.deutschlandfunkkultur.de/der-bruder-des-koenigs-die-epstein-files-und-die-krise-in-grossbritannien-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/02/21/der_bruder_des_koenigs_die_epstein_files_und_die_krise_in_drk_20260221_1721_b26ffc94.mp3?refId=studio-102"/>
+                <guid>https://www.deutschlandfunkkultur.de/der-bruder-des-koenigs-die-epstein-files-und-die-krise-in-grossbritannien-100.html</guid>
                 
             </item>
         </channel>

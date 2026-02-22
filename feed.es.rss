@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 18 Feb 2026 05:25:45 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 22 Feb 2026 05:18:13 +0200</lastBuildDate>
             <item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-419786.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0218/AU-20260218-0605-5700.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-419786.html</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-423724.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0222/AU-20260222-0446-4400.mp3"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-423724.html</guid>
                 
             </item><item>
-                <title>Nouveauté : les prods de Susan du mardi 17 février</title>
-                <description>Tous les soirs, retrouvez le meilleur des productions à but humoristiques de notre réalisatrice
-
-Feed: https://feeds.simplecast.com/8bxI9MLf</description>
+                <title> Kula Shaker ‘Lucky Number’ </title>
+                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
+Feed: https://feeds.kcrw.com/podcast/show/tu</description>
                 
                 
-                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/9730cfe8-e253-4c9d-9933-8e88de9ab75a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=9730cfe8-e253-4c9d-9933-8e88de9ab75a&amp;category=Sports&amp;episode_published_at=2026-02-17T17%3A40%3A01&amp;episode_title=Nouveaut%C3%A9+%3A+les+prods+de+Susan+du+mardi+17+f%C3%A9vrier&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
-                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
+                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
+                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
                 
             </item>
         </channel>
