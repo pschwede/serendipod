@@ -9,26 +9,35 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 22 Feb 2026 05:18:22 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 26 Feb 2026 05:22:16 +0200</lastBuildDate>
             <item>
-                <title>A.I. Images with Rick Smolan</title>
-                <description>Rick Smolan made his name in photography. While that’s not how he spends his time today, he’s got thoughts on image generation through A.I. He...
-Feed: https://www.macobserver.com/rss/dailyobservations_mp3.xml</description>
+                <title>EP 269 - Einstuerzende Neubauten - Berliner Lineal und der schiefe Turm der IT eh Pisa</title>
+                <description>Moin, eine spontane Folge wo ich vom Lineal zur IT wechsele.
+ 
+Links:
+https://www.youtube.com/watch?v=qQmfo-sXzs4
+https://de.wikipedia.org/wiki/Einst%C3%BCrzende_Neubauten
+https://www.rbb24.de/panorama/beitrag/2026/01/berlin-polizei-ungenaue-lineale-schueler-misst-nach.html
+https://de.wikipedia.org/wiki/Amphitheater_(Fidenae)
+https://de.wikipedia.org/wiki/Eskalierendes_Commitment
+https://de.wikipedia.org/wiki/Liste_schiefer_T%C3%BCrme
+https://de.wikipedia...
+Feed: https://www.ochmenno.cloud/feed.xml</description>
                 
                 
-                <link>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/mp3.macobserver.com/podcast/dailyobservations/TMOShow-20240830.mp3"/>
-                <guid>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</guid>
+                <link>https://www.ochmenno.cloud/e/ep-269-einstuerzende-neubauten-berliner-lineal-und-der-schiefe-turm-der-it-eh-pisa/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/cgkkgkligqcczvl4/2026-02-25-EinstuerzendeNeubauten-BerlinerLinealundMessgenauigkeit.mp3"/>
+                <guid>https://www.ochmenno.cloud/e/ep-269-einstuerzende-neubauten-berliner-lineal-und-der-schiefe-turm-der-it-eh-pisa/</guid>
                 
             </item><item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4370.xml</description>
+                <title>The Blueprint: Dr. Cray Noah, MD Returns- 2.0 (UCLA/Harvard/Georgia Tech)</title>
+                <description>&lt;p&gt;The Blueprint: Dr. Cray Noah, MD Returns- 2.0 (UCLA/Harvard/Georgia Tech)&lt;/p&gt;&lt;p&gt;---&lt;/p&gt;&lt;p&gt;Innovation isn&amp;#39;t accidental; it&amp;#39;s designed. Welcome to The Blueprint, a show committed to inventing the future and closing the gap between aspiration and achievement. We deconstruct the mechanics of success in modern science to provide access to the insights that matter most.&lt;/p&gt;&lt;p&gt;On this episode with Dr...
+Feed: https://anchor.fm/s/2ded5364/podcast/rss</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/ndr-info-nachrichten,audio-423740.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0222/AU-20260222-0534-0800.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/ndr-info-nachrichten,audio-423740.html</guid>
+                <link>https://podcasters.spotify.com/pod/show/david-ferguson16/episodes/The-Blueprint-Dr--Cray-Noah--MD-Returns--2-0-UCLAHarvardGeorgia-Tech-e3fat5u</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/2ded5364/podcast/play/115749502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2Fb2d1076f-0a8d-edbf-0e93-a93883623bdf.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/david-ferguson16/episodes/The-Blueprint-Dr--Cray-Noah--MD-Returns--2-0-UCLAHarvardGeorgia-Tech-e3fat5u</guid>
                 
             </item>
         </channel>

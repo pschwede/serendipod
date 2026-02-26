@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 22 Feb 2026 05:18:26 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 26 Feb 2026 05:22:19 +0200</lastBuildDate>
             <item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
+                <title>The Secrets of Humor</title>
+                <description>Chris Duffy is an award-winning comedian, television writer, and radio/podcast host. Chris currently hosts the hit podcast How to Be a Better Human. You can watch his comedic TED talk, “How to find laughter anywhere” online. He has appeared on Good Morning America, ABC News, NPR, and National Geographic Explorer. Chris wrote for both seasons of Wyatt Cenac&#39;s Problem Areas on HBO, executive produced by John Oliver. He’s the creator/host of the streaming game show Wrong Answers Only, where thre...
+Feed: https://flux.community/podcasts/all-shows/resources/xml/flux.xml</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-423724.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0222/AU-20260222-0446-4400.mp3"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-423724.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/2568914/episodes/18749979-the-secrets-of-humor.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>20 qualities for a successful life</title>
-                <description>&lt;p dir=&#34;ltr&#34;&gt;We often wonder how a person can be so successful in life! Is it because he inherited the success or is it because of his unique character? There are certain traits that we can adopt in order to be successful in life. These are:&lt;/p&gt; &lt;p&gt; &lt;/p&gt;
-Feed: https://feeds.libsyn.com/585395/rss</description>
+                <title>Gatorade Sweats the Competition | Searching for a Solution</title>
+                <description>It’s 1965 and at the University of Florida, a team of kidney scientists is working hard on an electrolyte beverage solution to prevent dehydration. It’s a hit with the school’s football team, the Florida Gators, and so they name it Gatorade. But creating an innovative product only gets you so far. The team has to figure out how they’ll get their new beverage off the sidelines and into grocery stores and the hands of millions of everyday consumers...
+Feed: https://rss.art19.com/business-wars</description>
                 
                 
-                <link>https://389a70c0-7718-4643-9a79-5d57764e5f01.libsyn.com/20-qualities-for-a-successful-life</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/389a70c0-7718-4643-9a79-5d57764e5f01/20_qualities_for_a_successful_life.mp3?dest-id=5078915"/>
-                <guid>https://389a70c0-7718-4643-9a79-5d57764e5f01.libsyn.com/20-qualities-for-a-successful-life</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/83350ec3-f1d1-4944-8e35-5858ee7f7b92.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item>
         </channel>

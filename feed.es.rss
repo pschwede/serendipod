@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 22 Feb 2026 05:18:13 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 26 Feb 2026 05:22:12 +0200</lastBuildDate>
             <item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
+                <title>Die Nachrichten vom 26.02.2026, 05:00 Uhr</title>
+                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
+Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-423724.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0222/AU-20260222-0446-4400.mp3"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-423724.html</guid>
+                <link>https://www.deutschlandfunk.de/nachrichten-28100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/02/26/nachrichten_dlf_20260226_0500_e61a8351.mp3?refId=nachrichten-108"/>
+                <guid>https://www.deutschlandfunk.de/nachrichten-28100.html</guid>
                 
             </item><item>
-                <title> Kula Shaker ‘Lucky Number’ </title>
-                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
-Feed: https://feeds.kcrw.com/podcast/show/tu</description>
+                <title>&#34;Der Zauberer von Öz&#34; - Gast: Ruben Sabel (Schauspieler)</title>
+                <description>In dieser Folge meines Podcasts &#34;Bosses Bundesliga Blog&#34; spreche ich über das Theaterstück &#34;Der Zauberer von Öz&#34; – Eine Fußballtragödie am Theater Bremen. Ich nehme euch mit hinter die Kulissen der Inszenierung, die Mesut Özils Leben und Karriere auf spannende Weise mit gesellschaftlichen Fragen wie Integration, Medienkritik und öffentlicher Wahrnehmung verknüpft...
+Feed: https://meinsportpodcast.de/fussball/feed/</description>
                 
                 
-                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
-                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
+                <link>https://meinsportpodcast.de/bosses-bundesliga-blog/261255-der-zauberer-von-oez-gast-ruben-sabel-schauspieler</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/261255/der-zauberer-von-oez-gast-ruben-sabel-schauspieler.mp3?awCollectionId=00010024&amp;awEpisodeId=261255"/>
+                <guid>https://meinsportpodcast.de/bosses-bundesliga-blog/261255-der-zauberer-von-oez-gast-ruben-sabel-schauspieler</guid>
                 
             </item>
         </channel>
