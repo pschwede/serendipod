@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 26 Feb 2026 05:22:19 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 28 Feb 2026 04:59:05 +0200</lastBuildDate>
             <item>
-                <title>The Secrets of Humor</title>
-                <description>Chris Duffy is an award-winning comedian, television writer, and radio/podcast host. Chris currently hosts the hit podcast How to Be a Better Human. You can watch his comedic TED talk, “How to find laughter anywhere” online. He has appeared on Good Morning America, ABC News, NPR, and National Geographic Explorer. Chris wrote for both seasons of Wyatt Cenac&#39;s Problem Areas on HBO, executive produced by John Oliver. He’s the creator/host of the streaming game show Wrong Answers Only, where thre...
-Feed: https://flux.community/podcasts/all-shows/resources/xml/flux.xml</description>
+                <title>Le débat de la question moyenne du vendredi 26 février</title>
+                <description>Qu’est-ce qui a le plus de chances d’arriver :
+Le PSG remporte la Ligue des champions, Lyon gagne l’Europa League ou l’OM gagne la Coupe de France ?
+Feed: https://feeds.simplecast.com/8bxI9MLf</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/2568914/episodes/18749979-the-secrets-of-humor.mp3"/>
-                <guid></guid>
+                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/fa27c638-3c7f-49a8-9a82-79a283ec52b2/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=fa27c638-3c7f-49a8-9a82-79a283ec52b2&amp;category=Sports&amp;episode_published_at=2026-02-27T17%3A40%3A01&amp;episode_title=Le+d%C3%A9bat+de+la+question+moyenne+du+vendredi+26+f%C3%A9vrier&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
+                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
                 
             </item><item>
-                <title>Gatorade Sweats the Competition | Searching for a Solution</title>
-                <description>It’s 1965 and at the University of Florida, a team of kidney scientists is working hard on an electrolyte beverage solution to prevent dehydration. It’s a hit with the school’s football team, the Florida Gators, and so they name it Gatorade. But creating an innovative product only gets you so far. The team has to figure out how they’ll get their new beverage off the sidelines and into grocery stores and the hands of millions of everyday consumers...
-Feed: https://rss.art19.com/business-wars</description>
+                <title>Bei Amazon reduziert: Diese Tracker mit USB-C finden Schlüssel und Koffer wieder</title>
+                <description>Bei Amazon gibt es derzeit ein 4er-Set smarter Tracker zu einem günstigen Preis. Die kleinen Helfer verhindern, dass Schlüssel, Koffer oder andere wichtige Gegenstände verloren gehen.
+Feed: https://www.giga.de/feed/themen/smart-home/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/83350ec3-f1d1-4944-8e35-5858ee7f7b92.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://www.giga.de/tech/bei-amazon-reduziert-diese-tracker-mit-usb-c-finden-schluessel-und-koffer-wieder--01KE79F06FGFHH75RDA1BKQZY1</link>
+                <enclosure type="audio/mpeg" length="1" url="https://static.giga.de/59/3f/2c/3e379d2857ab6337c98908d95c_cmUgMTkyMCADNWYzNzI3Njc4ODU=.jpg"/>
+                <guid>https://www.giga.de/tech/bei-amazon-reduziert-diese-tracker-mit-usb-c-finden-schluessel-und-koffer-wieder--01KE79F06FGFHH75RDA1BKQZY1</guid>
                 
             </item>
         </channel>

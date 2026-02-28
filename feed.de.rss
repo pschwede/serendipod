@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 26 Feb 2026 05:22:02 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 28 Feb 2026 04:58:41 +0200</lastBuildDate>
             <item>
-                <title>Die Nachrichten vom 26.02.2026, 05:00 Uhr</title>
-                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
-Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
+                <title>Die Arabella Nachrichten vom Samstag, 28.02.2026 um 05:10 Uhr</title>
+                <description>Die aktuellen Nachrichten zum Nachhören
+Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/nachrichten-28100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/02/26/nachrichten_dlf_20260226_0500_e61a8351.mp3?refId=nachrichten-108"/>
-                <guid>https://www.deutschlandfunk.de/nachrichten-28100.html</guid>
+                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-samstag-28-02-2026-um-0510-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3120351_l0z4y3lhcpgmo_z953iy5t5kpzm.mp3"/>
+                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-samstag-28-02-2026-um-0510-uhr/</guid>
                 
             </item><item>
-                <title>Improv 101 W/ Trendin Sorbo 2/25: State Of The Union, Robot Umpire, UFO Files, Kid Rock</title>
-                <description>&lt;p&gt;In this edition of Improv 101 W/ Trendin Sorbo, Jack and special guest co-host Pallavi Gunalan discuss Trump&#39;s very long State of the Union address, robot umpires in baseball?, Trump releasing the files&amp;hellip; the UFO files, Kid Rock going on a nationwide tour (w/ $5000 front row tix) and much more!&lt;/p&gt;&lt;p&gt;See omnystudio.com/listener for privacy information.&lt;/p&gt;
-Feed: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/39e934d7-2ddc-4b3e-bc73-ae2b00156363/ab6037f4-9a9a-449b-915d-ae2b00156375/podcast.rss</description>
+                <title>Che Cos&#39;è la Vita? Speciale Darwin Day 2025 | Redazione STEM con R. Bizzarri</title>
+                <description>Celebriamo l&#39;anniversario della nascita di Darwin spiegando come la teoria dell&#39;evoluzione abbia restituito valore scientifico alla biologa e ci permetta di affrontare scientificamente la domanda: che cosa è la vita?
+Oggi 12 Febbraio è l&#39;anniversario della nascita di Charles darwin e nel mondo si celebra il Darwin Day. Questa live proporrà una &#34;lezione&#34; su un tema affascinante: come si risponde alla domanda &#34;cosa è la vita?&#34;...
+Feed: https://creator-rss.listenbox.app/qM3DDfgToBqa/audio.xml</description>
                 
                 
-                <link>https://omny.fm/shows/the-daily-zeitgeist/improv-101-w-trendin-sorbo-2-25-state-of-the-union-robot-umpire-ufo-files-kid-rock</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39e934d7-2ddc-4b3e-bc73-ae2b00156363/255a17ee-f2cc-4ef9-a29d-b3fc0151542e/audio.mp3?utm_source=Podcast&amp;in_playlist=ab6037f4-9a9a-449b-915d-ae2b00156375"/>
-                <guid>https://omny.fm/shows/the-daily-zeitgeist/improv-101-w-trendin-sorbo-2-25-state-of-the-union-robot-umpire-ufo-files-kid-rock</guid>
+                <link>https://www.youtube.com/watch?v=GRRRR-2ov7A</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.listenbox.app/a/mxChv0VYGyP.m4a?show_id=qM3DDfgToBqa&amp;v=3"/>
+                <guid>https://www.youtube.com/watch?v=GRRRR-2ov7A</guid>
                 
             </item>
         </channel>
