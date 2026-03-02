@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 28 Feb 2026 04:59:11 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 02 Mar 2026 05:17:54 +0200</lastBuildDate>
             <item>
-                <title>Wühlen im Dreck</title>
-                <description>Wie die AfD Manuel den MP verhageln will
-Feed: https://feeds.acast.com/public/shows/45033096-220b-4490-b648-7e822e82ccde</description>
+                <title>Le best-of de la semaine du SMS: Wembanyama peut-il emmener les Spurs au titre dès cette année?</title>
+                <description>
+Feed: https://feeds.simplecast.com/8bxI9MLf</description>
                 
                 
-                <link>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/wuhlen-im-dreck</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/mahlersmeinung-diepodcastkolumne/e/69a027afd15b2c2a12909ae2/media.mp3"/>
-                <guid>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/wuhlen-im-dreck</guid>
+                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/17d4e171-4b20-4d0b-99fb-c52e2a19ef76/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=17d4e171-4b20-4d0b-99fb-c52e2a19ef76&amp;category=Sports&amp;episode_published_at=2026-02-28T12%3A00%3A01&amp;episode_title=Le+best-of+de+la+semaine+du+SMS%3A+Wembanyama+peut-il+emmener+les+Spurs+au+titre+d%C3%A8s+cette+ann%C3%A9e%3F&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
+                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
                 
             </item><item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>NDR Info Nachrichten</title>
+                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
+Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-429978.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0227/AU-20260227-1807-1000.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-429978.html</guid>
+                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-431416.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0302/AU-20260302-0504-3400.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-431416.html</guid>
                 
             </item>
         </channel>

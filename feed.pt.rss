@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 28 Feb 2026 04:58:59 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 02 Mar 2026 05:17:45 +0200</lastBuildDate>
             <item>
-                <title>Gatorade Sweats the Competition | Searching for a Solution</title>
-                <description>It’s 1965 and at the University of Florida, a team of kidney scientists is working hard on an electrolyte beverage solution to prevent dehydration. It’s a hit with the school’s football team, the Florida Gators, and so they name it Gatorade. But creating an innovative product only gets you so far. The team has to figure out how they’ll get their new beverage off the sidelines and into grocery stores and the hands of millions of everyday consumers...
-Feed: https://rss.art19.com/business-wars</description>
+                <title>Le Journal horaire de 5h00</title>
+                <description>
+Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/83350ec3-f1d1-4944-8e35-5858ee7f7b92.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29167851.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/0483d453-0f09-3980-8ab3-929e3d53ea56/2fbf263d-072d-3e9c-a1bb-69f21d78de65.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29167851.html</guid>
                 
             </item><item>
-                <title>Frequency Sessions 012</title>
-                <description>&lt;p data-path-to-node=&#34;1&#34;&gt;In diesem Monat erwartet euch die geballte Ladung Drum &amp; Bass direkt aus Hamburg.&lt;br /&gt;In der ersten Stunde präsentiert Host Neoteric eine Auswahl an frischen Neuerscheinungen und gibt Einblicke in die aktuelle Veranstaltungsszene.&lt;br /&gt;Danach übernimmt Gast-DJ Gain Fury die Regler mit seinem Deep Fury Set und liefert einen vielseitigen Querschnitt durch die britische Bass-Kultur, der von tiefen Rollers über Jungle bis hin zu Jump Up und Dancefloor reicht.&lt;/p&gt;
-Feed: https://rdl.de/podcast</description>
+                <title>NDR Info Nachrichten</title>
+                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
+Feed: https://www.ndr.de/nachrichten/info/podcast4370.xml</description>
                 
                 
-                <link>https://rdl.de/beitrag/frequency-sessions-012</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/02/20260227-frequencyses-a25827.mp3"/>
-                <guid>https://rdl.de/beitrag/frequency-sessions-012</guid>
+                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-431436.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0302/AU-20260302-0533-3300.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-431436.html</guid>
                 
             </item>
         </channel>

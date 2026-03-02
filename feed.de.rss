@@ -9,27 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 28 Feb 2026 04:58:41 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 02 Mar 2026 05:17:24 +0200</lastBuildDate>
             <item>
-                <title>Die Arabella Nachrichten vom Samstag, 28.02.2026 um 05:10 Uhr</title>
-                <description>Die aktuellen Nachrichten zum Nachhören
-Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
+                <title>#932 – Nahstelleingrenze</title>
+                <description>
+HAPPY SHOOTING – Der Foto-Podcast für alle, die Spaß an Fotografie haben.Jede Woche neu mit Chris Marquardt und Boris Nienke.
+Im Podcast-Player, auf YouTube oder auf Twitch
+🎧 HÖREN:
+RSS-Feed •
+Appl…
+Feed: http://feeds.happyshooting.de/</description>
                 
                 
-                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-samstag-28-02-2026-um-0510-uhr/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3120351_l0z4y3lhcpgmo_z953iy5t5kpzm.mp3"/>
-                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-samstag-28-02-2026-um-0510-uhr/</guid>
+                <link>https://happyshooting.de/2026/02/26/932-nahstelleingrenze/</link>
+                <enclosure type="audio/mpeg" length="1" url="http://feeds.happyshooting.de/link/14868/17284090/hs932_nahstelleingrenze.mp3"/>
+                <guid>https://happyshooting.de/2026/02/26/932-nahstelleingrenze/</guid>
                 
             </item><item>
-                <title>Che Cos&#39;è la Vita? Speciale Darwin Day 2025 | Redazione STEM con R. Bizzarri</title>
-                <description>Celebriamo l&#39;anniversario della nascita di Darwin spiegando come la teoria dell&#39;evoluzione abbia restituito valore scientifico alla biologa e ci permetta di affrontare scientificamente la domanda: che cosa è la vita?
-Oggi 12 Febbraio è l&#39;anniversario della nascita di Charles darwin e nel mondo si celebra il Darwin Day. Questa live proporrà una &#34;lezione&#34; su un tema affascinante: come si risponde alla domanda &#34;cosa è la vita?&#34;...
-Feed: https://creator-rss.listenbox.app/qM3DDfgToBqa/audio.xml</description>
+                <title>ERF Plus - Bibel heute Unaufgeregt</title>
+                <description>Der Bibeltext Johannes 11,1-16 – ausgelegt von Gerhard Göller. (Autor: Gerhard Göller)
+Feed: https://feedpress.me/erf-plus-podcast</description>
                 
                 
-                <link>https://www.youtube.com/watch?v=GRRRR-2ov7A</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.listenbox.app/a/mxChv0VYGyP.m4a?show_id=qM3DDfgToBqa&amp;v=3"/>
-                <guid>https://www.youtube.com/watch?v=GRRRR-2ov7A</guid>
+                <link>https://feedpress.me/link/19281/17287423/5222-6146</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/19281/17287424/1122373.mp3"/>
+                <guid>https://feedpress.me/link/19281/17287423/5222-6146</guid>
                 
             </item>
         </channel>
