@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 02 Mar 2026 05:17:21 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 03 Mar 2026 05:16:29 +0200</lastBuildDate>
             <item>
-                <title> Kula Shaker ‘Lucky Number’ </title>
-                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
-Feed: https://feeds.kcrw.com/podcast/show/tu</description>
+                <title>&#39;VielFalter&#39; - Magazin für Polyphonie und Selbstbestimmung 02.03.2026</title>
+                <description>
+Feed: https://rdl.de/podcast</description>
                 
                 
-                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
-                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
+                <link>https://rdl.de/beitrag/vielfalter-magazin-f-r-polyphonie-und-selbstbestimmung-02032026</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/03/20260302-vielfalterma-a25846.mp3"/>
+                <guid>https://rdl.de/beitrag/vielfalter-magazin-f-r-polyphonie-und-selbstbestimmung-02032026</guid>
                 
             </item><item>
-                <title>Le best-of de la semaine du SMS: Wembanyama peut-il emmener les Spurs au titre dès cette année?</title>
-                <description>
-Feed: https://feeds.simplecast.com/8bxI9MLf</description>
+                <title>The parallel war online.</title>
+                <description>Cyberwar shadows the US Israel attack on Iran. Hackers hijack Pakistani news broadcasts. President Trump orders all federal agencies to stop using AI technology from Anthropic. The Health Care Cybersecurity and Resiliency Act clears a hurdle. A new RAT streamlines double extortion attacks against Windows systems. CISA updates warnings on a zero-day targeting Ivanti Connect Secure devices. A North Korea-linked group targets air-gapped systems. Monday business breakdown...
+Feed: https://feeds.megaphone.fm/cyberwire-daily-podcast</description>
                 
                 
-                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/17d4e171-4b20-4d0b-99fb-c52e2a19ef76/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=17d4e171-4b20-4d0b-99fb-c52e2a19ef76&amp;category=Sports&amp;episode_published_at=2026-02-28T12%3A00%3A01&amp;episode_title=Le+best-of+de+la+semaine+du+SMS%3A+Wembanyama+peut-il+emmener+les+Spurs+au+titre+d%C3%A8s+cette+ann%C3%A9e%3F&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
-                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
+                <link>https://www.thecyberwire.com/podcasts/daily-podcast/2499/notes</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW7888461334.mp3?updated=1772485176"/>
+                <guid>https://www.thecyberwire.com/podcasts/daily-podcast/2499/notes</guid>
                 
             </item>
         </channel>

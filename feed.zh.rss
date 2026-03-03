@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 02 Mar 2026 05:17:49 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 03 Mar 2026 05:16:58 +0200</lastBuildDate>
             <item>
-                <title>The Secrets of Humor</title>
-                <description>Chris Duffy is an award-winning comedian, television writer, and radio/podcast host. Chris currently hosts the hit podcast How to Be a Better Human. You can watch his comedic TED talk, “How to find laughter anywhere” online. He has appeared on Good Morning America, ABC News, NPR, and National Geographic Explorer. Chris wrote for both seasons of Wyatt Cenac&#39;s Problem Areas on HBO, executive produced by John Oliver. He’s the creator/host of the streaming game show Wrong Answers Only, where thre...
-Feed: https://flux.community/podcasts/all-shows/resources/xml/flux.xml</description>
+                <title> Kula Shaker ‘Lucky Number’ </title>
+                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
+Feed: https://feeds.kcrw.com/podcast/show/tu</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/2568914/episodes/18749979-the-secrets-of-humor.mp3"/>
-                <guid></guid>
+                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
+                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
                 
             </item><item>
-                <title>„Ok Google, mein Gerät einrichten“: So gelangt ihr zum perfekten waipu.tv-Erlebnis</title>
-                <description>Ihr wollt euren waipu.tv-Stick per Sprachbefehl steuern? Mit „Ok Google, mein Gerät einrichten“ kommt ihr Schritt für Schritt zu eurem smarten Fernseherlebnis.
-Feed: https://www.giga.de/feed/themen/smart-home/</description>
+                <title>Die Arabella Nachrichten vom Dienstag, 3.03.2026 um 05:08 Uhr</title>
+                <description>Die aktuellen Nachrichten zum Nachhören
+Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
                 
                 
-                <link>https://www.giga.de/tech/ok-google-mein-geraet-einrichten-so-gelangt-ihr-zum-perfekten-waipu-tv-erlebnis--01KJN8J45BBFQPBSVDDHEJP0XK</link>
-                <enclosure type="audio/mpeg" length="1" url="https://static.giga.de/40/4b/20/c82b91e73d08c9fd2a16c2045d_cmUgMTkyMCADNGJjYmVkY2QxMjU=.png"/>
-                <guid>https://www.giga.de/tech/ok-google-mein-geraet-einrichten-so-gelangt-ihr-zum-perfekten-waipu-tv-erlebnis--01KJN8J45BBFQPBSVDDHEJP0XK</guid>
+                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-dienstag-3-03-2026-um-0508-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3124479_937yneuxlshsk_yn9itwqrgk41i.mp3"/>
+                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-dienstag-3-03-2026-um-0508-uhr/</guid>
                 
             </item>
         </channel>

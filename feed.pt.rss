@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 02 Mar 2026 05:17:45 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 03 Mar 2026 05:16:49 +0200</lastBuildDate>
             <item>
-                <title>Le Journal horaire de 5h00</title>
-                <description>
-Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
+                <title>Twlight Zone Accident | It&#39;s Going to be Big</title>
+                <description>After casting two children in vital roles, production on John Landis’ segment of Twilight Zone: The Movie moves onto its climactic Vietnam village sequence.  
+Be the first to know about Wondery’s newest podcasts, curated recommendations, and more! Sign up now at https://wondery.fm/wonderynewsletter
+Listen to American Scandal on the Wondery App or wherever you get your podcasts. Experience all episodes ad-free and be the first to binge the newest season...
+Feed: https://rss.art19.com/american-scandal</description>
                 
                 
-                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29167851.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/0483d453-0f09-3980-8ab3-929e3d53ea56/2fbf263d-072d-3e9c-a1bb-69f21d78de65.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29167851.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/db5c6057-274d-4ed3-a78b-e768a9241362.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item><item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4370.xml</description>
+                <title>Чи може населення долучатися до планування зеленої відбудови України</title>
+                <description>Чому важливо залучати громадян до планування зеле…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:55012225/sounds.rss</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-431436.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0302/AU-20260302-0533-3300.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-431436.html</guid>
+                <link>https://soundcloud.com/hromadske-radio/chi-mozhe-naselennya</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2276461940-hromadske-radio-chi-mozhe-naselennya.mp3"/>
+                <guid>https://soundcloud.com/hromadske-radio/chi-mozhe-naselennya</guid>
                 
             </item>
         </channel>
