@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 04 Mar 2026 05:11:14 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 07 Mar 2026 05:03:23 +0200</lastBuildDate>
             <item>
-                <title>Episode 1 - SLENDER MAN</title>
-                <description>&lt;p&gt;The inaugural episode of The Folklore Podcast examines the recent development of the Slender Man phenomenon, with folklorist and associate professor, Dr Andrea Kitta. It is a rare event indeed to be present at the birth of a Folklore motif or symbol and see it enter into a cultural environment....&lt;/p&gt;&lt;p&gt;This item belongs to: audio/podcasts_miscellaneous.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
-Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
+                <title>【慢遊澳洲】香港歌手陳健安談「掛住」、低谷與「自在」</title>
+                <description>香港歌手陳健安早前到澳洲出席好友婚禮，並接受《光影會客室》專訪。他分享《好好掛住》背後的故事，談及面對失去時，不必強迫自己放低，而是可以用自己的方式，好好記住重要的人。他亦由失聲低谷到學會「自在」，他形容現在的自己，更懂得掌管節奏，按著內心生活。
+Feed: https://sbs-ondemand.streamguys1.com/sbs-cantonese/</description>
                 
                 
-                <link>https://archive.org/details/g8q9zcs8oepqzlnxtjadjz3szfn51jszq09tti0z</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/g8q9zcs8oepqzlnxtjadjz3szfn51jszq09tti0z/format=VBR+MP3&amp;ignore=x.mp3"/>
-                <guid>https://archive.org/details/g8q9zcs8oepqzlnxtjadjz3szfn51jszq09tti0z</guid>
+                <link>https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/hk-artist-on-chan-holding-on-to-what-we-miss-finding-freedom-in-the-lows/s2twdcvgn</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-cantonese/20260307102316-cantonese-12086f57-8801-4639-b815-4dffe928423b.mp3?awCollectionId=sbs-cantonese&amp;awGenre=News&amp;awEpisodeId=0000019c-c554-d0b1-abde-ff5f001a0000&amp;dur_cat=4"/>
+                <guid>https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/hk-artist-on-chan-holding-on-to-what-we-miss-finding-freedom-in-the-lows/s2twdcvgn</guid>
                 
             </item><item>
-                <title>When the map lies at sea.</title>
-                <description>GPS jamming hits the Strait of Hormuz. An Iran linked threat actor uses AI to target Iraqi government officials. Hacktivists leak thousands of DHS contract records. A Hawaii cancer center suffers a data breach. Google patches over a hundred Android vulnerabilities. A new report tallies the scale of third party breaches. An MS-Agent AI framework flaw allows full system compromise...
-Feed: https://feeds.megaphone.fm/cyberwire-daily-podcast</description>
+                <title>Lukas Esser, Sportkommentator</title>
+                <description>LIEBE SPORTSFREUNDE! Habt ihr euch schon mal gefragt, wie man eigentlich die Stimme eines Fussballspiels wird? Mein heutiger Gast ist Lukas Esser, Fussballkommentator mit Leib und Seele. In dieser Folge nehmen wir unter anderem das Handwerk hinter dem Mikrofon unter die Lupe uns sprechen über: Den Weg ans Mikro: Wie Lukas seinen Weg in die Kommentatorenkabine gefunden hat und welche Hürden er meistern musste...
+Feed: https://meinsportpodcast.de/mixed-sport/feed/</description>
                 
                 
-                <link>https://www.thecyberwire.com/podcasts/daily-podcast/2500/notes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW2947033869.mp3?updated=1772563772"/>
-                <guid>https://www.thecyberwire.com/podcasts/daily-podcast/2500/notes</guid>
+                <link>https://meinsportpodcast.de/sportsfreunde/261538-lukas-esser-sportkommentator</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/261538/lukas-esser-sportkommentator.mp3?awCollectionId=00010035&amp;awEpisodeId=261538"/>
+                <guid>https://meinsportpodcast.de/sportsfreunde/261538-lukas-esser-sportkommentator</guid>
                 
             </item>
         </channel>
