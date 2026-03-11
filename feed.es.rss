@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 07 Mar 2026 05:03:23 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 11 Mar 2026 05:14:40 +0200</lastBuildDate>
             <item>
-                <title>【慢遊澳洲】香港歌手陳健安談「掛住」、低谷與「自在」</title>
-                <description>香港歌手陳健安早前到澳洲出席好友婚禮，並接受《光影會客室》專訪。他分享《好好掛住》背後的故事，談及面對失去時，不必強迫自己放低，而是可以用自己的方式，好好記住重要的人。他亦由失聲低谷到學會「自在」，他形容現在的自己，更懂得掌管節奏，按著內心生活。
-Feed: https://sbs-ondemand.streamguys1.com/sbs-cantonese/</description>
+                <title>Le Journal horaire de 5h00</title>
+                <description>
+Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
                 
                 
-                <link>https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/hk-artist-on-chan-holding-on-to-what-we-miss-finding-freedom-in-the-lows/s2twdcvgn</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-cantonese/20260307102316-cantonese-12086f57-8801-4639-b815-4dffe928423b.mp3?awCollectionId=sbs-cantonese&amp;awGenre=News&amp;awEpisodeId=0000019c-c554-d0b1-abde-ff5f001a0000&amp;dur_cat=4"/>
-                <guid>https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/hk-artist-on-chan-holding-on-to-what-we-miss-finding-freedom-in-the-lows/s2twdcvgn</guid>
+                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29178667.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/3550572f-0121-3602-871a-47e86897c5b4/bfef0524-2e94-39af-bd09-9bce2e649dd7.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29178667.html</guid>
                 
             </item><item>
-                <title>Lukas Esser, Sportkommentator</title>
-                <description>LIEBE SPORTSFREUNDE! Habt ihr euch schon mal gefragt, wie man eigentlich die Stimme eines Fussballspiels wird? Mein heutiger Gast ist Lukas Esser, Fussballkommentator mit Leib und Seele. In dieser Folge nehmen wir unter anderem das Handwerk hinter dem Mikrofon unter die Lupe uns sprechen über: Den Weg ans Mikro: Wie Lukas seinen Weg in die Kommentatorenkabine gefunden hat und welche Hürden er meistern musste...
-Feed: https://meinsportpodcast.de/mixed-sport/feed/</description>
+                <title>A.I. Images with Rick Smolan</title>
+                <description>Rick Smolan made his name in photography. While that’s not how he spends his time today, he’s got thoughts on image generation through A.I. He...
+Feed: https://www.macobserver.com/rss/dailyobservations_mp3.xml</description>
                 
                 
-                <link>https://meinsportpodcast.de/sportsfreunde/261538-lukas-esser-sportkommentator</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/261538/lukas-esser-sportkommentator.mp3?awCollectionId=00010035&amp;awEpisodeId=261538"/>
-                <guid>https://meinsportpodcast.de/sportsfreunde/261538-lukas-esser-sportkommentator</guid>
+                <link>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/mp3.macobserver.com/podcast/dailyobservations/TMOShow-20240830.mp3"/>
+                <guid>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</guid>
                 
             </item>
         </channel>
