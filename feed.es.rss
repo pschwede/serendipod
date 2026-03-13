@@ -9,18 +9,8 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 11 Mar 2026 05:14:40 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 13 Mar 2026 05:16:03 +0200</lastBuildDate>
             <item>
-                <title>Le Journal horaire de 5h00</title>
-                <description>
-Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
-                
-                
-                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29178667.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/3550572f-0121-3602-871a-47e86897c5b4/bfef0524-2e94-39af-bd09-9bce2e649dd7.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-5h00-29178667.html</guid>
-                
-            </item><item>
                 <title>A.I. Images with Rick Smolan</title>
                 <description>Rick Smolan made his name in photography. While that’s not how he spends his time today, he’s got thoughts on image generation through A.I. He...
 Feed: https://www.macobserver.com/rss/dailyobservations_mp3.xml</description>
@@ -29,6 +19,18 @@ Feed: https://www.macobserver.com/rss/dailyobservations_mp3.xml</description>
                 <link>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</link>
                 <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/mp3.macobserver.com/podcast/dailyobservations/TMOShow-20240830.mp3"/>
                 <guid>https://www.macobserver.com/podcasts/a-i-images-with-rick-smolan-tmo-show-2024-08-30/</guid>
+                
+            </item><item>
+                <title>Twlight Zone Accident | Night for Night</title>
+                <description>Production on John Landis’ segment of Twilight Zone: The Movie reaches its dramatic finale.
+Audible subscribers can listen to all episodes of American Scandal ad-free right now. Join Audible today by downloading the Audible app.
+See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.
+Feed: https://rss.art19.com/american-scandal</description>
+                
+                
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/42cc7dec-184f-4778-b880-fc68d54e9f2c.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item>
         </channel>

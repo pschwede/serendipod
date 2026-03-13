@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 11 Mar 2026 05:14:53 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 13 Mar 2026 05:16:23 +0200</lastBuildDate>
             <item>
-                <title>#269 | A Huge Waste of Nachos</title>
-                <description>&lt;p&gt;Gut Check is at a crossroads; let&#39;s talk some Dangerous Minds (which it turns out was based on a somewhat true story).&lt;/p&gt;&lt;p&gt;This item belongs to: audio/gutcheckpodcast.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
-Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
+                <title>Bildungswochen gegen Rassismus 2026: Kein Bock auf Spaltung  (Serie 1513: CX - Corax - Lokales - Mikro)</title>
+                <description>Alle Jahre wieder – seit 2012 - finden in Halle die Bildungswochen gegen Rassismus statt. Veranstaltet werden sie von Halle gegen Rechts in Kooperation mit dem Friedenskreis e.V. und vielen Partner:innen und Unterstützer:inenn. Diese Jahr sind sie auf
+Feed: https://www.freie-radios.net/portal/podcast.php?rss</description>
                 
                 
-                <link>https://archive.org/details/gutcheck.269</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/gutcheck.269/format=VBR+MP3&amp;ignore=x.mp3"/>
-                <guid>https://archive.org/details/gutcheck.269</guid>
+                <link>http://www.freie-radios.net/140977</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.freie-radios.net/mp3/20260219-bildungswoch-140977.mp3"/>
+                <guid>http://www.freie-radios.net/140977</guid>
                 
             </item><item>
-                <title>中东局势重创能源供应链：航空票价飙升 亚太各国紧急干预原油市场</title>
-                <description>随着中东战争持续推高全球油价，航空业与各国政府正迅速采取应对措施——从机票涨价到燃料限价，全球经济链条正在感受到冲击。点击 ▶ 收听完整报道。
-Feed: https://sbs-ondemand.streamguys1.com/sbs-mandarin/</description>
+                <title>Cosmic Queries – Gravitons &amp; Hyperspeed</title>
+                <description>What if we took Earth… and pushed it somewhere else? Neil deGrasse Tyson and Chuck Nice answer grab bag fan questions about gravitons, hyperspeed, saving the sun, and more!
+Feed: https://feeds.simplecast.com/4T39_jAj</description>
                 
                 
-                <link>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/qantas-hikes-international-fares-war-sends-fuel-costs-soaring/gx2b116st</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-mandarin/20260311140954-mandarin-ec298fa0-31ec-4074-ab9d-e89dbb267a74.mp3?awCollectionId=sbs-mandarin&amp;awGenre=News&amp;awEpisodeId=0000019c-dab9-d8f9-a1dc-fffd78830000&amp;dur_cat=2"/>
-                <guid>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/qantas-hikes-international-fares-war-sends-fuel-costs-soaring/gx2b116st</guid>
+                <link>siriusxm.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/0290d675-69c2-4cfd-823c-1ac8d79ad8a9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&amp;awEpisodeId=0290d675-69c2-4cfd-823c-1ac8d79ad8a9&amp;feed=4T39_jAj"/>
+                <guid>siriusxm.com</guid>
                 
             </item>
         </channel>
