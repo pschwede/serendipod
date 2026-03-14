@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 13 Mar 2026 05:15:54 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 14 Mar 2026 05:13:14 +0200</lastBuildDate>
             <item>
-                <title>Radio Don Quichotte DQ 7 Hier ist eine Proberaum Studio</title>
-                <description>13.03.2026 - Radio Don Quichotte DQ 7 Hier ist Proberaum Studio
-Feed: https://cba.media/feed</description>
+                <title>GR di venerdì 16/01 07:30 </title>
+                <description>GR di venerdì 16/01 07:30 
+Feed: http://www.radiopopolare.it/poplive/onair/podcast_rpondemand_gr.xml</description>
                 
                 
-                <link>https://cba.media/763141</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/0/4/0000763140/radio-don-quichotte-dq-7-proberaum.ogg"/>
-                <guid>https://cba.media/763141</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pod.radiopopolare.it/notiziario-giornaleradio_16_01_2026_07_30.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Αθλητικό: Σπουδαίες νίκες ΠΑΟ, ΑΕΚ στην Europa League</title>
-                <description>Πλούσια ήταν η αθλητική δράση ελληνικών ομάδων το τελευταίο 24ωρο, στο Europa και Conference League και στην μπασκετική Euroleague. Απόψε οι Matildas ετοιμάζονται για τον κρίσιμο προημιτελικό στο Ασιατικό Κύπελλο Γυναικών
-Feed: https://sbs-ondemand.streamguys1.com/sbs-greek/</description>
+                <title>Стратегічно Росія програє через конфлікт на Близькому Сході — Олег Саакян</title>
+                <description>Що стоїть за нападом на українців в Угорщині? Як …
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:55012225/sounds.rss</description>
                 
                 
-                <link>https://www.sbs.com.au/language/greek/el/podcast-episode/sports-new-13032026/t2orlz8ni</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-greek/20260313132718-greek-a6bd2a4c-6b8e-483d-b350-40dbe93408de.mp3?awCollectionId=sbs-greek&amp;awGenre=News&amp;awEpisodeId=0000019c-e4f8-da24-afdd-e6f962740000&amp;dur_cat=2"/>
-                <guid>https://www.sbs.com.au/language/greek/el/podcast-episode/sports-new-13032026/t2orlz8ni</guid>
+                <link>https://soundcloud.com/hromadske-radio/strategichno-rosiya-prograye</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2283235409-hromadske-radio-strategichno-rosiya-prograye.mp3"/>
+                <guid>https://soundcloud.com/hromadske-radio/strategichno-rosiya-prograye</guid>
                 
             </item>
         </channel>
