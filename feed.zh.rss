@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Mar 2026 05:13:32 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 19 Mar 2026 05:25:20 +0200</lastBuildDate>
             <item>
-                <title>Nachrichten 18:00 Uhr - 13.03.2026</title>
-                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
-Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
+                <title>Alexandra Popp: Die Unkaputtbare</title>
+                <description>Sie ist Olympiasiegerin. Sie hat die Champions League gewonnen. Sie hat Titel gesammelt wie kaum eine andere im deutschen Frauenfußball. Und trotzdem erzählen Zahlen allein nicht, warum Alexandra Popp für viele zur Symbolfigur geworden ist. In dieser Folge der 100 Fußballlegenden erzählt Malte Asmus die Geschichte einer Spielerin, die nie den einfachen Weg hatte.Die früh lernen musste, sich durchzusetzen – auf Ascheplätzen im Ruhrgebiet, gegen Jungs, die keinen Zentimeter schenkten...
+Feed: https://meinsportpodcast.de/fussball/feed/</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/nachrichten-1800-uhr-13032026,audio-444056.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0313/AU-20260313-1807-2400.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-1800-uhr-13032026,audio-444056.html</guid>
+                <link>https://meinsportpodcast.de/100-fussballlegenden/261775-alexandra-popp-die-unkaputtbare</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/261775/alexandra-popp-die-unkaputtbare.mp3?awCollectionId=00010024&amp;awEpisodeId=261775"/>
+                <guid>https://meinsportpodcast.de/100-fussballlegenden/261775-alexandra-popp-die-unkaputtbare</guid>
                 
             </item><item>
-                <title>Das Masters kann endlich wieder Masters</title>
-                <description>Die letzten beiden Halbfinalplätze beim Masters gehen an Wu Yize und Kyren Wilson. Das Masters kann endlich wieder tolle Matches produzieren. Wu gewann mit 6:0 nach einer Sternstunde gegen Xiao Guodong, während sich Kyren Wilson am Abend gegen Neil Robertson durchbeißen musste. Das Match ging in einen Decider. Kathi und Chris fassen die gestrigen Duelle in London zusammen und schauen auf ein tolles Halbfinal-Lineup voraus.&lt;br&gt;&lt;p&gt;&lt;br&gt;Dieser Podcast wird vermarktet von der Podcastbude.&lt;br&gt;www...
-Feed: https://meinsportpodcast.de/fussball/druebergehalten/feed/</description>
+                <title>Dark Universe Decoded with Katherine Freese</title>
+                <description>What are the main candidates for dark matter? Neil deGrasse Tyson and comic co-host Chuck Nice sit down with theoretical physicist Katherine Freese to tackle fan questions about dark matter, dark energy, and the dark universe at large.
+Feed: https://feeds.simplecast.com/4T39_jAj</description>
                 
                 
-                <link>https://meinsportpodcast.de/total-clearance/das-masters-kann-endlich-wieder-masters</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260078/das-masters-kann-endlich-wieder-masters.mp3?awCollectionId=10055&amp;awEpisodeId=260078"/>
-                <guid>https://meinsportpodcast.de/total-clearance/das-masters-kann-endlich-wieder-masters</guid>
+                <link>siriusxm.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/a931abd0-77fa-4b9e-8352-9c272f566be9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&amp;awEpisodeId=a931abd0-77fa-4b9e-8352-9c272f566be9&amp;feed=4T39_jAj"/>
+                <guid>siriusxm.com</guid>
                 
             </item>
         </channel>

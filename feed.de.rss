@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Mar 2026 05:13:14 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 19 Mar 2026 05:24:57 +0200</lastBuildDate>
             <item>
-                <title>GR di venerdì 16/01 07:30 </title>
-                <description>GR di venerdì 16/01 07:30 
-Feed: http://www.radiopopolare.it/poplive/onair/podcast_rpondemand_gr.xml</description>
+                <title>Informativo Castilla y León Tarde 19:50 18/03/2026</title>
+                <description>null
+Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pod.radiopopolare.it/notiziario-giornaleradio_16_01_2026_07_30.mp3"/>
-                <guid></guid>
+                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-castilla-leon-tarde-19-50-18-03-2026/16987001/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16987001.mp3"/>
+                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-castilla-leon-tarde-19-50-18-03-2026/16987001/</guid>
                 
             </item><item>
-                <title>Стратегічно Росія програє через конфлікт на Близькому Сході — Олег Саакян</title>
-                <description>Що стоїть за нападом на українців в Угорщині? Як …
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:55012225/sounds.rss</description>
+                <title>NDR Info Nachrichten</title>
+                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
+Feed: https://www.ndr.de/nachrichten/info/podcast4370.xml</description>
                 
                 
-                <link>https://soundcloud.com/hromadske-radio/strategichno-rosiya-prograye</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2283235409-hromadske-radio-strategichno-rosiya-prograye.mp3"/>
-                <guid>https://soundcloud.com/hromadske-radio/strategichno-rosiya-prograye</guid>
+                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-449042.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0319/AU-20260319-0534-0700.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-449042.html</guid>
                 
             </item>
         </channel>

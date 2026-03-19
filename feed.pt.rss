@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Mar 2026 05:13:27 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 19 Mar 2026 05:25:16 +0200</lastBuildDate>
             <item>
-                <title>Le débat de la question moyenne du vendredi 13 mars</title>
-                <description>Question Moyenne : quelle est la victoire à l’extérieur la plus probable ce weekend ? 
-1/ L’AJA À MARSEILLE
-OU 
-2/ L’ANGLETERRE EN FRANCE  
-Feed: https://feeds.simplecast.com/8bxI9MLf</description>
+                <title>ERF Plus - Bibel heute Der Friede Christi</title>
+                <description>Der Bibeltext Johannes 14,27-31 – ausgelegt von Andreas Hildebrandt. (Autor: Pastor Andreas Hildebrandt)
+Feed: https://feedpress.me/erf-plus-podcast</description>
                 
                 
-                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/c268609b-aed7-44c1-a2ba-bb2557216921/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=c268609b-aed7-44c1-a2ba-bb2557216921&amp;category=Sports%2CNews&amp;episode_published_at=2026-03-13T17%3A40%3A00&amp;episode_title=Le+d%C3%A9bat+de+la+question+moyenne+du+vendredi+13+mars&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
-                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
+                <link>https://feedpress.me/link/19281/17301797/5222-6163</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/19281/17301798/1123997.mp3"/>
+                <guid>https://feedpress.me/link/19281/17301797/5222-6163</guid>
                 
             </item><item>
-                <title>Safe and Sound Strategies for a Liver Cleansing</title>
-                <description>&lt;p&gt;So lots of our fitness troubles currently have their root reasons in a poor health liver that&#39;s congested. Our structures are genuinely swamped with poisonous materials on a day by day foundation, and when you consider that the primary activity with the liver is to purge some of these poisons, for almost all people specifically as we begin to become older the liver turns into swamped from this accumulation of sludge...
-Feed: https://media.rss.com/nutri-management/feed.xml</description>
+                <title>Schachschwätzer | ein neues Schachgedicht von Martin Hahn</title>
+                <description>Unser Schachdichter Martin hat es wirklich nicht leicht. In seinem Schachverein gibt es dermaßen viele schräge Persönlichkeiten, dass jeder Trainingsabend zur Herausforderung wird. Heute berichtet Martin über Schachschwätzer Hans...
+Feed: https://meinsportpodcast.de/mixed-sport/feed/</description>
                 
                 
-                <link>https://rss.com/podcasts/nutri-management/2449431</link>
-                <enclosure type="audio/mpeg" length="1" url="https://content.rss.com/episodes/222882/2449431/nutri-management/2026_01_09_10_18_09_ed707422-4dc4-435f-9695-daad2282a5af.mp3"/>
-                <guid>https://rss.com/podcasts/nutri-management/2449431</guid>
+                <link>https://meinsportpodcast.de/mixed-sport/schachschwaetzer-ein-neues-schachgedicht-von-martin-hahn/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/261781/schachschwaetzer-ein-neues-schachgedicht-von-martin-hahn.mp3?awCollectionId=00010035&amp;awEpisodeId=261781"/>
+                <guid>https://meinsportpodcast.de/mixed-sport/schachschwaetzer-ein-neues-schachgedicht-von-martin-hahn/</guid>
                 
             </item>
         </channel>

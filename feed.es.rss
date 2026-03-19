@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 14 Mar 2026 05:13:23 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 19 Mar 2026 05:25:11 +0200</lastBuildDate>
             <item>
-                <title>Edmondo De Amicis bei Jules Verne</title>
-                <description>Zu Besuch bei einem Begründer der Science Fiction
-Feed: https://letscast.fm/podcasts/zeitrisse-4798c07b/feed</description>
+                <title>Podcast #1,103: How to Help Disengaged Young Men Reclaim Drive and Direction</title>
+                <description>&lt;p&gt;Â Not long ago, the primary concern people had about boys was that they were wild, impulsive, and out of control - getting into fights, pushing limits, and stirring up trouble. Today, the problem has flipped....&lt;/p&gt;&lt;p&gt;This item belongs to: audio/podcasts_miscellaneous.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
+Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
                 
                 
-                <link>https://letscast.fm/sites/zeitrisse-4798c07b/episode/edmondo-de-amicis-bei-jules-verne</link>
-                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/a075a7ba/episode/8468723e.mp3?t=1772725375&amp;awCollectionId=80000179&amp;awEpisodeId=8468723e"/>
-                <guid>https://letscast.fm/sites/zeitrisse-4798c07b/episode/edmondo-de-amicis-bei-jules-verne</guid>
+                <link>https://archive.org/details/a3mguovynksckolbh5xytsnsyatveencqo3kky50</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/a3mguovynksckolbh5xytsnsyatveencqo3kky50/format=VBR+MP3&amp;ignore=x.mp3"/>
+                <guid>https://archive.org/details/a3mguovynksckolbh5xytsnsyatveencqo3kky50</guid>
                 
             </item><item>
-                <title>True Crime &amp; Forensic Pathology with Patricia Cornwell &amp; Dr. Jonathan Hayes</title>
-                <description>How can you get away with murder? Neil deGrasse Tyson and Chuck Nice explore forensic pathology, autopsies, and crime scene science with medical examiner and author Jonathan Hayes, featuring an interview with crime writer and author of Autopsy, Patricia Cornwell. 
-Originally aired January 11, 2022.
-
-Feed: https://feeds.simplecast.com/4T39_jAj</description>
+                <title>澳洲租房可负担性创新低 维也纳模式是否值得借鉴？</title>
+                <description>澳大利亚的租房可负担性已降至新低。但在欧洲，有一座城市拥有一套已有百年历史的社会住房模式，为约一半人口提供可负担住房。由于租金低廉、租约稳定，这一模式让一些人将其称为“租客的天堂”。点击音频，收听完整报道。
+Feed: https://sbs-ondemand.streamguys1.com/sbs-mandarin/</description>
                 
                 
-                <link>siriusxm.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/ac7e9425-70d3-4037-a4cf-ecf6f475c995/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&amp;awEpisodeId=ac7e9425-70d3-4037-a4cf-ecf6f475c995&amp;feed=4T39_jAj"/>
-                <guid>siriusxm.com</guid>
+                <link>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/has-vienna-solved-the-problem-of-housing-affordability/tl7ec29pg</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-mandarin/20260319131420-ca-E7A79FE688BFE58FAFE8B49FE68B85E680A7-yuye.mp3?awCollectionId=sbs-mandarin&amp;awGenre=News&amp;awEpisodeId=0000019d-035e-dfd6-af9f-ef7e362a0000&amp;dur_cat=2"/>
+                <guid>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/has-vienna-solved-the-problem-of-housing-affordability/tl7ec29pg</guid>
                 
             </item>
         </channel>
