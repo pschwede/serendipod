@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 19 Mar 2026 05:24:57 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 20 Mar 2026 05:18:41 +0200</lastBuildDate>
             <item>
-                <title>Informativo Castilla y León Tarde 19:50 18/03/2026</title>
-                <description>null
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>Evakuierungs-Fahrzeuge für die Ukraine</title>
+                <description>Die Initiative &#34;Ми тут&#34; (Mi tut - Wir sind hier) aus Hannover, Augburg, Potsdam, Cottbus und Dresden fährt seit 2023 ca. 8x im Jahr gebrauchte aber noch funktionsfähige Dieselfahrzeuge und Krankenwagen in die Ukraine, wo sie zur Evakuierung von
+Feed: https://www.freie-radios.net/portal/podcast.php?rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-castilla-leon-tarde-19-50-18-03-2026/16987001/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/16987001.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-castilla-leon-tarde-19-50-18-03-2026/16987001/</guid>
+                <link>http://www.freie-radios.net/141424</link>
+                <enclosure type="audio/mpeg" length="1" url="http://www.freie-radios.net/mp3/20260316-evakuierungs-141424.mp3"/>
+                <guid>http://www.freie-radios.net/141424</guid>
                 
             </item><item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4370.xml</description>
+                <title>Kyren Wilson holt den zweiten Zacken der Krone</title>
+                <description>Kyren Wilson hat erstmals das Masters in London und damit seinen zweiten Titel bei einem Triple-Crown-Event gewonnen. Der Warrior behielt gegen Altmeister John Higgins mit 10:6 die Oberhand und krönte sich zum Champion des Einladungsturniers der Top 16. Im nicht immer hochklassigen und bisweilen seltsamen Match konnte Wilson stets ein Stück weit präsenter und souveräner agieren als sein Kontrahent. Higgins verpasste damit seine Chance auf einen dritten Titel beim Prestigeturnier...
+Feed: https://meinsportpodcast.de/motorsport/der-formel-1-podcast-diepodcastbros/feed/</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-449042.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0319/AU-20260319-0534-0700.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-449042.html</guid>
+                <link>https://meinsportpodcast.de/total-clearance/kyren-wilson-holt-den-zweiten-zacken-der-krone</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260115/kyren-wilson-holt-den-zweiten-zacken-der-krone.mp3?awCollectionId=10055&amp;awEpisodeId=260115"/>
+                <guid>https://meinsportpodcast.de/total-clearance/kyren-wilson-holt-den-zweiten-zacken-der-krone</guid>
                 
             </item>
         </channel>

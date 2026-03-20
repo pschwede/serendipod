@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 19 Mar 2026 05:25:16 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 20 Mar 2026 05:19:10 +0200</lastBuildDate>
             <item>
-                <title>ERF Plus - Bibel heute Der Friede Christi</title>
-                <description>Der Bibeltext Johannes 14,27-31 – ausgelegt von Andreas Hildebrandt. (Autor: Pastor Andreas Hildebrandt)
-Feed: https://feedpress.me/erf-plus-podcast</description>
+                <title>Чи може Україна вивести з ладу російську ППО надовго: пояснює авіаційний експерт</title>
+                <description>Сили оборони вдарили по центру ремонту російських…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:55012225/sounds.rss</description>
                 
                 
-                <link>https://feedpress.me/link/19281/17301797/5222-6163</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/19281/17301798/1123997.mp3"/>
-                <guid>https://feedpress.me/link/19281/17301797/5222-6163</guid>
+                <link>https://soundcloud.com/hromadske-radio/chi-mozhe-ukrayina-vivesti-z</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2287021268-hromadske-radio-chi-mozhe-ukrayina-vivesti-z.mp3"/>
+                <guid>https://soundcloud.com/hromadske-radio/chi-mozhe-ukrayina-vivesti-z</guid>
                 
             </item><item>
-                <title>Schachschwätzer | ein neues Schachgedicht von Martin Hahn</title>
-                <description>Unser Schachdichter Martin hat es wirklich nicht leicht. In seinem Schachverein gibt es dermaßen viele schräge Persönlichkeiten, dass jeder Trainingsabend zur Herausforderung wird. Heute berichtet Martin über Schachschwätzer Hans...
-Feed: https://meinsportpodcast.de/mixed-sport/feed/</description>
+                <title>Le débat de la question moyenne du jeudi 19 mars</title>
+                <description>
+Feed: https://feeds.simplecast.com/8bxI9MLf</description>
                 
                 
-                <link>https://meinsportpodcast.de/mixed-sport/schachschwaetzer-ein-neues-schachgedicht-von-martin-hahn/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/261781/schachschwaetzer-ein-neues-schachgedicht-von-martin-hahn.mp3?awCollectionId=00010035&amp;awEpisodeId=261781"/>
-                <guid>https://meinsportpodcast.de/mixed-sport/schachschwaetzer-ein-neues-schachgedicht-von-martin-hahn/</guid>
+                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/0ef46ce5-e012-4e38-bd93-08c78e8dceba/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=0ef46ce5-e012-4e38-bd93-08c78e8dceba&amp;category=Sports%2CNews&amp;episode_published_at=2026-03-19T17%3A40%3A00&amp;episode_title=Le+d%C3%A9bat+de+la+question+moyenne+du+jeudi+19+mars&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
+                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
                 
             </item>
         </channel>

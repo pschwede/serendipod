@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 19 Mar 2026 05:25:11 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 20 Mar 2026 05:19:04 +0200</lastBuildDate>
             <item>
-                <title>Podcast #1,103: How to Help Disengaged Young Men Reclaim Drive and Direction</title>
-                <description>&lt;p&gt;Â Not long ago, the primary concern people had about boys was that they were wild, impulsive, and out of control - getting into fights, pushing limits, and stirring up trouble. Today, the problem has flipped....&lt;/p&gt;&lt;p&gt;This item belongs to: audio/podcasts_miscellaneous.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
-Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
+                <title>NDR 1 Radio MV Nachrichten</title>
+                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
+Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
                 
                 
-                <link>https://archive.org/details/a3mguovynksckolbh5xytsnsyatveencqo3kky50</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/a3mguovynksckolbh5xytsnsyatveencqo3kky50/format=VBR+MP3&amp;ignore=x.mp3"/>
-                <guid>https://archive.org/details/a3mguovynksckolbh5xytsnsyatveencqo3kky50</guid>
+                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-449966.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0319/AU-20260319-2008-3500.mp3"/>
+                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-449966.html</guid>
                 
             </item><item>
-                <title>澳洲租房可负担性创新低 维也纳模式是否值得借鉴？</title>
-                <description>澳大利亚的租房可负担性已降至新低。但在欧洲，有一座城市拥有一套已有百年历史的社会住房模式，为约一半人口提供可负担住房。由于租金低廉、租约稳定，这一模式让一些人将其称为“租客的天堂”。点击音频，收听完整报道。
-Feed: https://sbs-ondemand.streamguys1.com/sbs-mandarin/</description>
+                <title>Aus Open Tag 2: Swiatek und Andreeva mit Schwierigkeiten - Wawrinka verlängert Australien-Aufenthalt</title>
+                <description>Willkommen zur neuen Ausgabe von Chip &amp; Charge, dieses Mal mit dem zweiten Tag von den Australian Open 2026.
+Heute gab es in Melbourne weniger spektakuläre Matches als noch am Tag zuvor, lediglich einige kleinere und größere Überraschungen. Bei den Damen hatte Iga Swiatek ein paar Probleme mit ihrer Gegnerin Yue Yuan, vor allem beim zweiten Aufschlag. Letztlich gewann sie jedoch in zwei Sätzen. Nun geht es gegen Marie Bouzkova...
+Feed: https://meinsportpodcast.de/feed/</description>
                 
                 
-                <link>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/has-vienna-solved-the-problem-of-housing-affordability/tl7ec29pg</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-mandarin/20260319131420-ca-E7A79FE688BFE58FAFE8B49FE68B85E680A7-yuye.mp3?awCollectionId=sbs-mandarin&amp;awGenre=News&amp;awEpisodeId=0000019d-035e-dfd6-af9f-ef7e362a0000&amp;dur_cat=2"/>
-                <guid>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/has-vienna-solved-the-problem-of-housing-affordability/tl7ec29pg</guid>
+                <link>https://meinsportpodcast.de/chip-charge/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260364/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt.mp3?awCollectionId=10015&amp;awEpisodeId=260364"/>
+                <guid>https://meinsportpodcast.de/chip-charge/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt</guid>
                 
             </item>
         </channel>
