@@ -9,27 +9,34 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 20 Mar 2026 05:19:04 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Mar 2026 05:46:49 +0200</lastBuildDate>
             <item>
-                <title>NDR 1 Radio MV Nachrichten</title>
-                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
-Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
+                <title>EP 273 - Tailspin - IT SicherheitMarkePolizei</title>
+                <description>Ja ein kleiner Rant über Patch und Vuln Management. Und die Polizei an Sonntagen.
+ 
+Links:
+https://www.youtube.com/watch?v=EF4bl_ZEmhs
+https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-221601-1032.pdf?__blob=publicationFile&amp;amp;v=6
+https://media.ccc.de/v/eh22-138-panic-at-the-cve-o-theque
+https://www.heise.de/news/Zero-Day-erlaubt-Codeausfuehrung-in-WindChill-und-FlexPLM-11220521.html
+https://en.wikipedia.org/wiki/Windchill_(software)
+https://www.heise...
+Feed: https://www.ochmenno.cloud/feed.xml</description>
                 
                 
-                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-449966.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0319/AU-20260319-2008-3500.mp3"/>
-                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-449966.html</guid>
+                <link>https://www.ochmenno.cloud/e/ep-273-tailspin-it-sicherheitmarkepolizei/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mcdn.podbean.com/mf/web/dhydtodijksh7xkp/2026-03-24-Tailspin-ITSicherheitMarkePolizei.mp3"/>
+                <guid>https://www.ochmenno.cloud/e/ep-273-tailspin-it-sicherheitmarkepolizei/</guid>
                 
             </item><item>
-                <title>Aus Open Tag 2: Swiatek und Andreeva mit Schwierigkeiten - Wawrinka verlängert Australien-Aufenthalt</title>
-                <description>Willkommen zur neuen Ausgabe von Chip &amp; Charge, dieses Mal mit dem zweiten Tag von den Australian Open 2026.
-Heute gab es in Melbourne weniger spektakuläre Matches als noch am Tag zuvor, lediglich einige kleinere und größere Überraschungen. Bei den Damen hatte Iga Swiatek ein paar Probleme mit ihrer Gegnerin Yue Yuan, vor allem beim zweiten Aufschlag. Letztlich gewann sie jedoch in zwei Sätzen. Nun geht es gegen Marie Bouzkova...
-Feed: https://meinsportpodcast.de/feed/</description>
+                <title>The Blueprint: Dr. Cray Noah, MD Returns- 2.0 (UCLA/Harvard/Georgia Tech)</title>
+                <description>&lt;p&gt;The Blueprint: Dr. Cray Noah, MD Returns- 2.0 (UCLA/Harvard/Georgia Tech)&lt;/p&gt;&lt;p&gt;---&lt;/p&gt;&lt;p&gt;Innovation isn&amp;#39;t accidental; it&amp;#39;s designed. Welcome to The Blueprint, a show committed to inventing the future and closing the gap between aspiration and achievement. We deconstruct the mechanics of success in modern science to provide access to the insights that matter most.&lt;/p&gt;&lt;p&gt;On this episode with Dr...
+Feed: https://anchor.fm/s/2ded5364/podcast/rss</description>
                 
                 
-                <link>https://meinsportpodcast.de/chip-charge/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260364/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt.mp3?awCollectionId=10015&amp;awEpisodeId=260364"/>
-                <guid>https://meinsportpodcast.de/chip-charge/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt</guid>
+                <link>https://podcasters.spotify.com/pod/show/david-ferguson16/episodes/The-Blueprint-Dr--Cray-Noah--MD-Returns--2-0-UCLAHarvardGeorgia-Tech-e3fat5u</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/2ded5364/podcast/play/115749502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2Fb2d1076f-0a8d-edbf-0e93-a93883623bdf.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/david-ferguson16/episodes/The-Blueprint-Dr--Cray-Noah--MD-Returns--2-0-UCLAHarvardGeorgia-Tech-e3fat5u</guid>
                 
             </item>
         </channel>

@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 20 Mar 2026 05:19:15 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 29 Mar 2026 05:47:05 +0200</lastBuildDate>
             <item>
-                <title>Health Minister To Hear Air Ambulance Requests On Upcoming Clare Visit</title>
-                <description>The Health Minister will be pressed to immediatel…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
+                <title>Die Nachrichten vom 29.03.2026, 07:00 Uhr</title>
+                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
+Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
                 
                 
-                <link>https://soundcloud.com/clarefm/health-minister-to-hear-air</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2286757763-clarefm-health-minister-to-hear-air.mp3"/>
-                <guid>https://soundcloud.com/clarefm/health-minister-to-hear-air</guid>
+                <link>https://www.deutschlandfunk.de/nachrichten-30226.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/03/29/nachrichten_dlf_20260329_0700_2bf695c2.mp3?refId=nachrichten-108"/>
+                <guid>https://www.deutschlandfunk.de/nachrichten-30226.html</guid>
                 
             </item><item>
-                <title>#935 – Pok pok pok pokcasten</title>
-                <description>
-HAPPY SHOOTING – Der Foto-Podcast für alle, die Spaß an Fotografie haben.Jede Woche neu mit Chris Marquardt und Boris Nienke.
-Im Podcast-Player, auf YouTube oder auf Twitch
-🎧 HÖREN:
-RSS-Feed •
-Appl…
-Feed: http://feeds.happyshooting.de/</description>
+                <title>NDR 1 Radio MV Nachrichten</title>
+                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
+Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
                 
                 
-                <link>https://happyshooting.de/2026/03/19/935-pok-pok-pok-pokcasten/</link>
-                <enclosure type="audio/mpeg" length="1" url="http://feeds.happyshooting.de/link/14868/17301856/hs935_pokpokpok.mp3"/>
-                <guid>https://happyshooting.de/2026/03/19/935-pok-pok-pok-pokcasten/</guid>
+                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-2882286.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0329/AU-20260329-0704-0400.mp3"/>
+                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-2882286.html</guid>
                 
             </item>
         </channel>
