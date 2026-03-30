@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 29 Mar 2026 05:46:37 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 30 Mar 2026 06:02:53 +0200</lastBuildDate>
             <item>
-                <title>Stonehenge - #1 Les Mystères - 3/6</title>
-                <description>
-Pour écouter l&#39;émission en entier, plus le Bonus, et sans pub !https://m.audiomeans.fr/s/S-tavkjvmo
- 
-Stonehenge : ce que personne ne vous a jamais vraiment expliqué - ...
-Feed: https://feeds.audiomeans.fr/feed/37944b5d-a1e1-466f-afe7-50ef2fa97d0c.xml</description>
+                <title>Beyond Belief - Sunday 29th March 2026</title>
+                <description>Stephen Fletcher presents Beyond Belief for Sunda…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
                 
                 
-                <link>https://podcasts.audiomeans.fr/timeline-5000-ans-dhistoire-integral-b4de9333/stonehenge-1-les-mysteres-36-39fb2e9e</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.audiomeans.fr/file/FbteVXJUvY/39fb2e9e-7cf7-49dd-9daa-2a63219ab2b1.mp3?_=1774514950&amp;ps=37944b5d-a1e1-466f-afe7-50ef2fa97d0c"/>
-                <guid>https://podcasts.audiomeans.fr/timeline-5000-ans-dhistoire-integral-b4de9333/stonehenge-1-les-mysteres-36-39fb2e9e</guid>
+                <link>https://soundcloud.com/clarefm/beyond-belief-sunday-29th</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2292148985-clarefm-beyond-belief-sunday-29th.mp3"/>
+                <guid>https://soundcloud.com/clarefm/beyond-belief-sunday-29th</guid>
                 
             </item><item>
-                <title>Поразка України та чого очікувати далі у відборі на Чемпіонат світу з футболу</title>
-                <description>У четвер, 26 березня, збірна України у півфіналі …
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:55012225/sounds.rss</description>
+                <title>NDR Info Nachrichten</title>
+                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
+Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
                 
                 
-                <link>https://soundcloud.com/hromadske-radio/porazka-ukrayini-ta-chogo</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2292234119-hromadske-radio-porazka-ukrayini-ta-chogo.mp3"/>
-                <guid>https://soundcloud.com/hromadske-radio/porazka-ukrayini-ta-chogo</guid>
+                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-2882910.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0330/AU-20260330-0705-3200.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-2882910.html</guid>
                 
             </item>
         </channel>
