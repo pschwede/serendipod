@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 30 Mar 2026 06:02:53 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 31 Mar 2026 05:47:38 +0200</lastBuildDate>
             <item>
-                <title>Beyond Belief - Sunday 29th March 2026</title>
-                <description>Stephen Fletcher presents Beyond Belief for Sunda…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
+                <title>Ein Blick in den Himmel: Der 23. Astronomietag lädt zum Staunen ein</title>
+                <description>Einen Blick in den Himmel konnte man wieder bei dem alljährlichen Astronomietag in Göttingen wagen. Dieser fand am vergangenen Wochenende statt und hatte für alle Altersgruppen etwas zu bieten. Dina Kirchhoff war für uns vor Ort und hat sich informiert.
+Feed: http://www.stadtradio-goettingen.de/srg/podcast.xml</description>
                 
                 
-                <link>https://soundcloud.com/clarefm/beyond-belief-sunday-29th</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2292148985-clarefm-beyond-belief-sunday-29th.mp3"/>
-                <guid>https://soundcloud.com/clarefm/beyond-belief-sunday-29th</guid>
+                <link>https://www.stadtradio-goettingen.de/beitraege/uni_und_wissenschaft/ein_blick_in_den_himmel_der_23_astronomietag_laedt_zum_staunen_ein/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.stadtradio-goettingen.de/beitraege/uni_und_wissenschaft/ein_blick_in_den_himmel_der_23_astronomietag_laedt_zum_staunen_ein//fetchMP3playout.mp3"/>
+                <guid>https://www.stadtradio-goettingen.de/beitraege/uni_und_wissenschaft/ein_blick_in_den_himmel_der_23_astronomietag_laedt_zum_staunen_ein/</guid>
                 
             </item><item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
+                <title>Under Armour&#39;s Attack on Nike | Signature Sneakers</title>
+                <description>When Michael Jordan signed with an upstart running shoe company called Nike in the 1980s, it revolutionized the signature sneaker landscape and made Nike the brand to beat. Under Armour made a similar play signing Steph Curry in 2013. But it didn’t pan out quite the way they hoped. Still, nowadays it seems like every star athlete needs a signature line. Tim Newcomb is a sneaker and sports tech reporter whose work has appeared in Forbes, Sports Illustrated, Esquire and more...
+Feed: https://rss.art19.com/business-wars</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-2882910.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0330/AU-20260330-0705-3200.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-2882910.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/350fa274-711a-4e62-80f3-01b62f747863.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item>
         </channel>

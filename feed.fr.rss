@@ -9,26 +9,34 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 30 Mar 2026 06:02:57 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 31 Mar 2026 05:47:47 +0200</lastBuildDate>
             <item>
-                <title>ERF Plus - Wort zum Tag Die Führungsstärke des Paulus</title>
-                <description>Die Bibelstelle Römer 15,18 – ausgelegt von Martin Leupold. (Autor: Martin Leupold)
-Feed: https://feedpress.me/erf-plus-podcast</description>
+                <title>Die Nachrichten für Leipzig (18.03.2026, 18 Uhr)</title>
+                <description>Aktuelle Nachrichten für Leipzig, gesendet bei mephisto 97.6 am 18.03.2026 um 18 Uhr.
+Redaktion: Nele Friedrich, Marie Hildebrandt, Delia Ansel-Curecana
+Sprecherin: Delia Ansel-Curecana
+Falls ihr mehr von uns hören wollt, schaut gerne auf unseren Social-Media-Kanälen vorbei:
+Instagram: instagram.com/mephisto976
+Threads: www.threads.com/@mephisto976
+Mastodon: mastodon.social/@mephisto976
+Bluesky: bsky.app/profile/mephisto976.bsky.social
+
+Feed: https://mephisto976.podcaster.de/mephisto976-nachrichten.rss</description>
                 
                 
-                <link>https://feedpress.me/link/19281/17309082/73-8184</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/19281/17309083/1123954.mp3"/>
-                <guid>https://feedpress.me/link/19281/17309082/73-8184</guid>
+                <link>https://mephisto976.podcaster.de/mephisto976-nachrichten/die-nachrichten-fuer-leipzig-18032026-18-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mephisto976.podcaster.de/mephisto976-nachrichten/media/1803_Nachrichten_1800.mp3"/>
+                <guid>https://mephisto976.podcaster.de/mephisto976-nachrichten/die-nachrichten-fuer-leipzig-18032026-18-uhr/</guid>
                 
             </item><item>
-                <title>Netflix : après F1, Damson Idris va porter la nouvelle adaptation de l’auteur de House of Cards</title>
-                <description>Après son rôle dans &#34;F1&#34;, Damson Idris va tenir l’affiche d’une série Netflix basée sur un livre de l’auteur ayant écrit &#34;House of Cards&#34;.
-Feed: https://www.cineserie.com/feed/</description>
+                <title>Die Arabella Nachrichten vom Dienstag, 31.03.2026 um 07:08 Uhr</title>
+                <description>Die aktuellen Nachrichten zum Nachhören
+Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
                 
                 
-                <link>https://www.cineserie.com/news/series/netflix-apres-f1-damson-idris-va-porter-la-nouvelle-adaptation-de-lauteur-de-house-of-cards-8681535/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://imgsrc.cineserie.com/2026/03/damson-idris-f1-the-movie-trailer-685107e6a39a7.png?width=&amp;height=&amp;aspect_ratio=:"/>
-                <guid>https://www.cineserie.com/news/series/netflix-apres-f1-damson-idris-va-porter-la-nouvelle-adaptation-de-lauteur-de-house-of-cards-8681535/</guid>
+                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-dienstag-31-03-2026-um-0708-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3168489_q1moajiwdkpet_r8zxe5lmjhio1.mp3"/>
+                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-dienstag-31-03-2026-um-0708-uhr/</guid>
                 
             </item>
         </channel>
