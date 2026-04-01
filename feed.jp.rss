@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Mar 2026 05:48:08 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 Apr 2026 06:00:58 +0200</lastBuildDate>
             <item>
-                <title>Twlight Zone Accident | Night for Night</title>
-                <description>Production on John Landis’ segment of Twilight Zone: The Movie reaches its dramatic finale.
-Audible subscribers can listen to all episodes of American Scandal ad-free right now. Join Audible today by downloading the Audible app.
-See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.
-Feed: https://rss.art19.com/american-scandal</description>
+                <title>NDR 1 Radio MV Nachrichten</title>
+                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
+Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
+                
+                
+                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-2885236.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0401/AU-20260401-0704-2800.mp3"/>
+                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-2885236.html</guid>
+                
+            </item><item>
+                <title>Under Armour&#39;s Attack on Nike | Signature Sneakers</title>
+                <description>When Michael Jordan signed with an upstart running shoe company called Nike in the 1980s, it revolutionized the signature sneaker landscape and made Nike the brand to beat. Under Armour made a similar play signing Steph Curry in 2013. But it didn’t pan out quite the way they hoped. Still, nowadays it seems like every star athlete needs a signature line. Tim Newcomb is a sneaker and sports tech reporter whose work has appeared in Forbes, Sports Illustrated, Esquire and more...
+Feed: https://rss.art19.com/business-wars</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/42cc7dec-184f-4778-b880-fc68d54e9f2c.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/350fa274-711a-4e62-80f3-01b62f747863.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
-                
-                
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-2884058.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0331/AU-20260331-0705-4700.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-2884058.html</guid>
                 
             </item>
         </channel>

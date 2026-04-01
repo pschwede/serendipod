@@ -9,34 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Mar 2026 05:47:47 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 Apr 2026 06:00:33 +0200</lastBuildDate>
             <item>
-                <title>Die Nachrichten für Leipzig (18.03.2026, 18 Uhr)</title>
-                <description>Aktuelle Nachrichten für Leipzig, gesendet bei mephisto 97.6 am 18.03.2026 um 18 Uhr.
-Redaktion: Nele Friedrich, Marie Hildebrandt, Delia Ansel-Curecana
-Sprecherin: Delia Ansel-Curecana
-Falls ihr mehr von uns hören wollt, schaut gerne auf unseren Social-Media-Kanälen vorbei:
-Instagram: instagram.com/mephisto976
-Threads: www.threads.com/@mephisto976
-Mastodon: mastodon.social/@mephisto976
-Bluesky: bsky.app/profile/mephisto976.bsky.social
-
-Feed: https://mephisto976.podcaster.de/mephisto976-nachrichten.rss</description>
+                <title>Exploring Hidden Dimensions with Brian Greene</title>
+                <description>Is our universe an inevitable outcome of the laws of physics? Neil deGrasse Tyson and comic co-host Chuck Nice sit down with theoretical physicist Brian Greene to discuss the Many-Worlds Interpretation, the structure of the multiverse, levels of infinity, and respond to cosmic queries Neil couldn’t answer.
+Feed: https://feeds.simplecast.com/4T39_jAj</description>
                 
                 
-                <link>https://mephisto976.podcaster.de/mephisto976-nachrichten/die-nachrichten-fuer-leipzig-18032026-18-uhr/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mephisto976.podcaster.de/mephisto976-nachrichten/media/1803_Nachrichten_1800.mp3"/>
-                <guid>https://mephisto976.podcaster.de/mephisto976-nachrichten/die-nachrichten-fuer-leipzig-18032026-18-uhr/</guid>
+                <link>siriusxm.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/e178d8a1-1d03-41c6-992c-f4958bc717a2/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&amp;awEpisodeId=e178d8a1-1d03-41c6-992c-f4958bc717a2&amp;feed=4T39_jAj"/>
+                <guid>siriusxm.com</guid>
                 
             </item><item>
-                <title>Die Arabella Nachrichten vom Dienstag, 31.03.2026 um 07:08 Uhr</title>
-                <description>Die aktuellen Nachrichten zum Nachhören
-Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
+                <title>Επίκαιρο| Τραμπ: Κοντά στο τέλος ο πόλεμος στο Ιράν – «Απαίσιοι οι σύμμαχοι στο ΝΑΤΟ»</title>
+                <description>Την εκτίμηση ότι ο πόλεμος στο Ιράν πλησιάζει στο τέλος του εξέφρασε ο πρόεδρος των ΗΠΑ Ντόναλντ Τραμπ, μιλώντας σε δημοσιογράφους στον Λευκό Οίκο. Ταυτόχρονα κάλεσε εκ νέου τους συμμάχους στο ΝΑΤΟ να συμμετάσχουν στις επιχειρήσεις, χαρακτηρίζοντάς τους απαίσιους, ενώ τόνισε πως αν χρειάζονται πετρέλαιο να το πάρουν μόνοι τους, από τα Στενά του Ορμούζ.
+Feed: https://sbs-ondemand.streamguys1.com/sbs-greek/</description>
                 
                 
-                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-dienstag-31-03-2026-um-0708-uhr/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3168489_q1moajiwdkpet_r8zxe5lmjhio1.mp3"/>
-                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-dienstag-31-03-2026-um-0708-uhr/</guid>
+                <link>https://www.sbs.com.au/language/greek/el/podcast-episode/trump-war-in-iran-nearing-an-end-nato-allies-are-terrible/ymkwzwb4s</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-greek/20260401160237-greek-ddf9f3bc-47b4-4a9c-abb9-ce9dd68cb74c.mp3?awCollectionId=sbs-greek&amp;awGenre=News&amp;awEpisodeId=0000019d-4764-d2cd-abdd-e77d798b0000&amp;dur_cat=2"/>
+                <guid>https://www.sbs.com.au/language/greek/el/podcast-episode/trump-war-in-iran-nearing-an-end-nato-allies-are-terrible/ymkwzwb4s</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 31 Mar 2026 05:47:38 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 01 Apr 2026 06:00:27 +0200</lastBuildDate>
             <item>
-                <title>Ein Blick in den Himmel: Der 23. Astronomietag lädt zum Staunen ein</title>
-                <description>Einen Blick in den Himmel konnte man wieder bei dem alljährlichen Astronomietag in Göttingen wagen. Dieser fand am vergangenen Wochenende statt und hatte für alle Altersgruppen etwas zu bieten. Dina Kirchhoff war für uns vor Ort und hat sich informiert.
-Feed: http://www.stadtradio-goettingen.de/srg/podcast.xml</description>
+                <title>Nachrichten 07:30 Uhr - 01.04.2026</title>
+                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
+Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
                 
                 
-                <link>https://www.stadtradio-goettingen.de/beitraege/uni_und_wissenschaft/ein_blick_in_den_himmel_der_23_astronomietag_laedt_zum_staunen_ein/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.stadtradio-goettingen.de/beitraege/uni_und_wissenschaft/ein_blick_in_den_himmel_der_23_astronomietag_laedt_zum_staunen_ein//fetchMP3playout.mp3"/>
-                <guid>https://www.stadtradio-goettingen.de/beitraege/uni_und_wissenschaft/ein_blick_in_den_himmel_der_23_astronomietag_laedt_zum_staunen_ein/</guid>
+                <link>https://www.ndr.de/wellenord/nachrichten-0730-uhr-01042026,audio-2885264.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0401/AU-20260401-0733-3900.mp3"/>
+                <guid>https://www.ndr.de/wellenord/nachrichten-0730-uhr-01042026,audio-2885264.html</guid>
                 
             </item><item>
-                <title>Under Armour&#39;s Attack on Nike | Signature Sneakers</title>
-                <description>When Michael Jordan signed with an upstart running shoe company called Nike in the 1980s, it revolutionized the signature sneaker landscape and made Nike the brand to beat. Under Armour made a similar play signing Steph Curry in 2013. But it didn’t pan out quite the way they hoped. Still, nowadays it seems like every star athlete needs a signature line. Tim Newcomb is a sneaker and sports tech reporter whose work has appeared in Forbes, Sports Illustrated, Esquire and more...
-Feed: https://rss.art19.com/business-wars</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/350fa274-711a-4e62-80f3-01b62f747863.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-2885134.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0401/AU-20260401-0502-4400.mp3"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-2885134.html</guid>
                 
             </item>
         </channel>
