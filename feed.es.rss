@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 01 Apr 2026 06:00:40 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 17 Apr 2026 06:08:50 +0200</lastBuildDate>
             <item>
-                <title>Folge 86: Vielseitigkeit im Wasser – Alica Gebhardt über Rettungsschwimmen als Leistungssport</title>
-                <description>Sekunden entscheiden. Ein Atemzug. Ein Griff zur Rettungspuppe. Was für Außenstehende aussieht wie Schwimmen mit Zusatzaufgabe, ist in Wahrheit eine der intensivsten und vielseitigsten Sportarten, die es gibt. Das Rettungsschwimmen basiert auf den Fähigkeiten der Wasserrettung aus Schwimmen, Laufen, Tauchen und dem Einsatz von Rettungsgeräten. Zu den Disziplinen gehören beispielsweise das Puppenretten, Retten mit Flossen oder das Hindernisschwimmen...
-Feed: https://meinsportpodcast.de/mixed-sport/feed/</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://meinsportpodcast.de/mixed-sport/folge-86-vielseitigkeit-im-wasser-alica-gebhardt-ueber-rettungsschwimmen-als-leistungssport/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/262021/folge-86-vielseitigkeit-im-wasser-alica-gebhardt-ueber-rettungsschwimmen-als-leistungssport.mp3?awCollectionId=00010035&amp;awEpisodeId=262021"/>
-                <guid>https://meinsportpodcast.de/mixed-sport/folge-86-vielseitigkeit-im-wasser-alica-gebhardt-ueber-rettungsschwimmen-als-leistungssport/</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3228748.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0417/AU-20260417-0505-3600.mp3"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3228748.html</guid>
                 
             </item><item>
-                <title>Образ Ліліт у єврейській традиції: між відьомством і фемінізмом</title>
-                <description>Хто така Ліліт, та звідки походить історія про не…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:55012225/sounds.rss</description>
+                <title>Mediodía Castilla y León - 16/04/2026</title>
+                <description>Mediodía Castilla y León - 16/04/2026
+Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
                 
                 
-                <link>https://soundcloud.com/hromadske-radio/obraz-lilit-u-yevrejskij</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2293587815-hromadske-radio-obraz-lilit-u-yevrejskij.mp3"/>
-                <guid>https://soundcloud.com/hromadske-radio/obraz-lilit-u-yevrejskij</guid>
+                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/mediodia-castilla-leon-16-04-2026/17026920/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17026920.mp3"/>
+                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/mediodia-castilla-leon-16-04-2026/17026920/</guid>
                 
             </item>
         </channel>

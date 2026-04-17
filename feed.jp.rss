@@ -9,25 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 01 Apr 2026 06:00:58 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 17 Apr 2026 06:09:08 +0200</lastBuildDate>
             <item>
-                <title>NDR 1 Radio MV Nachrichten</title>
-                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
-Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
+                <title>Die Arabella Nachrichten vom Freitag, 17.04.2026 um 07:08 Uhr</title>
+                <description>Die aktuellen Nachrichten zum Nachhören
+Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
                 
                 
-                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-2885236.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0401/AU-20260401-0704-2800.mp3"/>
-                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-2885236.html</guid>
+                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-freitag-17-04-2026-um-0708-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3193320_jmcbc6cqc2tyj_1645kk48pa8j3.mp3"/>
+                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-freitag-17-04-2026-um-0708-uhr/</guid>
                 
             </item><item>
-                <title>Under Armour&#39;s Attack on Nike | Signature Sneakers</title>
-                <description>When Michael Jordan signed with an upstart running shoe company called Nike in the 1980s, it revolutionized the signature sneaker landscape and made Nike the brand to beat. Under Armour made a similar play signing Steph Curry in 2013. But it didn’t pan out quite the way they hoped. Still, nowadays it seems like every star athlete needs a signature line. Tim Newcomb is a sneaker and sports tech reporter whose work has appeared in Forbes, Sports Illustrated, Esquire and more...
-Feed: https://rss.art19.com/business-wars</description>
+                <title>Fan Favorite: Great American Authors | Louisa May Alcott: The Breadwinner</title>
+                <description>In 1840, eight-year-old Louisa May Alcott moved to the small town of Concord, Massachusetts with her family. There, she spent her days wandering through the woods, putting on plays with her sisters, and learning from famed writers and philosophers such as Henry David Thoreau and Ralph Waldo Emerson.
+For years, Alcott struggled to achieve success as a writer. Then in 1868, she drew inspiration from her youth to write her beloved coming-of-age novel Little Women...
+Feed: https://rss.art19.com/american-history-tellers</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/350fa274-711a-4e62-80f3-01b62f747863.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/mgln.ai/e/4/rss.art19.com/episodes/caf3c603-37f1-4e79-bd8a-240bdd954732.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
                 <guid></guid>
                 
             </item>

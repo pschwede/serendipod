@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 01 Apr 2026 06:00:27 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 17 Apr 2026 06:08:39 +0200</lastBuildDate>
             <item>
-                <title>Nachrichten 07:30 Uhr - 01.04.2026</title>
-                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
-Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
+                <title>Lana Del Rey bringt neuen Bond-Song raus - jedoch nur für ein Videospiel</title>
+                <description> Hruschka, Lynn www.deutschlandfunkkultur.de, Studio 9 
+Feed: https://www.deutschlandfunkkultur.de/studio-102.xml</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/nachrichten-0730-uhr-01042026,audio-2885264.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0401/AU-20260401-0733-3900.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-0730-uhr-01042026,audio-2885264.html</guid>
+                <link>https://www.deutschlandfunkkultur.de/kis-3-lana-del-rey-bringt-neuen-bond-song-raus-jedoch-nur-fuer-ein-videospiel-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/04/17/kis_3_lana_del_rey_bringt_neuen_bond_song_raus_jedoch_nur_drk_20260417_0717_1ee5b7ac.mp3?refId=studio-102"/>
+                <guid>https://www.deutschlandfunkkultur.de/kis-3-lana-del-rey-bringt-neuen-bond-song-raus-jedoch-nur-fuer-ein-videospiel-100.html</guid>
                 
             </item><item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
+                <title>Street Fighter : Ryu et Ken Masters sont au cœur de la nouvelle bande-annonce</title>
+                <description>S&#39;ils sont présentés comme des frères, Ken Masters a clairement une dent contre Ryu dans la bande-annonce de &#34;Street Fighter&#34;.
+Feed: https://www.cineserie.com/feed/</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-2885134.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0401/AU-20260401-0502-4400.mp3"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-2885134.html</guid>
+                <link>https://www.cineserie.com/news/cinema/street-fighter-ryu-et-ken-masters-sont-au-coeur-de-la-nouvelle-bande-annonce-8694032/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://imgsrc.cineserie.com/2026/04/dfgs-dgsdfg-sdf-gsdfg-d.png?width=&amp;height=&amp;aspect_ratio=:"/>
+                <guid>https://www.cineserie.com/news/cinema/street-fighter-ryu-et-ken-masters-sont-au-coeur-de-la-nouvelle-bande-annonce-8694032/</guid>
                 
             </item>
         </channel>
