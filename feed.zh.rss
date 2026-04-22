@@ -9,34 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 17 Apr 2026 06:08:59 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 Apr 2026 06:05:54 +0200</lastBuildDate>
             <item>
-                <title>Die Nachrichten für Leipzig (02.04.2026, 18 Uhr)</title>
-                <description>Aktuelle Nachrichten für Leipzig, gesendet bei mephisto 97.6 am 02.04.2026 um 18 Uhr.
-Redaktion: Wiebke Pannbacker
-Sprecher: Fabian Schaar
-Falls ihr mehr von uns hören wollt, schaut gerne auf unseren Social-Media-Kanälen vorbei:
-Instagram: instagram.com/mephisto976
-Threads: www.threads.com/@mephisto976
-Mastodon: mastodon.social/@mephisto976
-Bluesky: bsky.app/profile/mephisto976.bsky.social
-
-Feed: https://mephisto976.podcaster.de/mephisto976-nachrichten.rss</description>
+                <title>Bluesmoosenonstop 2169-16-2026</title>
+                <description>Blind Willie&#39;s Johnson – Tombstones&amp;nbsp; - Desecration Row – 2025Dave Lambert – Ghost of Radiola...
+Feed: https://bluesmusic.podomatic.com/rss2.xml</description>
                 
                 
-                <link>https://mephisto976.podcaster.de/mephisto976-nachrichten/die-nachrichten-fuer-leipzig-02042026-18-uhr/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mephisto976.podcaster.de/mephisto976-nachrichten/media/0204_Nachrichten_1800.mp3"/>
-                <guid>https://mephisto976.podcaster.de/mephisto976-nachrichten/die-nachrichten-fuer-leipzig-02042026-18-uhr/</guid>
+                <link>https://www.podomatic.com/podcasts/bluesmusic/episodes/2026-04-18T23_43_26-07_00</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/bluesmusic.podomatic.com/enclosure/2026-04-18T23_43_26-07_00.mp3?_=1776581006.17744549"/>
+                <guid>https://www.podomatic.com/podcasts/bluesmusic/episodes/2026-04-18T23_43_26-07_00</guid>
                 
             </item><item>
-                <title>Die Gralssage</title>
-                <description>Eine Legende die bis heute beschäftigt
-Feed: https://letscast.fm/podcasts/zeitrisse-4798c07b/feed</description>
+                <title>2910 / MRT TBD</title>
+                <description>Arztbesuche wider Willen, der Eid des Hippodingens, der Fluch des Intros und das Glück an der Waschstraße.
+Feed: https://bastard.uber.space/feed/mp3/</description>
                 
                 
-                <link>https://letscast.fm/sites/zeitrisse-4798c07b/episode/die-gralssage</link>
-                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/a075a7ba/episode/5952a3ce.mp3?t=1775735696&amp;awCollectionId=80000179&amp;awEpisodeId=5952a3ce"/>
-                <guid>https://letscast.fm/sites/zeitrisse-4798c07b/episode/die-gralssage</guid>
+                <link>https://radiobastard.fm/2910-mrt-tbd/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://radiobastard.fm/podlove/file/2414/s/feed/c/mp3/2910.mp3"/>
+                <guid>https://radiobastard.fm/2910-mrt-tbd/</guid>
                 
             </item>
         </channel>

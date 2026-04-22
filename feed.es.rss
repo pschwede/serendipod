@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 17 Apr 2026 06:08:50 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 22 Apr 2026 06:05:46 +0200</lastBuildDate>
             <item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
+                <title>Trust lags behind technology.</title>
+                <description>Anthropic’s Mythos proves irresistible despite claimed supply chain risks.Iran claims U.S. backdoors hit its networks. New Coast Guard rules target maritime OT security. A fresh NGate Android malware variant emerges. Thousands of ActiveMQ servers face active exploitation risk. CISA adds eight flaws to its KEV list. Progress patches MOVEit and LoadMaster bugs. Attackers impersonate IT staff over Microsoft Teams. A ransomware negotiator admits working with BlackCat...
+Feed: https://feeds.megaphone.fm/cyberwire-daily-podcast</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3228748.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0417/AU-20260417-0505-3600.mp3"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3228748.html</guid>
+                <link>https://www.thecyberwire.com/podcasts/daily-podcast/2535/notes</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW8962950939.mp3?updated=1776799080"/>
+                <guid>https://www.thecyberwire.com/podcasts/daily-podcast/2535/notes</guid>
                 
             </item><item>
-                <title>Mediodía Castilla y León - 16/04/2026</title>
-                <description>Mediodía Castilla y León - 16/04/2026
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>Ministra de la Mujer, Judith Marín: &#34;Lo que nosotros hemos trazado no son líneas ideológicas, son líneas realistas que buscan traer soluciones&#34;</title>
+                <description>Sobre el proceso de remoción de la directora nacional del SernamEG, las prioridades de su gestión en el Gobierno y el ataque contra su par de Ciencia, Ximena Lincolao, en la Universidad Austral, la ministra de la Mujer, Judith Marín, conversó este martes con Iván Valenzuela en Mesa Central.
+Feed: https://mdstrm.com/feeds/13-radios/entrevista-de-mesa-central</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/mediodia-castilla-leon-16-04-2026/17026920/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17026920.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/mediodia-castilla-leon-16-04-2026/17026920/</guid>
+                <link>https://mdstrm.com/audio/69e76cce7e66a1a2e42068b6.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mdstrm.com/audio/69e76cce7e66a1a2e42068b6.mp3"/>
+                <guid>https://mdstrm.com/audio/69e76cce7e66a1a2e42068b6.mp3</guid>
                 
             </item>
         </channel>
