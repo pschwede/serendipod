@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 Apr 2026 06:05:42 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 Apr 2026 06:36:40 +0200</lastBuildDate>
             <item>
-                <title>Kulturbetrieb im Krieg - Der Kulturpalast &#34;Ukraine&#34; in Kyjiw</title>
-                <description> Dornblüth, Gesine www.deutschlandfunkkultur.de, Studio 9 
-Feed: https://www.deutschlandfunkkultur.de/studio-102.xml</description>
+                <title>Nachrichten 07:30 Uhr - 28.04.2026</title>
+                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
+Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/kulturbetrieb-im-krieg-der-kulturpalast-ukraine-in-kyjiw-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/04/22/kulturbetrieb_im_krieg_der_kulturpalast_ukraine_in_kyjiw_drk_20260422_0708_55b147c3.mp3?refId=studio-102"/>
-                <guid>https://www.deutschlandfunkkultur.de/kulturbetrieb-im-krieg-der-kulturpalast-ukraine-in-kyjiw-100.html</guid>
+                <link>https://www.ndr.de/wellenord/nachrichten-0730-uhr-28042026,audio-3239526.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0428/AU-20260428-0732-3600.mp3"/>
+                <guid>https://www.ndr.de/wellenord/nachrichten-0730-uhr-28042026,audio-3239526.html</guid>
                 
             </item><item>
-                <title>洪水中的5分钟：昆州险情亲历者讲述逃生细节</title>
-                <description>今年初昆士兰州洪灾中，两名华人不幸罹难。与此同时，另外两名在相同灾情中险些遇难的中国女生JJ和Koko，讲述了她们死里逃生的经过——而她们的幸存，很大程度上依赖于偶然掌握的一个冷门技能。（点击音频，收听详细内容）。
-Feed: https://sbs-ondemand.streamguys1.com/sbs-mandarin/</description>
+                <title>Man Ray et Lee Miller (2/4) : l’ombre et la lumière</title>
+                <description>Découvrez l’histoire de l’un des plus célèbres couples d’artistes américains qui a marqué le début du XXe siècle : Man Ray et Lee Miller. Une histoire d’amour et d’émulation artistique où les egos s’admirent autant qu’ils s’affrontent…
+L’ombre et la lumière
+Man et Lee Miller s’aiment, leur complicité amoureuse et artistique est évidente. Mais Lee Miller est encore jeune : jeune femme et surtout jeune artiste. Pour l’instant la belle tient sagement sa place d’apprentie et de muse du grand génie...
+Feed: https://feeds.megaphone.fm/BABA7112846821</description>
                 
                 
-                <link>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/five-minutes-in-floodwaters-survivors-recall-a-close-call-in-queensland/ak0sq3np4</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-mandarin/20260422132050-mandarin-aaafa691-0def-4008-95c9-0d9ab9edd8bf.mp3?awCollectionId=sbs-mandarin&amp;awGenre=News&amp;awEpisodeId=0000019d-b302-da69-af9f-bba2f7770003&amp;dur_cat=3"/>
-                <guid>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/five-minutes-in-floodwaters-survivors-recall-a-close-call-in-queensland/ak0sq3np4</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA6073670747.mp3?updated=1774352638"/>
+                <guid></guid>
                 
             </item>
         </channel>

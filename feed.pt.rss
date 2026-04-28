@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 22 Apr 2026 06:05:50 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 28 Apr 2026 06:36:47 +0200</lastBuildDate>
             <item>
-                <title>FC St. Pauli: &#34;Wer 1:0 führt...&#34;</title>
-                <description>&lt;p&gt;&lt;strong&gt;Was macht man am besten, um eine uninspirierte und vorhersagbare (gefühlte) Niederlage des FC St. Pauli zu verarbeiten? Man geht am Sonnabend zum Fußball, sich andere Hamburger Klubs beim Abstiegskampf anschauen.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Einige von euch waren beim SV Werder und kamen mit zwiespältigen Gefühlen zurück...
-Feed: https://api.substack.com/feed/podcast/7423315.rss</description>
+                <title>NDR 1 Radio MV Nachrichten</title>
+                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
+Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
                 
                 
-                <link>https://erikpop.substack.com/p/fc-st-pauli-wer-10-fuhrt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://api.substack.com/feed/podcast/194687675/eddeed155cd4367f817b1630a1218445.mp3"/>
-                <guid>https://erikpop.substack.com/p/fc-st-pauli-wer-10-fuhrt</guid>
+                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3239568.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0428/AU-20260428-0804-2600.mp3"/>
+                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3239568.html</guid>
                 
             </item><item>
-                <title>WW II Nurses Turned Prisoners of War | The Devil You Know</title>
-                <description>Desperate to get away from the sadistic commandant in charge of their P.O.W. camp, the twelve Navy nurses, who call themselves the Twelve Anchors, agree to transfer to a new camp. It’s called Los Baños and it’s located deep in the jungle, 40 miles outside of Manilla. But when the nurses arrive, they realize this new camp has no medical supplies, not enough beds for prisoners to sleep on, not even running water. The nurses soon wonder if they made a grave mistake...
-Feed: https://rss.art19.com/against-the-odds</description>
+                <title>Echoes 008</title>
+                <description>28.04.2026 - Step into a new two-hour journey where sound, emotion, and rhythm collide. From deep, melodic moments to driving, high-energy peaks, this episode is built to pull you in and keep you there. Every transition, every layer, every beat is crafted to...
+Feed: https://cba.media/feed</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/e1dc3873-34b2-4a61-afd4-fa96cc5ed1ee.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://cba.media/773630</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/9/2/0000773629/echoes-008.mp3"/>
+                <guid>https://cba.media/773630</guid>
                 
             </item>
         </channel>
