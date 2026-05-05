@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 28 Apr 2026 06:36:47 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 05 May 2026 06:24:49 +0200</lastBuildDate>
             <item>
-                <title>NDR 1 Radio MV Nachrichten</title>
-                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
-Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
+                <title>Eintagsfliegen</title>
+                <description>Evolutionstheorie oder Nonsens?
+Feed: https://letscast.fm/podcasts/zeitrisse-4798c07b/feed</description>
                 
                 
-                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3239568.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0428/AU-20260428-0804-2600.mp3"/>
-                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3239568.html</guid>
+                <link>https://letscast.fm/sites/zeitrisse-4798c07b/episode/eintagsfliegen</link>
+                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/a075a7ba/episode/0b9a7883.mp3?t=1777394284&amp;awCollectionId=80000179&amp;awEpisodeId=0b9a7883"/>
+                <guid>https://letscast.fm/sites/zeitrisse-4798c07b/episode/eintagsfliegen</guid>
                 
             </item><item>
-                <title>Echoes 008</title>
-                <description>28.04.2026 - Step into a new two-hour journey where sound, emotion, and rhythm collide. From deep, melodic moments to driving, high-energy peaks, this episode is built to pull you in and keep you there. Every transition, every layer, every beat is crafted to...
-Feed: https://cba.media/feed</description>
+                <title>Sun Worshipping &amp; The True Nature Of The Alien Phenomena</title>
+                <description>My special guest was the late occult researcher Jordan Maxwell, who was here to discuss Sun(Son) Worship and who he says religions of the world are really having their masses pray to.Jordan Maxwell continues as a preeminent researcher and independent scholar in the field of occult/religious philosophy. His interest in these subjects began as far back as 1959. He served for three and a half years as the Religion Editor of Truth Seeker Magazine, America&#39;s oldest Freethought Journal (since 1873)...
+Feed: https://rss.amperwave.net/v2/feed/podcorn/305c38e16dc14113698bedc4b8d3cfaa</description>
                 
                 
-                <link>https://cba.media/773630</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/9/2/0000773629/echoes-008.mp3"/>
-                <guid>https://cba.media/773630</guid>
+                <link>https://player.amperwavepodcasting.com?feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F8355296_2026-05-04-072936</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdcn.co/e/serve.castfire.com/audio/8355296/8355296_2026-05-04-072936.128.mp3?rssID=5069"/>
+                <guid>https://player.amperwavepodcasting.com?feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F8355296_2026-05-04-072936</guid>
                 
             </item>
         </channel>
