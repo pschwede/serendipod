@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 05 May 2026 06:24:36 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 08 May 2026 06:04:10 +0200</lastBuildDate>
             <item>
-                <title>2918 / Kein Lerneffekt</title>
-                <description>Gewitter in Endlosschleife, melancholischer Happy Hardcore, kein Bock mehr auf musikhörende Menschen und Reflexionen über Nudisten.
-Feed: https://bastard.uber.space/feed/mp3/</description>
+                <title>MacVoices #26139: NAB - Krotos&#39; Newest Sound and Integration Enhancements</title>
+                <description>&lt;p&gt;Matthew Collings, Head of Product for Krotos was manning their booth at NAB in Las Vegas, showing off the latest upgrades to their new AI-assisted sound design workflows in Krotos Studio for Adobe Premiere, with support for DaVinci Resolve and other NLEs planned...
+Feed: https://maclevelten.libsyn.com/rss</description>
                 
                 
-                <link>https://radiobastard.fm/2918-kein-lerneffekt/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://radiobastard.fm/podlove/file/2422/s/feed/c/mp3/2918.mp3"/>
-                <guid>https://radiobastard.fm/2918-kein-lerneffekt/</guid>
+                <link>https://maclevelten.libsyn.com/macvoices-26139-nab-krotos-newest-sound-and-integration-enhancements</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/maclevelten/MV26139.mp3?dest-id=51998"/>
+                <guid>https://maclevelten.libsyn.com/macvoices-26139-nab-krotos-newest-sound-and-integration-enhancements</guid>
                 
             </item><item>
-                <title>Aus Open Tag 2: Swiatek und Andreeva mit Schwierigkeiten - Wawrinka verlängert Australien-Aufenthalt</title>
-                <description>Willkommen zur neuen Ausgabe von Chip &amp; Charge, dieses Mal mit dem zweiten Tag von den Australian Open 2026.
-Heute gab es in Melbourne weniger spektakuläre Matches als noch am Tag zuvor, lediglich einige kleinere und größere Überraschungen. Bei den Damen hatte Iga Swiatek ein paar Probleme mit ihrer Gegnerin Yue Yuan, vor allem beim zweiten Aufschlag. Letztlich gewann sie jedoch in zwei Sätzen. Nun geht es gegen Marie Bouzkova...
-Feed: https://meinsportpodcast.de/feed/</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://meinsportpodcast.de/chip-charge/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260364/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt.mp3?awCollectionId=10015&amp;awEpisodeId=260364"/>
-                <guid>https://meinsportpodcast.de/chip-charge/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3249740.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0508/AU-20260508-0705-5000.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3249740.html</guid>
                 
             </item>
         </channel>

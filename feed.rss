@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 05 May 2026 06:24:11 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 08 May 2026 06:04:03 +0200</lastBuildDate>
             <item>
-                <title>Informativo Castilla y León Tarde 19:50 04/05/2026</title>
-                <description>null
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>汉坦病毒会是又一波“新冠疫情”吗？</title>
+                <description>昆士兰科技大学研究教授、公共卫生与传染病流行病学专家胡文彪教授接受本台记者采访，讲解汉坦病毒会不会成为又一波“新冠疫情”。欢迎点击链接收听。
+Feed: https://sbs-ondemand.streamguys1.com/sbs-mandarin/</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-castilla-leon-tarde-19-50-04-05-2026/17053547/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17053547.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-castilla-leon-tarde-19-50-04-05-2026/17053547/</guid>
+                <link>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/could-hantavirus-trigger-another-covid/mpt9hravu</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-mandarin/20260508143236-mandarin-f2d02755-e00e-490c-983d-91655c7c4eb1.mp3?awCollectionId=sbs-mandarin&amp;awGenre=News&amp;awEpisodeId=0000019e-05a8-d1b4-a3df-07e91aca0003&amp;dur_cat=3"/>
+                <guid>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/could-hantavirus-trigger-another-covid/mpt9hravu</guid>
                 
             </item><item>
-                <title>2918 / Kein Lerneffekt</title>
-                <description>Gewitter in Endlosschleife, melancholischer Happy Hardcore, kein Bock mehr auf musikhörende Menschen und Reflexionen über Nudisten.
+                <title>2920 / Saug, du Napf!</title>
+                <description>Hammerharter Episodeneinstieg, neuer Klingelton statt neuer Podcast und tolle Tipps für aufregende Einsamkeit.
 Feed: https://bastard.uber.space/feed/mp3/</description>
                 
                 
-                <link>https://radiobastard.fm/2918-kein-lerneffekt/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://radiobastard.fm/podlove/file/2422/s/feed/c/mp3/2918.mp3"/>
-                <guid>https://radiobastard.fm/2918-kein-lerneffekt/</guid>
+                <link>https://radiobastard.fm/2920-saug-du-napf/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://radiobastard.fm/podlove/file/2424/s/feed/c/mp3/2920.mp3"/>
+                <guid>https://radiobastard.fm/2920-saug-du-napf/</guid>
                 
             </item>
         </channel>
