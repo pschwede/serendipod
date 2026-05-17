@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 08 May 2026 06:04:17 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 17 May 2026 06:48:55 +0200</lastBuildDate>
             <item>
-                <title>The backup plan needs a backup plan.</title>
-                <description>CISA pushes critical infrastructure to prepare for offline operations during cyberattacks. Questions grow over a shared U.S.-China AI threat. A Russian university is accused of feeding talent into GRU cyber units. Researchers warn poisoned data could quietly corrupt enterprise AI. LinkedIn faces a GDPR fight over monetizing user data. Millions downloaded fake Android call-history apps before Google pulled them. Dragos reports AI-assisted targeting of OT systems...
-Feed: https://feeds.megaphone.fm/cyberwire-daily-podcast</description>
+                <title>Mediodía Castilla y León - San Isidro -  15/05/2016</title>
+                <description>Mediodía Castilla y León - San Isidro -  15/05/2016
+Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
                 
                 
-                <link>https://www.thecyberwire.com/podcasts/daily-podcast/2547/notes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW9234807852.mp3?updated=1778178336"/>
-                <guid>https://www.thecyberwire.com/podcasts/daily-podcast/2547/notes</guid>
+                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/mediodia-castilla-leon-san-isidro-15-05-2016/17070746/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17070746.mp3"/>
+                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/mediodia-castilla-leon-san-isidro-15-05-2016/17070746/</guid>
                 
             </item><item>
-                <title>Vor dem Spiel – RaBa Leipzig (A) – Spieltag 33 – Saison 2025/26</title>
-                <description>RaBa Leipzig - FC St. Pauli Der FC St. Pauli gastiert in Leipzig. Ein Podcast über Trauer, alte Weggefährten und die sportliche Situation.(Titelbild im Blog: Stefan Groenveld) Es geht um alles. Der FC St. Pauli hat es in der eigenen Hand, beim letzten Auswärtsspiel bei RaBa Leipzig einen wichtigen Schritt im Klassenkampf zu machen. Zusammen mit Kai Bieler schaue ich daher auf die aktuelle Situation beim Aspiranten auf die Champions League...
-Feed: https://meinsportpodcast.de/fussball/feed/</description>
+                <title>#826 - Christoph Safferling über die Nürnberger Prozesse, Völkerrecht &amp; Altnazis</title>
+                <description>Politik für Desinteressierte
+Feed: https://jung-naiv.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://meinsportpodcast.de/fussball/vor-dem-spiel-raba-leipzig-a-spieltag-33-saison-2025-26/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://meinsportpodcast.de/podcast-download/262768/vor-dem-spiel-raba-leipzig-a-spieltag-33-saison-2025-26.mp3"/>
-                <guid>https://meinsportpodcast.de/fussball/vor-dem-spiel-raba-leipzig-a-spieltag-33-saison-2025-26/</guid>
+                <link>https://jung-naiv.podigee.io/1150-826-christoph-safferling-uber-die-nurnberger-prozesse-volkerrecht-altnazis</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2488993-m-a4a68af49b0cdc2d2d2d259fa083c65f.mp3?source=feed"/>
+                <guid>https://jung-naiv.podigee.io/1150-826-christoph-safferling-uber-die-nurnberger-prozesse-volkerrecht-altnazis</guid>
                 
             </item>
         </channel>

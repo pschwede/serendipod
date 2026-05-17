@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 08 May 2026 06:04:32 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 17 May 2026 06:49:02 +0200</lastBuildDate>
             <item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
+                <title>#826 - Christoph Safferling über die Nürnberger Prozesse, Völkerrecht &amp; Altnazis</title>
+                <description>Politik für Desinteressierte
+Feed: https://jung-naiv.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3249736.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0508/AU-20260508-0705-3300.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3249736.html</guid>
+                <link>https://jung-naiv.podigee.io/1150-826-christoph-safferling-uber-die-nurnberger-prozesse-volkerrecht-altnazis</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2488993-m-a4a68af49b0cdc2d2d2d259fa083c65f.mp3?source=feed"/>
+                <guid>https://jung-naiv.podigee.io/1150-826-christoph-safferling-uber-die-nurnberger-prozesse-volkerrecht-altnazis</guid>
                 
             </item><item>
-                <title>Ep. #1092: Weird Nightmare</title>
-                <description>&lt;p&gt;Alex Edkins returns to discuss the new Weird Nightmare album Hoopla, leaving Toronto to live in his childhood hometown of Ottawa, how touring and work travel can be difficult for a husband and a father, why the Buzzcocks and the Replacements inspired this latest batch of songs, the time a broken up METZ played Everybody’s Live with John Mulaney at the host’s request and interacting with him and Conan O’Brien, his thoughts on the end of METZ, recording with killer rhythm section Loel Campbell...
-Feed: https://feeds.acast.com/public/shows/3854f6b7-dd07-5986-9cab-9e69ded2bcbd</description>
+                <title>Nachruf: Angelica Domröse</title>
+                <description> Kranz, Oliver www.deutschlandfunk.de, Das war der Tag 
+Feed: https://www.deutschlandfunk.de/das-war-der-tag-112.xml</description>
                 
                 
-                <link>http://vishkhanna.com/2026/05/07/ep-1092-weird-nightmare/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/kreative-kontrol/e/69fbf1267272023359e3bfd3/media.mp3"/>
-                <guid>http://vishkhanna.com/2026/05/07/ep-1092-weird-nightmare/</guid>
+                <link>https://www.deutschlandfunk.de/nachruf-angelica-domroese-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/05/15/nachruf_angelica_domroese_dlf_20260515_2350_fe4975d8.mp3?refId=das-war-der-tag-112"/>
+                <guid>https://www.deutschlandfunk.de/nachruf-angelica-domroese-100.html</guid>
                 
             </item>
         </channel>
