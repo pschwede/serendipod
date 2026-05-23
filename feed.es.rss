@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 May 2026 06:48:55 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 23 May 2026 06:39:21 +0200</lastBuildDate>
             <item>
-                <title>Mediodía Castilla y León - San Isidro -  15/05/2016</title>
-                <description>Mediodía Castilla y León - San Isidro -  15/05/2016
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>【我们的故事】从21岁到31岁：华人女孩在澳十年未获永居</title>
+                <description>5月20日，来澳十年的华人女孩Joyce，踏上了返回中国的航班。从21岁到31岁，她在墨尔本完成学业、进入职场，也曾尝试过多条移民路径，却始终未能获得永居。随着临时工签到期，她最终不得不选择离开。而她特意将离开的日期，定在了5月20日，一个在简中互联网里常被赋予“我爱你”寓意的日子。她说：“因为我觉得，这一天是美好的。我不想给澳洲这十年的旅程，画上一个悲伤的句号。”点击音频，收听完整报道。
+Feed: https://sbs-ondemand.streamguys1.com/sbs-mandarin/</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/mediodia-castilla-leon-san-isidro-15-05-2016/17070746/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17070746.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/mediodia-castilla-leon-san-isidro-15-05-2016/17070746/</guid>
+                <link>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/our-story-she-came-to-australia-at-21-and-left-at-31-without-permanent-residency/wwzuorg5a</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/aussie-chinese-stories/20260523120016-mandarin-e715a5dc-41fe-4474-a591-f8302ca62e73.mp3?awCollectionId=sbs-mandarin&amp;awGenre=News&amp;awEpisodeId=0000019e-4db2-d903-a9ff-cfb2c5a60000&amp;dur_cat=4"/>
+                <guid>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/our-story-she-came-to-australia-at-21-and-left-at-31-without-permanent-residency/wwzuorg5a</guid>
                 
             </item><item>
-                <title>#826 - Christoph Safferling über die Nürnberger Prozesse, Völkerrecht &amp; Altnazis</title>
-                <description>Politik für Desinteressierte
-Feed: https://jung-naiv.podigee.io/feed/mp3</description>
+                <title>E330 - The Melody Chamber - Top 5 Songs About Trains</title>
+                <description>Choo-chooooo!  All abooooooooard!  This train may not run on time, but it does run off the rails...and fast.  
+This week, the Lads complete their &#34;Metal MAY-hem&#34; trifecta by covering the heaviest metal of &#39;em all: trains.  Joining in on the fun is Wallace Dietz and Dan-O Deckelman, who make up the creative engine of the Richmond, VA post-punk locomotive The Melody Chamber...
+Feed: https://feeds.megaphone.fm/onlythreelads</description>
                 
                 
-                <link>https://jung-naiv.podigee.io/1150-826-christoph-safferling-uber-die-nurnberger-prozesse-volkerrecht-altnazis</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2488993-m-a4a68af49b0cdc2d2d2d259fa083c65f.mp3?source=feed"/>
-                <guid>https://jung-naiv.podigee.io/1150-826-christoph-safferling-uber-die-nurnberger-prozesse-volkerrecht-altnazis</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/PAN2693763861.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

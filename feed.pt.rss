@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 May 2026 06:48:59 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 23 May 2026 06:39:29 +0200</lastBuildDate>
             <item>
-                <title>Mediodía Castilla y León - San Isidro -  15/05/2016</title>
-                <description>Mediodía Castilla y León - San Isidro -  15/05/2016
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>قسمت سه هزار و هفتصد و هشتاد و شش</title>
+                <description>&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/652fdf0e124b9d0012c3879f</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/mediodia-castilla-leon-san-isidro-15-05-2016/17070746/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17070746.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/mediodia-castilla-leon-san-isidro-15-05-2016/17070746/</guid>
+                <link>https://shows.acast.com/tarikh-tmdn-1/episodes/6a0a30baa8fad4c1becabd52</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/652fdf0e124b9d0012c3879f/e/6a0a30baa8fad4c1becabd52/media.mp3"/>
+                <guid>https://shows.acast.com/tarikh-tmdn-1/episodes/6a0a30baa8fad4c1becabd52</guid>
                 
             </item><item>
-                <title>Sam Furnish &amp; Bemo&#39;s Clothing</title>
-                <description>&lt;p&gt;In this episode of The Truth In The Art, I sit down with Sam Furnish—founder of Bemo&#39;s Clothing and the guy behind Baltimore&#39;s &#34;born in Baltimore&#34; premium civvies movement.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;About Sam Furnish:&lt;/strong&gt; Sam launched Bemo&#39;s Clothing in 2025 after years in the outdoor industry learning product development and manufacturing. The brand name comes from his father&#39;s childhood nickname—&#34;Bemo&#34;—given by Sam&#39;s grandpa in 1950s Midwest America alongside nicknames like &#34;Peavy&#34; and &#34;Muley...
-Feed: https://feeds.transistor.fm/the-truth-in-this-art</description>
+                <title>Extra-Curricular Chaos – Strixhaven One-Shot || Dice Friends</title>
+                <description>&lt;p&gt;Kathleen’s original Strixhaven D&amp;D game from MagicCon Vegas 2026, featuring players Reuben Bresler, Seanan McGuire, Carolyn Page, and Persephone Valentine. Support LRR: http://patreon.com/loadingreadyrun Merch: https://store.loadingreadyrun.com Discord: https://discord.gg/lrr Twitch: https://www.t....&lt;/p&gt;&lt;p&gt;This item belongs to: audio/loadingreadyrun.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
+Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
                 
                 
-                <link>https://www.thetruthinthisart.com/episodes/sam-furnish-bemos-clothing-building-baltimore-legacy-through-vintage-inspired-clothing</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/293f5d00/bfb5ddd5.mp3"/>
-                <guid>https://www.thetruthinthisart.com/episodes/sam-furnish-bemos-clothing-building-baltimore-legacy-through-vintage-inspired-clothing</guid>
+                <link>https://archive.org/details/dice-friends-strixhaven-one-shot-extra-curricular-chaos</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/dice-friends-strixhaven-one-shot-extra-curricular-chaos/format=VBR+MP3&amp;ignore=x.mp3"/>
+                <guid>https://archive.org/details/dice-friends-strixhaven-one-shot-extra-curricular-chaos</guid>
                 
             </item>
         </channel>

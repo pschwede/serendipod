@@ -9,31 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 17 May 2026 06:49:06 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 23 May 2026 06:39:36 +0200</lastBuildDate>
             <item>
-                <title>Mediodía Castilla y León - San Isidro -  15/05/2016</title>
-                <description>Mediodía Castilla y León - San Isidro -  15/05/2016
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>Le Journal horaire de 8h00</title>
+                <description>
+Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/mediodia-castilla-leon-san-isidro-15-05-2016/17070746/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17070746.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/mediodia-castilla-leon-san-isidro-15-05-2016/17070746/</guid>
+                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-8h00-29251343.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/a9cd0f09-220a-3383-9ef3-cb16633c38fa/d3c3fabc-e74e-38b6-a3bd-cddc79b565a6.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-8h00-29251343.html</guid>
                 
             </item><item>
-                <title>Story Time 271 – Forest Whittaker meets Dr Pierre Rock</title>
-                <description>It&#39;s Story Time, your weekly walk through cricket history. This week, a cryptic dance that ended up being far more geographical, the historical evolution of big days out, a deep dive into Australian sin taxes, and Adam has not seen The Crying Game. 
-Your Nerd Pledge numbers this week:
-2.35 - Michael Blesic
-2.22 - Debashish Biswas
-3.50 - Sean Moynihan
-14...
-Feed: https://feeds.megaphone.fm/COMG4127829564</description>
+                <title>Clare FM Sideline View Friday 22nd May</title>
+                <description>Another really busy show in store as we look ahea…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6048105073.mp3"/>
-                <guid></guid>
+                <link>https://soundcloud.com/clarefm/clare-fm-sideline-162163761</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2325520808-clarefm-clare-fm-sideline-162163761.mp3"/>
+                <guid>https://soundcloud.com/clarefm/clare-fm-sideline-162163761</guid>
                 
             </item>
         </channel>
