@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 23 May 2026 06:39:14 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 24 May 2026 07:25:54 +0200</lastBuildDate>
             <item>
-                <title>Wal-Watching</title>
-                <description>Mehr Aufmerksamkeit für lebende Wale!
-Feed: https://feeds.acast.com/public/shows/45033096-220b-4490-b648-7e822e82ccde</description>
+                <title>Celeb Spotting at the Flower Show &amp; Hotel Kettle Horrors Continue</title>
+                <description>&lt;p&gt;On today&#39;s ep: Vogue bumps into Mary Berry and Joanna Lumley at the Chelsea Flower Show, Amber gets her boobs checked, and the girls spiral into a very honest chat about childminders, death, and Winston’s ashes.&lt;/p&gt;&lt;p&gt;Plus, another chaotic quiz battle, some genuinely lovely post-divorce dating advice, and the most disgusting hotel kettle story of all time...
+Feed: https://feeds.captivate.fm/spencer-vogue/</description>
                 
                 
-                <link>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/wal-watching</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/mahlersmeinung-diepodcastkolumne/e/6a0eeb673bbd73b46e439643/media.mp3"/>
-                <guid>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/wal-watching</guid>
+                <link>https://spencer-vogue.captivate.fm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/ecc7fd07-5fbe-4030-a571-c80bd0ddeeff.mp3?aw_0_1st.showid=05bd145a-1a20-4c0d-b35f-2fe780450084&amp;aw_0_1st.episodeid=ecc7fd07-5fbe-4030-a571-c80bd0ddeeff"/>
+                <guid>https://spencer-vogue.captivate.fm</guid>
                 
             </item><item>
-                <title>Fin de Semana Pt. 28</title>
-                <description>23.05.2026 - In der heutigen Samstagausgabe:  Österreichs Fieslinge nutzen Macht und Geld, um Privatpersonen, aufgrund belangloser “Likes”, zu verklagen.  Links:  DerStandard: FPÖ klagt Klenk wegen kommentierten Reposts von Kickl-Video auf...
-Feed: https://cba.media/feed</description>
+                <title>NDR 1 Radio MV Nachrichten</title>
+                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
+Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
                 
                 
-                <link>https://cba.media/778239</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/7/3/0000778237/fin-de-semana-pt.-28.mp3"/>
-                <guid>https://cba.media/778239</guid>
+                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3265022.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0524/AU-20260524-0804-5100.mp3"/>
+                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3265022.html</guid>
                 
             </item>
         </channel>

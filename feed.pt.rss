@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 23 May 2026 06:39:29 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 24 May 2026 07:26:08 +0200</lastBuildDate>
             <item>
-                <title>قسمت سه هزار و هفتصد و هشتاد و شش</title>
-                <description>&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/652fdf0e124b9d0012c3879f</description>
+                <title>Nachrichten 08:00 Uhr - 24.05.2026</title>
+                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
+Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
                 
                 
-                <link>https://shows.acast.com/tarikh-tmdn-1/episodes/6a0a30baa8fad4c1becabd52</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/652fdf0e124b9d0012c3879f/e/6a0a30baa8fad4c1becabd52/media.mp3"/>
-                <guid>https://shows.acast.com/tarikh-tmdn-1/episodes/6a0a30baa8fad4c1becabd52</guid>
+                <link>https://www.ndr.de/wellenord/nachrichten-0800-uhr-24052026,audio-3265030.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0524/AU-20260524-0806-0300.mp3"/>
+                <guid>https://www.ndr.de/wellenord/nachrichten-0800-uhr-24052026,audio-3265030.html</guid>
                 
             </item><item>
-                <title>Extra-Curricular Chaos – Strixhaven One-Shot || Dice Friends</title>
-                <description>&lt;p&gt;Kathleen’s original Strixhaven D&amp;D game from MagicCon Vegas 2026, featuring players Reuben Bresler, Seanan McGuire, Carolyn Page, and Persephone Valentine. Support LRR: http://patreon.com/loadingreadyrun Merch: https://store.loadingreadyrun.com Discord: https://discord.gg/lrr Twitch: https://www.t....&lt;/p&gt;&lt;p&gt;This item belongs to: audio/loadingreadyrun.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
-Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://archive.org/details/dice-friends-strixhaven-one-shot-extra-curricular-chaos</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/dice-friends-strixhaven-one-shot-extra-curricular-chaos/format=VBR+MP3&amp;ignore=x.mp3"/>
-                <guid>https://archive.org/details/dice-friends-strixhaven-one-shot-extra-curricular-chaos</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3265026.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0524/AU-20260524-0805-2800.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3265026.html</guid>
                 
             </item>
         </channel>
