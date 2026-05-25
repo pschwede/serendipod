@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 24 May 2026 07:26:11 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 25 May 2026 08:25:55 +0200</lastBuildDate>
             <item>
-                <title>The Hurling Power Rankings: &#34;It&#39;s Bye Bye Kilkenny&#34; | &#34;Tipp were shocking!&#34; | Off The Ball</title>
-                <description>&lt;p&gt;Our hurling Power Rankings panel is back for another episode to go through the peaks and pits of the teams following an action packed weekend including Offaly&#39;s rare win over Wexford, Dublin&#39;s 3rd successive win over Galway and Limerick&#39;s clash with Waterford.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;The Power Rankings on Off the Ball, with Harvey Norman, Official Stats Sponsor of the GAA&lt;/p&gt;
-Feed: https://rss.podplaystudio.com/2663.xml</description>
+                <title>NDR Info Nachrichten</title>
+                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
+Feed: https://www.ndr.de/nachrichten/info/podcast4370.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://bauernordic-pods.sharp-stream.com/ie/2663/huring_pr_2105_mixdown_80f70e44_normal.mp3?aw_0_1st.episodeid=387800&amp;aw_0_1st.collectionid=2663"/>
-                <guid></guid>
+                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3265598.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0525/AU-20260525-0935-2000.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3265598.html</guid>
                 
             </item><item>
-                <title>SBS 廣東話新聞 (2026 年 5 月 24 日)</title>
-                <description>2026 年 5 月 24 日 SBS 廣東話節目詳盡早晨新聞報道。
-Feed: https://sbs-ondemand.streamguys1.com/sbs-cantonese/</description>
+                <title>MacVoices #26151: NAB - Topaz Labs Talks Upscaling, HDR, and Apple Silicon Performance</title>
+                <description>&lt;p&gt;At NAB 2026, Russell Pompea, Account Executive from Topaz Labs, discusses major advances in Topaz Video, including Starlight Precise 2.5 for restoring low-quality footage, SDR-to-HDR conversion, and Apple Silicon optimization. The conversation also covers Topaz&#39;s photography tools, model customization, subscription pricing, local vs. cloud processing, and shared responsibility for cloud security...
+Feed: https://maclevelten.libsyn.com/rss</description>
                 
                 
-                <link>https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-20260524/k285cb39w</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/sbs-cantonese/20260524120551-cantonese-5cfa84c1-529c-43fd-8ac9-7c1b6ed3b20b.mp3?awCollectionId=sbs-cantonese&amp;awGenre=News&amp;awEpisodeId=0000019e-57b5-d12e-abbe-f7b558080000&amp;dur_cat=3"/>
-                <guid>https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-20260524/k285cb39w</guid>
+                <link>https://maclevelten.libsyn.com/macvoices-26151-nab-topaz-labs-talks-upscaling-hdr-and-apple-silicon-performance</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/maclevelten/MV26151.mp3?dest-id=51998"/>
+                <guid>https://maclevelten.libsyn.com/macvoices-26151-nab-topaz-labs-talks-upscaling-hdr-and-apple-silicon-performance</guid>
                 
             </item>
         </channel>

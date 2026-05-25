@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 24 May 2026 07:26:08 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 25 May 2026 08:25:46 +0200</lastBuildDate>
             <item>
-                <title>Nachrichten 08:00 Uhr - 24.05.2026</title>
-                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
-Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
+                <title> Kula Shaker ‘Lucky Number’ </title>
+                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
+Feed: https://feeds.kcrw.com/podcast/show/tu</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/nachrichten-0800-uhr-24052026,audio-3265030.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0524/AU-20260524-0806-0300.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-0800-uhr-24052026,audio-3265030.html</guid>
+                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
+                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
                 
             </item><item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>Host &amp; Former MTV VJ Matt Pinfield&#39;s Talks About All The Great Singers Of The Grunge Era!</title>
+                <description>Host &amp; former MTV VJ Matt Pinfield&#39;s talks to Shout It Out Loudcast about all the great singers of the Grunge Era!
+Feed: https://feeds.megaphone.fm/shoutitoutloudcast</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3265026.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0524/AU-20260524-0805-2800.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3265026.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/PAN2172517232.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
