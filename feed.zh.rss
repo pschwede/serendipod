@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 25 May 2026 08:25:55 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 01 Jun 2026 09:31:32 +0200</lastBuildDate>
             <item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4370.xml</description>
+                <title>A quelques heures de la grande finale, le SMS a débattu sur la confiance d&#39;Arsenal, est-ce à double tranchant?</title>
+                <description>
+Feed: https://feeds.simplecast.com/8bxI9MLf</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3265598.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0525/AU-20260525-0935-2000.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3265598.html</guid>
+                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/cb2d50f4-5365-4d8a-85a6-00599f1b3f86/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=cb2d50f4-5365-4d8a-85a6-00599f1b3f86&amp;category=Sports%2CNews&amp;episode_published_at=2026-05-30T05%3A00%3A02&amp;episode_title=A+quelques+heures+de+la+grande+finale%2C+le+SMS+a+d%C3%A9battu+sur+la+confiance+d%27Arsenal%2C+est-ce+%C3%A0+double+tranchant%3F&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
+                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
                 
             </item><item>
-                <title>MacVoices #26151: NAB - Topaz Labs Talks Upscaling, HDR, and Apple Silicon Performance</title>
-                <description>&lt;p&gt;At NAB 2026, Russell Pompea, Account Executive from Topaz Labs, discusses major advances in Topaz Video, including Starlight Precise 2.5 for restoring low-quality footage, SDR-to-HDR conversion, and Apple Silicon optimization. The conversation also covers Topaz&#39;s photography tools, model customization, subscription pricing, local vs. cloud processing, and shared responsibility for cloud security...
-Feed: https://maclevelten.libsyn.com/rss</description>
+                <title>NDR 1 Radio MV Nachrichten</title>
+                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
+Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
                 
                 
-                <link>https://maclevelten.libsyn.com/macvoices-26151-nab-topaz-labs-talks-upscaling-hdr-and-apple-silicon-performance</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/maclevelten/MV26151.mp3?dest-id=51998"/>
-                <guid>https://maclevelten.libsyn.com/macvoices-26151-nab-topaz-labs-talks-upscaling-hdr-and-apple-silicon-performance</guid>
+                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3272370.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0601/AU-20260601-1104-0300.mp3"/>
+                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3272370.html</guid>
                 
             </item>
         </channel>

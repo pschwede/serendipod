@@ -9,29 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 25 May 2026 08:25:43 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 01 Jun 2026 09:31:21 +0200</lastBuildDate>
             <item>
-                <title>Shi De De   - Jasmin Tutum</title>
-                <description>&lt;p&gt;bis zum 30. Mai, könnt ihr noch die multimediale Ausstellung von Jasmin Tutum in der altern Kaiserwache nach Vereinbarung erleben. &lt;/p&gt;
-&lt;p&gt;Im Beitrag führt uns die Künstlerin durch die Ausstellung und läd uns ein ein eigenes Bild zu generieren.&lt;/p&gt;
-&lt;p&gt;Terminvereinbarungen und ein Einblick in den Kunsort gibt es unter:&lt;/p&gt;
-&lt;p&gt;https://kaiserwache.com&lt;/p&gt;
-Feed: https://rdl.de/podcast</description>
-                
-                
-                <link>https://rdl.de/beitrag/shi-de-de-jasmin-tutum</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/05/20260524-shidedejasmi-w38974.mp3"/>
-                <guid>https://rdl.de/beitrag/shi-de-de-jasmin-tutum</guid>
-                
-            </item><item>
                 <title>NDR Info Nachrichten</title>
                 <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
 Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3265586.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0525/AU-20260525-0905-0700.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3265586.html</guid>
+                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3272372.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0601/AU-20260601-1104-5301.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3272372.html</guid>
+                
+            </item><item>
+                <title>Informativo Salamanca 08:45 - 01/06/2026</title>
+                <description>Informativo Salamanca 08:45 - 01/06/2026
+Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                
+                
+                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-salamanca-08-45-01-06-2026/17094399/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17094399.mp3"/>
+                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-salamanca-08-45-01-06-2026/17094399/</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 25 May 2026 08:25:46 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 01 Jun 2026 09:31:27 +0200</lastBuildDate>
             <item>
-                <title> Kula Shaker ‘Lucky Number’ </title>
-                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
-Feed: https://feeds.kcrw.com/podcast/show/tu</description>
+                <title>Die Nachrichten vom 01.06.2026, 11:00 Uhr</title>
+                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
+Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
                 
                 
-                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
-                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
+                <link>https://www.deutschlandfunk.de/nachrichten-34498.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/06/01/nachrichten_dlf_20260601_1100_d769512f.mp3?refId=nachrichten-108"/>
+                <guid>https://www.deutschlandfunk.de/nachrichten-34498.html</guid>
                 
             </item><item>
-                <title>Host &amp; Former MTV VJ Matt Pinfield&#39;s Talks About All The Great Singers Of The Grunge Era!</title>
-                <description>Host &amp; former MTV VJ Matt Pinfield&#39;s talks to Shout It Out Loudcast about all the great singers of the Grunge Era!
-Feed: https://feeds.megaphone.fm/shoutitoutloudcast</description>
+                <title>Che Cos&#39;è la Vita? Speciale Darwin Day 2025 | Redazione STEM con R. Bizzarri</title>
+                <description>Celebriamo l&#39;anniversario della nascita di Darwin spiegando come la teoria dell&#39;evoluzione abbia restituito valore scientifico alla biologa e ci permetta di affrontare scientificamente la domanda: che cosa è la vita?
+Oggi 12 Febbraio è l&#39;anniversario della nascita di Charles darwin e nel mondo si celebra il Darwin Day. Questa live proporrà una &#34;lezione&#34; su un tema affascinante: come si risponde alla domanda &#34;cosa è la vita?&#34;...
+Feed: https://creator-rss.listenbox.app/qM3DDfgToBqa/audio.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/PAN2172517232.mp3"/>
-                <guid></guid>
+                <link>https://www.youtube.com/watch?v=GRRRR-2ov7A</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.listenbox.app/a/mxChv0VYGyP.m4a?show_id=qM3DDfgToBqa&amp;v=3"/>
+                <guid>https://www.youtube.com/watch?v=GRRRR-2ov7A</guid>
                 
             </item>
         </channel>
