@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 01 Jun 2026 09:31:36 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 09 Jun 2026 07:56:37 +0200</lastBuildDate>
             <item>
-                <title>Che Cos&#39;è la Vita? Speciale Darwin Day 2025 | Redazione STEM con R. Bizzarri</title>
-                <description>Celebriamo l&#39;anniversario della nascita di Darwin spiegando come la teoria dell&#39;evoluzione abbia restituito valore scientifico alla biologa e ci permetta di affrontare scientificamente la domanda: che cosa è la vita?
-Oggi 12 Febbraio è l&#39;anniversario della nascita di Charles darwin e nel mondo si celebra il Darwin Day. Questa live proporrà una &#34;lezione&#34; su un tema affascinante: come si risponde alla domanda &#34;cosa è la vita?&#34;...
-Feed: https://creator-rss.listenbox.app/qM3DDfgToBqa/audio.xml</description>
+                <title>NDR Info Nachrichten</title>
+                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
+Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
                 
                 
-                <link>https://www.youtube.com/watch?v=GRRRR-2ov7A</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.listenbox.app/a/mxChv0VYGyP.m4a?show_id=qM3DDfgToBqa&amp;v=3"/>
-                <guid>https://www.youtube.com/watch?v=GRRRR-2ov7A</guid>
+                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3288324.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0609/AU-20260609-0904-3100.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3288324.html</guid>
                 
             </item><item>
-                <title>Cabin Crew Confessions &amp; are the Girls heading for an Oasis-style Split?</title>
-                <description>&lt;p&gt;This week: The girls are melting at Center Parcs, Vogue is seriously questioning whether she can survive the heat whilst pregnant, and Otto forces Amber onto the rapids roughly a hundred times.&lt;/p&gt;&lt;p&gt;Plus, the quiz sends everyone over the edge, we&#39;ve a windy cabin crew confession, a message all about pregnancy sickness, and the girls help a listener dealing with full-on friend burnout...
-Feed: https://feeds.captivate.fm/spencer-vogue/</description>
+                <title>Wissenschaftsmeldungen 05.06.2026</title>
+                <description> Stang, Michael www.deutschlandfunk.de, Forschung aktuell 
+Feed: https://www.deutschlandfunk.de/forschung-aktuell-104.xml</description>
                 
                 
-                <link>https://spencer-vogue.captivate.fm</link>
-                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/19f1a322-3789-4948-9790-dd968c7fa854.mp3?aw_0_1st.showid=05bd145a-1a20-4c0d-b35f-2fe780450084&amp;aw_0_1st.episodeid=19f1a322-3789-4948-9790-dd968c7fa854"/>
-                <guid>https://spencer-vogue.captivate.fm</guid>
+                <link>https://www.deutschlandfunk.de/wissenschaftsmeldungen-05-06-102.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/06/05/wissenschaftsmeldungen_05062026_dlf_20260605_1654_a36dedb0.mp3?refId=forschung-aktuell-104"/>
+                <guid>https://www.deutschlandfunk.de/wissenschaftsmeldungen-05-06-102.html</guid>
                 
             </item>
         </channel>

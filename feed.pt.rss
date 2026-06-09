@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 01 Jun 2026 09:31:27 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 09 Jun 2026 07:56:26 +0200</lastBuildDate>
             <item>
-                <title>Die Nachrichten vom 01.06.2026, 11:00 Uhr</title>
-                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
-Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
+                <title>Baselbieter Gemeinden kritisieren Sparpläne des Bundes</title>
+                <description>Der Verband Basellandschaftlicher Gemeinden ist unzufrieden mit geplanten Sparmassnahmen des Bundes. Dieser will Gelder fürs Asylwesen streichen – die Mehrkosten müssten dann die Gemeinden tragen. Der Verband wendet sich darum mit einer Resolution an  ...
+Feed: https://www.srf.ch/feed/podcast/sd/55afe0fd-1de0-4964-9b13-101e9306617a.xml</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/nachrichten-34498.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/06/01/nachrichten_dlf_20260601_1100_d769512f.mp3?refId=nachrichten-108"/>
-                <guid>https://www.deutschlandfunk.de/nachrichten-34498.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://download-media.srf.ch/world/audio/Regionaljournal_Basel_Baselland_radio/2026/06/Regionaljournal_Basel_Baselland_radio_AUDI20260609_NR_0030_0ecc066b3b0d412cb6d66d5e07c0f80e.mp3?d=ap&amp;assetId=ba71c7d4-89f1-3996-baae-2b0cf5e69945"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Che Cos&#39;è la Vita? Speciale Darwin Day 2025 | Redazione STEM con R. Bizzarri</title>
-                <description>Celebriamo l&#39;anniversario della nascita di Darwin spiegando come la teoria dell&#39;evoluzione abbia restituito valore scientifico alla biologa e ci permetta di affrontare scientificamente la domanda: che cosa è la vita?
-Oggi 12 Febbraio è l&#39;anniversario della nascita di Charles darwin e nel mondo si celebra il Darwin Day. Questa live proporrà una &#34;lezione&#34; su un tema affascinante: come si risponde alla domanda &#34;cosa è la vita?&#34;...
-Feed: https://creator-rss.listenbox.app/qM3DDfgToBqa/audio.xml</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://www.youtube.com/watch?v=GRRRR-2ov7A</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.listenbox.app/a/mxChv0VYGyP.m4a?show_id=qM3DDfgToBqa&amp;v=3"/>
-                <guid>https://www.youtube.com/watch?v=GRRRR-2ov7A</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3288328.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0609/AU-20260609-0905-2400.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3288328.html</guid>
                 
             </item>
         </channel>

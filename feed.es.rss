@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 01 Jun 2026 09:31:21 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 09 Jun 2026 07:56:19 +0200</lastBuildDate>
             <item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
+                <title>Neue Friedensinitiative - Verhandlungslösung zwischen Russland und der Ukraine?</title>
+                <description> Dornblüth, Gesine www.deutschlandfunk.de, Informationen am Morgen 
+Feed: https://www.deutschlandfunk.de/informationen-am-morgen-102.xml</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3272372.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0601/AU-20260601-1104-5301.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3272372.html</guid>
+                <link>https://www.deutschlandfunk.de/verhandlungsloesung-zwischen-russland-und-der-ukraine-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/06/09/verhandlungsloesung_zwischen_russland_und_der_ukraine_dlf_20260609_0625_f7ac04b8.mp3?refId=informationen-am-morgen-102"/>
+                <guid>https://www.deutschlandfunk.de/verhandlungsloesung-zwischen-russland-und-der-ukraine-100.html</guid>
                 
             </item><item>
-                <title>Informativo Salamanca 08:45 - 01/06/2026</title>
-                <description>Informativo Salamanca 08:45 - 01/06/2026
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>MacVoices #26172: Live! - Exploit Speed, Bot Limits, and Bad Tech Features</title>
+                <description>&lt;p&gt;The MacVoices Live! panel examines Spotify adopting Apple-backed video podcast technology, Instagram&#39;s disappearing posts and why anyone would want them, and Microsoft expanding Copilot everywhere, whether it is a good idea or not. Chuck Joiner, David Ginsburg, Jeff Gamet, Guy Serle, Web Bixby, Eric Bolden, Marty Jencius, and Jim Rea also look at the risks of putting AI mini data centers in homes, and Plex&#39;s major lifetime Pass price hike.&lt;/p&gt; &lt;p&gt;MacVoices is supported by NordLayer...
+Feed: https://maclevelten.libsyn.com/rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-salamanca-08-45-01-06-2026/17094399/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17094399.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-salamanca-08-45-01-06-2026/17094399/</guid>
+                <link>https://maclevelten.libsyn.com/macvoices-26172-live-exploit-speed-bot-limits-and-bad-tech-features</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/maclevelten/MV26172.mp3?dest-id=51998"/>
+                <guid>https://maclevelten.libsyn.com/macvoices-26172-live-exploit-speed-bot-limits-and-bad-tech-features</guid>
                 
             </item>
         </channel>

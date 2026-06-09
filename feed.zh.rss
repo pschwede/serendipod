@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 01 Jun 2026 09:31:32 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 09 Jun 2026 07:56:30 +0200</lastBuildDate>
             <item>
-                <title>A quelques heures de la grande finale, le SMS a débattu sur la confiance d&#39;Arsenal, est-ce à double tranchant?</title>
-                <description>
-Feed: https://feeds.simplecast.com/8bxI9MLf</description>
+                <title>Informativo Zamora 8:45 - 09/06/26</title>
+                <description>Informativo Zamora 8:45 - 09/06/26
+Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
                 
                 
-                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/cb2d50f4-5365-4d8a-85a6-00599f1b3f86/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=cb2d50f4-5365-4d8a-85a6-00599f1b3f86&amp;category=Sports%2CNews&amp;episode_published_at=2026-05-30T05%3A00%3A02&amp;episode_title=A+quelques+heures+de+la+grande+finale%2C+le+SMS+a+d%C3%A9battu+sur+la+confiance+d%27Arsenal%2C+est-ce+%C3%A0+double+tranchant%3F&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
-                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
+                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-zamora-8-45-09-06-26/17106835/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17106835.mp3"/>
+                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-zamora-8-45-09-06-26/17106835/</guid>
                 
             </item><item>
-                <title>NDR 1 Radio MV Nachrichten</title>
-                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
-Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
+                <title>Megan Elcrat Discusses Urban Revitalization, Creative Spaces, and Station North</title>
+                <description>&lt;p&gt;In this episode of The Truth In This Art, returning guest &lt;strong&gt;Megan Elcrat&lt;/strong&gt; is back!&lt;/p&gt;&lt;p&gt;About &lt;strong&gt;Megan Elcrat&lt;/strong&gt;: &lt;strong&gt;Megan Elcrat&lt;/strong&gt; is the founding principal of &lt;strong&gt;Present Company&lt;/strong&gt;, a Baltimore-based architecture and design firm where she specializes in urban revitalization, adaptive reuse, and creative workspace design...
+Feed: https://feeds.transistor.fm/the-truth-in-this-art</description>
                 
                 
-                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3272370.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0601/AU-20260601-1104-0300.mp3"/>
-                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3272370.html</guid>
+                <link>https://www.thetruthinthisart.com/episodes/megan-elcrat</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/f7b452fc/eacad4e8.mp3"/>
+                <guid>https://www.thetruthinthisart.com/episodes/megan-elcrat</guid>
                 
             </item>
         </channel>
