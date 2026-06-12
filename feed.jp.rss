@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 09 Jun 2026 07:56:37 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 12 Jun 2026 08:37:51 +0200</lastBuildDate>
             <item>
                 <title>NDR Info Nachrichten</title>
                 <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
 Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3288324.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0609/AU-20260609-0904-3100.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3288324.html</guid>
+                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3295398.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0612/AU-20260612-1005-5000.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3295398.html</guid>
                 
             </item><item>
-                <title>Wissenschaftsmeldungen 05.06.2026</title>
-                <description> Stang, Michael www.deutschlandfunk.de, Forschung aktuell 
-Feed: https://www.deutschlandfunk.de/forschung-aktuell-104.xml</description>
+                <title>Nachrichten 09:00 Uhr - 12.06.2026</title>
+                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
+Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/wissenschaftsmeldungen-05-06-102.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/06/05/wissenschaftsmeldungen_05062026_dlf_20260605_1654_a36dedb0.mp3?refId=forschung-aktuell-104"/>
-                <guid>https://www.deutschlandfunk.de/wissenschaftsmeldungen-05-06-102.html</guid>
+                <link>https://www.ndr.de/wellenord/nachrichten-0900-uhr-12062026,audio-3295196.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0612/AU-20260612-0906-5100.mp3"/>
+                <guid>https://www.ndr.de/wellenord/nachrichten-0900-uhr-12062026,audio-3295196.html</guid>
                 
             </item>
         </channel>

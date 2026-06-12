@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 09 Jun 2026 07:56:30 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 12 Jun 2026 08:37:44 +0200</lastBuildDate>
             <item>
-                <title>Informativo Zamora 8:45 - 09/06/26</title>
-                <description>Informativo Zamora 8:45 - 09/06/26
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>Die Arabella Nachrichten vom Freitag, 12.06.2026 um 10:08 Uhr</title>
+                <description>Die aktuellen Nachrichten zum Nachhören
+Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-zamora-8-45-09-06-26/17106835/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17106835.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-zamora-8-45-09-06-26/17106835/</guid>
+                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-freitag-12-06-2026-um-1008-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3281115_xq8wmxjgkxobk_f7y22v81p7ftb.mp3"/>
+                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-freitag-12-06-2026-um-1008-uhr/</guid>
                 
             </item><item>
-                <title>Megan Elcrat Discusses Urban Revitalization, Creative Spaces, and Station North</title>
-                <description>&lt;p&gt;In this episode of The Truth In This Art, returning guest &lt;strong&gt;Megan Elcrat&lt;/strong&gt; is back!&lt;/p&gt;&lt;p&gt;About &lt;strong&gt;Megan Elcrat&lt;/strong&gt;: &lt;strong&gt;Megan Elcrat&lt;/strong&gt; is the founding principal of &lt;strong&gt;Present Company&lt;/strong&gt;, a Baltimore-based architecture and design firm where she specializes in urban revitalization, adaptive reuse, and creative workspace design...
-Feed: https://feeds.transistor.fm/the-truth-in-this-art</description>
+                <title>Ep. #1103: Jon Spencer</title>
+                <description>&lt;p&gt;Jon Spencer returns to discuss his new album Songs of Personal Loss and Protest, making the trek to play shows in Canadian cities like Edmonton, the uncertain status of Jon Spencer and the HITmakers, how his new trio featuring Kendall Wind and Macky Bowman came to be and whether or not this band will have a name, the comprehensive Jon Spencer fan site, Pop Catastrophe, what it’s like playing in a band with/relating to much younger musicians, their tremendous musical knowledge and skills,...
+Feed: https://feeds.acast.com/public/shows/3854f6b7-dd07-5986-9cab-9e69ded2bcbd</description>
                 
                 
-                <link>https://www.thetruthinthisart.com/episodes/megan-elcrat</link>
-                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/f7b452fc/eacad4e8.mp3"/>
-                <guid>https://www.thetruthinthisart.com/episodes/megan-elcrat</guid>
+                <link>http://vishkhanna.com/2026/06/11/ep-1103-jon-spencer/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/kreative-kontrol/e/6a2a0e3d518f9f10ebb58c7f/media.mp3"/>
+                <guid>http://vishkhanna.com/2026/06/11/ep-1103-jon-spencer/</guid>
                 
             </item>
         </channel>
