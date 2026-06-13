@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 12 Jun 2026 08:37:44 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 13 Jun 2026 07:52:53 +0200</lastBuildDate>
             <item>
-                <title>Die Arabella Nachrichten vom Freitag, 12.06.2026 um 10:08 Uhr</title>
-                <description>Die aktuellen Nachrichten zum Nachhören
-Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
+                <title>Wie doch die Zeit vergeht!</title>
+                <description>Das Leben, die Zeitspanne zwischen Geburt und Tod
+Feed: https://letscast.fm/podcasts/zeitrisse-4798c07b/feed</description>
                 
                 
-                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-freitag-12-06-2026-um-1008-uhr/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3281115_xq8wmxjgkxobk_f7y22v81p7ftb.mp3"/>
-                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-freitag-12-06-2026-um-1008-uhr/</guid>
+                <link>https://letscast.fm/sites/zeitrisse-4798c07b/episode/wie-doch-die-zeit-vergeht</link>
+                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/a075a7ba/episode/33c78fb5.mp3?t=1781025707&amp;awCollectionId=80000179&amp;awEpisodeId=33c78fb5"/>
+                <guid>https://letscast.fm/sites/zeitrisse-4798c07b/episode/wie-doch-die-zeit-vergeht</guid>
                 
             </item><item>
-                <title>Ep. #1103: Jon Spencer</title>
-                <description>&lt;p&gt;Jon Spencer returns to discuss his new album Songs of Personal Loss and Protest, making the trek to play shows in Canadian cities like Edmonton, the uncertain status of Jon Spencer and the HITmakers, how his new trio featuring Kendall Wind and Macky Bowman came to be and whether or not this band will have a name, the comprehensive Jon Spencer fan site, Pop Catastrophe, what it’s like playing in a band with/relating to much younger musicians, their tremendous musical knowledge and skills,...
-Feed: https://feeds.acast.com/public/shows/3854f6b7-dd07-5986-9cab-9e69ded2bcbd</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>http://vishkhanna.com/2026/06/11/ep-1103-jon-spencer/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/kreative-kontrol/e/6a2a0e3d518f9f10ebb58c7f/media.mp3"/>
-                <guid>http://vishkhanna.com/2026/06/11/ep-1103-jon-spencer/</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3297080.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0613/AU-20260613-0537-0600.mp3"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3297080.html</guid>
                 
             </item>
         </channel>

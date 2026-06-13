@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 12 Jun 2026 08:37:51 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 13 Jun 2026 07:53:02 +0200</lastBuildDate>
             <item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
+                <title>Die Arabella Nachrichten vom Samstag, 13.06.2026 um 09:08 Uhr</title>
+                <description>Die aktuellen Nachrichten zum Nachhören
+Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3295398.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0612/AU-20260612-1005-5000.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3295398.html</guid>
+                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-samstag-13-06-2026-um-0908-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3282702_i2p7anc03vz48_4cauv6drn3szt.mp3"/>
+                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-samstag-13-06-2026-um-0908-uhr/</guid>
                 
             </item><item>
-                <title>Nachrichten 09:00 Uhr - 12.06.2026</title>
-                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
-Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/nachrichten-0900-uhr-12062026,audio-3295196.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0612/AU-20260612-0906-5100.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-0900-uhr-12062026,audio-3295196.html</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3297080.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0613/AU-20260613-0537-0600.mp3"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3297080.html</guid>
                 
             </item>
         </channel>
