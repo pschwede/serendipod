@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 13 Jun 2026 07:53:02 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 16 Jun 2026 09:32:25 +0200</lastBuildDate>
             <item>
-                <title>Die Arabella Nachrichten vom Samstag, 13.06.2026 um 09:08 Uhr</title>
-                <description>Die aktuellen Nachrichten zum Nachhören
-Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
+                <title>Efer 738 (30-3-26): Tratar a ferida crónica e outros proxectos IGNICIA</title>
+                <description>Monográfico dedicado a coñecer os proxectos &#34;IGNICIA Proba de Concepto&#34; da Axencia Galega de Innovación. 
+(4:54) Conversamos con María Mayán (CINBIO, Universidade de Vigo) sobre SENPAD, unha terapia baseada en péptidos senoterapéuticos para frear a artrose atacando a raíz da enfermidade. 
+(15:44) Óscar Pérez, CEO de KIUR, preséntanos esta spin-off de Gradiant que emprega intelixencia artificial para mellorar o tratamento das feridas crónicas...
+Feed: https://feeds.ivoox.com/feed_fg_f1264656_filtro_1.xml</description>
                 
                 
-                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-samstag-13-06-2026-um-0908-uhr/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3282702_i2p7anc03vz48_4cauv6drn3szt.mp3"/>
-                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-samstag-13-06-2026-um-0908-uhr/</guid>
+                <link>https://www.ivoox.com/efer-738-30-3-26-tratar-a-ferida-cronica-e-audios-mp3_rf_175536451_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/efer-738-30-3-26-tratar-a-ferida-cronica-e_mf_175536451_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/efer-738-30-3-26-tratar-a-ferida-cronica-e-audios-mp3_rf_175536451_1.html</guid>
                 
             </item><item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
+                <title>&#34;Proud&#34; - Die queere HBO-Max-Serie aus Polen</title>
+                <description> Taszman, Jörg www.deutschlandfunk.de, Corso 
+Feed: https://www.deutschlandfunk.de/corso-104.xml</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3297080.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0613/AU-20260613-0537-0600.mp3"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3297080.html</guid>
+                <link>https://www.deutschlandfunk.de/proud-die-queere-hbo-max-serie-aus-polen-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/06/15/proud_die_queere_hbo_max_serie_aus_polen_dlf_20260615_1515_51a3a93e.mp3?refId=corso-104"/>
+                <guid>https://www.deutschlandfunk.de/proud-die-queere-hbo-max-serie-aus-polen-100.html</guid>
                 
             </item>
         </channel>

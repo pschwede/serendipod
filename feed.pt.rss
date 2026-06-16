@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 13 Jun 2026 07:52:50 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 16 Jun 2026 09:32:14 +0200</lastBuildDate>
             <item>
-                <title>Neues Olivia-Rodrigo-Album &#34;you seem pretty sad for a girl so in love&#34;</title>
-                <description> Reimann, Christoph www.deutschlandfunk.de, Corso 
-Feed: https://www.deutschlandfunk.de/corso-104.xml</description>
+                <title>Volksbegehren gescheitert</title>
+                <description>Die Schweiz bleibt bunt
+Feed: https://feeds.acast.com/public/shows/45033096-220b-4490-b648-7e822e82ccde</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/neues-olivia-rodrigo-album-you-seem-pretty-sad-for-a-girl-so-in-love-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/06/12/neues_olivia_rodrigo_album_you_seem_pretty_sad_for_a_girl_so_dlf_20260612_1521_5b22de6b.mp3?refId=corso-104"/>
-                <guid>https://www.deutschlandfunk.de/neues-olivia-rodrigo-album-you-seem-pretty-sad-for-a-girl-so-in-love-100.html</guid>
+                <link>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/volksbegehren-gescheitert</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/mahlersmeinung-diepodcastkolumne/e/6a2fb311cd02369494dce2ca/media.mp3"/>
+                <guid>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/volksbegehren-gescheitert</guid>
                 
             </item><item>
-                <title>2936 / Straffe Beeren</title>
-                <description>Spalten und Bestien, kein Hors-d’œuvre und keine dickflüssigen Lösungen, dafür aber grüne Matsche und opportunistische 72 Stunden.
-Feed: https://bastard.uber.space/feed/mp3/</description>
+                <title>Kiews Blick auf G7 - Auch Ukraine-Krieg als Thema in Evian</title>
+                <description> Gorgis, Elena www.deutschlandfunk.de, Informationen am Morgen 
+Feed: https://www.deutschlandfunk.de/informationen-am-morgen-102.xml</description>
                 
                 
-                <link>https://radiobastard.fm/2936-straffe-beeren/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://radiobastard.fm/podlove/file/2441/s/feed/c/mp3/2936.mp3"/>
-                <guid>https://radiobastard.fm/2936-straffe-beeren/</guid>
+                <link>https://www.deutschlandfunk.de/auch-ukraine-krieg-als-thema-in-evian-kiews-blick-auf-g-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/06/16/auch_ukraine_krieg_als_thema_in_evian_kiews_blick_auf_g7_dlf_20260616_0616_bdb531a8.mp3?refId=informationen-am-morgen-102"/>
+                <guid>https://www.deutschlandfunk.de/auch-ukraine-krieg-als-thema-in-evian-kiews-blick-auf-g-100.html</guid>
                 
             </item>
         </channel>

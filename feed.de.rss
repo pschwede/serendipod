@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 13 Jun 2026 07:52:39 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 16 Jun 2026 09:31:57 +0200</lastBuildDate>
             <item>
-                <title>2936 / Straffe Beeren</title>
-                <description>Spalten und Bestien, kein Hors-d’œuvre und keine dickflüssigen Lösungen, dafür aber grüne Matsche und opportunistische 72 Stunden.
-Feed: https://bastard.uber.space/feed/mp3/</description>
+                <title>Informativo León 08:45 - 16/06/2026</title>
+                <description>Informativo León 08:45 - 16/06/2026
+Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
                 
                 
-                <link>https://radiobastard.fm/2936-straffe-beeren/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://radiobastard.fm/podlove/file/2441/s/feed/c/mp3/2936.mp3"/>
-                <guid>https://radiobastard.fm/2936-straffe-beeren/</guid>
+                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-leon-08-45-16-06-2026/17117089/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17117089.mp3"/>
+                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-leon-08-45-16-06-2026/17117089/</guid>
                 
             </item><item>
-                <title>BONUS: Evan Cohen&#39;s NBA Finals Game 5 Special</title>
-                <description>BONUS: Evan Cohen&#39;s NBA Finals Game 5 Special
-Feed: https://feeds.megaphone.fm/ESP5342806866</description>
+                <title>Nationaler Bildungsbericht 2026</title>
+                <description> van Laak, Claudia www.deutschlandfunk.de, Das war der Tag 
+Feed: https://www.deutschlandfunk.de/das-war-der-tag-112.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP9348865782.mp3"/>
-                <guid></guid>
+                <link>https://www.deutschlandfunk.de/nationaler-bildungsbericht-104.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/06/15/nationaler_bildungsbericht_2026_dlf_20260615_2343_975c4a8d.mp3?refId=das-war-der-tag-112"/>
+                <guid>https://www.deutschlandfunk.de/nationaler-bildungsbericht-104.html</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 13 Jun 2026 07:52:53 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 16 Jun 2026 09:32:19 +0200</lastBuildDate>
             <item>
-                <title>Wie doch die Zeit vergeht!</title>
-                <description>Das Leben, die Zeitspanne zwischen Geburt und Tod
-Feed: https://letscast.fm/podcasts/zeitrisse-4798c07b/feed</description>
+                <title> Kula Shaker ‘Lucky Number’ </title>
+                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
+Feed: https://feeds.kcrw.com/podcast/show/tu</description>
                 
                 
-                <link>https://letscast.fm/sites/zeitrisse-4798c07b/episode/wie-doch-die-zeit-vergeht</link>
-                <enclosure type="audio/mpeg" length="1" url="https://letscast.fm/track/https://lc-cdn.meinpodcast.io/lcdn.letscast.fm/media/podcast/a075a7ba/episode/33c78fb5.mp3?t=1781025707&amp;awCollectionId=80000179&amp;awEpisodeId=33c78fb5"/>
-                <guid>https://letscast.fm/sites/zeitrisse-4798c07b/episode/wie-doch-die-zeit-vergeht</guid>
+                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
+                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
                 
             </item><item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3297080.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0613/AU-20260613-0537-0600.mp3"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3297080.html</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3302294.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0616/AU-20260616-1105-2500.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3302294.html</guid>
                 
             </item>
         </channel>
