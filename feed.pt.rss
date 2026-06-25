@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 16 Jun 2026 09:32:14 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 25 Jun 2026 07:51:25 +0200</lastBuildDate>
             <item>
-                <title>Volksbegehren gescheitert</title>
-                <description>Die Schweiz bleibt bunt
-Feed: https://feeds.acast.com/public/shows/45033096-220b-4490-b648-7e822e82ccde</description>
+                <title>Le Journal horaire de 9h00</title>
+                <description>
+Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
                 
                 
-                <link>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/volksbegehren-gescheitert</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/mahlersmeinung-diepodcastkolumne/e/6a2fb311cd02369494dce2ca/media.mp3"/>
-                <guid>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/volksbegehren-gescheitert</guid>
+                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-9h00-29285644.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/eb8913a8-028b-36aa-a89a-dc7ca82833da/3f309b79-3d1d-36d4-9713-1842eda54ed2.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-9h00-29285644.html</guid>
                 
             </item><item>
-                <title>Kiews Blick auf G7 - Auch Ukraine-Krieg als Thema in Evian</title>
-                <description> Gorgis, Elena www.deutschlandfunk.de, Informationen am Morgen 
-Feed: https://www.deutschlandfunk.de/informationen-am-morgen-102.xml</description>
+                <title>Das Masters kann endlich wieder Masters</title>
+                <description>Die letzten beiden Halbfinalplätze beim Masters gehen an Wu Yize und Kyren Wilson. Das Masters kann endlich wieder tolle Matches produzieren. Wu gewann mit 6:0 nach einer Sternstunde gegen Xiao Guodong, während sich Kyren Wilson am Abend gegen Neil Robertson durchbeißen musste. Das Match ging in einen Decider. Kathi und Chris fassen die gestrigen Duelle in London zusammen und schauen auf ein tolles Halbfinal-Lineup voraus.&lt;br&gt;&lt;p&gt;&lt;br&gt;Dieser Podcast wird vermarktet von der Podcastbude.&lt;br&gt;www...
+Feed: https://meinsportpodcast.de/fussball/druebergehalten/feed/</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/auch-ukraine-krieg-als-thema-in-evian-kiews-blick-auf-g-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/06/16/auch_ukraine_krieg_als_thema_in_evian_kiews_blick_auf_g7_dlf_20260616_0616_bdb531a8.mp3?refId=informationen-am-morgen-102"/>
-                <guid>https://www.deutschlandfunk.de/auch-ukraine-krieg-als-thema-in-evian-kiews-blick-auf-g-100.html</guid>
+                <link>https://meinsportpodcast.de/total-clearance/das-masters-kann-endlich-wieder-masters</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260078/das-masters-kann-endlich-wieder-masters.mp3?awCollectionId=10055&amp;awEpisodeId=260078"/>
+                <guid>https://meinsportpodcast.de/total-clearance/das-masters-kann-endlich-wieder-masters</guid>
                 
             </item>
         </channel>

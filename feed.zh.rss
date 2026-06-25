@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 16 Jun 2026 09:32:19 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 25 Jun 2026 07:51:28 +0200</lastBuildDate>
             <item>
-                <title> Kula Shaker ‘Lucky Number’ </title>
-                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
-Feed: https://feeds.kcrw.com/podcast/show/tu</description>
+                <title>Mit Gamben und Bandoneon: „Soleils de septembre“</title>
+                <description>Nadia Boulanger war die Kompositionslehrerin des 20. Jahrhunderts. Eine Ikone: streng, fordernd, aber im Zweifelsfall immer aufseiten der Kunst. Boulanger ging es um Individualität, um Personalstile. Deshalb klingen die Werke ihrer Studierenden extrem unterschiedlich. Dieses Album macht das hörbar, indem es Werke von Nadia Boulanger mit Tangos ihres Schülers Astor Piazzolla kombiniert...
+Feed: https://www.swr.de/~podcast/swrkultur/programm/treffpunkt-klassik-podcast-102.xml</description>
                 
                 
-                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
-                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
+                <link>https://www.swr.de/kultur/musik/mit-gamben-und-bandoneon-soleils-de-septembre-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://swr-dl.ard-mcdn.de/swr/swrkultur/treffpunkt-klassik/musik-klassik/2330391.mp3"/>
+                <guid>https://www.swr.de/kultur/musik/mit-gamben-und-bandoneon-soleils-de-septembre-100.html</guid>
                 
             </item><item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>FC St. Pauli: Wir, die die bleiben</title>
+                <description>&lt;p&gt;&lt;strong&gt;Als St. Pauli Fan bleibt man, wenn andere weiterziehen. Ein Essay über diesen masochistischen Kreislauf als Fußballfan.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jeder August riecht nach frisch erholtem Rasen, nach vertrautem (mal wieder teurer gewordenen) Billigbier; der letzte Rest der verratenen Träume schliert noch auf dem Beton der Stufen. Ich stehe wieder auf der Nordkurve des Millerntors, zusammen mit Willi, Markus und all den anderen, die ich nur aus dem Stadion kenne...
+Feed: https://api.substack.com/feed/podcast/7423315.rss</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3302294.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0616/AU-20260616-1105-2500.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3302294.html</guid>
+                <link>https://stpaulipop.substack.com/p/fc-st-pauli-wir-die-die-bleiben</link>
+                <enclosure type="audio/mpeg" length="1" url="https://api.substack.com/feed/podcast/203259311/c55178587318434b700fa45ac64fadd2.mp3"/>
+                <guid>https://stpaulipop.substack.com/p/fc-st-pauli-wir-die-die-bleiben</guid>
                 
             </item>
         </channel>
