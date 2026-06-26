@@ -9,28 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 25 Jun 2026 07:50:50 +0200</lastBuildDate>
-            <item>
-                <title>Les prods de Susan du mercredi 24 juin</title>
-                <description>Tous les soirs, retrouvez le meilleur des productions à but humoristiques de notre réalisatrice.
-
-Feed: https://feeds.simplecast.com/8bxI9MLf</description>
-                
-                
-                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/3fd779cb-e7a2-4000-9e07-f2f60e67b873/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=3fd779cb-e7a2-4000-9e07-f2f60e67b873&amp;category=Sports%2CNews&amp;episode_published_at=2026-06-24T16%3A40%3A00&amp;episode_title=Les+prods+de+Susan+du+mercredi+24+juin&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
-                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
-                
-            </item><item>
-                <title>Nachrichten 08:30 Uhr - 25.06.2026</title>
-                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
-Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
-                
-                
-                <link>https://www.ndr.de/wellenord/nachrichten-0830-uhr-25062026,audio-3320188.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0625/AU-20260625-0832-3300.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-0830-uhr-25062026,audio-3320188.html</guid>
-                
-            </item>
+            <lastBuildDate>Fri, 26 Jun 2026 07:58:13 +0200</lastBuildDate>
+            
         </channel>
 </rss>

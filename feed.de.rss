@@ -9,27 +9,7 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 25 Jun 2026 07:50:44 +0200</lastBuildDate>
-            <item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
-                
-                
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3320300.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0625/AU-20260625-0905-5200.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3320300.html</guid>
-                
-            </item><item>
-                <title>Contractors For Broadford And Cooraclare Sewerage Schemes To Be Appointed Next Year</title>
-                <description>Contractors won&#39;t be appointed to begin major sew…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
-                
-                
-                <link>https://soundcloud.com/clarefm/contractors-for-broadford-and</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2346202223-clarefm-contractors-for-broadford-and.mp3"/>
-                <guid>https://soundcloud.com/clarefm/contractors-for-broadford-and</guid>
-                
-            </item>
+            <lastBuildDate>Fri, 26 Jun 2026 07:58:11 +0200</lastBuildDate>
+            
         </channel>
 </rss>
