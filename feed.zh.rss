@@ -9,7 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 18 Jul 2026 06:10:48 +0200</lastBuildDate>
-            
+            <lastBuildDate>Fri, 24 Jul 2026 06:34:25 +0200</lastBuildDate>
+            <item>
+                <title>Der Blick von außen: Comedian aus Indien blickt auf Deutschland</title>
+                <description> Dell, Matthias www.deutschlandfunkkultur.de, Fazit 
+Feed: https://www.deutschlandfunkkultur.de/podcast-fazit-kultur-vom-tage-100.xml</description>
+                
+                
+                <link>https://www.deutschlandfunkkultur.de/der-blick-von-aussen-comedian-aus-indien-blickt-auf-deutschland-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/07/23/der_blick_von_aussen_comedian_aus_indien_blickt_auf_drk_20260723_2344_b8f8e82e.mp3?refId=podcast-fazit-kultur-vom-tage-100"/>
+                <guid>https://www.deutschlandfunkkultur.de/der-blick-von-aussen-comedian-aus-indien-blickt-auf-deutschland-100.html</guid>
+                
+            </item><item>
+                <title> Kula Shaker ‘Lucky Number’ </title>
+                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
+Feed: https://feeds.kcrw.com/podcast/show/tu</description>
+                
+                
+                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
+                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
+                
+            </item>
         </channel>
 </rss>

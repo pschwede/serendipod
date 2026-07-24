@@ -9,7 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 18 Jul 2026 06:10:48 +0200</lastBuildDate>
-            
+            <lastBuildDate>Fri, 24 Jul 2026 06:34:19 +0200</lastBuildDate>
+            <item>
+                <title>Das Masters kann endlich wieder Masters</title>
+                <description>Die letzten beiden Halbfinalplätze beim Masters gehen an Wu Yize und Kyren Wilson. Das Masters kann endlich wieder tolle Matches produzieren. Wu gewann mit 6:0 nach einer Sternstunde gegen Xiao Guodong, während sich Kyren Wilson am Abend gegen Neil Robertson durchbeißen musste. Das Match ging in einen Decider. Kathi und Chris fassen die gestrigen Duelle in London zusammen und schauen auf ein tolles Halbfinal-Lineup voraus.&lt;br&gt;&lt;p&gt;&lt;br&gt;Dieser Podcast wird vermarktet von der Podcastbude.&lt;br&gt;www...
+Feed: https://meinsportpodcast.de/fussball/druebergehalten/feed/</description>
+                
+                
+                <link>https://meinsportpodcast.de/total-clearance/das-masters-kann-endlich-wieder-masters</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260078/das-masters-kann-endlich-wieder-masters.mp3?awCollectionId=10055&amp;awEpisodeId=260078"/>
+                <guid>https://meinsportpodcast.de/total-clearance/das-masters-kann-endlich-wieder-masters</guid>
+                
+            </item><item>
+                <title>Do not pass Go(ogle).</title>
+                <description>Google gets a billion dollar fine from the EU. The White House considers sanctions against Chinese AI developers. The GAO criticizes overlap in cyber reporting regulations. The Feds warn of Iranian agents targeting OT systems. Researchers disclose a high-severity Linux kernel vulnerability. Dolphin X uses AI profiling to find high-value victims. A new backdoor routes C2 through the browser. Check Point confirms a critical zero-day. A lawsuit accuses ChatGPT of unauthorized medical advice...
+Feed: https://feeds.megaphone.fm/cyberwire-daily-podcast</description>
+                
+                
+                <link>https://www.thecyberwire.com/podcasts/daily-podcast/2599/notes</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW4499231396.mp3"/>
+                <guid>https://www.thecyberwire.com/podcasts/daily-podcast/2599/notes</guid>
+                
+            </item>
         </channel>
 </rss>

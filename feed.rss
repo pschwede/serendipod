@@ -9,7 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 18 Jul 2026 06:10:44 +0200</lastBuildDate>
-            
+            <lastBuildDate>Fri, 24 Jul 2026 06:33:22 +0200</lastBuildDate>
+            <item>
+                <title>Best of UnSportsmanLike 7/23/26</title>
+                <description>Best of UnSportsmanLike 7/23/26
+Feed: https://feeds.megaphone.fm/ESP5342806866</description>
+                
+                
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP9536295899.mp3"/>
+                <guid></guid>
+                
+            </item><item>
+                <title>Nachrichten 07:30 Uhr - 24.07.2026</title>
+                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
+Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
+                
+                
+                <link>https://www.ndr.de/wellenord/nachrichten-0730-uhr-24072026,audio-3376416.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0724/AU-20260724-0733-1300.mp3"/>
+                <guid>https://www.ndr.de/wellenord/nachrichten-0730-uhr-24072026,audio-3376416.html</guid>
+                
+            </item>
         </channel>
 </rss>

@@ -9,7 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 18 Jul 2026 06:10:46 +0200</lastBuildDate>
-            
+            <lastBuildDate>Fri, 24 Jul 2026 06:34:07 +0200</lastBuildDate>
+            <item>
+                <title>Umwelt - Waldbrand an der Atlantikküste</title>
+                <description> Dylla, Carolin www.deutschlandfunk.de, Informationen am Abend 
+Feed: https://www.deutschlandfunk.de/informationen-am-abend-110.xml</description>
+                
+                
+                <link>https://www.deutschlandfunk.de/waldbrand-an-der-atlantikkueste-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/07/23/waldbrand_an_der_atlantikkueste_dlf_20260723_1833_797c1ae0.mp3?refId=informationen-am-abend-110"/>
+                <guid>https://www.deutschlandfunk.de/waldbrand-an-der-atlantikkueste-100.html</guid>
+                
+            </item><item>
+                <title>Atom-Abkommen mit Saudi-Arabien - der richtige Weg?</title>
+                <description>US-Präsident Trump hat mit Saudi-Arabien ein Atom-Abkommen ausgehandelt. Ist das ein kluger Schritt? Journalisten diskutieren über mögliche Vor- und Nachteile.
+Feed: https://www.ndr.de/nachrichten/info/podcast4700.xml</description>
+                
+                
+                <link>https://www.ndr.de/nachrichten/info/atom-abkommen-mit-saudi-arabien-der-richtige-weg,audio-3375990.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0723/AU-20260723-2157-3200.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/atom-abkommen-mit-saudi-arabien-der-richtige-weg,audio-3375990.html</guid>
+                
+            </item>
         </channel>
 </rss>

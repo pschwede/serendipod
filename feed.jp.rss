@@ -9,7 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 18 Jul 2026 06:10:49 +0200</lastBuildDate>
-            
+            <lastBuildDate>Fri, 24 Jul 2026 06:34:30 +0200</lastBuildDate>
+            <item>
+                <title>Best of UnSportsmanLike 7/23/26</title>
+                <description>Best of UnSportsmanLike 7/23/26
+Feed: https://feeds.megaphone.fm/ESP5342806866</description>
+                
+                
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP9536295899.mp3"/>
+                <guid></guid>
+                
+            </item><item>
+                <title>Junk Refund Show, July 23, 2026</title>
+                <description>Stacking the Odds: Scrap Metal, AI Marketing, and the Power of Small Wins
+Feed: https://bbsradio.com/customshow/67046</description>
+                
+                
+                <link>https://bbsradio.com/podcast/junk-refund-show-july-23-2026</link>
+                <enclosure type="audio/mpeg" length="1" url="https://bbsradio.com/bbsradio/file-alias/289665/1/1/junik-refund-show-2026-07-23.mp3"/>
+                <guid>https://bbsradio.com/podcast/junk-refund-show-july-23-2026</guid>
+                
+            </item>
         </channel>
 </rss>
