@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Jul 2026 06:34:02 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 31 Jul 2026 06:50:16 +0200</lastBuildDate>
             <item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/video-podcast/webl/tagesschau-in-100-sekunden/</description>
+                <title>【SBS新闻快报】BHP港口工人8月将再度罢工 劳资谈判陷僵局</title>
+                <description>2026年7月31日下午：澳大利亚矿业巨头必和必拓（BHP）位于西澳州黑德兰港（Port Hedland）的工会员工正计划第二次罢工。根据计划，如果下周二举行的新一轮企业协议谈判仍未达成一致，工会成员将于8月9日上午5点30分开始停工24小时（收听播客，了解详情）。&lt;br /&gt;&lt;br /&gt;在苹果播客或Spotify搜索“新闻快报”，点击订阅、开启消息提醒，即可了解澳洲国内外新闻及社区信息。&amp;nbsp;
+Feed: https://sbs-ondemand.streamguys1.com/sbs-mandarin/</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1619676.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/0724/TV-20260724-0500-5600.webxl.h264.mp4"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1619676.html</guid>
+                <link>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/ports-unions-give-bhp-notice-of-24-hour-strike-in-port-hedland/0m29di23k</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/mandarin-news-flash/20260731163008-mandarin-d0cbea4a-5d4c-4085-8a31-0e5a7db15e37.mp3?awCollectionId=sbs-mandarin&amp;awGenre=News&amp;awEpisodeId=0000019f-b645-d8b7-a9ff-ff5704170000&amp;dur_cat=2"/>
+                <guid>https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/ports-unions-give-bhp-notice-of-24-hour-strike-in-port-hedland/0m29di23k</guid>
                 
             </item><item>
-                <title>Aus Open Tag 2: Swiatek und Andreeva mit Schwierigkeiten - Wawrinka verlängert Australien-Aufenthalt</title>
-                <description>Willkommen zur neuen Ausgabe von Chip &amp; Charge, dieses Mal mit dem zweiten Tag von den Australian Open 2026.
-Heute gab es in Melbourne weniger spektakuläre Matches als noch am Tag zuvor, lediglich einige kleinere und größere Überraschungen. Bei den Damen hatte Iga Swiatek ein paar Probleme mit ihrer Gegnerin Yue Yuan, vor allem beim zweiten Aufschlag. Letztlich gewann sie jedoch in zwei Sätzen. Nun geht es gegen Marie Bouzkova...
-Feed: https://meinsportpodcast.de/feed/</description>
+                <title>Bluesclubradio 30.07.2026</title>
+                <description>
+Feed: https://rdl.de/podcast</description>
                 
                 
-                <link>https://meinsportpodcast.de/chip-charge/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260364/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt.mp3?awCollectionId=10015&amp;awEpisodeId=260364"/>
-                <guid>https://meinsportpodcast.de/chip-charge/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt</guid>
+                <link>https://rdl.de/beitrag/bluesclubradio-30072026</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/07/20260730-bluesclubrad-a26720.mp3"/>
+                <guid>https://rdl.de/beitrag/bluesclubradio-30072026</guid>
                 
             </item>
         </channel>

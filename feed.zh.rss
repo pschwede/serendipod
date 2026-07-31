@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 24 Jul 2026 06:34:25 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 31 Jul 2026 06:50:33 +0200</lastBuildDate>
             <item>
-                <title>Der Blick von außen: Comedian aus Indien blickt auf Deutschland</title>
-                <description> Dell, Matthias www.deutschlandfunkkultur.de, Fazit 
-Feed: https://www.deutschlandfunkkultur.de/podcast-fazit-kultur-vom-tage-100.xml</description>
+                <title>Avant sa sortie, Tony s’offre 100% d’avis positifs</title>
+                <description>S&#39;intéressant à une partie de la vie d&#39;un célèbre chef, &#34;Tony&#34; fait pour le moment l&#39;unanimité parmi les critiques.
+Feed: https://www.cineserie.com/feed/</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/der-blick-von-aussen-comedian-aus-indien-blickt-auf-deutschland-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/07/23/der_blick_von_aussen_comedian_aus_indien_blickt_auf_drk_20260723_2344_b8f8e82e.mp3?refId=podcast-fazit-kultur-vom-tage-100"/>
-                <guid>https://www.deutschlandfunkkultur.de/der-blick-von-aussen-comedian-aus-indien-blickt-auf-deutschland-100.html</guid>
+                <link>https://www.cineserie.com/news/cinema/avant-sa-sortie-tony-soffre-100-davis-positifs-8752771/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://imgsrc.cineserie.com/2026/07/967d9ff2361b9c84cbae9abb213183d7.jpg?width=&amp;height=&amp;aspect_ratio=:"/>
+                <guid>https://www.cineserie.com/news/cinema/avant-sa-sortie-tony-soffre-100-davis-positifs-8752771/</guid>
                 
             </item><item>
-                <title> Kula Shaker ‘Lucky Number’ </title>
-                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
-Feed: https://feeds.kcrw.com/podcast/show/tu</description>
+                <title>Fatigue, baisse de libido, moral en berne chez les hommes : et si c&#39;était l&#39;andropause ? avec l&#39;andrologue Marc Galiano</title>
+                <description>Par Alexandre Dana avec le dr Marc Galiano : andropause / testostérone / vieillissement / libido / longévité / santé hormonale / sarcopénie / ostéoporose / sommeil / activité physique / nutrition / santé mentale / cancer prostate / dysfonction érectile
+Feed: https://feeds.acast.com/public/shows/b47f5d26-e558-472e-9760-61ac69de0a9e</description>
                 
                 
-                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
-                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
+                <link>https://shows.acast.com/metamorphose-le-podcast-qui-eveille-la-conscience/episodes/vaincre-la-baisse-de-libido-et-retrouver-ses-erections-avec</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/metamorphose-le-podcast-qui-eveille-la-conscience/e/69c7e9ce1491a5d792d75eeb/media.mp3"/>
+                <guid>https://shows.acast.com/metamorphose-le-podcast-qui-eveille-la-conscience/episodes/vaincre-la-baisse-de-libido-et-retrouver-ses-erections-avec</guid>
                 
             </item>
         </channel>
