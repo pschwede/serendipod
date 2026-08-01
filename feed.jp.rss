@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 31 Jul 2026 06:50:40 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 01 Aug 2026 06:36:34 +0200</lastBuildDate>
             <item>
-                <title>08H03 ECR Traffic Report</title>
-                <description>Here&#39;s your latest East Coast Radio Traffic Report.
-Feed: https://iono.fm/rss/chan/3101</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://iono.fm/e/1702480</link>
-                <enclosure type="audio/mpeg" length="1" url="https://edge-ionoaod.sharp-stream.com/151/3101/1702480.mp3?awCollectionId=3101&amp;awEpisodeId=1702480&amp;p=rss"/>
-                <guid>https://iono.fm/e/1702480</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3391952.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0801/AU-20260801-0805-4900.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3391952.html</guid>
                 
             </item><item>
-                <title>Informativo Segovia 7:25 - 31/07/26</title>
-                <description>Informativo Segovia 7:25 - 31/07/26
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>Bonus: The Cycling Podcast + Escape Collective Mash-Up</title>
+                <description>
+&lt;p&gt;The people demanded – well, some of them asked – for a mash-up episode. At Alpe d’Huez, we gathered in a car park (a typically glamorous recording location) to record a bonus episode, which will go out later this week.&lt;/p&gt;&lt;p&gt;The Cycling Podcast x Escape Collective. Or Escape Collective + The Cycling Podcast, if you prefer...
+Feed: https://audioboom.com/channels/1405050.rss</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-segovia-7-25-31-07-26/17175207/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17175207.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-segovia-7-25-31-07-26/17175207/</guid>
+                <link>https://audioboom.com/posts/8934337</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8934337.mp3?modified=1785427978&amp;sid=1405050&amp;source=rss"/>
+                <guid>https://audioboom.com/posts/8934337</guid>
                 
             </item>
         </channel>

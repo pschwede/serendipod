@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 31 Jul 2026 06:50:29 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 01 Aug 2026 06:36:18 +0200</lastBuildDate>
             <item>
-                <title>Kulturtipps</title>
-                <description> Brendel, Gerd www.deutschlandfunkkultur.de, Studio 9 
-Feed: https://www.deutschlandfunkkultur.de/studio-102.xml</description>
+                <title>The Hobbit Set Review || North 100 Ep196</title>
+                <description>&lt;p&gt;The Hobbit has now arrived in Magic the Gathering, and it&#39;s time to see what cards have the power to find a home in Canadian Highlander! This podcast is sponsored by Card Kingdom. Ordering from Card Kingdom? Tell them “LRR sent me, button please!” for a one inch button with a Magic goof on it....&lt;/p&gt;&lt;p&gt;This item belongs to: audio/loadingreadyrun.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
+Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/kulturtipps-1862.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/07/31/kulturtipps_drk_20260731_0824_81f78d3e.mp3?refId=studio-102"/>
-                <guid>https://www.deutschlandfunkkultur.de/kulturtipps-1862.html</guid>
+                <link>https://archive.org/details/north-100-ep-196-the-hobbit-set-review</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/north-100-ep-196-the-hobbit-set-review/format=VBR+MP3&amp;ignore=x.mp3"/>
+                <guid>https://archive.org/details/north-100-ep-196-the-hobbit-set-review</guid>
                 
             </item><item>
-                <title>Le Journal horaire de 8h00</title>
-                <description>
-Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
+                <title>382. Empire of AI: Karen Hao On Today’s Hidden Colonialism (Ep 2)</title>
+                <description>Are modern AI companies the new empires? What is the hidden human cost behind chatbots like ChatGPT? How does Silicon Valley’s rhetoric echo the East India Company?
+In this episode, Anita is joined by award-winning tech journalist Karen Hao, author of Empire of AI, to explore the hidden colonialism behind the artificial intelligence boom...
+Feed: https://feeds.megaphone.fm/empirepodcast</description>
                 
                 
-                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-8h00-29317105.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/ab264960-3f91-308c-95c1-395e117e2bd7/daf27a13-bb75-338d-9946-adc1eb41d6bc.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-8h00-29317105.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/traffic.megaphone.fm/GLT9713803885.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 31 Jul 2026 06:50:20 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 01 Aug 2026 06:36:01 +0200</lastBuildDate>
             <item>
-                <title>Told She&#39;d Never Walk, Talk, or Live. Then She Won Gold at the Paralympics - Uncut with Alexa Leary</title>
-                <description>&lt;p&gt;This week we sat down with Alexa Leary; two-time Paralympic gold medallist, world record holder, and author of Sink or Swim. You might know her as Lex. You definitely know that viral clip of her dancing in Paris. In 2021, Lex was 19 and training to be a professional triathlete when a cycling accident left her with one of the most severe traumatic brain injuries Royal Brisbane Hospital had ever seen. She wasn&#39;t supposed to survive. She had seven brain operations...
-Feed: https://www.omnycontent.com/d/playlist/820f09cf-2ace-4180-a92d-aa4c0008f5fb/6f53e955-113c-412f-9b8e-b39e016ea999/e800ac8c-7114-4b38-8d45-b39e016eadb5/podcast.rss</description>
+                <title>Le Journal horaire de 8h00</title>
+                <description>
+Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
+                
+                
+                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-8h00-29317831.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/584dbca8-bb60-3538-b076-1d639c193a80/6ec7a481-fc95-3d6e-b7e7-b31e433b522a.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-8h00-29317831.html</guid>
+                
+            </item><item>
+                <title>BABABAM ORIGINALS | Joseph D. Pistone, le premier infiltré du FBI </title>
+                <description>Ce week-end, découvrez Les Fabuleux Destins, le podcast de Bababam qui vous embarque dans des récits de vie incroyables, des affaires rocambolesques, des mystères et des légendes...
+Ancien agent du FBI, Pistone a risqué sa vie en s&#39;infiltrant dans les rangs de la mafia new-yorkaise dans les années 70. Pendant six ans, il a adopté l&#39;identité de Donnie Brasco, un faux malfrat, pour percer les secrets de l’une des organisations criminelles les plus redoutables des États-Unis...
+Feed: https://feeds.megaphone.fm/BABA3636667739</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/820f09cf-2ace-4180-a92d-aa4c0008f5fb/6f53e955-113c-412f-9b8e-b39e016ea999/f381f90e-0722-4aea-b75e-b4940050b64e/audio.mp3?utm_source=Podcast&amp;in_playlist=e800ac8c-7114-4b38-8d45-b39e016eadb5"/>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA5419460607.mp3"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>#78 – Tatapoum</title>
-                <description>&lt;strong&gt;La playlist de la semaine :&lt;/strong&gt;&lt;p&gt;Public House &amp;#8211; Future (Beast Records) [AUS]&lt;br&gt; Police State&lt;br&gt; Bad Dog&lt;/p&gt;&lt;p&gt;King Kong Meuf &amp;#8211; J&amp;#8217;emmerde la bienséance &amp;#8211; Le monde est à moi (autoprod) [FR]&lt;br&gt; King Kong Meuf&lt;br&gt; F. T. G.&lt;/p&gt;&lt;p&gt;Birth (Defects) &amp;#8211; Fictional Days (Reptilian Records) [US]&lt;br&gt; Deceiver&lt;br&gt; How Much Art&lt;/p&gt;&lt;p&gt;Hekaté &amp;#8211; Μαύρη Τρύπα [Trou noir] (Mascara Rocks) [GR]&lt;br&gt; Tears of Blood&lt;br&gt; Silent Voices&lt;/p&gt;
-Feed: https://cause-commune.fm/feed/podcast/</description>
-                
-                
-                <link>https://cause-commune.fm/podcasts/tatapoum-78</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cause-commune.fm/tat/78-TAT-Tatapoum-Collectif-Collectif.mp3"/>
-                <guid>https://cause-commune.fm/podcasts/tatapoum-78</guid>
                 
             </item>
         </channel>
