@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 01 Aug 2026 06:35:56 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 09 Aug 2026 05:11:23 +0200</lastBuildDate>
             <item>
-                <title>382. Empire of AI: Karen Hao On Today’s Hidden Colonialism (Ep 2)</title>
-                <description>Are modern AI companies the new empires? What is the hidden human cost behind chatbots like ChatGPT? How does Silicon Valley’s rhetoric echo the East India Company?
-In this episode, Anita is joined by award-winning tech journalist Karen Hao, author of Empire of AI, to explore the hidden colonialism behind the artificial intelligence boom...
-Feed: https://feeds.megaphone.fm/empirepodcast</description>
+                <title>Sergio Urzúa por plan de Reconstrucción Nacional: &#34;Es un súper buen primer paso en la dirección correcta&#34;</title>
+                <description>Sobre el impacto del proyecto de Ley de Reconstrucción, los desafíos económicos del país y en materia de empleo, el profesor de la Universidad de Maryland e investigador de Clapes UC, Sergio Urzúa, conversó este viernes con Iván Valenzuela en Mesa Central.
+Feed: https://mdstrm.com/feeds/13-radios/entrevista-de-mesa-central</description>
+                
+                
+                <link>https://mdstrm.com/audio/6a75d03b2bdbfc0e4c2eb659.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mdstrm.com/audio/6a75d03b2bdbfc0e4c2eb659.mp3"/>
+                <guid>https://mdstrm.com/audio/6a75d03b2bdbfc0e4c2eb659.mp3</guid>
+                
+            </item><item>
+                <title>Rugby Daily | Ioane back in NZ fold, why Scarlets-Ospreys merger won&#39;t happen</title>
+                <description>&lt;p&gt;Welcome to Thursday&#39;s Rugby Daily, with Cameron Hill.&lt;/p&gt;&lt;p&gt;Coming up today, we&#39;ll look ahead to a busy weekend of test-match action in the Southern Hemisphere.&lt;/p&gt;&lt;p&gt;And a little later in the pod, we&#39;ll hear from the Irish provinces, as the women&#39;s interpro get up and running on Saturday.&lt;/p&gt;&lt;p&gt;Rugby on Off The Ball with Bank of Ireland | #NeverStopCompeting&lt;/p&gt;
+Feed: https://rss.podplaystudio.com/2664.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/traffic.megaphone.fm/GLT9713803885.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://bauernordic-pods.sharp-stream.com/ie/2664/quick_record_111407_fbadc55b_normal.mp3?aw_0_1st.episodeid=413673&amp;aw_0_1st.collectionid=2664"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>NDR 1 Radio MV Nachrichten</title>
-                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
-Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
-                
-                
-                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3391940.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0801/AU-20260801-0804-2700.mp3"/>
-                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3391940.html</guid>
                 
             </item>
         </channel>

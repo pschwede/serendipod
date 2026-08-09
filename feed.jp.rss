@@ -9,27 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 01 Aug 2026 06:36:34 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 09 Aug 2026 05:11:49 +0200</lastBuildDate>
             <item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>Gemeinsam intelligent</title>
+                <description>Im Alten Bund ist das Volk Gottes in besonderer Weise von Gott erwählt ist. Gott gründet immer wieder eine Gemeinschaft - damit keiner allein unterwegs sein muss. 
+
+Feed: https://457rfg.podcaster.de/Mutmacher.rss</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3391952.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0801/AU-20260801-0805-4900.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3391952.html</guid>
+                <link>https://457rfg.podcaster.de/mutmacher/gemeinsam-intelligent/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://457rfg.podcaster.de/mutmacher/media/20260809_-_Roland.mp3"/>
+                <guid>https://457rfg.podcaster.de/mutmacher/gemeinsam-intelligent/</guid>
                 
             </item><item>
-                <title>Bonus: The Cycling Podcast + Escape Collective Mash-Up</title>
-                <description>
-&lt;p&gt;The people demanded – well, some of them asked – for a mash-up episode. At Alpe d’Huez, we gathered in a car park (a typically glamorous recording location) to record a bonus episode, which will go out later this week.&lt;/p&gt;&lt;p&gt;The Cycling Podcast x Escape Collective. Or Escape Collective + The Cycling Podcast, if you prefer...
-Feed: https://audioboom.com/channels/1405050.rss</description>
+                <title>John Arlott, Tim Key, &amp; 9/11 – A new anthology of cricket poetry, TFW Book Club</title>
+                <description>Cricket attracts romantics. Whatever the form, so much of the game’s prose is dedicated to reflection and understanding. Whilst many fine writers have penned creative words, poetry isn’t as strongly associated. Catching The Light, compiled by authors Nick Hogg and Tim Beard, spans a wide range of contributors, from England’s John Arlott to Guyana’s John Agard, through to Tim Key and Zaffar Kunial of the modern day...
+Feed: https://feeds.megaphone.fm/COMG4127829564</description>
                 
                 
-                <link>https://audioboom.com/posts/8934337</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8934337.mp3?modified=1785427978&amp;sid=1405050&amp;source=rss"/>
-                <guid>https://audioboom.com/posts/8934337</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9970221132.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

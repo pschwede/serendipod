@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 01 Aug 2026 06:35:51 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 09 Aug 2026 05:11:19 +0200</lastBuildDate>
             <item>
-                <title>Le Journal horaire de 8h00</title>
-                <description>
-Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
+                <title>John Arlott, Tim Key, &amp; 9/11 – A new anthology of cricket poetry, TFW Book Club</title>
+                <description>Cricket attracts romantics. Whatever the form, so much of the game’s prose is dedicated to reflection and understanding. Whilst many fine writers have penned creative words, poetry isn’t as strongly associated. Catching The Light, compiled by authors Nick Hogg and Tim Beard, spans a wide range of contributors, from England’s John Arlott to Guyana’s John Agard, through to Tim Key and Zaffar Kunial of the modern day...
+Feed: https://feeds.megaphone.fm/COMG4127829564</description>
                 
                 
-                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-8h00-29317831.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/584dbca8-bb60-3538-b076-1d639c193a80/6ec7a481-fc95-3d6e-b7e7-b31e433b522a.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-8h00-29317831.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9970221132.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>2958 / Ferienprogramm</title>
-                <description>Manchmal vergisst man und manchmal erinnert man sich.
-Feed: https://bastard.uber.space/feed/mp3/</description>
+                <title>Matthew Chapter 26: Bible Study by Atheists</title>
+                <description>Judas, Jesus’ Perfume Bath, and the Most Predetermined Betrayal Ever
+Feed: https://feeds.redcircle.com/5f7c5ae4-d07f-4497-93d4-71cb4de199db</description>
                 
                 
-                <link>https://radiobastard.fm/2958-ferienprogramm/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://radiobastard.fm/podlove/file/2463/s/feed/c/mp3/2958.mp3"/>
-                <guid>https://radiobastard.fm/2958-ferienprogramm/</guid>
+                <link>https://sacrilegiousdiscourse.com</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio3.redcircle.com/episodes/c32b815a-06d4-4ef8-a24f-8ab5e80711fe/stream.mp3"/>
+                <guid>https://sacrilegiousdiscourse.com</guid>
                 
             </item>
         </channel>
