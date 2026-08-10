@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 09 Aug 2026 05:11:37 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 10 Aug 2026 05:38:52 +0200</lastBuildDate>
             <item>
-                <title>John Arlott, Tim Key, &amp; 9/11 – A new anthology of cricket poetry, TFW Book Club</title>
-                <description>Cricket attracts romantics. Whatever the form, so much of the game’s prose is dedicated to reflection and understanding. Whilst many fine writers have penned creative words, poetry isn’t as strongly associated. Catching The Light, compiled by authors Nick Hogg and Tim Beard, spans a wide range of contributors, from England’s John Arlott to Guyana’s John Agard, through to Tim Key and Zaffar Kunial of the modern day...
-Feed: https://feeds.megaphone.fm/COMG4127829564</description>
+                <title>The Swifties are coming for Me</title>
+                <description>&lt;p&gt;On this week&#39;s Vogue &amp;amp; Amber: The sisters haven&#39;t spoken since Friday and neither will be the first to crack. After this podcast they&#39;re going right back to full standoff.&lt;/p&gt;&lt;p&gt;Vogue got her heels, lip gloss and leg oil on for Skepta on the radio, but was mildly disappointed, Amber revives our good plant friend Sideshow Bob and the Swifties have finally come for her...
+Feed: https://feeds.captivate.fm/spencer-vogue/</description>
+                
+                
+                <link>https://spencer-vogue.captivate.fm</link>
+                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/4b23a5a6-42e7-450e-809e-78c221365e66.mp3?aw_0_1st.showid=05bd145a-1a20-4c0d-b35f-2fe780450084&amp;aw_0_1st.episodeid=4b23a5a6-42e7-450e-809e-78c221365e66"/>
+                <guid>https://spencer-vogue.captivate.fm</guid>
+                
+            </item><item>
+                <title>Le meurtre de Marine Boisseranc (1/4) : &#34;qui a tué ma fille ?&#34;</title>
+                <description>Caroline Nogueras va vous raconter une affaire encore non élucidée à ce jour. En octobre 2005, quand Eric Boisseranc rentre chez lui à Chazay d&#39;Azergue tout près de Lyon, il découvre sa fille Marine allongée derrière le canapé, morte de plusieurs coups de couteau… Dans le dernier épisode de cette saison, Caroline Nogueras reçoit Eric, le père de la victime, qui se bat toujours pour retrouver le meurtrier et faire justice à sa fille.
+Qui a tué ma fille ?
+Nous sommes le mardi 11 octobre 2005...
+Feed: https://feeds.megaphone.fm/BABA3636667739</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9970221132.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA5936134112.mp3"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Die Nachrichten vom 09.08.2026, 06:00 Uhr</title>
-                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
-Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
-                
-                
-                <link>https://www.deutschlandfunk.de/nachrichten-39212.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/08/09/nachrichten_dlf_20260809_0600_aead78ed.mp3?refId=nachrichten-108"/>
-                <guid>https://www.deutschlandfunk.de/nachrichten-39212.html</guid>
                 
             </item>
         </channel>

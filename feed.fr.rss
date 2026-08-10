@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 09 Aug 2026 05:11:27 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 10 Aug 2026 05:38:43 +0200</lastBuildDate>
             <item>
-                <title>Le Journal horaire de 6h00</title>
-                <description>
-Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
+                <title>قسمت سه هزار و نهصد و هفتاد و نه</title>
+                <description>&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
+Feed: https://feeds.acast.com/public/shows/652fdf0e124b9d0012c3879f</description>
                 
                 
-                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-6h00-29323679.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/d700868e-22de-3164-86e9-9ea0441b8584/2f8ab397-22c5-3f85-b665-55d9a43604c1.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-6h00-29323679.html</guid>
+                <link>https://shows.acast.com/tarikh-tmdn-1/episodes/6a78d44b237988582e301d42</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/652fdf0e124b9d0012c3879f/e/6a78d44b237988582e301d42/media.mp3"/>
+                <guid>https://shows.acast.com/tarikh-tmdn-1/episodes/6a78d44b237988582e301d42</guid>
                 
             </item><item>
-                <title>Un été avec Home(icides) : les coups de coeur des auditeurs</title>
-                <description>Cet été, Bababam vous propose de redécouvrir les affaires qui vous ont le plus marquées. Comme l’énigme de l&#39;Ange de l&#39;A10, la disparition d&#39;Emile Soleil ou encore le meurtre de Marine Boisseranc... Ces crimes familiaux en disent long sur notre société. Grâce à un récit immersif, aux archives sonores et aux interviews d’avocats ou de journalistes, plongez tout au long de l’été au cœur de ces faits divers au dénouement inimaginable… A bientôt sur Home(icides) !
-Learn more about your ad choices...
-Feed: https://feeds.megaphone.fm/BABA3636667739</description>
+                <title>18H04 ECR Traffic Report</title>
+                <description>Here&#39;s your latest East Coast Radio Traffic Report.
+Feed: https://iono.fm/rss/chan/3101</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA6066803202.mp3"/>
-                <guid></guid>
+                <link>https://iono.fm/e/1705250</link>
+                <enclosure type="audio/mpeg" length="1" url="https://edge-ionoaod.sharp-stream.com/151/3101/1705250.mp3?awCollectionId=3101&amp;awEpisodeId=1705250&amp;p=rss"/>
+                <guid>https://iono.fm/e/1705250</guid>
                 
             </item>
         </channel>

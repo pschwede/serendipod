@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 09 Aug 2026 05:11:46 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 10 Aug 2026 05:38:56 +0200</lastBuildDate>
             <item>
-                <title>5 vor 6: Die FFH-Nachrichten</title>
-                <description>Die aktuellen FFH-Nachrichten - 24 Stunden News, Wetter, Verkehr und das Aktuellste aus Ihrer Region von unseren Hessen-Reportern - nonstop und stündlich.
-Feed: https://resource.ffh.de/podcasts/ffh/news.rss</description>
+                <title>#843 - Siedlungsbau-Experte Dror Etkes über die israelische Gesellschaft</title>
+                <description>Politik für Desinteressierte
+Feed: https://jung-naiv.podigee.io/feed/mp3</description>
                 
                 
-                <link>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://resource.ffh.de/news/archive/news-20260809-06-0.mp3"/>
-                <guid>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</guid>
+                <link>https://jung-naiv.podigee.io/1169-843-siedlungsbau-experte-dror-etkes-uber-die-israelische-gesellschaft</link>
+                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2564054-m-02a0adcc3912f9e94f83a4b106e0c71e.mp3?source=feed"/>
+                <guid>https://jung-naiv.podigee.io/1169-843-siedlungsbau-experte-dror-etkes-uber-die-israelische-gesellschaft</guid>
                 
             </item><item>
-                <title>Radical FM - August 2026</title>
-                <description>&lt;p&gt;In der aktuellen Folge von Radical FM nimmt euch Jenny mit auf eine Reise zurück zu den Wurzeln: Roots Rock Reggae ist das Motto! Passend zum Wetter hören wir eine reggae-lastige Selection, die mit aktuellen Releases von Capleton, Original Koffee und Yaksta einsteigt und nach einem Abstecher über Klassiker von Busy Signal und Junior Reid schlussendlich in einer Album-Vorstellung von Sylford Walker und Welton Irie mündet...
-Feed: https://rdl.de/podcast</description>
+                <title>Former KISS Guitarist Bruce Kulick Talks About KISS Being In A &#34;Lull&#34; In 1995!&#34;</title>
+                <description>Former KISS guitarist Bruce Kulick tells Shout It Out Loudcast that KISS was in &#34;Lull&#34; in 1995!
+Feed: https://feeds.megaphone.fm/shoutitoutloudcast</description>
                 
                 
-                <link>https://rdl.de/beitrag/radical-fm-august-2026</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/08/20260808-radicalfmaug-a26769.mp3"/>
-                <guid>https://rdl.de/beitrag/radical-fm-august-2026</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/PAN9801413427.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>
