@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 10 Aug 2026 05:38:39 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Aug 2026 05:14:50 +0200</lastBuildDate>
             <item>
-                <title>My Hometown Is Getting a $100 Billion Data Center</title>
-                <description>The breaking news in Sarah&#39;s hometown is the breaking news everywhere: 
-Paducah, Kentucky is getting a $100 billion data center. Sarah is joined
- by Lacey Bowling, head of Paducah Cooperative Ministries, to talk about
- what the anti-data center backlash gets right and wrong — water, power 
-bills, pollution, tax subsidies — and the deeper story: a trust vacuum 
-at every level of government and a growing sense that the wealth isn&#39;t 
-for the rest of us...
-Feed: https://feeds.megaphone.fm/LEME5450832048</description>
+                <title>Presidente Kast:  “En cinco meses es difícil revertir lo que ha pasado en diez años”</title>
+                <description>En una nueva edición de Mesa Central, Iván Valenzuela y Angélica Bulnes conversaron con el Presidente de la República, José Antonio Kast, sobre sus primeros meses en La Moneda, en materia de gestión, empleo, economía y seguridad.
+Feed: https://mdstrm.com/feeds/13-radios/entrevista-de-mesa-central</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/claritaspod.com/measure/pscrb.fm/rss/p/mgln.ai/e/491/traffic.megaphone.fm/LEME6262456681.mp3"/>
-                <guid></guid>
+                <link>https://mdstrm.com/audio/6a79cd95aa6fbd0e5a5940a0.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mdstrm.com/audio/6a79cd95aa6fbd0e5a5940a0.mp3"/>
+                <guid>https://mdstrm.com/audio/6a79cd95aa6fbd0e5a5940a0.mp3</guid>
                 
             </item><item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
+                <title>S16 Ep 885: David’s Test Match Special</title>
+                <description>&lt;p&gt;David’s just had a magical day at the Trent Bridge Test Match in Nottingham, made even more special as he and his family met Ben Stokes outside the grounds beforehand. Little did they know that later that day Ben would be announcing his retirement from international cricket. So it was a big day for all concerned - and David wants to tell Joe everything about it...
+Feed: https://feeds.acast.com/public/shows/6a042bd3aeff4cb21ba01798</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3407578.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0810/AU-20260810-0605-2900.mp3"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3407578.html</guid>
+                <link>https://shows.acast.com/chatabix/episodes/s16-ep-885-davids-test-match-special</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a72d3572ad3094117f7abc5/media.mp3"/>
+                <guid>https://shows.acast.com/chatabix/episodes/s16-ep-885-davids-test-match-special</guid>
                 
             </item>
         </channel>

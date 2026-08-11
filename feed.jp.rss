@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 10 Aug 2026 05:39:02 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Aug 2026 05:15:23 +0200</lastBuildDate>
             <item>
-                <title>Stars Ask Neil To Save The Universe</title>
-                <description>Could there be other universes out there? On this episode, Neil deGrasse Tyson and co-hosts Chuck Nice and Gary O’Reilly answer science questions from celebrities like Steven Spielberg, Josh Scherer, Emily Blunt, and more.
-Feed: https://feeds.simplecast.com/4T39_jAj</description>
+                <title>Crónica Castilla y León 14:10 10/08/2026</title>
+                <description>null
+Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
                 
                 
-                <link>siriusxm.com</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/ebdd6a04-44f7-48e7-8236-a5e4541d8fa4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&amp;awEpisodeId=ebdd6a04-44f7-48e7-8236-a5e4541d8fa4&amp;feed=4T39_jAj"/>
-                <guid>siriusxm.com</guid>
+                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/cronica-castilla-leon-14-10-10-08-2026/17185963/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17185963.mp3"/>
+                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/cronica-castilla-leon-14-10-10-08-2026/17185963/</guid>
                 
             </item><item>
-                <title>Freistunde FM - Jugendradio 09.08.2026</title>
-                <description>
-Feed: https://rdl.de/podcast</description>
+                <title>HB#368 Hertha siegt in Bochum: Waren wir alle zu kritisch?</title>
+                <description>Tief im Westend, wo die Erstliga-Zeit verstaubt - Ist es besser, viel besser, als man glaubt. Hertha BSC gewinnt sein Auftaktspiel beim VfL Bochum und trotzt somit all den Zweifeln der vergangenen Wochen. Wir analysieren den 1:0-Erfolg und beantworten die Frage: Waren all die Sorgen umsonst? Darüber hinaus gehen wir auf die Worte des Hertha-Präsidiums und den Doku-Film ein.https://dribbble.com/shots/15836549-1-FC-Union-Berlin-Logo-RedesignStimmungsbarometer: https://stimmung.herthabase...
+Feed: https://meinsportpodcast.de/fussball/feed/</description>
                 
                 
-                <link>https://rdl.de/beitrag/freistunde-fm-jugendradio-09082026</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/08/20260809-freistundefm-a26774.mp3"/>
-                <guid>https://rdl.de/beitrag/freistunde-fm-jugendradio-09082026</guid>
+                <link>https://meinsportpodcast.de/fussball/hb368-hertha-siegt-in-bochum-waren-wir-alle-zu-kritisch/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/264682/hb368-hertha-siegt-in-bochum-waren-wir-alle-zu-kritisch.mp3?awCollectionId=00010024&amp;awEpisodeId=264682"/>
+                <guid>https://meinsportpodcast.de/fussball/hb368-hertha-siegt-in-bochum-waren-wir-alle-zu-kritisch/</guid>
                 
             </item>
         </channel>

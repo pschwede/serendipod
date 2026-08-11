@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 10 Aug 2026 05:38:49 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Aug 2026 05:15:05 +0200</lastBuildDate>
             <item>
-                <title>NPR News: 08-10-2026 12AM EDT</title>
-                <description>NPR News: 08-10-2026 12AM EDT&lt;br/&gt;&lt;br/&gt;See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br/&gt;&lt;br/&gt;NPR Privacy Policy
-Feed: https://feeds.npr.org/500005/podcast.xml</description>
+                <title>Sizzlin Scotty 1774 08 06 26 Taco Salad</title>
+                <description>&lt;p&gt;Award-winning Tailgate Chef Scott Hunsinger shares his favorite recipes with listeners. Check out his Facebook page by searching “Sizzlin Scotty”. Chef Scotty tailgates at every Buffalo Bills home game with Conklin&#39;s Tailgate Bar and Grill....&lt;/p&gt;&lt;p&gt;This item belongs to: audio/sizzlin-scotty.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
+Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e0226759-0e13-4a6d-ad80-1ff4e4ce2200/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e0226759-0e13-4a6d-ad80-1ff4e4ce2200&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260810-0000-long&amp;p=500005&amp;d=280&amp;size=4481884"/>
-                <guid></guid>
+                <link>https://archive.org/details/sizzlin-scotty-1774-08-06-26-taco-salad</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/sizzlin-scotty-1774-08-06-26-taco-salad/format=VBR+MP3&amp;ignore=x.mp3"/>
+                <guid>https://archive.org/details/sizzlin-scotty-1774-08-06-26-taco-salad</guid>
                 
             </item><item>
-                <title>Nachrichten 06:30 Uhr - 10.08.2026</title>
-                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
-Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
+                <title>5 vor 6: Die FFH-Nachrichten</title>
+                <description>Die aktuellen FFH-Nachrichten - 24 Stunden News, Wetter, Verkehr und das Aktuellste aus Ihrer Region von unseren Hessen-Reportern - nonstop und stündlich.
+Feed: https://resource.ffh.de/podcasts/ffh/news.rss</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/nachrichten-0630-uhr-10082026,audio-3407634.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0810/AU-20260810-0634-0300.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-0630-uhr-10082026,audio-3407634.html</guid>
+                <link>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://resource.ffh.de/news/archive/news-20260811-06-0.mp3"/>
+                <guid>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</guid>
                 
             </item>
         </channel>

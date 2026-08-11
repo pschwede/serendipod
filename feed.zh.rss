@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 10 Aug 2026 05:38:56 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Aug 2026 05:15:17 +0200</lastBuildDate>
             <item>
-                <title>#843 - Siedlungsbau-Experte Dror Etkes über die israelische Gesellschaft</title>
-                <description>Politik für Desinteressierte
-Feed: https://jung-naiv.podigee.io/feed/mp3</description>
+                <title>THE DEAN’S LIST 10.08.2026</title>
+                <description>
+Feed: https://rdl.de/podcast</description>
                 
                 
-                <link>https://jung-naiv.podigee.io/1169-843-siedlungsbau-experte-dror-etkes-uber-die-israelische-gesellschaft</link>
-                <enclosure type="audio/mpeg" length="1" url="https://audio.podigee-cdn.net/2564054-m-02a0adcc3912f9e94f83a4b106e0c71e.mp3?source=feed"/>
-                <guid>https://jung-naiv.podigee.io/1169-843-siedlungsbau-experte-dror-etkes-uber-die-israelische-gesellschaft</guid>
+                <link>https://rdl.de/beitrag/dean-s-list-10082026</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/08/20260810-thedeanslist-a26779.mp3"/>
+                <guid>https://rdl.de/beitrag/dean-s-list-10082026</guid>
                 
             </item><item>
-                <title>Former KISS Guitarist Bruce Kulick Talks About KISS Being In A &#34;Lull&#34; In 1995!&#34;</title>
-                <description>Former KISS guitarist Bruce Kulick tells Shout It Out Loudcast that KISS was in &#34;Lull&#34; in 1995!
-Feed: https://feeds.megaphone.fm/shoutitoutloudcast</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/PAN9801413427.mp3"/>
-                <guid></guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3409920.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0811/AU-20260811-0606-2200.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3409920.html</guid>
                 
             </item>
         </channel>

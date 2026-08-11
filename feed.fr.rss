@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 10 Aug 2026 05:38:43 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Aug 2026 05:14:55 +0200</lastBuildDate>
             <item>
-                <title>قسمت سه هزار و نهصد و هفتاد و نه</title>
-                <description>&lt;p style=&#39;color:grey; font-size:0.75em;&#39;&gt; Hosted on Acast. See acast.com/privacy for more information.&lt;/p&gt;
-Feed: https://feeds.acast.com/public/shows/652fdf0e124b9d0012c3879f</description>
+                <title>Clare FM Sideline View Review Monday August 10th</title>
+                <description>Coming up on the show, we will look back on a bus…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
                 
                 
-                <link>https://shows.acast.com/tarikh-tmdn-1/episodes/6a78d44b237988582e301d42</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/652fdf0e124b9d0012c3879f/e/6a78d44b237988582e301d42/media.mp3"/>
-                <guid>https://shows.acast.com/tarikh-tmdn-1/episodes/6a78d44b237988582e301d42</guid>
+                <link>https://soundcloud.com/clarefm/clare-fm-sideline-876775420</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2379095357-clarefm-clare-fm-sideline-876775420.mp3"/>
+                <guid>https://soundcloud.com/clarefm/clare-fm-sideline-876775420</guid>
                 
             </item><item>
-                <title>18H04 ECR Traffic Report</title>
-                <description>Here&#39;s your latest East Coast Radio Traffic Report.
-Feed: https://iono.fm/rss/chan/3101</description>
+                <title>Crónica Castilla y León 14:10 10/08/2026</title>
+                <description>null
+Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
                 
                 
-                <link>https://iono.fm/e/1705250</link>
-                <enclosure type="audio/mpeg" length="1" url="https://edge-ionoaod.sharp-stream.com/151/3101/1705250.mp3?awCollectionId=3101&amp;awEpisodeId=1705250&amp;p=rss"/>
-                <guid>https://iono.fm/e/1705250</guid>
+                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/cronica-castilla-leon-14-10-10-08-2026/17185963/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17185963.mp3"/>
+                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/cronica-castilla-leon-14-10-10-08-2026/17185963/</guid>
                 
             </item>
         </channel>

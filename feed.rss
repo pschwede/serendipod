@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 10 Aug 2026 05:38:35 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 11 Aug 2026 05:14:45 +0200</lastBuildDate>
             <item>
-                <title>NPR News: 08-10-2026 12AM EDT</title>
-                <description>NPR News: 08-10-2026 12AM EDT&lt;br/&gt;&lt;br/&gt;See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br/&gt;&lt;br/&gt;NPR Privacy Policy
-Feed: https://feeds.npr.org/500005/podcast.xml</description>
+                <title>Dominican artist Bony Ramirez - Anchoring Caribbean Memory to Surreal, Renaissance-Inspired Figures</title>
+                <description>&lt;p&gt;In this episode of The Truth In This Art, the guest is Bony Ramirez!&lt;/p&gt;&lt;p&gt;About &lt;strong&gt;Bony Ramirez&lt;/strong&gt;: Dominican-born artist based out of Jersey City, New Jersey, working across painting, sculpture, and installation to create a vivid celebration and exploration of Dominican life and Caribbean culture...
+Feed: https://feeds.transistor.fm/the-truth-in-this-art</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e0226759-0e13-4a6d-ad80-1ff4e4ce2200/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e0226759-0e13-4a6d-ad80-1ff4e4ce2200&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260810-0000-long&amp;p=500005&amp;d=280&amp;size=4481884"/>
-                <guid></guid>
+                <link>https://www.thetruthinthisart.com/episodes/dominican-artist-bony-ramirez-anchoring-caribbean-memory-to-surreal-renaissance-inspired-figures</link>
+                <enclosure type="audio/mpeg" length="1" url="https://op3.dev/e/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/3ca9b24f/313fc71e.mp3"/>
+                <guid>https://www.thetruthinthisart.com/episodes/dominican-artist-bony-ramirez-anchoring-caribbean-memory-to-surreal-renaissance-inspired-figures</guid>
                 
             </item><item>
-                <title>Nichts für PS5-Spieler: Dieses praktische Komfort-Feature gibt’s nur auf der Xbox</title>
-                <description>Sowohl die PS5 als auch die Xbox Series X|S haben etliche praktische Features. Doch eine besondere Smarthome-Funktion gibt es bislang nur auf der Microsoft-Konsole.
-Feed: https://www.giga.de/feed/themen/smart-home/</description>
+                <title>2961 / Meine Ex(plodierte Flimmerkiste)</title>
+                <description>Rückwärts aus dem Urlaub ohne Zerledigungen aber dafür hungrig und schlecht gelaunt, Urlaub ist und bleibt ein Konstrukt für kinderlose Menschen und Einkaufen ist sowieso ein Haufen Scheiße.
+Feed: https://bastard.uber.space/feed/mp3/</description>
                 
                 
-                <link>https://www.giga.de/games/nichts-fuer-ps5-spieler-dieses-praktische-komfort-feature-gibt-s-nur-auf-der-xbox--01J5QT8YDJCVJMQXVTDPJZ3RVJ</link>
-                <enclosure type="audio/mpeg" length="1" url="https://static.giga.de/ae/cc/f5/97c226935a78e405a4f2c89c28_ZmMgNjY4ODc1MThmZmZmIDE5MjAgMANhYzkyOWFlNWY4Mg==.png"/>
-                <guid>https://www.giga.de/games/nichts-fuer-ps5-spieler-dieses-praktische-komfort-feature-gibt-s-nur-auf-der-xbox--01J5QT8YDJCVJMQXVTDPJZ3RVJ</guid>
+                <link>https://radiobastard.fm/2961-meine-explodierte-flimmerkiste/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://radiobastard.fm/podlove/file/2466/s/feed/c/mp3/2961.mp3"/>
+                <guid>https://radiobastard.fm/2961-meine-explodierte-flimmerkiste/</guid>
                 
             </item>
         </channel>
