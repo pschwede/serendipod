@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Aug 2026 05:14:55 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 23 Aug 2026 04:45:20 +0200</lastBuildDate>
             <item>
-                <title>Clare FM Sideline View Review Monday August 10th</title>
-                <description>Coming up on the show, we will look back on a bus…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
+                <title>Aus Open Tag 2: Swiatek und Andreeva mit Schwierigkeiten - Wawrinka verlängert Australien-Aufenthalt</title>
+                <description>Willkommen zur neuen Ausgabe von Chip &amp; Charge, dieses Mal mit dem zweiten Tag von den Australian Open 2026.
+Heute gab es in Melbourne weniger spektakuläre Matches als noch am Tag zuvor, lediglich einige kleinere und größere Überraschungen. Bei den Damen hatte Iga Swiatek ein paar Probleme mit ihrer Gegnerin Yue Yuan, vor allem beim zweiten Aufschlag. Letztlich gewann sie jedoch in zwei Sätzen. Nun geht es gegen Marie Bouzkova...
+Feed: https://meinsportpodcast.de/feed/</description>
                 
                 
-                <link>https://soundcloud.com/clarefm/clare-fm-sideline-876775420</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2379095357-clarefm-clare-fm-sideline-876775420.mp3"/>
-                <guid>https://soundcloud.com/clarefm/clare-fm-sideline-876775420</guid>
+                <link>https://meinsportpodcast.de/chip-charge/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/260364/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt.mp3?awCollectionId=10015&amp;awEpisodeId=260364"/>
+                <guid>https://meinsportpodcast.de/chip-charge/aus-open-tag-2-swiatek-und-andreeva-mit-schwierigkeiten-wawrinka-verlaengert-australien-aufenthalt</guid>
                 
             </item><item>
-                <title>Crónica Castilla y León 14:10 10/08/2026</title>
-                <description>null
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>Meet The Beat am Samstag, 29. August 2026, 20 Uhr</title>
+                <description>&lt;p&gt;This Is The Motown Sound - &lt;strong&gt;Folge 267&lt;/strong&gt;  Im heissen &lt;strong&gt;Sommer 1983&lt;/strong&gt; landet Motown den ersten offiziellen Rap-Hit der Firmen-Historie - allerdings nur in den europäischen Charts. BBC-Moderator &lt;strong&gt;Gary Byrd&lt;/strong&gt; gelingt das Kunststück mit der auch hierzulande populären Nummer &#34;&lt;strong&gt;The Crown&lt;/strong&gt;&#34;, die ursprünglich auf dem (kurzlebigen) neuen Sublabel von &lt;strong&gt;Stevie Wonder&lt;/strong&gt; veröffentlicht wird.&lt;/p&gt;
+Feed: https://rdl.de/podcast</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/cronica-castilla-leon-14-10-10-08-2026/17185963/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17185963.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/cronica-castilla-leon-14-10-10-08-2026/17185963/</guid>
+                <link>https://rdl.de/beitrag/meet-beat-am-samstag-29-august-2026-20-uhr</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/08/20260822-meetthebeata-a26846.mp3"/>
+                <guid>https://rdl.de/beitrag/meet-beat-am-samstag-29-august-2026-20-uhr</guid>
                 
             </item>
         </channel>

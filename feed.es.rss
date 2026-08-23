@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Aug 2026 05:15:05 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 23 Aug 2026 04:45:25 +0200</lastBuildDate>
             <item>
-                <title>Sizzlin Scotty 1774 08 06 26 Taco Salad</title>
-                <description>&lt;p&gt;Award-winning Tailgate Chef Scott Hunsinger shares his favorite recipes with listeners. Check out his Facebook page by searching “Sizzlin Scotty”. Chef Scotty tailgates at every Buffalo Bills home game with Conklin&#39;s Tailgate Bar and Grill....&lt;/p&gt;&lt;p&gt;This item belongs to: audio/sizzlin-scotty.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
-Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
+                <title>Sanfter Gott?</title>
+                <description>Es gibt Situationen, in denen wir völlig energielos sind. Manchmal erleben wir sogar eher mehr Druck durch andere Menschen oder die äußeren Umstände. 
+
+Feed: https://457rfg.podcaster.de/Mutmacher.rss</description>
                 
                 
-                <link>https://archive.org/details/sizzlin-scotty-1774-08-06-26-taco-salad</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/sizzlin-scotty-1774-08-06-26-taco-salad/format=VBR+MP3&amp;ignore=x.mp3"/>
-                <guid>https://archive.org/details/sizzlin-scotty-1774-08-06-26-taco-salad</guid>
+                <link>https://457rfg.podcaster.de/mutmacher/sanfter-gott/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://457rfg.podcaster.de/mutmacher/media/20260823_-_Roland.mp3"/>
+                <guid>https://457rfg.podcaster.de/mutmacher/sanfter-gott/</guid>
                 
             </item><item>
-                <title>5 vor 6: Die FFH-Nachrichten</title>
-                <description>Die aktuellen FFH-Nachrichten - 24 Stunden News, Wetter, Verkehr und das Aktuellste aus Ihrer Region von unseren Hessen-Reportern - nonstop und stündlich.
-Feed: https://resource.ffh.de/podcasts/ffh/news.rss</description>
+                <title>WDR aktuell um 05.00 Uhr</title>
+                <description>WDR aktuell um 05.00 Uhr
+Feed: https://www1.wdr.de/mediathek/audio/wdr-aktuell-news/wdr-aktuell-152.podcast</description>
                 
                 
-                <link>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://resource.ffh.de/news/archive/news-20260811-06-0.mp3"/>
-                <guid>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</guid>
+                <link>https://www1.wdr.de/mediathek/audio/wdr-aktuell-news/audio-wdr-aktuell-um-uhr-2392.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/23/cbf06908-bdcb-4edf-af20-84444d64df05/cbf06908-bdcb-4edf-af20-84444d64df05_MP3-128.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/wdr-aktuell-news/audio-wdr-aktuell-um-uhr-2392.html</guid>
                 
             </item>
         </channel>

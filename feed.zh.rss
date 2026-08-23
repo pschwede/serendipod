@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 11 Aug 2026 05:15:17 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 23 Aug 2026 04:45:35 +0200</lastBuildDate>
             <item>
-                <title>THE DEAN’S LIST 10.08.2026</title>
-                <description>
-Feed: https://rdl.de/podcast</description>
+                <title>18H04 ECR Traffic Report</title>
+                <description>Here&#39;s your latest East Coast Radio Traffic Report with Andi James.
+Feed: https://iono.fm/rss/chan/3101</description>
                 
                 
-                <link>https://rdl.de/beitrag/dean-s-list-10082026</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/08/20260810-thedeanslist-a26779.mp3"/>
-                <guid>https://rdl.de/beitrag/dean-s-list-10082026</guid>
+                <link>https://iono.fm/e/1709821</link>
+                <enclosure type="audio/mpeg" length="1" url="https://edge-ionoaod.sharp-stream.com/151/3101/1709821.mp3?awCollectionId=3101&amp;awEpisodeId=1709821&amp;p=rss"/>
+                <guid>https://iono.fm/e/1709821</guid>
                 
             </item><item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>Warby Parker vs Luxottica | A Modern Lens</title>
+                <description>When Warby Parker debuted in 2010, the brand disrupted not just how much eyeglasses cost, but also how customers purchased them. Its direct-to-consumer e-commerce business model left many wondering whether Luxottica’s longstanding reign over the industry would soon be over. In the decade-and-a-half since, the answer to that question is still evolving. Max Chafkin profiled Warby Parker in its early days for Fast Company, and is currently a senior reporter for Bloomberg Businessweek...
+Feed: https://rss.art19.com/business-wars</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3409920.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0811/AU-20260811-0606-2200.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3409920.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/16e4724a-0349-4b7f-b1fc-98fad8ac7285.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
+                <guid></guid>
                 
             </item>
         </channel>
