@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 23 Aug 2026 04:45:35 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 31 Aug 2026 10:45:15 +0200</lastBuildDate>
             <item>
-                <title>18H04 ECR Traffic Report</title>
-                <description>Here&#39;s your latest East Coast Radio Traffic Report with Andi James.
-Feed: https://iono.fm/rss/chan/3101</description>
+                <title>Le Journal horaire de 12h00</title>
+                <description>
+Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
                 
                 
-                <link>https://iono.fm/e/1709821</link>
-                <enclosure type="audio/mpeg" length="1" url="https://edge-ionoaod.sharp-stream.com/151/3101/1709821.mp3?awCollectionId=3101&amp;awEpisodeId=1709821&amp;p=rss"/>
-                <guid>https://iono.fm/e/1709821</guid>
+                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-12h00-29342930.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/3baa69d2-678b-32a5-b179-86db0bc7f421/12959566-e0cd-3097-accc-0c1d3b1b2475.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-12h00-29342930.html</guid>
                 
             </item><item>
-                <title>Warby Parker vs Luxottica | A Modern Lens</title>
-                <description>When Warby Parker debuted in 2010, the brand disrupted not just how much eyeglasses cost, but also how customers purchased them. Its direct-to-consumer e-commerce business model left many wondering whether Luxottica’s longstanding reign over the industry would soon be over. In the decade-and-a-half since, the answer to that question is still evolving. Max Chafkin profiled Warby Parker in its early days for Fast Company, and is currently a senior reporter for Bloomberg Businessweek...
-Feed: https://rss.art19.com/business-wars</description>
+                <title>Die Arabella Nachrichten vom Montag, 31.08.2026 um 12:08 Uhr</title>
+                <description>Die aktuellen Nachrichten zum Nachhören
+Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://rss.art19.com/episodes/16e4724a-0349-4b7f-b1fc-98fad8ac7285.mp3?rss_browser=BAhJIhBmeXlkLXBvbGwtMQY6BkVU--0d7b418f62d9c36bf3b6fbcf0ff177ce88aec095"/>
-                <guid></guid>
+                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-montag-31-08-2026-um-1208-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3411942_t1izx5g4kitzm_diu5ymxiq7jz7.mp3"/>
+                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-montag-31-08-2026-um-1208-uhr/</guid>
                 
             </item>
         </channel>

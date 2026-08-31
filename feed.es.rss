@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 23 Aug 2026 04:45:25 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 31 Aug 2026 10:44:57 +0200</lastBuildDate>
             <item>
-                <title>Sanfter Gott?</title>
-                <description>Es gibt Situationen, in denen wir völlig energielos sind. Manchmal erleben wir sogar eher mehr Druck durch andere Menschen oder die äußeren Umstände. 
-
-Feed: https://457rfg.podcaster.de/Mutmacher.rss</description>
+                <title>La mesa del análisis a las 22h | Marlaska llama al cese de la violencia</title>
+                <description>&lt;p&gt;Tertulia y análisis con Pablo Simón, María Eugenia Palop y Jesús Maraña.&lt;/p&gt;
+Feed: https://fapi-top.prisasd.com/podcast/playser/hora_25/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://457rfg.podcaster.de/mutmacher/sanfter-gott/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://457rfg.podcaster.de/mutmacher/media/20260823_-_Roland.mp3"/>
-                <guid>https://457rfg.podcaster.de/mutmacher/sanfter-gott/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/HORA_25_SEC_HORA_25_DE_22_A_2330H_SER_PODCAST_1483_P/media/playser/audio/20268/29/5084948.mp3?dest=hora_25"/>
+                <guid></guid>
                 
             </item><item>
-                <title>WDR aktuell um 05.00 Uhr</title>
-                <description>WDR aktuell um 05.00 Uhr
-Feed: https://www1.wdr.de/mediathek/audio/wdr-aktuell-news/wdr-aktuell-152.podcast</description>
+                <title>Що сталося із подружжям, яке ФСБ забрало з дому: історія сім&#39;ї Плачкових</title>
+                <description>Родину Олега і Тетяни Плачкових російські силовик…
+Feed: https://feeds.soundcloud.com/users/soundcloud:users:55012225/sounds.rss</description>
                 
                 
-                <link>https://www1.wdr.de/mediathek/audio/wdr-aktuell-news/audio-wdr-aktuell-um-uhr-2392.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/23/cbf06908-bdcb-4edf-af20-84444d64df05/cbf06908-bdcb-4edf-af20-84444d64df05_MP3-128.mp3"/>
-                <guid>https://www1.wdr.de/mediathek/audio/wdr-aktuell-news/audio-wdr-aktuell-um-uhr-2392.html</guid>
+                <link>https://soundcloud.com/hromadske-radio/shho-stalosya-iz-podruzhzhyam</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2391381903-hromadske-radio-shho-stalosya-iz-podruzhzhyam.mp3"/>
+                <guid>https://soundcloud.com/hromadske-radio/shho-stalosya-iz-podruzhzhyam</guid>
                 
             </item>
         </channel>
