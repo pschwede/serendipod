@@ -9,26 +9,32 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 31 Aug 2026 10:45:15 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 01 Sep 2026 09:19:53 +0200</lastBuildDate>
             <item>
-                <title>Le Journal horaire de 12h00</title>
-                <description>
-Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-12h00-29342930.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/3baa69d2-678b-32a5-b179-86db0bc7f421/12959566-e0cd-3097-accc-0c1d3b1b2475.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-12h00-29342930.html</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3450776.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0901/AU-20260901-1005-1300.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3450776.html</guid>
                 
             </item><item>
-                <title>Die Arabella Nachrichten vom Montag, 31.08.2026 um 12:08 Uhr</title>
-                <description>Die aktuellen Nachrichten zum Nachhören
-Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
+                <title>Aonghus MacKechnie, &#34;Edinburgh: City of Romanticism&#34; (Lund Humphries, 2026)</title>
+                <description>Romanticism made Scotland famous. It critically shaped the course of 
+Scottish culture, while impacting on cultures elsewhere and inaugurating
+ the country’s still-flourishing
+ and lucrative tourist industry. This book is about Edinburgh’s most 
+emblematic architecture over the long 19th century: the castellated and 
+stone built
+ cityscape of national revivalist architecture...
+Feed: https://feeds.megaphone.fm/LIT4543917034</description>
                 
                 
-                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-montag-31-08-2026-um-1208-uhr/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3411942_t1izx5g4kitzm_diu5ymxiq7jz7.mp3"/>
-                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-montag-31-08-2026-um-1208-uhr/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NBNK5113107365.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

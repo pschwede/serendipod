@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 31 Aug 2026 10:45:05 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 01 Sep 2026 09:19:47 +0200</lastBuildDate>
             <item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>[LOVE STORY] La reine et le roi du Bhoutan : une histoire de bonheur, de tradition et de modernité</title>
+                <description>Vous avez sans doute déjà entendu parler du Bhoutan... Mais si ! Ce petit royaume au pied de l&#39;Himalaya, qui ne calcule pas sa richesse en Produit Intérieur Brut, mais en Bonheur Intérieur Brut. Au Bhoutan, l&#39;harmonie avec la nature, le respect des traditions bouddhistes passent avant tout...
+Feed: https://feeds.megaphone.fm/BABA8011696838</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3448724.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0831/AU-20260831-1104-5100.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3448724.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA2224351437.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>ERF Plus - Bibel heute Prüfungsauftrag</title>
-                <description>Der Bibeltext 1. Johannes 4,1-6 – ausgelegt von Roland Gebauer.
-Feed: https://feedpress.me/erf-plus-podcast</description>
+                <title>Le Replay du Réveil Chérie</title>
+                <description>Tous les matins entre 6h et 9h, Alex et Tiffany vous réveillent sur Chérie FM. Réécoutez l&#39;émission ici avec le 6h/9h.
+Feed: https://aod.nrjaudio.fm/xml/189.xml</description>
                 
                 
-                <link>https://feedpress.me/link/19281/17435179/5222-6328</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/19281/17435180/1141673.mp3"/>
-                <guid>https://feedpress.me/link/19281/17435179/5222-6328</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.nrjaudio.fm/podcasts/fr/2/189/9f6eff5f-b7e1-452f-9b6b-2e5e062496e5.mp3?awCollectionId=189&amp;awEpisodeId=1335443"/>
+                <guid></guid>
                 
             </item>
         </channel>

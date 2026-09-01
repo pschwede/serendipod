@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 31 Aug 2026 10:44:50 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 01 Sep 2026 09:19:37 +0200</lastBuildDate>
             <item>
-                <title>#220 - Reaktion</title>
-                <description>So eine NoGo-Folge habt ihr auf jeden Fall noch nicht erlebt - versprochen! Schaut/hört rein, um zu wissen warum! Es geht auf jeden Fall um das jeweilige UECL-Aus und die Reaktionen darauf - sportlich, wie personaltechnisch und auch irgendwo sport-politisch...
-Feed: https://meinsportpodcast.de/fussball/feed/</description>
+                <title>Die Sardinen werden knapp</title>
+                <description> Welty, Ute www.deutschlandfunkkultur.de, Studio 9 
+Feed: https://www.deutschlandfunkkultur.de/studio-102.xml</description>
                 
                 
-                <link>https://meinsportpodcast.de/fussball/220-reaktion/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/264967/220-reaktion.mp3?awCollectionId=00010024&amp;awEpisodeId=264967"/>
-                <guid>https://meinsportpodcast.de/fussball/220-reaktion/</guid>
+                <link>https://www.deutschlandfunkkultur.de/die-sardinen-werden-knapp-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/01/die_sardinen_werden_knapp_drk_20260901_0837_abb65d5d.mp3?refId=studio-102"/>
+                <guid>https://www.deutschlandfunkkultur.de/die-sardinen-werden-knapp-100.html</guid>
                 
             </item><item>
-                <title>Wer wählt die AfD? - Interview mit Dr. Stefan Merz, Infratest dimap</title>
-                <description> Schmidt-Mattern, Barbara www.deutschlandfunk.de, Interviews 
-Feed: https://www.deutschlandfunk.de/interviews-108.xml</description>
+                <title>#280 | Finally a Worthy Adversary</title>
+                <description>&lt;p&gt;In this episode, brought to you by Devlin-MacGregor: Richard Kimble is an elite thinker, Energy Drink Review: Bang! American Berry, Silver Dome is HAPPENING. Ted and Zach are both Boothsmen and Thespians..&lt;/p&gt;&lt;p&gt;This item belongs to: audio/gutcheckpodcast.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
+Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/wer-waehlt-die-afd-interview-mit-dr-stefan-merz-infratest-dimap-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/08/31/wer_waehlt_die_afd_interview_mit_dr_stefan_merz_infratest_dlf_20260831_0810_e57d560c.mp3?refId=interviews-108"/>
-                <guid>https://www.deutschlandfunk.de/wer-waehlt-die-afd-interview-mit-dr-stefan-merz-infratest-dimap-100.html</guid>
+                <link>https://archive.org/details/gutcheck.280</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/gutcheck.280/format=VBR+MP3&amp;ignore=x.mp3"/>
+                <guid>https://archive.org/details/gutcheck.280</guid>
                 
             </item>
         </channel>

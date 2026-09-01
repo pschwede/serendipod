@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 31 Aug 2026 10:44:57 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 01 Sep 2026 09:19:43 +0200</lastBuildDate>
             <item>
-                <title>La mesa del análisis a las 22h | Marlaska llama al cese de la violencia</title>
-                <description>&lt;p&gt;Tertulia y análisis con Pablo Simón, María Eugenia Palop y Jesús Maraña.&lt;/p&gt;
+                <title>NL Nachrichten leicht 31.8.26</title>
+                <description> Nachrichten leicht www.deutschlandfunk.de, Informationen am Abend 
+Feed: https://www.deutschlandfunk.de/informationen-am-abend-110.xml</description>
+                
+                
+                <link>https://www.deutschlandfunk.de/nl-nachrichten-leicht-31-8-102.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/08/31/nl_nachrichten_leicht_31826_dlf_20260831_1839_a5b1409f.mp3?refId=informationen-am-abend-110"/>
+                <guid>https://www.deutschlandfunk.de/nl-nachrichten-leicht-31-8-102.html</guid>
+                
+            </item><item>
+                <title>Hora 25 de 22 a 23:30 |</title>
+                <description>&lt;p&gt;Programa completo de Hora 25 del 31 de agosto de 2026. Primer programa de José Luis Sastre al frente de Hora 25.&lt;/p&gt;
 Feed: https://fapi-top.prisasd.com/podcast/playser/hora_25/itunestfp/podcast.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/HORA_25_SEC_HORA_25_DE_22_A_2330H_SER_PODCAST_1483_P/media/playser/audio/20268/29/5084948.mp3?dest=hora_25"/>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/HORA_25_SEC_HORA_25_DE_22_A_2330H_SER_PODCAST_1483_P/media/playser/audio/20269/01/5087562.mp3?dest=hora_25"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>Що сталося із подружжям, яке ФСБ забрало з дому: історія сім&#39;ї Плачкових</title>
-                <description>Родину Олега і Тетяни Плачкових російські силовик…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:55012225/sounds.rss</description>
-                
-                
-                <link>https://soundcloud.com/hromadske-radio/shho-stalosya-iz-podruzhzhyam</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2391381903-hromadske-radio-shho-stalosya-iz-podruzhzhyam.mp3"/>
-                <guid>https://soundcloud.com/hromadske-radio/shho-stalosya-iz-podruzhzhyam</guid>
                 
             </item>
         </channel>
