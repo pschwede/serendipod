@@ -9,32 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 01 Sep 2026 09:19:53 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 07 Sep 2026 09:13:38 +0200</lastBuildDate>
             <item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>Informativo Ávila 08:45 07/09/2026</title>
+                <description>Informativo Ávila 08:45 07/09/2026
+Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3450776.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0901/AU-20260901-1005-1300.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3450776.html</guid>
+                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-avila-08-45-07-09-2026/17214603/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17214603.mp3"/>
+                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-avila-08-45-07-09-2026/17214603/</guid>
                 
             </item><item>
-                <title>Aonghus MacKechnie, &#34;Edinburgh: City of Romanticism&#34; (Lund Humphries, 2026)</title>
-                <description>Romanticism made Scotland famous. It critically shaped the course of 
-Scottish culture, while impacting on cultures elsewhere and inaugurating
- the country’s still-flourishing
- and lucrative tourist industry. This book is about Edinburgh’s most 
-emblematic architecture over the long 19th century: the castellated and 
-stone built
- cityscape of national revivalist architecture...
-Feed: https://feeds.megaphone.fm/LIT4543917034</description>
+                <title>Porträt der kurdischen Autorin Yıldız Çakar</title>
+                <description> Orlowski, Corinne www.deutschlandfunkkultur.de, Lesart 
+Feed: https://www.deutschlandfunkkultur.de/lesart-das-literaturmagazin-100.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NBNK5113107365.mp3"/>
-                <guid></guid>
+                <link>https://www.deutschlandfunkkultur.de/portraet-der-kurdischen-autorin-y-ld-z-akar-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/07/portraet_der_kurdischen_autorin_yldz_cakar_drk_20260907_1028_61042df6.mp3?refId=lesart-das-literaturmagazin-100"/>
+                <guid>https://www.deutschlandfunkkultur.de/portraet-der-kurdischen-autorin-y-ld-z-akar-100.html</guid>
                 
             </item>
         </channel>

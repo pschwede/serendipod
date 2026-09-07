@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 01 Sep 2026 09:19:47 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 07 Sep 2026 09:13:31 +0200</lastBuildDate>
             <item>
-                <title>[LOVE STORY] La reine et le roi du Bhoutan : une histoire de bonheur, de tradition et de modernité</title>
-                <description>Vous avez sans doute déjà entendu parler du Bhoutan... Mais si ! Ce petit royaume au pied de l&#39;Himalaya, qui ne calcule pas sa richesse en Produit Intérieur Brut, mais en Bonheur Intérieur Brut. Au Bhoutan, l&#39;harmonie avec la nature, le respect des traditions bouddhistes passent avant tout...
-Feed: https://feeds.megaphone.fm/BABA8011696838</description>
+                <title>Le Journal horaire de 10h00</title>
+                <description>
+Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA2224351437.mp3"/>
-                <guid></guid>
+                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-10h00-29349666.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/5d965984-6a15-3aba-8364-7b36db154d6f/51eea189-1ccd-3f19-9a06-f3610d5986a5.mp3"/>
+                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-10h00-29349666.html</guid>
                 
             </item><item>
-                <title>Le Replay du Réveil Chérie</title>
-                <description>Tous les matins entre 6h et 9h, Alex et Tiffany vous réveillent sur Chérie FM. Réécoutez l&#39;émission ici avec le 6h/9h.
-Feed: https://aod.nrjaudio.fm/xml/189.xml</description>
+                <title>Die Nachrichten vom 07.09.2026, 10:00 Uhr</title>
+                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
+Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcasts.nrjaudio.fm/podcasts/fr/2/189/9f6eff5f-b7e1-452f-9b6b-2e5e062496e5.mp3?awCollectionId=189&amp;awEpisodeId=1335443"/>
-                <guid></guid>
+                <link>https://www.deutschlandfunk.de/nachrichten-41216.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/07/nachrichten_dlf_20260907_1000_ede199c0.mp3?refId=nachrichten-108"/>
+                <guid>https://www.deutschlandfunk.de/nachrichten-41216.html</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 01 Sep 2026 09:19:29 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 07 Sep 2026 09:13:13 +0200</lastBuildDate>
             <item>
-                <title>Αλλεργική ρινίτιδα (hay fever): Υπάρχει νέα θεραπεία… εκτός από αντισταμινικά</title>
-                <description>Με τον ερχομό της άνοιξης, παρατηρείται και η έξαρση των φαινομένων της αλλεργικής ρινίτιδας, γνωστής στα αγγλικά, και ως hay fever. Με αυτήν την αφορμή, η γενική γιατρός Μαγδαληνή Σιμώνη, μας μιλά για την εν λόγω πάθηση.
-Feed: https://sbs-ondemand.streamguys1.com/sbs-greek/</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://www.sbs.com.au/language/greek/el/podcast-episode/hay-fever-there-is-a-new-therapy-besides-antihistamine-medicine/atnxpnflw</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sbs-podcast.streamguys1.com/health-and-wellbeing/20260901173032-greek-01-09-26-hay-fever.mp3?awCollectionId=sbs-greek&amp;awGenre=News&amp;awEpisodeId=000001a0-5bdb-d580-a5bc-5fdf19d50000&amp;dur_cat=3"/>
-                <guid>https://www.sbs.com.au/language/greek/el/podcast-episode/hay-fever-there-is-a-new-therapy-besides-antihistamine-medicine/atnxpnflw</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3461950.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0907/AU-20260907-0806-3600.mp3"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3461950.html</guid>
                 
             </item><item>
-                <title>Uschi for Queen!</title>
-                <description>Urlaubstagebuch Tag 21
-Feed: https://feeds.acast.com/public/shows/45033096-220b-4490-b648-7e822e82ccde</description>
+                <title>10H03 ECR Traffic Report - (Ongoing) Crash recovery on the R56 near Mkhuzane Primary School. Road is CLOSED.</title>
+                <description>Here&#39;s your latest East Coast Radio Traffic Report with Buhle Hlatshwayo.
+Feed: https://iono.fm/rss/chan/3101</description>
                 
                 
-                <link>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/uschi-for-queen</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/mahlersmeinung-diepodcastkolumne/e/6a92a1de0911a561975974cb/media.mp3"/>
-                <guid>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/uschi-for-queen</guid>
+                <link>https://iono.fm/e/1714987</link>
+                <enclosure type="audio/mpeg" length="1" url="https://edge-ionoaod.sharp-stream.com/151/3101/1714987.mp3?awCollectionId=3101&amp;awEpisodeId=1714987&amp;p=rss"/>
+                <guid>https://iono.fm/e/1714987</guid>
                 
             </item>
         </channel>

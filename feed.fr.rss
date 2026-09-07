@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 01 Sep 2026 09:19:37 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 07 Sep 2026 09:13:17 +0200</lastBuildDate>
             <item>
-                <title>Die Sardinen werden knapp</title>
-                <description> Welty, Ute www.deutschlandfunkkultur.de, Studio 9 
-Feed: https://www.deutschlandfunkkultur.de/studio-102.xml</description>
+                <title>10H03 ECR Traffic Report - (Ongoing) Crash recovery on the R56 near Mkhuzane Primary School. Road is CLOSED.</title>
+                <description>Here&#39;s your latest East Coast Radio Traffic Report with Buhle Hlatshwayo.
+Feed: https://iono.fm/rss/chan/3101</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/die-sardinen-werden-knapp-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/01/die_sardinen_werden_knapp_drk_20260901_0837_abb65d5d.mp3?refId=studio-102"/>
-                <guid>https://www.deutschlandfunkkultur.de/die-sardinen-werden-knapp-100.html</guid>
+                <link>https://iono.fm/e/1714987</link>
+                <enclosure type="audio/mpeg" length="1" url="https://edge-ionoaod.sharp-stream.com/151/3101/1714987.mp3?awCollectionId=3101&amp;awEpisodeId=1714987&amp;p=rss"/>
+                <guid>https://iono.fm/e/1714987</guid>
                 
             </item><item>
-                <title>#280 | Finally a Worthy Adversary</title>
-                <description>&lt;p&gt;In this episode, brought to you by Devlin-MacGregor: Richard Kimble is an elite thinker, Energy Drink Review: Bang! American Berry, Silver Dome is HAPPENING. Ted and Zach are both Boothsmen and Thespians..&lt;/p&gt;&lt;p&gt;This item belongs to: audio/gutcheckpodcast.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
-Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://archive.org/details/gutcheck.280</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/gutcheck.280/format=VBR+MP3&amp;ignore=x.mp3"/>
-                <guid>https://archive.org/details/gutcheck.280</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3462262.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0907/AU-20260907-1006-4000.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3462262.html</guid>
                 
             </item>
         </channel>
