@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 07 Sep 2026 09:13:13 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 08 Sep 2026 08:47:20 +0200</lastBuildDate>
             <item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3461950.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0907/AU-20260907-0806-3600.mp3"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3461950.html</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3464364.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0908/AU-20260908-1005-5400.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3464364.html</guid>
                 
             </item><item>
-                <title>10H03 ECR Traffic Report - (Ongoing) Crash recovery on the R56 near Mkhuzane Primary School. Road is CLOSED.</title>
-                <description>Here&#39;s your latest East Coast Radio Traffic Report with Buhle Hlatshwayo.
-Feed: https://iono.fm/rss/chan/3101</description>
+                <title>5 vor 10: Die FFH-Nachrichten</title>
+                <description>Die aktuellen FFH-Nachrichten - 24 Stunden News, Wetter, Verkehr und das Aktuellste aus Ihrer Region von unseren Hessen-Reportern - nonstop und stündlich.
+Feed: https://resource.ffh.de/podcasts/ffh/news.rss</description>
                 
                 
-                <link>https://iono.fm/e/1714987</link>
-                <enclosure type="audio/mpeg" length="1" url="https://edge-ionoaod.sharp-stream.com/151/3101/1714987.mp3?awCollectionId=3101&amp;awEpisodeId=1714987&amp;p=rss"/>
-                <guid>https://iono.fm/e/1714987</guid>
+                <link>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://resource.ffh.de/news/archive/news-20260908-10-0.mp3"/>
+                <guid>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</guid>
                 
             </item>
         </channel>

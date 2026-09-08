@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 07 Sep 2026 09:13:26 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 08 Sep 2026 08:47:36 +0200</lastBuildDate>
             <item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
+                <title>Die Nachrichten vom 08.09.2026, 10:00 Uhr</title>
+                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
+Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3462258.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0907/AU-20260907-1006-0100.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3462258.html</guid>
+                <link>https://www.deutschlandfunk.de/nachrichten-41292.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/08/nachrichten_dlf_20260908_1000_6507f70c.mp3?refId=nachrichten-108"/>
+                <guid>https://www.deutschlandfunk.de/nachrichten-41292.html</guid>
                 
             </item><item>
-                <title>Nachrichten 10:00 Uhr - 07.09.2026</title>
-                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
-Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
+                <title>Die Arabella Nachrichten vom Dienstag, 8.09.2026 um 10:08 Uhr</title>
+                <description>Die aktuellen Nachrichten zum Nachhören
+Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/nachrichten-1000-uhr-07092026,audio-3462260.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0907/AU-20260907-1006-3300.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-1000-uhr-07092026,audio-3462260.html</guid>
+                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-dienstag-8-09-2026-um-1008-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3424497_ah7g1n2rd2oau_9p9lw5np4evbw.mp3"/>
+                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-dienstag-8-09-2026-um-1008-uhr/</guid>
                 
             </item>
         </channel>

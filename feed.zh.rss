@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 07 Sep 2026 09:13:38 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 08 Sep 2026 08:47:46 +0200</lastBuildDate>
             <item>
-                <title>Informativo Ávila 08:45 07/09/2026</title>
-                <description>Informativo Ávila 08:45 07/09/2026
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>&#34;Cash ou Crash&#34; avec Elisa.</title>
+                <description>On joue ensemble au &#34;Cash ou Crash&#34; pour tenter de gagner 1000 euros.
+Feed: https://aod.nrjaudio.fm/xml/130.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-avila-08-45-07-09-2026/17214603/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17214603.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-avila-08-45-07-09-2026/17214603/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.nrjaudio.fm/podcasts/fr/1/130/37f1905c-85bf-43cc-8e50-9721002007dd.mp3?awCollectionId=130&amp;awEpisodeId=1340053"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Porträt der kurdischen Autorin Yıldız Çakar</title>
-                <description> Orlowski, Corinne www.deutschlandfunkkultur.de, Lesart 
-Feed: https://www.deutschlandfunkkultur.de/lesart-das-literaturmagazin-100.xml</description>
+                <title>Hora 25 (07/9/2026) - Programa completo</title>
+                <description>&lt;p&gt;Programa completo de Hora 25 del lunes, 7 de septiembre.&lt;/p&gt;
+Feed: https://fapi-top.prisasd.com/podcast/playser/hora_25/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.deutschlandfunkkultur.de/portraet-der-kurdischen-autorin-y-ld-z-akar-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/07/portraet_der_kurdischen_autorin_yldz_cakar_drk_20260907_1028_61042df6.mp3?refId=lesart-das-literaturmagazin-100"/>
-                <guid>https://www.deutschlandfunkkultur.de/portraet-der-kurdischen-autorin-y-ld-z-akar-100.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/HORA_25_CADENASER_320_P/media/playser/audio/20269/08/5097405.mp3?dest=hora_25"/>
+                <guid></guid>
                 
             </item>
         </channel>

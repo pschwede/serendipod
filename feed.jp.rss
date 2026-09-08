@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 07 Sep 2026 09:13:42 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 08 Sep 2026 08:47:53 +0200</lastBuildDate>
             <item>
-                <title>Die Nachrichten vom 07.09.2026, 10:00 Uhr</title>
-                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
-Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
+                <title>NPR News: 09-08-2026 3AM EDT</title>
+                <description>NPR News: 09-08-2026 3AM EDT&lt;br/&gt;&lt;br/&gt;See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br/&gt;&lt;br/&gt;NPR Privacy Policy
+Feed: https://feeds.npr.org/500005/podcast.xml</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/nachrichten-41216.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/07/nachrichten_dlf_20260907_1000_ede199c0.mp3?refId=nachrichten-108"/>
-                <guid>https://www.deutschlandfunk.de/nachrichten-41216.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/15abb162-cf6a-426d-98fd-0fa8b1e93c13/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=15abb162-cf6a-426d-98fd-0fa8b1e93c13&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260908-0300-long&amp;p=500005&amp;d=280&amp;size=4480566"/>
+                <guid></guid>
                 
             </item><item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
+                <title>Regierungsbildung in Sachsen-Anhalt - die drei Szenarien</title>
+                <description> Ottersbach, Niklas www.deutschlandfunk.de, Informationen am Morgen 
+Feed: https://www.deutschlandfunk.de/informationen-am-morgen-102.xml</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3462258.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0907/AU-20260907-1006-0100.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3462258.html</guid>
+                <link>https://www.deutschlandfunk.de/entwicklungen-nach-der-landtagswahl-in-sachsen-anhalt-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/08/entwicklungen_nach_der_landtagswahl_in_sachsen_anhalt_dlf_20260908_0811_67aa363e.mp3?refId=informationen-am-morgen-102"/>
+                <guid>https://www.deutschlandfunk.de/entwicklungen-nach-der-landtagswahl-in-sachsen-anhalt-100.html</guid>
                 
             </item>
         </channel>

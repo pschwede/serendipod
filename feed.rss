@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 07 Sep 2026 09:13:07 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 08 Sep 2026 08:47:09 +0200</lastBuildDate>
             <item>
-                <title>Bundespolitische Reaktionen auf Landtagswahl</title>
-                <description> Münchenberg, Jörg www.deutschlandfunk.de, Das war der Tag 
-Feed: https://www.deutschlandfunk.de/das-war-der-tag-112.xml</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/video-podcast/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/bundespolitische-reaktionen-auf-landtagswahl-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/06/bundespolitische_reaktionen_auf_landtagswahl_dlf_20260906_2321_e27b55e4.mp3?refId=das-war-der-tag-112"/>
-                <guid>https://www.deutschlandfunk.de/bundespolitische-reaktionen-auf-landtagswahl-100.html</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645124.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/0908/TV-20260908-0931-3400.webxl.h264.mp4"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645124.html</guid>
                 
             </item><item>
-                <title>Poranen - 04 Sep 2026</title>
-                <description>Poranen on Sub FM 4th September 2026 - https://ww…
-Feed: https://www.sub.fm/podcast.xml</description>
+                <title>GRTV News - Square Enix has plans to evolve Final Fantasy VII beyond being a classic</title>
+                <description>Es scheint, als sei die Remake-Trilogie erst der Anfang.
+Feed: https://www.gamereactor.dk/rss/podcast.php?lang=de</description>
                 
                 
-                <link>https://soundcloud.com/subfmradio/poranen-04-sep-2026</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2395804269-subfmradio-poranen-04-sep-2026.mp3"/>
-                <guid>https://soundcloud.com/subfmradio/poranen-04-sep-2026</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="http://media.gamereactor.dk/mp4/GRTVNews_Sept8_26_824453.mp4"/>
+                <guid></guid>
                 
             </item>
         </channel>

@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 07 Sep 2026 09:13:17 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 08 Sep 2026 08:47:28 +0200</lastBuildDate>
             <item>
-                <title>10H03 ECR Traffic Report - (Ongoing) Crash recovery on the R56 near Mkhuzane Primary School. Road is CLOSED.</title>
-                <description>Here&#39;s your latest East Coast Radio Traffic Report with Buhle Hlatshwayo.
-Feed: https://iono.fm/rss/chan/3101</description>
+                <title>Claudia Verhoeven, &#34;Love and Terror: The Helter-Skelter History of the Manson Murders&#34; (Verso, 2026)</title>
+                <description>Love and Terror, The Helter Skelter History of the Manson Murders&amp;nbsp;(Verso, 2026)&amp;nbsp;is the most recent addition to the hundreds of books and films devoted to the killings committed by Charlie Manson’s followers in Los Angeles in August 1969.
+What is different about this work is that the author Claudia Verhoeven is an intellectual historian whose previous book was on a Russian terrorist who tried to assassinate Tsar Alexander II in 1866...
+Feed: https://feeds.megaphone.fm/LIT4543917034</description>
                 
                 
-                <link>https://iono.fm/e/1714987</link>
-                <enclosure type="audio/mpeg" length="1" url="https://edge-ionoaod.sharp-stream.com/151/3101/1714987.mp3?awCollectionId=3101&amp;awEpisodeId=1714987&amp;p=rss"/>
-                <guid>https://iono.fm/e/1714987</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/NBNK9564558690.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>La Ventana de 18 a 20h | La Ventana de los Libros, Relatos en Cadena, Acontece que no es poco, Lo que queda del día</title>
+                <description>&lt;p&gt;Reabrimos La ventana de los Libros haciendo un repaso de lo que han leído durante el verano algunas de las principales voces del programa. Javier Sagarna presenta la nueva edición de Relatos en Cadena y saludamos a Alberto Moreno, ganador de la última edición que nos da la primera frase de la nueva edición del concurso...
+Feed: https://fapi-top.prisasd.com/podcast/playser/la_ventana/itunestfp/podcast.xml</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3462262.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0907/AU-20260907-1006-4000.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3462262.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prisa-es.mc.tritondigital.com/LA_VENTANA_SEC_LA_VENTANA_DE_18_A_20H_SER_PODCAST_1472_P/media/playser/audio/20269/07/5097095.mp3?dest=la_ventana"/>
+                <guid></guid>
                 
             </item>
         </channel>

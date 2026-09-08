@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 07 Sep 2026 09:13:31 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 08 Sep 2026 08:47:40 +0200</lastBuildDate>
             <item>
-                <title>Le Journal horaire de 10h00</title>
-                <description>
-Feed: https://www.rts.ch/la-1ere/programmes/le-journal-horaire/podcast/?flux=rss</description>
+                <title>Neue Midea PortaSplit angekündigt: Diese Verbesserungen erwarten euch 2027</title>
+                <description>Der Klimaanlagen-Hersteller Midea hat eine Neuauflage seiner beliebten PortaSplit angekündigt, die ein entscheidendes Problem löst.
+Feed: https://www.giga.de/feed/themen/smart-home/</description>
                 
                 
-                <link>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-10h00-29349666.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://rts-aod-dd.akamaized.net/ww/5d965984-6a15-3aba-8364-7b36db154d6f/51eea189-1ccd-3f19-9a06-f3610d5986a5.mp3"/>
-                <guid>https://www.rts.ch/audio-podcast/2026/audio/le-journal-horaire-de-10h00-29349666.html</guid>
+                <link>https://www.giga.de/tech/neue-midea-portasplit-angekuendigt-diese-verbesserungen-erwarten-euch-2027--01M1XP3NMC2JRGQWDM0M1JJRA2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://static.giga.de/74/e6/d2/1ff0adebaa40a89ec027a28c22_cmUgMTkyMCADNzYxMGVhYWUyMjI=.png"/>
+                <guid>https://www.giga.de/tech/neue-midea-portasplit-angekuendigt-diese-verbesserungen-erwarten-euch-2027--01M1XP3NMC2JRGQWDM0M1JJRA2</guid>
                 
             </item><item>
-                <title>Die Nachrichten vom 07.09.2026, 10:00 Uhr</title>
-                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
-Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/video-podcast/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/nachrichten-41216.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/07/nachrichten_dlf_20260907_1000_ede199c0.mp3?refId=nachrichten-108"/>
-                <guid>https://www.deutschlandfunk.de/nachrichten-41216.html</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645124.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/0908/TV-20260908-0931-3400.webxl.h264.mp4"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645124.html</guid>
                 
             </item>
         </channel>
