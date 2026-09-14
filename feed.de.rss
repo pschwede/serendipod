@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 08 Sep 2026 08:47:20 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 14 Sep 2026 09:45:21 +0200</lastBuildDate>
             <item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/video-podcast/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3464364.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0908/AU-20260908-1005-5400.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3464364.html</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648546.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/0914/TV-20260914-1003-2000.webxl.h264.mp4"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648546.html</guid>
                 
             </item><item>
-                <title>5 vor 10: Die FFH-Nachrichten</title>
-                <description>Die aktuellen FFH-Nachrichten - 24 Stunden News, Wetter, Verkehr und das Aktuellste aus Ihrer Region von unseren Hessen-Reportern - nonstop und stündlich.
-Feed: https://resource.ffh.de/podcasts/ffh/news.rss</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/video-podcast/webl/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://resource.ffh.de/news/archive/news-20260908-10-0.mp3"/>
-                <guid>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648546.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/0914/TV-20260914-1003-2000.webxl.h264.mp4"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648546.html</guid>
                 
             </item>
         </channel>

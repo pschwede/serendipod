@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 08 Sep 2026 08:47:09 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 14 Sep 2026 09:45:17 +0200</lastBuildDate>
             <item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/video-podcast/tagesschau-in-100-sekunden/</description>
+                <title>Nachrichten 10:00 Uhr - 14.09.2026</title>
+                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
+Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645124.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/0908/TV-20260908-0931-3400.webxl.h264.mp4"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1645124.html</guid>
+                <link>https://www.ndr.de/wellenord/nachrichten-1000-uhr-14092026,audio-3475616.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0914/AU-20260914-1006-3100.mp3"/>
+                <guid>https://www.ndr.de/wellenord/nachrichten-1000-uhr-14092026,audio-3475616.html</guid>
                 
             </item><item>
-                <title>GRTV News - Square Enix has plans to evolve Final Fantasy VII beyond being a classic</title>
-                <description>Es scheint, als sei die Remake-Trilogie erst der Anfang.
-Feed: https://www.gamereactor.dk/rss/podcast.php?lang=de</description>
+                <title>Ade, Wally. Die Malerin Anna Stainer-Knittel</title>
+                <description>14.09.2026 - In diesem KulturTon-Beitrag in Kooperation mit dem Stadtarchiv/Stadtmuseum Innsbruck eröffnet Marion Umgeher Einblick in das Leben und Schaffen der Innsbrucker Malerin Anna Stainer-Knittel.
+Feed: https://cba.media/feed</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="http://media.gamereactor.dk/mp4/GRTVNews_Sept8_26_824453.mp4"/>
-                <guid></guid>
+                <link>https://cba.media/793374</link>
+                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/3/7/0000793373/2026-09-11-kt-stadtarchiv-anna-stainer-knittel-mu.ogg"/>
+                <guid>https://cba.media/793374</guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 08 Sep 2026 08:47:53 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 14 Sep 2026 09:46:05 +0200</lastBuildDate>
             <item>
-                <title>NPR News: 09-08-2026 3AM EDT</title>
-                <description>NPR News: 09-08-2026 3AM EDT&lt;br/&gt;&lt;br/&gt;See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br/&gt;&lt;br/&gt;NPR Privacy Policy
-Feed: https://feeds.npr.org/500005/podcast.xml</description>
+                <title>&#34;Handbuch für Wolkengucker&#34; - Ein Besuch beim Autor Gavin Pretor-Pinney</title>
+                <description> Wenzel, Tobias www.deutschlandfunkkultur.de, Fazit 
+Feed: https://www.deutschlandfunkkultur.de/podcast-fazit-kultur-vom-tage-100.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/15abb162-cf6a-426d-98fd-0fa8b1e93c13/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=15abb162-cf6a-426d-98fd-0fa8b1e93c13&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260908-0300-long&amp;p=500005&amp;d=280&amp;size=4480566"/>
-                <guid></guid>
+                <link>https://www.deutschlandfunkkultur.de/handbuch-fuer-wolkengucker-ein-besuch-beim-autor-gavin-pretor-pinney-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/13/handbuch_fuer_wolkengucker_ein_besuch_beim_autor_gavin_drk_20260913_2345_11cef43e.mp3?refId=podcast-fazit-kultur-vom-tage-100"/>
+                <guid>https://www.deutschlandfunkkultur.de/handbuch-fuer-wolkengucker-ein-besuch-beim-autor-gavin-pretor-pinney-100.html</guid>
                 
             </item><item>
-                <title>Regierungsbildung in Sachsen-Anhalt - die drei Szenarien</title>
-                <description> Ottersbach, Niklas www.deutschlandfunk.de, Informationen am Morgen 
-Feed: https://www.deutschlandfunk.de/informationen-am-morgen-102.xml</description>
+                <title>Announcing Holy Troublemakers!</title>
+                <description>Announcing Holy Troublemakers, a new podcast from StarQuest. In this weekly podcast host Dom Bettinelli will introduce you to the difficult people who built the Catholic Church. From mystics who argued with popes to missionaries who walked into places nobody sane would go, every episode tells one of their stories.
+Feed: https://psp.libsyn.com/rss?a841=1590601793</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/entwicklungen-nach-der-landtagswahl-in-sachsen-anhalt-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/08/entwicklungen_nach_der_landtagswahl_in_sachsen_anhalt_dlf_20260908_0811_67aa363e.mp3?refId=informationen-am-morgen-102"/>
-                <guid>https://www.deutschlandfunk.de/entwicklungen-nach-der-landtagswahl-in-sachsen-anhalt-100.html</guid>
+                <link>https://psp.libsyn.com/announcing-holy-troublemakers</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/psp/HTM000.mp3?dest-id=13585"/>
+                <guid>https://psp.libsyn.com/announcing-holy-troublemakers</guid>
                 
             </item>
         </channel>
