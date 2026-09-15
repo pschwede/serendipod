@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 14 Sep 2026 09:45:17 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 15 Sep 2026 09:19:55 +0200</lastBuildDate>
             <item>
-                <title>Nachrichten 10:00 Uhr - 14.09.2026</title>
+                <title>قسمت چهار هزار و نود و هشت</title>
+                <description>تاریخ بدون سانسور
+Feed: https://feeds.acast.com/public/shows/652fdf0e124b9d0012c3879f</description>
+                
+                
+                <link>https://shows.acast.com/tarikh-tmdn-1/episodes/6aa826c4564171e32a310ac5</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/652fdf0e124b9d0012c3879f/e/6aa826c4564171e32a310ac5/media.mp3"/>
+                <guid>https://shows.acast.com/tarikh-tmdn-1/episodes/6aa826c4564171e32a310ac5</guid>
+                
+            </item><item>
+                <title>Nachrichten 10:00 Uhr - 15.09.2026</title>
                 <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
 Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/nachrichten-1000-uhr-14092026,audio-3475616.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0914/AU-20260914-1006-3100.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-1000-uhr-14092026,audio-3475616.html</guid>
-                
-            </item><item>
-                <title>Ade, Wally. Die Malerin Anna Stainer-Knittel</title>
-                <description>14.09.2026 - In diesem KulturTon-Beitrag in Kooperation mit dem Stadtarchiv/Stadtmuseum Innsbruck eröffnet Marion Umgeher Einblick in das Leben und Schaffen der Innsbrucker Malerin Anna Stainer-Knittel.
-Feed: https://cba.media/feed</description>
-                
-                
-                <link>https://cba.media/793374</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cba.media/wp-content/uploads/3/7/0000793373/2026-09-11-kt-stadtarchiv-anna-stainer-knittel-mu.ogg"/>
-                <guid>https://cba.media/793374</guid>
+                <link>https://www.ndr.de/wellenord/nachrichten-1000-uhr-15092026,audio-3477800.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0915/AU-20260915-1007-4100.mp3"/>
+                <guid>https://www.ndr.de/wellenord/nachrichten-1000-uhr-15092026,audio-3477800.html</guid>
                 
             </item>
         </channel>

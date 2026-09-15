@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 14 Sep 2026 09:45:21 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 15 Sep 2026 09:20:02 +0200</lastBuildDate>
             <item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/video-podcast/tagesschau-in-100-sekunden/</description>
-                
-                
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648546.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/0914/TV-20260914-1003-2000.webxl.h264.mp4"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648546.html</guid>
-                
-            </item><item>
                 <title>tagesschau in 100 Sekunden</title>
                 <description>tagesschau in 100 Sekunden
 Feed: https://www.tagesschau.de/export/video-podcast/webl/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648546.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/0914/TV-20260914-1003-2000.webxl.h264.mp4"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1648546.html</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649162.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/0915/TV-20260915-0934-0500.webxl.h264.mp4"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649162.html</guid>
+                
+            </item><item>
+                <title>WDR aktuell um 10.00 Uhr</title>
+                <description>WDR aktuell um 10.00 Uhr
+Feed: https://www1.wdr.de/mediathek/audio/wdr-aktuell-news/wdr-aktuell-152.podcast</description>
+                
+                
+                <link>https://www1.wdr.de/mediathek/audio/wdr-aktuell-news/audio-wdr-aktuell-um-uhr-3454.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/15/cb2f965e-9a7d-4f34-8e98-622b9b7113d0/cb2f965e-9a7d-4f34-8e98-622b9b7113d0_MP3-128.mp3"/>
+                <guid>https://www1.wdr.de/mediathek/audio/wdr-aktuell-news/audio-wdr-aktuell-um-uhr-3454.html</guid>
                 
             </item>
         </channel>

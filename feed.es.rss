@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 14 Sep 2026 09:45:29 +0200</lastBuildDate>
+            <lastBuildDate>Tue, 15 Sep 2026 09:20:11 +0200</lastBuildDate>
             <item>
-                <title>Hamburg will Vergaberegeln für öffentliche Aufträge verschärfen</title>
-                <description>So wollen SPD und Grünel Lohndumping beim Bau verhindert.
-Feed: https://www.ndr.de/nachrichten/info/podcast4318.xml</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/video-podcast/webl/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/hamburg-will-vergaberegeln-fuer-oeffentliche-auftraege-verschaerfen,audio-3475760.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0914/AU-20260914-1114-3000.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/hamburg-will-vergaberegeln-fuer-oeffentliche-auftraege-verschaerfen,audio-3475760.html</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649162.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/0915/TV-20260915-0934-0500.webxl.h264.mp4"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649162.html</guid>
                 
             </item><item>
-                <title>قسمت چهار هزار و نود و پنج</title>
-                <description>تاریخ بدون سانسور
-Feed: https://feeds.acast.com/public/shows/652fdf0e124b9d0012c3879f</description>
+                <title>Spionage für Russland - Anklage gegen Ilona W.</title>
+                <description> Schmidt, Holger www.deutschlandfunk.de, Informationen am Abend 
+Feed: https://www.deutschlandfunk.de/informationen-am-abend-110.xml</description>
                 
                 
-                <link>https://shows.acast.com/tarikh-tmdn-1/episodes/6aa700d8564171e32af60439</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/652fdf0e124b9d0012c3879f/e/6aa700d8564171e32af60439/media.mp3"/>
-                <guid>https://shows.acast.com/tarikh-tmdn-1/episodes/6aa700d8564171e32af60439</guid>
+                <link>https://www.deutschlandfunk.de/spionage-fuer-russland-anklage-gegen-ilona-w-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/14/spionage_fuer_russland_anklage_gegen_ilona_w_dlf_20260914_1838_a4683665.mp3?refId=informationen-am-abend-110"/>
+                <guid>https://www.deutschlandfunk.de/spionage-fuer-russland-anklage-gegen-ilona-w-100.html</guid>
                 
             </item>
         </channel>
