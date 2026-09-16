@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 15 Sep 2026 09:20:20 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Sep 2026 09:13:24 +0200</lastBuildDate>
             <item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
+                <title>Inflation und Konsumflaute setzen Russlands Wirtschaft zu</title>
+                <description> Laack, Stephan www.deutschlandfunk.de, Informationen am Abend 
+Feed: https://www.deutschlandfunk.de/informationen-am-abend-110.xml</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3477794.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0915/AU-20260915-1006-2600.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3477794.html</guid>
+                <link>https://www.deutschlandfunk.de/inflation-und-konsumflaute-setzen-russlands-wirtschaft-zu-104.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/15/inflation_und_konsumflaute_setzen_russlands_wirtschaft_zu_dlf_20260915_1835_a291fa20.mp3?refId=informationen-am-abend-110"/>
+                <guid>https://www.deutschlandfunk.de/inflation-und-konsumflaute-setzen-russlands-wirtschaft-zu-104.html</guid>
                 
             </item><item>
-                <title>Nordirland, Wales und Schottland drängen auf Unabhängigkeit vom UK</title>
-                <description> Hoppen, Franziska www.deutschlandfunk.de, Das war der Tag 
-Feed: https://www.deutschlandfunk.de/das-war-der-tag-112.xml</description>
+                <title>MacVoices #26257: Joe Kissell Takes Control of Siri AI and Apple Intelligence (2)</title>
+                <description>&lt;p&gt;Take Control Books Publisher Joe Kissell continues our discussion of the OS27 releases, exploring Apple&#39;s next-generation Siri and Apple Intelligence. Joe touches on including conversational context, on-screen awareness, cross-device continuity, and deeper access to personal information...
+Feed: https://maclevelten.libsyn.com/rss</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/nordirland-wales-und-schottland-draengen-auf-unabhaengigkeit-vom-uk-102.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/14/nordirland_wales_und_schottland_draengen_auf_unabhaengigkeit_dlf_20260914_2350_6c3c7886.mp3?refId=das-war-der-tag-112"/>
-                <guid>https://www.deutschlandfunk.de/nordirland-wales-und-schottland-draengen-auf-unabhaengigkeit-vom-uk-102.html</guid>
+                <link>https://maclevelten.libsyn.com/macvoices-26257-joe-kissell-takes-control-of-siri-ai-and-apple-intelligence-2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/maclevelten/MV26256.mp3?dest-id=51998"/>
+                <guid>https://maclevelten.libsyn.com/macvoices-26257-joe-kissell-takes-control-of-siri-ai-and-apple-intelligence-2</guid>
                 
             </item>
         </channel>

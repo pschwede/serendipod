@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 15 Sep 2026 09:19:55 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Sep 2026 09:12:58 +0200</lastBuildDate>
             <item>
-                <title>قسمت چهار هزار و نود و هشت</title>
-                <description>تاریخ بدون سانسور
-Feed: https://feeds.acast.com/public/shows/652fdf0e124b9d0012c3879f</description>
+                <title>The Psych Ward Episode 315</title>
+                <description>&lt;p&gt;the 315th edition of the weekly psychedelic radio show (heard live every Tuesday at 420 NYC time on www.progrock.com) has a broad definition of &#39;psychedelic&#39; this week, with some wyrd fold, some early 80s psych tinged new wave and much more.&lt;/p&gt;&lt;p&gt;This item belongs to: audio/podcasts_miscellaneous.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
+Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
                 
                 
-                <link>https://shows.acast.com/tarikh-tmdn-1/episodes/6aa826c4564171e32a310ac5</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/652fdf0e124b9d0012c3879f/e/6aa826c4564171e32a310ac5/media.mp3"/>
-                <guid>https://shows.acast.com/tarikh-tmdn-1/episodes/6aa826c4564171e32a310ac5</guid>
+                <link>https://archive.org/details/the-psych-ward-episode-315</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/the-psych-ward-episode-315/format=VBR+MP3&amp;ignore=x.mp3"/>
+                <guid>https://archive.org/details/the-psych-ward-episode-315</guid>
                 
             </item><item>
-                <title>Nachrichten 10:00 Uhr - 15.09.2026</title>
-                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
-Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
+                <title>Magical Mystery Mix 15.09.2026 - GFF112</title>
+                <description>&lt;strong&gt;Magical Mystery Mix:&lt;br /&gt;Geräusche für Fortgeschrittene 112&lt;/strong&gt;
+&lt;p class=&#34;isSelectedEnd&#34;&gt;Wir lieben Musik in all ihren Varianten und wir mixen das Beste aus unserem Archiv. Das Beste zumindest für unseren Geschmack, denn es gibt nicht DIE gute Musik...
+Feed: https://rdl.de/podcast</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/nachrichten-1000-uhr-15092026,audio-3477800.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0915/AU-20260915-1007-4100.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-1000-uhr-15092026,audio-3477800.html</guid>
+                <link>https://rdl.de/beitrag/magical-mystery-mix-15092026-gff112</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/09/20260915-magicalmyste-a26983.mp3"/>
+                <guid>https://rdl.de/beitrag/magical-mystery-mix-15092026-gff112</guid>
                 
             </item>
         </channel>

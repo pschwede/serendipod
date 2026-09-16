@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 15 Sep 2026 09:20:11 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Sep 2026 09:13:14 +0200</lastBuildDate>
             <item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/video-podcast/webl/tagesschau-in-100-sekunden/</description>
+                <title>Die Arabella Nachrichten vom Mittwoch, 16.09.2026 um 10:08 Uhr</title>
+                <description>Die aktuellen Nachrichten zum Nachhören
+Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649162.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/0915/TV-20260915-0934-0500.webxl.h264.mp4"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649162.html</guid>
+                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-mittwoch-16-09-2026-um-1008-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3437964_yjyc8huje0ixj_6kawz59mubgft.mp3"/>
+                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-mittwoch-16-09-2026-um-1008-uhr/</guid>
                 
             </item><item>
-                <title>Spionage für Russland - Anklage gegen Ilona W.</title>
-                <description> Schmidt, Holger www.deutschlandfunk.de, Informationen am Abend 
-Feed: https://www.deutschlandfunk.de/informationen-am-abend-110.xml</description>
+                <title>September 16, 2026 - Daniel 9:16 - Cumulative Episode 1719 (259 for 2026)</title>
+                <description>Hello Friends!  I love to hear from you! Please send me a text message by clicking on this link!   Blessings to You! In this episode, Dr. Jori discusses with her listeners  more of Daniel&#39;s prayer asking GOD to let his anger and wrath turn away from Jerusalem.   Scripture References:  Psalm 119:11; Psalm 119:105; Matthew 4:4; 2 TImothy 3:16-17; Daniel 9:16; Matthew 24:15; Daniel 9:1-17; Deuteronomy 28-30   Scripture translation used is the NASB  “Scripture quotations ...
+Feed: https://rss.buzzsprout.com/1910821.rss</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/spionage-fuer-russland-anklage-gegen-ilona-w-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/14/spionage_fuer_russland_anklage_gegen_ilona_w_dlf_20260914_1838_a4683665.mp3?refId=informationen-am-abend-110"/>
-                <guid>https://www.deutschlandfunk.de/spionage-fuer-russland-anklage-gegen-ilona-w-100.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.buzzsprout.com/1910821/episodes/19799195-september-16-2026-daniel-9-16-cumulative-episode-1719-259-for-2026.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Tue, 15 Sep 2026 09:20:02 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 16 Sep 2026 09:13:03 +0200</lastBuildDate>
             <item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/video-podcast/webl/tagesschau-in-100-sekunden/</description>
+                <title>Inflation und Konsumflaute setzen Russlands Wirtschaft zu</title>
+                <description> Laack, Stephan www.deutschlandfunk.de, Informationen am Abend 
+Feed: https://www.deutschlandfunk.de/informationen-am-abend-110.xml</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649162.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/0915/TV-20260915-0934-0500.webxl.h264.mp4"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1649162.html</guid>
+                <link>https://www.deutschlandfunk.de/inflation-und-konsumflaute-setzen-russlands-wirtschaft-zu-104.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/15/inflation_und_konsumflaute_setzen_russlands_wirtschaft_zu_dlf_20260915_1835_a291fa20.mp3?refId=informationen-am-abend-110"/>
+                <guid>https://www.deutschlandfunk.de/inflation-und-konsumflaute-setzen-russlands-wirtschaft-zu-104.html</guid>
                 
             </item><item>
-                <title>WDR aktuell um 10.00 Uhr</title>
-                <description>WDR aktuell um 10.00 Uhr
-Feed: https://www1.wdr.de/mediathek/audio/wdr-aktuell-news/wdr-aktuell-152.podcast</description>
+                <title>Nachrichten 10:00 Uhr - 16.09.2026</title>
+                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
+Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
                 
                 
-                <link>https://www1.wdr.de/mediathek/audio/wdr-aktuell-news/audio-wdr-aktuell-um-uhr-3454.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/15/cb2f965e-9a7d-4f34-8e98-622b9b7113d0/cb2f965e-9a7d-4f34-8e98-622b9b7113d0_MP3-128.mp3"/>
-                <guid>https://www1.wdr.de/mediathek/audio/wdr-aktuell-news/audio-wdr-aktuell-um-uhr-3454.html</guid>
+                <link>https://www.ndr.de/wellenord/nachrichten-1000-uhr-16092026,audio-3480102.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0916/AU-20260916-1006-4000.mp3"/>
+                <guid>https://www.ndr.de/wellenord/nachrichten-1000-uhr-16092026,audio-3480102.html</guid>
                 
             </item>
         </channel>
