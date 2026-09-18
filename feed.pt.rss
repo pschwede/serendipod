@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 16 Sep 2026 09:13:21 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 18 Sep 2026 08:56:45 +0200</lastBuildDate>
             <item>
-                <title>NDR 1 Radio MV Nachrichten</title>
-                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
-Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
+                <title>ERF Plus - Aktuell Christen in Pakistan</title>
+                <description>Eine rührige Minderheit – 4 Millionen Christen und ihre Lage im Land (Autor: Miri Langenbach)
+Feed: https://feedpress.me/erf-plus-podcast</description>
                 
                 
-                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3480094.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0916/AU-20260916-1006-0800.mp3"/>
-                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3480094.html</guid>
+                <link>https://feedpress.me/link/19281/17465676/6719-9497</link>
+                <enclosure type="audio/mpeg" length="1" url="https://feedpress.me/link/19281/17465677/1143647.mp3"/>
+                <guid>https://feedpress.me/link/19281/17465676/6719-9497</guid>
                 
             </item><item>
-                <title>Die Arabella Nachrichten vom Mittwoch, 16.09.2026 um 10:08 Uhr</title>
+                <title>Die Arabella Nachrichten vom Freitag, 18.09.2026 um 10:08 Uhr</title>
                 <description>Die aktuellen Nachrichten zum Nachhören
 Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
                 
                 
-                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-mittwoch-16-09-2026-um-1008-uhr/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3437964_yjyc8huje0ixj_6kawz59mubgft.mp3"/>
-                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-mittwoch-16-09-2026-um-1008-uhr/</guid>
+                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-freitag-18-09-2026-um-1008-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3441933_8bep1zl148rgz_ymk5fzcvlwa0f.mp3"/>
+                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-freitag-18-09-2026-um-1008-uhr/</guid>
                 
             </item>
         </channel>

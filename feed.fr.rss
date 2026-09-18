@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 16 Sep 2026 09:13:06 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 18 Sep 2026 08:56:31 +0200</lastBuildDate>
             <item>
-                <title>2978 / Clickbait &amp; Collect</title>
-                <description>Maximal umständlicher IKEA Einkauf nach einem maximal beschissenen Wochenende.
-Feed: https://bastard.uber.space/feed/mp3/</description>
+                <title>Fußball - Reaktionen auf Klopps ersten Kader als DFB-Bundestrainer</title>
+                <description> Friebe, Matthias www.deutschlandfunk.de, Sport 
+Feed: https://www.deutschlandfunk.de/informationen-am-morgen-102.xml</description>
                 
                 
-                <link>https://radiobastard.fm/2978-clickbait-collect/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://radiobastard.fm/podlove/file/2647/s/feed/c/mp3/2978.mp3"/>
-                <guid>https://radiobastard.fm/2978-clickbait-collect/</guid>
+                <link>https://www.deutschlandfunk.de/fussball-reaktionen-auf-klopps-ersten-kader-als-dfb-bundestrainer-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/18/fussball_reaktionen_auf_klopps_ersten_kader_als_dfb_dlf_20260918_0754_041dac76.mp3?refId=informationen-am-morgen-102"/>
+                <guid>https://www.deutschlandfunk.de/fussball-reaktionen-auf-klopps-ersten-kader-als-dfb-bundestrainer-100.html</guid>
                 
             </item><item>
-                <title>The soul of Australian cricket (for sale, enquire within) </title>
-                <description>TFW Weekly
-Feed: https://feeds.megaphone.fm/COMG4127829564</description>
+                <title>10H05 ECR Traffic Report - Crash scene on the N3 to PMB before the Ashburton I/C.</title>
+                <description>Here&#39;s your latest East Coast Radio Traffic Report with Buhle Hlatshwayo.
+Feed: https://iono.fm/rss/chan/3101</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7446689467.mp3"/>
-                <guid></guid>
+                <link>https://iono.fm/e/1719466</link>
+                <enclosure type="audio/mpeg" length="1" url="https://edge-ionoaod.sharp-stream.com/151/3101/1719466.mp3?awCollectionId=3101&amp;awEpisodeId=1719466&amp;p=rss"/>
+                <guid>https://iono.fm/e/1719466</guid>
                 
             </item>
         </channel>

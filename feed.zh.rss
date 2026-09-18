@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Wed, 16 Sep 2026 09:13:24 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 18 Sep 2026 08:56:49 +0200</lastBuildDate>
             <item>
-                <title>Inflation und Konsumflaute setzen Russlands Wirtschaft zu</title>
-                <description> Laack, Stephan www.deutschlandfunk.de, Informationen am Abend 
-Feed: https://www.deutschlandfunk.de/informationen-am-abend-110.xml</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/inflation-und-konsumflaute-setzen-russlands-wirtschaft-zu-104.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/15/inflation_und_konsumflaute_setzen_russlands_wirtschaft_zu_dlf_20260915_1835_a291fa20.mp3?refId=informationen-am-abend-110"/>
-                <guid>https://www.deutschlandfunk.de/inflation-und-konsumflaute-setzen-russlands-wirtschaft-zu-104.html</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3484688.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0918/AU-20260918-1006-1800.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3484688.html</guid>
                 
             </item><item>
-                <title>MacVoices #26257: Joe Kissell Takes Control of Siri AI and Apple Intelligence (2)</title>
-                <description>&lt;p&gt;Take Control Books Publisher Joe Kissell continues our discussion of the OS27 releases, exploring Apple&#39;s next-generation Siri and Apple Intelligence. Joe touches on including conversational context, on-screen awareness, cross-device continuity, and deeper access to personal information...
-Feed: https://maclevelten.libsyn.com/rss</description>
+                <title>Die Erde verbrennt und verdurstet</title>
+                <description>Weltweit sinken die Grundwasserpegel
+Feed: https://feeds.acast.com/public/shows/45033096-220b-4490-b648-7e822e82ccde</description>
                 
                 
-                <link>https://maclevelten.libsyn.com/macvoices-26257-joe-kissell-takes-control-of-siri-ai-and-apple-intelligence-2</link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/maclevelten/MV26256.mp3?dest-id=51998"/>
-                <guid>https://maclevelten.libsyn.com/macvoices-26257-joe-kissell-takes-control-of-siri-ai-and-apple-intelligence-2</guid>
+                <link>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/die-erde-verbrennt-und-verdurstet</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/mahlersmeinung-diepodcastkolumne/e/6aabcc3e5d36baebf13f0117/media.mp3"/>
+                <guid>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/die-erde-verbrennt-und-verdurstet</guid>
                 
             </item>
         </channel>
