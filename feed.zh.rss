@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 18 Sep 2026 08:56:49 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 28 Sep 2026 10:46:50 +0200</lastBuildDate>
             <item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>Best of the Fan: Can Steelers turn it around?</title>
+                <description>The Steelers are only 1-1, but after their offensive showing against New England, many fans are worried the season could be over before it begins, especially if they lose a home game to the Bengals. 
+Feed: https://rss.amperwave.net/v2/feed/audacy/pittsburgh_kdkafm-the_joe_starkey_show</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3484688.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0918/AU-20260918-1006-1800.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3484688.html</guid>
+                <link>https://player.amperwavepodcasting.com?feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F8696923_2026-09-25-215723</link>
+                <enclosure type="audio/mpeg" length="1" url="https://serve.castfire.com/audio/8696923/8696923_2026-09-25-215723.128.mp3?rssID=594"/>
+                <guid>https://player.amperwavepodcasting.com?feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F8696923_2026-09-25-215723</guid>
                 
             </item><item>
-                <title>Die Erde verbrennt und verdurstet</title>
-                <description>Weltweit sinken die Grundwasserpegel
-Feed: https://feeds.acast.com/public/shows/45033096-220b-4490-b648-7e822e82ccde</description>
+                <title>Stung</title>
+                <description>&#34;Stung&#34; is a set of four live stories from June 2014 back in the feed, each about someone caught off guard.
+Matt Kirshen, 18 and backpacking through France with two sisters from Berkeley, plans to sleep in a Bordeaux park until a priest and a local drug dealer both warn him off. The dealer&#39;s alternative invitation lands him somewhere stranger...
+Feed: https://feeds.megaphone.fm/risk</description>
                 
                 
-                <link>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/die-erde-verbrennt-und-verdurstet</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/acast/s/mahlersmeinung-diepodcastkolumne/e/6aabcc3e5d36baebf13f0117/media.mp3"/>
-                <guid>https://shows.acast.com/mahlersmeinung-diepodcastkolumne/episodes/die-erde-verbrennt-und-verdurstet</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/swap.fm/track/6bpBPtHL977KJxLX2zPs/mgln.ai/e/485/traffic.megaphone.fm/GLSS7406667303.mp3"/>
+                <guid></guid>
                 
             </item>
         </channel>

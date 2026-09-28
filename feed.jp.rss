@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 18 Sep 2026 08:56:53 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 28 Sep 2026 10:46:56 +0200</lastBuildDate>
             <item>
-                <title>Malfaisante : Jessica Chastain face à son double maléfique dans un film d’horreur qui fait froid dans le dos</title>
-                <description>Malfaisante dévoile son dernier trailer avec Jessica Chastain face à son double maléfique. Le film d’horreur sortira au cinéma le 14 octobre.
-Feed: https://www.cineserie.com/feed/</description>
+                <title>NDR Info Nachrichten</title>
+                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
+Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
                 
                 
-                <link>https://www.cineserie.com/news/cinema/malfaisante-jessica-chastain-face-a-son-double-malefique-dans-un-film-dhorreur-qui-fait-froid-dans-le-dos-8794199/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://imgsrc.cineserie.com/2026/09/vignette-youtube-v2-vf-vost-23.png?width=&amp;height=&amp;aspect_ratio=:"/>
-                <guid>https://www.cineserie.com/news/cinema/malfaisante-jessica-chastain-face-a-son-double-malefique-dans-un-film-dhorreur-qui-fait-froid-dans-le-dos-8794199/</guid>
+                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3503290.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/0928/AU-20260928-1205-1900.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3503290.html</guid>
                 
             </item><item>
-                <title>Fußball - Reaktionen auf Klopps ersten Kader als DFB-Bundestrainer</title>
-                <description> Friebe, Matthias www.deutschlandfunk.de, Sport 
-Feed: https://www.deutschlandfunk.de/informationen-am-morgen-102.xml</description>
+                <title>Kundgebung gegen die Bezahlkarte</title>
+                <description>&lt;p&gt;Am Freitag, den 25.09.2026, demonstrierte die Initiative &#34;Bezahlkarte stoppen&#34; mit einer Kundgebung vor dem Regierungspräsidium in der Kaiser-Joseph-Straße in Freiburg, gegen die Bezahlkarte für Geflüchtete.&lt;/p&gt;
+&lt;p&gt;Dieser Beitrag thematisiert die Reden, die - außer die von Our Voice - auf der Kundgebung gehalten wurden.&lt;/p&gt;
+Feed: https://rdl.de/podcast</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/fussball-reaktionen-auf-klopps-ersten-kader-als-dfb-bundestrainer-100.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/09/18/fussball_reaktionen_auf_klopps_ersten_kader_als_dfb_dlf_20260918_0754_041dac76.mp3?refId=informationen-am-morgen-102"/>
-                <guid>https://www.deutschlandfunk.de/fussball-reaktionen-auf-klopps-ersten-kader-als-dfb-bundestrainer-100.html</guid>
+                <link>https://rdl.de/beitrag/kundgebung-gegen-die-bezahlkarte</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/09/20260928-kundgebungge-w39708.mp3"/>
+                <guid>https://rdl.de/beitrag/kundgebung-gegen-die-bezahlkarte</guid>
                 
             </item>
         </channel>
