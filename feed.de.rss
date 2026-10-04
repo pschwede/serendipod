@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 28 Sep 2026 10:46:27 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 04 Oct 2026 10:30:48 +0200</lastBuildDate>
             <item>
-                <title>قسمت چهار هزار و صد و سی و سه</title>
-                <description>تاریخ بدون سانسور
-Feed: https://feeds.acast.com/public/shows/652fdf0e124b9d0012c3879f</description>
-                
-                
-                <link>https://shows.acast.com/tarikh-tmdn-1/episodes/6ab9453c16ca37c5a013a8d8</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/652fdf0e124b9d0012c3879f/e/6ab9453c16ca37c5a013a8d8/media.mp3"/>
-                <guid>https://shows.acast.com/tarikh-tmdn-1/episodes/6ab9453c16ca37c5a013a8d8</guid>
-                
-            </item><item>
-                <title>Stung</title>
-                <description>&#34;Stung&#34; is a set of four live stories from June 2014 back in the feed, each about someone caught off guard.
-Matt Kirshen, 18 and backpacking through France with two sisters from Berkeley, plans to sleep in a Bordeaux park until a priest and a local drug dealer both warn him off. The dealer&#39;s alternative invitation lands him somewhere stranger...
-Feed: https://feeds.megaphone.fm/risk</description>
+                <title>5am ET, October 04 | The latest headlines from NPR</title>
+                <description>The latest headlines from NPR at the top of this hour. &lt;br/&gt;&lt;br/&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at npr.org/ethics. &lt;br/&gt;&lt;br/&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.&lt;br/&gt;&lt;br/&gt;See pcm.adswizz...
+Feed: https://feeds.npr.org/500005/podcast.xml</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/swap.fm/track/6bpBPtHL977KJxLX2zPs/mgln.ai/e/485/traffic.megaphone.fm/GLSS7406667303.mp3"/>
+                <enclosure type="audio/mpeg" length="1" url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/1eb7c6f0-ae23-417b-b269-e72116447cca/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=1eb7c6f0-ae23-417b-b269-e72116447cca&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261004-0500-long&amp;p=500005&amp;d=280&amp;size=4586728"/>
                 <guid></guid>
+                
+            </item><item>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/video-podcast/webxl/tagesschau-in-100-sekunden/</description>
+                
+                
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660044.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/1004/TV-20261004-0934-2900.webxl.h264.mp4"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660044.html</guid>
                 
             </item>
         </channel>

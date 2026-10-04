@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 28 Sep 2026 10:46:46 +0200</lastBuildDate>
+            <lastBuildDate>Sun, 04 Oct 2026 10:31:06 +0200</lastBuildDate>
             <item>
-                <title>Rupert Fabig, Sportredakteur Hamburger Abendblatt</title>
-                <description>Liebe SPORTSFREUNDE, herzlich willkommen zur Freitagsfolge! In dieser begrüße ich heute den Sportreporter Rupert Fabig! Vom dorfeigenen Basketballfeld bis zu den Olympischen Spielen nach Paris – Ruperts berufliche Laufbahn ist beeindruckend! Wir sprechen unter anderem über seinen Weg in den Sportjournalismus, seine Aufgaben als Reporter und er erzählt, wie er zum St.-Pauli-Reporter am legendären Millerntor wurde...
-Feed: https://meinsportpodcast.de/mixed-sport/feed/</description>
+                <title>Earth’s expanding attack surface. [T-Minus: Space-Cyber Briefing]</title>
+                <description>As space infrastructure expands, so too does the need for cybersecurity expertise beyond securing traditional spacecraft.
+Host Maria Varmazis speaks with ⁠Milenk Starcevic⁠, Head of Cybersecurity at ⁠Vision Space⁠, and ⁠Andrzej “Andy” Olchawa⁠, Senior Cybersecurity Engineer also at Vision Space, about the growing space cybersecurity field...
+Feed: https://feeds.megaphone.fm/cyberwire-daily-podcast</description>
                 
                 
-                <link>https://meinsportpodcast.de/ep265404</link>
-                <enclosure type="audio/mpeg" length="1" url="https://cdn.meinpodcast.io/meinsportpodcast.de/podcast-download/265404/rupert-fabig-sportredakteur-hamburger-abendblatt.mp3?awCollectionId=00010035&amp;awEpisodeId=265404"/>
-                <guid>https://meinsportpodcast.de/ep265404</guid>
+                <link>https://thecyberwire.com/podcasts/tminus-space-cyber-briefing/727/notes</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW1958488415.mp3"/>
+                <guid>https://thecyberwire.com/podcasts/tminus-space-cyber-briefing/727/notes</guid>
                 
             </item><item>
-                <title>5 vor 12: Die FFH-Nachrichten</title>
-                <description>Die aktuellen FFH-Nachrichten - 24 Stunden News, Wetter, Verkehr und das Aktuellste aus Ihrer Region von unseren Hessen-Reportern - nonstop und stündlich.
-Feed: https://resource.ffh.de/podcasts/ffh/news.rss</description>
+                <title>Radical FM - Goodbye!</title>
+                <description>&lt;p&gt;Ein allerletztes Mal begrüßen euch Joni und Jenny im Studio zur Abschlussfolge von Radical FM!&lt;br /&gt;&lt;br /&gt;Ein Herzensprojekt findet sein Ende, aber das ist kein Grund zum Traurigsein! Kreative Energie geht niemals verloren, sie ändert lediglich ihre Form! Und so werdet ihr sicher auch in Zukunft Kulturelles und Kreatives von uns hören...
+Feed: https://rdl.de/podcast</description>
                 
                 
-                <link>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://resource.ffh.de/news/archive/news-20260928-12-0.mp3"/>
-                <guid>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</guid>
+                <link>https://rdl.de/beitrag/radical-fm-goodbye</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/10/20261003-radicalfmgoo-a27082.mp3"/>
+                <guid>https://rdl.de/beitrag/radical-fm-goodbye</guid>
                 
             </item>
         </channel>
