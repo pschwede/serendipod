@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 04 Oct 2026 10:31:11 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 10 Oct 2026 10:32:08 +0200</lastBuildDate>
             <item>
-                <title>Ministro Poduje por Presupuesto 2027: &#34;Lo vamos a defender en el Congreso y estamos muy conformes como Vivienda&#34;</title>
-                <description>Sobre la partida del Minvu en el proyecto de Ley de Presupuestos 2027, el avance de la reconstrucción en zonas afectadas por emergencias y las nuevas medidas para las carreras de ciclistas en el Cerro San Cristóbal, el ministro de Vivienda y Urbanismo, Iván Poduje, conversó este viernes con Iván Valenzuela en Mesa Central.
+                <title>Friedensnobelpreis für Juristin Navanethem &#34;Navi&#34; Pillay</title>
+                <description>Die südafrikanische Juristin Navanethem Pillay erhält den Friedensnobelpreis 2026. Die 85-Jährige wird für ihren mutigen Einsatz für das Völkerrecht und gegen Kriegsverbrechen und Genozid gewürdigt. Die Entscheidung sorgte bei der UN für Freude. Sinram, Jana www.deutschlandfunk.de, Informationen am Mittag 
+Feed: https://www.deutschlandfunk.de/informationen-am-mittag-102.xml</description>
+                
+                
+                <link>https://www.deutschlandfunk.de/oslo-friedensnobelpreis-fuer-juristin-navanethem-navi-pillay-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/10/09/oslo_friedensnobelpreis_fuer_juristin_navanethem_navi_pillay_dlf_20261009_1325_5e604d70.mp3?refId=informationen-am-mittag-102"/>
+                <guid>https://www.deutschlandfunk.de/oslo-friedensnobelpreis-fuer-juristin-navanethem-navi-pillay-100.html</guid>
+                
+            </item><item>
+                <title>Máximo Pavez, subsecretario del Interior: &#34;Para el Gobierno, todas las regiones y comunas son igual de importantes; otra cosa es que, obviamente por razones geográficas, hay respuestas que son más rápidas que otras&#34;</title>
+                <description>Sobre el fuerte aluvión en el sector de San Carlos de Apoquindo y los posteriores trabajos de remoción de escombros, Ramón Ulloa conversó con Máximo Pavez, subsecretario del Interior, en una nueva edición de Mesa Central. 
+
 Feed: https://mdstrm.com/feeds/13-radios/entrevista-de-mesa-central</description>
                 
                 
-                <link>https://mdstrm.com/audio/6abf91c7bbbb95477a35efea.mp3</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mdstrm.com/audio/6abf91c7bbbb95477a35efea.mp3"/>
-                <guid>https://mdstrm.com/audio/6abf91c7bbbb95477a35efea.mp3</guid>
-                
-            </item><item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/video-podcast/webxl/tagesschau-in-100-sekunden/</description>
-                
-                
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660044.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/1004/TV-20261004-0934-2900.webxl.h264.mp4"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660044.html</guid>
+                <link>https://mdstrm.com/audio/6ac8ce11f3180cf2bb016e8c.mp3</link>
+                <enclosure type="audio/mpeg" length="1" url="https://mdstrm.com/audio/6ac8ce11f3180cf2bb016e8c.mp3"/>
+                <guid>https://mdstrm.com/audio/6ac8ce11f3180cf2bb016e8c.mp3</guid>
                 
             </item>
         </channel>

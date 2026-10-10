@@ -9,26 +9,30 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sun, 04 Oct 2026 10:30:48 +0200</lastBuildDate>
+            <lastBuildDate>Sat, 10 Oct 2026 10:31:40 +0200</lastBuildDate>
             <item>
-                <title>5am ET, October 04 | The latest headlines from NPR</title>
-                <description>The latest headlines from NPR at the top of this hour. &lt;br/&gt;&lt;br/&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at npr.org/ethics. &lt;br/&gt;&lt;br/&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.&lt;br/&gt;&lt;br/&gt;See pcm.adswizz...
-Feed: https://feeds.npr.org/500005/podcast.xml</description>
+                <title>Die Arabella Nachrichten vom Samstag, 10.10.2026 um 12:07 Uhr</title>
+                <description>Die aktuellen Nachrichten zum Nachhören
+Feed: https://www.radioarabella.de/podcast-feed/news-zum-nachhoeren/</description>
+                
+                
+                <link>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-samstag-10-10-2026-um-1207-uhr/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://arabella-muenchen.s3.app.welocal.cloud/sources/3481173_t2bfk3badxcno_3ptn3qg08d5fd.mp3"/>
+                <guid>https://www.radioarabella.de/mediathek/audio/die-arabella-nachrichten-vom-samstag-10-10-2026-um-1207-uhr/</guid>
+                
+            </item><item>
+                <title>[FORMAT POCHE] Johnny Cash et June Carter Cash : une adoration professionnelle</title>
+                <description>Johnny Cash et June Carter Cash ont passé 40 ans de leur vie côte à côte.
+Leur collaboration musicale fut une évidence dès les premiers instants. Leur couple fût plus difficile à établir. June et Johnny ont du combattre des vieux démons et surmonter des obstacles de taille pour pouvoir enfin vivre ensemble sereinement.
+Un podcast Bababam Originals
+Ecriture et voix : Alice Deroide
+Learn more about your ad choices. Visit megaphone.fm/adchoices
+Feed: https://feeds.megaphone.fm/BABA7112846821</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/1eb7c6f0-ae23-417b-b269-e72116447cca/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=1eb7c6f0-ae23-417b-b269-e72116447cca&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261004-0500-long&amp;p=500005&amp;d=280&amp;size=4586728"/>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA5360736334.mp3"/>
                 <guid></guid>
-                
-            </item><item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/video-podcast/webxl/tagesschau-in-100-sekunden/</description>
-                
-                
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660044.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/1004/TV-20261004-0934-2900.webxl.h264.mp4"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660044.html</guid>
                 
             </item>
         </channel>
