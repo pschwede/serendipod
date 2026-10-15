@@ -9,27 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 10 Oct 2026 10:32:00 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Oct 2026 09:03:08 +0200</lastBuildDate>
             <item>
-                <title>Control Resonant im Test: So vertraut und doch ganz anders</title>
-                <description>Mit Anne &amp; Basti
-Feed: https://feeds.acast.com/public/shows/696121421f21449d6de761ed</description>
+                <title>Friday the 13th VI: Jason Lives (1986)</title>
+                <description>On this week’s episode, the 2026 Halloween Spooktacular is just getting warmed up as we break down one of our all-time slasher faves, Friday the 13th Part VI: Jason Lives! 
+Feed: https://audioboom.com/channels/5105802.rss</description>
                 
                 
-                <link>https://shows.acast.com/insertmoin/episodes/6ac63a298f90a39dfc646147</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/696121421f21449d6de761ed/e/6ac63a298f90a39dfc646147/media.mp3"/>
-                <guid>https://shows.acast.com/insertmoin/episodes/6ac63a298f90a39dfc646147</guid>
+                <link>https://audioboom.com/posts/8962320</link>
+                <enclosure type="audio/mpeg" length="1" url="https://clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8962320.mp3?modified=1791490182&amp;sid=5105802&amp;source=rss"/>
+                <guid>https://audioboom.com/posts/8962320</guid>
                 
             </item><item>
-                <title>RUSKA DŻUMA I POLSCY ZADŻUMIENI, czyli Krzyżaniak: Głos Szczerej Słowiańskiej Szydery (1568)</title>
-                <description>&lt;p&gt;Jeżeli możesz wesprzeć #GłosSzczerejSłowiańskiejSzydery i dorzucić się do mojej pensji wpływając na rozwój kanału i całego projektu, to linki niżej:#Patronite: https://patronite.pl/KrzyzaniakPayPal: https://www.paypal.me/szyderaKONTO: 62 1020 1068 0000 1602 0365 8473PLUS takie dodatki:KANAŁ YT: https://youtube.com/wizjatelePODCASTY: https://open.spotify.com/show/3DsMP0LVqf3nNipTRmoM0Ewojtkokrzyzaniak@gmail.com&lt;/p&gt;
-
-Feed: https://anchor.fm/s/d244390/podcast/rss</description>
+                <title>NDR 1 Radio MV Nachrichten</title>
+                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
+Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
                 
                 
-                <link>https://podcasters.spotify.com/pod/show/wizjatele/episodes/RUSKA-DUMA-I-POLSCY-ZADUMIENI--czyli-Krzyaniak-Gos-Szczerej-Sowiaskiej-Szydery-1568-e3q67sk</link>
-                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/d244390/podcast/play/127130964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-8%2F5b2d2c47-383d-9b1a-3733-9dadb5c2ab7b.mp3"/>
-                <guid>https://podcasters.spotify.com/pod/show/wizjatele/episodes/RUSKA-DUMA-I-POLSCY-ZADUMIENI--czyli-Krzyaniak-Gos-Szczerej-Sowiaskiej-Szydery-1568-e3q67sk</guid>
+                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3537566.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1015/AU-20261015-1003-5600.mp3"/>
+                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3537566.html</guid>
                 
             </item>
         </channel>

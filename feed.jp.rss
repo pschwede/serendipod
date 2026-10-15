@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 10 Oct 2026 10:32:14 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Oct 2026 09:03:15 +0200</lastBuildDate>
             <item>
-                <title>Un débat éternel cette semaine dans le SMS : Messi a-t-il dépassé Maradona ?</title>
-                <description>
-Feed: https://feeds.simplecast.com/8bxI9MLf</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/3bbc7de9-8681-454b-8c24-c9a8f063db0d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=3bbc7de9-8681-454b-8c24-c9a8f063db0d&amp;category=Sports%2CNews&amp;episode_published_at=2026-10-10T06%3A00%3A00&amp;episode_title=Un+d%C3%A9bat+%C3%A9ternel+cette+semaine+dans+le+SMS%C2%A0%3A+Messi+a-t-il+d%C3%A9pass%C3%A9+Maradona+%3F&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
-                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3536122.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1014/AU-20261014-1505-5500.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3536122.html</guid>
                 
             </item><item>
-                <title>Die Nachrichten vom 10.10.2026, 12:00 Uhr</title>
-                <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten 
-Feed: https://www.deutschlandfunk.de/nachrichten-108.xml</description>
+                <title>قسمت چهار هزار و صد و هشتاد و دو</title>
+                <description>تازیخ بدون سانسور
+Feed: https://feeds.acast.com/public/shows/652fdf0e124b9d0012c3879f</description>
                 
                 
-                <link>https://www.deutschlandfunk.de/nachrichten-43508.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/10/10/nachrichten_dlf_20261010_1200_8d4157a4.mp3?refId=nachrichten-108"/>
-                <guid>https://www.deutschlandfunk.de/nachrichten-43508.html</guid>
+                <link>https://shows.acast.com/tarikh-tmdn-1/episodes/6ace96447c5c47f85ec8377b</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/652fdf0e124b9d0012c3879f/e/6ace96447c5c47f85ec8377b/media.mp3"/>
+                <guid>https://shows.acast.com/tarikh-tmdn-1/episodes/6ace96447c5c47f85ec8377b</guid>
                 
             </item>
         </channel>

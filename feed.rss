@@ -9,30 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Sat, 10 Oct 2026 10:31:31 +0200</lastBuildDate>
+            <lastBuildDate>Thu, 15 Oct 2026 09:02:55 +0200</lastBuildDate>
             <item>
-                <title>Un débat éternel cette semaine dans le SMS : Messi a-t-il dépassé Maradona ?</title>
-                <description>
-Feed: https://feeds.simplecast.com/8bxI9MLf</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://altice.simplecastaudio.com/e849ce63-f687-4759-9db5-bb6bcf4f19c8/episodes/3bbc7de9-8681-454b-8c24-c9a8f063db0d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e849ce63-f687-4759-9db5-bb6bcf4f19c8&amp;awEpisodeId=3bbc7de9-8681-454b-8c24-c9a8f063db0d&amp;category=Sports%2CNews&amp;episode_published_at=2026-10-10T06%3A00%3A00&amp;episode_title=Un+d%C3%A9bat+%C3%A9ternel+cette+semaine+dans+le+SMS%C2%A0%3A+Messi+a-t-il+d%C3%A9pass%C3%A9+Maradona+%3F&amp;feed=8bxI9MLf&amp;network=&amp;podcast_title=Super+Moscato+Show"/>
-                <guid>https://rmc.bfmtv.com/mediaplayer/podcast/moscato-show/</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3536122.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1014/AU-20261014-1505-5500.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3536122.html</guid>
                 
             </item><item>
-                <title>[FORMAT POCHE] Johnny Cash et June Carter Cash : une adoration professionnelle</title>
-                <description>Johnny Cash et June Carter Cash ont passé 40 ans de leur vie côte à côte.
-Leur collaboration musicale fut une évidence dès les premiers instants. Leur couple fût plus difficile à établir. June et Johnny ont du combattre des vieux démons et surmonter des obstacles de taille pour pouvoir enfin vivre ensemble sereinement.
-Un podcast Bababam Originals
-Ecriture et voix : Alice Deroide
-Learn more about your ad choices. Visit megaphone.fm/adchoices
-Feed: https://feeds.megaphone.fm/BABA7112846821</description>
+                <title>Social-Media-Verbot unter 13: Kabinett beschließt Eckpunkte</title>
+                <description> Ameln, Leonard www.deutschlandfunk.de, Kultur und Wissenschaft 
+Feed: https://www.deutschlandfunk.de/informationen-am-morgen-102.xml</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://traffic.megaphone.fm/BABA5360736334.mp3"/>
-                <guid></guid>
+                <link>https://www.deutschlandfunk.de/social-media-verbot-unter-13-kabinett-beschliesst-eckpunkte-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/10/15/social_media_verbot_unter_13_kabinett_beschliesst_eckpunkte_dlf_20261015_0838_805f88db.mp3?refId=informationen-am-morgen-102"/>
+                <guid>https://www.deutschlandfunk.de/social-media-verbot-unter-13-kabinett-beschliesst-eckpunkte-100.html</guid>
                 
             </item>
         </channel>
