@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 15 Oct 2026 09:03:08 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 16 Oct 2026 08:55:54 +0200</lastBuildDate>
             <item>
-                <title>Friday the 13th VI: Jason Lives (1986)</title>
-                <description>On this week’s episode, the 2026 Halloween Spooktacular is just getting warmed up as we break down one of our all-time slasher faves, Friday the 13th Part VI: Jason Lives! 
-Feed: https://audioboom.com/channels/5105802.rss</description>
+                <title>NDR 90,3 Aktuell</title>
+                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
+Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
                 
                 
-                <link>https://audioboom.com/posts/8962320</link>
-                <enclosure type="audio/mpeg" length="1" url="https://clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8962320.mp3?modified=1791490182&amp;sid=5105802&amp;source=rss"/>
-                <guid>https://audioboom.com/posts/8962320</guid>
+                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3536122.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1014/AU-20261014-1505-5500.mp3"/>
+                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3536122.html</guid>
                 
             </item><item>
-                <title>NDR 1 Radio MV Nachrichten</title>
-                <description>Nachrichten und Informationen aus Mecklenburg-Vorpommern, Deutschland und der Welt von NDR 1 Radio MV.
-Feed: https://www.ndr.de/podcast/podcast4426.xml</description>
+                <title>Coming up Saturday on Around the House Show!</title>
+                <description>&lt;p&gt;AI is changing construction and remodeling in America — and right up front we dig into how machine smarts are speeding up the slowest part of every project: design and estimation. We promise, there won’t be a robot under your sink installing plumbing tomorrow, but these tools get homeowners real, region-priced numbers fast, keep contractors honest, and shave off a ton of admin so builders can stop living in spreadsheets...
+Feed: https://feeds.captivate.fm/around-the-house-with-e/</description>
                 
                 
-                <link>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3537566.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1015/AU-20261015-1003-5600.mp3"/>
-                <guid>https://www.ndr.de/radiomv/ndr-1-radio-mv-nachrichten,audio-3537566.html</guid>
+                <link>https://aroundthehouseonline.com/media/coming-up-saturday-on-around-the-house-show</link>
+                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/ed8cd267-113d-4085-99fb-a76edb5dd5c0.mp3"/>
+                <guid>https://aroundthehouseonline.com/media/coming-up-saturday-on-around-the-house-show</guid>
                 
             </item>
         </channel>

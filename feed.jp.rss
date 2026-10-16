@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 15 Oct 2026 09:03:15 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 16 Oct 2026 08:56:08 +0200</lastBuildDate>
             <item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>TRUMP I PUTIN, PARTNERSKI ZWIĄZEK GŁUPOTY I PODŁOŚCI: Głos Szczerej Słowiańskiej Szydery (1570)</title>
+                <description>&lt;p&gt;Jeżeli możesz wesprzeć #GłosSzczerejSłowiańskiejSzydery i dorzucić się do mojej pensji wpływając na rozwój kanału i całego projektu, to linki niżej:#Patronite: https://patronite.pl/KrzyzaniakPayPal: https://www.paypal.me/szyderaKONTO: 62 1020 1068 0000 1602 0365 8473PLUS takie dodatki:KANAŁ YT: https://youtube.com/wizjatelePODCASTY: https://open.spotify.com/show/3DsMP0LVqf3nNipTRmoM0Ewojtkokrzyzaniak@gmail.com&lt;/p&gt;
+
+Feed: https://anchor.fm/s/d244390/podcast/rss</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3536122.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1014/AU-20261014-1505-5500.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3536122.html</guid>
+                <link>https://podcasters.spotify.com/pod/show/wizjatele/episodes/TRUMP-I-PUTIN--PARTNERSKI-ZWIZEK-GUPOTY-I-PODOCI-Gos-Szczerej-Sowiaskiej-Szydery-1570-e3qckaq</link>
+                <enclosure type="audio/mpeg" length="1" url="https://anchor.fm/s/d244390/podcast/play/127340314/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2Fb0e602b4-8c16-7cf4-6a36-46a89ef5b029.mp3"/>
+                <guid>https://podcasters.spotify.com/pod/show/wizjatele/episodes/TRUMP-I-PUTIN--PARTNERSKI-ZWIZEK-GUPOTY-I-PODOCI-Gos-Szczerej-Sowiaskiej-Szydery-1570-e3qckaq</guid>
                 
             </item><item>
-                <title>قسمت چهار هزار و صد و هشتاد و دو</title>
-                <description>تازیخ بدون سانسور
-Feed: https://feeds.acast.com/public/shows/652fdf0e124b9d0012c3879f</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://shows.acast.com/tarikh-tmdn-1/episodes/6ace96447c5c47f85ec8377b</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/652fdf0e124b9d0012c3879f/e/6ace96447c5c47f85ec8377b/media.mp3"/>
-                <guid>https://shows.acast.com/tarikh-tmdn-1/episodes/6ace96447c5c47f85ec8377b</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3539782.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1016/AU-20261016-0933-5400.mp3"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3539782.html</guid>
                 
             </item>
         </channel>

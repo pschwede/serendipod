@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Thu, 15 Oct 2026 09:03:01 +0200</lastBuildDate>
+            <lastBuildDate>Fri, 16 Oct 2026 08:55:41 +0200</lastBuildDate>
             <item>
-                <title>قسمت چهار هزار و صد و هشتاد و دو</title>
-                <description>تازیخ بدون سانسور
-Feed: https://feeds.acast.com/public/shows/652fdf0e124b9d0012c3879f</description>
+                <title>16/10/2026 08:01 GMT</title>
+                <description>The latest five minute news bulletin from BBC World Service.
+Feed: https://podcast.voice.api.bbci.co.uk/rss/audio/p002vsmz?api_key=Wbek5zSqxz0Hk1blo5IBqbd9SCWIfNbT</description>
                 
                 
-                <link>https://shows.acast.com/tarikh-tmdn-1/episodes/6ace96447c5c47f85ec8377b</link>
-                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/652fdf0e124b9d0012c3879f/e/6ace96447c5c47f85ec8377b/media.mp3"/>
-                <guid>https://shows.acast.com/tarikh-tmdn-1/episodes/6ace96447c5c47f85ec8377b</guid>
+                <link>http://www.bbc.co.uk/programmes/w1730nkw31jqzlh</link>
+                <enclosure type="audio/mpeg" length="1" url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/w1msm0v8w5vq003.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/w1730nkw31jqzlh</guid>
                 
             </item><item>
-                <title>Italy-based Tellkujira on La lucha es un poema colectivo (2026), Avant-Garde Jazz &amp; Band History</title>
-                <description>Welcome to a new edition of the Neon Jazz interview series featuring Tellkujira, the Italian avant-garde collective bringing together violist Ambra, guitarists Francesco and Stefano, and cellist Francesco. We dive into their 2026 album, La lucha es un poema colectivo, explore how the quartet came together, discuss why their creative chemistry works, and discover the ideas and musical instincts behind their distinctive sound.
-Feed: https://feeds.simplecast.com/MDh7DCZq</description>
+                <title>4am ET, October 16 | The latest headlines from NPR</title>
+                <description>The latest headlines from NPR at the top of this hour. &lt;br/&gt;&lt;br/&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at npr.org/ethics. &lt;br/&gt;&lt;br/&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.&lt;br/&gt;&lt;br/&gt;See pcm.adswizz...
+Feed: https://feeds.npr.org/500005/podcast.xml</description>
                 
                 
-                <link>https://theneonjazz.blogspot.com/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://injector.simplecastaudio.com/c22ee816-6d02-4806-ad72-918499fcf2fa/episodes/6ba4b758-8f1d-435b-8c79-481e786e7f45/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=c22ee816-6d02-4806-ad72-918499fcf2fa&amp;awEpisodeId=6ba4b758-8f1d-435b-8c79-481e786e7f45&amp;feed=MDh7DCZq"/>
-                <guid>https://theneonjazz.blogspot.com/</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/44612c80-7da6-47a2-b419-cb5cd3064b11/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=44612c80-7da6-47a2-b419-cb5cd3064b11&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261016-0400-long&amp;p=500005&amp;d=280&amp;size=4586728"/>
+                <guid></guid>
                 
             </item>
         </channel>
