@@ -9,26 +9,28 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 16 Oct 2026 08:55:46 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 19 Oct 2026 09:47:08 +0200</lastBuildDate>
             <item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
+                <title>Cyber Resilience at Machine Speed: Author John Kindervag and contributor Dr. Chase Cunningham. [Special Edition]</title>
+                <description>On this special edition podcast, Dave Bittner is joined by John Kindervag and Dr Chase Cunningham to discuss the principles of zero trust, cyber resilience, and how AI is transforming cybersecurity strategies. They explore practical frameworks, misconceptions, and the future of security in a machine-speed world.
+John is the author of &#34;Cyber Resilience at Machine Speed: The Zero Trust Model for the AI Era﻿,&#34; and Chase is one of the book&#39;s contributors. 
+Learn more about your ad choices...
+Feed: https://feeds.megaphone.fm/cyberwire-daily-podcast</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3539894.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1016/AU-20261016-1005-1900.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3539894.html</guid>
+                <link>https://thecyberwire.com/podcasts/special-edition/109/notes</link>
+                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW1828996197.mp3"/>
+                <guid>https://thecyberwire.com/podcasts/special-edition/109/notes</guid>
                 
             </item><item>
-                <title>Coming up Saturday on Around the House Show!</title>
-                <description>&lt;p&gt;AI is changing construction and remodeling in America — and right up front we dig into how machine smarts are speeding up the slowest part of every project: design and estimation. We promise, there won’t be a robot under your sink installing plumbing tomorrow, but these tools get homeowners real, region-priced numbers fast, keep contractors honest, and shave off a ton of admin so builders can stop living in spreadsheets...
-Feed: https://feeds.captivate.fm/around-the-house-with-e/</description>
+                <title>PACKERS SQUAD SHOW: Jordan Love &amp; Defense DOMINATE Cowboys | 3rd-Straight Win</title>
+                <description>The Green Bay Packers have won three straight after taking down Dak Prescott and the Dallas Cowboys 23-13 on Sunday Night Football.
+Feed: https://feeds.simplecast.com/FkBDUQLt</description>
                 
                 
-                <link>https://aroundthehouseonline.com/media/coming-up-saturday-on-around-the-house-show</link>
-                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/ed8cd267-113d-4085-99fb-a76edb5dd5c0.mp3"/>
-                <guid>https://aroundthehouseonline.com/media/coming-up-saturday-on-around-the-house-show</guid>
+                <link>https://lockedonpodcasts.com/podcasts/locked-on-packers/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pdrl.fm/5b095f/lockedon.simplecastaudio.com/fffb8e40-f0de-47f1-97e3-cf2e2fd0ffe9/episodes/58bc1e2c-8986-4e54-ad40-8650223f8730/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fffb8e40-f0de-47f1-97e3-cf2e2fd0ffe9&amp;awEpisodeId=58bc1e2c-8986-4e54-ad40-8650223f8730&amp;feed=FkBDUQLt"/>
+                <guid>https://lockedonpodcasts.com/podcasts/locked-on-packers/</guid>
                 
             </item>
         </channel>

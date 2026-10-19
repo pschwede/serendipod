@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 16 Oct 2026 08:55:34 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 19 Oct 2026 09:46:56 +0200</lastBuildDate>
             <item>
-                <title>Ukrainians Living In Clare Told State Accommodation Could Expire By November</title>
-                <description>A drastic reduction is expected to the number of …
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
+                <title>ECR Newswatch @ 11H01</title>
+                <description>Here’s your latest ECR Newswatch bulletin from the team at East Coast Radio.
+Feed: https://iono.fm/rss/chan/1928</description>
                 
                 
-                <link>https://soundcloud.com/clarefm/ukrainians-living-in-clare</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2420177373-clarefm-ukrainians-living-in-clare.mp3"/>
-                <guid>https://soundcloud.com/clarefm/ukrainians-living-in-clare</guid>
+                <link>https://iono.fm/e/1730079</link>
+                <enclosure type="audio/mpeg" length="1" url="https://edge-ionoaod.sharp-stream.com/151/1928/1730079.mp3?awCollectionId=1928&amp;awEpisodeId=1730079&amp;p=rss"/>
+                <guid>https://iono.fm/e/1730079</guid>
                 
             </item><item>
-                <title>Informativo Ávila 08:45 16/10/2026</title>
-                <description>Informativo Ávila 08:45 16/10/2026
-Feed: http://api.rtve.es/api/programas/35992/audios.rss</description>
+                <title>NDR Info Nachrichten</title>
+                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
+Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
                 
                 
-                <link>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-avila-08-45-16-10-2026/17269330/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ztnr.rtve.es/ztnr/17269330.mp3"/>
-                <guid>https://www.rtve.es/play/audios/castilla-y-leon-informativos/informativo-avila-08-45-16-10-2026/17269330/</guid>
+                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3544744.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1019/AU-20261019-1106-1600.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3544744.html</guid>
                 
             </item>
         </channel>

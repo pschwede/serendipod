@@ -9,26 +9,31 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 16 Oct 2026 08:55:54 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 19 Oct 2026 09:48:05 +0200</lastBuildDate>
             <item>
-                <title>NDR 90,3 Aktuell</title>
-                <description>Aktuelle Ereignisse, umfassende Informationen: Im Nachrichten-Podcast von NDR 90,3 hören Sie das Neueste aus Hamburg und der Welt.
-Feed: https://www.ndr.de/podcast/podcast4346.xml</description>
+                <title>Lyssningstips: Vem vill kyrkoherden illa?
+      </title>
+                <description>I ett och ett halvt år lever kyrkoherden Cathrine med dödshot och personskydd.
+Men vem ligger bakom hoten? Och varför riktas de mot just henne?
+I dokumentären ”Vem vill kyrkoherden illa?” får varje detalj två helt olika förklaringar.
+I tre delar så f...
+      
+Feed: https://podcast.stream.schibsted.media/svd/267316199?podcast</description>
                 
                 
-                <link>https://www.ndr.de/903/ndr-903-aktuell,audio-3536122.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1014/AU-20261014-1505-5500.mp3"/>
-                <guid>https://www.ndr.de/903/ndr-903-aktuell,audio-3536122.html</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://flex2.acast.com/s/svds-nyhetspodd/u/dd-ab.akamaized.net/svd/vod/2026/10/6n9hvglsc9honkcs6q8dq/podcast_128.mp3"/>
+                <guid></guid>
                 
             </item><item>
-                <title>Coming up Saturday on Around the House Show!</title>
-                <description>&lt;p&gt;AI is changing construction and remodeling in America — and right up front we dig into how machine smarts are speeding up the slowest part of every project: design and estimation. We promise, there won’t be a robot under your sink installing plumbing tomorrow, but these tools get homeowners real, region-priced numbers fast, keep contractors honest, and shave off a ton of admin so builders can stop living in spreadsheets...
-Feed: https://feeds.captivate.fm/around-the-house-with-e/</description>
+                <title>4am ET, October 19 | The latest headlines from NPR</title>
+                <description>The latest headlines from NPR at the top of this hour. &lt;br/&gt;&lt;br/&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at npr.org/ethics. &lt;br/&gt;&lt;br/&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.&lt;br/&gt;&lt;br/&gt;See pcm.adswizz...
+Feed: https://feeds.npr.org/500005/podcast.xml</description>
                 
                 
-                <link>https://aroundthehouseonline.com/media/coming-up-saturday-on-around-the-house-show</link>
-                <enclosure type="audio/mpeg" length="1" url="https://episodes.captivate.fm/episode/ed8cd267-113d-4085-99fb-a76edb5dd5c0.mp3"/>
-                <guid>https://aroundthehouseonline.com/media/coming-up-saturday-on-around-the-house-show</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ac061cdc-4c7d-4769-928f-9ccc9a0e791f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ac061cdc-4c7d-4769-928f-9ccc9a0e791f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261019-0400-long&amp;p=500005&amp;d=280&amp;size=4586728"/>
+                <guid></guid>
                 
             </item>
         </channel>

@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Fri, 16 Oct 2026 08:55:28 +0200</lastBuildDate>
+            <lastBuildDate>Mon, 19 Oct 2026 09:46:46 +0200</lastBuildDate>
             <item>
-                <title>DEBRA LANDWEHR ENGLE Aut. Oct 2026 &#39; The Writer&#39;s Miracle Method A Practical And Spiritual Guide To Writing With Freedom And Joy&#39; (online Audio Converter.com)</title>
-                <description>&lt;p&gt;Combining sage advice, wonderful encouragement, and inspirational content, Debra Landwehr Engle crafts a masterwork Life Resource for writers of all aspirations. Built on a foundation of guidance and love, this resource will benefit everyone who desires to discover the joys that await them through t....&lt;/p&gt;&lt;p&gt;This item belongs to: audio/podcasts_miscellaneous.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
-Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/video-podcast/webxl/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link>https://archive.org/details/debra-landwehr-engle-aut.-oct-2026-the-writers-miracle-method-a-practical-and-sp</link>
-                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/debra-landwehr-engle-aut.-oct-2026-the-writers-miracle-method-a-practical-and-sp/format=VBR+MP3&amp;ignore=x.mp3"/>
-                <guid>https://archive.org/details/debra-landwehr-engle-aut.-oct-2026-the-writers-miracle-method-a-practical-and-sp</guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1668712.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/1019/TV-20261019-0949-4600.webxl.h264.mp4"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1668712.html</guid>
                 
             </item><item>
-                <title>5 vor 10: Die FFH-Nachrichten</title>
-                <description>Die aktuellen FFH-Nachrichten - 24 Stunden News, Wetter, Verkehr und das Aktuellste aus Ihrer Region von unseren Hessen-Reportern - nonstop und stündlich.
-Feed: https://resource.ffh.de/podcasts/ffh/news.rss</description>
+                <title>19/10/2026 09:01 GMT</title>
+                <description>The latest five minute news bulletin from BBC World Service.
+Feed: https://podcast.voice.api.bbci.co.uk/rss/audio/p002vsmz?api_key=Wbek5zSqxz0Hk1blo5IBqbd9SCWIfNbT</description>
                 
                 
-                <link>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://resource.ffh.de/news/archive/news-20261016-10-0.mp3"/>
-                <guid>https://www.ffh.de/podcast/283477-die-ffh-nachrichten.html</guid>
+                <link>http://www.bbc.co.uk/programmes/w1730nkwg9v4nb2</link>
+                <enclosure type="audio/mpeg" length="1" url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/w1msm0v97g53nqp.mp3"/>
+                <guid>http://www.bbc.co.uk/programmes/w1730nkwg9v4nb2</guid>
                 
             </item>
         </channel>
