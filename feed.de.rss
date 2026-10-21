@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 19 Oct 2026 09:46:56 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 Oct 2026 09:16:03 +0200</lastBuildDate>
             <item>
-                <title>ECR Newswatch @ 11H01</title>
-                <description>Here’s your latest ECR Newswatch bulletin from the team at East Coast Radio.
-Feed: https://iono.fm/rss/chan/1928</description>
+                <title>Donaueschinger Musiktage 2026</title>
+                <description>&lt;p&gt;Vier neu komponierte Stücke zeitgenössischer klassischer Musik wurden am vergangenen Sonntag zum &#34;Polyphonies&#34; Abschlusskonzert des für die größenmäßig kleiner dimensionierten donaueschinger Verhältnisse umfangreichen Donaueschinger Musikfestivals uraufgeführt.&lt;/p&gt;
+&lt;p&gt;Meike und Dave Jay haben die Donaueschinger Musiktage für Radio Dreyeckland dokumentiert...
+Feed: https://rdl.de/podcast</description>
                 
                 
-                <link>https://iono.fm/e/1730079</link>
-                <enclosure type="audio/mpeg" length="1" url="https://edge-ionoaod.sharp-stream.com/151/1928/1730079.mp3?awCollectionId=1928&amp;awEpisodeId=1730079&amp;p=rss"/>
-                <guid>https://iono.fm/e/1730079</guid>
+                <link>https://rdl.de/beitrag/donaueschinger-musiktage-2026</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/10/20261021-donauesching-w39833.mp3"/>
+                <guid>https://rdl.de/beitrag/donaueschinger-musiktage-2026</guid>
                 
             </item><item>
-                <title>NDR Info Nachrichten</title>
-                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
-Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
+                <title>Referendum in Alberta - Klare Mehrheit für Verbleib in Kanada</title>
+                <description> Ganslmeier, Martin www.deutschlandfunk.de, Informationen am Abend 
+Feed: https://www.deutschlandfunk.de/informationen-am-abend-110.xml</description>
                 
                 
-                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3544744.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1019/AU-20261019-1106-1600.mp3"/>
-                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3544744.html</guid>
+                <link>https://www.deutschlandfunk.de/referendum-in-alberta-klare-mehrheit-fuer-verbleib-in-kanada-100.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcast-mp3.dradio.de/podcast/2026/10/20/referendum_in_alberta_klare_mehrheit_fuer_verbleib_in_kanada_dlf_20261020_1838_f0c2e86e.mp3?refId=informationen-am-abend-110"/>
+                <guid>https://www.deutschlandfunk.de/referendum-in-alberta-klare-mehrheit-fuer-verbleib-in-kanada-100.html</guid>
                 
             </item>
         </channel>

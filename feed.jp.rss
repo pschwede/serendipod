@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 19 Oct 2026 09:48:16 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 Oct 2026 09:16:55 +0200</lastBuildDate>
             <item>
-                <title>Clare Made 4,247 Shoeboxes Last Year As Team Hope Encourages Communities To Get Involved Again This Christmas</title>
-                <description>Clare made an incredible 4,247 shoeboxes for Team…
-Feed: https://feeds.soundcloud.com/users/soundcloud:users:117210830/sounds.rss</description>
+                <title>2997 / Thunfisch-Geschmack</title>
+                <description>Wer nicht hören will muss spülen, kontaktarme Gewöhnungen bis Weihnachten und hungrig aber günstig eingekauft.
+Feed: https://bastard.uber.space/feed/mp3/</description>
                 
                 
-                <link>https://soundcloud.com/clarefm/clare-made-4-247-shoeboxes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://feeds.soundcloud.com/stream/2421756924-clarefm-clare-made-4-247-shoeboxes.mp3"/>
-                <guid>https://soundcloud.com/clarefm/clare-made-4-247-shoeboxes</guid>
+                <link>https://radiobastard.fm/2997-thunfisch-geschmack/</link>
+                <enclosure type="audio/mpeg" length="1" url="https://radiobastard.fm/podlove/file/3068/s/feed/c/mp3/2997.mp3"/>
+                <guid>https://radiobastard.fm/2997-thunfisch-geschmack/</guid>
                 
             </item><item>
-                <title>Nachrichten 10:00 Uhr - 19.10.2026</title>
-                <description>Alles, was für Schleswig-Holstein wichtig ist: Im Nachrichten-Podcast von NDR 1 Welle Nord hören Sie das Neueste aus Schleswig-Holstein, Deutschland und der Welt.
-Feed: https://www.ndr.de/wellenord/podcast4456.xml</description>
+                <title> Kula Shaker ‘Lucky Number’ </title>
+                <description>Today&#39;s Top Tune: Kula Shaker ‘Lucky Number’ 
+Feed: https://feeds.kcrw.com/podcast/show/tu</description>
                 
                 
-                <link>https://www.ndr.de/wellenord/nachrichten-1000-uhr-19102026,audio-3544590.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1019/AU-20261019-1006-4900.mp3"/>
-                <guid>https://www.ndr.de/wellenord/nachrichten-1000-uhr-19102026,audio-3544590.html</guid>
+                <link>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</link>
+                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kula-shaker-lucky-number/audio.mp3"/>
+                <guid>https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kula-shaker-lucky-number</guid>
                 
             </item>
         </channel>

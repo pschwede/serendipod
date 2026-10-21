@@ -9,26 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 19 Oct 2026 09:47:01 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 Oct 2026 09:16:12 +0200</lastBuildDate>
             <item>
-                <title>James Walker: Show on AI and the New Company</title>
-                <description>&lt;p&gt;James Walker is Chief Administrative Officer at DXC Technology, leading internal technology and operations globally. He has over 30 years across technology and financial services. He has previously served as a managing director at Credit Suisse Morgan Stanley and Bank of America and was VP Economics at IBM cloud&lt;/p&gt;
-Feed: https://consciousmillionaire.libsyn.com/rss</description>
+                <title>قسمت چهار هزار و صد و نود و یک</title>
+                <description>تاریخ بدون سانسور
+Feed: https://feeds.acast.com/public/shows/652fdf0e124b9d0012c3879f</description>
                 
                 
-                <link>https://consciousmillionaire.libsyn.com/3316-james-walker-show-on-ai-and-the-new-company</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mgln.ai/e/35/traffic.libsyn.com/secure/consciousmillionaire/WALKER-JAMES-3316.mp3?dest-id=218835"/>
-                <guid>https://consciousmillionaire.libsyn.com/3316-james-walker-show-on-ai-and-the-new-company</guid>
+                <link>https://shows.acast.com/tarikh-tmdn-1/episodes/6ad74b31c23d57531240c216</link>
+                <enclosure type="audio/mpeg" length="1" url="https://sphinx.acast.com/p/open/s/652fdf0e124b9d0012c3879f/e/6ad74b31c23d57531240c216/media.mp3"/>
+                <guid>https://shows.acast.com/tarikh-tmdn-1/episodes/6ad74b31c23d57531240c216</guid>
                 
             </item><item>
-                <title>19/10/2026 09:01 GMT</title>
-                <description>The latest five minute news bulletin from BBC World Service.
-Feed: https://podcast.voice.api.bbci.co.uk/rss/audio/p002vsmz?api_key=Wbek5zSqxz0Hk1blo5IBqbd9SCWIfNbT</description>
+                <title>NDR Info Nachrichten</title>
+                <description>Die aktuellen Meldungen aus der NDR Info Nachrichtenredaktion.
+Feed: https://www.ndr.de/nachrichten/info/podcast4450.xml</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/w1730nkwg9v4nb2</link>
-                <enclosure type="audio/mpeg" length="1" url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/w1msm0v97g53nqp.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w1730nkwg9v4nb2</guid>
+                <link>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3548962.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1021/AU-20261021-1005-5300.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/podcasts/ndr-info-nachrichten,audio-3548962.html</guid>
                 
             </item>
         </channel>

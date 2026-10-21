@@ -9,28 +9,26 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 19 Oct 2026 09:47:08 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 Oct 2026 09:16:20 +0200</lastBuildDate>
             <item>
-                <title>Cyber Resilience at Machine Speed: Author John Kindervag and contributor Dr. Chase Cunningham. [Special Edition]</title>
-                <description>On this special edition podcast, Dave Bittner is joined by John Kindervag and Dr Chase Cunningham to discuss the principles of zero trust, cyber resilience, and how AI is transforming cybersecurity strategies. They explore practical frameworks, misconceptions, and the future of security in a machine-speed world.
-John is the author of &#34;Cyber Resilience at Machine Speed: The Zero Trust Model for the AI Era﻿,&#34; and Chase is one of the book&#39;s contributors. 
-Learn more about your ad choices...
-Feed: https://feeds.megaphone.fm/cyberwire-daily-podcast</description>
+                <title>Verschlepptes Meeresschutzgesetz führt zu neuen Gasbohrungen</title>
+                <description>Bundes-Umweltminister Schneider wollte Gas- und Ölbohrungen in Meeresschutzgebieten verbieten.Das Bundeswirtschaftsministerium hat dagegen keine Einwände.
+Feed: https://www.ndr.de/nachrichten/info/podcast4318.xml</description>
                 
                 
-                <link>https://thecyberwire.com/podcasts/special-edition/109/notes</link>
-                <enclosure type="audio/mpeg" length="1" url="https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW1828996197.mp3"/>
-                <guid>https://thecyberwire.com/podcasts/special-edition/109/notes</guid>
+                <link>https://www.ndr.de/nachrichten/info/verschlepptes-meeresschutzgesetz-fuehrt-zu-neuen-gasbohrungen,audio-3548988.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://ndr-podcast.ard-mcdn.de/progressive/2026/1021/AU-20261021-1016-2400.mp3"/>
+                <guid>https://www.ndr.de/nachrichten/info/verschlepptes-meeresschutzgesetz-fuehrt-zu-neuen-gasbohrungen,audio-3548988.html</guid>
                 
             </item><item>
-                <title>PACKERS SQUAD SHOW: Jordan Love &amp; Defense DOMINATE Cowboys | 3rd-Straight Win</title>
-                <description>The Green Bay Packers have won three straight after taking down Dak Prescott and the Dallas Cowboys 23-13 on Sunday Night Football.
-Feed: https://feeds.simplecast.com/FkBDUQLt</description>
+                <title>Vericuetos 690</title>
+                <description>&lt;p&gt;Tobia Poltronieri - Luciano Cillio - Inara Quartet - Hans P. Kjorstad - ladr ache - Paredes &amp; Baracskai - Bill Orcutt - Kevin Coleman.&lt;/p&gt;&lt;p&gt;This item belongs to: audio/vericuetos_podcast.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;
+Feed: https://archive.org/services/collection-rss.php?collection=podcasts</description>
                 
                 
-                <link>https://lockedonpodcasts.com/podcasts/locked-on-packers/</link>
-                <enclosure type="audio/mpeg" length="1" url="https://dts.podtrac.com/redirect.mp3/pdrl.fm/5b095f/lockedon.simplecastaudio.com/fffb8e40-f0de-47f1-97e3-cf2e2fd0ffe9/episodes/58bc1e2c-8986-4e54-ad40-8650223f8730/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=fffb8e40-f0de-47f1-97e3-cf2e2fd0ffe9&amp;awEpisodeId=58bc1e2c-8986-4e54-ad40-8650223f8730&amp;feed=FkBDUQLt"/>
-                <guid>https://lockedonpodcasts.com/podcasts/locked-on-packers/</guid>
+                <link>https://archive.org/details/vericuetos201026</link>
+                <enclosure type="audio/mpeg" length="1" url="https://archive.org/download/vericuetos201026/format=VBR+MP3&amp;ignore=x.mp3"/>
+                <guid>https://archive.org/details/vericuetos201026</guid>
                 
             </item>
         </channel>

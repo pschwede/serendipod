@@ -9,30 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 19 Oct 2026 09:48:05 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 Oct 2026 09:16:43 +0200</lastBuildDate>
             <item>
-                <title>Lyssningstips: Vem vill kyrkoherden illa?
-      </title>
-                <description>I ett och ett halvt år lever kyrkoherden Cathrine med dödshot och personskydd.
-Men vem ligger bakom hoten? Och varför riktas de mot just henne?
-I dokumentären ”Vem vill kyrkoherden illa?” får varje detalj två helt olika förklaringar.
-I tre delar så f...
-      
-Feed: https://podcast.stream.schibsted.media/svd/267316199?podcast</description>
+                <title>tagesschau in 100 Sekunden</title>
+                <description>tagesschau in 100 Sekunden
+Feed: https://www.tagesschau.de/export/video-podcast/webl/tagesschau-in-100-sekunden/</description>
                 
                 
-                <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://flex2.acast.com/s/svds-nyhetspodd/u/dd-ab.akamaized.net/svd/vod/2026/10/6n9hvglsc9honkcs6q8dq/podcast_128.mp3"/>
-                <guid></guid>
+                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669918.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/1021/TV-20261021-1010-5600.webxl.h264.mp4"/>
+                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669918.html</guid>
                 
             </item><item>
-                <title>4am ET, October 19 | The latest headlines from NPR</title>
-                <description>The latest headlines from NPR at the top of this hour. &lt;br/&gt;&lt;br/&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at npr.org/ethics. &lt;br/&gt;&lt;br/&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.&lt;br/&gt;&lt;br/&gt;See pcm.adswizz...
-Feed: https://feeds.npr.org/500005/podcast.xml</description>
+                <title>#489 Norske aksjefond: Disse ville Hallgeir valgt
+      </title>
+                <description>Oslo Børs har steget over 20 prosent i år. Men betyr det at du bør satse mer av sparepengene dine på norske aksjefond? I denne episoden går Hallgeir gjennom hvilke Norge-fond han har mest tro på, og hvorfor aktivt forvaltede fond kan være et bedre va...
+      
+Feed: https://podcast.stream.schibsted.media/vgtv/100412?podcast</description>
                 
                 
                 <link></link>
-                <enclosure type="audio/mpeg" length="1" url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ac061cdc-4c7d-4769-928f-9ccc9a0e791f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ac061cdc-4c7d-4769-928f-9ccc9a0e791f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261019-0400-long&amp;p=500005&amp;d=280&amp;size=4586728"/>
+                <enclosure type="audio/mpeg" length="1" url="https://flex2.acast.com/s/pengeradet/u/dd-vgtv.akamaized.net/vgtv/vod/2026/10/igaj4lqeuwj315rqz5pij/podcast_128.mp3"/>
                 <guid></guid>
                 
             </item>

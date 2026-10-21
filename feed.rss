@@ -9,26 +9,34 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 19 Oct 2026 09:46:46 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 Oct 2026 09:15:57 +0200</lastBuildDate>
             <item>
-                <title>tagesschau in 100 Sekunden</title>
-                <description>tagesschau in 100 Sekunden
-Feed: https://www.tagesschau.de/export/video-podcast/webxl/tagesschau-in-100-sekunden/</description>
+                <title>MacVoices #26282: Live! - After Dark HomeView and Apple TV Analysis</title>
+                <description>&lt;p&gt;In a MacVoices After Dark supplemental, members of the panel continue their discussion of Apple&#39;s HomeView and Apple TV announcements. Pricing, functionality, and real-world value are debated as they examine HomeView&#39;s potential as a smart home controller, its limitations compared to an iPad, and possible future capabilities...
+Feed: https://maclevelten.libsyn.com/rss</description>
                 
                 
-                <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1668712.html</link>
-                <enclosure type="audio/mpeg" length="1" url="https://tagesschau-progressive.ard-mcdn.de/video/2026/1019/TV-20261019-0949-4600.webxl.h264.mp4"/>
-                <guid>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1668712.html</guid>
+                <link>https://maclevelten.libsyn.com/macvoices-26282-live-after-dark-homeview-and-apple-tv-analysis</link>
+                <enclosure type="audio/mpeg" length="1" url="https://traffic.libsyn.com/secure/maclevelten/MV26282.mp3?dest-id=51998"/>
+                <guid>https://maclevelten.libsyn.com/macvoices-26282-live-after-dark-homeview-and-apple-tv-analysis</guid>
                 
             </item><item>
-                <title>19/10/2026 09:01 GMT</title>
-                <description>The latest five minute news bulletin from BBC World Service.
-Feed: https://podcast.voice.api.bbci.co.uk/rss/audio/p002vsmz?api_key=Wbek5zSqxz0Hk1blo5IBqbd9SCWIfNbT</description>
+                <title>&#34;Lo que no se Agradece se Pierde&#34; | Homilía, Miércoles, XXIX Semana del T.O (21-10-2026) | P. Santiago Martín, FM</title>
+                <description>&#34;Lo que no se Agradece se Pierde&#34; | Homilía, Miércoles, XXIX Semana del T.O (21-10-2026) | P. Santiago Martín, FM
+  DIOS BENDIGA A TODA NUESTRA AUDIENCIA,
+POR SU COLABORACIÓN EN ESTE PROYECTO,
+Evangelizador no sería posible sin su colaboración, GRACIAS  
+Cuenta PayPal: paypal@magnificat.tv
+Canales de comunicación de Magnificat TV, proyecto evangelizador de los Franciscanos de María:
+Sitio web: http://magnificat.tv/
+Facebook: https://www.facebook.com/Magnificattv/
+YouTube: https://www.youtube...
+Feed: https://feeds.ivoox.com/feed_fg_f176682_filtro_1.xml</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/w1730nkwg9v4nb2</link>
-                <enclosure type="audio/mpeg" length="1" url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/w1msm0v97g53nqp.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w1730nkwg9v4nb2</guid>
+                <link>https://www.ivoox.com/lo-no-se-agradece-se-pierde-audios-mp3_rf_182515017_1.html</link>
+                <enclosure type="audio/mpeg" length="1" url="https://www.ivoox.com/lo-no-se-agradece-se-pierde_mf_182515017_feed_1.mp3"/>
+                <guid>https://www.ivoox.com/lo-no-se-agradece-se-pierde-audios-mp3_rf_182515017_1.html</guid>
                 
             </item>
         </channel>

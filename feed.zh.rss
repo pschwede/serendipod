@@ -9,26 +9,27 @@
             <language>de-de</language>
             <copyright></copyright>
             <generator>serendipod 0.0.3</generator>
-            <lastBuildDate>Mon, 19 Oct 2026 09:48:10 +0200</lastBuildDate>
+            <lastBuildDate>Wed, 21 Oct 2026 09:16:50 +0200</lastBuildDate>
             <item>
-                <title>James Walker: Show on AI and the New Company</title>
-                <description>&lt;p&gt;James Walker is Chief Administrative Officer at DXC Technology, leading internal technology and operations globally. He has over 30 years across technology and financial services. He has previously served as a managing director at Credit Suisse Morgan Stanley and Bank of America and was VP Economics at IBM cloud&lt;/p&gt;
-Feed: https://consciousmillionaire.libsyn.com/rss</description>
+                <title>Donaueschinger Musiktage 2026</title>
+                <description>&lt;p&gt;Vier neu komponierte Stücke zeitgenössischer klassischer Musik wurden am vergangenen Sonntag zum &#34;Polyphonies&#34; Abschlusskonzert des für die größenmäßig kleiner dimensionierten donaueschinger Verhältnisse umfangreichen Donaueschinger Musikfestivals uraufgeführt.&lt;/p&gt;
+&lt;p&gt;Meike und Dave Jay haben die Donaueschinger Musiktage für Radio Dreyeckland dokumentiert...
+Feed: https://rdl.de/podcast</description>
                 
                 
-                <link>https://consciousmillionaire.libsyn.com/3316-james-walker-show-on-ai-and-the-new-company</link>
-                <enclosure type="audio/mpeg" length="1" url="https://mgln.ai/e/35/traffic.libsyn.com/secure/consciousmillionaire/WALKER-JAMES-3316.mp3?dest-id=218835"/>
-                <guid>https://consciousmillionaire.libsyn.com/3316-james-walker-show-on-ai-and-the-new-company</guid>
+                <link>https://rdl.de/beitrag/donaueschinger-musiktage-2026</link>
+                <enclosure type="audio/mpeg" length="1" url="https://rdl.de/sites/default/files/audio/2026/10/20261021-donauesching-w39833.mp3"/>
+                <guid>https://rdl.de/beitrag/donaueschinger-musiktage-2026</guid>
                 
             </item><item>
-                <title>19/10/2026 09:01 GMT</title>
-                <description>The latest five minute news bulletin from BBC World Service.
-Feed: https://podcast.voice.api.bbci.co.uk/rss/audio/p002vsmz?api_key=Wbek5zSqxz0Hk1blo5IBqbd9SCWIfNbT</description>
+                <title>Bonne nouvelle, des coiffeurs offrent une à deux fois par mois des coupes gratuites aux personnes en difficulté.</title>
+                <description>Tous les matins, à 7H10 et 9H45, on vous donne les bonnes nouvelles du jour.
+Feed: https://aod.nrjaudio.fm/xml/130.xml</description>
                 
                 
-                <link>http://www.bbc.co.uk/programmes/w1730nkwg9v4nb2</link>
-                <enclosure type="audio/mpeg" length="1" url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/w1msm0v97g53nqp.mp3"/>
-                <guid>http://www.bbc.co.uk/programmes/w1730nkwg9v4nb2</guid>
+                <link></link>
+                <enclosure type="audio/mpeg" length="1" url="https://podcasts.nrjaudio.fm/podcasts/fr/1/130/a3badef5-e216-4450-acbd-39652a56bf90.mp3?awCollectionId=130&amp;awEpisodeId=1367155"/>
+                <guid></guid>
                 
             </item>
         </channel>
